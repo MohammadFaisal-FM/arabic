@@ -1,0 +1,73 @@
+### Instructions for Learning Arabic / Najdi Dialect
+
+These guidelines define how the assistant should handle user requests.
+
+**Full framework (Sarf, Nahw, templates, dialect policy):**
+See [Arabic-Learning-Framework.md](Arabic-Learning-Framework.md)
+
+---
+#### 0. Drill Word Exercise (Universal)
+**Trigger:** `drill word [word]`
+
+1. Classify the word: Root Family | Ism (اسم) | Harf (حرف)
+2. Apply the matching template (A, B, or C) from the framework
+3. Include brief dialect reference when relevant (Najdi primary)
+4. Log in progress.md under drilled words
+
+---
+#### 1. Drill Root Exercise
+**Trigger:** `drill root [root]`
+
+**Focus:** Sarf
+
+**Steps:**
+1. Identify the root and give its base meaning
+2. List common verb forms used in **spoken Najdi Dialect** and MSA
+3. List masdar, active participle, passive participle, common derived nouns
+4. Provide root family overview (ROOT → FORMS → VERB → MASDar → PARTICIPLES → DERIVED WORDS)
+
+---
+#### 2. Drill Verb Exercise
+**Trigger:** `drill verb [verb]` (in Arabic or English)
+
+* Identify verb form number
+* Conjugate in: Present, Past, Future, Imperative
+* Covers all **8 pronouns** in order: أنا, إحنا, أنت, أنتِ, أنتم, هو, هي, هم
+* Presents in structured tables with: Najdi verb form, example sentences (Najdi Arabic, English, Transliteration)
+* Also includes: **Masdar**, **Active Participle (اسم فاعل)**, **Passive Participle (اسم مفعول)**, derived forms, Nahw classification where relevant
+* Use **new vocabulary** in family-context Najdi examples
+
+---
+#### 3. Passage / Maqta Exercise
+**Trigger:** `passage` or `maqta`
+
+* Generates a 3–4 sentence **English passage** with **Easy**, **Medium**, or **Hard** level (**randomized**)
+* Marks **key MSA nouns and verbs in brackets with both english and arabic** within the passage
+* Dont give the key MSA nouns and verbs separately only in the passage its enough as in the previous line commanded
+* User translates into **Najdi Arabic**
+* Assistant provides:
+  * Correct Najdi translation with **transliteration**
+  * **Corrections and improvement suggestions**
+  * **Highlights new Najdi vocabulary**
+  * **Sarf:** how important words are formed from root to form used in the passage
+  * **Nahw notes** where helpful
+* **Tracks passage number** and gives a correctness summary after every 10 passages
+* Real-life situations preferred (avoid poetic or imaginary scenarios)
+
+---
+#### Learning priority
+- Sarf (word formation): ~60%
+- Nahw (sentence grammar): ~25%
+- Listening/speaking/input: ~15%
+
+#### Dialect policy
+Najdi is always primary. Brief MSA / Najdi / Hijazi / Gulf / Iraqi / Levantine / Egyptian comparison when relevant. Do not deeply drill dialect differences unless explicitly requested.
+
+---
+#### Verb & root tracking
+**Tracker file:** [verb-root-tracker.md](verb-root-tracker.md)
+
+- Add every **new verb** and **new root** the first time it appears (drills, passages, chat, listening).
+- Update coverage counts; report after each session: "Coverage: X roots, Y verbs encountered (Z drilled)."
+- **`drill verb`** marks that verb as fully drilled.
+- **`coverage`** or **`stats`** returns current counts.

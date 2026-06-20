@@ -2,7 +2,7 @@ import { marked } from 'marked';
 
 const BASE = import.meta.env.BASE_URL;
 
-type Tab = 'home' | 'track' | 'learn' | 'agent';
+type Tab = 'home' | 'course' | 'track' | 'agent';
 
 interface Stats {
   roots: number;
@@ -11,15 +11,36 @@ interface Stats {
   passages: number;
 }
 
+interface Lesson {
+  id: string;
+  title: string;
+  file: string;
+}
+
+interface Module {
+  id: string;
+  title: string;
+  lessons: Lesson[];
+}
+
+interface Phase {
+  id: string;
+  title: string;
+  modules: Module[];
+}
+
+interface CourseManifest {
+  title: string;
+  startLesson: string;
+  phases: Phase[];
+}
+
 const DOCS = {
   track: [
     { id: 'tracker', label: 'Verbs & Roots', file: 'verb-root-tracker.md' },
     { id: 'progress', label: 'Progress', file: 'progress.md' },
-  ],
-  learn: [
-    { id: 'week1', label: 'Week 1', file: 'week1-session.md' },
-    { id: 'framework', label: 'Framework', file: 'Arabic-Learning-Framework.md' },
-    { id: 'instructions', label: 'Commands', file: 'Arabic_Instruction.txt' },
+    { id: 'course-progress', label: 'Course', file: 'course-progress.md' },
+    { id: 'map', label: 'Map', file: 'course/COURSE-MAP.md' },
   ],
 } as const;
 
@@ -33,6 +54,8 @@ const COMMANDS = [
 
 let activeTab: Tab = 'home';
 let activeDoc = '';
+let activeLessonFile = '';
+let courseManifest: CourseManifest | null = null;
 
 marked.setOptions({ gfm: true, breaks: true });
 
@@ -60,6 +83,14 @@ async function fetchText(file: string): Promise<string> {
   return res.text();
 }
 
+async function loadCourseManifest(): Promise<CourseManifest> {
+  if (courseManifest) return courseManifest;
+  const res = await fetch(`${BASE}course-manifest.json`);
+  if (!res.ok) throw new Error('Failed to load course');
+  courseManifest = await res.json();
+  return courseManifest!;
+}
+
 function parseStats(trackerMd: string, progressMd: string): Stats {
   const roots = trackerMd.match(/\*\*Roots covered\*\*\s*\|\s*(\d+)/)?.[1];
   const verbs = trackerMd.match(/\*\*Verbs encountered\*\*\s*\|\s*(\d+)/)?.[1];
@@ -81,8 +112,8 @@ function renderNav() {
   const nav = document.getElementById('nav')!;
   const tabs: { id: Tab; icon: string; label: string }[] = [
     { id: 'home', icon: '🏠', label: 'Home' },
+    { id: 'course', icon: '📚', label: 'Course' },
     { id: 'track', icon: '📊', label: 'Track' },
-    { id: 'learn', icon: '📖', label: 'Learn' },
     { id: 'agent', icon: '🤖', label: 'Agent' },
   ];
   nav.innerHTML = '';
@@ -92,7 +123,9 @@ function renderNav() {
     btn.onclick = () => {
       activeTab = t.id;
       if (t.id === 'track') activeDoc = DOCS.track[0].file;
-      if (t.id === 'learn') activeDoc = DOCS.learn[0].file;
+      if (t.id === 'course' && !activeLessonFile) {
+        activeLessonFile = 'course/00-start/00-welcome.md';
+      }
       renderNav();
       renderMain();
     };
@@ -103,12 +136,22 @@ function renderNav() {
 async function renderHome(main: HTMLElement) {
   main.innerHTML = '<p class="loading">Loading…</p>';
   try {
-    const [tracker, progress] = await Promise.all([
+    const [tracker, progress, manifest] = await Promise.all([
       fetchText('verb-root-tracker.md'),
       fetchText('progress.md'),
+      loadCourseManifest(),
     ]);
     const stats = parseStats(tracker, progress);
     main.innerHTML = '';
+
+    const startBtn = el('button', 'btn', 'Start the course →');
+    startBtn.onclick = () => {
+      activeTab = 'course';
+      activeLessonFile = manifest.startLesson;
+      renderNav();
+      renderMain();
+    };
+    main.appendChild(startBtn);
 
     const grid = el('div', 'stats');
     grid.innerHTML = `
@@ -118,9 +161,13 @@ async function renderHome(main: HTMLElement) {
     `;
     main.appendChild(grid);
 
-    const passCard = el('div', 'card');
-    passCard.innerHTML = `<h3>Passages completed</h3><p>${stats.passages} / 10 until next summary</p>`;
-    main.appendChild(passCard);
+    const pathCard = el('div', 'card');
+    pathCard.innerHTML = `
+      <h3>Course path</h3>
+      <p><strong>Start</strong> → <strong>Basics</strong> → <strong>Grammar</strong> → <strong>Najdi</strong></p>
+      <p style="margin-top:0.5rem;color:var(--muted);font-size:0.85rem">28 lessons · English grammar terms mapped to Arabic (ism, fi'l, harf, Sarf, Nahw)</p>
+    `;
+    main.appendChild(pathCard);
 
     main.appendChild(el('p', 'section-title', 'Quick commands'));
     const chips = el('div', 'chips');
@@ -130,17 +177,53 @@ async function renderHome(main: HTMLElement) {
       chips.appendChild(chip);
     });
     main.appendChild(chips);
-    main.appendChild(el('p', 'section-title', 'Today'));
-    const today = el('div', 'card');
-    today.innerHTML = `
-      <h3>Week 2 · Tuesday</h3>
-      <p>Run <code>drill verb راح</code> or <code>drill verb قال</code> in Cursor Agent.</p>
-      <button class="btn btn-outline" id="copy-drill">Copy: drill verb قال</button>
-    `;
-    main.appendChild(today);
-    document.getElementById('copy-drill')!.onclick = () => copyCommand('drill verb قال');
   } catch {
     main.innerHTML = '<p class="loading">Could not load content. Check connection.</p>';
+  }
+}
+
+async function renderCourse(main: HTMLElement) {
+  main.innerHTML = '<p class="loading">Loading course…</p>';
+  try {
+    const manifest = await loadCourseManifest();
+    if (!activeLessonFile) activeLessonFile = manifest.startLesson;
+
+    main.innerHTML = '';
+
+    const layout = el('div', 'course-layout');
+
+    const sidebar = el('div', 'course-sidebar');
+    manifest.phases.forEach((phase) => {
+      sidebar.appendChild(el('p', 'phase-label', phase.title));
+      phase.modules.forEach((mod) => {
+        sidebar.appendChild(el('p', 'module-label', mod.title.replace(/^Module \d+ — /, '')));
+        mod.lessons.forEach((lesson) => {
+          const btn = el(
+            'button',
+            `lesson-btn${activeLessonFile === lesson.file ? ' active' : ''}`,
+            `${lesson.id} ${lesson.title}`
+          );
+          btn.onclick = () => {
+            activeLessonFile = lesson.file;
+            renderMain();
+          };
+          sidebar.appendChild(btn);
+        });
+      });
+    });
+    layout.appendChild(sidebar);
+
+    const content = el('div', 'course-content');
+    const body = el('div', 'md-content');
+    body.innerHTML = '<p class="loading">Loading lesson…</p>';
+    content.appendChild(body);
+    layout.appendChild(content);
+    main.appendChild(layout);
+
+    const text = await fetchText(activeLessonFile);
+    body.innerHTML = await marked.parse(text);
+  } catch {
+    main.innerHTML = '<p class="loading">Could not load course.</p>';
   }
 }
 
@@ -174,21 +257,8 @@ function renderAgent(main: HTMLElement) {
   main.innerHTML = `
     <div class="card">
       <h3>Cursor Cloud Agent</h3>
-      <p>Run live drills, passages, and get feedback from the AI tutor on your phone.</p>
+      <p>Run live drills, passages, and get feedback. Follow the course lessons, then practice here.</p>
       <a class="btn" href="https://cursor.com/agents" target="_blank" rel="noopener">Open Cursor Agents</a>
-    </div>
-    <p class="section-title">Install Cursor as PWA</p>
-    <div class="card">
-      <ul class="agent-steps">
-        <li>Open <strong>cursor.com/agents</strong> in Safari (iOS) or Chrome (Android)</li>
-        <li>Connect your GitHub repo: <strong>najdi-arabic</strong></li>
-        <li>iOS: Share → Add to Home Screen</li>
-        <li>Android: Menu → Install app</li>
-      </ul>
-    </div>
-    <p class="section-title">Install this app</p>
-    <div class="card">
-      <p>Add <strong>Najdi Arabic Tutor</strong> to your home screen from the browser menu for offline tracker &amp; lessons.</p>
     </div>
     <p class="section-title">Paste a command</p>
     <div class="chips" id="agent-chips"></div>
@@ -209,11 +279,11 @@ async function renderMain() {
     case 'home':
       await renderHome(main);
       break;
+    case 'course':
+      await renderCourse(main);
+      break;
     case 'track':
       await renderDocView(main, DOCS.track);
-      break;
-    case 'learn':
-      await renderDocView(main, DOCS.learn);
       break;
     case 'agent':
       renderAgent(main);

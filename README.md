@@ -2,15 +2,15 @@
 
 Structured Arabic course by **Mohammad Faisal** for English speakers: script → parts of speech → Sarf/Nahw → conversational Najdi.
 
-**Status:** Only full git repo under [Personal Gigs](../README.md). Author: **[Mohammad Faisal](https://github.com/Faisal-Mansoor)**. Do not use **mfaisalext-afk** for personal-gig git ops.
+**Status:** Only full git repo under [Personal Gigs](../README.md). Author: **[Mohammad Faisal](https://github.com/MohammadFaisal-FM)**.
 
 ## Live app
 
-**PWA:** https://faisal-mansoor.github.io/najdi-arabic/
+**PWA:** https://mohammadfaisal-fm.github.io/najdi-arabic/
 
-**Repo:** https://github.com/Faisal-Mansoor/najdi-arabic
+**Repo:** https://github.com/MohammadFaisal-FM/najdi-arabic
 
-**Author:** [Mohammad Faisal](https://github.com/Faisal-Mansoor)
+**Author:** [Mohammad Faisal](https://github.com/MohammadFaisal-FM)
 
 ## Course structure
 

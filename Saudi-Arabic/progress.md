@@ -1,4 +1,4 @@
-# Najdi Arabic — Progress Tracker
+# Arabic — Progress Tracker
 
 **Goal:** Heritage / family conversation  
 **Started:** 2026-06-17  

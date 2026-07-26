@@ -1,6 +1,6 @@
 # Lyrics Library
 
-Songs we share or discover on the Najdi Arabic learning journey.
+Songs we share or discover on the Arabic learning journey.
 
 **Live on the app:** https://mohammadfaisal-fm.github.io/najdi-arabic/ (Lyrics tab)
 

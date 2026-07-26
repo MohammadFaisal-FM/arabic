@@ -43,9 +43,9 @@ Module 2 covers this in full.
 
 ---
 
-## Your dialect: Najdi
+## Your spoken Arabic
 
-This course teaches **Najdi Arabic** — the dialect of central Saudi Arabia (Riyadh, Qassim). It shares roots and grammar with **MSA** (Modern Standard Arabic) but uses different everyday words and pronunciation.
+This course focuses on **everyday Arabic** as spoken in central Saudi Arabia (Riyadh, Qassim). It shares roots and grammar with **MSA** (Modern Standard Arabic) but uses different everyday words and pronunciation.
 
 **Goal:** Talk with family — not news reading or classical poetry.
 

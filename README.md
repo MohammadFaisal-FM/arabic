@@ -1,6 +1,6 @@
-# Mohammad Faisal — Najdi Arabic Tutor
+# Mohammad Faisal — Arabic Tutor
 
-Structured Arabic course by **Mohammad Faisal** for English speakers: script → parts of speech → Sarf/Nahw → conversational Najdi.
+Structured Arabic course by **Mohammad Faisal** for English speakers: script → parts of speech → Sarf/Nahw → conversation.
 
 **Status:** Only full git repo under [Personal Gigs](../README.md). Author: **[Mohammad Faisal](https://github.com/MohammadFaisal-FM)**.
 
@@ -19,7 +19,7 @@ Structured Arabic course by **Mohammad Faisal** for English speakers: script →
 | **Start** | 0 | How Arabic differs from English |
 | **Basics** | 1–2 | Alphabet; **ism**, **fi'l**, **harf** (noun, verb, particle) |
 | **Grammar** | 3–4 | **Sarf** (roots, verbs) + **Nahw** (sentences) |
-| **Najdi** | 5–6 | Family vocabulary → conversation |
+| **Conversation** | 5–6 | Family vocabulary → conversation |
 
 **Start here:** [Saudi-Arabic/course/00-start/00-welcome.md](Saudi-Arabic/course/00-start/00-welcome.md)
 

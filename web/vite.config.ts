@@ -8,9 +8,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['icon.svg'],
       manifest: {
-        name: 'Mohammad Faisal — Najdi Arabic',
-        short_name: 'Najdi',
-        description: 'Mohammad Faisal’s Najdi Arabic course — drills, tracker, lyrics, passages',
+        name: 'Mohammad Faisal — Arabic',
+        short_name: 'Arabic',
+        description: 'Mohammad Faisal’s Arabic course — drills, tracker, lyrics, passages',
         theme_color: '#1a4d3e',
         background_color: '#0f1419',
         display: 'standalone',

@@ -1,5 +1,5 @@
 {
-  "title": "Najdi Arabic — Full Course",
+  "title": "Arabic — Full Course",
   "startLesson": "course/00-start/00-welcome.md",
   "phases": [
     {
@@ -72,11 +72,11 @@
     },
     {
       "id": "najdi",
-      "title": "Najdi & Conversation",
+      "title": "Conversation",
       "modules": [
         {
           "id": "m5",
-          "title": "Module 5 — Najdi Basics",
+          "title": "Module 5 — Everyday Basics",
           "lessons": [
             { "id": "5.1", "title": "Greetings", "file": "course/05-najdi-basics/01-greetings.md" },
             { "id": "5.2", "title": "Family vocab", "file": "course/05-najdi-basics/02-family.md" },
@@ -88,7 +88,7 @@
           "id": "m6",
           "title": "Module 6 — Conversational",
           "lessons": [
-            { "id": "6.1", "title": "MSA → Najdi", "file": "course/06-conversational/01-msa-to-najdi.md" },
+            { "id": "6.1", "title": "MSA → spoken", "file": "course/06-conversational/01-msa-to-najdi.md" },
             { "id": "6.2", "title": "Passages", "file": "course/06-conversational/02-passages.md" },
             { "id": "6.3", "title": "Dialogues", "file": "course/06-conversational/03-dialogues.md" },
             { "id": "6.4", "title": "Listening", "file": "course/06-conversational/04-listening.md" }

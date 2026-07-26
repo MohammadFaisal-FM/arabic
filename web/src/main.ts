@@ -196,7 +196,7 @@ async function renderHome(main: HTMLElement) {
     const pathCard = el('div', 'card');
     pathCard.innerHTML = `
       <h3>Course path</h3>
-      <p><strong>Start</strong> → <strong>Basics</strong> → <strong>Grammar</strong> → <strong>Najdi</strong></p>
+      <p><strong>Start</strong> → <strong>Basics</strong> → <strong>Grammar</strong> → <strong>Conversation</strong></p>
       <p style="margin-top:0.5rem;color:var(--muted);font-size:0.85rem">28 lessons · English grammar terms mapped to Arabic (ism, fi'l, harf, Sarf, Nahw)</p>
     `;
     main.appendChild(pathCard);

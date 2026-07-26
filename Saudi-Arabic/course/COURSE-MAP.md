@@ -1,6 +1,6 @@
-# Najdi Arabic Course — Full Map
+# Arabic Course — Full Map
 
-**For English speakers** · Start → Basics → Grammar → Conversational Najdi
+**For English speakers** · Start → Basics → Grammar → Conversation
 
 ---
 
@@ -13,7 +13,7 @@ Arabic is taught differently from English. This course follows the traditional *
 | **Start** | 0 | Understand how Arabic differs from English |
 | **Basics** | 1–2 | Read script; know the three word types |
 | **Grammar** | 3–4 | Build words (Sarf) and sentences (Nahw) |
-| **Najdi** | 5–6 | Speak with family — greetings to conversation |
+| **Conversation** | 5–6 | Speak with family — greetings to conversation |
 
 **Time estimate:** 12–16 weeks at 45–60 min/day, 5 days/week.
 
@@ -80,7 +80,7 @@ Every Arabic word is **اسم**, **فعل**, or **حرف**.
 
 ---
 
-## Module 5 — Najdi Basics (Heritage / Family)
+## Module 5 — Everyday Basics (Heritage / Family)
 
 | # | Lesson | File | Status |
 |---|--------|------|--------|
@@ -91,11 +91,11 @@ Every Arabic word is **اسم**, **فعل**, or **حرف**.
 
 ---
 
-## Module 6 — Conversational Najdi
+## Module 6 — Conversation
 
 | # | Lesson | File | Status |
 |---|--------|------|--------|
-| 6.1 | MSA → Najdi: what changes | [01-msa-to-najdi.md](06-conversational/01-msa-to-najdi.md) | ☐ |
+| 6.1 | MSA → spoken: what changes | [01-msa-to-najdi.md](06-conversational/01-msa-to-najdi.md) | ☐ |
 | 6.2 | Passage translation method | [02-passages.md](06-conversational/02-passages.md) | ☐ |
 | 6.3 | Family dialogue scenarios | [03-dialogues.md](06-conversational/03-dialogues.md) | ☐ |
 | 6.4 | Listening & speaking routine | [04-listening.md](06-conversational/04-listening.md) | ☐ |

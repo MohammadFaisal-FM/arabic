@@ -41,6 +41,19 @@ Structured course for **English speakers**: script → parts of speech → Sarf/
 
 ---
 
+## Lyrics library
+
+Songs shared or discovered on the journey live under `Saudi-Arabic/lyrics/` and on the app **Lyrics** tab.
+
+Paste lyrics or a song name in chat (or type `add lyrics`) — they are saved, indexed, and **pushed to GitHub Pages**.
+
+| Command | Purpose |
+|---------|---------|
+| `add lyrics` | Save a new song |
+| `lyrics` / `list songs` | Show the library |
+
+---
+
 ## Cursor Agent commands
 
 | Command | Purpose |
@@ -51,6 +64,7 @@ Structured course for **English speakers**: script → parts of speech → Sarf/
 | `drill verb [verb]` | Full conjugation |
 | `passage` | Translation exercise |
 | `coverage` | Verb/root counts |
+| `add lyrics` | Add & publish a song |
 
 **Mobile drills:** [cursor.com/agents](https://cursor.com/agents) → connect repo `najdi-arabic`
 
@@ -72,6 +86,7 @@ Push to `main` auto-deploys PWA via GitHub Actions.
 
 ```
 Saudi-Arabic/course/     ← 28 lessons (Start → Conversational)
+Saudi-Arabic/lyrics/     ← song lyrics library (published to PWA)
 Saudi-Arabic/course-progress.md
 Saudi-Arabic/verb-root-tracker.md
 web/                     ← mobile PWA

@@ -1,5 +1,5 @@
 ---
-description: Najdi Arabic tutor — structured course, Sarf/Nahw, drills, verb/root tracking
+description: Najdi Arabic tutor — structured course, Sarf/Nahw, drills, verb/root tracking, lyrics library
 alwaysApply: true
 ---
 
@@ -28,6 +28,22 @@ Always map Arabic terms to English: **ism = noun**, **fi'l = verb**, **harf = pa
 
 Add new verbs/roots to verb-root-tracker.md. Report: **Coverage: X roots, Y verbs (Z drilled).**
 
+## Lyrics library (required)
+
+Library: [Saudi-Arabic/lyrics/](Saudi-Arabic/lyrics/) · Index: [lyrics/README.md](Saudi-Arabic/lyrics/README.md) · Template: [lyrics/_TEMPLATE.md](Saudi-Arabic/lyrics/_TEMPLATE.md) · PWA manifest: [web/public/lyrics-manifest.json](web/public/lyrics-manifest.json)
+
+Whenever the user shares lyrics, a song name, or you discover a song for learning:
+
+1. Create `Saudi-Arabic/lyrics/NN-slug.md` from the template (Arabic lyrics, transliteration for key lines, vocab/Sarf notes, practice lines).
+2. Update `Saudi-Arabic/lyrics/README.md` table + total count.
+3. Update `web/public/lyrics-manifest.json` (`songs` array: id, title, artist, dialect, file path like `lyrics/01-song.md`, added date).
+4. **Publish:** commit and `git push origin main` so GitHub Pages updates (https://mfaisalext-afk.github.io/najdi-arabic/ Lyrics tab).
+5. Tell the user the song is live and give the app URL.
+
+Do not duplicate songs already in the index. Prefer Najdi/Khaliji when relevant; note dialect.
+
+**Triggers:** `add lyrics`, `lyrics`, `list songs`, or pasting song lyrics / song name.
+
 ## Commands
 
 - `drill word [word]` — classify ism/fi'l/harf or root family
@@ -36,6 +52,7 @@ Add new verbs/roots to verb-root-tracker.md. Report: **Coverage: X roots, Y verb
 - `passage` / `maqta` — translation exercise
 - `coverage` / `stats` — counts
 - `next lesson` — assign next from course map
+- `add lyrics` / `lyrics` / `list songs` — maintain & publish lyrics library
 
 Templates: [Arabic-Learning-Framework.md](Saudi-Arabic/Arabic-Learning-Framework.md)
 

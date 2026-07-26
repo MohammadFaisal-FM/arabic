@@ -2,7 +2,7 @@ import { marked } from 'marked';
 
 const BASE = import.meta.env.BASE_URL;
 
-type Tab = 'home' | 'course' | 'track' | 'agent';
+type Tab = 'home' | 'course' | 'lyrics' | 'track' | 'agent';
 
 interface Stats {
   roots: number;
@@ -35,11 +35,27 @@ interface CourseManifest {
   phases: Phase[];
 }
 
+interface SongEntry {
+  id: string;
+  title: string;
+  artist: string;
+  dialect: string;
+  file: string;
+  added: string;
+}
+
+interface LyricsManifest {
+  title: string;
+  description: string;
+  songs: SongEntry[];
+}
+
 const DOCS = {
   track: [
     { id: 'tracker', label: 'Verbs & Roots', file: 'verb-root-tracker.md' },
     { id: 'progress', label: 'Progress', file: 'progress.md' },
     { id: 'course-progress', label: 'Course', file: 'course-progress.md' },
+    { id: 'lyrics-index', label: 'Lyrics index', file: 'lyrics/README.md' },
     { id: 'map', label: 'Map', file: 'course/COURSE-MAP.md' },
   ],
 } as const;
@@ -50,12 +66,15 @@ const COMMANDS = [
   'drill verb قال',
   'passage',
   'coverage',
+  'add lyrics',
 ];
 
 let activeTab: Tab = 'home';
 let activeDoc = '';
 let activeLessonFile = '';
+let activeSongFile = '';
 let courseManifest: CourseManifest | null = null;
+let lyricsManifest: LyricsManifest | null = null;
 
 marked.setOptions({ gfm: true, breaks: true });
 
@@ -91,6 +110,14 @@ async function loadCourseManifest(): Promise<CourseManifest> {
   return courseManifest!;
 }
 
+async function loadLyricsManifest(): Promise<LyricsManifest> {
+  if (lyricsManifest) return lyricsManifest;
+  const res = await fetch(`${BASE}lyrics-manifest.json`);
+  if (!res.ok) throw new Error('Failed to load lyrics');
+  lyricsManifest = await res.json();
+  return lyricsManifest!;
+}
+
 function parseStats(trackerMd: string, progressMd: string): Stats {
   const roots = trackerMd.match(/\*\*Roots covered\*\*\s*\|\s*(\d+)/)?.[1];
   const verbs = trackerMd.match(/\*\*Verbs encountered\*\*\s*\|\s*(\d+)/)?.[1];
@@ -113,6 +140,7 @@ function renderNav() {
   const tabs: { id: Tab; icon: string; label: string }[] = [
     { id: 'home', icon: '🏠', label: 'Home' },
     { id: 'course', icon: '📚', label: 'Course' },
+    { id: 'lyrics', icon: '🎵', label: 'Lyrics' },
     { id: 'track', icon: '📊', label: 'Track' },
     { id: 'agent', icon: '🤖', label: 'Agent' },
   ];
@@ -125,6 +153,10 @@ function renderNav() {
       if (t.id === 'track') activeDoc = DOCS.track[0].file;
       if (t.id === 'course' && !activeLessonFile) {
         activeLessonFile = 'course/00-start/00-welcome.md';
+      }
+      if (t.id === 'lyrics') {
+        activeSongFile = '';
+        lyricsManifest = null;
       }
       renderNav();
       renderMain();
@@ -253,6 +285,62 @@ async function renderDocView(main: HTMLElement, docs: readonly { id: string; lab
   }
 }
 
+async function renderLyrics(main: HTMLElement) {
+  main.innerHTML = '<p class="loading">Loading lyrics…</p>';
+  try {
+    const manifest = await loadLyricsManifest();
+    main.innerHTML = '';
+
+    const intro = el('div', 'card');
+    intro.innerHTML = `
+      <h3>Lyrics library</h3>
+      <p>${manifest.songs.length} song${manifest.songs.length === 1 ? '' : 's'} · share a song in Cursor or type <code>add lyrics</code></p>
+    `;
+    main.appendChild(intro);
+
+    if (manifest.songs.length === 0) {
+      const empty = el('div', 'card');
+      empty.innerHTML = `<p>No songs yet. Paste lyrics or a song name in chat — they'll appear here after publish.</p>`;
+      main.appendChild(empty);
+      return;
+    }
+
+    if (!activeSongFile) {
+      main.appendChild(el('p', 'section-title', 'Songs'));
+      const list = el('div', 'chips');
+      list.className = 'song-list';
+      manifest.songs.forEach((song) => {
+        const card = el('button', 'song-card');
+        card.innerHTML = `<strong>${song.title}</strong><span>${song.artist || 'Unknown'} · ${song.dialect || '—'}</span>`;
+        card.onclick = () => {
+          activeSongFile = song.file;
+          renderMain();
+        };
+        list.appendChild(card);
+      });
+      main.appendChild(list);
+      return;
+    }
+
+    const back = el('button', 'btn btn-outline', '← All songs');
+    back.onclick = () => {
+      activeSongFile = '';
+      renderMain();
+    };
+    main.appendChild(back);
+
+    const body = el('div', 'md-content');
+    body.style.marginTop = '0.75rem';
+    body.innerHTML = '<p class="loading">Loading…</p>';
+    main.appendChild(body);
+
+    const text = await fetchText(activeSongFile);
+    body.innerHTML = await marked.parse(text);
+  } catch {
+    main.innerHTML = '<p class="loading">Could not load lyrics library.</p>';
+  }
+}
+
 function renderAgent(main: HTMLElement) {
   main.innerHTML = `
     <div class="card">
@@ -281,6 +369,9 @@ async function renderMain() {
       break;
     case 'course':
       await renderCourse(main);
+      break;
+    case 'lyrics':
+      await renderLyrics(main);
       break;
     case 'track':
       await renderDocView(main, DOCS.track);

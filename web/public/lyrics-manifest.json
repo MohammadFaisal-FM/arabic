@@ -1,5 +1,14 @@
 {
   "title": "Lyrics Library",
   "description": "Songs shared or discovered on the Arabic journey",
-  "songs": []
+  "songs": [
+    {
+      "id": "01-ahla-qadar",
+      "title": "أحلى قدر (A7la Qadar) — sample",
+      "artist": "via A7la Qadar channel",
+      "dialect": "Levantine / romantic pop",
+      "file": "lyrics/01-ahla-qadar.md",
+      "added": "2026-07-27"
+    }
+  ]
 }

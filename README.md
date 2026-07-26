@@ -1,12 +1,14 @@
-# Najdi Arabic Tutor
+# Mohammad Faisal — Najdi Arabic Tutor
 
-Structured course for **English speakers**: script → parts of speech → Sarf/Nahw → conversational Najdi.
+Structured Arabic course by **Mohammad Faisal** for English speakers: script → parts of speech → Sarf/Nahw → conversational Najdi.
 
 ## Live app
 
 **PWA:** https://mfaisalext-afk.github.io/najdi-arabic/
 
 **Repo:** https://github.com/mfaisalext-afk/najdi-arabic
+
+**Author:** [Mohammad Faisal](https://github.com/mfaisalext-afk)
 
 ## Course structure
 

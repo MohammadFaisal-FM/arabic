@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import { VitePWA } from 'vite-plugin-pwa';
 
 export default defineConfig({
-  base: process.env.GITHUB_PAGES === 'true' ? '/najdi-arabic/' : '/',
+  base: process.env.GITHUB_PAGES === 'true' ? '/arabic/' : '/',
   plugins: [
     VitePWA({
       registerType: 'autoUpdate',

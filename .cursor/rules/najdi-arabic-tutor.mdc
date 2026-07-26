@@ -37,7 +37,7 @@ Whenever the user shares lyrics, a song name, or you discover a song for learnin
 1. Create `Saudi-Arabic/lyrics/NN-slug.md` from the template (Arabic lyrics, transliteration for key lines, vocab/Sarf notes, practice lines).
 2. Update `Saudi-Arabic/lyrics/README.md` table + total count.
 3. Update `web/public/lyrics-manifest.json` (`songs` array: id, title, artist, dialect, file path like `lyrics/01-song.md`, added date).
-4. **Publish:** commit and `git push origin main` so GitHub Pages updates (https://mohammadfaisal-fm.github.io/najdi-arabic/ Lyrics tab).
+4. **Publish:** commit and `git push origin main` so GitHub Pages updates (https://mohammadfaisal-fm.github.io/arabic/ Lyrics tab).
 5. Tell the user the song is live and give the app URL.
 
 Do not duplicate songs already in the index. Prefer Najdi/Khaliji when relevant; note dialect.

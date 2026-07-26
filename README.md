@@ -6,9 +6,9 @@ Structured Arabic course by **Mohammad Faisal** for English speakers: script →
 
 ## Live app
 
-**PWA:** https://mohammadfaisal-fm.github.io/najdi-arabic/
+**PWA:** https://mohammadfaisal-fm.github.io/arabic/
 
-**Repo:** https://github.com/MohammadFaisal-FM/najdi-arabic
+**Repo:** https://github.com/MohammadFaisal-FM/arabic
 
 **Author:** [Mohammad Faisal](https://github.com/MohammadFaisal-FM)
 
@@ -70,7 +70,7 @@ Paste lyrics or a song name in chat (or type `add lyrics`) — they are saved, i
 | `coverage` | Verb/root counts |
 | `add lyrics` | Add & publish a song |
 
-**Mobile drills:** [cursor.com/agents](https://cursor.com/agents) → connect repo `najdi-arabic`
+**Mobile drills:** [cursor.com/agents](https://cursor.com/agents) → connect repo `arabic`
 
 ---
 

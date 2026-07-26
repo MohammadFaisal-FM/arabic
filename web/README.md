@@ -2,7 +2,7 @@
 
 Vite / TypeScript PWA for the Arabic tutor.
 
-- **Live:** https://mohammadfaisal-fm.github.io/najdi-arabic/
+- **Live:** https://mohammadfaisal-fm.github.io/arabic/
 - **Course content:** [`../Saudi-Arabic`](../Saudi-Arabic/README.md)
 - **Project overview:** [`../README.md`](../README.md)
 

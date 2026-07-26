@@ -2,7 +2,7 @@
 
 Songs we share or discover on the Arabic learning journey.
 
-**Live on the app:** https://mohammadfaisal-fm.github.io/najdi-arabic/ (Lyrics tab)
+**Live on the app:** https://mohammadfaisal-fm.github.io/arabic/ (Lyrics tab)
 
 | # | Song | Artist | Dialect / style | File | Added |
 |---|------|--------|-----------------|------|-------|

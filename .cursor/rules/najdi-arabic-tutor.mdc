@@ -34,7 +34,7 @@ Library: [Saudi-Arabic/lyrics/](Saudi-Arabic/lyrics/) · Index: [lyrics/README.m
 
 Whenever the user shares lyrics, a song name, or you discover a song for learning:
 
-1. Create `Saudi-Arabic/lyrics/NN-slug.md` from the template (Arabic lyrics, transliteration for key lines, vocab/Sarf notes, practice lines).
+1. Create `Saudi-Arabic/lyrics/NN-slug.md` from the template (`## Arabic · English` line table + vocab at end).
 2. Update `Saudi-Arabic/lyrics/README.md` table + total count.
 3. Update `web/public/lyrics-manifest.json` (`songs` array: id, title, artist, dialect, file path like `lyrics/01-song.md`, added date).
 4. **Publish:** commit and `git push origin main` so GitHub Pages updates (https://mohammadfaisal-fm.github.io/arabic/ Lyrics tab).

@@ -51,6 +51,19 @@ interface LyricsManifest {
   songs: SongEntry[];
 }
 
+interface LyricsLine {
+  arabic: string;
+  english: string;
+}
+
+interface ParsedLyricsSong {
+  title: string;
+  artist?: string;
+  dialect?: string;
+  lines: LyricsLine[];
+  footerMd: string;
+}
+
 const DOCS = {
   track: [
     { id: 'tracker', label: 'Verbs & Roots', file: 'verb-root-tracker.md' },
@@ -204,8 +217,36 @@ function parseStats(trackerMd: string, progressMd: string): Stats {
   };
 }
 
-function copyCommand(cmd: string) {
-  navigator.clipboard.writeText(cmd).then(() => showToast(`Copied: ${cmd}`));
+function parseLyricsMarkdown(md: string): ParsedLyricsSong {
+  const title = (md.match(/^#\s+(.+)$/m)?.[1] ?? 'Song').trim();
+  const artist = md.match(/\*\*Artist\*\*\s*\|\s*(.+)/)?.[1]?.trim();
+  const dialect = md.match(/\*\*Dialect[^|]*\*\*\s*\|\s*(.+)/)?.[1]?.trim();
+
+  const footerStart = md.search(/^## (Vocab|Lines to practice)/m);
+  const footerMd = footerStart >= 0 ? md.slice(footerStart) : '';
+
+  const lines: LyricsLine[] = [];
+  const section = md.match(/## Arabic\s*[·\-]\s*English\s*\n+([\s\S]*?)(?=\n## |\n---\s*\n## |$)/i);
+  if (section) {
+    const rows = section[1].split('\n').filter((line) => line.trim().startsWith('|'));
+    rows.slice(2).forEach((row) => {
+      const cells = row
+        .split('|')
+        .map((cell) => cell.trim().replace(/\*\*/g, ''))
+        .filter((_, index, all) => index > 0 && index < all.length - 1);
+      if (cells.length < 2) return;
+      const arabic = cells[0];
+      const english = cells[1];
+      if (!arabic && !english) return;
+      lines.push({ arabic, english });
+    });
+  }
+
+  return { title, artist, dialect, lines, footerMd };
+}
+
+function setLyricsSongMode(enabled: boolean) {
+  document.getElementById('app')?.classList.toggle('lyrics-song-mode', enabled);
 }
 
 function renderNav() {
@@ -406,60 +447,101 @@ async function renderDocView(main: HTMLElement, docs: readonly { id: string; lab
 }
 
 async function renderLyrics(main: HTMLElement) {
-  main.innerHTML = '<p class="loading">Loading lyrics…</p>';
+  if (activeSongFile) {
+    setLyricsSongMode(true);
+    await renderLyricsSong(main);
+    return;
+  }
+
+  setLyricsSongMode(false);
+  main.innerHTML = '<p class="loading">Loading library…</p>';
   try {
     const manifest = await loadLyricsManifest();
     main.innerHTML = '';
+    main.className = 'main lyrics-library-page';
 
-    const intro = el('div', 'card');
-    intro.innerHTML = `
-      <h3>Lyrics library</h3>
-      <p>${manifest.songs.length} song${manifest.songs.length === 1 ? '' : 's'} · share a song in Cursor or type <code>add lyrics</code></p>
+    const header = el('div', 'library-header');
+    header.innerHTML = `
+      <h2 class="page-title">Library</h2>
+      <p class="page-sub">${manifest.songs.length} song${manifest.songs.length === 1 ? '' : 's'}</p>
     `;
-    main.appendChild(intro);
+    main.appendChild(header);
 
     if (manifest.songs.length === 0) {
       const empty = el('div', 'card');
-      empty.innerHTML = `<p>No songs yet. Paste lyrics or a song name in chat — they'll appear here after publish.</p>`;
+      empty.innerHTML = '<p>No songs yet. Share lyrics in Cursor or type <code>add lyrics</code>.</p>';
       main.appendChild(empty);
       return;
     }
 
-    if (!activeSongFile) {
-      main.appendChild(el('p', 'section-title', 'Songs'));
-      const list = el('div', 'chips');
-      list.className = 'song-list';
-      manifest.songs.forEach((song) => {
-        const card = el('button', 'song-card');
-        card.innerHTML = `<strong>${song.title}</strong><span>${song.artist || 'Unknown'} · ${song.dialect || '—'}</span>`;
-        card.onclick = () => {
-          activeSongFile = song.file;
-          setHash('lyrics', song.id);
-          renderMain();
-        };
-        list.appendChild(card);
-      });
-      main.appendChild(list);
-      return;
-    }
+    const list = el('nav', 'library-list');
+    manifest.songs.forEach((song) => {
+      const link = el('button', 'library-link');
+      link.innerHTML = `
+        <span class="library-link-title">${song.title}</span>
+        <span class="library-link-meta">${song.artist || 'Unknown'} · ${song.dialect || '—'}</span>
+      `;
+      link.onclick = () => {
+        activeSongFile = song.file;
+        setHash('lyrics', song.id);
+        renderMain();
+      };
+      list.appendChild(link);
+    });
+    main.appendChild(list);
+  } catch {
+    main.innerHTML = '<p class="loading">Could not load lyrics library.</p>';
+  }
+}
 
-    const back = el('button', 'btn btn-outline', '← All songs');
-    back.onclick = () => {
+async function renderLyricsSong(main: HTMLElement) {
+  main.innerHTML = '<p class="loading lyrics-loading">Loading lyrics…</p>';
+  main.className = 'main lyrics-song-page';
+  try {
+    const text = await fetchText(activeSongFile);
+    const parsed = parseLyricsMarkdown(text);
+
+    main.innerHTML = '';
+
+    const shell = el('div', 'lyrics-song');
+    shell.innerHTML = `
+      <button type="button" class="lyrics-back">← Library</button>
+      <p class="lyrics-song-title">${parsed.title}</p>
+      ${parsed.artist ? `<p class="lyrics-song-meta">${parsed.artist}${parsed.dialect ? ` · ${parsed.dialect}` : ''}</p>` : ''}
+      <h1 class="lyrics-headline">Arabic · English</h1>
+    `;
+
+    shell.querySelector('.lyrics-back')!.addEventListener('click', () => {
       activeSongFile = '';
       setHash('lyrics');
       renderMain();
-    };
-    main.appendChild(back);
+    });
 
-    const body = el('div', 'md-content');
-    body.style.marginTop = '0.75rem';
-    body.innerHTML = '<p class="loading">Loading…</p>';
-    main.appendChild(body);
+    const linesWrap = el('div', 'lyrics-lines');
+    if (parsed.lines.length === 0) {
+      linesWrap.innerHTML = '<p class="lyrics-empty">No line pairs yet. Add an <code>Arabic · English</code> table to this song file.</p>';
+    } else {
+      parsed.lines.forEach((line) => {
+        const row = el('div', 'lyrics-line');
+        row.innerHTML = `
+          <p class="lyrics-ar" dir="rtl" lang="ar">${line.arabic}</p>
+          <p class="lyrics-en" lang="en">${line.english}</p>
+        `;
+        linesWrap.appendChild(row);
+      });
+    }
+    shell.appendChild(linesWrap);
 
-    const text = await fetchText(activeSongFile);
-    body.innerHTML = await marked.parse(text);
+    if (parsed.footerMd.trim()) {
+      const footer = el('div', 'lyrics-footer md-content');
+      footer.innerHTML = await marked.parse(parsed.footerMd);
+      shell.appendChild(footer);
+    }
+
+    main.appendChild(shell);
   } catch {
-    main.innerHTML = '<p class="loading">Could not load lyrics library.</p>';
+    setLyricsSongMode(false);
+    main.innerHTML = '<p class="loading">Could not load lyrics.</p>';
   }
 }
 
@@ -499,6 +581,10 @@ function renderAgent(main: HTMLElement) {
 async function renderMain() {
   const main = document.getElementById('main')!;
   main.innerHTML = '';
+  if (activeTab !== 'lyrics' || !activeSongFile) {
+    setLyricsSongMode(false);
+    main.className = 'main';
+  }
 
   switch (activeTab) {
     case 'home':

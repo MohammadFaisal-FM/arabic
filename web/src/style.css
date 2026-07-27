@@ -503,3 +503,147 @@ html, body {
   opacity: 0.72;
   border-style: dashed;
 }
+
+/* Lyrics library */
+.library-header {
+  margin-bottom: 0.85rem;
+}
+
+.page-title {
+  font-size: 1.35rem;
+  font-weight: 650;
+  color: #ddd6f8;
+}
+
+.page-sub {
+  margin-top: 0.2rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+.library-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.library-link {
+  width: 100%;
+  text-align: left;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: linear-gradient(180deg, rgba(32, 38, 64, 0.75) 0%, rgba(23, 26, 43, 0.95) 100%);
+  padding: 0.9rem 1rem;
+  color: var(--text);
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.library-link-title {
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.library-link-meta {
+  display: block;
+  margin-top: 0.2rem;
+  font-size: 0.76rem;
+  color: var(--muted);
+}
+
+.library-link:active {
+  border-color: #8071bd;
+}
+
+/* Lyrics song page — dark focus mode */
+#app.lyrics-song-mode .header {
+  opacity: 0.35;
+}
+
+#app.lyrics-song-mode .main {
+  background: #04050a;
+}
+
+.lyrics-song-page {
+  background: #04050a !important;
+  padding-top: 0.35rem;
+}
+
+.lyrics-song {
+  min-height: calc(100vh - 7rem);
+  background: radial-gradient(120% 80% at 50% -10%, rgba(88, 72, 140, 0.22), transparent 65%);
+  border: 1px solid #1f2438;
+  border-radius: 16px;
+  padding: 1rem 0.95rem 1.2rem;
+}
+
+.lyrics-back {
+  border: none;
+  background: transparent;
+  color: #b7aad8;
+  font-size: 0.82rem;
+  cursor: pointer;
+  font-family: inherit;
+  padding: 0;
+}
+
+.lyrics-song-title {
+  margin-top: 0.65rem;
+  font-size: 0.9rem;
+  color: #d8cffb;
+}
+
+.lyrics-song-meta {
+  margin-top: 0.15rem;
+  font-size: 0.76rem;
+  color: #8f89ad;
+}
+
+.lyrics-headline {
+  margin: 1rem 0 0.85rem;
+  text-align: center;
+  font-size: 1.05rem;
+  letter-spacing: 0.04em;
+  color: #c8baf0;
+}
+
+.lyrics-lines {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.lyrics-line {
+  padding: 0.65rem 0.55rem;
+  border-bottom: 1px solid #1d2235;
+}
+
+.lyrics-ar {
+  font-size: 1.08rem;
+  line-height: 1.65;
+  color: #f1ecff;
+}
+
+.lyrics-en {
+  margin-top: 0.3rem;
+  font-size: 0.86rem;
+  line-height: 1.5;
+  color: #9f97bc;
+}
+
+.lyrics-footer {
+  margin-top: 1.2rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid #252a40;
+}
+
+.lyrics-footer h2 {
+  font-size: 0.92rem;
+  color: #b7aad8;
+}
+
+.lyrics-empty,
+.lyrics-loading {
+  color: #9f97bc;
+}

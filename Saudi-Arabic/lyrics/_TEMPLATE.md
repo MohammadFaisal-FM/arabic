@@ -4,33 +4,24 @@
 |-------|-------|
 | **Artist** | |
 | **Dialect / style** | Najdi / Khaliji / MSA / other |
-| **Source** | shared by learner / discovered |
 | **Added** | YYYY-MM-DD |
-| **Link** | (YouTube / Spotify / etc. if any) |
 
 ---
 
-## Lyrics (Arabic)
+## Arabic · English
 
-```
-(paste full lyrics here)
-```
-
----
-
-## Transliteration (selected lines)
-
-| Arabic | Transliteration | English |
-|--------|-----------------|---------|
-| | | |
+| Arabic | English |
+|--------|---------|
+| (Arabic line) | (English line) |
+| | |
 
 ---
 
 ## Vocab & Sarf notes
 
-| Word | Type (ism / fi'l / harf) | Root | Meaning | Daily Najdi? |
-|------|--------------------------|------|---------|--------------|
-| | | | | |
+| Word | Type (ism / fi'l / harf) | Root | Meaning |
+|------|--------------------------|------|---------|
+| | | | |
 
 ---
 
@@ -38,4 +29,3 @@
 
 1. …
 2. …
-3. …

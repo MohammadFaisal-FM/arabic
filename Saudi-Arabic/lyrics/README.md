@@ -7,8 +7,9 @@ Songs we share or discover on the Arabic learning journey.
 | # | Song | Artist | Dialect / style | File | Added |
 |---|------|--------|-----------------|------|-------|
 | 1 | أحلى قدر (A7la Qadar) — sample | via A7la Qadar channel | Levantine / romantic pop | [01-ahla-qadar.md](01-ahla-qadar.md) | 2026-07-27 |
+| 2 | لو تقدر تنساني | Unknown | Gulf / Najdi · romantic | [02-law-teqdar-tansani.md](02-law-teqdar-tansani.md) | 2026-07-27 |
 
-**Total songs:** 1
+**Total songs:** 2
 
 ---
 

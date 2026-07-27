@@ -57,3 +57,9 @@ Do not duplicate songs already in the index. Prefer Najdi/Khaliji when relevant;
 Templates: [Arabic-Learning-Framework.md](Saudi-Arabic/Arabic-Learning-Framework.md)
 
 Pronoun order: أنا → إحنا → أنت → أنتِ → أنتم → هو → هي → هم
+
+## Git commits (personal repo only)
+
+- Account: **MohammadFaisal-FM** / **Mohammad Faisal** — never use `mfaisalext-afk` for this repo.
+- Author email: `66563222+MohammadFaisal-FM@users.noreply.github.com`
+- Never add `Co-authored-by: Cursor` (run `scripts/install-git-hooks.ps1` if hooks missing).

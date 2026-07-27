@@ -112,10 +112,57 @@ async function loadCourseManifest(): Promise<CourseManifest> {
 
 async function loadLyricsManifest(): Promise<LyricsManifest> {
   if (lyricsManifest) return lyricsManifest;
-  const res = await fetch(`${BASE}lyrics-manifest.json`);
+  const res = await fetch(`${BASE}lyrics-manifest.json`, { cache: 'no-store' });
   if (!res.ok) throw new Error('Failed to load lyrics');
   lyricsManifest = await res.json();
   return lyricsManifest!;
+}
+
+function setHash(tab: Tab, songId?: string) {
+  if (tab === 'home') {
+    history.replaceState(null, '', window.location.pathname + window.location.search);
+    return;
+  }
+  if (tab === 'lyrics' && songId) {
+    history.replaceState(null, '', `#lyrics/${songId}`);
+    return;
+  }
+  history.replaceState(null, '', `#${tab}`);
+}
+
+async function applyHashRoute(): Promise<boolean> {
+  const raw = window.location.hash.replace(/^#/, '');
+  if (!raw) return false;
+
+  const [segment, songId] = raw.split('/');
+
+  if (segment === 'lyrics') {
+    activeTab = 'lyrics';
+    lyricsManifest = null;
+    activeSongFile = '';
+    if (songId) {
+      const manifest = await loadLyricsManifest();
+      const song = manifest.songs.find((s) => s.id === songId);
+      if (song) activeSongFile = song.file;
+    }
+    renderNav();
+    await renderMain();
+    return true;
+  }
+
+  const tab = segment as Tab;
+  if (['home', 'course', 'track', 'agent'].includes(tab)) {
+    activeTab = tab;
+    if (tab === 'track') activeDoc = DOCS.track[0].file;
+    if (tab === 'course' && !activeLessonFile) {
+      activeLessonFile = 'course/00-start/00-welcome.md';
+    }
+    renderNav();
+    await renderMain();
+    return true;
+  }
+
+  return false;
 }
 
 function parseStats(trackerMd: string, progressMd: string): Stats {
@@ -157,6 +204,9 @@ function renderNav() {
       if (t.id === 'lyrics') {
         activeSongFile = '';
         lyricsManifest = null;
+        setHash('lyrics');
+      } else {
+        setHash(t.id);
       }
       renderNav();
       renderMain();
@@ -314,6 +364,7 @@ async function renderLyrics(main: HTMLElement) {
         card.innerHTML = `<strong>${song.title}</strong><span>${song.artist || 'Unknown'} · ${song.dialect || '—'}</span>`;
         card.onclick = () => {
           activeSongFile = song.file;
+          setHash('lyrics', song.id);
           renderMain();
         };
         list.appendChild(card);
@@ -325,6 +376,7 @@ async function renderLyrics(main: HTMLElement) {
     const back = el('button', 'btn btn-outline', '← All songs');
     back.onclick = () => {
       activeSongFile = '';
+      setHash('lyrics');
       renderMain();
     };
     main.appendChild(back);
@@ -383,4 +435,9 @@ async function renderMain() {
 }
 
 renderNav();
-renderMain();
+applyHashRoute().then((handled) => {
+  if (!handled) renderMain();
+});
+window.addEventListener('hashchange', () => {
+  applyHashRoute();
+});

@@ -29,6 +29,22 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,ico,svg,md,txt,woff2}'],
         runtimeCaching: [
           {
+            urlPattern: /\/lyrics-manifest\.json$/i,
+            handler: 'NetworkFirst',
+            options: {
+              cacheName: 'lyrics-manifest',
+              expiration: { maxEntries: 1, maxAgeSeconds: 60 },
+            },
+          },
+          {
+            urlPattern: /\/course-manifest\.json$/i,
+            handler: 'NetworkFirst',
+            options: {
+              cacheName: 'course-manifest',
+              expiration: { maxEntries: 1, maxAgeSeconds: 300 },
+            },
+          },
+          {
             urlPattern: /^https:\/\/cursor\.com\/.*/i,
             handler: 'NetworkOnly',
           },

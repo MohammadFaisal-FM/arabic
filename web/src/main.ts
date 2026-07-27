@@ -3,6 +3,7 @@ import { marked } from 'marked';
 const BASE = import.meta.env.BASE_URL;
 
 type Tab = 'home' | 'course' | 'lyrics' | 'track' | 'agent';
+type PlanTier = 'free' | 'pro';
 
 interface Stats {
   roots: number;
@@ -68,6 +69,7 @@ const COMMANDS = [
   'coverage',
   'add lyrics',
 ];
+const PREMIUM_COMMANDS = new Set(['passage', 'coverage', 'add lyrics']);
 
 let activeTab: Tab = 'home';
 let activeDoc = '';
@@ -75,8 +77,32 @@ let activeLessonFile = '';
 let activeSongFile = '';
 let courseManifest: CourseManifest | null = null;
 let lyricsManifest: LyricsManifest | null = null;
+let planTier: PlanTier = loadPlanTier();
 
 marked.setOptions({ gfm: true, breaks: true });
+
+function loadPlanTier(): PlanTier {
+  try {
+    const stored = localStorage.getItem('plan-tier');
+    return stored === 'pro' ? 'pro' : 'free';
+  } catch {
+    return 'free';
+  }
+}
+
+function setPlanTier(next: PlanTier) {
+  planTier = next;
+  try {
+    localStorage.setItem('plan-tier', next);
+  } catch {
+    // Ignore storage write failures in restricted environments.
+  }
+  renderMain();
+}
+
+function hasProAccess(): boolean {
+  return planTier === 'pro';
+}
 
 function el<K extends keyof HTMLElementTagNameMap>(
   tag: K,
@@ -226,14 +252,26 @@ async function renderHome(main: HTMLElement) {
     const stats = parseStats(tracker, progress);
     main.innerHTML = '';
 
+    const shell = el('div', 'shell');
+    main.appendChild(shell);
+
     const startBtn = el('button', 'btn', 'Start the course →');
     startBtn.onclick = () => {
       activeTab = 'course';
       activeLessonFile = manifest.startLesson;
+      setHash('course');
       renderNav();
       renderMain();
     };
-    main.appendChild(startBtn);
+
+    const hero = el('div', 'card hero-card');
+    hero.innerHTML = `
+      <span class="mini-label">Welcome</span>
+      <h3>Learn Arabic with a calm daily rhythm</h3>
+      <p style="margin-top:0.4rem;">Build consistency with short lessons, lyric practice, and quick drills in one place.</p>
+    `;
+    hero.appendChild(startBtn);
+    shell.appendChild(hero);
 
     const grid = el('div', 'stats');
     grid.innerHTML = `
@@ -241,24 +279,56 @@ async function renderHome(main: HTMLElement) {
       <div class="stat-card"><div class="num">${stats.verbs}</div><div class="label">Verbs</div></div>
       <div class="stat-card"><div class="num">${stats.drilled}</div><div class="label">Drilled</div></div>
     `;
-    main.appendChild(grid);
+    shell.appendChild(grid);
 
     const pathCard = el('div', 'card');
     pathCard.innerHTML = `
+      <span class="mini-label">Roadmap</span>
       <h3>Course path</h3>
       <p><strong>Start</strong> → <strong>Basics</strong> → <strong>Grammar</strong> → <strong>Conversation</strong></p>
       <p style="margin-top:0.5rem;color:var(--muted);font-size:0.85rem">28 lessons · English grammar terms mapped to Arabic (ism, fi'l, harf, Sarf, Nahw)</p>
     `;
-    main.appendChild(pathCard);
+    shell.appendChild(pathCard);
 
-    main.appendChild(el('p', 'section-title', 'Quick commands'));
+    const membership = el('div', 'split');
+    membership.innerHTML = `
+      <div class="card subscription-plan">
+        <span class="mini-label">Future Subscription</span>
+        <h3>Membership-ready section</h3>
+        <p>Use this switch to simulate account tier and test feature gating now.</p>
+        <div class="plan-switch" id="plan-switch">
+          <button class="tier-btn${planTier === 'free' ? ' active' : ''}" data-tier="free">Free</button>
+          <button class="tier-btn${planTier === 'pro' ? ' active' : ''}" data-tier="pro">Pro</button>
+        </div>
+        <p class="plan-note">Current plan: <strong>${planTier.toUpperCase()}</strong></p>
+      </div>
+      <div class="card subscription-plan">
+        <span class="mini-label">Locked Features</span>
+        <h3>Premium placeholders</h3>
+        <p>${hasProAccess()
+          ? 'Pro unlocked: premium drills and deeper practice can be shown here.'
+          : 'Free plan: keep advanced drills, streak sync, and personalization locked here.'}</p>
+      </div>
+    `;
+    shell.appendChild(membership);
+    const switchWrap = membership.querySelector('#plan-switch');
+    if (switchWrap) {
+      switchWrap.querySelectorAll<HTMLButtonElement>('.tier-btn').forEach((btn) => {
+        btn.onclick = () => {
+          const tier = btn.dataset.tier === 'pro' ? 'pro' : 'free';
+          setPlanTier(tier);
+        };
+      });
+    }
+
+    shell.appendChild(el('p', 'section-title', 'Quick commands'));
     const chips = el('div', 'chips');
     COMMANDS.forEach((cmd) => {
       const chip = el('button', 'chip', cmd);
       chip.onclick = () => copyCommand(cmd);
       chips.appendChild(chip);
     });
-    main.appendChild(chips);
+    shell.appendChild(chips);
   } catch {
     main.innerHTML = '<p class="loading">Could not load content. Check connection.</p>';
   }
@@ -396,17 +466,32 @@ async function renderLyrics(main: HTMLElement) {
 function renderAgent(main: HTMLElement) {
   main.innerHTML = `
     <div class="card">
+      <span class="mini-label">Practice Layer</span>
       <h3>Cursor Cloud Agent</h3>
       <p>Run live drills, passages, and get feedback. Follow the course lessons, then practice here.</p>
       <a class="btn" href="https://cursor.com/agents" target="_blank" rel="noopener">Open Cursor Agents</a>
+    </div>
+    <div class="card subscription-plan">
+      <span class="mini-label">Subscription Hook</span>
+      <h3>Agent access controls</h3>
+      <p>${hasProAccess() ? 'Pro active: all commands enabled.' : 'Free plan active: premium commands are locked below.'}</p>
     </div>
     <p class="section-title">Paste a command</p>
     <div class="chips" id="agent-chips"></div>
   `;
   const chips = main.querySelector('#agent-chips')!;
   COMMANDS.forEach((cmd) => {
-    const chip = el('button', 'chip', cmd);
-    chip.onclick = () => copyCommand(cmd);
+    const isPremium = PREMIUM_COMMANDS.has(cmd);
+    const locked = isPremium && !hasProAccess();
+    const label = locked ? `${cmd}  (Pro)` : cmd;
+    const chip = el('button', `chip${locked ? ' locked-chip' : ''}`, label);
+    chip.onclick = () => {
+      if (locked) {
+        showToast('Upgrade to Pro to use this command');
+        return;
+      }
+      copyCommand(cmd);
+    };
     chips.appendChild(chip);
   });
 }

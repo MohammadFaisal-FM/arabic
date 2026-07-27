@@ -10,9 +10,9 @@ export default defineConfig({
       manifest: {
         name: 'Mohammad Faisal — Arabic',
         short_name: 'Arabic',
-        description: 'Mohammad Faisal’s Arabic course — drills, tracker, lyrics, passages',
-        theme_color: '#1a4d3e',
-        background_color: '#0f1419',
+        description: 'Arabic course — lessons and lyrics library',
+        theme_color: '#05060a',
+        background_color: '#05060a',
         display: 'standalone',
         orientation: 'portrait',
         start_url: '/',
@@ -43,10 +43,6 @@ export default defineConfig({
               cacheName: 'course-manifest',
               expiration: { maxEntries: 1, maxAgeSeconds: 300 },
             },
-          },
-          {
-            urlPattern: /^https:\/\/cursor\.com\/.*/i,
-            handler: 'NetworkOnly',
           },
         ],
       },

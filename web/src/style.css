@@ -1,15 +1,15 @@
 :root {
-  --bg: #090a11;
-  --bg-soft: #111323;
-  --surface: #171a2b;
-  --surface2: #202640;
-  --surface3: #262e4d;
-  --accent: #7f6dbf;
-  --accent-light: #9c8cd8;
-  --text: #eceaf6;
-  --muted: #a4a0bf;
-  --border: #2f3453;
-  --glow: rgba(156, 140, 216, 0.2);
+  --bg: #05060a;
+  --bg-soft: #0b0d14;
+  --surface: #10131d;
+  --surface2: #161b29;
+  --surface3: #1c2233;
+  --accent: #8b7ad0;
+  --accent-light: #b4a6e8;
+  --text: #f0eef8;
+  --muted: #958fb0;
+  --border: #252a3d;
+  --glow: rgba(139, 122, 208, 0.22);
   --radius: 14px;
   --safe-bottom: env(safe-area-inset-bottom, 0px);
 }
@@ -23,9 +23,10 @@
 html, body {
   height: 100%;
   background:
-    radial-gradient(120% 60% at 50% -20%, #29244a 0%, transparent 70%),
-    linear-gradient(180deg, #07080e 0%, var(--bg) 45%, #080911 100%);
+    radial-gradient(90% 50% at 50% -15%, rgba(70, 55, 120, 0.35) 0%, transparent 60%),
+    linear-gradient(180deg, #03040a 0%, #06070f 40%, #04050a 100%);
   color: var(--text);
+  color-scheme: dark;
   font-family: Inter, system-ui, -apple-system, 'Segoe UI', sans-serif;
   line-height: 1.5;
   -webkit-tap-highlight-color: transparent;
@@ -37,17 +38,17 @@ html, body {
   min-height: 100%;
   max-width: 480px;
   margin: 0 auto;
-  background: linear-gradient(180deg, rgba(17, 19, 35, 0.92) 0%, rgba(9, 10, 17, 0.9) 100%);
-  border-left: 1px solid rgba(47, 52, 83, 0.5);
-  border-right: 1px solid rgba(47, 52, 83, 0.5);
-  box-shadow: 0 0 36px rgba(0, 0, 0, 0.35);
+  background: linear-gradient(180deg, #080a12 0%, #05060b 55%, #04050a 100%);
+  border-left: 1px solid rgba(37, 42, 61, 0.8);
+  border-right: 1px solid rgba(37, 42, 61, 0.8);
+  box-shadow: 0 0 48px rgba(0, 0, 0, 0.55);
 }
 
 .header {
   padding: 1.35rem 1rem 0.95rem;
   text-align: center;
-  background: linear-gradient(180deg, rgba(127, 109, 191, 0.3) 0%, rgba(17, 19, 35, 0) 100%);
-  border-bottom: 1px solid rgba(47, 52, 83, 0.6);
+  background: linear-gradient(180deg, rgba(90, 70, 150, 0.22) 0%, rgba(5, 6, 10, 0) 100%);
+  border-bottom: 1px solid rgba(37, 42, 61, 0.85);
 }
 
 .header h1 {
@@ -123,7 +124,95 @@ html, body {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 0.75rem;
-  margin-bottom: 1.25rem;
+  margin-bottom: 0.35rem;
+}
+
+.tracker-hint {
+  font-size: 0.72rem;
+  color: var(--muted);
+  margin-bottom: 0.85rem;
+  line-height: 1.4;
+}
+
+.intro-lead {
+  margin: 0.45rem 0 0.75rem;
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+
+.speech-map {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  margin-bottom: 0.75rem;
+}
+
+.speech-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.55rem 0.65rem;
+  background: rgba(8, 10, 18, 0.55);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.speech-en {
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.speech-ar {
+  font-size: 0.95rem;
+  color: #e4ddff;
+  white-space: nowrap;
+}
+
+.speech-ar small {
+  margin-inline-start: 0.25rem;
+  font-size: 0.72rem;
+  color: var(--accent-light);
+}
+
+.intro-note {
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.contents-title {
+  margin: 0 0 0.55rem;
+  font-size: 1.15rem;
+}
+
+.course-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  max-height: 48vh;
+  overflow-y: auto;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.phase-block {
+  padding: 0.55rem;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: rgba(16, 19, 29, 0.7);
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.phase-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent-light);
+  margin-top: 0;
+  font-weight: 700;
 }
 
 .stat-card {
@@ -327,25 +416,6 @@ html, body {
   gap: 1rem;
 }
 
-.course-sidebar {
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-  max-height: 40vh;
-  overflow-y: auto;
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid var(--border);
-}
-
-.phase-label {
-  font-size: 0.7rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--accent-light);
-  margin-top: 0.75rem;
-  font-weight: 700;
-}
-
 .module-label {
   font-size: 0.72rem;
   color: var(--muted);
@@ -513,6 +583,42 @@ html, body {
 .locked-chip {
   opacity: 0.72;
   border-style: dashed;
+}
+
+.home-shortcuts {
+  display: grid;
+  gap: 0.7rem;
+}
+
+@media (min-width: 430px) {
+  .home-shortcuts {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.home-shortcut {
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  font-family: inherit;
+  color: inherit;
+}
+
+.home-shortcut strong {
+  display: block;
+  font-size: 0.95rem;
+  margin-top: 0.15rem;
+}
+
+.home-shortcut-sub {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.home-shortcut:active {
+  border-color: #8071bd;
 }
 
 /* Lyrics library */

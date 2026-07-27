@@ -1,9 +1,9 @@
 import { marked } from 'marked';
+import './style.css';
 
 const BASE = import.meta.env.BASE_URL;
 
-type Tab = 'home' | 'course' | 'lyrics' | 'track' | 'agent';
-type PlanTier = 'free' | 'pro';
+type Tab = 'home' | 'course' | 'lyrics';
 
 interface Stats {
   roots: number;
@@ -64,58 +64,13 @@ interface ParsedLyricsSong {
   footerMd: string;
 }
 
-const DOCS = {
-  track: [
-    { id: 'tracker', label: 'Verbs & Roots', file: 'verb-root-tracker.md' },
-    { id: 'progress', label: 'Progress', file: 'progress.md' },
-    { id: 'course-progress', label: 'Course', file: 'course-progress.md' },
-    { id: 'lyrics-index', label: 'Lyrics index', file: 'lyrics/README.md' },
-    { id: 'map', label: 'Map', file: 'course/COURSE-MAP.md' },
-  ],
-} as const;
-
-const COMMANDS = [
-  'drill word في',
-  'drill root ج-ل-س',
-  'drill verb قال',
-  'passage',
-  'coverage',
-  'add lyrics',
-];
-const PREMIUM_COMMANDS = new Set(['passage', 'coverage', 'add lyrics']);
-
 let activeTab: Tab = 'home';
-let activeDoc = '';
 let activeLessonFile = '';
 let activeSongFile = '';
 let courseManifest: CourseManifest | null = null;
 let lyricsManifest: LyricsManifest | null = null;
-let planTier: PlanTier = loadPlanTier();
 
 marked.setOptions({ gfm: true, breaks: true });
-
-function loadPlanTier(): PlanTier {
-  try {
-    const stored = localStorage.getItem('plan-tier');
-    return stored === 'pro' ? 'pro' : 'free';
-  } catch {
-    return 'free';
-  }
-}
-
-function setPlanTier(next: PlanTier) {
-  planTier = next;
-  try {
-    localStorage.setItem('plan-tier', next);
-  } catch {
-    // Ignore storage write failures in restricted environments.
-  }
-  renderMain();
-}
-
-function hasProAccess(): boolean {
-  return planTier === 'pro';
-}
 
 function el<K extends keyof HTMLElementTagNameMap>(
   tag: K,
@@ -128,11 +83,18 @@ function el<K extends keyof HTMLElementTagNameMap>(
   return node;
 }
 
-function showToast(msg: string) {
-  const toast = document.getElementById('toast')!;
-  toast.textContent = msg;
-  toast.classList.remove('hidden');
-  setTimeout(() => toast.classList.add('hidden'), 2000);
+function goToTab(tab: Tab) {
+  activeTab = tab;
+  if (tab === 'course' && !activeLessonFile) {
+    activeLessonFile = 'course/00-start/00-welcome.md';
+  }
+  if (tab === 'lyrics') {
+    activeSongFile = '';
+    lyricsManifest = null;
+  }
+  setHash(tab);
+  renderNav();
+  renderMain();
 }
 
 async function fetchText(file: string): Promise<string> {
@@ -173,7 +135,8 @@ async function applyHashRoute(): Promise<boolean> {
   const raw = window.location.hash.replace(/^#/, '');
   if (!raw) return false;
 
-  const [segment, songId] = raw.split('/');
+  const segment = raw.split('/')[0];
+  const songId = raw.split('/')[1];
 
   if (segment === 'lyrics') {
     activeTab = 'lyrics';
@@ -189,13 +152,19 @@ async function applyHashRoute(): Promise<boolean> {
     return true;
   }
 
-  const tab = segment as Tab;
-  if (['home', 'course', 'track', 'agent'].includes(tab)) {
-    activeTab = tab;
-    if (tab === 'track') activeDoc = DOCS.track[0].file;
-    if (tab === 'course' && !activeLessonFile) {
+  if (segment === 'home' || segment === 'course') {
+    activeTab = segment;
+    if (activeTab === 'course' && !activeLessonFile) {
       activeLessonFile = 'course/00-start/00-welcome.md';
     }
+    renderNav();
+    await renderMain();
+    return true;
+  }
+
+  // Old public routes (#practice / #agent / #track) go home — no personal tooling in the public app.
+  if (segment === 'practice' || segment === 'agent' || segment === 'track') {
+    activeTab = 'home';
     renderNav();
     await renderMain();
     return true;
@@ -255,29 +224,12 @@ function renderNav() {
     { id: 'home', icon: '🏠', label: 'Home' },
     { id: 'course', icon: '📚', label: 'Course' },
     { id: 'lyrics', icon: '🎵', label: 'Lyrics' },
-    { id: 'track', icon: '📊', label: 'Track' },
-    { id: 'agent', icon: '🤖', label: 'Agent' },
   ];
   nav.innerHTML = '';
   tabs.forEach((t) => {
     const btn = el('button', activeTab === t.id ? 'active' : '');
     btn.innerHTML = `<span class="icon">${t.icon}</span>${t.label}`;
-    btn.onclick = () => {
-      activeTab = t.id;
-      if (t.id === 'track') activeDoc = DOCS.track[0].file;
-      if (t.id === 'course' && !activeLessonFile) {
-        activeLessonFile = 'course/00-start/00-welcome.md';
-      }
-      if (t.id === 'lyrics') {
-        activeSongFile = '';
-        lyricsManifest = null;
-        setHash('lyrics');
-      } else {
-        setHash(t.id);
-      }
-      renderNav();
-      renderMain();
-    };
+    btn.onclick = () => goToTab(t.id);
     nav.appendChild(btn);
   });
 }
@@ -285,91 +237,84 @@ function renderNav() {
 async function renderHome(main: HTMLElement) {
   main.innerHTML = '<p class="loading">Loading…</p>';
   try {
-    const [tracker, progress, manifest] = await Promise.all([
+    const [tracker, progress, manifest, lyrics] = await Promise.all([
       fetchText('verb-root-tracker.md'),
       fetchText('progress.md'),
       loadCourseManifest(),
+      loadLyricsManifest(),
     ]);
     const stats = parseStats(tracker, progress);
     main.innerHTML = '';
 
-    const shell = el('div', 'shell');
+    const shell = el('div', 'shell home-shell');
     main.appendChild(shell);
 
-    const startBtn = el('button', 'btn', 'Start the course →');
-    startBtn.onclick = () => {
-      activeTab = 'course';
-      activeLessonFile = manifest.startLesson;
-      setHash('course');
-      renderNav();
-      renderMain();
-    };
-
-    const hero = el('div', 'card hero-card');
-    hero.innerHTML = `
-      <span class="mini-label">Welcome</span>
-      <h3>Learn Arabic with a calm daily rhythm</h3>
-      <p style="margin-top:0.4rem;">Build consistency with short lessons, lyric practice, and quick drills in one place.</p>
+    const intro = el('div', 'card intro-card');
+    intro.innerHTML = `
+      <span class="mini-label">For English speakers</span>
+      <h3>How Arabic connects to English</h3>
+      <p class="intro-lead">English uses many word types. Arabic groups almost every word into <strong>three</strong> kinds — learn these first and the language becomes readable.</p>
+      <div class="speech-map">
+        <div class="speech-row">
+          <span class="speech-en">Noun / pronoun / adjective</span>
+          <span class="speech-ar" lang="ar" dir="rtl">اسم <small>ism</small></span>
+        </div>
+        <div class="speech-row">
+          <span class="speech-en">Verb</span>
+          <span class="speech-ar" lang="ar" dir="rtl">فعل <small>fiʿl</small></span>
+        </div>
+        <div class="speech-row">
+          <span class="speech-en">Preposition / conjunction / particle</span>
+          <span class="speech-ar" lang="ar" dir="rtl">حرف <small>ḥarf</small></span>
+        </div>
+      </div>
+      <p class="intro-note">Then you learn <strong>roots</strong> (جذر) — the 3-letter core of a word family — and build sentences with <strong>Sarf</strong> (word forms) + <strong>Nahw</strong> (sentence grammar).</p>
     `;
-    hero.appendChild(startBtn);
-    shell.appendChild(hero);
+    shell.appendChild(intro);
 
-    const grid = el('div', 'stats');
+    const continueCard = el('div', 'card hero-card');
+    continueCard.innerHTML = `
+      <span class="mini-label">Continue</span>
+      <h3>Pick up your lesson</h3>
+      <p style="margin-top:0.4rem;">Follow the path: Start → Basics → Grammar → Conversation.</p>
+    `;
+    const startBtn = el('button', 'btn', 'Continue course →');
+    startBtn.onclick = () => {
+      activeLessonFile = activeLessonFile || manifest.startLesson;
+      goToTab('course');
+    };
+    continueCard.appendChild(startBtn);
+    shell.appendChild(continueCard);
+
+    const grid = el('div', 'stats stats-main');
     grid.innerHTML = `
       <div class="stat-card"><div class="num">${stats.roots}</div><div class="label">Roots</div></div>
       <div class="stat-card"><div class="num">${stats.verbs}</div><div class="label">Verbs</div></div>
-      <div class="stat-card"><div class="num">${stats.drilled}</div><div class="label">Drilled</div></div>
+      <div class="stat-card"><div class="num">${lyrics.songs.length}</div><div class="label">Songs</div></div>
     `;
     shell.appendChild(grid);
+    shell.appendChild(el('p', 'tracker-hint', 'Main trackers: Roots (word families) · Verbs (actions) · Songs (listening practice)'));
 
-    const pathCard = el('div', 'card');
-    pathCard.innerHTML = `
-      <span class="mini-label">Roadmap</span>
-      <h3>Course path</h3>
-      <p><strong>Start</strong> → <strong>Basics</strong> → <strong>Grammar</strong> → <strong>Conversation</strong></p>
-      <p style="margin-top:0.5rem;color:var(--muted);font-size:0.85rem">28 lessons · English grammar terms mapped to Arabic (ism, fi'l, harf, Sarf, Nahw)</p>
+    const shortcuts = el('div', 'home-shortcuts');
+    const lyricsBtn = el('button', 'card home-shortcut');
+    lyricsBtn.innerHTML = `
+      <span class="mini-label">Lyrics</span>
+      <strong>Open library</strong>
+      <span class="home-shortcut-sub">Arabic · English songs</span>
     `;
-    shell.appendChild(pathCard);
+    lyricsBtn.onclick = () => goToTab('lyrics');
 
-    const membership = el('div', 'split');
-    membership.innerHTML = `
-      <div class="card subscription-plan">
-        <span class="mini-label">Future Subscription</span>
-        <h3>Membership-ready section</h3>
-        <p>Use this switch to simulate account tier and test feature gating now.</p>
-        <div class="plan-switch" id="plan-switch">
-          <button class="tier-btn${planTier === 'free' ? ' active' : ''}" data-tier="free">Free</button>
-          <button class="tier-btn${planTier === 'pro' ? ' active' : ''}" data-tier="pro">Pro</button>
-        </div>
-        <p class="plan-note">Current plan: <strong>${planTier.toUpperCase()}</strong></p>
-      </div>
-      <div class="card subscription-plan">
-        <span class="mini-label">Locked Features</span>
-        <h3>Premium placeholders</h3>
-        <p>${hasProAccess()
-          ? 'Pro unlocked: premium drills and deeper practice can be shown here.'
-          : 'Free plan: keep advanced drills, streak sync, and personalization locked here.'}</p>
-      </div>
+    const courseBtn = el('button', 'card home-shortcut');
+    courseBtn.innerHTML = `
+      <span class="mini-label">Course</span>
+      <strong>Browse lessons</strong>
+      <span class="home-shortcut-sub">Organized by phase</span>
     `;
-    shell.appendChild(membership);
-    const switchWrap = membership.querySelector('#plan-switch');
-    if (switchWrap) {
-      switchWrap.querySelectorAll<HTMLButtonElement>('.tier-btn').forEach((btn) => {
-        btn.onclick = () => {
-          const tier = btn.dataset.tier === 'pro' ? 'pro' : 'free';
-          setPlanTier(tier);
-        };
-      });
-    }
+    courseBtn.onclick = () => goToTab('course');
 
-    shell.appendChild(el('p', 'section-title', 'Quick commands'));
-    const chips = el('div', 'chips');
-    COMMANDS.forEach((cmd) => {
-      const chip = el('button', 'chip', cmd);
-      chip.onclick = () => copyCommand(cmd);
-      chips.appendChild(chip);
-    });
-    shell.appendChild(chips);
+    shortcuts.appendChild(lyricsBtn);
+    shortcuts.appendChild(courseBtn);
+    shell.appendChild(shortcuts);
   } catch {
     main.innerHTML = '<p class="loading">Could not load content. Check connection.</p>';
   }
@@ -386,23 +331,28 @@ async function renderCourse(main: HTMLElement) {
     const layout = el('div', 'course-layout');
 
     const sidebar = el('div', 'course-sidebar');
-    manifest.phases.forEach((phase) => {
-      sidebar.appendChild(el('p', 'phase-label', phase.title));
+    sidebar.appendChild(el('h2', 'page-title contents-title', 'Contents'));
+    manifest.phases.forEach((phase, phaseIndex) => {
+      const phaseBlock = el('div', 'phase-block');
+      phaseBlock.innerHTML = `<p class="phase-label">Phase ${phaseIndex + 1} · ${phase.title}</p>`;
       phase.modules.forEach((mod) => {
-        sidebar.appendChild(el('p', 'module-label', mod.title.replace(/^Module \d+ — /, '')));
+        phaseBlock.appendChild(
+          el('p', 'module-label', mod.title.replace(/^Module \d+\s*[—-]\s*/, ''))
+        );
         mod.lessons.forEach((lesson) => {
           const btn = el(
             'button',
             `lesson-btn${activeLessonFile === lesson.file ? ' active' : ''}`,
-            `${lesson.id} ${lesson.title}`
+            `${lesson.id} · ${lesson.title}`
           );
           btn.onclick = () => {
             activeLessonFile = lesson.file;
             renderMain();
           };
-          sidebar.appendChild(btn);
+          phaseBlock.appendChild(btn);
         });
       });
+      sidebar.appendChild(phaseBlock);
     });
     layout.appendChild(sidebar);
 
@@ -417,32 +367,6 @@ async function renderCourse(main: HTMLElement) {
     body.innerHTML = await marked.parse(text);
   } catch {
     main.innerHTML = '<p class="loading">Could not load course.</p>';
-  }
-}
-
-async function renderDocView(main: HTMLElement, docs: readonly { id: string; label: string; file: string }[]) {
-  if (!activeDoc) activeDoc = docs[0].file;
-
-  const tabs = el('div', 'doc-tabs');
-  docs.forEach((d) => {
-    const tab = el('button', `doc-tab${activeDoc === d.file ? ' active' : ''}`, d.label);
-    tab.onclick = () => {
-      activeDoc = d.file;
-      renderMain();
-    };
-    tabs.appendChild(tab);
-  });
-  main.appendChild(tabs);
-
-  const body = el('div', 'md-content');
-  body.innerHTML = '<p class="loading">Loading…</p>';
-  main.appendChild(body);
-
-  try {
-    const text = await fetchText(activeDoc);
-    body.innerHTML = await marked.parse(text);
-  } catch {
-    body.innerHTML = '<p>Failed to load document.</p>';
   }
 }
 
@@ -469,7 +393,7 @@ async function renderLyrics(main: HTMLElement) {
 
     if (manifest.songs.length === 0) {
       const empty = el('div', 'card');
-      empty.innerHTML = '<p>No songs yet. Share lyrics in Cursor or type <code>add lyrics</code>.</p>';
+      empty.innerHTML = '<p>No songs yet. Songs you add will appear here.</p>';
       main.appendChild(empty);
       return;
     }
@@ -545,39 +469,6 @@ async function renderLyricsSong(main: HTMLElement) {
   }
 }
 
-function renderAgent(main: HTMLElement) {
-  main.innerHTML = `
-    <div class="card">
-      <span class="mini-label">Practice Layer</span>
-      <h3>Cursor Cloud Agent</h3>
-      <p>Run live drills, passages, and get feedback. Follow the course lessons, then practice here.</p>
-      <a class="btn" href="https://cursor.com/agents" target="_blank" rel="noopener">Open Cursor Agents</a>
-    </div>
-    <div class="card subscription-plan">
-      <span class="mini-label">Subscription Hook</span>
-      <h3>Agent access controls</h3>
-      <p>${hasProAccess() ? 'Pro active: all commands enabled.' : 'Free plan active: premium commands are locked below.'}</p>
-    </div>
-    <p class="section-title">Paste a command</p>
-    <div class="chips" id="agent-chips"></div>
-  `;
-  const chips = main.querySelector('#agent-chips')!;
-  COMMANDS.forEach((cmd) => {
-    const isPremium = PREMIUM_COMMANDS.has(cmd);
-    const locked = isPremium && !hasProAccess();
-    const label = locked ? `${cmd}  (Pro)` : cmd;
-    const chip = el('button', `chip${locked ? ' locked-chip' : ''}`, label);
-    chip.onclick = () => {
-      if (locked) {
-        showToast('Upgrade to Pro to use this command');
-        return;
-      }
-      copyCommand(cmd);
-    };
-    chips.appendChild(chip);
-  });
-}
-
 async function renderMain() {
   const main = document.getElementById('main')!;
   main.innerHTML = '';
@@ -595,12 +486,6 @@ async function renderMain() {
       break;
     case 'lyrics':
       await renderLyrics(main);
-      break;
-    case 'track':
-      await renderDocView(main, DOCS.track);
-      break;
-    case 'agent':
-      renderAgent(main);
       break;
   }
 }

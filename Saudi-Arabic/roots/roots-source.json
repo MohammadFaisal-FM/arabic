@@ -1,0 +1,150 @@
+{
+  "note": "High-frequency everyday Arabic roots for learners (Saudi/Najdi focus). Not a complete dictionary — classical Arabic has thousands of roots.",
+  "roots": [
+    { "id": "akhd", "root": "أ-خ-ذ", "meaning": "taking", "formI": "أخذ / ياخذ", "example": "أخذت المفتاح — I took the key" },
+    { "id": "akl", "root": "أ-ك-ل", "meaning": "eating", "formI": "أكل / ياكل", "example": "أكلت رز — I ate rice" },
+    { "id": "amr", "root": "أ-م-ر", "meaning": "ordering / commanding", "formI": "أمر / يأمر", "example": "أمرني أسويها — He told me to do it" },
+    { "id": "aty", "root": "أ-ت-ي", "meaning": "coming / bringing", "formI": "أتى / ياتي", "example": "متى تجي؟ — When are you coming?" },
+
+    { "id": "bda", "root": "ب-د-أ", "meaning": "starting", "formI": "بدأ / يبدأ", "example": "بدأت الدرس — I started the lesson" },
+    { "id": "bhth", "root": "ب-ح-ث", "meaning": "searching", "formI": "بحث / يبحث", "example": "أبحث عن عمل — I’m looking for work" },
+    { "id": "by3", "root": "ب-ي-ع", "meaning": "selling", "formI": "باع / يبيع", "example": "بعت السيارة — I sold the car" },
+    { "id": "bghy", "root": "ب-غ-ي", "meaning": "wanting (Najdi)", "formI": "بغى / يبغى", "example": "أبغى قهوة — I want coffee" },
+    { "id": "blgh", "root": "ب-ل-غ", "meaning": "reaching / informing", "formI": "بلغ / يبلغ", "example": "بلغني الخبر — The news reached me" },
+
+    { "id": "trk", "root": "ت-ر-ك", "meaning": "leaving", "formI": "ترك / يترك", "example": "تركت الجوال — I left the phone" },
+    { "id": "tb3", "root": "ت-ب-ع", "meaning": "following", "formI": "تبع / يتبع", "example": "اتبعني — Follow me" },
+    { "id": "tmm", "root": "ت-م-م", "meaning": "completing", "formI": "تمّ / يتم", "example": "تمّ الشغل — The work is done" },
+
+    { "id": "thbt", "root": "ث-ب-ت", "meaning": "staying firm / proving", "formI": "ثبت / يثبت", "example": "ثبت الرقم — Save / confirm the number" },
+    { "id": "thql", "root": "ث-ق-ل", "meaning": "being heavy", "formI": "ثقل / يثقل", "example": "الشغل ثقيل — The work is heavy" },
+
+    { "id": "jls", "root": "ج-ل-س", "meaning": "sitting", "formI": "جلس / يجلس", "example": "اجلس هنا — Sit here" },
+    { "id": "jy", "root": "ج-ي-ء", "meaning": "coming", "formI": "جا / يجي", "example": "بجي بعدين — I’ll come later" },
+    { "id": "jm3", "root": "ج-م-ع", "meaning": "gathering", "formI": "جمع / يجمع", "example": "جمعنا الفلوس — We collected the money" },
+    { "id": "jrb", "root": "ج-ر-ب", "meaning": "trying", "formI": "جرب / يجرب", "example": "جربت الأكل — I tried the food" },
+    { "id": "jry", "root": "ج-ر-ي", "meaning": "running", "formI": "جرى / يجري", "example": "يجري بسرعة — He runs fast" },
+
+    { "id": "hbb", "root": "ح-ب-ب", "meaning": "loving", "formI": "حبّ / يحب", "example": "أحب القهوة — I love coffee" },
+    { "id": "hsil", "root": "ح-ص-ل", "meaning": "happening / getting", "formI": "حصل / يحصل", "example": "وش حصل؟ — What happened?" },
+    { "id": "hfz", "root": "ح-ف-ظ", "meaning": "memorizing / keeping", "formI": "حفظ / يحفظ", "example": "حفظت الدرس — I memorized the lesson" },
+    { "id": "htt", "root": "ح-ط-ط", "meaning": "putting / placing", "formI": "حطّ / يحط", "example": "حطها هنا — Put it here" },
+    { "id": "hdr", "root": "ح-ض-ر", "meaning": "attending / preparing", "formI": "حضر / يحضر", "example": "حضرت الاجتماع — I attended the meeting" },
+    { "id": "hky", "root": "ح-ك-ي", "meaning": "speaking / telling", "formI": "حكى / يحكي", "example": "احكي لي — Tell me" },
+    { "id": "hml", "root": "ح-م-ل", "meaning": "carrying", "formI": "حمل / يحمل", "example": "احمل الشنطة — Carry the bag" },
+
+    { "id": "khrj", "root": "خ-ر-ج", "meaning": "going out", "formI": "خرج / يخرج", "example": "خرجت من البيت — I left the house" },
+    { "id": "khaf", "root": "خ-و-ف", "meaning": "fearing", "formI": "خاف / يخاف", "example": "ما أخاف — I’m not afraid" },
+    { "id": "khdm", "root": "خ-د-م", "meaning": "serving", "formI": "خدم / يخدم", "example": "يخدم الزباين — He serves customers" },
+    { "id": "khlS", "root": "خ-ل-ص", "meaning": "finishing", "formI": "خلص / يخلص", "example": "خلصت الشغل — I finished the work" },
+
+    { "id": "dkhl", "root": "د-خ-ل", "meaning": "entering", "formI": "دخل / يدخل", "example": "ادخل — Come in" },
+    { "id": "drs", "root": "د-ر-س", "meaning": "studying", "formI": "درس / يدرس", "example": "أدرس عربي — I study Arabic" },
+    { "id": "df3", "root": "د-ف-ع", "meaning": "paying / pushing", "formI": "دفع / يدفع", "example": "دفعت الحساب — I paid the bill" },
+    { "id": "dwr", "root": "د-و-ر", "meaning": "turning / looking for", "formI": "دار / يدور", "example": "أدور على مفتاح — I’m looking for a key" },
+
+    { "id": "dhhb", "root": "ذ-ه-ب", "meaning": "going", "formI": "ذهب / يذهب", "example": "وين تروح؟ — Where are you going?" },
+    { "id": "dhkr", "root": "ذ-ك-ر", "meaning": "mentioning / remembering", "formI": "ذكر / يذكر", "example": "تذكرت اسمه — I remembered his name" },
+
+    { "id": "rj3", "root": "ر-ج-ع", "meaning": "returning", "formI": "رجع / يرجع", "example": "برجع بعدين — I’ll come back later" },
+    { "id": "rah", "root": "ر-و-ح", "meaning": "going (Najdi)", "formI": "راح / يروح", "example": "أروح السوق — I’m going to the market" },
+    { "id": "ray", "root": "ر-ا-ي", "meaning": "seeing", "formI": "رأى / يرى", "example": "شفتك أمس — I saw you yesterday" },
+    { "id": "rkb", "root": "ر-ك-ب", "meaning": "riding / boarding", "formI": "ركب / يركب", "example": "ركب السيارة — He got in the car" },
+    { "id": "rdd", "root": "ر-د-د", "meaning": "replying / returning", "formI": "ردّ / يرد", "example": "رد عليّ — Reply to me" },
+    { "id": "rgb", "root": "ر-غ-ب", "meaning": "desiring", "formI": "رغب / يرغب", "example": "أرغب في القهوة — I’d like coffee" },
+
+    { "id": "zwr", "root": "ز-و-ر", "meaning": "visiting", "formI": "زار / يزور", "example": "بزور أهلي — I’ll visit my family" },
+    { "id": "zyd", "root": "ز-ي-د", "meaning": "increasing", "formI": "زاد / يزيد", "example": "زاد السعر — The price went up" },
+
+    { "id": "sal", "root": "س-أ-ل", "meaning": "asking", "formI": "سأل / يسأل", "example": "أسألك سؤال — Can I ask you something?" },
+    { "id": "swy", "root": "س-و-ي", "meaning": "making / doing", "formI": "سوى / يسوي", "example": "وش تسوي؟ — What are you doing?" },
+    { "id": "sm3", "root": "س-م-ع", "meaning": "hearing", "formI": "سمع / يسمع", "example": "سمعتك — I heard you" },
+    { "id": "skn", "root": "س-ك-ن", "meaning": "living / residing", "formI": "سكن / يسكن", "example": "أسكن في الرياض — I live in Riyadh" },
+    { "id": "syr", "root": "س-ي-ر", "meaning": "walking / going", "formI": "سار / يسير", "example": "سر معي — Walk with me" },
+    { "id": "sqT", "root": "س-ق-ط", "meaning": "falling", "formI": "سقط / يسقط", "example": "سقط الجوال — The phone fell" },
+
+    { "id": "shaf", "root": "ش-و-ف", "meaning": "seeing (Najdi)", "formI": "شاف / يشوف", "example": "أشوفك بكرة — I’ll see you tomorrow" },
+    { "id": "shrb", "root": "ش-ر-ب", "meaning": "drinking", "formI": "شرب / يشرب", "example": "أشرب شاهي — I drink tea" },
+    { "id": "shghl", "root": "ش-غ-ل", "meaning": "working / occupying", "formI": "شغل / يشغل", "example": "وين تشتغل؟ — Where do you work?" },
+    { "id": "shry", "root": "ش-ر-ي", "meaning": "buying", "formI": "شرى / يشري", "example": "شريت أكل — I bought food" },
+    { "id": "shkk", "root": "ش-ك-ك", "meaning": "doubting", "formI": "شكّ / يشك", "example": "ما أشك — I don’t doubt" },
+
+    { "id": "sar", "root": "ص-ي-ر", "meaning": "becoming", "formI": "صار / يصير", "example": "صار الليل — It became night" },
+    { "id": "sbr", "root": "ص-ب-ر", "meaning": "being patient", "formI": "صبر / يصبر", "example": "اصبر شوي — Be patient a bit" },
+    { "id": "slh", "root": "ص-ل-ح", "meaning": "fixing / being suitable", "formI": "صلح / يصلح", "example": "يصلح الجوال — He fixes phones" },
+    { "id": "sbh", "root": "ص-ب-ح", "meaning": "becoming morning / waking", "formI": "صبح / يصبح", "example": "صباح الخير — Good morning" },
+
+    { "id": "drb", "root": "ض-ر-ب", "meaning": "hitting", "formI": "ضرب / يضرب", "example": "لا تضرب — Don’t hit" },
+    { "id": "dyq", "root": "ض-ي-ق", "meaning": "being tight / annoyed", "formI": "ضاق / يضيق", "example": "ضاق صدري — I feel upset" },
+    { "id": "dHk", "root": "ض-ح-ك", "meaning": "laughing", "formI": "ضحك / يضحك", "example": "يضحك كثير — He laughs a lot" },
+
+    { "id": "tl3", "root": "ط-ل-ع", "meaning": "going up / coming out", "formI": "طلع / يطلع", "example": "طلعت برا — I went outside" },
+    { "id": "tlb", "root": "ط-ل-ب", "meaning": "requesting / ordering", "formI": "طلب / يطلب", "example": "طلبت قهوة — I ordered coffee" },
+    { "id": "tbkh", "root": "ط-ب-خ", "meaning": "cooking", "formI": "طبخ / يطبخ", "example": "أطبخ اليوم — I’m cooking today" },
+    { "id": "twl", "root": "ط-و-ل", "meaning": "taking long / being tall", "formI": "طول / يطول", "example": "لا تطول — Don’t take long" },
+
+    { "id": "znn", "root": "ظ-ن-ن", "meaning": "thinking / assuming", "formI": "ظنّ / يظن", "example": "أظن كذا — I think so" },
+    { "id": "zhr", "root": "ظ-ه-ر", "meaning": "appearing", "formI": "ظهر / يظهر", "example": "ظهر الحل — The solution appeared" },
+
+    { "id": "3rf", "root": "ع-ر-ف", "meaning": "knowing", "formI": "عرف / يعرف", "example": "أعرف الطريق — I know the way" },
+    { "id": "3ml", "root": "ع-م-ل", "meaning": "working / doing", "formI": "عمل / يعمل", "example": "وش تشتغل؟ — What do you do?" },
+    { "id": "3ysh", "root": "ع-ي-ش", "meaning": "living", "formI": "عاش / يعيش", "example": "أعيش هنا — I live here" },
+    { "id": "3ty", "root": "ع-ط-ي", "meaning": "giving", "formI": "عطى / يعطي", "example": "أعطني جوالك — Give me your phone" },
+    { "id": "3dd", "root": "ع-د-د", "meaning": "counting", "formI": "عدّ / يعد", "example": "عدّ الفلوس — Count the money" },
+    { "id": "3lm", "root": "ع-ل-م", "meaning": "knowing / teaching", "formI": "علم / يعلم", "example": "تعلّم عربي — Learn Arabic" },
+
+    { "id": "ghsl", "root": "غ-س-ل", "meaning": "washing", "formI": "غسل / يغسل", "example": "اغسل يدك — Wash your hands" },
+    { "id": "ghyb", "root": "غ-ي-ب", "meaning": "being absent", "formI": "غاب / يغيب", "example": "غاب عن الدرس — He missed the lesson" },
+    { "id": "ghyr", "root": "غ-ي-ر", "meaning": "changing", "formI": "غيّر / يغيّر", "example": "غيّر رأيك — Change your mind" },
+
+    { "id": "fth", "root": "ف-ت-ح", "meaning": "opening", "formI": "فتح / يفتح", "example": "افتح الباب — Open the door" },
+    { "id": "fhm", "root": "ف-ه-م", "meaning": "understanding", "formI": "فهم / يفهم", "example": "فهمت؟ — Did you understand?" },
+    { "id": "fkr", "root": "ف-ك-ر", "meaning": "thinking", "formI": "فكّر / يفكّر", "example": "خلني أفكر — Let me think" },
+    { "id": "f3l", "root": "ف-ع-ل", "meaning": "doing", "formI": "فعل / يفعل", "example": "وش أسوي؟ — What should I do?" },
+    { "id": "fqd", "root": "ف-ق-د", "meaning": "losing", "formI": "فقد / يفقد", "example": "فقدت المفتاح — I lost the key" },
+
+    { "id": "qwl", "root": "ق-و-ل", "meaning": "saying", "formI": "قال / يقول", "example": "وش قلت؟ — What did you say?" },
+    { "id": "qra", "root": "ق-ر-أ", "meaning": "reading", "formI": "قرأ / يقرأ", "example": "أقرأ كتاب — I’m reading a book" },
+    { "id": "qwm", "root": "ق-و-م", "meaning": "standing / getting up", "formI": "قام / يقوم", "example": "قوم — Get up" },
+    { "id": "qdr", "root": "ق-د-ر", "meaning": "being able", "formI": "قدر / يقدر", "example": "أقدر أجي — I can come" },
+    { "id": "qt3", "root": "ق-ط-ع", "meaning": "cutting", "formI": "قطع / يقطع", "example": "قطع الخط — The line cut off" },
+    { "id": "qrb", "root": "ق-ر-ب", "meaning": "approaching", "formI": "قرب / يقرب", "example": "قرب مني — Come closer" },
+
+    { "id": "ktb", "root": "ك-ت-ب", "meaning": "writing", "formI": "كتب / يكتب", "example": "أكتب رسالة — I’m writing a letter" },
+    { "id": "kwn", "root": "ك-و-ن", "meaning": "being", "formI": "كان / يكون", "example": "كان هنا — He was here" },
+    { "id": "klm", "root": "ك-ل-م", "meaning": "speaking", "formI": "كلّم / يكلّم", "example": "كلّمني بعدين — Call / talk to me later" },
+    { "id": "ksr", "root": "ك-س-ر", "meaning": "breaking", "formI": "كسر / يكسر", "example": "انكسر الجوال — The phone broke" },
+    { "id": "kbr", "root": "ك-ب-ر", "meaning": "growing / being big", "formI": "كبر / يكبر", "example": "كبر الولد — The boy grew up" },
+
+    { "id": "l3b", "root": "ل-ع-ب", "meaning": "playing", "formI": "لعب / يلعب", "example": "يلعب كورة — He plays football" },
+    { "id": "lqy", "root": "ل-ق-ي", "meaning": "finding", "formI": "لقى / يلقى", "example": "لقيت المفتاح — I found the key" },
+    { "id": "lbs", "root": "ل-ب-س", "meaning": "wearing / dressing", "formI": "لبس / يلبس", "example": "وش تلبس؟ — What are you wearing?" },
+    { "id": "lzm", "root": "ل-ز-م", "meaning": "must / sticking", "formI": "لزم / يلزم", "example": "لازم أروح — I must go" },
+
+    { "id": "mshy", "root": "م-ش-ي", "meaning": "walking", "formI": "مشى / يمشي", "example": "أمشي كل يوم — I walk every day" },
+    { "id": "msk", "root": "م-س-ك", "meaning": "holding / catching", "formI": "مسك / يمسك", "example": "امسك هذي — Hold this" },
+    { "id": "mrr", "root": "م-ر-ر", "meaning": "passing", "formI": "مرّ / يمر", "example": "مرّيت من عندك — I passed by you" },
+    { "id": "mwt", "root": "م-و-ت", "meaning": "dying", "formI": "مات / يموت", "example": "مات البطارية — The battery died" },
+    { "id": "mlk", "root": "م-ل-ك", "meaning": "owning", "formI": "ملك / يملك", "example": "أملك سيارة — I own a car" },
+
+    { "id": "nam", "root": "ن-و-م", "meaning": "sleeping", "formI": "نام / ينام", "example": "أنام بدري — I sleep early" },
+    { "id": "nzl", "root": "ن-ز-ل", "meaning": "going down / getting off", "formI": "نزل / ينزل", "example": "نزلت من السيارة — I got out of the car" },
+    { "id": "nzr", "root": "ن-ظ-ر", "meaning": "looking", "formI": "نظر / ينظر", "example": "انظر هنا — Look here" },
+    { "id": "nsy", "root": "ن-س-ي", "meaning": "forgetting", "formI": "نسي / ينسى", "example": "نسيت اسمه — I forgot his name" },
+    { "id": "nql", "root": "ن-ق-ل", "meaning": "moving / transferring", "formI": "نقل / ينقل", "example": "نقلت البيت — I moved house" },
+
+    { "id": "hrb", "root": "ه-ر-ب", "meaning": "escaping / running away", "formI": "هرب / يهرب", "example": "هرب الكلب — The dog ran away" },
+    { "id": "hmm", "root": "ه-م-م", "meaning": "being concerned", "formI": "همّ / يهم", "example": "يهمني الأمر — This matters to me" },
+    { "id": "hdy", "root": "ه-د-ي", "meaning": "calming / guiding", "formI": "هدى / يهدي", "example": "اهدأ شوي — Calm down a bit" },
+
+    { "id": "wsl", "root": "و-ص-ل", "meaning": "arriving / connecting", "formI": "وصل / يوصل", "example": "وصلت البيت — I arrived home" },
+    { "id": "wqf", "root": "و-ق-ف", "meaning": "stopping / standing", "formI": "وقف / يوقف", "example": "وقف هنا — Stop here" },
+    { "id": "wd3", "root": "و-ض-ع", "meaning": "placing", "formI": "وضع / يوضع", "example": "حطها / ضعها هنا — Put it here" },
+    { "id": "wjd", "root": "و-ج-د", "meaning": "finding / existing", "formI": "وجد / يوجد", "example": "لقيت / ما فيه — I found it / there isn’t" },
+    { "id": "wld", "root": "و-ل-د", "meaning": "being born / giving birth", "formI": "ولد / يولد", "example": "ولد في الرياض — He was born in Riyadh" },
+    { "id": "ws3", "root": "و-س-ع", "meaning": "being wide / roomy", "formI": "وسع / يوسع", "example": "المكان واسع — The place is spacious" },
+
+    { "id": "ysr", "root": "ي-س-ر", "meaning": "being easy", "formI": "يسر / ييسر", "example": "الله ييسّر — May God make it easy" },
+    { "id": "ybs", "root": "ي-ب-س", "meaning": "drying", "formI": "يبس / ييبس", "example": "يبس الغسيل — The laundry dried" }
+  ]
+}

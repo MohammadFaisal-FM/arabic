@@ -1,0 +1,481 @@
+{
+  "title": "Ḥarf — Particles",
+  "description": "Everyday ḥarf (particles) — small grammar words. Not from roots. Closed list for conversation.",
+  "kind": "harf",
+  "letters": [
+    {
+      "letter": "أ",
+      "name": "ألف"
+    },
+    {
+      "letter": "ب",
+      "name": "باء"
+    },
+    {
+      "letter": "ت",
+      "name": "تاء"
+    },
+    {
+      "letter": "ث",
+      "name": "ثاء"
+    },
+    {
+      "letter": "ج",
+      "name": "جيم"
+    },
+    {
+      "letter": "ح",
+      "name": "حاء"
+    },
+    {
+      "letter": "خ",
+      "name": "خاء"
+    },
+    {
+      "letter": "د",
+      "name": "دال"
+    },
+    {
+      "letter": "ذ",
+      "name": "ذال"
+    },
+    {
+      "letter": "ر",
+      "name": "راء"
+    },
+    {
+      "letter": "ز",
+      "name": "زاي"
+    },
+    {
+      "letter": "س",
+      "name": "سين"
+    },
+    {
+      "letter": "ش",
+      "name": "شين"
+    },
+    {
+      "letter": "ص",
+      "name": "صاد"
+    },
+    {
+      "letter": "ض",
+      "name": "ضاد"
+    },
+    {
+      "letter": "ط",
+      "name": "طاء"
+    },
+    {
+      "letter": "ظ",
+      "name": "ظاء"
+    },
+    {
+      "letter": "ع",
+      "name": "عين"
+    },
+    {
+      "letter": "غ",
+      "name": "غين"
+    },
+    {
+      "letter": "ف",
+      "name": "فاء"
+    },
+    {
+      "letter": "ق",
+      "name": "قاف"
+    },
+    {
+      "letter": "ك",
+      "name": "كاف"
+    },
+    {
+      "letter": "ل",
+      "name": "لام"
+    },
+    {
+      "letter": "م",
+      "name": "ميم"
+    },
+    {
+      "letter": "ن",
+      "name": "نون"
+    },
+    {
+      "letter": "ه",
+      "name": "هاء"
+    },
+    {
+      "letter": "و",
+      "name": "واو"
+    },
+    {
+      "letter": "ي",
+      "name": "ياء"
+    }
+  ],
+  "items": [
+    {
+      "id": "fi",
+      "arabic": "في",
+      "meaning": "in / at",
+      "letter": "ف",
+      "usage": "location",
+      "example": "في البيت — at home",
+      "file": "vocab/harf/fi.md"
+    },
+    {
+      "id": "ala",
+      "arabic": "على",
+      "meaning": "on / on top of / about",
+      "letter": "ع",
+      "usage": "location / topic",
+      "example": "على الطاولة — on the table",
+      "file": "vocab/harf/ala.md"
+    },
+    {
+      "id": "min",
+      "arabic": "من",
+      "meaning": "from / of",
+      "letter": "م",
+      "usage": "origin",
+      "example": "من الرياض — from Riyadh",
+      "file": "vocab/harf/min.md"
+    },
+    {
+      "id": "ila",
+      "arabic": "إلى",
+      "meaning": "to / toward",
+      "letter": "أ",
+      "usage": "direction",
+      "example": "إلى المطار — to the airport",
+      "file": "vocab/harf/ila.md"
+    },
+    {
+      "id": "an",
+      "arabic": "عن",
+      "meaning": "about / from (away)",
+      "letter": "ع",
+      "usage": "topic",
+      "example": "عن الشغل — about work",
+      "file": "vocab/harf/an.md"
+    },
+    {
+      "id": "maa",
+      "arabic": "مع",
+      "meaning": "with",
+      "letter": "م",
+      "usage": "companionship",
+      "example": "مع أهلي — with my family",
+      "file": "vocab/harf/maa.md"
+    },
+    {
+      "id": "inda",
+      "arabic": "عند",
+      "meaning": "at / have (عندي)",
+      "letter": "ع",
+      "usage": "possession / location",
+      "example": "عندي وقت — I have time",
+      "file": "vocab/harf/inda.md"
+    },
+    {
+      "id": "ila-l",
+      "arabic": "لـ",
+      "meaning": "for / to (belonging)",
+      "letter": "ـ",
+      "usage": "possession / purpose",
+      "example": "لك — for you",
+      "file": "vocab/harf/ila-l.md"
+    },
+    {
+      "id": "bi",
+      "arabic": "بـ",
+      "meaning": "with / by / in",
+      "letter": "ب",
+      "usage": "instrument / manner",
+      "example": "بالسيارة — by car",
+      "file": "vocab/harf/bi.md"
+    },
+    {
+      "id": "ka",
+      "arabic": "كـ",
+      "meaning": "like / as",
+      "letter": "ك",
+      "usage": "comparison",
+      "example": "كذا — like this",
+      "file": "vocab/harf/ka.md"
+    },
+    {
+      "id": "wa",
+      "arabic": "و",
+      "meaning": "and",
+      "letter": "و",
+      "usage": "joining",
+      "example": "أنا وأنت — me and you",
+      "file": "vocab/harf/wa.md"
+    },
+    {
+      "id": "fa",
+      "arabic": "فـ",
+      "meaning": "so / then",
+      "letter": "ف",
+      "usage": "result",
+      "example": "فـخلاص — so that’s it",
+      "file": "vocab/harf/fa.md"
+    },
+    {
+      "id": "aw",
+      "arabic": "أو",
+      "meaning": "or",
+      "letter": "أ",
+      "usage": "choice",
+      "example": "شاي أو قهوة — tea or coffee",
+      "file": "vocab/harf/aw.md"
+    },
+    {
+      "id": "lakin",
+      "arabic": "لكن",
+      "meaning": "but",
+      "letter": "ك",
+      "usage": "contrast",
+      "example": "أبي أروح لكن تعبان — I want to go but I’m tired",
+      "file": "vocab/harf/lakin.md"
+    },
+    {
+      "id": "illa",
+      "arabic": "إلا",
+      "meaning": "except / only",
+      "letter": "أ",
+      "usage": "exception",
+      "example": "ما أحد إلا أنت — nobody except you",
+      "file": "vocab/harf/illa.md"
+    },
+    {
+      "id": "hatta",
+      "arabic": "حتى",
+      "meaning": "until / even",
+      "letter": "ح",
+      "usage": "limit",
+      "example": "حتى بكرة — until tomorrow",
+      "file": "vocab/harf/hatta.md"
+    },
+    {
+      "id": "qabl",
+      "arabic": "قبل",
+      "meaning": "before",
+      "letter": "ق",
+      "usage": "time",
+      "example": "قبل الشغل — before work",
+      "file": "vocab/harf/qabl.md"
+    },
+    {
+      "id": "baad",
+      "arabic": "بعد",
+      "meaning": "after",
+      "letter": "ب",
+      "usage": "time",
+      "example": "بعد الصلاة — after prayer",
+      "file": "vocab/harf/baad.md"
+    },
+    {
+      "id": "bayn",
+      "arabic": "بين",
+      "meaning": "between",
+      "letter": "ب",
+      "usage": "location",
+      "example": "بين البيت والشغل — between home and work",
+      "file": "vocab/harf/bayn.md"
+    },
+    {
+      "id": "fawq",
+      "arabic": "فوق",
+      "meaning": "above / up",
+      "letter": "ف",
+      "usage": "location",
+      "example": "فوق السطح — upstairs / on the roof",
+      "file": "vocab/harf/fawq.md"
+    },
+    {
+      "id": "taht",
+      "arabic": "تحت",
+      "meaning": "under / below",
+      "letter": "ت",
+      "usage": "location",
+      "example": "تحت الطاولة — under the table",
+      "file": "vocab/harf/taht.md"
+    },
+    {
+      "id": "wara",
+      "arabic": "ورا",
+      "meaning": "behind (Najdi)",
+      "letter": "و",
+      "usage": "location",
+      "example": "ورا البيت — behind the house",
+      "file": "vocab/harf/wara.md"
+    },
+    {
+      "id": "quddam",
+      "arabic": "قدام",
+      "meaning": "in front (Najdi)",
+      "letter": "ق",
+      "usage": "location",
+      "example": "قدام الباب — in front of the door",
+      "file": "vocab/harf/quddam.md"
+    },
+    {
+      "id": "jamb",
+      "arabic": "جنب",
+      "meaning": "beside / next to",
+      "letter": "ج",
+      "usage": "location",
+      "example": "جنب المسجد — next to the mosque",
+      "file": "vocab/harf/jamb.md"
+    },
+    {
+      "id": "hal",
+      "arabic": "هل",
+      "meaning": "yes/no question (MSA)",
+      "letter": "ه",
+      "usage": "question",
+      "example": "هل فهمت؟ — Did you understand?",
+      "file": "vocab/harf/hal.md"
+    },
+    {
+      "id": "lesh",
+      "arabic": "ليش",
+      "meaning": "why (Najdi)",
+      "letter": "ي",
+      "usage": "question",
+      "example": "ليش كذا؟ — Why like that?",
+      "file": "vocab/harf/lesh.md"
+    },
+    {
+      "id": "ween",
+      "arabic": "وين",
+      "meaning": "where (Najdi)",
+      "letter": "و",
+      "usage": "question",
+      "example": "وين أنت؟ — Where are you?",
+      "file": "vocab/harf/ween.md"
+    },
+    {
+      "id": "mata",
+      "arabic": "متى",
+      "meaning": "when",
+      "letter": "م",
+      "usage": "question",
+      "example": "متى تجي؟ — When are you coming?",
+      "file": "vocab/harf/mata.md"
+    },
+    {
+      "id": "kayf",
+      "arabic": "كيف",
+      "meaning": "how",
+      "letter": "ك",
+      "usage": "question",
+      "example": "كيف حالك؟ — How are you?",
+      "file": "vocab/harf/kayf.md"
+    },
+    {
+      "id": "kam",
+      "arabic": "كم",
+      "meaning": "how many / how much",
+      "letter": "ك",
+      "usage": "question",
+      "example": "كم السعر؟ — How much is the price?",
+      "file": "vocab/harf/kam.md"
+    },
+    {
+      "id": "min-q",
+      "arabic": "من؟",
+      "meaning": "who?",
+      "letter": "م",
+      "usage": "question",
+      "example": "من هذا؟ — Who is this?",
+      "file": "vocab/harf/min-q.md"
+    },
+    {
+      "id": "esh",
+      "arabic": "وش",
+      "meaning": "what (Najdi)",
+      "letter": "و",
+      "usage": "question",
+      "example": "وش تسوي؟ — What are you doing?",
+      "file": "vocab/harf/esh.md"
+    },
+    {
+      "id": "la",
+      "arabic": "لا",
+      "meaning": "no / don’t",
+      "letter": "أ",
+      "usage": "negation",
+      "example": "لا تروح — Don’t go",
+      "file": "vocab/harf/la.md"
+    },
+    {
+      "id": "ma",
+      "arabic": "ما",
+      "meaning": "not (Najdi/MSA)",
+      "letter": "م",
+      "usage": "negation",
+      "example": "ما أبي — I don’t want",
+      "file": "vocab/harf/ma.md"
+    },
+    {
+      "id": "mo",
+      "arabic": "مو",
+      "meaning": "not (Najdi)",
+      "letter": "م",
+      "usage": "negation",
+      "example": "مو كذا — It’s not like that",
+      "file": "vocab/harf/mo.md"
+    },
+    {
+      "id": "ya",
+      "arabic": "يا",
+      "meaning": "O… (calling)",
+      "letter": "ي",
+      "usage": "vocative",
+      "example": "يا محمد — Hey Mohammad",
+      "file": "vocab/harf/ya.md"
+    },
+    {
+      "id": "yaani",
+      "arabic": "يعني",
+      "meaning": "I mean / like…",
+      "letter": "ي",
+      "usage": "filler",
+      "example": "يعني خلاص — I mean, that’s it",
+      "file": "vocab/harf/yaani.md"
+    },
+    {
+      "id": "bass",
+      "arabic": "بس",
+      "meaning": "only / but / just (Najdi)",
+      "letter": "ب",
+      "usage": "limiter",
+      "example": "بس دقيقة — just a minute",
+      "file": "vocab/harf/bass.md"
+    },
+    {
+      "id": "kaman",
+      "arabic": "كمان",
+      "meaning": "also / too",
+      "letter": "ك",
+      "usage": "addition",
+      "example": "أنا كمان — me too",
+      "file": "vocab/harf/kaman.md"
+    },
+    {
+      "id": "baadyn",
+      "arabic": "بعدين",
+      "meaning": "later / then",
+      "letter": "ب",
+      "usage": "time",
+      "example": "نشوف بعدين — we’ll see later",
+      "file": "vocab/harf/baadyn.md"
+    }
+  ]
+}

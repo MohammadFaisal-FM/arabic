@@ -4,11 +4,11 @@
   "phases": [
     {
       "id": "start",
-      "title": "Start Here",
+      "title": "Start (do first)",
       "modules": [
         {
           "id": "m0",
-          "title": "Module 0 — Orientation",
+          "title": "Orientation for English speakers",
           "lessons": [
             { "id": "0.1", "title": "Arabic vs English", "file": "course/00-start/00-welcome.md" },
             { "id": "0.2", "title": "Your learning path", "file": "course/00-start/01-your-path.md" }
@@ -18,11 +18,11 @@
     },
     {
       "id": "basics",
-      "title": "Basics",
+      "title": "Basics (script + word types)",
       "modules": [
         {
           "id": "m1",
-          "title": "Module 1 — Writing System",
+          "title": "Writing System",
           "lessons": [
             { "id": "1.1", "title": "Alphabet & RTL", "file": "course/01-writing/01-alphabet.md" },
             { "id": "1.2", "title": "Vowels & ال", "file": "course/01-writing/02-letters-vowels.md" },
@@ -31,7 +31,7 @@
         },
         {
           "id": "m2",
-          "title": "Module 2 — Parts of Speech",
+          "title": "Parts of Speech (ism / fiʿl / ḥarf)",
           "lessons": [
             { "id": "2.1", "title": "Three word types", "file": "course/02-parts-of-speech/01-three-types.md" },
             { "id": "2.2", "title": "Nouns (ism)", "file": "course/02-parts-of-speech/02-nouns-ism.md" },
@@ -44,11 +44,11 @@
     },
     {
       "id": "grammar",
-      "title": "Grammar",
+      "title": "Grammar (roots + sentences)",
       "modules": [
         {
           "id": "m3",
-          "title": "Module 3 — Sarf",
+          "title": "Sarf — word formation",
           "lessons": [
             { "id": "3.1", "title": "Roots", "file": "course/03-sarf/01-roots.md" },
             { "id": "3.2", "title": "Verb forms", "file": "course/03-sarf/02-verb-forms.md" },
@@ -59,7 +59,7 @@
         },
         {
           "id": "m4",
-          "title": "Module 4 — Nahw",
+          "title": "Nahw — sentence grammar",
           "lessons": [
             { "id": "4.1", "title": "Pronouns", "file": "course/04-nahw/01-pronouns.md" },
             { "id": "4.2", "title": "Sentence types", "file": "course/04-nahw/02-sentence-types.md" },
@@ -72,11 +72,11 @@
     },
     {
       "id": "najdi",
-      "title": "Conversation",
+      "title": "Conversation (everyday speech)",
       "modules": [
         {
           "id": "m5",
-          "title": "Module 5 — Everyday Basics",
+          "title": "Everyday basics",
           "lessons": [
             { "id": "5.1", "title": "Greetings", "file": "course/05-najdi-basics/01-greetings.md" },
             { "id": "5.2", "title": "Family vocab", "file": "course/05-najdi-basics/02-family.md" },
@@ -86,7 +86,7 @@
         },
         {
           "id": "m6",
-          "title": "Module 6 — Conversational",
+          "title": "Conversational practice",
           "lessons": [
             { "id": "6.1", "title": "MSA → spoken", "file": "course/06-conversational/01-msa-to-najdi.md" },
             { "id": "6.2", "title": "Passages", "file": "course/06-conversational/02-passages.md" },

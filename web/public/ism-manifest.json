@@ -1,0 +1,1452 @@
+{
+  "title": "Ism — Nouns",
+  "description": "Everyday ism (nouns) for conversation — includes root-derived nouns and loanwords. Overlaps with Roots when rootId is set.",
+  "kind": "ism",
+  "letters": [
+    {
+      "letter": "أ",
+      "name": "ألف"
+    },
+    {
+      "letter": "ب",
+      "name": "باء"
+    },
+    {
+      "letter": "ت",
+      "name": "تاء"
+    },
+    {
+      "letter": "ث",
+      "name": "ثاء"
+    },
+    {
+      "letter": "ج",
+      "name": "جيم"
+    },
+    {
+      "letter": "ح",
+      "name": "حاء"
+    },
+    {
+      "letter": "خ",
+      "name": "خاء"
+    },
+    {
+      "letter": "د",
+      "name": "دال"
+    },
+    {
+      "letter": "ذ",
+      "name": "ذال"
+    },
+    {
+      "letter": "ر",
+      "name": "راء"
+    },
+    {
+      "letter": "ز",
+      "name": "زاي"
+    },
+    {
+      "letter": "س",
+      "name": "سين"
+    },
+    {
+      "letter": "ش",
+      "name": "شين"
+    },
+    {
+      "letter": "ص",
+      "name": "صاد"
+    },
+    {
+      "letter": "ض",
+      "name": "ضاد"
+    },
+    {
+      "letter": "ط",
+      "name": "طاء"
+    },
+    {
+      "letter": "ظ",
+      "name": "ظاء"
+    },
+    {
+      "letter": "ع",
+      "name": "عين"
+    },
+    {
+      "letter": "غ",
+      "name": "غين"
+    },
+    {
+      "letter": "ف",
+      "name": "فاء"
+    },
+    {
+      "letter": "ق",
+      "name": "قاف"
+    },
+    {
+      "letter": "ك",
+      "name": "كاف"
+    },
+    {
+      "letter": "ل",
+      "name": "لام"
+    },
+    {
+      "letter": "م",
+      "name": "ميم"
+    },
+    {
+      "letter": "ن",
+      "name": "نون"
+    },
+    {
+      "letter": "ه",
+      "name": "هاء"
+    },
+    {
+      "letter": "و",
+      "name": "واو"
+    },
+    {
+      "letter": "ي",
+      "name": "ياء"
+    }
+  ],
+  "items": [
+    {
+      "id": "kitab",
+      "arabic": "كتاب",
+      "meaning": "book",
+      "letter": "ك",
+      "subtype": "noun",
+      "rootId": "ktb",
+      "root": "ك-ت-ب",
+      "example": "هذا كتاب — This is a book",
+      "file": "vocab/ism/kitab.md"
+    },
+    {
+      "id": "katib",
+      "arabic": "كاتب",
+      "meaning": "writer",
+      "letter": "ك",
+      "subtype": "doer",
+      "rootId": "ktb",
+      "root": "ك-ت-ب",
+      "example": "هو كاتب — He is a writer",
+      "file": "vocab/ism/katib.md"
+    },
+    {
+      "id": "kitaba",
+      "arabic": "كتابة",
+      "meaning": "writing",
+      "letter": "ك",
+      "subtype": "masdar",
+      "rootId": "ktb",
+      "root": "ك-ت-ب",
+      "example": "الكتابة صعبة — Writing is hard",
+      "file": "vocab/ism/kitaba.md"
+    },
+    {
+      "id": "maktab",
+      "arabic": "مكتب",
+      "meaning": "office / desk",
+      "letter": "م",
+      "subtype": "place",
+      "rootId": "ktb",
+      "root": "ك-ت-ب",
+      "example": "في المكتب — at the office",
+      "file": "vocab/ism/maktab.md"
+    },
+    {
+      "id": "maktaba",
+      "arabic": "مكتبة",
+      "meaning": "library / bookstore",
+      "letter": "م",
+      "subtype": "place",
+      "rootId": "ktb",
+      "root": "ك-ت-ب",
+      "example": "رحت المكتبة — I went to the library",
+      "file": "vocab/ism/maktaba.md"
+    },
+    {
+      "id": "maktub",
+      "arabic": "مكتوب",
+      "meaning": "written (thing) / fate",
+      "letter": "م",
+      "subtype": "done-to",
+      "rootId": "ktb",
+      "root": "ك-ت-ب",
+      "example": "مكتوب كذا — It’s written / destined like that",
+      "file": "vocab/ism/maktub.md"
+    },
+    {
+      "id": "akl-n",
+      "arabic": "أكل",
+      "meaning": "food / eating",
+      "letter": "أ",
+      "subtype": "masdar",
+      "rootId": "akl",
+      "root": "أ-ك-ل",
+      "example": "الأكل لذيذ — The food is delicious",
+      "file": "vocab/ism/akl-n.md"
+    },
+    {
+      "id": "shurb",
+      "arabic": "شرب",
+      "meaning": "drinking",
+      "letter": "ش",
+      "subtype": "masdar",
+      "rootId": "shrb",
+      "root": "ش-ر-ب",
+      "example": "الشرب مهم — Drinking (water) matters",
+      "file": "vocab/ism/shurb.md"
+    },
+    {
+      "id": "shoghl",
+      "arabic": "شغل",
+      "meaning": "work / job",
+      "letter": "ش",
+      "subtype": "noun",
+      "rootId": "shghl",
+      "root": "ش-غ-ل",
+      "example": "عندي شغل — I have work",
+      "file": "vocab/ism/shoghl.md"
+    },
+    {
+      "id": "suwal",
+      "arabic": "سؤال",
+      "meaning": "question",
+      "letter": "س",
+      "subtype": "noun",
+      "rootId": "sal",
+      "root": "س-أ-ل",
+      "example": "عندي سؤال — I have a question",
+      "file": "vocab/ism/suwal.md"
+    },
+    {
+      "id": "jawab",
+      "arabic": "جواب",
+      "meaning": "answer",
+      "letter": "ج",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "وين الجواب؟ — Where’s the answer?",
+      "file": "vocab/ism/jawab.md"
+    },
+    {
+      "id": "kalam",
+      "arabic": "كلام",
+      "meaning": "talk / speech",
+      "letter": "ك",
+      "subtype": "noun",
+      "rootId": "klm",
+      "root": "ك-ل-م",
+      "example": "كلامك صحيح — Your talk is right",
+      "file": "vocab/ism/kalam.md"
+    },
+    {
+      "id": "dars",
+      "arabic": "درس",
+      "meaning": "lesson",
+      "letter": "د",
+      "subtype": "noun",
+      "rootId": "drs",
+      "root": "د-ر-س",
+      "example": "عندي درس — I have a lesson",
+      "file": "vocab/ism/dars.md"
+    },
+    {
+      "id": "madrasa",
+      "arabic": "مدرسة",
+      "meaning": "school",
+      "letter": "م",
+      "subtype": "place",
+      "rootId": "drs",
+      "root": "د-ر-س",
+      "example": "رحت المدرسة — I went to school",
+      "file": "vocab/ism/madrasa.md"
+    },
+    {
+      "id": "talib",
+      "arabic": "طالب",
+      "meaning": "student",
+      "letter": "ط",
+      "subtype": "doer",
+      "rootId": "tlb",
+      "root": "ط-ل-ب",
+      "example": "أنا طالب — I am a student",
+      "file": "vocab/ism/talib.md"
+    },
+    {
+      "id": "amal",
+      "arabic": "عمل",
+      "meaning": "work / job",
+      "letter": "ع",
+      "subtype": "noun",
+      "rootId": "3ml",
+      "root": "ع-م-ل",
+      "example": "أدور على عمل — I’m looking for work",
+      "file": "vocab/ism/amal.md"
+    },
+    {
+      "id": "bayt",
+      "arabic": "بيت",
+      "meaning": "house / home",
+      "letter": "ب",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "في البيت — at home",
+      "file": "vocab/ism/bayt.md"
+    },
+    {
+      "id": "bab",
+      "arabic": "باب",
+      "meaning": "door",
+      "letter": "ب",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "افتح الباب — Open the door",
+      "file": "vocab/ism/bab.md"
+    },
+    {
+      "id": "tariq",
+      "arabic": "طريق",
+      "meaning": "road / way",
+      "letter": "ط",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "أعرف الطريق — I know the way",
+      "file": "vocab/ism/tariq.md"
+    },
+    {
+      "id": "sayyara",
+      "arabic": "سيارة",
+      "meaning": "car",
+      "letter": "س",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "سيارتي جديدة — My car is new",
+      "file": "vocab/ism/sayyara.md"
+    },
+    {
+      "id": "miftah",
+      "arabic": "مفتاح",
+      "meaning": "key",
+      "letter": "م",
+      "subtype": "noun",
+      "rootId": "fth",
+      "root": "ف-ت-ح",
+      "example": "وين المفتاح؟ — Where’s the key?",
+      "file": "vocab/ism/miftah.md"
+    },
+    {
+      "id": "flus",
+      "arabic": "فلوس",
+      "meaning": "money (colloquial)",
+      "letter": "ف",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "ما عندي فلوس — I don’t have money",
+      "file": "vocab/ism/flus.md"
+    },
+    {
+      "id": "suq",
+      "arabic": "سوق",
+      "meaning": "market",
+      "letter": "س",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "أروح السوق — I’m going to the market",
+      "file": "vocab/ism/suq.md"
+    },
+    {
+      "id": "matar",
+      "arabic": "مطار",
+      "meaning": "airport",
+      "letter": "م",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "إلى المطار — to the airport",
+      "file": "vocab/ism/matar.md"
+    },
+    {
+      "id": "masjid",
+      "arabic": "مسجد",
+      "meaning": "mosque",
+      "letter": "م",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "جنب المسجد — next to the mosque",
+      "file": "vocab/ism/masjid.md"
+    },
+    {
+      "id": "mustashfa",
+      "arabic": "مستشفى",
+      "meaning": "hospital",
+      "letter": "م",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "في المستشفى — in the hospital",
+      "file": "vocab/ism/mustashfa.md"
+    },
+    {
+      "id": "fanduq",
+      "arabic": "فندق",
+      "meaning": "hotel",
+      "letter": "ف",
+      "subtype": "loan",
+      "rootId": null,
+      "root": null,
+      "example": "في الفندق — at the hotel",
+      "file": "vocab/ism/fanduq.md"
+    },
+    {
+      "id": "qahwa",
+      "arabic": "قهوة",
+      "meaning": "coffee",
+      "letter": "ق",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "أبغى قهوة — I want coffee",
+      "file": "vocab/ism/qahwa.md"
+    },
+    {
+      "id": "shahi",
+      "arabic": "شاهي",
+      "meaning": "tea (Gulf)",
+      "letter": "ش",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "أشرب شاهي — I drink tea",
+      "file": "vocab/ism/shahi.md"
+    },
+    {
+      "id": "may",
+      "arabic": "ماي",
+      "meaning": "water (Najdi)",
+      "letter": "م",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "أبي ماي — I want water",
+      "file": "vocab/ism/may.md"
+    },
+    {
+      "id": "akl-food",
+      "arabic": "رز",
+      "meaning": "rice",
+      "letter": "ر",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "أكلت رز — I ate rice",
+      "file": "vocab/ism/akl-food.md"
+    },
+    {
+      "id": "khubz",
+      "arabic": "خبز",
+      "meaning": "bread",
+      "letter": "خ",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "عندنا خبز — We have bread",
+      "file": "vocab/ism/khubz.md"
+    },
+    {
+      "id": "yawm",
+      "arabic": "يوم",
+      "meaning": "day",
+      "letter": "ي",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "كل يوم — every day",
+      "file": "vocab/ism/yawm.md"
+    },
+    {
+      "id": "layl",
+      "arabic": "ليل",
+      "meaning": "night",
+      "letter": "ي",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "صار الليل — It became night",
+      "file": "vocab/ism/layl.md"
+    },
+    {
+      "id": "saa",
+      "arabic": "ساعة",
+      "meaning": "hour / watch / clock",
+      "letter": "س",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "ساعة واحدة — one o’clock",
+      "file": "vocab/ism/saa.md"
+    },
+    {
+      "id": "daqiqa",
+      "arabic": "دقيقة",
+      "meaning": "minute",
+      "letter": "د",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "بس دقيقة — just a minute",
+      "file": "vocab/ism/daqiqa.md"
+    },
+    {
+      "id": "usbu",
+      "arabic": "أسبوع",
+      "meaning": "week",
+      "letter": "أ",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "الأسبوع الجاي — next week",
+      "file": "vocab/ism/usbu.md"
+    },
+    {
+      "id": "shahr",
+      "arabic": "شهر",
+      "meaning": "month",
+      "letter": "ش",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "هذا الشهر — this month",
+      "file": "vocab/ism/shahr.md"
+    },
+    {
+      "id": "sana",
+      "arabic": "سنة",
+      "meaning": "year",
+      "letter": "س",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "كل سنة — every year",
+      "file": "vocab/ism/sana.md"
+    },
+    {
+      "id": "sabah",
+      "arabic": "صباح",
+      "meaning": "morning",
+      "letter": "ص",
+      "subtype": "noun",
+      "rootId": "sbh",
+      "root": "ص-ب-ح",
+      "example": "صباح الخير — Good morning",
+      "file": "vocab/ism/sabah.md"
+    },
+    {
+      "id": "masa",
+      "arabic": "مساء",
+      "meaning": "evening",
+      "letter": "م",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "مساء الخير — Good evening",
+      "file": "vocab/ism/masa.md"
+    },
+    {
+      "id": "bukra",
+      "arabic": "بكرة",
+      "meaning": "tomorrow (Najdi)",
+      "letter": "ب",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "أشوفك بكرة — I’ll see you tomorrow",
+      "file": "vocab/ism/bukra.md"
+    },
+    {
+      "id": "ams",
+      "arabic": "أمس",
+      "meaning": "yesterday",
+      "letter": "أ",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "شفتك أمس — I saw you yesterday",
+      "file": "vocab/ism/ams.md"
+    },
+    {
+      "id": "hin",
+      "arabic": "الحين",
+      "meaning": "now (Najdi)",
+      "letter": "ح",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "الحين مشغول — I’m busy now",
+      "file": "vocab/ism/hin.md"
+    },
+    {
+      "id": "waqt",
+      "arabic": "وقت",
+      "meaning": "time",
+      "letter": "و",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "ما عندي وقت — I don’t have time",
+      "file": "vocab/ism/waqt.md"
+    },
+    {
+      "id": "ism-n",
+      "arabic": "اسم",
+      "meaning": "name",
+      "letter": "س",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "وش اسمك؟ — What’s your name?",
+      "file": "vocab/ism/ism-n.md"
+    },
+    {
+      "id": "rajul",
+      "arabic": "رجل",
+      "meaning": "man",
+      "letter": "ر",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "هذا رجل — This is a man",
+      "file": "vocab/ism/rajul.md"
+    },
+    {
+      "id": "marra",
+      "arabic": "مرة",
+      "meaning": "woman (Najdi) / time",
+      "letter": "م",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "هذي مرة — This is a woman",
+      "file": "vocab/ism/marra.md"
+    },
+    {
+      "id": "walad",
+      "arabic": "ولد",
+      "meaning": "boy / child",
+      "letter": "و",
+      "subtype": "noun",
+      "rootId": "wld",
+      "root": "و-ل-د",
+      "example": "كبر الولد — The boy grew up",
+      "file": "vocab/ism/walad.md"
+    },
+    {
+      "id": "bint",
+      "arabic": "بنت",
+      "meaning": "girl / daughter",
+      "letter": "ب",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "هذي بنتي — This is my daughter",
+      "file": "vocab/ism/bint.md"
+    },
+    {
+      "id": "umm",
+      "arabic": "أم",
+      "meaning": "mother",
+      "letter": "أ",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "أمي — my mother",
+      "file": "vocab/ism/umm.md"
+    },
+    {
+      "id": "ab",
+      "arabic": "أب",
+      "meaning": "father",
+      "letter": "أ",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "أبي — my father",
+      "file": "vocab/ism/ab.md"
+    },
+    {
+      "id": "akh",
+      "arabic": "أخ",
+      "meaning": "brother",
+      "letter": "أ",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "أخوي — my brother",
+      "file": "vocab/ism/akh.md"
+    },
+    {
+      "id": "ukht",
+      "arabic": "أخت",
+      "meaning": "sister",
+      "letter": "أ",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "أختي — my sister",
+      "file": "vocab/ism/ukht.md"
+    },
+    {
+      "id": "ahl",
+      "arabic": "أهل",
+      "meaning": "family / folks",
+      "letter": "أ",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "بزور أهلي — I’ll visit my family",
+      "file": "vocab/ism/ahl.md"
+    },
+    {
+      "id": "sadeeq",
+      "arabic": "صديق",
+      "meaning": "friend",
+      "letter": "ص",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "هذا صديقي — This is my friend",
+      "file": "vocab/ism/sadeeq.md"
+    },
+    {
+      "id": "yad",
+      "arabic": "يد",
+      "meaning": "hand",
+      "letter": "ي",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "اغسل يدك — Wash your hand",
+      "file": "vocab/ism/yad.md"
+    },
+    {
+      "id": "ras",
+      "arabic": "راس",
+      "meaning": "head (colloquial)",
+      "letter": "ر",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "راسي يوجعني — My head hurts",
+      "file": "vocab/ism/ras.md"
+    },
+    {
+      "id": "ayn",
+      "arabic": "عين",
+      "meaning": "eye",
+      "letter": "ع",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "عيوني — my eyes",
+      "file": "vocab/ism/ayn.md"
+    },
+    {
+      "id": "qalb",
+      "arabic": "قلب",
+      "meaning": "heart",
+      "letter": "ق",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "من قلبي — from my heart",
+      "file": "vocab/ism/qalb.md"
+    },
+    {
+      "id": "shanta",
+      "arabic": "شنطة",
+      "meaning": "bag",
+      "letter": "ش",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "احمل الشنطة — Carry the bag",
+      "file": "vocab/ism/shanta.md"
+    },
+    {
+      "id": "thawb",
+      "arabic": "ثوب",
+      "meaning": "thobe / dress",
+      "letter": "ث",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "ثوبي جديد — My thobe is new",
+      "file": "vocab/ism/thawb.md"
+    },
+    {
+      "id": "na3l",
+      "arabic": "نعل",
+      "meaning": "sandal / shoe (Gulf)",
+      "letter": "ن",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "وين نعلي؟ — Where are my sandals?",
+      "file": "vocab/ism/na3l.md"
+    },
+    {
+      "id": "kursi",
+      "arabic": "كرسي",
+      "meaning": "chair",
+      "letter": "ك",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "اجلس على الكرسي — Sit on the chair",
+      "file": "vocab/ism/kursi.md"
+    },
+    {
+      "id": "tawila",
+      "arabic": "طاولة",
+      "meaning": "table",
+      "letter": "ط",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "على الطاولة — on the table",
+      "file": "vocab/ism/tawila.md"
+    },
+    {
+      "id": "ghurfa",
+      "arabic": "غرفة",
+      "meaning": "room",
+      "letter": "غ",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "في الغرفة — in the room",
+      "file": "vocab/ism/ghurfa.md"
+    },
+    {
+      "id": "hammam",
+      "arabic": "حمّام",
+      "meaning": "bathroom",
+      "letter": "ح",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "وين الحمّام؟ — Where’s the bathroom?",
+      "file": "vocab/ism/hammam.md"
+    },
+    {
+      "id": "matbakh",
+      "arabic": "مطبخ",
+      "meaning": "kitchen",
+      "letter": "م",
+      "subtype": "place",
+      "rootId": "tbkh",
+      "root": "ط-ب-خ",
+      "example": "في المطبخ — in the kitchen",
+      "file": "vocab/ism/matbakh.md"
+    },
+    {
+      "id": "nar",
+      "arabic": "نار",
+      "meaning": "fire / heat",
+      "letter": "ن",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "النار حارة — The fire is hot",
+      "file": "vocab/ism/nar.md"
+    },
+    {
+      "id": "harr",
+      "arabic": "حر",
+      "meaning": "heat / hot weather",
+      "letter": "ح",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "اليوم حر — It’s hot today",
+      "file": "vocab/ism/harr.md"
+    },
+    {
+      "id": "bard",
+      "arabic": "برد",
+      "meaning": "cold",
+      "letter": "ب",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "الليلة برد — It’s cold tonight",
+      "file": "vocab/ism/bard.md"
+    },
+    {
+      "id": "shams",
+      "arabic": "شمس",
+      "meaning": "sun",
+      "letter": "ش",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "الشمس قوية — The sun is strong",
+      "file": "vocab/ism/shams.md"
+    },
+    {
+      "id": "qamar",
+      "arabic": "قمر",
+      "meaning": "moon",
+      "letter": "ق",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "القمر حلو — The moon is nice",
+      "file": "vocab/ism/qamar.md"
+    },
+    {
+      "id": "sama",
+      "arabic": "سما",
+      "meaning": "sky",
+      "letter": "س",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "السما صافية — The sky is clear",
+      "file": "vocab/ism/sama.md"
+    },
+    {
+      "id": "ard",
+      "arabic": "أرض",
+      "meaning": "ground / earth / floor",
+      "letter": "أ",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "على الأرض — on the floor",
+      "file": "vocab/ism/ard.md"
+    },
+    {
+      "id": "balad",
+      "arabic": "بلد",
+      "meaning": "country / town",
+      "letter": "ب",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "بلدي السعودية — My country is Saudi Arabia",
+      "file": "vocab/ism/balad.md"
+    },
+    {
+      "id": "madina",
+      "arabic": "مدينة",
+      "meaning": "city",
+      "letter": "م",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "المدينة كبيرة — The city is big",
+      "file": "vocab/ism/madina.md"
+    },
+    {
+      "id": "riyadh",
+      "arabic": "الرياض",
+      "meaning": "Riyadh",
+      "letter": "ر",
+      "subtype": "name",
+      "rootId": null,
+      "root": null,
+      "example": "أسكن في الرياض — I live in Riyadh",
+      "file": "vocab/ism/riyadh.md"
+    },
+    {
+      "id": "saudi",
+      "arabic": "السعودية",
+      "meaning": "Saudi Arabia",
+      "letter": "س",
+      "subtype": "name",
+      "rootId": null,
+      "root": null,
+      "example": "من السعودية — from Saudi Arabia",
+      "file": "vocab/ism/saudi.md"
+    },
+    {
+      "id": "arabi",
+      "arabic": "عربي",
+      "meaning": "Arabic / Arab",
+      "letter": "ع",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "أتعلّم عربي — I’m learning Arabic",
+      "file": "vocab/ism/arabi.md"
+    },
+    {
+      "id": "ingleezi",
+      "arabic": "إنجليزي",
+      "meaning": "English",
+      "letter": "أ",
+      "subtype": "loan",
+      "rootId": null,
+      "root": null,
+      "example": "أتكلم إنجليزي — I speak English",
+      "file": "vocab/ism/ingleezi.md"
+    },
+    {
+      "id": "kalima",
+      "arabic": "كلمة",
+      "meaning": "word",
+      "letter": "ك",
+      "subtype": "noun",
+      "rootId": "klm",
+      "root": "ك-ل-م",
+      "example": "كلمة جديدة — a new word",
+      "file": "vocab/ism/kalima.md"
+    },
+    {
+      "id": "jumlah",
+      "arabic": "جملة",
+      "meaning": "sentence",
+      "letter": "ج",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "هذي جملة — This is a sentence",
+      "file": "vocab/ism/jumlah.md"
+    },
+    {
+      "id": "harf-n",
+      "arabic": "حرف",
+      "meaning": "letter / particle",
+      "letter": "ح",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "هذا حرف — This is a letter/particle",
+      "file": "vocab/ism/harf-n.md"
+    },
+    {
+      "id": "fil-n",
+      "arabic": "فعل",
+      "meaning": "verb / action",
+      "letter": "ف",
+      "subtype": "noun",
+      "rootId": "f3l",
+      "root": "ف-ع-ل",
+      "example": "هذا فعل — This is a verb",
+      "file": "vocab/ism/fil-n.md"
+    },
+    {
+      "id": "jidhr",
+      "arabic": "جذر",
+      "meaning": "root",
+      "letter": "ج",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "جذر الكلمة — the word’s root",
+      "file": "vocab/ism/jidhr.md"
+    },
+    {
+      "id": "risala",
+      "arabic": "رسالة",
+      "meaning": "message / letter",
+      "letter": "ر",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "أكتب رسالة — I’m writing a message",
+      "file": "vocab/ism/risala.md"
+    },
+    {
+      "id": "khabar",
+      "arabic": "خبر",
+      "meaning": "news",
+      "letter": "خ",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "وش الخبر؟ — What’s the news?",
+      "file": "vocab/ism/khabar.md"
+    },
+    {
+      "id": "mushkila",
+      "arabic": "مشكلة",
+      "meaning": "problem",
+      "letter": "م",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "ما في مشكلة — No problem",
+      "file": "vocab/ism/mushkila.md"
+    },
+    {
+      "id": "hall",
+      "arabic": "حل",
+      "meaning": "solution",
+      "letter": "ح",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "ظهر الحل — The solution appeared",
+      "file": "vocab/ism/hall.md"
+    },
+    {
+      "id": "fikra",
+      "arabic": "فكرة",
+      "meaning": "idea",
+      "letter": "ف",
+      "subtype": "noun",
+      "rootId": "fkr",
+      "root": "ف-ك-ر",
+      "example": "عندي فكرة — I have an idea",
+      "file": "vocab/ism/fikra.md"
+    },
+    {
+      "id": "ray-n",
+      "arabic": "رأي",
+      "meaning": "opinion",
+      "letter": "ر",
+      "subtype": "noun",
+      "rootId": "ray",
+      "root": "ر-ا-ي",
+      "example": "وش رأيك؟ — What’s your opinion?",
+      "file": "vocab/ism/ray-n.md"
+    },
+    {
+      "id": "7ub",
+      "arabic": "حب",
+      "meaning": "love",
+      "letter": "ح",
+      "subtype": "noun",
+      "rootId": "hbb",
+      "root": "ح-ب-ب",
+      "example": "من حب — from love",
+      "file": "vocab/ism/7ub.md"
+    },
+    {
+      "id": "khawf",
+      "arabic": "خوف",
+      "meaning": "fear",
+      "letter": "خ",
+      "subtype": "noun",
+      "rootId": "khaf",
+      "root": "خ-و-ف",
+      "example": "ما في خوف — no fear",
+      "file": "vocab/ism/khawf.md"
+    },
+    {
+      "id": "farah",
+      "arabic": "فرح",
+      "meaning": "joy",
+      "letter": "ف",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "فرحت كثير — I was very happy",
+      "file": "vocab/ism/farah.md"
+    },
+    {
+      "id": "taab",
+      "arabic": "تعب",
+      "meaning": "tiredness",
+      "letter": "ت",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "من التعب — from tiredness",
+      "file": "vocab/ism/taab.md"
+    },
+    {
+      "id": "marad",
+      "arabic": "مرض",
+      "meaning": "illness",
+      "letter": "م",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "عندي مرض — I’m sick",
+      "file": "vocab/ism/marad.md"
+    },
+    {
+      "id": "dawa",
+      "arabic": "دوا",
+      "meaning": "medicine",
+      "letter": "د",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "خذ الدوا — Take the medicine",
+      "file": "vocab/ism/dawa.md"
+    },
+    {
+      "id": "jawwal",
+      "arabic": "جوال",
+      "meaning": "mobile phone (Gulf)",
+      "letter": "ج",
+      "subtype": "loan",
+      "rootId": null,
+      "root": null,
+      "example": "وين جوالي؟ — Where’s my phone?",
+      "file": "vocab/ism/jawwal.md"
+    },
+    {
+      "id": "telephone",
+      "arabic": "تلفون",
+      "meaning": "telephone",
+      "letter": "ت",
+      "subtype": "loan",
+      "rootId": null,
+      "root": null,
+      "example": "رقم التلفون — phone number",
+      "file": "vocab/ism/telephone.md"
+    },
+    {
+      "id": "computer",
+      "arabic": "كمبيوتر",
+      "meaning": "computer",
+      "letter": "ك",
+      "subtype": "loan",
+      "rootId": null,
+      "root": null,
+      "example": "على الكمبيوتر — on the computer",
+      "file": "vocab/ism/computer.md"
+    },
+    {
+      "id": "internet",
+      "arabic": "إنترنت",
+      "meaning": "internet",
+      "letter": "أ",
+      "subtype": "loan",
+      "rootId": null,
+      "root": null,
+      "example": "ما في إنترنت — no internet",
+      "file": "vocab/ism/internet.md"
+    },
+    {
+      "id": "wifi",
+      "arabic": "واي فاي",
+      "meaning": "Wi‑Fi",
+      "letter": "و",
+      "subtype": "loan",
+      "rootId": null,
+      "root": null,
+      "example": "وش باس الوواي فاي؟ — What’s the Wi‑Fi password?",
+      "file": "vocab/ism/wifi.md"
+    },
+    {
+      "id": "app",
+      "arabic": "تطبيق",
+      "meaning": "app",
+      "letter": "ت",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "نزّل التطبيق — Download the app",
+      "file": "vocab/ism/app.md"
+    },
+    {
+      "id": "mesej",
+      "arabic": "مسج",
+      "meaning": "message (loan)",
+      "letter": "م",
+      "subtype": "loan",
+      "rootId": null,
+      "root": null,
+      "example": "أرسل مسج — Send a message",
+      "file": "vocab/ism/mesej.md"
+    },
+    {
+      "id": "ok",
+      "arabic": "أوكي",
+      "meaning": "OK",
+      "letter": "أ",
+      "subtype": "loan",
+      "rootId": null,
+      "root": null,
+      "example": "أوكي تمام — OK, fine",
+      "file": "vocab/ism/ok.md"
+    },
+    {
+      "id": "taxi",
+      "arabic": "تاكسي",
+      "meaning": "taxi",
+      "letter": "ت",
+      "subtype": "loan",
+      "rootId": null,
+      "root": null,
+      "example": "خذ تاكسي — Take a taxi",
+      "file": "vocab/ism/taxi.md"
+    },
+    {
+      "id": "bus",
+      "arabic": "باص",
+      "meaning": "bus",
+      "letter": "ب",
+      "subtype": "loan",
+      "rootId": null,
+      "root": null,
+      "example": "الباص جاي — The bus is coming",
+      "file": "vocab/ism/bus.md"
+    },
+    {
+      "id": "bank",
+      "arabic": "بنك",
+      "meaning": "bank",
+      "letter": "ب",
+      "subtype": "loan",
+      "rootId": null,
+      "root": null,
+      "example": "رحت البنك — I went to the bank",
+      "file": "vocab/ism/bank.md"
+    },
+    {
+      "id": "card",
+      "arabic": "بطاقة",
+      "meaning": "card",
+      "letter": "ب",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "بطاقتي — my card",
+      "file": "vocab/ism/card.md"
+    },
+    {
+      "id": "password",
+      "arabic": "باسورد",
+      "meaning": "password",
+      "letter": "ب",
+      "subtype": "loan",
+      "rootId": null,
+      "root": null,
+      "example": "الباسورد غلط — The password is wrong",
+      "file": "vocab/ism/password.md"
+    },
+    {
+      "id": "number",
+      "arabic": "رقم",
+      "meaning": "number",
+      "letter": "ر",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "رقم جوالك — your phone number",
+      "file": "vocab/ism/number.md"
+    },
+    {
+      "id": "si3r",
+      "arabic": "سعر",
+      "meaning": "price",
+      "letter": "س",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "كم السعر؟ — What’s the price?",
+      "file": "vocab/ism/si3r.md"
+    },
+    {
+      "id": "hisab",
+      "arabic": "حساب",
+      "meaning": "bill / account",
+      "letter": "ح",
+      "subtype": "noun",
+      "rootId": "df3",
+      "root": "د-ف-ع",
+      "example": "دفعت الحساب — I paid the bill",
+      "file": "vocab/ism/hisab.md"
+    },
+    {
+      "id": "mahal",
+      "arabic": "محل",
+      "meaning": "shop",
+      "letter": "م",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "المحل قريب — The shop is near",
+      "file": "vocab/ism/mahal.md"
+    },
+    {
+      "id": "mata3im",
+      "arabic": "مطعم",
+      "meaning": "restaurant",
+      "letter": "م",
+      "subtype": "place",
+      "rootId": "tbkh",
+      "root": "ط-ب-خ",
+      "example": "نروح مطعم؟ — Shall we go to a restaurant?",
+      "file": "vocab/ism/mata3im.md"
+    },
+    {
+      "id": "qahwa-place",
+      "arabic": "قهوة",
+      "meaning": "café (same word as coffee)",
+      "letter": "ق",
+      "subtype": "place",
+      "rootId": null,
+      "root": null,
+      "example": "نقعد في القهوة — Let’s sit at the café",
+      "file": "vocab/ism/qahwa-place.md"
+    },
+    {
+      "id": "koora",
+      "arabic": "كورة",
+      "meaning": "ball / football",
+      "letter": "ك",
+      "subtype": "noun",
+      "rootId": "l3b",
+      "root": "ل-ع-ب",
+      "example": "يلعب كورة — He plays football",
+      "file": "vocab/ism/koora.md"
+    },
+    {
+      "id": "film",
+      "arabic": "فيلم",
+      "meaning": "film / movie",
+      "letter": "ف",
+      "subtype": "loan",
+      "rootId": null,
+      "root": null,
+      "example": "نشوف فيلم — Let’s watch a movie",
+      "file": "vocab/ism/film.md"
+    },
+    {
+      "id": "musiga",
+      "arabic": "موسيقى",
+      "meaning": "music",
+      "letter": "م",
+      "subtype": "loan",
+      "rootId": null,
+      "root": null,
+      "example": "أحب الموسيقى — I love music",
+      "file": "vocab/ism/musiga.md"
+    },
+    {
+      "id": "aghani",
+      "arabic": "أغاني",
+      "meaning": "songs",
+      "letter": "أ",
+      "subtype": "noun",
+      "rootId": null,
+      "root": null,
+      "example": "أسمع أغاني — I listen to songs",
+      "file": "vocab/ism/aghani.md"
+    }
+  ]
+}

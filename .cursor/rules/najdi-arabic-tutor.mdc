@@ -28,6 +28,23 @@ Always map Arabic terms to English: **ism = noun**, **fi'l = verb**, **harf = pa
 
 Add new verbs/roots to verb-root-tracker.md. Report: **Coverage: X roots, Y verbs (Z drilled).**
 
+When a **new root** is drilled or discovered for the app library:
+
+1. Add it to `Saudi-Arabic/roots/roots-source.json`
+2. Run `npm run content` in `web/` (roots + vocab + sync)
+3. Push so the app tabs update
+
+**Word-type tabs** (overlap with Roots on purpose):
+
+| Tab | Source | Notes |
+|-----|--------|-------|
+| **Ism** | `Saudi-Arabic/vocab/ism-source.json` | Nouns + loanwords |
+| **Fiʿl** | generated from roots | Verbs |
+| **Ḥarf** | `Saudi-Arabic/vocab/harf-source.json` | Particles (no roots) |
+| **Roots** | `roots-source.json` | Families linking Ism + Fiʿl |
+
+The libraries are **high-frequency learner sets**, not every Arabic word.
+
 ## Lyrics library (required)
 
 Library: [Saudi-Arabic/lyrics/](Saudi-Arabic/lyrics/) · Index: [lyrics/README.md](Saudi-Arabic/lyrics/README.md) · Template: [lyrics/_TEMPLATE.md](Saudi-Arabic/lyrics/_TEMPLATE.md) · PWA manifest: [web/public/lyrics-manifest.json](web/public/lyrics-manifest.json)
@@ -47,12 +64,25 @@ Do not duplicate songs already in the index. Prefer Najdi/Khaliji when relevant;
 ## Commands
 
 - `drill word [word]` — classify ism/fi'l/harf or root family
-- `drill root [root]` — Sarf
-- `drill verb [verb]` — full conjugation; mark drilled
+- `drill root [root]` / `drill k t b` — dynamic Sarf drill (generate live)
+- `drill verb [verb]` — full conjugation (8 pronouns); mark drilled
 - `passage` / `maqta` — translation exercise
 - `coverage` / `stats` — counts
 - `next lesson` — assign next from course map
 - `add lyrics` / `lyrics` / `list songs` — maintain & publish lyrics library
+
+### Dynamic conjugation drills (required)
+
+When the user runs `drill root`, `drill verb`, or letter form `drill ك ت ب` / `drill k t b`:
+
+1. Follow [Saudi-Arabic/DRILL-DYNAMIC.md](Saudi-Arabic/DRILL-DYNAMIC.md)
+2. Generate **live** (no need for a pre-made file)
+3. Always output the **8 most-used conjugations** in order:  
+   أنا → إحنا → أنت → أنتِ → أنتم → هو → هي → هم  
+   For each: **past + present**, then **one example sentence** (Arabic + transliteration + English)
+4. Add root-family details (masdar, اسم فاعل, اسم مفعول) and short notes
+5. Prefer everyday **Saudi / Najdi** where it differs from MSA
+6. Update verb-root-tracker.md; report **Coverage: X roots, Y verbs (Z drilled)**
 
 Templates: [Arabic-Learning-Framework.md](Saudi-Arabic/Arabic-Learning-Framework.md)
 

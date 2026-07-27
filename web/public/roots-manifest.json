@@ -1,0 +1,1466 @@
+{
+  "title": "Roots Library",
+  "description": "High-frequency everyday Arabic roots for learners (Saudi/Najdi focus). Not a complete dictionary — classical Arabic has thousands of roots.",
+  "letters": [
+    {
+      "letter": "أ",
+      "name": "ألف"
+    },
+    {
+      "letter": "ب",
+      "name": "باء"
+    },
+    {
+      "letter": "ت",
+      "name": "تاء"
+    },
+    {
+      "letter": "ث",
+      "name": "ثاء"
+    },
+    {
+      "letter": "ج",
+      "name": "جيم"
+    },
+    {
+      "letter": "ح",
+      "name": "حاء"
+    },
+    {
+      "letter": "خ",
+      "name": "خاء"
+    },
+    {
+      "letter": "د",
+      "name": "دال"
+    },
+    {
+      "letter": "ذ",
+      "name": "ذال"
+    },
+    {
+      "letter": "ر",
+      "name": "راء"
+    },
+    {
+      "letter": "ز",
+      "name": "زاي"
+    },
+    {
+      "letter": "س",
+      "name": "سين"
+    },
+    {
+      "letter": "ش",
+      "name": "شين"
+    },
+    {
+      "letter": "ص",
+      "name": "صاد"
+    },
+    {
+      "letter": "ض",
+      "name": "ضاد"
+    },
+    {
+      "letter": "ط",
+      "name": "طاء"
+    },
+    {
+      "letter": "ظ",
+      "name": "ظاء"
+    },
+    {
+      "letter": "ع",
+      "name": "عين"
+    },
+    {
+      "letter": "غ",
+      "name": "غين"
+    },
+    {
+      "letter": "ف",
+      "name": "فاء"
+    },
+    {
+      "letter": "ق",
+      "name": "قاف"
+    },
+    {
+      "letter": "ك",
+      "name": "كاف"
+    },
+    {
+      "letter": "ل",
+      "name": "لام"
+    },
+    {
+      "letter": "م",
+      "name": "ميم"
+    },
+    {
+      "letter": "ن",
+      "name": "نون"
+    },
+    {
+      "letter": "ه",
+      "name": "هاء"
+    },
+    {
+      "letter": "و",
+      "name": "واو"
+    },
+    {
+      "letter": "ي",
+      "name": "ياء"
+    }
+  ],
+  "roots": [
+    {
+      "id": "akhd",
+      "root": "أ-خ-ذ",
+      "letter": "أ",
+      "meaning": "taking",
+      "formI": "أخذ / ياخذ",
+      "example": "أخذت المفتاح — I took the key",
+      "file": "roots/akhd.md",
+      "filId": "akhd",
+      "ismIds": []
+    },
+    {
+      "id": "akl",
+      "root": "أ-ك-ل",
+      "letter": "أ",
+      "meaning": "eating",
+      "formI": "أكل / ياكل",
+      "example": "أكلت رز — I ate rice",
+      "file": "roots/akl.md",
+      "filId": "akl",
+      "ismIds": [
+        "akl-n"
+      ]
+    },
+    {
+      "id": "amr",
+      "root": "أ-م-ر",
+      "letter": "أ",
+      "meaning": "ordering / commanding",
+      "formI": "أمر / يأمر",
+      "example": "أمرني أسويها — He told me to do it",
+      "file": "roots/amr.md",
+      "filId": "amr",
+      "ismIds": []
+    },
+    {
+      "id": "aty",
+      "root": "أ-ت-ي",
+      "letter": "أ",
+      "meaning": "coming / bringing",
+      "formI": "أتى / ياتي",
+      "example": "متى تجي؟ — When are you coming?",
+      "file": "roots/aty.md",
+      "filId": "aty",
+      "ismIds": []
+    },
+    {
+      "id": "bda",
+      "root": "ب-د-أ",
+      "letter": "ب",
+      "meaning": "starting",
+      "formI": "بدأ / يبدأ",
+      "example": "بدأت الدرس — I started the lesson",
+      "file": "roots/bda.md",
+      "filId": "bda",
+      "ismIds": []
+    },
+    {
+      "id": "bhth",
+      "root": "ب-ح-ث",
+      "letter": "ب",
+      "meaning": "searching",
+      "formI": "بحث / يبحث",
+      "example": "أبحث عن عمل — I’m looking for work",
+      "file": "roots/bhth.md",
+      "filId": "bhth",
+      "ismIds": []
+    },
+    {
+      "id": "by3",
+      "root": "ب-ي-ع",
+      "letter": "ب",
+      "meaning": "selling",
+      "formI": "باع / يبيع",
+      "example": "بعت السيارة — I sold the car",
+      "file": "roots/by3.md",
+      "filId": "by3",
+      "ismIds": []
+    },
+    {
+      "id": "bghy",
+      "root": "ب-غ-ي",
+      "letter": "ب",
+      "meaning": "wanting (Najdi)",
+      "formI": "بغى / يبغى",
+      "example": "أبغى قهوة — I want coffee",
+      "file": "roots/bghy.md",
+      "filId": "bghy",
+      "ismIds": []
+    },
+    {
+      "id": "blgh",
+      "root": "ب-ل-غ",
+      "letter": "ب",
+      "meaning": "reaching / informing",
+      "formI": "بلغ / يبلغ",
+      "example": "بلغني الخبر — The news reached me",
+      "file": "roots/blgh.md",
+      "filId": "blgh",
+      "ismIds": []
+    },
+    {
+      "id": "trk",
+      "root": "ت-ر-ك",
+      "letter": "ت",
+      "meaning": "leaving",
+      "formI": "ترك / يترك",
+      "example": "تركت الجوال — I left the phone",
+      "file": "roots/trk.md",
+      "filId": "trk",
+      "ismIds": []
+    },
+    {
+      "id": "tb3",
+      "root": "ت-ب-ع",
+      "letter": "ت",
+      "meaning": "following",
+      "formI": "تبع / يتبع",
+      "example": "اتبعني — Follow me",
+      "file": "roots/tb3.md",
+      "filId": "tb3",
+      "ismIds": []
+    },
+    {
+      "id": "tmm",
+      "root": "ت-م-م",
+      "letter": "ت",
+      "meaning": "completing",
+      "formI": "تمّ / يتم",
+      "example": "تمّ الشغل — The work is done",
+      "file": "roots/tmm.md",
+      "filId": "tmm",
+      "ismIds": []
+    },
+    {
+      "id": "thbt",
+      "root": "ث-ب-ت",
+      "letter": "ث",
+      "meaning": "staying firm / proving",
+      "formI": "ثبت / يثبت",
+      "example": "ثبت الرقم — Save / confirm the number",
+      "file": "roots/thbt.md",
+      "filId": "thbt",
+      "ismIds": []
+    },
+    {
+      "id": "thql",
+      "root": "ث-ق-ل",
+      "letter": "ث",
+      "meaning": "being heavy",
+      "formI": "ثقل / يثقل",
+      "example": "الشغل ثقيل — The work is heavy",
+      "file": "roots/thql.md",
+      "filId": "thql",
+      "ismIds": []
+    },
+    {
+      "id": "jls",
+      "root": "ج-ل-س",
+      "letter": "ج",
+      "meaning": "sitting",
+      "formI": "جلس / يجلس",
+      "example": "اجلس هنا — Sit here",
+      "file": "roots/jls.md",
+      "filId": "jls",
+      "ismIds": []
+    },
+    {
+      "id": "jy",
+      "root": "ج-ي-ء",
+      "letter": "ج",
+      "meaning": "coming",
+      "formI": "جا / يجي",
+      "example": "بجي بعدين — I’ll come later",
+      "file": "roots/jy.md",
+      "filId": "jy",
+      "ismIds": []
+    },
+    {
+      "id": "jm3",
+      "root": "ج-م-ع",
+      "letter": "ج",
+      "meaning": "gathering",
+      "formI": "جمع / يجمع",
+      "example": "جمعنا الفلوس — We collected the money",
+      "file": "roots/jm3.md",
+      "filId": "jm3",
+      "ismIds": []
+    },
+    {
+      "id": "jrb",
+      "root": "ج-ر-ب",
+      "letter": "ج",
+      "meaning": "trying",
+      "formI": "جرب / يجرب",
+      "example": "جربت الأكل — I tried the food",
+      "file": "roots/jrb.md",
+      "filId": "jrb",
+      "ismIds": []
+    },
+    {
+      "id": "jry",
+      "root": "ج-ر-ي",
+      "letter": "ج",
+      "meaning": "running",
+      "formI": "جرى / يجري",
+      "example": "يجري بسرعة — He runs fast",
+      "file": "roots/jry.md",
+      "filId": "jry",
+      "ismIds": []
+    },
+    {
+      "id": "hbb",
+      "root": "ح-ب-ب",
+      "letter": "ح",
+      "meaning": "loving",
+      "formI": "حبّ / يحب",
+      "example": "أحب القهوة — I love coffee",
+      "file": "roots/hbb.md",
+      "filId": "hbb",
+      "ismIds": [
+        "7ub"
+      ]
+    },
+    {
+      "id": "hsil",
+      "root": "ح-ص-ل",
+      "letter": "ح",
+      "meaning": "happening / getting",
+      "formI": "حصل / يحصل",
+      "example": "وش حصل؟ — What happened?",
+      "file": "roots/hsil.md",
+      "filId": "hsil",
+      "ismIds": []
+    },
+    {
+      "id": "hfz",
+      "root": "ح-ف-ظ",
+      "letter": "ح",
+      "meaning": "memorizing / keeping",
+      "formI": "حفظ / يحفظ",
+      "example": "حفظت الدرس — I memorized the lesson",
+      "file": "roots/hfz.md",
+      "filId": "hfz",
+      "ismIds": []
+    },
+    {
+      "id": "htt",
+      "root": "ح-ط-ط",
+      "letter": "ح",
+      "meaning": "putting / placing",
+      "formI": "حطّ / يحط",
+      "example": "حطها هنا — Put it here",
+      "file": "roots/htt.md",
+      "filId": "htt",
+      "ismIds": []
+    },
+    {
+      "id": "hdr",
+      "root": "ح-ض-ر",
+      "letter": "ح",
+      "meaning": "attending / preparing",
+      "formI": "حضر / يحضر",
+      "example": "حضرت الاجتماع — I attended the meeting",
+      "file": "roots/hdr.md",
+      "filId": "hdr",
+      "ismIds": []
+    },
+    {
+      "id": "hky",
+      "root": "ح-ك-ي",
+      "letter": "ح",
+      "meaning": "speaking / telling",
+      "formI": "حكى / يحكي",
+      "example": "احكي لي — Tell me",
+      "file": "roots/hky.md",
+      "filId": "hky",
+      "ismIds": []
+    },
+    {
+      "id": "hml",
+      "root": "ح-م-ل",
+      "letter": "ح",
+      "meaning": "carrying",
+      "formI": "حمل / يحمل",
+      "example": "احمل الشنطة — Carry the bag",
+      "file": "roots/hml.md",
+      "filId": "hml",
+      "ismIds": []
+    },
+    {
+      "id": "khrj",
+      "root": "خ-ر-ج",
+      "letter": "خ",
+      "meaning": "going out",
+      "formI": "خرج / يخرج",
+      "example": "خرجت من البيت — I left the house",
+      "file": "roots/khrj.md",
+      "filId": "khrj",
+      "ismIds": []
+    },
+    {
+      "id": "khaf",
+      "root": "خ-و-ف",
+      "letter": "خ",
+      "meaning": "fearing",
+      "formI": "خاف / يخاف",
+      "example": "ما أخاف — I’m not afraid",
+      "file": "roots/khaf.md",
+      "filId": "khaf",
+      "ismIds": [
+        "khawf"
+      ]
+    },
+    {
+      "id": "khdm",
+      "root": "خ-د-م",
+      "letter": "خ",
+      "meaning": "serving",
+      "formI": "خدم / يخدم",
+      "example": "يخدم الزباين — He serves customers",
+      "file": "roots/khdm.md",
+      "filId": "khdm",
+      "ismIds": []
+    },
+    {
+      "id": "khlS",
+      "root": "خ-ل-ص",
+      "letter": "خ",
+      "meaning": "finishing",
+      "formI": "خلص / يخلص",
+      "example": "خلصت الشغل — I finished the work",
+      "file": "roots/khlS.md",
+      "filId": "khlS",
+      "ismIds": []
+    },
+    {
+      "id": "dkhl",
+      "root": "د-خ-ل",
+      "letter": "د",
+      "meaning": "entering",
+      "formI": "دخل / يدخل",
+      "example": "ادخل — Come in",
+      "file": "roots/dkhl.md",
+      "filId": "dkhl",
+      "ismIds": []
+    },
+    {
+      "id": "drs",
+      "root": "د-ر-س",
+      "letter": "د",
+      "meaning": "studying",
+      "formI": "درس / يدرس",
+      "example": "أدرس عربي — I study Arabic",
+      "file": "roots/drs.md",
+      "filId": "drs",
+      "ismIds": [
+        "dars",
+        "madrasa"
+      ]
+    },
+    {
+      "id": "df3",
+      "root": "د-ف-ع",
+      "letter": "د",
+      "meaning": "paying / pushing",
+      "formI": "دفع / يدفع",
+      "example": "دفعت الحساب — I paid the bill",
+      "file": "roots/df3.md",
+      "filId": "df3",
+      "ismIds": [
+        "hisab"
+      ]
+    },
+    {
+      "id": "dwr",
+      "root": "د-و-ر",
+      "letter": "د",
+      "meaning": "turning / looking for",
+      "formI": "دار / يدور",
+      "example": "أدور على مفتاح — I’m looking for a key",
+      "file": "roots/dwr.md",
+      "filId": "dwr",
+      "ismIds": []
+    },
+    {
+      "id": "dhhb",
+      "root": "ذ-ه-ب",
+      "letter": "ذ",
+      "meaning": "going",
+      "formI": "ذهب / يذهب",
+      "example": "وين تروح؟ — Where are you going?",
+      "file": "roots/dhhb.md",
+      "filId": "dhhb",
+      "ismIds": []
+    },
+    {
+      "id": "dhkr",
+      "root": "ذ-ك-ر",
+      "letter": "ذ",
+      "meaning": "mentioning / remembering",
+      "formI": "ذكر / يذكر",
+      "example": "تذكرت اسمه — I remembered his name",
+      "file": "roots/dhkr.md",
+      "filId": "dhkr",
+      "ismIds": []
+    },
+    {
+      "id": "rj3",
+      "root": "ر-ج-ع",
+      "letter": "ر",
+      "meaning": "returning",
+      "formI": "رجع / يرجع",
+      "example": "برجع بعدين — I’ll come back later",
+      "file": "roots/rj3.md",
+      "filId": "rj3",
+      "ismIds": []
+    },
+    {
+      "id": "rah",
+      "root": "ر-و-ح",
+      "letter": "ر",
+      "meaning": "going (Najdi)",
+      "formI": "راح / يروح",
+      "example": "أروح السوق — I’m going to the market",
+      "file": "roots/rah.md",
+      "filId": "rah",
+      "ismIds": []
+    },
+    {
+      "id": "ray",
+      "root": "ر-ا-ي",
+      "letter": "ر",
+      "meaning": "seeing",
+      "formI": "رأى / يرى",
+      "example": "شفتك أمس — I saw you yesterday",
+      "file": "roots/ray.md",
+      "filId": "ray",
+      "ismIds": [
+        "ray-n"
+      ]
+    },
+    {
+      "id": "rkb",
+      "root": "ر-ك-ب",
+      "letter": "ر",
+      "meaning": "riding / boarding",
+      "formI": "ركب / يركب",
+      "example": "ركب السيارة — He got in the car",
+      "file": "roots/rkb.md",
+      "filId": "rkb",
+      "ismIds": []
+    },
+    {
+      "id": "rdd",
+      "root": "ر-د-د",
+      "letter": "ر",
+      "meaning": "replying / returning",
+      "formI": "ردّ / يرد",
+      "example": "رد عليّ — Reply to me",
+      "file": "roots/rdd.md",
+      "filId": "rdd",
+      "ismIds": []
+    },
+    {
+      "id": "rgb",
+      "root": "ر-غ-ب",
+      "letter": "ر",
+      "meaning": "desiring",
+      "formI": "رغب / يرغب",
+      "example": "أرغب في القهوة — I’d like coffee",
+      "file": "roots/rgb.md",
+      "filId": "rgb",
+      "ismIds": []
+    },
+    {
+      "id": "zwr",
+      "root": "ز-و-ر",
+      "letter": "ز",
+      "meaning": "visiting",
+      "formI": "زار / يزور",
+      "example": "بزور أهلي — I’ll visit my family",
+      "file": "roots/zwr.md",
+      "filId": "zwr",
+      "ismIds": []
+    },
+    {
+      "id": "zyd",
+      "root": "ز-ي-د",
+      "letter": "ز",
+      "meaning": "increasing",
+      "formI": "زاد / يزيد",
+      "example": "زاد السعر — The price went up",
+      "file": "roots/zyd.md",
+      "filId": "zyd",
+      "ismIds": []
+    },
+    {
+      "id": "sal",
+      "root": "س-أ-ل",
+      "letter": "س",
+      "meaning": "asking",
+      "formI": "سأل / يسأل",
+      "example": "أسألك سؤال — Can I ask you something?",
+      "file": "roots/sal.md",
+      "filId": "sal",
+      "ismIds": [
+        "suwal"
+      ]
+    },
+    {
+      "id": "swy",
+      "root": "س-و-ي",
+      "letter": "س",
+      "meaning": "making / doing",
+      "formI": "سوى / يسوي",
+      "example": "وش تسوي؟ — What are you doing?",
+      "file": "roots/swy.md",
+      "filId": "swy",
+      "ismIds": []
+    },
+    {
+      "id": "sm3",
+      "root": "س-م-ع",
+      "letter": "س",
+      "meaning": "hearing",
+      "formI": "سمع / يسمع",
+      "example": "سمعتك — I heard you",
+      "file": "roots/sm3.md",
+      "filId": "sm3",
+      "ismIds": []
+    },
+    {
+      "id": "skn",
+      "root": "س-ك-ن",
+      "letter": "س",
+      "meaning": "living / residing",
+      "formI": "سكن / يسكن",
+      "example": "أسكن في الرياض — I live in Riyadh",
+      "file": "roots/skn.md",
+      "filId": "skn",
+      "ismIds": []
+    },
+    {
+      "id": "syr",
+      "root": "س-ي-ر",
+      "letter": "س",
+      "meaning": "walking / going",
+      "formI": "سار / يسير",
+      "example": "سر معي — Walk with me",
+      "file": "roots/syr.md",
+      "filId": "syr",
+      "ismIds": []
+    },
+    {
+      "id": "sqT",
+      "root": "س-ق-ط",
+      "letter": "س",
+      "meaning": "falling",
+      "formI": "سقط / يسقط",
+      "example": "سقط الجوال — The phone fell",
+      "file": "roots/sqT.md",
+      "filId": "sqT",
+      "ismIds": []
+    },
+    {
+      "id": "shaf",
+      "root": "ش-و-ف",
+      "letter": "ش",
+      "meaning": "seeing (Najdi)",
+      "formI": "شاف / يشوف",
+      "example": "أشوفك بكرة — I’ll see you tomorrow",
+      "file": "roots/shaf.md",
+      "filId": "shaf",
+      "ismIds": []
+    },
+    {
+      "id": "shrb",
+      "root": "ش-ر-ب",
+      "letter": "ش",
+      "meaning": "drinking",
+      "formI": "شرب / يشرب",
+      "example": "أشرب شاهي — I drink tea",
+      "file": "roots/shrb.md",
+      "filId": "shrb",
+      "ismIds": [
+        "shurb"
+      ]
+    },
+    {
+      "id": "shghl",
+      "root": "ش-غ-ل",
+      "letter": "ش",
+      "meaning": "working / occupying",
+      "formI": "شغل / يشغل",
+      "example": "وين تشتغل؟ — Where do you work?",
+      "file": "roots/shghl.md",
+      "filId": "shghl",
+      "ismIds": [
+        "shoghl"
+      ]
+    },
+    {
+      "id": "shry",
+      "root": "ش-ر-ي",
+      "letter": "ش",
+      "meaning": "buying",
+      "formI": "شرى / يشري",
+      "example": "شريت أكل — I bought food",
+      "file": "roots/shry.md",
+      "filId": "shry",
+      "ismIds": []
+    },
+    {
+      "id": "shkk",
+      "root": "ش-ك-ك",
+      "letter": "ش",
+      "meaning": "doubting",
+      "formI": "شكّ / يشك",
+      "example": "ما أشك — I don’t doubt",
+      "file": "roots/shkk.md",
+      "filId": "shkk",
+      "ismIds": []
+    },
+    {
+      "id": "sar",
+      "root": "ص-ي-ر",
+      "letter": "ص",
+      "meaning": "becoming",
+      "formI": "صار / يصير",
+      "example": "صار الليل — It became night",
+      "file": "roots/sar.md",
+      "filId": "sar",
+      "ismIds": []
+    },
+    {
+      "id": "sbr",
+      "root": "ص-ب-ر",
+      "letter": "ص",
+      "meaning": "being patient",
+      "formI": "صبر / يصبر",
+      "example": "اصبر شوي — Be patient a bit",
+      "file": "roots/sbr.md",
+      "filId": "sbr",
+      "ismIds": []
+    },
+    {
+      "id": "slh",
+      "root": "ص-ل-ح",
+      "letter": "ص",
+      "meaning": "fixing / being suitable",
+      "formI": "صلح / يصلح",
+      "example": "يصلح الجوال — He fixes phones",
+      "file": "roots/slh.md",
+      "filId": "slh",
+      "ismIds": []
+    },
+    {
+      "id": "sbh",
+      "root": "ص-ب-ح",
+      "letter": "ص",
+      "meaning": "becoming morning / waking",
+      "formI": "صبح / يصبح",
+      "example": "صباح الخير — Good morning",
+      "file": "roots/sbh.md",
+      "filId": "sbh",
+      "ismIds": [
+        "sabah"
+      ]
+    },
+    {
+      "id": "drb",
+      "root": "ض-ر-ب",
+      "letter": "ض",
+      "meaning": "hitting",
+      "formI": "ضرب / يضرب",
+      "example": "لا تضرب — Don’t hit",
+      "file": "roots/drb.md",
+      "filId": "drb",
+      "ismIds": []
+    },
+    {
+      "id": "dyq",
+      "root": "ض-ي-ق",
+      "letter": "ض",
+      "meaning": "being tight / annoyed",
+      "formI": "ضاق / يضيق",
+      "example": "ضاق صدري — I feel upset",
+      "file": "roots/dyq.md",
+      "filId": "dyq",
+      "ismIds": []
+    },
+    {
+      "id": "dHk",
+      "root": "ض-ح-ك",
+      "letter": "ض",
+      "meaning": "laughing",
+      "formI": "ضحك / يضحك",
+      "example": "يضحك كثير — He laughs a lot",
+      "file": "roots/dHk.md",
+      "filId": "dHk",
+      "ismIds": []
+    },
+    {
+      "id": "tl3",
+      "root": "ط-ل-ع",
+      "letter": "ط",
+      "meaning": "going up / coming out",
+      "formI": "طلع / يطلع",
+      "example": "طلعت برا — I went outside",
+      "file": "roots/tl3.md",
+      "filId": "tl3",
+      "ismIds": []
+    },
+    {
+      "id": "tlb",
+      "root": "ط-ل-ب",
+      "letter": "ط",
+      "meaning": "requesting / ordering",
+      "formI": "طلب / يطلب",
+      "example": "طلبت قهوة — I ordered coffee",
+      "file": "roots/tlb.md",
+      "filId": "tlb",
+      "ismIds": [
+        "talib"
+      ]
+    },
+    {
+      "id": "tbkh",
+      "root": "ط-ب-خ",
+      "letter": "ط",
+      "meaning": "cooking",
+      "formI": "طبخ / يطبخ",
+      "example": "أطبخ اليوم — I’m cooking today",
+      "file": "roots/tbkh.md",
+      "filId": "tbkh",
+      "ismIds": [
+        "matbakh",
+        "mata3im"
+      ]
+    },
+    {
+      "id": "twl",
+      "root": "ط-و-ل",
+      "letter": "ط",
+      "meaning": "taking long / being tall",
+      "formI": "طول / يطول",
+      "example": "لا تطول — Don’t take long",
+      "file": "roots/twl.md",
+      "filId": "twl",
+      "ismIds": []
+    },
+    {
+      "id": "znn",
+      "root": "ظ-ن-ن",
+      "letter": "ظ",
+      "meaning": "thinking / assuming",
+      "formI": "ظنّ / يظن",
+      "example": "أظن كذا — I think so",
+      "file": "roots/znn.md",
+      "filId": "znn",
+      "ismIds": []
+    },
+    {
+      "id": "zhr",
+      "root": "ظ-ه-ر",
+      "letter": "ظ",
+      "meaning": "appearing",
+      "formI": "ظهر / يظهر",
+      "example": "ظهر الحل — The solution appeared",
+      "file": "roots/zhr.md",
+      "filId": "zhr",
+      "ismIds": []
+    },
+    {
+      "id": "3rf",
+      "root": "ع-ر-ف",
+      "letter": "ع",
+      "meaning": "knowing",
+      "formI": "عرف / يعرف",
+      "example": "أعرف الطريق — I know the way",
+      "file": "roots/3rf.md",
+      "filId": "3rf",
+      "ismIds": []
+    },
+    {
+      "id": "3ml",
+      "root": "ع-م-ل",
+      "letter": "ع",
+      "meaning": "working / doing",
+      "formI": "عمل / يعمل",
+      "example": "وش تشتغل؟ — What do you do?",
+      "file": "roots/3ml.md",
+      "filId": "3ml",
+      "ismIds": [
+        "amal"
+      ]
+    },
+    {
+      "id": "3ysh",
+      "root": "ع-ي-ش",
+      "letter": "ع",
+      "meaning": "living",
+      "formI": "عاش / يعيش",
+      "example": "أعيش هنا — I live here",
+      "file": "roots/3ysh.md",
+      "filId": "3ysh",
+      "ismIds": []
+    },
+    {
+      "id": "3ty",
+      "root": "ع-ط-ي",
+      "letter": "ع",
+      "meaning": "giving",
+      "formI": "عطى / يعطي",
+      "example": "أعطني جوالك — Give me your phone",
+      "file": "roots/3ty.md",
+      "filId": "3ty",
+      "ismIds": []
+    },
+    {
+      "id": "3dd",
+      "root": "ع-د-د",
+      "letter": "ع",
+      "meaning": "counting",
+      "formI": "عدّ / يعد",
+      "example": "عدّ الفلوس — Count the money",
+      "file": "roots/3dd.md",
+      "filId": "3dd",
+      "ismIds": []
+    },
+    {
+      "id": "3lm",
+      "root": "ع-ل-م",
+      "letter": "ع",
+      "meaning": "knowing / teaching",
+      "formI": "علم / يعلم",
+      "example": "تعلّم عربي — Learn Arabic",
+      "file": "roots/3lm.md",
+      "filId": "3lm",
+      "ismIds": []
+    },
+    {
+      "id": "ghsl",
+      "root": "غ-س-ل",
+      "letter": "غ",
+      "meaning": "washing",
+      "formI": "غسل / يغسل",
+      "example": "اغسل يدك — Wash your hands",
+      "file": "roots/ghsl.md",
+      "filId": "ghsl",
+      "ismIds": []
+    },
+    {
+      "id": "ghyb",
+      "root": "غ-ي-ب",
+      "letter": "غ",
+      "meaning": "being absent",
+      "formI": "غاب / يغيب",
+      "example": "غاب عن الدرس — He missed the lesson",
+      "file": "roots/ghyb.md",
+      "filId": "ghyb",
+      "ismIds": []
+    },
+    {
+      "id": "ghyr",
+      "root": "غ-ي-ر",
+      "letter": "غ",
+      "meaning": "changing",
+      "formI": "غيّر / يغيّر",
+      "example": "غيّر رأيك — Change your mind",
+      "file": "roots/ghyr.md",
+      "filId": "ghyr",
+      "ismIds": []
+    },
+    {
+      "id": "fth",
+      "root": "ف-ت-ح",
+      "letter": "ف",
+      "meaning": "opening",
+      "formI": "فتح / يفتح",
+      "example": "افتح الباب — Open the door",
+      "file": "roots/fth.md",
+      "filId": "fth",
+      "ismIds": [
+        "miftah"
+      ]
+    },
+    {
+      "id": "fhm",
+      "root": "ف-ه-م",
+      "letter": "ف",
+      "meaning": "understanding",
+      "formI": "فهم / يفهم",
+      "example": "فهمت؟ — Did you understand?",
+      "file": "roots/fhm.md",
+      "filId": "fhm",
+      "ismIds": []
+    },
+    {
+      "id": "fkr",
+      "root": "ف-ك-ر",
+      "letter": "ف",
+      "meaning": "thinking",
+      "formI": "فكّر / يفكّر",
+      "example": "خلني أفكر — Let me think",
+      "file": "roots/fkr.md",
+      "filId": "fkr",
+      "ismIds": [
+        "fikra"
+      ]
+    },
+    {
+      "id": "f3l",
+      "root": "ف-ع-ل",
+      "letter": "ف",
+      "meaning": "doing",
+      "formI": "فعل / يفعل",
+      "example": "وش أسوي؟ — What should I do?",
+      "file": "roots/f3l.md",
+      "filId": "f3l",
+      "ismIds": [
+        "fil-n"
+      ]
+    },
+    {
+      "id": "fqd",
+      "root": "ف-ق-د",
+      "letter": "ف",
+      "meaning": "losing",
+      "formI": "فقد / يفقد",
+      "example": "فقدت المفتاح — I lost the key",
+      "file": "roots/fqd.md",
+      "filId": "fqd",
+      "ismIds": []
+    },
+    {
+      "id": "qwl",
+      "root": "ق-و-ل",
+      "letter": "ق",
+      "meaning": "saying",
+      "formI": "قال / يقول",
+      "example": "وش قلت؟ — What did you say?",
+      "file": "roots/qwl.md",
+      "filId": "qwl",
+      "ismIds": []
+    },
+    {
+      "id": "qra",
+      "root": "ق-ر-أ",
+      "letter": "ق",
+      "meaning": "reading",
+      "formI": "قرأ / يقرأ",
+      "example": "أقرأ كتاب — I’m reading a book",
+      "file": "roots/qra.md",
+      "filId": "qra",
+      "ismIds": []
+    },
+    {
+      "id": "qwm",
+      "root": "ق-و-م",
+      "letter": "ق",
+      "meaning": "standing / getting up",
+      "formI": "قام / يقوم",
+      "example": "قوم — Get up",
+      "file": "roots/qwm.md",
+      "filId": "qwm",
+      "ismIds": []
+    },
+    {
+      "id": "qdr",
+      "root": "ق-د-ر",
+      "letter": "ق",
+      "meaning": "being able",
+      "formI": "قدر / يقدر",
+      "example": "أقدر أجي — I can come",
+      "file": "roots/qdr.md",
+      "filId": "qdr",
+      "ismIds": []
+    },
+    {
+      "id": "qt3",
+      "root": "ق-ط-ع",
+      "letter": "ق",
+      "meaning": "cutting",
+      "formI": "قطع / يقطع",
+      "example": "قطع الخط — The line cut off",
+      "file": "roots/qt3.md",
+      "filId": "qt3",
+      "ismIds": []
+    },
+    {
+      "id": "qrb",
+      "root": "ق-ر-ب",
+      "letter": "ق",
+      "meaning": "approaching",
+      "formI": "قرب / يقرب",
+      "example": "قرب مني — Come closer",
+      "file": "roots/qrb.md",
+      "filId": "qrb",
+      "ismIds": []
+    },
+    {
+      "id": "ktb",
+      "root": "ك-ت-ب",
+      "letter": "ك",
+      "meaning": "writing",
+      "formI": "كتب / يكتب",
+      "example": "أكتب رسالة — I’m writing a letter",
+      "file": "roots/ktb.md",
+      "filId": "ktb",
+      "ismIds": [
+        "kitab",
+        "katib",
+        "kitaba",
+        "maktab",
+        "maktaba",
+        "maktub"
+      ]
+    },
+    {
+      "id": "kwn",
+      "root": "ك-و-ن",
+      "letter": "ك",
+      "meaning": "being",
+      "formI": "كان / يكون",
+      "example": "كان هنا — He was here",
+      "file": "roots/kwn.md",
+      "filId": "kwn",
+      "ismIds": []
+    },
+    {
+      "id": "klm",
+      "root": "ك-ل-م",
+      "letter": "ك",
+      "meaning": "speaking",
+      "formI": "كلّم / يكلّم",
+      "example": "كلّمني بعدين — Call / talk to me later",
+      "file": "roots/klm.md",
+      "filId": "klm",
+      "ismIds": [
+        "kalam",
+        "kalima"
+      ]
+    },
+    {
+      "id": "ksr",
+      "root": "ك-س-ر",
+      "letter": "ك",
+      "meaning": "breaking",
+      "formI": "كسر / يكسر",
+      "example": "انكسر الجوال — The phone broke",
+      "file": "roots/ksr.md",
+      "filId": "ksr",
+      "ismIds": []
+    },
+    {
+      "id": "kbr",
+      "root": "ك-ب-ر",
+      "letter": "ك",
+      "meaning": "growing / being big",
+      "formI": "كبر / يكبر",
+      "example": "كبر الولد — The boy grew up",
+      "file": "roots/kbr.md",
+      "filId": "kbr",
+      "ismIds": []
+    },
+    {
+      "id": "l3b",
+      "root": "ل-ع-ب",
+      "letter": "ل",
+      "meaning": "playing",
+      "formI": "لعب / يلعب",
+      "example": "يلعب كورة — He plays football",
+      "file": "roots/l3b.md",
+      "filId": "l3b",
+      "ismIds": [
+        "koora"
+      ]
+    },
+    {
+      "id": "lqy",
+      "root": "ل-ق-ي",
+      "letter": "ل",
+      "meaning": "finding",
+      "formI": "لقى / يلقى",
+      "example": "لقيت المفتاح — I found the key",
+      "file": "roots/lqy.md",
+      "filId": "lqy",
+      "ismIds": []
+    },
+    {
+      "id": "lbs",
+      "root": "ل-ب-س",
+      "letter": "ل",
+      "meaning": "wearing / dressing",
+      "formI": "لبس / يلبس",
+      "example": "وش تلبس؟ — What are you wearing?",
+      "file": "roots/lbs.md",
+      "filId": "lbs",
+      "ismIds": []
+    },
+    {
+      "id": "lzm",
+      "root": "ل-ز-م",
+      "letter": "ل",
+      "meaning": "must / sticking",
+      "formI": "لزم / يلزم",
+      "example": "لازم أروح — I must go",
+      "file": "roots/lzm.md",
+      "filId": "lzm",
+      "ismIds": []
+    },
+    {
+      "id": "mshy",
+      "root": "م-ش-ي",
+      "letter": "م",
+      "meaning": "walking",
+      "formI": "مشى / يمشي",
+      "example": "أمشي كل يوم — I walk every day",
+      "file": "roots/mshy.md",
+      "filId": "mshy",
+      "ismIds": []
+    },
+    {
+      "id": "msk",
+      "root": "م-س-ك",
+      "letter": "م",
+      "meaning": "holding / catching",
+      "formI": "مسك / يمسك",
+      "example": "امسك هذي — Hold this",
+      "file": "roots/msk.md",
+      "filId": "msk",
+      "ismIds": []
+    },
+    {
+      "id": "mrr",
+      "root": "م-ر-ر",
+      "letter": "م",
+      "meaning": "passing",
+      "formI": "مرّ / يمر",
+      "example": "مرّيت من عندك — I passed by you",
+      "file": "roots/mrr.md",
+      "filId": "mrr",
+      "ismIds": []
+    },
+    {
+      "id": "mwt",
+      "root": "م-و-ت",
+      "letter": "م",
+      "meaning": "dying",
+      "formI": "مات / يموت",
+      "example": "مات البطارية — The battery died",
+      "file": "roots/mwt.md",
+      "filId": "mwt",
+      "ismIds": []
+    },
+    {
+      "id": "mlk",
+      "root": "م-ل-ك",
+      "letter": "م",
+      "meaning": "owning",
+      "formI": "ملك / يملك",
+      "example": "أملك سيارة — I own a car",
+      "file": "roots/mlk.md",
+      "filId": "mlk",
+      "ismIds": []
+    },
+    {
+      "id": "nam",
+      "root": "ن-و-م",
+      "letter": "ن",
+      "meaning": "sleeping",
+      "formI": "نام / ينام",
+      "example": "أنام بدري — I sleep early",
+      "file": "roots/nam.md",
+      "filId": "nam",
+      "ismIds": []
+    },
+    {
+      "id": "nzl",
+      "root": "ن-ز-ل",
+      "letter": "ن",
+      "meaning": "going down / getting off",
+      "formI": "نزل / ينزل",
+      "example": "نزلت من السيارة — I got out of the car",
+      "file": "roots/nzl.md",
+      "filId": "nzl",
+      "ismIds": []
+    },
+    {
+      "id": "nzr",
+      "root": "ن-ظ-ر",
+      "letter": "ن",
+      "meaning": "looking",
+      "formI": "نظر / ينظر",
+      "example": "انظر هنا — Look here",
+      "file": "roots/nzr.md",
+      "filId": "nzr",
+      "ismIds": []
+    },
+    {
+      "id": "nsy",
+      "root": "ن-س-ي",
+      "letter": "ن",
+      "meaning": "forgetting",
+      "formI": "نسي / ينسى",
+      "example": "نسيت اسمه — I forgot his name",
+      "file": "roots/nsy.md",
+      "filId": "nsy",
+      "ismIds": []
+    },
+    {
+      "id": "nql",
+      "root": "ن-ق-ل",
+      "letter": "ن",
+      "meaning": "moving / transferring",
+      "formI": "نقل / ينقل",
+      "example": "نقلت البيت — I moved house",
+      "file": "roots/nql.md",
+      "filId": "nql",
+      "ismIds": []
+    },
+    {
+      "id": "hrb",
+      "root": "ه-ر-ب",
+      "letter": "ه",
+      "meaning": "escaping / running away",
+      "formI": "هرب / يهرب",
+      "example": "هرب الكلب — The dog ran away",
+      "file": "roots/hrb.md",
+      "filId": "hrb",
+      "ismIds": []
+    },
+    {
+      "id": "hmm",
+      "root": "ه-م-م",
+      "letter": "ه",
+      "meaning": "being concerned",
+      "formI": "همّ / يهم",
+      "example": "يهمني الأمر — This matters to me",
+      "file": "roots/hmm.md",
+      "filId": "hmm",
+      "ismIds": []
+    },
+    {
+      "id": "hdy",
+      "root": "ه-د-ي",
+      "letter": "ه",
+      "meaning": "calming / guiding",
+      "formI": "هدى / يهدي",
+      "example": "اهدأ شوي — Calm down a bit",
+      "file": "roots/hdy.md",
+      "filId": "hdy",
+      "ismIds": []
+    },
+    {
+      "id": "wsl",
+      "root": "و-ص-ل",
+      "letter": "و",
+      "meaning": "arriving / connecting",
+      "formI": "وصل / يوصل",
+      "example": "وصلت البيت — I arrived home",
+      "file": "roots/wsl.md",
+      "filId": "wsl",
+      "ismIds": []
+    },
+    {
+      "id": "wqf",
+      "root": "و-ق-ف",
+      "letter": "و",
+      "meaning": "stopping / standing",
+      "formI": "وقف / يوقف",
+      "example": "وقف هنا — Stop here",
+      "file": "roots/wqf.md",
+      "filId": "wqf",
+      "ismIds": []
+    },
+    {
+      "id": "wd3",
+      "root": "و-ض-ع",
+      "letter": "و",
+      "meaning": "placing",
+      "formI": "وضع / يوضع",
+      "example": "حطها / ضعها هنا — Put it here",
+      "file": "roots/wd3.md",
+      "filId": "wd3",
+      "ismIds": []
+    },
+    {
+      "id": "wjd",
+      "root": "و-ج-د",
+      "letter": "و",
+      "meaning": "finding / existing",
+      "formI": "وجد / يوجد",
+      "example": "لقيت / ما فيه — I found it / there isn’t",
+      "file": "roots/wjd.md",
+      "filId": "wjd",
+      "ismIds": []
+    },
+    {
+      "id": "wld",
+      "root": "و-ل-د",
+      "letter": "و",
+      "meaning": "being born / giving birth",
+      "formI": "ولد / يولد",
+      "example": "ولد في الرياض — He was born in Riyadh",
+      "file": "roots/wld.md",
+      "filId": "wld",
+      "ismIds": [
+        "walad"
+      ]
+    },
+    {
+      "id": "ws3",
+      "root": "و-س-ع",
+      "letter": "و",
+      "meaning": "being wide / roomy",
+      "formI": "وسع / يوسع",
+      "example": "المكان واسع — The place is spacious",
+      "file": "roots/ws3.md",
+      "filId": "ws3",
+      "ismIds": []
+    },
+    {
+      "id": "ysr",
+      "root": "ي-س-ر",
+      "letter": "ي",
+      "meaning": "being easy",
+      "formI": "يسر / ييسر",
+      "example": "الله ييسّر — May God make it easy",
+      "file": "roots/ysr.md",
+      "filId": "ysr",
+      "ismIds": []
+    },
+    {
+      "id": "ybs",
+      "root": "ي-ب-س",
+      "letter": "ي",
+      "meaning": "drying",
+      "formI": "يبس / ييبس",
+      "example": "يبس الغسيل — The laundry dried",
+      "file": "roots/ybs.md",
+      "filId": "ybs",
+      "ismIds": []
+    }
+  ]
+}

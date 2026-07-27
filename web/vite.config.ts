@@ -37,6 +37,38 @@ export default defineConfig({
             },
           },
           {
+            urlPattern: /\/harf-manifest\.json$/i,
+            handler: 'NetworkFirst',
+            options: {
+              cacheName: 'harf-manifest',
+              expiration: { maxEntries: 1, maxAgeSeconds: 60 },
+            },
+          },
+          {
+            urlPattern: /\/ism-manifest\.json$/i,
+            handler: 'NetworkFirst',
+            options: {
+              cacheName: 'ism-manifest',
+              expiration: { maxEntries: 1, maxAgeSeconds: 60 },
+            },
+          },
+          {
+            urlPattern: /\/fil-manifest\.json$/i,
+            handler: 'NetworkFirst',
+            options: {
+              cacheName: 'fil-manifest',
+              expiration: { maxEntries: 1, maxAgeSeconds: 60 },
+            },
+          },
+          {
+            urlPattern: /\/roots-manifest\.json$/i,
+            handler: 'NetworkFirst',
+            options: {
+              cacheName: 'roots-manifest',
+              expiration: { maxEntries: 1, maxAgeSeconds: 60 },
+            },
+          },
+          {
             urlPattern: /\/course-manifest\.json$/i,
             handler: 'NetworkFirst',
             options: {

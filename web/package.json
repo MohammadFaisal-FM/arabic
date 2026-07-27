@@ -5,8 +5,11 @@
   "type": "module",
   "scripts": {
     "sync": "node scripts/sync-content.mjs",
-    "dev": "npm run sync && vite",
-    "build": "npm run sync && vite build",
+    "roots": "node scripts/generate-roots.mjs",
+    "vocab": "node scripts/generate-vocab.mjs",
+    "content": "npm run roots && npm run vocab && npm run sync",
+    "dev": "npm run content && vite",
+    "build": "npm run content && vite build",
     "preview": "vite preview"
   },
   "devDependencies": {

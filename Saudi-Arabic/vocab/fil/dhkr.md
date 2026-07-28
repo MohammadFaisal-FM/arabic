@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ذ-ك-ر**. Ask in Cursor: `drill verb ذكر` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ذ-ك-ر**. Use the Roots / Ism tabs for the word family.

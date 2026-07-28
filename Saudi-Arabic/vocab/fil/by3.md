@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ب-ي-ع**. Ask in Cursor: `drill verb باع` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ب-ي-ع**. Use the Roots / Ism tabs for the word family.

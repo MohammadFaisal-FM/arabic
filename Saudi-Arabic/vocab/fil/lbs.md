@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ل-ب-س**. Ask in Cursor: `drill verb لبس` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ل-ب-س**. Use the Roots / Ism tabs for the word family.

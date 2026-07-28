@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ن-ظ-ر**. Ask in Cursor: `drill verb نظر` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ن-ظ-ر**. Use the Roots / Ism tabs for the word family.

@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → أ-م-ر**. Ask in Cursor: `drill verb أمر` for full conjugations (أنا → هم).
+This verb also lives under **Roots → أ-م-ر**. Use the Roots / Ism tabs for the word family.

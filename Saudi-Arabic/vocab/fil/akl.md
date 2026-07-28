@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → أ-ك-ل**. Ask in Cursor: `drill verb أكل` for full conjugations (أنا → هم).
+This verb also lives under **Roots → أ-ك-ل**. Use the Roots / Ism tabs for the word family.

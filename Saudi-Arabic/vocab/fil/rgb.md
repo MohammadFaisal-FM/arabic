@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ر-غ-ب**. Ask in Cursor: `drill verb رغب` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ر-غ-ب**. Use the Roots / Ism tabs for the word family.

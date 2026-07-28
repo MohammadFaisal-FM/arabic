@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ع-ل-م**. Ask in Cursor: `drill verb علم` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ع-ل-م**. Use the Roots / Ism tabs for the word family.

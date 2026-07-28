@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ر-ج-ع**. Ask in Cursor: `drill verb رجع` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ر-ج-ع**. Use the Roots / Ism tabs for the word family.

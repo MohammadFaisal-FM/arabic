@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → م-ر-ر**. Ask in Cursor: `drill verb مرّ` for full conjugations (أنا → هم).
+This verb also lives under **Roots → م-ر-ر**. Use the Roots / Ism tabs for the word family.

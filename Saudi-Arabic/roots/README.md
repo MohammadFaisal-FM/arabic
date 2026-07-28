@@ -267,8 +267,8 @@ High-frequency everyday Arabic roots for learners (Saudi/Najdi focus). Not a com
 | ي-ب-س | drying | [ybs.md](ybs.md) |
 
 
-When a new root is drilled in Cursor, add it to `roots-source.json` and run:
+When a new root is added, put it in `roots-source.json` and run:
 
 ```bash
-node web/scripts/generate-roots.mjs
+npm run content
 ```

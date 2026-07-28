@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ج-ي-ء**. Ask in Cursor: `drill verb جا` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ج-ي-ء**. Use the Roots / Ism tabs for the word family.

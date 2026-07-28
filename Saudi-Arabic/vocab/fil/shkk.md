@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ش-ك-ك**. Ask in Cursor: `drill verb شكّ` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ش-ك-ك**. Use the Roots / Ism tabs for the word family.

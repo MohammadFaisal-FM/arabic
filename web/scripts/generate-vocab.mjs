@@ -117,7 +117,7 @@ const filItems = rootsSource.roots.map((root) => {
 
 ## Overlap
 
-This verb also lives under **Roots → ${root.root}**. Ask in Cursor: \`drill verb ${arabic}\` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ${root.root}**. Use the Roots / Ism tabs for the word family.
 `;
   fs.writeFileSync(path.join(filDir, `${id}.md`), md, 'utf8');
   return {

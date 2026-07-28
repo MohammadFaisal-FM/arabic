@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ق-ر-أ**. Ask in Cursor: `drill verb قرأ` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ق-ر-أ**. Use the Roots / Ism tabs for the word family.

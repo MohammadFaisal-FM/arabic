@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ل-ع-ب**. Ask in Cursor: `drill verb لعب` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ل-ع-ب**. Use the Roots / Ism tabs for the word family.

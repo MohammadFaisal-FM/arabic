@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ح-ك-ي**. Ask in Cursor: `drill verb حكى` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ح-ك-ي**. Use the Roots / Ism tabs for the word family.

@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → م-س-ك**. Ask in Cursor: `drill verb مسك` for full conjugations (أنا → هم).
+This verb also lives under **Roots → م-س-ك**. Use the Roots / Ism tabs for the word family.

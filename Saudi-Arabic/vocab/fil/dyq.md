@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ض-ي-ق**. Ask in Cursor: `drill verb ضاق` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ض-ي-ق**. Use the Roots / Ism tabs for the word family.

@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ق-و-م**. Ask in Cursor: `drill verb قام` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ق-و-م**. Use the Roots / Ism tabs for the word family.

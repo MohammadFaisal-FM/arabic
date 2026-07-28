@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ك-ب-ر**. Ask in Cursor: `drill verb كبر` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ك-ب-ر**. Use the Roots / Ism tabs for the word family.

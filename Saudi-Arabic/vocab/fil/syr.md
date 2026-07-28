@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → س-ي-ر**. Ask in Cursor: `drill verb سار` for full conjugations (أنا → هم).
+This verb also lives under **Roots → س-ي-ر**. Use the Roots / Ism tabs for the word family.

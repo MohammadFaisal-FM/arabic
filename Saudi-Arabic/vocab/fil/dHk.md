@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ض-ح-ك**. Ask in Cursor: `drill verb ضحك` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ض-ح-ك**. Use the Roots / Ism tabs for the word family.

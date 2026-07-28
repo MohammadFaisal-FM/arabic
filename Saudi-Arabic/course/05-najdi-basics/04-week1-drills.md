@@ -1,10 +1,10 @@
 # Lesson 5.4 — Week 1 Drill Session
 
-Apply Modules 3–5. Run in Cursor Agent or study here.
+Apply Modules 3–5. Study the tables here, then open the matching entries in the app (**Roots** / **Fiʿl**).
 
 ---
 
-## Drill root: ك-ت-ب
+## Root: ك-ت-ب
 
 **Root:** ك-ت-ب — writing
 
@@ -19,13 +19,11 @@ Apply Modules 3–5. Run in Cursor Agent or study here.
 
 **Example:** كتبت رسالة لجدي — *I wrote a letter to my grandfather.*
 
-```text
-drill root ك-ت-ب
-```
+App: `#roots/ktb` · `#fil/ktb`
 
 ---
 
-## Drill root: أ-ك-ل
+## Root: أ-ك-ل
 
 **Root:** أ-ك-ل — eating
 
@@ -39,17 +37,15 @@ drill root ك-ت-ب
 
 **Example:** أكلنا غدا عند جدتي — *We ate lunch at grandma's.*
 
-```text
-drill root أ-ك-ل
-```
+App: `#roots/akl` · `#fil/akl`
 
 ---
 
-## Drill verb: أكل
+## Verb: أكل
 
-Full conjugation: type `drill verb أكل` in Cursor.
+Learn these priority forms: **أكلت، ياكل، بآكل، كل**
 
-Priority forms: **أكلت، ياكل، بآكل، كل**
+Open `#fil/akl` in the app for the verb page.
 
 ---
 

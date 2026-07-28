@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → و-س-ع**. Ask in Cursor: `drill verb وسع` for full conjugations (أنا → هم).
+This verb also lives under **Roots → و-س-ع**. Use the Roots / Ism tabs for the word family.

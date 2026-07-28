@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ع-د-د**. Ask in Cursor: `drill verb عدّ` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ع-د-د**. Use the Roots / Ism tabs for the word family.

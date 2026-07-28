@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ي-س-ر**. Ask in Cursor: `drill verb يسر` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ي-س-ر**. Use the Roots / Ism tabs for the word family.

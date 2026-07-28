@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ط-ل-ب**. Ask in Cursor: `drill verb طلب` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ط-ل-ب**. Use the Roots / Ism tabs for the word family.

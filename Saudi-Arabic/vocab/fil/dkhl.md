@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → د-خ-ل**. Ask in Cursor: `drill verb دخل` for full conjugations (أنا → هم).
+This verb also lives under **Roots → د-خ-ل**. Use the Roots / Ism tabs for the word family.

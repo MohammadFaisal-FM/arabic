@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ج-م-ع**. Ask in Cursor: `drill verb جمع` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ج-م-ع**. Use the Roots / Ism tabs for the word family.

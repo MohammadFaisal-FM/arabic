@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ر-ا-ي**. Ask in Cursor: `drill verb رأى` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ر-ا-ي**. Use the Roots / Ism tabs for the word family.

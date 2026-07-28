@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ق-ر-ب**. Ask in Cursor: `drill verb قرب` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ق-ر-ب**. Use the Roots / Ism tabs for the word family.

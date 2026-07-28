@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ق-د-ر**. Ask in Cursor: `drill verb قدر` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ق-د-ر**. Use the Roots / Ism tabs for the word family.

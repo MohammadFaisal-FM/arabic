@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ح-ص-ل**. Ask in Cursor: `drill verb حصل` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ح-ص-ل**. Use the Roots / Ism tabs for the word family.

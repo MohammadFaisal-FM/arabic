@@ -75,9 +75,9 @@ function mdFor(root) {
 
 ---
 
-## Study tip
+## How to use
 
-Ask in Cursor: \`drill root ${root.root}\` or \`drill verb\` with the Form I verb for full conjugations (أنا → هم).
+Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **${root.formI}**.
 `;
 }
 
@@ -125,10 +125,10 @@ ${source.note}
 
 ${readmeRows}
 
-When a new root is drilled in Cursor, add it to \`roots-source.json\` and run:
+When a new root is added, put it in \`roots-source.json\` and run:
 
 \`\`\`bash
-node web/scripts/generate-roots.mjs
+npm run content
 \`\`\`
 `;
 

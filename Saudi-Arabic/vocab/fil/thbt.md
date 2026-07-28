@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ث-ب-ت**. Ask in Cursor: `drill verb ثبت` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ث-ب-ت**. Use the Roots / Ism tabs for the word family.

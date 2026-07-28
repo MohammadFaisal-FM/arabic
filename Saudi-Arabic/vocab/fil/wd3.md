@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → و-ض-ع**. Ask in Cursor: `drill verb وضع` for full conjugations (أنا → هم).
+This verb also lives under **Roots → و-ض-ع**. Use the Roots / Ism tabs for the word family.

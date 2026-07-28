@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → غ-ي-ر**. Ask in Cursor: `drill verb غيّر` for full conjugations (أنا → هم).
+This verb also lives under **Roots → غ-ي-ر**. Use the Roots / Ism tabs for the word family.

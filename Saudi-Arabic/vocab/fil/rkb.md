@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ر-ك-ب**. Ask in Cursor: `drill verb ركب` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ر-ك-ب**. Use the Roots / Ism tabs for the word family.

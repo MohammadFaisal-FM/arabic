@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → د-و-ر**. Ask in Cursor: `drill verb دار` for full conjugations (أنا → هم).
+This verb also lives under **Roots → د-و-ر**. Use the Roots / Ism tabs for the word family.

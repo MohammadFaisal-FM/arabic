@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ج-ر-ي**. Ask in Cursor: `drill verb جرى` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ج-ر-ي**. Use the Roots / Ism tabs for the word family.

@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ك-ل-م**. Ask in Cursor: `drill verb كلّم` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ك-ل-م**. Use the Roots / Ism tabs for the word family.

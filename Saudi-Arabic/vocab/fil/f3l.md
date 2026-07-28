@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ف-ع-ل**. Ask in Cursor: `drill verb فعل` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ف-ع-ل**. Use the Roots / Ism tabs for the word family.

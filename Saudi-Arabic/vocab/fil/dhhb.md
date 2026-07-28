@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ذ-ه-ب**. Ask in Cursor: `drill verb ذهب` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ذ-ه-ب**. Use the Roots / Ism tabs for the word family.

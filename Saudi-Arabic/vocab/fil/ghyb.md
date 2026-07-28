@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → غ-ي-ب**. Ask in Cursor: `drill verb غاب` for full conjugations (أنا → هم).
+This verb also lives under **Roots → غ-ي-ب**. Use the Roots / Ism tabs for the word family.

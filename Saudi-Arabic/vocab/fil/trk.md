@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ت-ر-ك**. Ask in Cursor: `drill verb ترك` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ت-ر-ك**. Use the Roots / Ism tabs for the word family.

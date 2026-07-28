@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ش-ر-ي**. Ask in Cursor: `drill verb شرى` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ش-ر-ي**. Use the Roots / Ism tabs for the word family.

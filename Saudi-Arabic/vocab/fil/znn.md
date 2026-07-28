@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ظ-ن-ن**. Ask in Cursor: `drill verb ظنّ` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ظ-ن-ن**. Use the Roots / Ism tabs for the word family.

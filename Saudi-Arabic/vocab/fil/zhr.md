@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ظ-ه-ر**. Ask in Cursor: `drill verb ظهر` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ظ-ه-ر**. Use the Roots / Ism tabs for the word family.

@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → و-ل-د**. Ask in Cursor: `drill verb ولد` for full conjugations (أنا → هم).
+This verb also lives under **Roots → و-ل-د**. Use the Roots / Ism tabs for the word family.

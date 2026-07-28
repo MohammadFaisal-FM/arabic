@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ع-ي-ش**. Ask in Cursor: `drill verb عاش` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ع-ي-ش**. Use the Roots / Ism tabs for the word family.

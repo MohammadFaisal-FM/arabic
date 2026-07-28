@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ص-ل-ح**. Ask in Cursor: `drill verb صلح` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ص-ل-ح**. Use the Roots / Ism tabs for the word family.

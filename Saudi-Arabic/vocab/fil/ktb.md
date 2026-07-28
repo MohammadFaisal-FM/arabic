@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ك-ت-ب**. Ask in Cursor: `drill verb كتب` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ك-ت-ب**. Use the Roots / Ism tabs for the word family.

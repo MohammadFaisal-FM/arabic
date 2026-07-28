@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ق-و-ل**. Ask in Cursor: `drill verb قال` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ق-و-ل**. Use the Roots / Ism tabs for the word family.

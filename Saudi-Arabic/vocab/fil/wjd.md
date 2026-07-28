@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → و-ج-د**. Ask in Cursor: `drill verb وجد` for full conjugations (أنا → هم).
+This verb also lives under **Roots → و-ج-د**. Use the Roots / Ism tabs for the word family.

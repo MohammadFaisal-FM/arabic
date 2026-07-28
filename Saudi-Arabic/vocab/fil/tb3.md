@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ت-ب-ع**. Ask in Cursor: `drill verb تبع` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ت-ب-ع**. Use the Roots / Ism tabs for the word family.

@@ -35,6 +35,6 @@
 
 ## Exercise
 
-Pick scenario **2** or **3**. Write your Najdi version and paste in Cursor for feedback.
+Pick scenario **2** or **3**. Write your Najdi version, then check it against the patterns in this lesson (and the **Roots** / **Fiʿl** tabs).
 
 **Next:** [04-listening.md](04-listening.md)

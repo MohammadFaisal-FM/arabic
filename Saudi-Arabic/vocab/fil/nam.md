@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ن-و-م**. Ask in Cursor: `drill verb نام` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ن-و-م**. Use the Roots / Ism tabs for the word family.

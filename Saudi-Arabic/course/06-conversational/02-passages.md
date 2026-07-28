@@ -15,9 +15,9 @@
 |------|--------|
 | 1 | Read English; note bracketed Arabic hints |
 | 2 | Draft Najdi — use **ب** for future, **أهل** for family |
-| 3 | Submit to Cursor Agent |
+| 3 | Compare with a model answer (or ask a tutor) |
 | 4 | **Rewrite once** with corrections — don't skip |
-| 5 | New verbs → auto-added to [verb-root-tracker.md](../../verb-root-tracker.md) |
+| 5 | New verbs → note in [verb-root-tracker.md](../../verb-root-tracker.md) |
 
 ---
 
@@ -27,7 +27,7 @@
 |---|-------|-------|-------|
 | 1 | Easy | Calling a relative | ~70% |
 
-**Next:** Passage #2 — type `passage` in Cursor.
+**Next:** Passage #2 — translate another short English scene the same way.
 
 ---
 

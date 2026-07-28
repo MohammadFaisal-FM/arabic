@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ث-ق-ل**. Ask in Cursor: `drill verb ثقل` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ث-ق-ل**. Use the Roots / Ism tabs for the word family.

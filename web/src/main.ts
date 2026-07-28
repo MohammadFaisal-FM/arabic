@@ -119,6 +119,7 @@ let activeSongFile = '';
 let activeRootFile = '';
 let activeWordFile = '';
 let activeWordKind: WordKind | null = null;
+let activeSearchQ = '';
 let courseManifest: CourseManifest | null = null;
 let lyricsManifest: LyricsManifest | null = null;
 let rootsManifest: RootsManifest | null = null;
@@ -160,6 +161,7 @@ function el<K extends keyof HTMLElementTagNameMap>(
 
 function goToTab(tab: Tab) {
   activeTab = tab;
+  activeSearchQ = '';
   if (tab === 'course' && !activeLessonFile) {
     activeLessonFile = 'course/00-start/00-welcome.md';
   }
@@ -219,24 +221,38 @@ async function loadWordManifest(kind: WordKind): Promise<WordManifest> {
   return wordManifests[kind]!;
 }
 
-function setHash(tab: Tab, id?: string) {
+function setHash(tab: Tab, idOrOpts?: string | { id?: string; q?: string }) {
   if (tab === 'home') {
     history.replaceState(null, '', window.location.pathname + window.location.search);
     return;
   }
-  if (id && (tab === 'lyrics' || tab === 'roots' || tab === 'ism' || tab === 'fil' || tab === 'harf')) {
-    history.replaceState(null, '', `#${tab}/${id}`);
-    return;
+  const opts = typeof idOrOpts === 'string' ? { id: idOrOpts } : idOrOpts ?? {};
+  let hash = `#${tab}`;
+  if (opts.id) {
+    hash += `/${opts.id}`;
+  } else if (opts.q && opts.q.trim()) {
+    hash += `?q=${encodeURIComponent(opts.q.trim())}`;
   }
-  history.replaceState(null, '', `#${tab}`);
+  history.replaceState(null, '', hash);
+}
+
+function parseHashParts(): { segment: string; itemId: string; q: string } | null {
+  const raw = window.location.hash.replace(/^#/, '');
+  if (!raw) return null;
+  const qIndex = raw.indexOf('?');
+  const path = qIndex >= 0 ? raw.slice(0, qIndex) : raw;
+  const query = qIndex >= 0 ? raw.slice(qIndex + 1) : '';
+  const [segment, itemId = ''] = path.split('/');
+  const q = new URLSearchParams(query).get('q') ?? '';
+  return { segment, itemId, q };
 }
 
 async function applyHashRoute(): Promise<boolean> {
-  const raw = window.location.hash.replace(/^#/, '');
-  if (!raw) return false;
+  const parts = parseHashParts();
+  if (!parts) return false;
 
-  const segment = raw.split('/')[0];
-  const itemId = raw.split('/')[1];
+  const { segment, itemId, q } = parts;
+  activeSearchQ = q;
 
   if (segment === 'lyrics') {
     activeTab = 'lyrics';
@@ -725,6 +741,7 @@ async function renderWordLibrary(main: HTMLElement, kind: WordKind) {
           ? 'Search verb, meaning, root…'
           : 'Search noun, loanword, meaning…';
     search.setAttribute('aria-label', `Search ${kind}`);
+    search.value = activeSearchQ;
     tools.appendChild(search);
 
     const actions = el('div', 'roots-actions');
@@ -745,6 +762,7 @@ async function renderWordLibrary(main: HTMLElement, kind: WordKind) {
         buildWordIndex(manifest, search.value, expanded, (word) => {
           activeWordKind = kind;
           activeWordFile = word.file;
+          activeSearchQ = '';
           setHash(kind, word.id);
           renderMain();
         })
@@ -758,7 +776,11 @@ async function renderWordLibrary(main: HTMLElement, kind: WordKind) {
       expanded.clear();
       paint();
     };
-    search.addEventListener('input', () => paint());
+    search.addEventListener('input', () => {
+      activeSearchQ = search.value;
+      setHash(kind, { q: search.value });
+      paint();
+    });
     paint();
   } catch {
     main.innerHTML = `<p class="loading">Could not load ${kind} library.</p>`;
@@ -862,6 +884,7 @@ function buildRootsIndex(
       `;
       link.onclick = () => {
         activeRootFile = root.file;
+        activeSearchQ = '';
         setHash('roots', root.id);
         renderMain();
       };
@@ -907,6 +930,7 @@ async function renderRoots(main: HTMLElement) {
     search.className = 'roots-search';
     search.placeholder = 'Search root, meaning, verb…';
     search.setAttribute('aria-label', 'Search roots');
+    search.value = activeSearchQ;
     tools.appendChild(search);
 
     const actions = el('div', 'roots-actions');
@@ -935,7 +959,11 @@ async function renderRoots(main: HTMLElement) {
       expanded.clear();
       paint();
     };
-    search.addEventListener('input', () => paint());
+    search.addEventListener('input', () => {
+      activeSearchQ = search.value;
+      setHash('roots', { q: search.value });
+      paint();
+    });
     paint();
   } catch {
     main.innerHTML = '<p class="loading">Could not load roots library.</p>';

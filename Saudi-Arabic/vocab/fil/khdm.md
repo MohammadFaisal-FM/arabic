@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → خ-د-م**. Ask in Cursor: `drill verb خدم` for full conjugations (أنا → هم).
+This verb also lives under **Roots → خ-د-م**. Use the Roots / Ism tabs for the word family.

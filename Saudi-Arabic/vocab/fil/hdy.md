@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ه-د-ي**. Ask in Cursor: `drill verb هدى` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ه-د-ي**. Use the Roots / Ism tabs for the word family.

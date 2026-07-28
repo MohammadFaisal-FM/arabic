@@ -47,9 +47,8 @@ Mark those lessons complete in [course-progress.md](../../course-progress.md).
 | Tool | Use |
 |------|-----|
 | **Course lessons** | Read in order (this folder) |
-| **PWA app** | Mobile: tracker + lessons |
-| **Cursor Agent** | Live drills: `drill verb`, `passage` |
-| **verb-root-tracker.md** | Auto-updated verb/root log |
+| **App (PWA)** | Roots · Ism · Fiʿl · Ḥarf · Lyrics |
+| **verb-root-tracker.md** | Personal log of verbs/roots you meet |
 
 ---
 

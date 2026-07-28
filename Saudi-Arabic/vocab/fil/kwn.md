@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ك-و-ن**. Ask in Cursor: `drill verb كان` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ك-و-ن**. Use the Roots / Ism tabs for the word family.

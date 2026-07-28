@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ع-ر-ف**. Ask in Cursor: `drill verb عرف` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ع-ر-ف**. Use the Roots / Ism tabs for the word family.

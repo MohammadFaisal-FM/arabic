@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ل-ز-م**. Ask in Cursor: `drill verb لزم` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ل-ز-م**. Use the Roots / Ism tabs for the word family.

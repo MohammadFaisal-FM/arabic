@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ط-ب-خ**. Ask in Cursor: `drill verb طبخ` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ط-ب-خ**. Use the Roots / Ism tabs for the word family.

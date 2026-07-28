@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ص-ي-ر**. Ask in Cursor: `drill verb صار` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ص-ي-ر**. Use the Roots / Ism tabs for the word family.

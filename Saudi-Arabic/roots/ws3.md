@@ -18,9 +18,9 @@
 
 ---
 
-## Study tip
+## How to use
 
-Ask in Cursor: `drill root و-س-ع` or `drill verb` with the Form I verb for full conjugations (أنا → هم).
+Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **وسع / يوسع**.
 
 ---
 

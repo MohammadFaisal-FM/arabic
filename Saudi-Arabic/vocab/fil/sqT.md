@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → س-ق-ط**. Ask in Cursor: `drill verb سقط` for full conjugations (أنا → هم).
+This verb also lives under **Roots → س-ق-ط**. Use the Roots / Ism tabs for the word family.

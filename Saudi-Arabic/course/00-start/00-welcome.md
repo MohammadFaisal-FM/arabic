@@ -57,4 +57,4 @@ This course focuses on **everyday Arabic** as spoken in central Saudi Arabia (Ri
 2. Open [COURSE-MAP.md](../COURSE-MAP.md) and bookmark it
 3. When ready, start **Module 1: Writing System**
 
-**Exercise:** Type `coverage` in Cursor to see your current verb/root counts.
+**Exercise:** Open the app **Roots** / **Fiʿl** tabs and note how many items you already recognize.

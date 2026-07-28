@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → س-ك-ن**. Ask in Cursor: `drill verb سكن` for full conjugations (أنا → هم).
+This verb also lives under **Roots → س-ك-ن**. Use the Roots / Ism tabs for the word family.

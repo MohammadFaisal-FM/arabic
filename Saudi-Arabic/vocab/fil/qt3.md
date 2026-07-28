@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ق-ط-ع**. Ask in Cursor: `drill verb قطع` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ق-ط-ع**. Use the Roots / Ism tabs for the word family.

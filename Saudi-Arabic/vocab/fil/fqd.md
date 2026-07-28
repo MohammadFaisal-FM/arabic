@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ف-ق-د**. Ask in Cursor: `drill verb فقد` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ف-ق-د**. Use the Roots / Ism tabs for the word family.

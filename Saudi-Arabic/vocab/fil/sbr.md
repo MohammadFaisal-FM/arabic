@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ص-ب-ر**. Ask in Cursor: `drill verb صبر` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ص-ب-ر**. Use the Roots / Ism tabs for the word family.

@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → أ-ت-ي**. Ask in Cursor: `drill verb أتى` for full conjugations (أنا → هم).
+This verb also lives under **Roots → أ-ت-ي**. Use the Roots / Ism tabs for the word family.

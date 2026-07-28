@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → خ-ل-ص**. Ask in Cursor: `drill verb خلص` for full conjugations (أنا → هم).
+This verb also lives under **Roots → خ-ل-ص**. Use the Roots / Ism tabs for the word family.

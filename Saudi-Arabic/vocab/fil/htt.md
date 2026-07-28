@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ح-ط-ط**. Ask in Cursor: `drill verb حطّ` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ح-ط-ط**. Use the Roots / Ism tabs for the word family.

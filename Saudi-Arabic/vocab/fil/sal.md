@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → س-أ-ل**. Ask in Cursor: `drill verb سأل` for full conjugations (أنا → هم).
+This verb also lives under **Roots → س-أ-ل**. Use the Roots / Ism tabs for the word family.

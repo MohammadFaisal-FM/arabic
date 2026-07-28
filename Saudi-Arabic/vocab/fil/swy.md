@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → س-و-ي**. Ask in Cursor: `drill verb سوى` for full conjugations (أنا → هم).
+This verb also lives under **Roots → س-و-ي**. Use the Roots / Ism tabs for the word family.

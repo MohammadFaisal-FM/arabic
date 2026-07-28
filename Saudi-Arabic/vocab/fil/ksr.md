@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ك-س-ر**. Ask in Cursor: `drill verb كسر` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ك-س-ر**. Use the Roots / Ism tabs for the word family.

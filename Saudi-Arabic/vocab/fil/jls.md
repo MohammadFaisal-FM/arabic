@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ج-ل-س**. Ask in Cursor: `drill verb جلس` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ج-ل-س**. Use the Roots / Ism tabs for the word family.

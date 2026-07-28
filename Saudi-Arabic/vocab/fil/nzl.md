@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ن-ز-ل**. Ask in Cursor: `drill verb نزل` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ن-ز-ل**. Use the Roots / Ism tabs for the word family.

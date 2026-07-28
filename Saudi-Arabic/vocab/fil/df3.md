@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → د-ف-ع**. Ask in Cursor: `drill verb دفع` for full conjugations (أنا → هم).
+This verb also lives under **Roots → د-ف-ع**. Use the Roots / Ism tabs for the word family.

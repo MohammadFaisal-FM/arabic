@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → م-ش-ي**. Ask in Cursor: `drill verb مشى` for full conjugations (أنا → هم).
+This verb also lives under **Roots → م-ش-ي**. Use the Roots / Ism tabs for the word family.

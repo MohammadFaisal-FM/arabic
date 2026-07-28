@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ي-ب-س**. Ask in Cursor: `drill verb يبس` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ي-ب-س**. Use the Roots / Ism tabs for the word family.

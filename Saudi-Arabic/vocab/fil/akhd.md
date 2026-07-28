@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → أ-خ-ذ**. Ask in Cursor: `drill verb أخذ` for full conjugations (أنا → هم).
+This verb also lives under **Roots → أ-خ-ذ**. Use the Roots / Ism tabs for the word family.

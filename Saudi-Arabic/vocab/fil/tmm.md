@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ت-م-م**. Ask in Cursor: `drill verb تمّ` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ت-م-م**. Use the Roots / Ism tabs for the word family.

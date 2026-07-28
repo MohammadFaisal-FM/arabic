@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ر-و-ح**. Ask in Cursor: `drill verb راح` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ر-و-ح**. Use the Roots / Ism tabs for the word family.

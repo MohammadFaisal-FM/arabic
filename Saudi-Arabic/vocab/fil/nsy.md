@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ن-س-ي**. Ask in Cursor: `drill verb نسي` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ن-س-ي**. Use the Roots / Ism tabs for the word family.

@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → و-ق-ف**. Ask in Cursor: `drill verb وقف` for full conjugations (أنا → هم).
+This verb also lives under **Roots → و-ق-ف**. Use the Roots / Ism tabs for the word family.

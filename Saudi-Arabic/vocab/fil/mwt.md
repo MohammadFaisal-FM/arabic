@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → م-و-ت**. Ask in Cursor: `drill verb مات` for full conjugations (أنا → هم).
+This verb also lives under **Roots → م-و-ت**. Use the Roots / Ism tabs for the word family.

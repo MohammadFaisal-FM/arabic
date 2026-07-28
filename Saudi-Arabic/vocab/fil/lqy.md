@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ل-ق-ي**. Ask in Cursor: `drill verb لقى` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ل-ق-ي**. Use the Roots / Ism tabs for the word family.

@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ح-ب-ب**. Ask in Cursor: `drill verb حبّ` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ح-ب-ب**. Use the Roots / Ism tabs for the word family.

@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → خ-ر-ج**. Ask in Cursor: `drill verb خرج` for full conjugations (أنا → هم).
+This verb also lives under **Roots → خ-ر-ج**. Use the Roots / Ism tabs for the word family.

@@ -21,4 +21,4 @@
 
 ## Overlap
 
-This verb also lives under **Roots → ف-ه-م**. Ask in Cursor: `drill verb فهم` for full conjugations (أنا → هم).
+This verb also lives under **Roots → ف-ه-م**. Use the Roots / Ism tabs for the word family.

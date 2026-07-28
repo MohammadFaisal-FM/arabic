@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| وش باس الوواي فاي؟ — What’s the Wi‑Fi password? |
+| وش باس الوواي فاي؟ — What is the wifi password? |
+| هذا واي فاي — This is a wi‑fi |
+| أحب واي فاي — I like wi‑fi |
+| وين واي فاي؟ — Where is the wi‑fi? |
 
----
 
-## Notes
-
-Loanword — learn as a whole. No useful Arabic root family.

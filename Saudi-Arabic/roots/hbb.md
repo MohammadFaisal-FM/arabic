@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ح-ب-ب |
-| **Letter** | ح · حاء |
 | **Meaning** | loving |
-| **Form I** | حبّ / يحب |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **حبّ / يحب**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | حبّ / يحب | [Open](#fil/hbb) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | حبّ | loving | `#fil/hbb` |
-| اسم | حب | love | `#ism/7ub` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم · ism (noun) | حب | من حب — From love |
 

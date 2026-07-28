@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | أحب الموسيقى — I love music |
+| هذا موسيقى — This is a music |
+| أحب موسيقى — I like music |
+| وين موسيقى؟ — Where is the music? |
 
----
 
-## Notes
-
-Loanword — learn as a whole. No useful Arabic root family.

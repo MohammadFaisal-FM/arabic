@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | ظهر الحل — The solution appeared |
+| هذا حل — This is a solution |
+| أحب حل — I like solution |
+| وين حل؟ — Where is the solution? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

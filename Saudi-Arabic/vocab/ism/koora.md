@@ -6,7 +6,7 @@
 | **Subtype** | noun |
 | **Arabic** | كورة |
 | **Meaning** | ball / football |
-| **Root** | ل-ع-ب (`l3b`) |
+| **Root** | [ل-ع-ب](#roots/l3b) |
 
 ---
 
@@ -15,9 +15,15 @@
 | Arabic · English |
 |------------------|
 | يلعب كورة — He plays football |
+| هذا كورة — This is a ball |
+| أحب كورة — I like ball |
+| وين كورة؟ — Where is the ball? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ل-ع-ب** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ل-ع-ب](#roots/l3b) |
+| **Fiʿl** | [لعب / يلعب](#fil/l3b) |
+

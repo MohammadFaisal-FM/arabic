@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| الباسورد غلط — The password is wrong |
+| الباسورد غلط — The password is incorrect |
+| هذا باسورد — This is a password |
+| أحب باسورد — I like password |
+| وين باسورد؟ — Where is the password? |
 
----
 
-## Notes
-
-Loanword — learn as a whole. No useful Arabic root family.

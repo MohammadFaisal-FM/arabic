@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ث-ق-ل |
-| **Letter** | ث · ثاء |
 | **Meaning** | being heavy |
-| **Form I** | ثقل / يثقل |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **ثقل / يثقل**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | ثقل / يثقل | [Open](#fil/thql) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | ثقل | being heavy | `#fil/thql` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

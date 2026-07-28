@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | م-ر-ر |
-| **Letter** | م · ميم |
 | **Meaning** | passing |
-| **Form I** | مرّ / يمر |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **مرّ / يمر**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | مرّ / يمر | [Open](#fil/mrr) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | مرّ | passing | `#fil/mrr` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

@@ -6,7 +6,7 @@
 | **Subtype** | doer |
 | **Arabic** | كاتب |
 | **Meaning** | writer |
-| **Root** | ك-ت-ب (`ktb`) |
+| **Root** | [ك-ت-ب](#roots/ktb) |
 
 ---
 
@@ -15,9 +15,15 @@
 | Arabic · English |
 |------------------|
 | هو كاتب — He is a writer |
+| هذا كاتب — This is a writer |
+| أحب كاتب — I like writer |
+| وين كاتب؟ — Where is the writer? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ك-ت-ب** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ك-ت-ب](#roots/ktb) |
+| **Fiʿl** | [كتب / يكتب](#fil/ktb) |
+

@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | خ-ر-ج |
-| **Letter** | خ · خاء |
 | **Meaning** | going out |
-| **Form I** | خرج / يخرج |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **خرج / يخرج**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | خرج / يخرج | [Open](#fil/khrj) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | خرج | going out | `#fil/khrj` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

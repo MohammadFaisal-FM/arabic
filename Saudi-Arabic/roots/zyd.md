@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ز-ي-د |
-| **Letter** | ز · زاي |
 | **Meaning** | increasing |
-| **Form I** | زاد / يزيد |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **زاد / يزيد**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | زاد / يزيد | [Open](#fil/zyd) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | زاد | increasing | `#fil/zyd` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

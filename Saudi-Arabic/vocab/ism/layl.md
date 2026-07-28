@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| صار الليل — It became night |
+| صار الليل — It's night |
+| هذا ليل — This is a night |
+| أحب ليل — I like night |
+| وين ليل؟ — Where is the night? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

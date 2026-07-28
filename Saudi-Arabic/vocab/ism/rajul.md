@@ -15,9 +15,7 @@
 | Arabic · English |
 |------------------|
 | هذا رجل — This is a man |
+| أحب رجل — I like man |
+| وين رجل؟ — Where is the man? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

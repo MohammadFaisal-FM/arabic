@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ك-ت-ب |
-| **Letter** | ك · كاف |
 | **Meaning** | writing |
-| **Form I** | كتب / يكتب |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,23 +16,23 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **كتب / يكتب**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | كتب / يكتب | [Open](#fil/ktb) |
+| II | كتّب / يكتّب · make write / dictate | [Open](#fil/ktb-ii) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | كتب | writing | `#fil/ktb` |
-| اسم | كتاب | book | `#ism/kitab` |
-| اسم | كاتب | writer | `#ism/katib` |
-| اسم | كتابة | writing | `#ism/kitaba` |
-| اسم | مكتب | office / desk | `#ism/maktab` |
-| اسم | مكتبة | library / bookstore | `#ism/maktaba` |
-| اسم | مكتوب | written (thing) / fate | `#ism/maktub` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم فاعل · ism fāʿil (doer) | كاتب | هو كاتب — He is a writer |
+| اسم · ism (noun) | كتاب | هذا كتاب — This is a book |
+| مصدر · masdar (verbal noun) | كتابة | الكتابة صعبة — Writing is hard |
+| اسم مكان · ism makān (place) | مكتب | في المكتب — In the office |
+| اسم مكان · ism makān (place) | مكتبة | رحت المكتبة — I went to the library |
+| اسم · ism (noun) | مكتوب | مكتوب كذا — It is written like this |
 

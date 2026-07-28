@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| جنب المسجد — next to the mosque |
+| جنب المسجد — Next to the mosque |
+| هذا مسجد — This is a mosque |
+| أحب مسجد — I like mosque |
+| وين مسجد؟ — Where is the mosque? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

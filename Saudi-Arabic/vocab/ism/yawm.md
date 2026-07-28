@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | كل يوم — every day |
+| هذا يوم — This is a day |
+| أحب يوم — I like day |
+| وين يوم؟ — Where is the day? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

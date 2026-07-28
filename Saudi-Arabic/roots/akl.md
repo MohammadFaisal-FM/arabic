@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | أ-ك-ل |
-| **Letter** | أ · ألف |
 | **Meaning** | eating |
-| **Form I** | أكل / ياكل |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **أكل / ياكل**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | أكل / ياكل | [Open](#fil/akl) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | أكل | eating | `#fil/akl` |
-| اسم | أكل | food / eating | `#ism/akl-n` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| مصدر · masdar (verbal noun) | أكل | أحب أكل اللازانيا. — I love eating lasagna. |
 

@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| الليلة برد — It’s cold tonight |
+| الليلة برد — Tonight is cold |
+| هذا برد — This is a cold |
+| أحب برد — I like cold |
+| وين برد؟ — Where is the cold? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

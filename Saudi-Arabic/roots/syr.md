@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | س-ي-ر |
-| **Letter** | س · سين |
 | **Meaning** | walking / going |
-| **Form I** | سار / يسير |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **سار / يسير**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | سار / يسير | [Open](#fil/syr) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | سار | walking / going | `#fil/syr` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

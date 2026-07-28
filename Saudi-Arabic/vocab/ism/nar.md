@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | النار حارة — The fire is hot |
+| هذا نار — This is a fire |
+| أحب نار — I like fire |
+| وين نار؟ — Where is the fire? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

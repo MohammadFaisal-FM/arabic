@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| أروح السوق — I’m going to the market |
+| أروح السوق — I go to the market |
+| هذا سوق — This is a market |
+| أحب سوق — I like market |
+| وين سوق؟ — Where is the market? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

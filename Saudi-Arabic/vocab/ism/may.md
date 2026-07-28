@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| أبي ماي — I want water |
+| أبي ماي — Dad May |
+| هذا ماي — This is a water (najdi) |
+| أحب ماي — I like water (najdi) |
+| وين ماي؟ — Where is the water (najdi)? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

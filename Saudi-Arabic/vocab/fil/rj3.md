@@ -6,8 +6,8 @@
 | **Arabic** | رجع |
 | **Present** | يرجع |
 | **Meaning** | returning |
-| **Root** | ر-ج-ع (`rj3`) |
-| **Form I** | رجع / يرجع |
+| **Root** | [ر-ج-ع](#roots/rj3) |
+| **Form** | I · رجع / يرجع |
 
 ---
 
@@ -19,6 +19,31 @@
 
 ---
 
-## Overlap
+## Conjugation
 
-This verb also lives under **Roots → ر-ج-ع**. Use the Roots / Ism tabs for the word family.
+Everyday Saudi / Najdi. Future uses **بـ**.
+
+| Pronoun | Past | Present | Future |
+|---------|------|---------|--------|
+| أنا | رجعت | أرجع | برجع |
+| إحنا | رجعنا | نرجع | بنرجع |
+| أنت | رجعت | ترجع | بترجع |
+| أنتِ | رجعتي | ترجعين | بترجعين |
+| أنتم | رجعتوا | ترجعون | بترجعون |
+| هو | رجع | يرجع | بيرجع |
+| هي | رجعت | ترجع | بترجع |
+| هم | رجعوا | يرجعون | بيرجعون |
+
+### Examples
+
+| Pronoun | Arabic · English |
+|---------|------------------|
+| أنا | رجعت — I did (returning) |
+| إحنا | نرجع — we do/does (returning) |
+| أنت | بترجع — you (m.) will (returning) |
+| أنتِ | رجعتي — you (f.) did (returning) |
+| أنتم | ترجعون — you (pl.) do/does (returning) |
+| هو | بيرجع — he will (returning) |
+| هي | رجعت — she did (returning) |
+| هم | يرجعون — they do/does (returning) |
+

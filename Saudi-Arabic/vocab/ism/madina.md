@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | المدينة كبيرة — The city is big |
+| هذا مدينة — This is a city |
+| أحب مدينة — I like city |
+| وين مدينة؟ — Where is the city? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

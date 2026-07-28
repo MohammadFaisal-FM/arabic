@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | د-خ-ل |
-| **Letter** | د · دال |
 | **Meaning** | entering |
-| **Form I** | دخل / يدخل |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **دخل / يدخل**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | دخل / يدخل | [Open](#fil/dkhl) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | دخل | entering | `#fil/dkhl` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

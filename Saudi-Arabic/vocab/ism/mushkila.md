@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| ما في مشكلة — No problem |
+| ما في مشكلة — There's no problem |
+| هذا مشكلة — This is a problem |
+| أحب مشكلة — I like problem |
+| وين مشكلة؟ — Where is the problem? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

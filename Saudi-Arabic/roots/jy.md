@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ج-ي-ء |
-| **Letter** | ج · جيم |
 | **Meaning** | coming |
-| **Form I** | جا / يجي |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **جا / يجي**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | جا / يجي | [Open](#fil/jy) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | جا | coming | `#fil/jy` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

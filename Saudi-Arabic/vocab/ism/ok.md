@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| أوكي تمام — OK, fine |
+| أوكي تمام — Okay, okay |
+| هذا أوكي — This is a ok |
+| أحب أوكي — I like ok |
+| وين أوكي؟ — Where is the ok? |
 
----
 
-## Notes
-
-Loanword — learn as a whole. No useful Arabic root family.

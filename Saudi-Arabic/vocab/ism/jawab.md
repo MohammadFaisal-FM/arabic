@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| وين الجواب؟ — Where’s the answer? |
+| وين الجواب؟ — Where is the answer? |
+| هذا جواب — This is a answer |
+| أحب جواب — I like answer |
+| وين جواب؟ — Where is the answer? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

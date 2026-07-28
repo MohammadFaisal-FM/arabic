@@ -6,7 +6,7 @@
 | **Subtype** | noun |
 | **Arabic** | خوف |
 | **Meaning** | fear |
-| **Root** | خ-و-ف (`khaf`) |
+| **Root** | [خ-و-ف](#roots/khaf) |
 
 ---
 
@@ -14,10 +14,16 @@
 
 | Arabic · English |
 |------------------|
-| ما في خوف — no fear |
+| ما في خوف — There is no fear |
+| هذا خوف — This is a fear |
+| أحب خوف — I like fear |
+| وين خوف؟ — Where is the fear? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → خ-و-ف** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [خ-و-ف](#roots/khaf) |
+| **Fiʿl** | [خاف / يخاف](#fil/khaf) |
+

@@ -6,8 +6,8 @@
 | **Arabic** | طلب |
 | **Present** | يطلب |
 | **Meaning** | requesting / ordering |
-| **Root** | ط-ل-ب (`tlb`) |
-| **Form I** | طلب / يطلب |
+| **Root** | [ط-ل-ب](#roots/tlb) |
+| **Form** | I · طلب / يطلب |
 
 ---
 
@@ -19,6 +19,31 @@
 
 ---
 
-## Overlap
+## Conjugation
 
-This verb also lives under **Roots → ط-ل-ب**. Use the Roots / Ism tabs for the word family.
+Everyday Saudi / Najdi. Future uses **بـ**.
+
+| Pronoun | Past | Present | Future |
+|---------|------|---------|--------|
+| أنا | طلبت | أطلب | بطلب |
+| إحنا | طلبنا | نطلب | بنطلب |
+| أنت | طلبت | تطلب | بتطلب |
+| أنتِ | طلبتي | تطلبين | بتطلبين |
+| أنتم | طلبتوا | تطلبون | بتطلبون |
+| هو | طلب | يطلب | بيطلب |
+| هي | طلبت | تطلب | بتطلب |
+| هم | طلبوا | يطلبون | بيطلبون |
+
+### Examples
+
+| Pronoun | Arabic · English |
+|---------|------------------|
+| أنا | طلبت — I did (requesting / ordering) |
+| إحنا | نطلب — we do/does (requesting / ordering) |
+| أنت | بتطلب — you (m.) will (requesting / ordering) |
+| أنتِ | طلبتي — you (f.) did (requesting / ordering) |
+| أنتم | تطلبون — you (pl.) do/does (requesting / ordering) |
+| هو | بيطلب — he will (requesting / ordering) |
+| هي | طلبت — she did (requesting / ordering) |
+| هم | يطلبون — they do/does (requesting / ordering) |
+

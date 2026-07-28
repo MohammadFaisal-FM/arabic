@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | خ-ل-ص |
-| **Letter** | خ · خاء |
 | **Meaning** | finishing |
-| **Form I** | خلص / يخلص |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **خلص / يخلص**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | خلص / يخلص | [Open](#fil/khlS) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | خلص | finishing | `#fil/khlS` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

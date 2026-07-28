@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ب-د-أ |
-| **Letter** | ب · باء |
 | **Meaning** | starting |
-| **Form I** | بدأ / يبدأ |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **بدأ / يبدأ**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | بدأ / يبدأ | [Open](#fil/bda) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | بدأ | starting | `#fil/bda` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | هذي جملة — This is a sentence |
+| هذا جملة — This is a sentence |
+| أحب جملة — I like sentence |
+| وين جملة؟ — Where is the sentence? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

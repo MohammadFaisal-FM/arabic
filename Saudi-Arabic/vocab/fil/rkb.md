@@ -6,8 +6,8 @@
 | **Arabic** | ركب |
 | **Present** | يركب |
 | **Meaning** | riding / boarding |
-| **Root** | ر-ك-ب (`rkb`) |
-| **Form I** | ركب / يركب |
+| **Root** | [ر-ك-ب](#roots/rkb) |
+| **Form** | I · ركب / يركب |
 
 ---
 
@@ -19,6 +19,31 @@
 
 ---
 
-## Overlap
+## Conjugation
 
-This verb also lives under **Roots → ر-ك-ب**. Use the Roots / Ism tabs for the word family.
+Everyday Saudi / Najdi. Future uses **بـ**.
+
+| Pronoun | Past | Present | Future |
+|---------|------|---------|--------|
+| أنا | ركبت | أركب | بركب |
+| إحنا | ركبنا | نركب | بنركب |
+| أنت | ركبت | تركب | بتركب |
+| أنتِ | ركبتي | تركبين | بتركبين |
+| أنتم | ركبتوا | تركبون | بتركبون |
+| هو | ركب | يركب | بيركب |
+| هي | ركبت | تركب | بتركب |
+| هم | ركبوا | يركبون | بيركبون |
+
+### Examples
+
+| Pronoun | Arabic · English |
+|---------|------------------|
+| أنا | ركبت — I did (riding / boarding) |
+| إحنا | نركب — we do/does (riding / boarding) |
+| أنت | بتركب — you (m.) will (riding / boarding) |
+| أنتِ | ركبتي — you (f.) did (riding / boarding) |
+| أنتم | تركبون — you (pl.) do/does (riding / boarding) |
+| هو | بيركب — he will (riding / boarding) |
+| هي | ركبت — she did (riding / boarding) |
+| هم | يركبون — they do/does (riding / boarding) |
+

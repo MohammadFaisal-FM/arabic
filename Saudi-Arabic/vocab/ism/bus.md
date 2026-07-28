@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | الباص جاي — The bus is coming |
+| هذا باص — This is a bus |
+| أحب باص — I like bus |
+| وين باص؟ — Where is the bus? |
 
----
 
-## Notes
-
-Loanword — learn as a whole. No useful Arabic root family.

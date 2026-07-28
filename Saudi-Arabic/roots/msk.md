@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | م-س-ك |
-| **Letter** | م · ميم |
 | **Meaning** | holding / catching |
-| **Form I** | مسك / يمسك |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **مسك / يمسك**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | مسك / يمسك | [Open](#fil/msk) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | مسك | holding / catching | `#fil/msk` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

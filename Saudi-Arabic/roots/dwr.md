@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | د-و-ر |
-| **Letter** | د · دال |
 | **Meaning** | turning / looking for |
-| **Form I** | دار / يدور |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **دار / يدور**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | دار / يدور | [Open](#fil/dwr) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | دار | turning / looking for | `#fil/dwr` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

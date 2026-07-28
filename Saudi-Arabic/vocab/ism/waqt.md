@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| ما عندي وقت — I don’t have time |
+| ما عندي وقت — I don't have time |
+| هذا وقت — This is a time |
+| أحب وقت — I like time |
+| وين وقت؟ — Where is the time? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

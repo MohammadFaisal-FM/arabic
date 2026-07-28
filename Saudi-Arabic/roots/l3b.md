@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ل-ع-ب |
-| **Letter** | ل · لام |
 | **Meaning** | playing |
-| **Form I** | لعب / يلعب |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **لعب / يلعب**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | لعب / يلعب | [Open](#fil/l3b) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | لعب | playing | `#fil/l3b` |
-| اسم | كورة | ball / football | `#ism/koora` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم · ism (noun) | كورة | يلعب كورة — He plays football |
 

@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ف-ت-ح |
-| **Letter** | ف · فاء |
 | **Meaning** | opening |
-| **Form I** | فتح / يفتح |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **فتح / يفتح**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | فتح / يفتح | [Open](#fil/fth) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | فتح | opening | `#fil/fth` |
-| اسم | مفتاح | key | `#ism/miftah` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم · ism (noun) | مفتاح | وين المفتاح؟ — Where is the key? |
 

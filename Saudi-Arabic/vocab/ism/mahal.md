@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| المحل قريب — The shop is near |
+| المحل قريب — The store is nearby |
+| هذا محل — This is a shop |
+| أحب محل — I like shop |
+| وين محل؟ — Where is the shop? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

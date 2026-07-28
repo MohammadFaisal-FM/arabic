@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | س-أ-ل |
-| **Letter** | س · سين |
 | **Meaning** | asking |
-| **Form I** | سأل / يسأل |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **سأل / يسأل**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | سأل / يسأل | [Open](#fil/sal) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | سأل | asking | `#fil/sal` |
-| اسم | سؤال | question | `#ism/suwal` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم · ism (noun) | سؤال | عندي سؤال — I have a question |
 

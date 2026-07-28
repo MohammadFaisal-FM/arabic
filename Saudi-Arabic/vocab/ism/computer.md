@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| على الكمبيوتر — on the computer |
+| على الكمبيوتر — On the computer |
+| هذا كمبيوتر — This is a computer |
+| أحب كمبيوتر — I like computer |
+| وين كمبيوتر؟ — Where is the computer? |
 
----
 
-## Notes
-
-Loanword — learn as a whole. No useful Arabic root family.

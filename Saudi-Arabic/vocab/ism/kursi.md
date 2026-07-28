@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | اجلس على الكرسي — Sit on the chair |
+| هذا كرسي — This is a chair |
+| أحب كرسي — I like chair |
+| وين كرسي؟ — Where is the chair? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

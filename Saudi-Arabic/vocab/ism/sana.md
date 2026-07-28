@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| كل سنة — every year |
+| كل سنة — Every year |
+| هذا سنة — This is a year |
+| أحب سنة — I like year |
+| وين سنة؟ — Where is the year? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

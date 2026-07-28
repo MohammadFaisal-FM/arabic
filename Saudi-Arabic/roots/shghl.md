@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ش-غ-ل |
-| **Letter** | ش · شين |
 | **Meaning** | working / occupying |
-| **Form I** | شغل / يشغل |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,18 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **شغل / يشغل**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | شغل / يشغل | [Open](#fil/shghl) |
+| VIII | اشتغل / يشتغل · work (very common) | [Open](#fil/shghl-viii) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | شغل | working / occupying | `#fil/shghl` |
-| اسم | شغل | work / job | `#ism/shoghl` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم · ism (noun) | شغل | عندي شغل — I have a job |
 

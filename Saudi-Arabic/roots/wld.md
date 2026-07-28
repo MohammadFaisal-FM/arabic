@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | و-ل-د |
-| **Letter** | و · واو |
 | **Meaning** | being born / giving birth |
-| **Form I** | ولد / يولد |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **ولد / يولد**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | ولد / يولد | [Open](#fil/wld) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | ولد | being born / giving birth | `#fil/wld` |
-| اسم | ولد | boy / child | `#ism/walad` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم · ism (noun) | ولد | كبر الولد — The boy has grown up |
 

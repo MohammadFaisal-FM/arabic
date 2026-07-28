@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| على الطاولة — on the table |
+| على الطاولة — On the table |
+| هذا طاولة — This is a table |
+| أحب طاولة — I like table |
+| وين طاولة؟ — Where is the table? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

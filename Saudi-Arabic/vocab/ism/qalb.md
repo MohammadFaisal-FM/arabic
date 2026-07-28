@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| من قلبي — from my heart |
+| من قلبي — From my heart |
+| هذا قلب — This is a heart |
+| أحب قلب — I like heart |
+| وين قلب؟ — Where is the heart? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

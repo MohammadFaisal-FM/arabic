@@ -1,11 +1,11 @@
-# قهوة
+# جدول
 
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
 | **Subtype** | noun |
-| **Arabic** | قهوة |
-| **Meaning** | coffee |
+| **Arabic** | جدول |
+| **Meaning** | schedule |
 | **Root** | — (loan / no everyday root) |
 
 ---
@@ -14,10 +14,8 @@
 
 | Arabic · English |
 |------------------|
-| أبغى قهوة — I want coffee |
+| هذا جدول — This is schedule |
+| أحب جدول — I like schedule |
+| وين جدول؟ — Where is the schedule? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

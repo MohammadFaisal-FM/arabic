@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ر-د-د |
-| **Letter** | ر · راء |
 | **Meaning** | replying / returning |
-| **Form I** | ردّ / يرد |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **ردّ / يرد**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | ردّ / يرد | [Open](#fil/rdd) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | ردّ | replying / returning | `#fil/rdd` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

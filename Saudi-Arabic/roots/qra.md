@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ق-ر-أ |
-| **Letter** | ق · قاف |
 | **Meaning** | reading |
-| **Form I** | قرأ / يقرأ |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **قرأ / يقرأ**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | قرأ / يقرأ | [Open](#fil/qra) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | قرأ | reading | `#fil/qra` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

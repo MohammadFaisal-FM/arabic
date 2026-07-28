@@ -6,8 +6,8 @@
 | **Arabic** | صار |
 | **Present** | يصير |
 | **Meaning** | becoming |
-| **Root** | ص-ي-ر (`sar`) |
-| **Form I** | صار / يصير |
+| **Root** | [ص-ي-ر](#roots/sar) |
+| **Form** | I · صار / يصير |
 
 ---
 
@@ -19,6 +19,31 @@
 
 ---
 
-## Overlap
+## Conjugation
 
-This verb also lives under **Roots → ص-ي-ر**. Use the Roots / Ism tabs for the word family.
+Everyday Saudi / Najdi. Future uses **بـ**.
+
+| Pronoun | Past | Present | Future |
+|---------|------|---------|--------|
+| أنا | صارت | أصير | بصير |
+| إحنا | صارنا | نصير | بنصير |
+| أنت | صارت | تصير | بتصير |
+| أنتِ | صارتي | تصيرين | بتصيرين |
+| أنتم | صارتوا | تصيرون | بتصيرون |
+| هو | صار | يصير | بيصير |
+| هي | صارت | تصير | بتصير |
+| هم | صاروا | يصيرون | بيصيرون |
+
+### Examples
+
+| Pronoun | Arabic · English |
+|---------|------------------|
+| أنا | صارت — I did (becoming) |
+| إحنا | نصير — we do/does (becoming) |
+| أنت | بتصير — you (m.) will (becoming) |
+| أنتِ | صارتي — you (f.) did (becoming) |
+| أنتم | تصيرون — you (pl.) do/does (becoming) |
+| هو | بيصير — he will (becoming) |
+| هي | صارت — she did (becoming) |
+| هم | يصيرون — they do/does (becoming) |
+

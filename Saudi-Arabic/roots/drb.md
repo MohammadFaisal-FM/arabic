@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ض-ر-ب |
-| **Letter** | ض · ضاد |
 | **Meaning** | hitting |
-| **Form I** | ضرب / يضرب |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **ضرب / يضرب**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | ضرب / يضرب | [Open](#fil/drb) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | ضرب | hitting | `#fil/drb` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

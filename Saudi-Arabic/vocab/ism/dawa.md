@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | خذ الدوا — Take the medicine |
+| هذا دوا — This is a medicine |
+| أحب دوا — I like medicine |
+| وين دوا؟ — Where is the medicine? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ن-ز-ل |
-| **Letter** | ن · نون |
 | **Meaning** | going down / getting off |
-| **Form I** | نزل / ينزل |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **نزل / ينزل**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | نزل / ينزل | [Open](#fil/nzl) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | نزل | going down / getting off | `#fil/nzl` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

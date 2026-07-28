@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ج-ر-ي |
-| **Letter** | ج · جيم |
 | **Meaning** | running |
-| **Form I** | جرى / يجري |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **جرى / يجري**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | جرى / يجري | [Open](#fil/jry) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | جرى | running | `#fil/jry` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

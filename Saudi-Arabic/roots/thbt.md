@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ث-ب-ت |
-| **Letter** | ث · ثاء |
 | **Meaning** | staying firm / proving |
-| **Form I** | ثبت / يثبت |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **ثبت / يثبت**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | ثبت / يثبت | [Open](#fil/thbt) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | ثبت | staying firm / proving | `#fil/thbt` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| ثوبي جديد — My thobe is new |
+| ثوبي جديد — My dress is new |
+| هذا ثوب — This is a thobe |
+| أحب ثوب — I like thobe |
+| وين ثوب؟ — Where is the thobe? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

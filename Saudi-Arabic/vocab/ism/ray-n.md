@@ -6,7 +6,7 @@
 | **Subtype** | noun |
 | **Arabic** | رأي |
 | **Meaning** | opinion |
-| **Root** | ر-ا-ي (`ray`) |
+| **Root** | [ر-ا-ي](#roots/ray) |
 
 ---
 
@@ -14,10 +14,16 @@
 
 | Arabic · English |
 |------------------|
-| وش رأيك؟ — What’s your opinion? |
+| وش رأيك؟ — What do you think? |
+| هذا رأي — This is a opinion |
+| أحب رأي — I like opinion |
+| وين رأي؟ — Where is the opinion? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ر-ا-ي** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ر-ا-ي](#roots/ray) |
+| **Fiʿl** | [رأى / يرى](#fil/ray) |
+

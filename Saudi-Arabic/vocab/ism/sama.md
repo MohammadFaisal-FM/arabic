@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | السما صافية — The sky is clear |
+| هذا سما — This is a sky |
+| أحب سما — I like sky |
+| وين سما؟ — Where is the sky? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

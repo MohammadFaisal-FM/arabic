@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| عندي مرض — I’m sick |
+| عندي مرض — I have an illness |
+| هذا مرض — This is a illness |
+| أحب مرض — I like illness |
+| وين مرض؟ — Where is the illness? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

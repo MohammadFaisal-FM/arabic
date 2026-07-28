@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| أتعلّم عربي — I’m learning Arabic |
+| أتعلّم عربي — I am learning Arabic |
+| هذا عربي — This is a arabic |
+| أحب عربي — I like arabic |
+| وين عربي؟ — Where is the arabic? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

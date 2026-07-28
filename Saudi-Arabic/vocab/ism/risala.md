@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| أكتب رسالة — I’m writing a message |
+| أكتب رسالة — Write a message |
+| هذا رسالة — This is a message |
+| أحب رسالة — I like message |
+| وين رسالة؟ — Where is the message? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

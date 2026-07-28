@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ذ-ه-ب |
-| **Letter** | ذ · ذال |
 | **Meaning** | going |
-| **Form I** | ذهب / يذهب |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **ذهب / يذهب**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | ذهب / يذهب | [Open](#fil/dhhb) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | ذهب | going | `#fil/dhhb` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

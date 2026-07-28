@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| وش اسمك؟ — What’s your name? |
+| وش اسمك؟ — What's your name? |
+| هذا اسم — This is a name |
+| أحب اسم — I like name |
+| وين اسم؟ — Where is the name? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

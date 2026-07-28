@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ر-و-ح |
-| **Letter** | ر · راء |
 | **Meaning** | going (Najdi) |
-| **Form I** | راح / يروح |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **راح / يروح**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | راح / يروح | [Open](#fil/rah) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | راح | going (Najdi) | `#fil/rah` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

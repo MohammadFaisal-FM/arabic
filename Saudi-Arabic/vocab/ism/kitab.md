@@ -6,7 +6,7 @@
 | **Subtype** | noun |
 | **Arabic** | كتاب |
 | **Meaning** | book |
-| **Root** | ك-ت-ب (`ktb`) |
+| **Root** | [ك-ت-ب](#roots/ktb) |
 
 ---
 
@@ -15,9 +15,14 @@
 | Arabic · English |
 |------------------|
 | هذا كتاب — This is a book |
+| أحب كتاب — I like book |
+| وين كتاب؟ — Where is the book? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ك-ت-ب** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ك-ت-ب](#roots/ktb) |
+| **Fiʿl** | [كتب / يكتب](#fil/ktb) |
+

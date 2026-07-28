@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | خذ تاكسي — Take a taxi |
+| هذا تاكسي — This is a taxi |
+| أحب تاكسي — I like taxi |
+| وين تاكسي؟ — Where is the taxi? |
 
----
 
-## Notes
-
-Loanword — learn as a whole. No useful Arabic root family.

@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ع-م-ل |
-| **Letter** | ع · عين |
 | **Meaning** | working / doing |
-| **Form I** | عمل / يعمل |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **عمل / يعمل**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | عمل / يعمل | [Open](#fil/3ml) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | عمل | working / doing | `#fil/3ml` |
-| اسم | عمل | work / job | `#ism/amal` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم · ism (noun) | عمل | أدور على عمل — I'm looking for work |
 

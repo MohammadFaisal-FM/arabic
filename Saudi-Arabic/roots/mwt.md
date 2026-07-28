@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | م-و-ت |
-| **Letter** | م · ميم |
 | **Meaning** | dying |
-| **Form I** | مات / يموت |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **مات / يموت**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | مات / يموت | [Open](#fil/mwt) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | مات | dying | `#fil/mwt` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

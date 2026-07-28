@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ع-ط-ي |
-| **Letter** | ع · عين |
 | **Meaning** | giving |
-| **Form I** | عطى / يعطي |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **عطى / يعطي**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | عطى / يعطي | [Open](#fil/3ty) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | عطى | giving | `#fil/3ty` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

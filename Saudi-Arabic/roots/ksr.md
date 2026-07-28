@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ك-س-ر |
-| **Letter** | ك · كاف |
 | **Meaning** | breaking |
-| **Form I** | كسر / يكسر |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **كسر / يكسر**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | كسر / يكسر | [Open](#fil/ksr) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | كسر | breaking | `#fil/ksr` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

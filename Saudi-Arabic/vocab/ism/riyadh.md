@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | أسكن في الرياض — I live in Riyadh |
+| هذا الرياض — This is a riyadh |
+| أحب الرياض — I like riyadh |
+| وين الرياض؟ — Where is the riyadh? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

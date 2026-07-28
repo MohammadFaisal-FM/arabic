@@ -163,6 +163,15 @@
       "file": "vocab/harf/an.md"
     },
     {
+      "id": "dun",
+      "arabic": "بدون",
+      "meaning": "without",
+      "letter": "ب",
+      "usage": "manner / absence",
+      "example": "بدون سكر — without sugar",
+      "file": "vocab/harf/dun.md"
+    },
+    {
       "id": "maa",
       "arabic": "مع",
       "meaning": "with",
@@ -242,6 +251,24 @@
       "usage": "contrast",
       "example": "أبي أروح لكن تعبان — I want to go but I’m tired",
       "file": "vocab/harf/lakin.md"
+    },
+    {
+      "id": "wala",
+      "arabic": "ولا",
+      "meaning": "and not / or not",
+      "letter": "و",
+      "usage": "negation link",
+      "example": "ما عندي وقت ولا فلوس — I have neither time nor money",
+      "file": "vocab/harf/wala.md"
+    },
+    {
+      "id": "thumm",
+      "arabic": "ثم",
+      "meaning": "then / after that",
+      "letter": "ث",
+      "usage": "sequence",
+      "example": "نروح السوق ثم نرجع — we go to the market then come back",
+      "file": "vocab/harf/thumm.md"
     },
     {
       "id": "illa",
@@ -449,6 +476,51 @@
       "usage": "filler",
       "example": "يعني خلاص — I mean, that’s it",
       "file": "vocab/harf/yaani.md"
+    },
+    {
+      "id": "liann",
+      "arabic": "لأن",
+      "meaning": "because",
+      "letter": "أ",
+      "usage": "reason",
+      "example": "تأخرت لأن الزحمة قوية — I was late because traffic was heavy",
+      "file": "vocab/harf/liann.md"
+    },
+    {
+      "id": "ashan",
+      "arabic": "عشان",
+      "meaning": "because / so that",
+      "letter": "ع",
+      "usage": "reason / purpose",
+      "example": "أدرس عشان الاختبار — I study for the exam",
+      "file": "vocab/harf/ashan.md"
+    },
+    {
+      "id": "iza",
+      "arabic": "إذا",
+      "meaning": "if / when",
+      "letter": "أ",
+      "usage": "condition / time",
+      "example": "إذا خلصت، كلمني — if you finish, call me",
+      "file": "vocab/harf/iza.md"
+    },
+    {
+      "id": "law",
+      "arabic": "لو",
+      "meaning": "if (hypothetical)",
+      "letter": "و",
+      "usage": "condition",
+      "example": "لو عندي وقت، بجي — if I had time, I would come",
+      "file": "vocab/harf/law.md"
+    },
+    {
+      "id": "lissa",
+      "arabic": "لسه",
+      "meaning": "still / not yet",
+      "letter": "س",
+      "usage": "time aspect",
+      "example": "لسه ما وصلت — I still haven’t arrived",
+      "file": "vocab/harf/lissa.md"
     },
     {
       "id": "bass",

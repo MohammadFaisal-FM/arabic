@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| أخوي — my brother |
+| أخوي — brotherly |
+| هذا أخ — This is a brother |
+| أحب أخ — I like brother |
+| وين أخ؟ — Where is the brother? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

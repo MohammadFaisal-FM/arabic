@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| نقعد في القهوة — Let’s sit at the café |
+| نقعد في القهوة — We sit in coffee |
+| هذا قهوة — This is a café (same word as coffee) |
+| أحب قهوة — I like café (same word as coffee) |
+| وين قهوة؟ — Where is the café (same word as coffee)? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

@@ -6,7 +6,7 @@
 | **Subtype** | noun |
 | **Arabic** | فعل |
 | **Meaning** | verb / action |
-| **Root** | ف-ع-ل (`f3l`) |
+| **Root** | [ف-ع-ل](#roots/f3l) |
 
 ---
 
@@ -15,9 +15,14 @@
 | Arabic · English |
 |------------------|
 | هذا فعل — This is a verb |
+| أحب فعل — I like verb |
+| وين فعل؟ — Where is the verb? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ف-ع-ل** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ف-ع-ل](#roots/f3l) |
+| **Fiʿl** | [فعل / يفعل](#fil/f3l) |
+

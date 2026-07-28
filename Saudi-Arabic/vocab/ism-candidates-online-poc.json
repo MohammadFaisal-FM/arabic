@@ -1,0 +1,1517 @@
+{
+  "summary": {
+    "wiktionary_nouns_collected": 1435,
+    "tatoeba_lines_scanned": 120000,
+    "existing_ism_count": 80,
+    "poc_candidates_found": 137
+  },
+  "candidates": [
+    {
+      "arabic_norm": "اكل",
+      "wiktionary_title": "أكل",
+      "tatoeba_count": 178,
+      "example": "أحب أكل اللازانيا.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "امس",
+      "wiktionary_title": "أمس",
+      "tatoeba_count": 56,
+      "example": "ذهبوا إلى السينما ليلة أمس.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اسبوع",
+      "wiktionary_title": "أسبوع",
+      "tatoeba_count": 35,
+      "example": "ستعود في غضون أسبوع.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اهل",
+      "wiktionary_title": "أهل",
+      "tatoeba_count": 33,
+      "example": "مرحباً ، أهل شيكاغو!",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اخت",
+      "wiktionary_title": "أخت",
+      "tatoeba_count": 17,
+      "example": "لي أخت واحدة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ارض",
+      "wiktionary_title": "أرض",
+      "tatoeba_count": 15,
+      "example": "في أرض العميان الأعور هو الملك.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اسنان",
+      "wiktionary_title": "إسنان",
+      "tatoeba_count": 13,
+      "example": "توم لديه موعد اسنان عند الثانية والنصف",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اساس",
+      "wiktionary_title": "أساس",
+      "tatoeba_count": 10,
+      "example": "الرياضيات أساس الحرية.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اعداد",
+      "wiktionary_title": "إعداد",
+      "tatoeba_count": 10,
+      "example": "إعداد المخططات شيء و تنفيذها شيء آخر.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "انهاء",
+      "wiktionary_title": "إنهاء",
+      "tatoeba_count": 10,
+      "example": "سيستغرق إنهاء المشروع سنةً على الأقل.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "احتمال",
+      "wiktionary_title": "احتمال",
+      "tatoeba_count": 9,
+      "example": "هناك إحتمال أن تندلع الحرب.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اختيار",
+      "wiktionary_title": "اختيار",
+      "tatoeba_count": 9,
+      "example": "يمكنك اختيار أي واحد منهم.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اذان",
+      "wiktionary_title": "أذان",
+      "tatoeba_count": 9,
+      "example": "كلّي آذانٌ صاغية.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اساسي",
+      "wiktionary_title": "أساسي",
+      "tatoeba_count": 9,
+      "example": "هذا سؤال أساسي.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "استراحه",
+      "wiktionary_title": "استراحة",
+      "tatoeba_count": 9,
+      "example": "لنأخذ استراحة قصيرة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اسلوب",
+      "wiktionary_title": "أسلوب",
+      "tatoeba_count": 9,
+      "example": "انه خارج نطاق العمل الحالي وصف جميع المكونات التي تكون اسلوب ايميت المعماري.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اضافه",
+      "wiktionary_title": "إضافة",
+      "tatoeba_count": 9,
+      "example": "بَيْدَ أن مشروع تتويبا ليس \"جنّة كلمات\". توقفوا رجاءً عن إضافة الكلمات.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "انذار",
+      "wiktionary_title": "إنذار",
+      "tatoeba_count": 9,
+      "example": "ثبّت سامي جهاز إنذار في منزله.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ابتسامه",
+      "wiktionary_title": "ابتسامة",
+      "tatoeba_count": 8,
+      "example": "كان فاضل طفلا صغيرا ذو ابتسامة مشعّة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اجراء",
+      "wiktionary_title": "إجراء",
+      "tatoeba_count": 8,
+      "example": "الأمر متروك للحكومة لاتخاذ إجراء بشأن العنف.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اختبار",
+      "wiktionary_title": "اختبار",
+      "tatoeba_count": 8,
+      "example": "عندي اختبار في الغد.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اداء",
+      "wiktionary_title": "أداء",
+      "tatoeba_count": 8,
+      "example": "أداء هذه السيارة أفضل من تلك.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اسماء",
+      "wiktionary_title": "أسماء",
+      "tatoeba_count": 8,
+      "example": "إنه يعرف أسماء كل زبائنه.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اعزب",
+      "wiktionary_title": "أعزب",
+      "tatoeba_count": 8,
+      "example": "توم شاب و أعزب",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اغلبيه",
+      "wiktionary_title": "أغلبية",
+      "tatoeba_count": 8,
+      "example": "أغلبية الفنادق مفتوحة طوال العام.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اقام",
+      "wiktionary_title": "إقام",
+      "tatoeba_count": 8,
+      "example": "أقام سامي علاقة غير شرعيّة مع امرأة متزوِّجة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "الغاء",
+      "wiktionary_title": "إلغاء",
+      "tatoeba_count": 8,
+      "example": "كان لديهِ صداع سيء مما اضطرهُ الى إلغاء المقابلة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "امين",
+      "wiktionary_title": "أمين",
+      "tatoeba_count": 8,
+      "example": "على حد علمي، هو شخص أمين.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "انف",
+      "wiktionary_title": "أنف",
+      "tatoeba_count": 8,
+      "example": "لدى الفيل أنف طويل.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ايصال",
+      "wiktionary_title": "إيصال",
+      "tatoeba_count": 8,
+      "example": "تم إيصال البضائع بالأمس",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ابد",
+      "wiktionary_title": "أبد",
+      "tatoeba_count": 7,
+      "example": "وَمَنْ لا يُحِبّ صُعُودَ الجِبَـالِ/يَعِشْ أَبَدَ الدَّهْرِ بَيْنَ الحُفَـر",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اتخاذ",
+      "wiktionary_title": "اتخاذ",
+      "tatoeba_count": 7,
+      "example": "يؤسفُني عدم إتخاذ نصيحة الطبيب.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اثاره",
+      "wiktionary_title": "إثارة",
+      "tatoeba_count": 7,
+      "example": "لاحظ محقّقوا الشّرطة آثارة للسّحب على الأرض.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اجنبي",
+      "wiktionary_title": "أجنبي",
+      "tatoeba_count": 7,
+      "example": "أنا أجنبي.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ادخال",
+      "wiktionary_title": "إدخال",
+      "tatoeba_count": 7,
+      "example": "عليك إدخال رقم البيت، الحي، الرمز البريدي والشارع كل على حدى.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اراده",
+      "wiktionary_title": "إرادة",
+      "tatoeba_count": 7,
+      "example": "حيث هناك إرادة هناك وسيلة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ارسال",
+      "wiktionary_title": "إرسال",
+      "tatoeba_count": 7,
+      "example": "علينا ألا ننسى إرسال هذه الرسالة غدا.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اسرار",
+      "wiktionary_title": "إسرار",
+      "tatoeba_count": 7,
+      "example": "من يا ترى سيكشف أسرار المحيط؟",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اشاره",
+      "wiktionary_title": "إشارة",
+      "tatoeba_count": 7,
+      "example": "كانوا يترقبون اشارة البدء.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اصابه",
+      "wiktionary_title": "إصابة",
+      "tatoeba_count": 7,
+      "example": "أصابه الصلع في شبابه.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اعجاب",
+      "wiktionary_title": "إعجاب",
+      "tatoeba_count": 7,
+      "example": "لم تثر الفكرة إعجاب سامي.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اقامه",
+      "wiktionary_title": "إقامة",
+      "tatoeba_count": 7,
+      "example": "توم يريد إقامة إجتماع.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اقصي",
+      "wiktionary_title": "أقصى",
+      "tatoeba_count": 7,
+      "example": "أقصى مدة انتظار يمكنني تحملها هي أربعة أيام.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "القاء",
+      "wiktionary_title": "إلقاء",
+      "tatoeba_count": 7,
+      "example": "مروا بسرعة و بدون إلقاء نظرة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "الماني",
+      "wiktionary_title": "ألماني",
+      "tatoeba_count": 7,
+      "example": "دارك هو أفضل مسلسل ألماني.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "امامه",
+      "wiktionary_title": "إمامة",
+      "tatoeba_count": 7,
+      "example": "لم يلحظ الطريق العلوي أمامه.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "امان",
+      "wiktionary_title": "أمان",
+      "tatoeba_count": 7,
+      "example": "ستضمن جُدُر النار أمان الإنترنت.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ابره",
+      "wiktionary_title": "إبرة",
+      "tatoeba_count": 6,
+      "example": "كَمن يبحث عن إبرة في كومة قَشّ.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اثبات",
+      "wiktionary_title": "إثبات",
+      "tatoeba_count": 6,
+      "example": "أيمكنك إثبات ذلك؟",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اجازه",
+      "wiktionary_title": "إجازة",
+      "tatoeba_count": 6,
+      "example": "نصحها الطبيب بأخذ إجازة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اخراج",
+      "wiktionary_title": "إخراج",
+      "tatoeba_count": 6,
+      "example": "كان سامي راغبا في إخراج ليلى من الصّورة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اخفاء",
+      "wiktionary_title": "إخفاء",
+      "tatoeba_count": 6,
+      "example": "تقول أنك تتعمدُ إخفاء مظهرك الحسن؟",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اسفل",
+      "wiktionary_title": "أسفل",
+      "tatoeba_count": 6,
+      "example": "إقرأ أسفل الصفحة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اشد",
+      "wiktionary_title": "أشد",
+      "tatoeba_count": 6,
+      "example": "الخوفُ أكثر ضرراً من أشد السيوف.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اضعاف",
+      "wiktionary_title": "إضعاف",
+      "tatoeba_count": 6,
+      "example": "في أمريكا، تضاعف معدل استهلاك الوجبات السريعة ثلاثة أضعاف ما بين عامي 1977 و 1995.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اطار",
+      "wiktionary_title": "إطار",
+      "tatoeba_count": 6,
+      "example": "زيري إطار.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "العاب",
+      "wiktionary_title": "إلعاب",
+      "tatoeba_count": 6,
+      "example": "بعض الأطفال يلعبون ألعاب الفيديو في جميع الأوقات.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "امازيغ",
+      "wiktionary_title": "أمازيغ",
+      "tatoeba_count": 6,
+      "example": "القبائل هم أمازيغ و يتكلمون الأمازيغية.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "امازيغي",
+      "wiktionary_title": "أمازيغي",
+      "tatoeba_count": 6,
+      "example": "سامي أمازيغي لكن لا يستطيع التحدث بالأمازيغية.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "امكانيه",
+      "wiktionary_title": "إمكانية",
+      "tatoeba_count": 6,
+      "example": "أنا اقترحت لتوم إمكانية العمل مع ماري.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "انتاج",
+      "wiktionary_title": "إنتاج",
+      "tatoeba_count": 6,
+      "example": "إنّ إنتاج النّفط في تناقص.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اهداف",
+      "wiktionary_title": "إهداف",
+      "tatoeba_count": 6,
+      "example": "فاز فريق مانتشستر يونايتد بأربعة أهداف مقابل إثنين.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اتصال",
+      "wiktionary_title": "اتصال",
+      "tatoeba_count": 5,
+      "example": "تبقى على اتصال معه.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اتهام",
+      "wiktionary_title": "اتهام",
+      "tatoeba_count": 5,
+      "example": "هل تم اتهام توم؟",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اجتماعي",
+      "wiktionary_title": "اجتماعي",
+      "tatoeba_count": 5,
+      "example": "لكل فرد الحق في التمتع بنظام اجتماعي دولي تتحقق بمقتضاه الحقوق والحريات المنصوص عليها في هذا الإعلان تحققا تاما.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اجتماعيه",
+      "wiktionary_title": "اجتماعية",
+      "tatoeba_count": 5,
+      "example": "أصبح مشروع تتويبا ظاهرة إجتماعية و ثقافية مهمة في بلده الأم فرنسا.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اداه",
+      "wiktionary_title": "أداة",
+      "tatoeba_count": 5,
+      "example": "تتويبا أداة يمكن أن يستخدمها الطلاب في الفصل.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ادم",
+      "wiktionary_title": "آدم",
+      "tatoeba_count": 5,
+      "example": "آن آدم جوان چیز زیادی درمورد مملکت‌اش نمی‌داند.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ادمان",
+      "wiktionary_title": "إدمان",
+      "tatoeba_count": 5,
+      "example": "إدمان الإنترنت موجود حقا.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ارضيه",
+      "wiktionary_title": "أرضية",
+      "tatoeba_count": 5,
+      "example": "البيت انهدم في هزة أرضية.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ازهار",
+      "wiktionary_title": "إزهار",
+      "tatoeba_count": 5,
+      "example": "يا لها من أزهار جميلة!",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اسد",
+      "wiktionary_title": "أسد",
+      "tatoeba_count": 5,
+      "example": "أطلق النار على أسد.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اضراب",
+      "wiktionary_title": "إضراب",
+      "tatoeba_count": 5,
+      "example": "هناك إضراب.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "المانيه",
+      "wiktionary_title": "ألمانية",
+      "tatoeba_count": 5,
+      "example": "إنه يتكلم الإنجليزية بلكنة ألمانية.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "انفاق",
+      "wiktionary_title": "أنفاق",
+      "tatoeba_count": 5,
+      "example": "كان بإمكان إسرائيل أن تدمّر أنفاق حماس بدون أن تقتل الآلاف من المدنيّين الأبرياء في غزّة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "انقاذ",
+      "wiktionary_title": "إنقاذ",
+      "tatoeba_count": 5,
+      "example": "أنت الواحد والوحيد الذي يستطيع إنقاذ العالم.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اولي",
+      "wiktionary_title": "أولى",
+      "tatoeba_count": 5,
+      "example": "الأقربون أولى بالمعروف.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ايذاء",
+      "wiktionary_title": "إيذاء",
+      "tatoeba_count": 5,
+      "example": "لم أكن أحاول إيذاء أحد.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اتجاه",
+      "wiktionary_title": "اتجاه",
+      "tatoeba_count": 4,
+      "example": "حلقت الطيور في كل اتجاه.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اتون",
+      "wiktionary_title": "أتون",
+      "tatoeba_count": 4,
+      "example": "إنهم أتون إلي منزلنا, نحن لن نذهب إلي منزلهم.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "احداث",
+      "wiktionary_title": "إحداث",
+      "tatoeba_count": 4,
+      "example": "توقّف سامي عن إحداث ذلك الصّوت.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "احساس",
+      "wiktionary_title": "إحساس",
+      "tatoeba_count": 4,
+      "example": "لديّ إحساس أني كنت هنا من قبل.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اختطاف",
+      "wiktionary_title": "اختطاف",
+      "tatoeba_count": 4,
+      "example": "كان سامي يخطّط لعمليّة اختطاف.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ارز",
+      "wiktionary_title": "أرز",
+      "tatoeba_count": 4,
+      "example": "هل لديكم أرز؟",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ارضاء",
+      "wiktionary_title": "إرضاء",
+      "tatoeba_count": 4,
+      "example": "أنا لا أعرف مفتاح النجاح، لكن مفتاح الفشل هو محاولة ارضاء الجميع .",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اسباب",
+      "wiktionary_title": "أسباب",
+      "tatoeba_count": 4,
+      "example": "رفضت عن أسباب شخصية.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اسباني",
+      "wiktionary_title": "إسباني",
+      "tatoeba_count": 4,
+      "example": "أعمل مع إسبانيّ.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "استقلال",
+      "wiktionary_title": "استقلال",
+      "tatoeba_count": 4,
+      "example": "انعزال هو إستقلال.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "استكشاف",
+      "wiktionary_title": "استكشاف",
+      "tatoeba_count": 4,
+      "example": "توم يواصل استكشاف أفكار أخرى حول المنتج الجديد",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اسير",
+      "wiktionary_title": "أسير",
+      "tatoeba_count": 4,
+      "example": "كنت أسير حول المدرسة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اطعام",
+      "wiktionary_title": "إطعام",
+      "tatoeba_count": 4,
+      "example": "في الشتاء يجب علينا إطعام الطيور.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اعلان",
+      "wiktionary_title": "إعلان",
+      "tatoeba_count": 4,
+      "example": "ردّت ليلى على إعلان سامي.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اغراء",
+      "wiktionary_title": "إغراء",
+      "tatoeba_count": 4,
+      "example": "حاولت ماري إغراء توم.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اقناع",
+      "wiktionary_title": "إقناع",
+      "tatoeba_count": 4,
+      "example": "تمكنت من إقناع ابن عمي على قبول خطتي.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اكسجين",
+      "wiktionary_title": "أكسجين",
+      "tatoeba_count": 4,
+      "example": "يتكون الماء من هيدروجين و أكسجين.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "امبراطوريه",
+      "wiktionary_title": "إمبراطورية",
+      "tatoeba_count": 4,
+      "example": "أُسّست امبراطوريّة الدّرّاني في أفغانستان من طرف أحمد شاه درّاني عام 1747.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "انترنت",
+      "wiktionary_title": "إنترنت",
+      "tatoeba_count": 4,
+      "example": "أي متصفح إنترنت تستخدم؟",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "انفه",
+      "wiktionary_title": "أنفة",
+      "tatoeba_count": 4,
+      "example": "تعارك توم مع أخ ماري وكسر أنفه.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ايطالي",
+      "wiktionary_title": "إيطالي",
+      "tatoeba_count": 4,
+      "example": "أحدهما ياباني و الآخر إيطالي.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اباده",
+      "wiktionary_title": "إبادة",
+      "tatoeba_count": 3,
+      "example": "بما أنّه لا يمكن اجتناب مقتل الآلاف من النّاس في عزّة، فإنّ كلّ هجوم واسع يُشنّ على هذه المنطقة يُعتبر إبادة جماعيّة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اتقان",
+      "wiktionary_title": "إتقان",
+      "tatoeba_count": 3,
+      "example": "من المستحيل إتقان اللغة الإنجليزية خلال عامٍ واحد أو ما يقارب ذلك.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "احتجاز",
+      "wiktionary_title": "احتجاز",
+      "tatoeba_count": 3,
+      "example": "تمّ احتجاز ليلى من أجل تلقّي العلاج.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "احتفال",
+      "wiktionary_title": "احتفال",
+      "tatoeba_count": 3,
+      "example": "عيد ميلاد المسيح احتفال مسيحي و المسلمون لا يحتفلون به.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "احياء",
+      "wiktionary_title": "إحياء",
+      "tatoeba_count": 3,
+      "example": "كان سامي راغبا في إحياء علاقته مع ليلى.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اخافه",
+      "wiktionary_title": "إخافة",
+      "tatoeba_count": 3,
+      "example": "أراد فاضل إخافة ليلى.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اختراع",
+      "wiktionary_title": "اختراع",
+      "tatoeba_count": 3,
+      "example": "لقد تم اختراع الطائرة الورقية قبل ألفَيْ عام.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اختلاف",
+      "wiktionary_title": "اختلاف",
+      "tatoeba_count": 3,
+      "example": "إنه اختلاف.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اخلاء",
+      "wiktionary_title": "إخلاء",
+      "tatoeba_count": 3,
+      "example": "يجب أن يتمّ إخلاء العيادة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اخلاق",
+      "wiktionary_title": "أخلاق",
+      "tatoeba_count": 3,
+      "example": "من الواضح أنّ مدرّسك ليس لديه أخلاق.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ارتفاع",
+      "wiktionary_title": "ارتفاع",
+      "tatoeba_count": 3,
+      "example": "ما هو ارتفاع ذلك البرج؟",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ارضه",
+      "wiktionary_title": "أرضة",
+      "tatoeba_count": 3,
+      "example": "حرث المزارع أرضه.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ارم",
+      "wiktionary_title": "أرم",
+      "tatoeba_count": 3,
+      "example": "من فضلك اِرمِ الكرة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ازاء",
+      "wiktionary_title": "إزاء",
+      "tatoeba_count": 3,
+      "example": "قف إزاء الباب المغلوق",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ازدحام",
+      "wiktionary_title": "ازدحام",
+      "tatoeba_count": 3,
+      "example": "تأخّرتُ بسبب إزدحام الطريق.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ازعاج",
+      "wiktionary_title": "إزعاج",
+      "tatoeba_count": 3,
+      "example": "كف عن إزعاج والدك",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "ازل",
+      "wiktionary_title": "أزل",
+      "tatoeba_count": 3,
+      "example": "أزل الغُبار عن المرآة.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "استئجار",
+      "wiktionary_title": "استئجار",
+      "tatoeba_count": 3,
+      "example": "كم سعر استئجار الغرفة؟",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "استراتيجيه",
+      "wiktionary_title": "إستراتيجية",
+      "tatoeba_count": 3,
+      "example": "الأمل ليس استراتيجية.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "استرجاع",
+      "wiktionary_title": "استرجاع",
+      "tatoeba_count": 3,
+      "example": "لا تزال ليلى تعمل من أجل استرجاع صحّتها.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "استعداد",
+      "wiktionary_title": "استعداد",
+      "tatoeba_count": 3,
+      "example": "يقول توم بأنه على استعداد لعمل أي شيء من أجلي",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اشعار",
+      "wiktionary_title": "إشعار",
+      "tatoeba_count": 3,
+      "example": "تم إشعار الجميع.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اشغال",
+      "wiktionary_title": "إشغال",
+      "tatoeba_count": 3,
+      "example": "لا تزال لديها أشغال منزليّة عليها القيام بها.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اصبع",
+      "wiktionary_title": "إصبع",
+      "tatoeba_count": 3,
+      "example": "لدي ألم في اصبع قدمي الصغير.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اصحاب",
+      "wiktionary_title": "إصحاب",
+      "tatoeba_count": 3,
+      "example": "حضر اللقاء عدد من أصحاب الإختصاص.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "افاق",
+      "wiktionary_title": "آفاق",
+      "tatoeba_count": 3,
+      "example": "السفر يوسع آفاق تفكير المرء.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "افطار",
+      "wiktionary_title": "إفطار",
+      "tatoeba_count": 3,
+      "example": "حضر علي إفطار عند سامي.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اقفال",
+      "wiktionary_title": "إقفال",
+      "tatoeba_count": 3,
+      "example": "هل نسيت إقفال الباب اللّيلة الماضية؟",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اقلاع",
+      "wiktionary_title": "إقلاع",
+      "tatoeba_count": 3,
+      "example": "ما ميعاد إقلاع طائرتك؟",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اكاديميه",
+      "wiktionary_title": "أكاديمية",
+      "tatoeba_count": 3,
+      "example": "اللّغة الأمازيغيّة لديها الآن أكاديميّة في الجزائر.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "اكراميه",
+      "wiktionary_title": "إكرامية",
+      "tatoeba_count": 3,
+      "example": "هل تركت إكرامية؟",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "الماس",
+      "wiktionary_title": "ألماس",
+      "tatoeba_count": 3,
+      "example": "قلادة من الماس",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "الهه",
+      "wiktionary_title": "إلهة",
+      "tatoeba_count": 3,
+      "example": "أفريقيا هي إلهة أمازيغية ، وهي أصل الاسم الذي يطلق على القارة الأفريقية.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "امراض",
+      "wiktionary_title": "إمراض",
+      "tatoeba_count": 3,
+      "example": "الإضطراب لده عدة أمراض مختلفة",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "انجاز",
+      "wiktionary_title": "إنجاز",
+      "tatoeba_count": 3,
+      "example": "لا إنجاز بلا جهد .",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "انسه",
+      "wiktionary_title": "آنسة",
+      "tatoeba_count": 3,
+      "example": "كيف حالك يا آنسة جون؟",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "انشاء",
+      "wiktionary_title": "إنشاء",
+      "tatoeba_count": 3,
+      "example": "إنشاء موقع إلكتروني بدون أي تكلفة؟",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    },
+    {
+      "arabic_norm": "انكار",
+      "wiktionary_title": "إنكار",
+      "tatoeba_count": 3,
+      "example": "لا يمكن إنكار الحقائق.",
+      "sources": [
+        "wiktionary:Category:Arabic_nouns",
+        "tatoeba:ara_sentences.tsv"
+      ],
+      "confidence": "high-poc"
+    }
+  ]
+}

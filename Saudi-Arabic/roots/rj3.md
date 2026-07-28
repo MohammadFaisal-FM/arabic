@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ر-ج-ع |
-| **Letter** | ر · راء |
 | **Meaning** | returning |
-| **Form I** | رجع / يرجع |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **رجع / يرجع**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | رجع / يرجع | [Open](#fil/rj3) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | رجع | returning | `#fil/rj3` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

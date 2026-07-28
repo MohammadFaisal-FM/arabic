@@ -6,7 +6,7 @@
 | **Subtype** | masdar |
 | **Arabic** | شرب |
 | **Meaning** | drinking |
-| **Root** | ش-ر-ب (`shrb`) |
+| **Root** | [ش-ر-ب](#roots/shrb) |
 
 ---
 
@@ -14,10 +14,16 @@
 
 | Arabic · English |
 |------------------|
-| الشرب مهم — Drinking (water) matters |
+| الشرب مهم — Drinking is important |
+| هذا شرب — This is a drinking |
+| أحب شرب — I like drinking |
+| وين شرب؟ — Where is the drinking? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ش-ر-ب** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ش-ر-ب](#roots/shrb) |
+| **Fiʿl** | [شرب / يشرب](#fil/shrb) |
+

@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | احمل الشنطة — Carry the bag |
+| هذا شنطة — This is a bag |
+| أحب شنطة — I like bag |
+| وين شنطة؟ — Where is the bag? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

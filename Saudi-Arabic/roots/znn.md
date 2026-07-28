@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ظ-ن-ن |
-| **Letter** | ظ · ظاء |
 | **Meaning** | thinking / assuming |
-| **Form I** | ظنّ / يظن |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **ظنّ / يظن**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | ظنّ / يظن | [Open](#fil/znn) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | ظنّ | thinking / assuming | `#fil/znn` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

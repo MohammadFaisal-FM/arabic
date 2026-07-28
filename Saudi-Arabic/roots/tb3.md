@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ت-ب-ع |
-| **Letter** | ت · تاء |
 | **Meaning** | following |
-| **Form I** | تبع / يتبع |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,16 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **تبع / يتبع**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | تبع / يتبع | [Open](#fil/tb3) |
+| VIII | اتّبع / يتّبع · follow | [Open](#fil/tb3-viii) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | تبع | following | `#fil/tb3` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| الأسبوع الجاي — next week |
+| ستعود في غضون أسبوع. — You'll be back in a week. |
+| هذا أسبوع — This is a week |
+| أحب أسبوع — I like week |
+| وين أسبوع؟ — Where is the week? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

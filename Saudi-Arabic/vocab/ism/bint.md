@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | هذي بنتي — This is my daughter |
+| هذا بنت — This is a girl |
+| أحب بنت — I like girl |
+| وين بنت؟ — Where is the girl? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

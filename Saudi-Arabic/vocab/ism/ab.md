@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| أبي — my father |
+| أبي — my dad |
+| هذا أب — This is a father |
+| أحب أب — I like father |
+| وين أب؟ — Where is the father? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

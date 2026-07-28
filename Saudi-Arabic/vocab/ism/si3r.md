@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| كم السعر؟ — What’s the price? |
+| كم السعر؟ — How much is the price? |
+| هذا سعر — This is a price |
+| أحب سعر — I like price |
+| وين سعر؟ — Where is the price? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

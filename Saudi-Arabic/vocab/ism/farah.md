@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | فرحت كثير — I was very happy |
+| هذا فرح — This is a joy |
+| أحب فرح — I like joy |
+| وين فرح؟ — Where is the joy? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | عندنا خبز — We have bread |
+| هذا خبز — This is a bread |
+| أحب خبز — I like bread |
+| وين خبز؟ — Where is the bread? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

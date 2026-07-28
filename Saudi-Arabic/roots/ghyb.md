@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | غ-ي-ب |
-| **Letter** | غ · غين |
 | **Meaning** | being absent |
-| **Form I** | غاب / يغيب |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **غاب / يغيب**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | غاب / يغيب | [Open](#fil/ghyb) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | غاب | being absent | `#fil/ghyb` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

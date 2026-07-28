@@ -6,8 +6,8 @@
 | **Arabic** | بدأ |
 | **Present** | يبدأ |
 | **Meaning** | starting |
-| **Root** | ب-د-أ (`bda`) |
-| **Form I** | بدأ / يبدأ |
+| **Root** | [ب-د-أ](#roots/bda) |
+| **Form** | I · بدأ / يبدأ |
 
 ---
 
@@ -19,6 +19,31 @@
 
 ---
 
-## Overlap
+## Conjugation
 
-This verb also lives under **Roots → ب-د-أ**. Use the Roots / Ism tabs for the word family.
+Everyday Saudi / Najdi. Future uses **بـ**.
+
+| Pronoun | Past | Present | Future |
+|---------|------|---------|--------|
+| أنا | بدأت | أبدأ | ببدأ |
+| إحنا | بدأنا | نبدأ | بنبدأ |
+| أنت | بدأت | تبدأ | بتبدأ |
+| أنتِ | بدأتي | تبدأين | بتبدأين |
+| أنتم | بدأتوا | تبدأون | بتبدأون |
+| هو | بدأ | يبدأ | بيبدأ |
+| هي | بدأت | تبدأ | بتبدأ |
+| هم | بدأوا | يبدأون | بيبدأون |
+
+### Examples
+
+| Pronoun | Arabic · English |
+|---------|------------------|
+| أنا | بدأت — I did (starting) |
+| إحنا | نبدأ — we do/does (starting) |
+| أنت | بتبدأ — you (m.) will (starting) |
+| أنتِ | بدأتي — you (f.) did (starting) |
+| أنتم | تبدأون — you (pl.) do/does (starting) |
+| هو | بيبدأ — he will (starting) |
+| هي | بدأت — she did (starting) |
+| هم | يبدأون — they do/does (starting) |
+

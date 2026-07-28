@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | س-و-ي |
-| **Letter** | س · سين |
 | **Meaning** | making / doing |
-| **Form I** | سوى / يسوي |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **سوى / يسوي**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| II | سوى / يسوي · do / make (Najdi main) | [Open](#fil/swy) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | سوى | making / doing | `#fil/swy` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

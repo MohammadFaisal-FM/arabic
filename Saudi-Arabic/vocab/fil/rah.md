@@ -6,8 +6,8 @@
 | **Arabic** | راح |
 | **Present** | يروح |
 | **Meaning** | going (Najdi) |
-| **Root** | ر-و-ح (`rah`) |
-| **Form I** | راح / يروح |
+| **Root** | [ر-و-ح](#roots/rah) |
+| **Form** | I · راح / يروح |
 
 ---
 
@@ -19,6 +19,31 @@
 
 ---
 
-## Overlap
+## Conjugation
 
-This verb also lives under **Roots → ر-و-ح**. Use the Roots / Ism tabs for the word family.
+Everyday Saudi / Najdi. Future uses **بـ**.
+
+| Pronoun | Past | Present | Future |
+|---------|------|---------|--------|
+| أنا | راحت | أروح | بروح |
+| إحنا | راحنا | نروح | بنروح |
+| أنت | راحت | تروح | بتروح |
+| أنتِ | راحتي | تروحين | بتروحين |
+| أنتم | راحتوا | تروحون | بتروحون |
+| هو | راح | يروح | بيروح |
+| هي | راحت | تروح | بتروح |
+| هم | راحوا | يروحون | بيروحون |
+
+### Examples
+
+| Pronoun | Arabic · English |
+|---------|------------------|
+| أنا | راحت — I did (going (Najdi)) |
+| إحنا | نروح — we do/does (going (Najdi)) |
+| أنت | بتروح — you (m.) will (going (Najdi)) |
+| أنتِ | راحتي — you (f.) did (going (Najdi)) |
+| أنتم | تروحون — you (pl.) do/does (going (Najdi)) |
+| هو | بيروح — he will (going (Najdi)) |
+| هي | راحت — she did (going (Najdi)) |
+| هم | يروحون — they do/does (going (Najdi)) |
+

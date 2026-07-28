@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | سيارتي جديدة — My car is new |
+| هذا سيارة — This is a car |
+| أحب سيارة — I like car |
+| وين سيارة؟ — Where is the car? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

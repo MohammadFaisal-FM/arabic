@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| أشوفك بكرة — I’ll see you tomorrow |
+| أشوفك بكرة — I will see you tomorrow |
+| هذا بكرة — This is a tomorrow (najdi) |
+| أحب بكرة — I like tomorrow (najdi) |
+| وين بكرة؟ — Where is the tomorrow (najdi)? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

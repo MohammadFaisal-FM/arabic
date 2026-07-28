@@ -6,8 +6,8 @@
 | **Arabic** | زاد |
 | **Present** | يزيد |
 | **Meaning** | increasing |
-| **Root** | ز-ي-د (`zyd`) |
-| **Form I** | زاد / يزيد |
+| **Root** | [ز-ي-د](#roots/zyd) |
+| **Form** | I · زاد / يزيد |
 
 ---
 
@@ -19,6 +19,31 @@
 
 ---
 
-## Overlap
+## Conjugation
 
-This verb also lives under **Roots → ز-ي-د**. Use the Roots / Ism tabs for the word family.
+Everyday Saudi / Najdi. Future uses **بـ**.
+
+| Pronoun | Past | Present | Future |
+|---------|------|---------|--------|
+| أنا | زادت | أزيد | بزيد |
+| إحنا | زادنا | نزيد | بنزيد |
+| أنت | زادت | تزيد | بتزيد |
+| أنتِ | زادتي | تزيدين | بتزيدين |
+| أنتم | زادتوا | تزيدون | بتزيدون |
+| هو | زاد | يزيد | بيزيد |
+| هي | زادت | تزيد | بتزيد |
+| هم | زادوا | يزيدون | بيزيدون |
+
+### Examples
+
+| Pronoun | Arabic · English |
+|---------|------------------|
+| أنا | زادت — I did (increasing) |
+| إحنا | نزيد — we do/does (increasing) |
+| أنت | بتزيد — you (m.) will (increasing) |
+| أنتِ | زادتي — you (f.) did (increasing) |
+| أنتم | تزيدون — you (pl.) do/does (increasing) |
+| هو | بيزيد — he will (increasing) |
+| هي | زادت — she did (increasing) |
+| هم | يزيدون — they do/does (increasing) |
+

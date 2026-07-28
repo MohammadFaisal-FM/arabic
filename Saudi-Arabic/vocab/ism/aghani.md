@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| أسمع أغاني — I listen to songs |
+| أسمع أغاني — I hear songs |
+| هذا أغاني — This is a songs |
+| أحب أغاني — I like songs |
+| وين أغاني؟ — Where is the songs? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

@@ -124,6 +124,7 @@
       "formI": "أخذ / ياخذ",
       "example": "أخذت المفتاح — I took the key",
       "file": "roots/akhd.md",
+      "forms": null,
       "filId": "akhd",
       "ismIds": []
     },
@@ -135,6 +136,7 @@
       "formI": "أكل / ياكل",
       "example": "أكلت رز — I ate rice",
       "file": "roots/akl.md",
+      "forms": null,
       "filId": "akl",
       "ismIds": [
         "akl-n"
@@ -148,6 +150,7 @@
       "formI": "أمر / يأمر",
       "example": "أمرني أسويها — He told me to do it",
       "file": "roots/amr.md",
+      "forms": null,
       "filId": "amr",
       "ismIds": []
     },
@@ -159,6 +162,7 @@
       "formI": "أتى / ياتي",
       "example": "متى تجي؟ — When are you coming?",
       "file": "roots/aty.md",
+      "forms": null,
       "filId": "aty",
       "ismIds": []
     },
@@ -170,6 +174,7 @@
       "formI": "بدأ / يبدأ",
       "example": "بدأت الدرس — I started the lesson",
       "file": "roots/bda.md",
+      "forms": null,
       "filId": "bda",
       "ismIds": []
     },
@@ -181,6 +186,7 @@
       "formI": "بحث / يبحث",
       "example": "أبحث عن عمل — I’m looking for work",
       "file": "roots/bhth.md",
+      "forms": null,
       "filId": "bhth",
       "ismIds": []
     },
@@ -192,6 +198,7 @@
       "formI": "باع / يبيع",
       "example": "بعت السيارة — I sold the car",
       "file": "roots/by3.md",
+      "forms": null,
       "filId": "by3",
       "ismIds": []
     },
@@ -203,6 +210,7 @@
       "formI": "بغى / يبغى",
       "example": "أبغى قهوة — I want coffee",
       "file": "roots/bghy.md",
+      "forms": null,
       "filId": "bghy",
       "ismIds": []
     },
@@ -214,6 +222,7 @@
       "formI": "بلغ / يبلغ",
       "example": "بلغني الخبر — The news reached me",
       "file": "roots/blgh.md",
+      "forms": null,
       "filId": "blgh",
       "ismIds": []
     },
@@ -225,6 +234,7 @@
       "formI": "ترك / يترك",
       "example": "تركت الجوال — I left the phone",
       "file": "roots/trk.md",
+      "forms": null,
       "filId": "trk",
       "ismIds": []
     },
@@ -236,6 +246,18 @@
       "formI": "تبع / يتبع",
       "example": "اتبعني — Follow me",
       "file": "roots/tb3.md",
+      "forms": [
+        {
+          "form": "I",
+          "verb": "تبع / يتبع"
+        },
+        {
+          "form": "VIII",
+          "verb": "اتّبع / يتّبع",
+          "note": "follow",
+          "filId": "tb3-viii"
+        }
+      ],
       "filId": "tb3",
       "ismIds": []
     },
@@ -247,6 +269,18 @@
       "formI": "تمّ / يتم",
       "example": "تمّ الشغل — The work is done",
       "file": "roots/tmm.md",
+      "forms": [
+        {
+          "form": "I",
+          "verb": "تمّ / يتم"
+        },
+        {
+          "form": "II",
+          "verb": "تمّم / يتمّم",
+          "note": "complete",
+          "filId": "tmm-ii"
+        }
+      ],
       "filId": "tmm",
       "ismIds": []
     },
@@ -258,6 +292,7 @@
       "formI": "ثبت / يثبت",
       "example": "ثبت الرقم — Save / confirm the number",
       "file": "roots/thbt.md",
+      "forms": null,
       "filId": "thbt",
       "ismIds": []
     },
@@ -269,6 +304,7 @@
       "formI": "ثقل / يثقل",
       "example": "الشغل ثقيل — The work is heavy",
       "file": "roots/thql.md",
+      "forms": null,
       "filId": "thql",
       "ismIds": []
     },
@@ -280,6 +316,7 @@
       "formI": "جلس / يجلس",
       "example": "اجلس هنا — Sit here",
       "file": "roots/jls.md",
+      "forms": null,
       "filId": "jls",
       "ismIds": []
     },
@@ -291,6 +328,7 @@
       "formI": "جا / يجي",
       "example": "بجي بعدين — I’ll come later",
       "file": "roots/jy.md",
+      "forms": null,
       "filId": "jy",
       "ismIds": []
     },
@@ -302,6 +340,7 @@
       "formI": "جمع / يجمع",
       "example": "جمعنا الفلوس — We collected the money",
       "file": "roots/jm3.md",
+      "forms": null,
       "filId": "jm3",
       "ismIds": []
     },
@@ -313,6 +352,12 @@
       "formI": "جرب / يجرب",
       "example": "جربت الأكل — I tried the food",
       "file": "roots/jrb.md",
+      "forms": [
+        {
+          "form": "II",
+          "verb": "جرّب / يجرّب"
+        }
+      ],
       "filId": "jrb",
       "ismIds": []
     },
@@ -324,6 +369,7 @@
       "formI": "جرى / يجري",
       "example": "يجري بسرعة — He runs fast",
       "file": "roots/jry.md",
+      "forms": null,
       "filId": "jry",
       "ismIds": []
     },
@@ -335,6 +381,7 @@
       "formI": "حبّ / يحب",
       "example": "أحب القهوة — I love coffee",
       "file": "roots/hbb.md",
+      "forms": null,
       "filId": "hbb",
       "ismIds": [
         "7ub"
@@ -348,6 +395,7 @@
       "formI": "حصل / يحصل",
       "example": "وش حصل؟ — What happened?",
       "file": "roots/hsil.md",
+      "forms": null,
       "filId": "hsil",
       "ismIds": []
     },
@@ -359,6 +407,7 @@
       "formI": "حفظ / يحفظ",
       "example": "حفظت الدرس — I memorized the lesson",
       "file": "roots/hfz.md",
+      "forms": null,
       "filId": "hfz",
       "ismIds": []
     },
@@ -370,6 +419,7 @@
       "formI": "حطّ / يحط",
       "example": "حطها هنا — Put it here",
       "file": "roots/htt.md",
+      "forms": null,
       "filId": "htt",
       "ismIds": []
     },
@@ -381,6 +431,18 @@
       "formI": "حضر / يحضر",
       "example": "حضرت الاجتماع — I attended the meeting",
       "file": "roots/hdr.md",
+      "forms": [
+        {
+          "form": "I",
+          "verb": "حضر / يحضر"
+        },
+        {
+          "form": "II",
+          "verb": "حضّر / يحضّر",
+          "note": "prepare",
+          "filId": "hdr-ii"
+        }
+      ],
       "filId": "hdr",
       "ismIds": []
     },
@@ -392,6 +454,7 @@
       "formI": "حكى / يحكي",
       "example": "احكي لي — Tell me",
       "file": "roots/hky.md",
+      "forms": null,
       "filId": "hky",
       "ismIds": []
     },
@@ -403,6 +466,7 @@
       "formI": "حمل / يحمل",
       "example": "احمل الشنطة — Carry the bag",
       "file": "roots/hml.md",
+      "forms": null,
       "filId": "hml",
       "ismIds": []
     },
@@ -414,6 +478,12 @@
       "formI": "خرج / يخرج",
       "example": "خرجت من البيت — I left the house",
       "file": "roots/khrj.md",
+      "forms": [
+        {
+          "form": "I",
+          "verb": "خرج / يخرج"
+        }
+      ],
       "filId": "khrj",
       "ismIds": []
     },
@@ -425,6 +495,7 @@
       "formI": "خاف / يخاف",
       "example": "ما أخاف — I’m not afraid",
       "file": "roots/khaf.md",
+      "forms": null,
       "filId": "khaf",
       "ismIds": [
         "khawf"
@@ -438,6 +509,7 @@
       "formI": "خدم / يخدم",
       "example": "يخدم الزباين — He serves customers",
       "file": "roots/khdm.md",
+      "forms": null,
       "filId": "khdm",
       "ismIds": []
     },
@@ -449,6 +521,7 @@
       "formI": "خلص / يخلص",
       "example": "خلصت الشغل — I finished the work",
       "file": "roots/khlS.md",
+      "forms": null,
       "filId": "khlS",
       "ismIds": []
     },
@@ -460,6 +533,12 @@
       "formI": "دخل / يدخل",
       "example": "ادخل — Come in",
       "file": "roots/dkhl.md",
+      "forms": [
+        {
+          "form": "I",
+          "verb": "دخل / يدخل"
+        }
+      ],
       "filId": "dkhl",
       "ismIds": []
     },
@@ -471,6 +550,18 @@
       "formI": "درس / يدرس",
       "example": "أدرس عربي — I study Arabic",
       "file": "roots/drs.md",
+      "forms": [
+        {
+          "form": "I",
+          "verb": "درس / يدرس"
+        },
+        {
+          "form": "II",
+          "verb": "درّس / يدرّس",
+          "note": "teach",
+          "filId": "drs-ii"
+        }
+      ],
       "filId": "drs",
       "ismIds": [
         "dars",
@@ -485,6 +576,7 @@
       "formI": "دفع / يدفع",
       "example": "دفعت الحساب — I paid the bill",
       "file": "roots/df3.md",
+      "forms": null,
       "filId": "df3",
       "ismIds": [
         "hisab"
@@ -498,6 +590,7 @@
       "formI": "دار / يدور",
       "example": "أدور على مفتاح — I’m looking for a key",
       "file": "roots/dwr.md",
+      "forms": null,
       "filId": "dwr",
       "ismIds": []
     },
@@ -509,6 +602,7 @@
       "formI": "ذهب / يذهب",
       "example": "وين تروح؟ — Where are you going?",
       "file": "roots/dhhb.md",
+      "forms": null,
       "filId": "dhhb",
       "ismIds": []
     },
@@ -520,6 +614,7 @@
       "formI": "ذكر / يذكر",
       "example": "تذكرت اسمه — I remembered his name",
       "file": "roots/dhkr.md",
+      "forms": null,
       "filId": "dhkr",
       "ismIds": []
     },
@@ -531,6 +626,7 @@
       "formI": "رجع / يرجع",
       "example": "برجع بعدين — I’ll come back later",
       "file": "roots/rj3.md",
+      "forms": null,
       "filId": "rj3",
       "ismIds": []
     },
@@ -542,6 +638,7 @@
       "formI": "راح / يروح",
       "example": "أروح السوق — I’m going to the market",
       "file": "roots/rah.md",
+      "forms": null,
       "filId": "rah",
       "ismIds": []
     },
@@ -553,6 +650,7 @@
       "formI": "رأى / يرى",
       "example": "شفتك أمس — I saw you yesterday",
       "file": "roots/ray.md",
+      "forms": null,
       "filId": "ray",
       "ismIds": [
         "ray-n"
@@ -566,6 +664,7 @@
       "formI": "ركب / يركب",
       "example": "ركب السيارة — He got in the car",
       "file": "roots/rkb.md",
+      "forms": null,
       "filId": "rkb",
       "ismIds": []
     },
@@ -577,6 +676,12 @@
       "formI": "ردّ / يرد",
       "example": "رد عليّ — Reply to me",
       "file": "roots/rdd.md",
+      "forms": [
+        {
+          "form": "I",
+          "verb": "ردّ / يرد"
+        }
+      ],
       "filId": "rdd",
       "ismIds": []
     },
@@ -588,6 +693,7 @@
       "formI": "رغب / يرغب",
       "example": "أرغب في القهوة — I’d like coffee",
       "file": "roots/rgb.md",
+      "forms": null,
       "filId": "rgb",
       "ismIds": []
     },
@@ -599,6 +705,7 @@
       "formI": "زار / يزور",
       "example": "بزور أهلي — I’ll visit my family",
       "file": "roots/zwr.md",
+      "forms": null,
       "filId": "zwr",
       "ismIds": []
     },
@@ -610,6 +717,7 @@
       "formI": "زاد / يزيد",
       "example": "زاد السعر — The price went up",
       "file": "roots/zyd.md",
+      "forms": null,
       "filId": "zyd",
       "ismIds": []
     },
@@ -621,6 +729,7 @@
       "formI": "سأل / يسأل",
       "example": "أسألك سؤال — Can I ask you something?",
       "file": "roots/sal.md",
+      "forms": null,
       "filId": "sal",
       "ismIds": [
         "suwal"
@@ -634,6 +743,13 @@
       "formI": "سوى / يسوي",
       "example": "وش تسوي؟ — What are you doing?",
       "file": "roots/swy.md",
+      "forms": [
+        {
+          "form": "II",
+          "verb": "سوى / يسوي",
+          "note": "do / make (Najdi main)"
+        }
+      ],
       "filId": "swy",
       "ismIds": []
     },
@@ -645,6 +761,7 @@
       "formI": "سمع / يسمع",
       "example": "سمعتك — I heard you",
       "file": "roots/sm3.md",
+      "forms": null,
       "filId": "sm3",
       "ismIds": []
     },
@@ -656,6 +773,7 @@
       "formI": "سكن / يسكن",
       "example": "أسكن في الرياض — I live in Riyadh",
       "file": "roots/skn.md",
+      "forms": null,
       "filId": "skn",
       "ismIds": []
     },
@@ -667,6 +785,7 @@
       "formI": "سار / يسير",
       "example": "سر معي — Walk with me",
       "file": "roots/syr.md",
+      "forms": null,
       "filId": "syr",
       "ismIds": []
     },
@@ -678,6 +797,7 @@
       "formI": "سقط / يسقط",
       "example": "سقط الجوال — The phone fell",
       "file": "roots/sqT.md",
+      "forms": null,
       "filId": "sqT",
       "ismIds": []
     },
@@ -689,6 +809,7 @@
       "formI": "شاف / يشوف",
       "example": "أشوفك بكرة — I’ll see you tomorrow",
       "file": "roots/shaf.md",
+      "forms": null,
       "filId": "shaf",
       "ismIds": []
     },
@@ -700,6 +821,7 @@
       "formI": "شرب / يشرب",
       "example": "أشرب شاهي — I drink tea",
       "file": "roots/shrb.md",
+      "forms": null,
       "filId": "shrb",
       "ismIds": [
         "shurb"
@@ -713,6 +835,18 @@
       "formI": "شغل / يشغل",
       "example": "وين تشتغل؟ — Where do you work?",
       "file": "roots/shghl.md",
+      "forms": [
+        {
+          "form": "I",
+          "verb": "شغل / يشغل"
+        },
+        {
+          "form": "VIII",
+          "verb": "اشتغل / يشتغل",
+          "note": "work (very common)",
+          "filId": "shghl-viii"
+        }
+      ],
       "filId": "shghl",
       "ismIds": [
         "shoghl"
@@ -726,6 +860,7 @@
       "formI": "شرى / يشري",
       "example": "شريت أكل — I bought food",
       "file": "roots/shry.md",
+      "forms": null,
       "filId": "shry",
       "ismIds": []
     },
@@ -737,6 +872,7 @@
       "formI": "شكّ / يشك",
       "example": "ما أشك — I don’t doubt",
       "file": "roots/shkk.md",
+      "forms": null,
       "filId": "shkk",
       "ismIds": []
     },
@@ -748,6 +884,7 @@
       "formI": "صار / يصير",
       "example": "صار الليل — It became night",
       "file": "roots/sar.md",
+      "forms": null,
       "filId": "sar",
       "ismIds": []
     },
@@ -759,6 +896,7 @@
       "formI": "صبر / يصبر",
       "example": "اصبر شوي — Be patient a bit",
       "file": "roots/sbr.md",
+      "forms": null,
       "filId": "sbr",
       "ismIds": []
     },
@@ -770,6 +908,7 @@
       "formI": "صلح / يصلح",
       "example": "يصلح الجوال — He fixes phones",
       "file": "roots/slh.md",
+      "forms": null,
       "filId": "slh",
       "ismIds": []
     },
@@ -781,6 +920,7 @@
       "formI": "صبح / يصبح",
       "example": "صباح الخير — Good morning",
       "file": "roots/sbh.md",
+      "forms": null,
       "filId": "sbh",
       "ismIds": [
         "sabah"
@@ -794,6 +934,7 @@
       "formI": "ضرب / يضرب",
       "example": "لا تضرب — Don’t hit",
       "file": "roots/drb.md",
+      "forms": null,
       "filId": "drb",
       "ismIds": []
     },
@@ -805,6 +946,7 @@
       "formI": "ضاق / يضيق",
       "example": "ضاق صدري — I feel upset",
       "file": "roots/dyq.md",
+      "forms": null,
       "filId": "dyq",
       "ismIds": []
     },
@@ -816,6 +958,7 @@
       "formI": "ضحك / يضحك",
       "example": "يضحك كثير — He laughs a lot",
       "file": "roots/dHk.md",
+      "forms": null,
       "filId": "dHk",
       "ismIds": []
     },
@@ -827,6 +970,7 @@
       "formI": "طلع / يطلع",
       "example": "طلعت برا — I went outside",
       "file": "roots/tl3.md",
+      "forms": null,
       "filId": "tl3",
       "ismIds": []
     },
@@ -838,6 +982,7 @@
       "formI": "طلب / يطلب",
       "example": "طلبت قهوة — I ordered coffee",
       "file": "roots/tlb.md",
+      "forms": null,
       "filId": "tlb",
       "ismIds": [
         "talib"
@@ -851,6 +996,7 @@
       "formI": "طبخ / يطبخ",
       "example": "أطبخ اليوم — I’m cooking today",
       "file": "roots/tbkh.md",
+      "forms": null,
       "filId": "tbkh",
       "ismIds": [
         "matbakh",
@@ -865,6 +1011,7 @@
       "formI": "طول / يطول",
       "example": "لا تطول — Don’t take long",
       "file": "roots/twl.md",
+      "forms": null,
       "filId": "twl",
       "ismIds": []
     },
@@ -876,6 +1023,7 @@
       "formI": "ظنّ / يظن",
       "example": "أظن كذا — I think so",
       "file": "roots/znn.md",
+      "forms": null,
       "filId": "znn",
       "ismIds": []
     },
@@ -887,6 +1035,7 @@
       "formI": "ظهر / يظهر",
       "example": "ظهر الحل — The solution appeared",
       "file": "roots/zhr.md",
+      "forms": null,
       "filId": "zhr",
       "ismIds": []
     },
@@ -898,6 +1047,12 @@
       "formI": "عرف / يعرف",
       "example": "أعرف الطريق — I know the way",
       "file": "roots/3rf.md",
+      "forms": [
+        {
+          "form": "I",
+          "verb": "عرف / يعرف"
+        }
+      ],
       "filId": "3rf",
       "ismIds": []
     },
@@ -909,6 +1064,7 @@
       "formI": "عمل / يعمل",
       "example": "وش تشتغل؟ — What do you do?",
       "file": "roots/3ml.md",
+      "forms": null,
       "filId": "3ml",
       "ismIds": [
         "amal"
@@ -922,6 +1078,7 @@
       "formI": "عاش / يعيش",
       "example": "أعيش هنا — I live here",
       "file": "roots/3ysh.md",
+      "forms": null,
       "filId": "3ysh",
       "ismIds": []
     },
@@ -933,6 +1090,7 @@
       "formI": "عطى / يعطي",
       "example": "أعطني جوالك — Give me your phone",
       "file": "roots/3ty.md",
+      "forms": null,
       "filId": "3ty",
       "ismIds": []
     },
@@ -944,6 +1102,7 @@
       "formI": "عدّ / يعد",
       "example": "عدّ الفلوس — Count the money",
       "file": "roots/3dd.md",
+      "forms": null,
       "filId": "3dd",
       "ismIds": []
     },
@@ -955,6 +1114,25 @@
       "formI": "علم / يعلم",
       "example": "تعلّم عربي — Learn Arabic",
       "file": "roots/3lm.md",
+      "forms": [
+        {
+          "form": "I",
+          "verb": "علم / يعلم",
+          "note": "know (less used than يعرف)"
+        },
+        {
+          "form": "II",
+          "verb": "علّم / يعلّم",
+          "note": "teach",
+          "filId": "3lm-ii"
+        },
+        {
+          "form": "V",
+          "verb": "تعلّم / يتعلّم",
+          "note": "learn",
+          "filId": "3lm-v"
+        }
+      ],
       "filId": "3lm",
       "ismIds": []
     },
@@ -966,6 +1144,7 @@
       "formI": "غسل / يغسل",
       "example": "اغسل يدك — Wash your hands",
       "file": "roots/ghsl.md",
+      "forms": null,
       "filId": "ghsl",
       "ismIds": []
     },
@@ -977,6 +1156,7 @@
       "formI": "غاب / يغيب",
       "example": "غاب عن الدرس — He missed the lesson",
       "file": "roots/ghyb.md",
+      "forms": null,
       "filId": "ghyb",
       "ismIds": []
     },
@@ -988,6 +1168,18 @@
       "formI": "غيّر / يغيّر",
       "example": "غيّر رأيك — Change your mind",
       "file": "roots/ghyr.md",
+      "forms": [
+        {
+          "form": "II",
+          "verb": "غيّر / يغيّر"
+        },
+        {
+          "form": "V",
+          "verb": "تغيّر / يتغيّر",
+          "note": "change (intransitive)",
+          "filId": "ghyr-v"
+        }
+      ],
       "filId": "ghyr",
       "ismIds": []
     },
@@ -999,6 +1191,7 @@
       "formI": "فتح / يفتح",
       "example": "افتح الباب — Open the door",
       "file": "roots/fth.md",
+      "forms": null,
       "filId": "fth",
       "ismIds": [
         "miftah"
@@ -1012,6 +1205,18 @@
       "formI": "فهم / يفهم",
       "example": "فهمت؟ — Did you understand?",
       "file": "roots/fhm.md",
+      "forms": [
+        {
+          "form": "I",
+          "verb": "فهم / يفهم"
+        },
+        {
+          "form": "II",
+          "verb": "فهّم / يفهّم",
+          "note": "make understand",
+          "filId": "fhm-ii"
+        }
+      ],
       "filId": "fhm",
       "ismIds": []
     },
@@ -1023,6 +1228,12 @@
       "formI": "فكّر / يفكّر",
       "example": "خلني أفكر — Let me think",
       "file": "roots/fkr.md",
+      "forms": [
+        {
+          "form": "II",
+          "verb": "فكّر / يفكّر"
+        }
+      ],
       "filId": "fkr",
       "ismIds": [
         "fikra"
@@ -1036,6 +1247,7 @@
       "formI": "فعل / يفعل",
       "example": "وش أسوي؟ — What should I do?",
       "file": "roots/f3l.md",
+      "forms": null,
       "filId": "f3l",
       "ismIds": [
         "fil-n"
@@ -1049,6 +1261,7 @@
       "formI": "فقد / يفقد",
       "example": "فقدت المفتاح — I lost the key",
       "file": "roots/fqd.md",
+      "forms": null,
       "filId": "fqd",
       "ismIds": []
     },
@@ -1060,6 +1273,7 @@
       "formI": "قال / يقول",
       "example": "وش قلت؟ — What did you say?",
       "file": "roots/qwl.md",
+      "forms": null,
       "filId": "qwl",
       "ismIds": []
     },
@@ -1071,6 +1285,7 @@
       "formI": "قرأ / يقرأ",
       "example": "أقرأ كتاب — I’m reading a book",
       "file": "roots/qra.md",
+      "forms": null,
       "filId": "qra",
       "ismIds": []
     },
@@ -1082,6 +1297,12 @@
       "formI": "قام / يقوم",
       "example": "قوم — Get up",
       "file": "roots/qwm.md",
+      "forms": [
+        {
+          "form": "I",
+          "verb": "قام / يقوم"
+        }
+      ],
       "filId": "qwm",
       "ismIds": []
     },
@@ -1093,6 +1314,7 @@
       "formI": "قدر / يقدر",
       "example": "أقدر أجي — I can come",
       "file": "roots/qdr.md",
+      "forms": null,
       "filId": "qdr",
       "ismIds": []
     },
@@ -1104,6 +1326,7 @@
       "formI": "قطع / يقطع",
       "example": "قطع الخط — The line cut off",
       "file": "roots/qt3.md",
+      "forms": null,
       "filId": "qt3",
       "ismIds": []
     },
@@ -1115,6 +1338,7 @@
       "formI": "قرب / يقرب",
       "example": "قرب مني — Come closer",
       "file": "roots/qrb.md",
+      "forms": null,
       "filId": "qrb",
       "ismIds": []
     },
@@ -1126,10 +1350,22 @@
       "formI": "كتب / يكتب",
       "example": "أكتب رسالة — I’m writing a letter",
       "file": "roots/ktb.md",
+      "forms": [
+        {
+          "form": "I",
+          "verb": "كتب / يكتب"
+        },
+        {
+          "form": "II",
+          "verb": "كتّب / يكتّب",
+          "note": "make write / dictate",
+          "filId": "ktb-ii"
+        }
+      ],
       "filId": "ktb",
       "ismIds": [
-        "kitab",
         "katib",
+        "kitab",
         "kitaba",
         "maktab",
         "maktaba",
@@ -1144,6 +1380,7 @@
       "formI": "كان / يكون",
       "example": "كان هنا — He was here",
       "file": "roots/kwn.md",
+      "forms": null,
       "filId": "kwn",
       "ismIds": []
     },
@@ -1155,6 +1392,19 @@
       "formI": "كلّم / يكلّم",
       "example": "كلّمني بعدين — Call / talk to me later",
       "file": "roots/klm.md",
+      "forms": [
+        {
+          "form": "II",
+          "verb": "كلّم / يكلّم",
+          "note": "talk to (main in speech)"
+        },
+        {
+          "form": "V",
+          "verb": "تكلّم / يتكلّم",
+          "note": "speak",
+          "filId": "klm-v"
+        }
+      ],
       "filId": "klm",
       "ismIds": [
         "kalam",
@@ -1169,6 +1419,7 @@
       "formI": "كسر / يكسر",
       "example": "انكسر الجوال — The phone broke",
       "file": "roots/ksr.md",
+      "forms": null,
       "filId": "ksr",
       "ismIds": []
     },
@@ -1180,6 +1431,7 @@
       "formI": "كبر / يكبر",
       "example": "كبر الولد — The boy grew up",
       "file": "roots/kbr.md",
+      "forms": null,
       "filId": "kbr",
       "ismIds": []
     },
@@ -1191,6 +1443,7 @@
       "formI": "لعب / يلعب",
       "example": "يلعب كورة — He plays football",
       "file": "roots/l3b.md",
+      "forms": null,
       "filId": "l3b",
       "ismIds": [
         "koora"
@@ -1204,6 +1457,7 @@
       "formI": "لقى / يلقى",
       "example": "لقيت المفتاح — I found the key",
       "file": "roots/lqy.md",
+      "forms": null,
       "filId": "lqy",
       "ismIds": []
     },
@@ -1215,6 +1469,7 @@
       "formI": "لبس / يلبس",
       "example": "وش تلبس؟ — What are you wearing?",
       "file": "roots/lbs.md",
+      "forms": null,
       "filId": "lbs",
       "ismIds": []
     },
@@ -1226,6 +1481,7 @@
       "formI": "لزم / يلزم",
       "example": "لازم أروح — I must go",
       "file": "roots/lzm.md",
+      "forms": null,
       "filId": "lzm",
       "ismIds": []
     },
@@ -1237,6 +1493,7 @@
       "formI": "مشى / يمشي",
       "example": "أمشي كل يوم — I walk every day",
       "file": "roots/mshy.md",
+      "forms": null,
       "filId": "mshy",
       "ismIds": []
     },
@@ -1248,6 +1505,7 @@
       "formI": "مسك / يمسك",
       "example": "امسك هذي — Hold this",
       "file": "roots/msk.md",
+      "forms": null,
       "filId": "msk",
       "ismIds": []
     },
@@ -1259,6 +1517,7 @@
       "formI": "مرّ / يمر",
       "example": "مرّيت من عندك — I passed by you",
       "file": "roots/mrr.md",
+      "forms": null,
       "filId": "mrr",
       "ismIds": []
     },
@@ -1270,6 +1529,7 @@
       "formI": "مات / يموت",
       "example": "مات البطارية — The battery died",
       "file": "roots/mwt.md",
+      "forms": null,
       "filId": "mwt",
       "ismIds": []
     },
@@ -1281,6 +1541,7 @@
       "formI": "ملك / يملك",
       "example": "أملك سيارة — I own a car",
       "file": "roots/mlk.md",
+      "forms": null,
       "filId": "mlk",
       "ismIds": []
     },
@@ -1292,6 +1553,7 @@
       "formI": "نام / ينام",
       "example": "أنام بدري — I sleep early",
       "file": "roots/nam.md",
+      "forms": null,
       "filId": "nam",
       "ismIds": []
     },
@@ -1303,6 +1565,7 @@
       "formI": "نزل / ينزل",
       "example": "نزلت من السيارة — I got out of the car",
       "file": "roots/nzl.md",
+      "forms": null,
       "filId": "nzl",
       "ismIds": []
     },
@@ -1314,6 +1577,7 @@
       "formI": "نظر / ينظر",
       "example": "انظر هنا — Look here",
       "file": "roots/nzr.md",
+      "forms": null,
       "filId": "nzr",
       "ismIds": []
     },
@@ -1325,6 +1589,7 @@
       "formI": "نسي / ينسى",
       "example": "نسيت اسمه — I forgot his name",
       "file": "roots/nsy.md",
+      "forms": null,
       "filId": "nsy",
       "ismIds": []
     },
@@ -1336,6 +1601,12 @@
       "formI": "نقل / ينقل",
       "example": "نقلت البيت — I moved house",
       "file": "roots/nql.md",
+      "forms": [
+        {
+          "form": "I",
+          "verb": "نقل / ينقل"
+        }
+      ],
       "filId": "nql",
       "ismIds": []
     },
@@ -1347,6 +1618,7 @@
       "formI": "هرب / يهرب",
       "example": "هرب الكلب — The dog ran away",
       "file": "roots/hrb.md",
+      "forms": null,
       "filId": "hrb",
       "ismIds": []
     },
@@ -1358,6 +1630,7 @@
       "formI": "همّ / يهم",
       "example": "يهمني الأمر — This matters to me",
       "file": "roots/hmm.md",
+      "forms": null,
       "filId": "hmm",
       "ismIds": []
     },
@@ -1369,6 +1642,7 @@
       "formI": "هدى / يهدي",
       "example": "اهدأ شوي — Calm down a bit",
       "file": "roots/hdy.md",
+      "forms": null,
       "filId": "hdy",
       "ismIds": []
     },
@@ -1380,6 +1654,18 @@
       "formI": "وصل / يوصل",
       "example": "وصلت البيت — I arrived home",
       "file": "roots/wsl.md",
+      "forms": [
+        {
+          "form": "I",
+          "verb": "وصل / يوصل"
+        },
+        {
+          "form": "II",
+          "verb": "وصّل / يوصّل",
+          "note": "deliver / connect",
+          "filId": "wsl-ii"
+        }
+      ],
       "filId": "wsl",
       "ismIds": []
     },
@@ -1391,6 +1677,7 @@
       "formI": "وقف / يوقف",
       "example": "وقف هنا — Stop here",
       "file": "roots/wqf.md",
+      "forms": null,
       "filId": "wqf",
       "ismIds": []
     },
@@ -1402,6 +1689,7 @@
       "formI": "وضع / يوضع",
       "example": "حطها / ضعها هنا — Put it here",
       "file": "roots/wd3.md",
+      "forms": null,
       "filId": "wd3",
       "ismIds": []
     },
@@ -1413,6 +1701,7 @@
       "formI": "وجد / يوجد",
       "example": "لقيت / ما فيه — I found it / there isn’t",
       "file": "roots/wjd.md",
+      "forms": null,
       "filId": "wjd",
       "ismIds": []
     },
@@ -1424,6 +1713,7 @@
       "formI": "ولد / يولد",
       "example": "ولد في الرياض — He was born in Riyadh",
       "file": "roots/wld.md",
+      "forms": null,
       "filId": "wld",
       "ismIds": [
         "walad"
@@ -1437,6 +1727,7 @@
       "formI": "وسع / يوسع",
       "example": "المكان واسع — The place is spacious",
       "file": "roots/ws3.md",
+      "forms": null,
       "filId": "ws3",
       "ismIds": []
     },
@@ -1448,6 +1739,7 @@
       "formI": "يسر / ييسر",
       "example": "الله ييسّر — May God make it easy",
       "file": "roots/ysr.md",
+      "forms": null,
       "filId": "ysr",
       "ismIds": []
     },
@@ -1459,6 +1751,7 @@
       "formI": "يبس / ييبس",
       "example": "يبس الغسيل — The laundry dried",
       "file": "roots/ybs.md",
+      "forms": null,
       "filId": "ybs",
       "ismIds": []
     }

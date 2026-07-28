@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ب-ل-غ |
-| **Letter** | ب · باء |
 | **Meaning** | reaching / informing |
-| **Form I** | بلغ / يبلغ |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **بلغ / يبلغ**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | بلغ / يبلغ | [Open](#fil/blgh) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | بلغ | reaching / informing | `#fil/blgh` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

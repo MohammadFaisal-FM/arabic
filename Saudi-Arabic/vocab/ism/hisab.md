@@ -6,7 +6,7 @@
 | **Subtype** | noun |
 | **Arabic** | حساب |
 | **Meaning** | bill / account |
-| **Root** | د-ف-ع (`df3`) |
+| **Root** | [د-ف-ع](#roots/df3) |
 
 ---
 
@@ -14,10 +14,16 @@
 
 | Arabic · English |
 |------------------|
-| دفعت الحساب — I paid the bill |
+| دفعت الحساب — I paid the account |
+| هذا حساب — This is a bill |
+| أحب حساب — I like bill |
+| وين حساب؟ — Where is the bill? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → د-ف-ع** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [د-ف-ع](#roots/df3) |
+| **Fiʿl** | [دفع / يدفع](#fil/df3) |
+

@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | خ-و-ف |
-| **Letter** | خ · خاء |
 | **Meaning** | fearing |
-| **Form I** | خاف / يخاف |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **خاف / يخاف**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | خاف / يخاف | [Open](#fil/khaf) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | خاف | fearing | `#fil/khaf` |
-| اسم | خوف | fear | `#ism/khawf` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم · ism (noun) | خوف | ما في خوف — There is no fear |
 

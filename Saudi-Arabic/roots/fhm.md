@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ف-ه-م |
-| **Letter** | ف · فاء |
 | **Meaning** | understanding |
-| **Form I** | فهم / يفهم |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,16 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **فهم / يفهم**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | فهم / يفهم | [Open](#fil/fhm) |
+| II | فهّم / يفهّم · make understand | [Open](#fil/fhm-ii) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | فهم | understanding | `#fil/fhm` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

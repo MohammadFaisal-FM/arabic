@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { conjugationSection } from './conjugate.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.resolve(__dirname, '../..');
@@ -74,6 +75,18 @@ function lettersMeta() {
   return LETTER_ORDER.map((letter) => ({ letter, name: LETTER_NAMES[letter] }));
 }
 
+function formatExampleBilingual(arabicExample, englishExample) {
+  const ar = (arabicExample || '').trim();
+  const en = (englishExample || '').trim();
+  if (!ar && !en) return '—';
+  if (ar && en) return `${ar} — ${en}`;
+  return ar || en;
+}
+
+function escapeTableCell(text) {
+  return (text || '').replace(/\|/g, '\\|');
+}
+
 // --- load sources ---
 const rootsSource = JSON.parse(
   fs.readFileSync(path.join(rootsDir, 'roots-source.json'), 'utf8')
@@ -83,27 +96,53 @@ const harfSource = JSON.parse(fs.readFileSync(path.join(vocabDir, 'harf-source.j
 
 const rootById = new Map(rootsSource.roots.map((r) => [r.id, r]));
 
-// --- Fiʿl from roots ---
+// --- Fiʿl from roots (one page per everyday form / وزن) ---
 const filDir = path.join(vocabDir, 'fil');
 ensureDir(filDir);
 clearGeneratedMd(filDir);
 
-const filItems = rootsSource.roots.map((root) => {
-  const [past, present] = root.formI.split(/\s*\/\s*/).map((s) => s.trim());
-  const id = root.id;
-  const arabic = past;
-  const letter = firstLetterFromArabic(arabic);
-  const file = `vocab/fil/${id}.md`;
-  const md = `# ${arabic}
+function formsForRoot(root) {
+  if (Array.isArray(root.forms) && root.forms.length > 0) {
+    return root.forms.map((f) => ({
+      form: String(f.form),
+      verb: f.verb,
+      note: f.note ?? '',
+      filId: f.filId ?? root.id,
+    }));
+  }
+  return [{ form: 'I', verb: root.formI, note: '', filId: root.id }];
+}
+
+const filItems = [];
+const seenFilIds = new Set();
+
+for (const root of rootsSource.roots) {
+  for (const form of formsForRoot(root)) {
+    if (seenFilIds.has(form.filId)) continue;
+    seenFilIds.add(form.filId);
+
+    const [past, present] = form.verb.split(/\s*\/\s*/).map((s) => s.trim());
+    const id = form.filId;
+    const arabic = past;
+    const letter = firstLetterFromArabic(arabic);
+    const file = `vocab/fil/${id}.md`;
+    const meaning = form.note
+      ? `${root.meaning} · ${form.note}`
+      : root.meaning;
+    const example =
+      id === root.id
+        ? root.example
+        : `${past} — Form ${form.form} of ${root.root}`;
+    const md = `# ${arabic}
 
 | Field | Value |
 |-------|-------|
 | **Type** | فعل · fiʿl (verb) |
 | **Arabic** | ${arabic} |
 | **Present** | ${present ?? '—'} |
-| **Meaning** | ${root.meaning} |
-| **Root** | ${root.root} (\`${root.id}\`) |
-| **Form I** | ${root.formI} |
+| **Meaning** | ${meaning} |
+| **Root** | [${root.root}](#roots/${root.id}) |
+| **Form** | ${form.form} · ${form.verb} |
 
 ---
 
@@ -111,38 +150,115 @@ const filItems = rootsSource.roots.map((root) => {
 
 | Arabic · English |
 |------------------|
-| ${root.example} |
+| ${example} |
 
 ---
 
-## Overlap
-
-This verb also lives under **Roots → ${root.root}**. Use the Roots / Ism tabs for the word family.
+${conjugationSection(past, present ?? '', meaning)}
 `;
-  fs.writeFileSync(path.join(filDir, `${id}.md`), md, 'utf8');
-  return {
-    id,
-    arabic,
-    past,
-    present: present ?? '',
-    meaning: root.meaning,
-    letter,
-    rootId: root.id,
-    root: root.root,
-    formI: root.formI,
-    example: root.example,
-    file,
-  };
-});
+    fs.writeFileSync(path.join(filDir, `${id}.md`), md, 'utf8');
+    filItems.push({
+      id,
+      arabic,
+      past,
+      present: present ?? '',
+      meaning,
+      letter,
+      rootId: root.id,
+      root: root.root,
+      form: form.form,
+      formI: form.verb,
+      example,
+      file,
+    });
+  }
+}
 
 writeManifest('fil-manifest.json', {
   title: 'Fiʿl — Verbs',
   description:
-    'Everyday verbs (fiʿl). Overlaps with Roots: each verb belongs to a root family.',
+    'Everyday verbs (fiʿl) by وزن (form). Overlaps with Roots: each verb belongs to a root family.',
   kind: 'fil',
   letters: lettersMeta(),
   items: filItems,
 });
+
+const filByRootId = new Map();
+for (const fil of filItems) {
+  if (!filByRootId.has(fil.rootId)) filByRootId.set(fil.rootId, fil);
+}
+
+function ismGloss(meaning) {
+  return (meaning || 'it').split(/[,/·]/)[0].trim().toLowerCase();
+}
+
+function ismExampleEntries(item) {
+  const rows = [];
+  const seen = new Set();
+  const push = (ar, en) => {
+    const a = (ar || '').trim();
+    if (!a || seen.has(a)) return;
+    seen.add(a);
+    rows.push({ ar: a, en: (en || '').trim() });
+  };
+
+  if (Array.isArray(item.examples)) {
+    for (const ex of item.examples) {
+      if (typeof ex === 'string') push(ex, '');
+      else push(ex.ar, ex.en);
+    }
+  }
+
+  push(item.example, item.exampleEn);
+
+  const word = (item.arabic || '').trim();
+  const gloss = ismGloss(item.meaning);
+  const primary = (item.example || '').trim();
+  const isShort = primary.length < 40 && primary.split(/\s+/).length <= 5;
+
+  if (isShort && word) {
+    push(`هذا ${word}`, `This is a ${gloss}`);
+    push(`أحب ${word}`, `I like ${gloss}`);
+    push(`وين ${word}؟`, `Where is the ${gloss}?`);
+  }
+
+  return rows.slice(0, 4);
+}
+
+function ismExampleSection(item) {
+  const entries = ismExampleEntries(item);
+  const rows =
+    entries.length > 0
+      ? entries
+          .map((ex) => {
+            const cell = formatExampleBilingual(ex.ar, ex.en);
+            return `| ${escapeTableCell(cell)} |`;
+          })
+          .join('\n')
+      : '| — |';
+
+  return `## Example
+
+| Arabic · English |
+|------------------|
+${rows}
+`;
+}
+
+function ismLinksSection(item, root, fil) {
+  if (!item.rootId || !root) return '';
+  const filCell = fil
+    ? `[${fil.arabic} / ${fil.present}](#fil/${fil.id})`
+    : `[Open](#fil/${item.rootId})`;
+  return `
+### Links
+
+| | |
+|-|-|
+| **Root** | [${root.root}](#roots/${root.id}) |
+| **Fiʿl** | ${filCell} |
+`;
+}
 
 // --- Ism ---
 const ismDir = path.join(vocabDir, 'ism');
@@ -152,6 +268,7 @@ clearGeneratedMd(ismDir);
 const ismItems = ismSource.items.map((item) => {
   const letter = firstLetterFromArabic(item.arabic);
   const root = item.rootId ? rootById.get(item.rootId) : null;
+  const fil = item.rootId ? filByRootId.get(item.rootId) : null;
   const file = `vocab/ism/${item.id}.md`;
   const subtype = item.subtype ?? 'noun';
   const md = `# ${item.arabic}
@@ -162,27 +279,12 @@ const ismItems = ismSource.items.map((item) => {
 | **Subtype** | ${subtype} |
 | **Arabic** | ${item.arabic} |
 | **Meaning** | ${item.meaning} |
-| **Root** | ${root ? `${root.root} (\`${root.id}\`)` : '— (loan / no everyday root)'} |
+| **Root** | ${root ? `[${root.root}](#roots/${item.rootId})` : '— (loan / no everyday root)'} |
 
 ---
 
-## Example
-
-| Arabic · English |
-|------------------|
-| ${item.example} |
-
----
-
-## Notes
-
-${
-  subtype === 'loan'
-    ? 'Loanword — learn as a whole. No useful Arabic root family.'
-    : root
-      ? `Overlaps with **Roots → ${root.root}** and often with related verbs under **Fiʿl**.`
-      : 'Common everyday noun. May not share a productive root in daily speech.'
-}
+${ismExampleSection(item)}
+${ismLinksSection(item, root, fil)}
 `;
   fs.writeFileSync(path.join(ismDir, `${item.id}.md`), md, 'utf8');
   return {
@@ -194,6 +296,7 @@ ${
     rootId: item.rootId ?? null,
     root: root?.root ?? null,
     example: item.example,
+    exampleEn: item.exampleEn ?? null,
     file,
   };
 });
@@ -252,7 +355,7 @@ writeManifest('harf-manifest.json', {
   items: harfItems,
 });
 
-// --- Enrich roots with family links ---
+// --- Enrich roots with Related-Words + manifest ism ids ---
 const ismsByRoot = new Map();
 for (const ism of ismItems) {
   if (!ism.rootId) continue;
@@ -261,32 +364,59 @@ for (const ism of ismItems) {
   ismsByRoot.set(ism.rootId, list);
 }
 
+function ismTypeLabel(subtype) {
+  switch (subtype) {
+    case 'masdar':
+      return 'مصدر · masdar (verbal noun)';
+    case 'doer':
+      return 'اسم فاعل · ism fāʿil (doer)';
+    case 'place':
+      return 'اسم مكان · ism makān (place)';
+    case 'loan':
+      return 'دخيل · loanword';
+    default:
+      return 'اسم · ism (noun)';
+  }
+}
+
 for (const root of rootsSource.roots) {
   const rootPath = path.join(rootsDir, `${root.id}.md`);
   if (!fs.existsSync(rootPath)) continue;
   let md = fs.readFileSync(rootPath, 'utf8');
-  // strip old family section if re-run
+  md = md.replace(/\n---\n\n## Related-Words[\s\S]*$/m, '');
   md = md.replace(/\n---\n\n## Word family[\s\S]*$/m, '');
-  const fil = filItems.find((f) => f.rootId === root.id);
   const relatedIsms = ismsByRoot.get(root.id) ?? [];
-  const ismRows =
-    relatedIsms.length > 0
-      ? relatedIsms.map((i) => `| اسم | ${i.arabic} | ${i.meaning} | \`#ism/${i.id}\` |`).join('\n')
-      : '| — | — | No linked isms yet | — |';
-  const family = `
+  let section;
+  if (relatedIsms.length === 0) {
+    section = `
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | ${fil?.arabic ?? '—'} | ${fil?.meaning ?? '—'} | \`#fil/${root.id}\` |
-${ismRows}
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 `;
-  fs.writeFileSync(rootPath, md.trimEnd() + family + '\n', 'utf8');
+  } else {
+    const rows = relatedIsms
+      .map((i) => {
+        const example = escapeTableCell(
+          formatExampleBilingual(i.example, i.exampleEn)
+        );
+        return `| ${ismTypeLabel(i.subtype)} | ${i.arabic} | ${example} |`;
+      })
+      .join('\n');
+    section = `
+
+---
+
+## Related-Words
+
+| Type | Word | Example |
+|------|------|---------|
+${rows}
+`;
+  }
+  fs.writeFileSync(rootPath, md.trimEnd() + section + '\n', 'utf8');
 }
 
 // Patch roots manifest with related ids

@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ض-ح-ك |
-| **Letter** | ض · ضاد |
 | **Meaning** | laughing |
-| **Form I** | ضحك / يضحك |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **ضحك / يضحك**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | ضحك / يضحك | [Open](#fil/dHk) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | ضحك | laughing | `#fil/dHk` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | الشمس قوية — The sun is strong |
+| هذا شمس — This is a sun |
+| أحب شمس — I like sun |
+| وين شمس؟ — Where is the sun? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

@@ -6,8 +6,8 @@
 | **Arabic** | دار |
 | **Present** | يدور |
 | **Meaning** | turning / looking for |
-| **Root** | د-و-ر (`dwr`) |
-| **Form I** | دار / يدور |
+| **Root** | [د-و-ر](#roots/dwr) |
+| **Form** | I · دار / يدور |
 
 ---
 
@@ -19,6 +19,31 @@
 
 ---
 
-## Overlap
+## Conjugation
 
-This verb also lives under **Roots → د-و-ر**. Use the Roots / Ism tabs for the word family.
+Everyday Saudi / Najdi. Future uses **بـ**.
+
+| Pronoun | Past | Present | Future |
+|---------|------|---------|--------|
+| أنا | دارت | أدور | بدور |
+| إحنا | دارنا | ندور | بندور |
+| أنت | دارت | تدور | بتدور |
+| أنتِ | دارتي | تدورين | بتدورين |
+| أنتم | دارتوا | تدورون | بتدورون |
+| هو | دار | يدور | بيدور |
+| هي | دارت | تدور | بتدور |
+| هم | داروا | يدورون | بيدورون |
+
+### Examples
+
+| Pronoun | Arabic · English |
+|---------|------------------|
+| أنا | دارت — I did (turning / looking for) |
+| إحنا | ندور — we do/does (turning / looking for) |
+| أنت | بتدور — you (m.) will (turning / looking for) |
+| أنتِ | دارتي — you (f.) did (turning / looking for) |
+| أنتم | تدورون — you (pl.) do/does (turning / looking for) |
+| هو | بيدور — he will (turning / looking for) |
+| هي | دارت — she did (turning / looking for) |
+| هم | يدورون — they do/does (turning / looking for) |
+

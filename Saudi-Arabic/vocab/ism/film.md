@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| نشوف فيلم — Let’s watch a movie |
+| نشوف فيلم — We watch a movie |
+| هذا فيلم — This is a film |
+| أحب فيلم — I like film |
+| وين فيلم؟ — Where is the film? |
 
----
 
-## Notes
-
-Loanword — learn as a whole. No useful Arabic root family.

@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| أختي — my sister |
+| لي أخت واحدة. — I have one sister. |
+| هذا أخت — This is a sister |
+| أحب أخت — I like sister |
+| وين أخت؟ — Where is the sister? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

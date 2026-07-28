@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ر-ا-ي |
-| **Letter** | ر · راء |
 | **Meaning** | seeing |
-| **Form I** | رأى / يرى |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **رأى / يرى**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | رأى / يرى | [Open](#fil/ray) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | رأى | seeing | `#fil/ray` |
-| اسم | رأي | opinion | `#ism/ray-n` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم · ism (noun) | رأي | وش رأيك؟ — What do you think? |
 

@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ظ-ه-ر |
-| **Letter** | ظ · ظاء |
 | **Meaning** | appearing |
-| **Form I** | ظهر / يظهر |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **ظهر / يظهر**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | ظهر / يظهر | [Open](#fil/zhr) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | ظهر | appearing | `#fil/zhr` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

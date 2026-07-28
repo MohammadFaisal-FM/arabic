@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| وين جوالي؟ — Where’s my phone? |
+| وين جوالي؟ — Where is my phone? |
+| هذا جوال — This is a mobile phone (gulf) |
+| أحب جوال — I like mobile phone (gulf) |
+| وين جوال؟ — Where is the mobile phone (gulf)? |
 
----
 
-## Notes
-
-Loanword — learn as a whole. No useful Arabic root family.

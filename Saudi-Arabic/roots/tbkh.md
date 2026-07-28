@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ط-ب-خ |
-| **Letter** | ط · طاء |
 | **Meaning** | cooking |
-| **Form I** | طبخ / يطبخ |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,19 +16,18 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **طبخ / يطبخ**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | طبخ / يطبخ | [Open](#fil/tbkh) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | طبخ | cooking | `#fil/tbkh` |
-| اسم | مطبخ | kitchen | `#ism/matbakh` |
-| اسم | مطعم | restaurant | `#ism/mata3im` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم مكان · ism makān (place) | مطبخ | في المطبخ — In the kitchen |
+| اسم مكان · ism makān (place) | مطعم | نروح مطعم؟ — Should we go to a restaurant? |
 

@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| جذر الكلمة — the word’s root |
+| جذر الكلمة — stem |
+| هذا جذر — This is a root |
+| أحب جذر — I like root |
+| وين جذر؟ — Where is the root? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

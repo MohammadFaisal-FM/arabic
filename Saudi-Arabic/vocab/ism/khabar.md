@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| وش الخبر؟ — What’s the news? |
+| وش الخبر؟ — What's up? |
+| هذا خبر — This is a news |
+| أحب خبر — I like news |
+| وين خبر؟ — Where is the news? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

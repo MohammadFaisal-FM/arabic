@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| أمي — my mother |
+| أمي — My mom |
+| هذا أم — This is a mother |
+| أحب أم — I like mother |
+| وين أم؟ — Where is the mother? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

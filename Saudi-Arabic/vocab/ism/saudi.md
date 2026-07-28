@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| من السعودية — from Saudi Arabia |
+| من السعودية — From Saudi Arabia |
+| هذا السعودية — This is a saudi arabia |
+| أحب السعودية — I like saudi arabia |
+| وين السعودية؟ — Where is the saudi arabia? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

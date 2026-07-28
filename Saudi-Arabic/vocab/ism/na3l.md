@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| وين نعلي؟ — Where are my sandals? |
+| وين نعلي؟ — Where are my shoes? |
+| هذا نعل — This is a sandal |
+| أحب نعل — I like sandal |
+| وين نعل؟ — Where is the sandal? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

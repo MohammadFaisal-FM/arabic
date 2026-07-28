@@ -6,8 +6,8 @@
 | **Arabic** | ظهر |
 | **Present** | يظهر |
 | **Meaning** | appearing |
-| **Root** | ظ-ه-ر (`zhr`) |
-| **Form I** | ظهر / يظهر |
+| **Root** | [ظ-ه-ر](#roots/zhr) |
+| **Form** | I · ظهر / يظهر |
 
 ---
 
@@ -19,6 +19,31 @@
 
 ---
 
-## Overlap
+## Conjugation
 
-This verb also lives under **Roots → ظ-ه-ر**. Use the Roots / Ism tabs for the word family.
+Everyday Saudi / Najdi. Future uses **بـ**.
+
+| Pronoun | Past | Present | Future |
+|---------|------|---------|--------|
+| أنا | ظهرت | أظهر | بظهر |
+| إحنا | ظهرنا | نظهر | بنظهر |
+| أنت | ظهرت | تظهر | بتظهر |
+| أنتِ | ظهرتي | تظهرين | بتظهرين |
+| أنتم | ظهرتوا | تظهرون | بتظهرون |
+| هو | ظهر | يظهر | بيظهر |
+| هي | ظهرت | تظهر | بتظهر |
+| هم | ظهروا | يظهرون | بيظهرون |
+
+### Examples
+
+| Pronoun | Arabic · English |
+|---------|------------------|
+| أنا | ظهرت — I did (appearing) |
+| إحنا | نظهر — we do/does (appearing) |
+| أنت | بتظهر — you (m.) will (appearing) |
+| أنتِ | ظهرتي — you (f.) did (appearing) |
+| أنتم | تظهرون — you (pl.) do/does (appearing) |
+| هو | بيظهر — he will (appearing) |
+| هي | ظهرت — she did (appearing) |
+| هم | يظهرون — they do/does (appearing) |
+

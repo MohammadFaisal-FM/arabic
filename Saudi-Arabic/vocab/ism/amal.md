@@ -6,7 +6,7 @@
 | **Subtype** | noun |
 | **Arabic** | عمل |
 | **Meaning** | work / job |
-| **Root** | ع-م-ل (`3ml`) |
+| **Root** | [ع-م-ل](#roots/3ml) |
 
 ---
 
@@ -14,10 +14,16 @@
 
 | Arabic · English |
 |------------------|
-| أدور على عمل — I’m looking for work |
+| أدور على عمل — I'm looking for work |
+| هذا عمل — This is a work |
+| أحب عمل — I like work |
+| وين عمل؟ — Where is the work? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ع-م-ل** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ع-م-ل](#roots/3ml) |
+| **Fiʿl** | [عمل / يعمل](#fil/3ml) |
+

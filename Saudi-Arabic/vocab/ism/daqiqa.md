@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| بس دقيقة — just a minute |
+| بس دقيقة — Just a minute |
+| هذا دقيقة — This is a minute |
+| أحب دقيقة — I like minute |
+| وين دقيقة؟ — Where is the minute? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

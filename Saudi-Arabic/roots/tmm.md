@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ت-م-م |
-| **Letter** | ت · تاء |
 | **Meaning** | completing |
-| **Form I** | تمّ / يتم |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,16 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **تمّ / يتم**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | تمّ / يتم | [Open](#fil/tmm) |
+| II | تمّم / يتمّم · complete | [Open](#fil/tmm-ii) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | تمّ | completing | `#fil/tmm` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

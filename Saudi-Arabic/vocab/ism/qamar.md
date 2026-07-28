@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| القمر حلو — The moon is nice |
+| القمر حلو — The moon is sweet |
+| هذا قمر — This is a moon |
+| أحب قمر — I like moon |
+| وين قمر؟ — Where is the moon? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| في الفندق — at the hotel |
+| في الفندق — At the hotel |
+| هذا فندق — This is a hotel |
+| أحب فندق — I like hotel |
+| وين فندق؟ — Where is the hotel? |
 
----
 
-## Notes
-
-Loanword — learn as a whole. No useful Arabic root family.

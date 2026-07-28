@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | أرسل مسج — Send a message |
+| هذا مسج — This is a message (loan) |
+| أحب مسج — I like message (loan) |
+| وين مسج؟ — Where is the message (loan)? |
 
----
 
-## Notes
-
-Loanword — learn as a whole. No useful Arabic root family.

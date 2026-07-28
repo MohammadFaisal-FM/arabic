@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ك-ل-م |
-| **Letter** | ك · كاف |
 | **Meaning** | speaking |
-| **Form I** | كلّم / يكلّم |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,19 +16,19 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **كلّم / يكلّم**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| II | كلّم / يكلّم · talk to (main in speech) | [Open](#fil/klm) |
+| V | تكلّم / يتكلّم · speak | [Open](#fil/klm-v) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | كلّم | speaking | `#fil/klm` |
-| اسم | كلام | talk / speech | `#ism/kalam` |
-| اسم | كلمة | word | `#ism/kalima` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم · ism (noun) | كلام | كلامك صحيح — What you say is true |
+| اسم · ism (noun) | كلمة | كلمة جديدة — New word |
 

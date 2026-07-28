@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ش-ر-ي |
-| **Letter** | ش · شين |
 | **Meaning** | buying |
-| **Form I** | شرى / يشري |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **شرى / يشري**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | شرى / يشري | [Open](#fil/shry) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | شرى | buying | `#fil/shry` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

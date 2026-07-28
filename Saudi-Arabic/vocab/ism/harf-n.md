@@ -14,10 +14,8 @@
 
 | Arabic · English |
 |------------------|
-| هذا حرف — This is a letter/particle |
+| هذا حرف — This is a letter |
+| أحب حرف — I like letter |
+| وين حرف؟ — Where is the letter? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

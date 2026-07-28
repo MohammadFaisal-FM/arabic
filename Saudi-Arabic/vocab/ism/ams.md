@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| شفتك أمس — I saw you yesterday |
+| ذهبوا إلى السينما ليلة أمس. — They went to the movies last night. |
+| هذا أمس — This is a yesterday |
+| أحب أمس — I like yesterday |
+| وين أمس؟ — Where is the yesterday? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

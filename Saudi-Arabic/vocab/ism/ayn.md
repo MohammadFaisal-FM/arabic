@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | عيوني — my eyes |
+| هذا عين — This is a eye |
+| أحب عين — I like eye |
+| وين عين؟ — Where is the eye? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

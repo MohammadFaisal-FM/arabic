@@ -6,8 +6,8 @@
 | **Arabic** | شكّ |
 | **Present** | يشك |
 | **Meaning** | doubting |
-| **Root** | ش-ك-ك (`shkk`) |
-| **Form I** | شكّ / يشك |
+| **Root** | [ش-ك-ك](#roots/shkk) |
+| **Form** | I · شكّ / يشك |
 
 ---
 
@@ -19,6 +19,31 @@
 
 ---
 
-## Overlap
+## Conjugation
 
-This verb also lives under **Roots → ش-ك-ك**. Use the Roots / Ism tabs for the word family.
+Everyday Saudi / Najdi. Future uses **بـ**.
+
+| Pronoun | Past | Present | Future |
+|---------|------|---------|--------|
+| أنا | شكّت | أشك | بشك |
+| إحنا | شكّنا | نشك | بنشك |
+| أنت | شكّت | تشك | بتشك |
+| أنتِ | شكّتي | تشكين | بتشكين |
+| أنتم | شكّتوا | تشكون | بتشكون |
+| هو | شكّ | يشك | بيشك |
+| هي | شكّت | تشك | بتشك |
+| هم | شكّوا | يشكون | بيشكون |
+
+### Examples
+
+| Pronoun | Arabic · English |
+|---------|------------------|
+| أنا | شكّت — I did (doubting) |
+| إحنا | نشك — we do/does (doubting) |
+| أنت | بتشك — you (m.) will (doubting) |
+| أنتِ | شكّتي — you (f.) did (doubting) |
+| أنتم | تشكون — you (pl.) do/does (doubting) |
+| هو | بيشك — he will (doubting) |
+| هي | شكّت — she did (doubting) |
+| هم | يشكون — they do/does (doubting) |
+

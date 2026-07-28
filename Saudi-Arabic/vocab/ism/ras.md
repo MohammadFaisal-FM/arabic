@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | راسي يوجعني — My head hurts |
+| هذا راس — This is a head (colloquial) |
+| أحب راس — I like head (colloquial) |
+| وين راس؟ — Where is the head (colloquial)? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

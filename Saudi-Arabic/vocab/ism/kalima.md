@@ -6,7 +6,7 @@
 | **Subtype** | noun |
 | **Arabic** | كلمة |
 | **Meaning** | word |
-| **Root** | ك-ل-م (`klm`) |
+| **Root** | [ك-ل-م](#roots/klm) |
 
 ---
 
@@ -14,10 +14,16 @@
 
 | Arabic · English |
 |------------------|
-| كلمة جديدة — a new word |
+| كلمة جديدة — New word |
+| هذا كلمة — This is a word |
+| أحب كلمة — I like word |
+| وين كلمة؟ — Where is the word? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ك-ل-م** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ك-ل-م](#roots/klm) |
+| **Fiʿl** | [كلّم / يكلّم](#fil/klm) |
+

@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ح-ك-ي |
-| **Letter** | ح · حاء |
 | **Meaning** | speaking / telling |
-| **Form I** | حكى / يحكي |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **حكى / يحكي**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | حكى / يحكي | [Open](#fil/hky) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | حكى | speaking / telling | `#fil/hky` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

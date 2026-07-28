@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ش-ر-ب |
-| **Letter** | ش · شين |
 | **Meaning** | drinking |
-| **Form I** | شرب / يشرب |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **شرب / يشرب**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | شرب / يشرب | [Open](#fil/shrb) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | شرب | drinking | `#fil/shrb` |
-| اسم | شرب | drinking | `#ism/shurb` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| مصدر · masdar (verbal noun) | شرب | الشرب مهم — Drinking is important |
 

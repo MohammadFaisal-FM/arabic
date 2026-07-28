@@ -6,8 +6,8 @@
 | **Arabic** | يبس |
 | **Present** | ييبس |
 | **Meaning** | drying |
-| **Root** | ي-ب-س (`ybs`) |
-| **Form I** | يبس / ييبس |
+| **Root** | [ي-ب-س](#roots/ybs) |
+| **Form** | I · يبس / ييبس |
 
 ---
 
@@ -19,6 +19,31 @@
 
 ---
 
-## Overlap
+## Conjugation
 
-This verb also lives under **Roots → ي-ب-س**. Use the Roots / Ism tabs for the word family.
+Everyday Saudi / Najdi. Future uses **بـ**.
+
+| Pronoun | Past | Present | Future |
+|---------|------|---------|--------|
+| أنا | يبست | أيبس | بيبس |
+| إحنا | يبسنا | نيبس | بنيبس |
+| أنت | يبست | تيبس | بتيبس |
+| أنتِ | يبستي | تيبسين | بتيبسين |
+| أنتم | يبستوا | تيبسون | بتيبسون |
+| هو | يبس | ييبس | بييبس |
+| هي | يبست | تيبس | بتيبس |
+| هم | يبسوا | ييبسون | بييبسون |
+
+### Examples
+
+| Pronoun | Arabic · English |
+|---------|------------------|
+| أنا | يبست — I did (drying) |
+| إحنا | نيبس — we do/does (drying) |
+| أنت | بتيبس — you (m.) will (drying) |
+| أنتِ | يبستي — you (f.) did (drying) |
+| أنتم | تيبسون — you (pl.) do/does (drying) |
+| هو | بييبس — he will (drying) |
+| هي | يبست — she did (drying) |
+| هم | ييبسون — they do/does (drying) |
+

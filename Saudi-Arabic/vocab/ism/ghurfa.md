@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| في الغرفة — in the room |
+| في الغرفة — In the room |
+| هذا غرفة — This is a room |
+| أحب غرفة — I like room |
+| وين غرفة؟ — Where is the room? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

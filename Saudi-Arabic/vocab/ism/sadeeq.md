@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | هذا صديقي — This is my friend |
+| هذا صديق — This is a friend |
+| أحب صديق — I like friend |
+| وين صديق؟ — Where is the friend? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

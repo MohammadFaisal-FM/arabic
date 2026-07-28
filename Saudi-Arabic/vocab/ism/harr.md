@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| اليوم حر — It’s hot today |
+| اليوم حر — Today is free |
+| هذا حر — This is a heat |
+| أحب حر — I like heat |
+| وين حر؟ — Where is the heat? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

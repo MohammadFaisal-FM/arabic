@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ر-ك-ب |
-| **Letter** | ر · راء |
 | **Meaning** | riding / boarding |
-| **Form I** | ركب / يركب |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **ركب / يركب**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | ركب / يركب | [Open](#fil/rkb) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | ركب | riding / boarding | `#fil/rkb` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

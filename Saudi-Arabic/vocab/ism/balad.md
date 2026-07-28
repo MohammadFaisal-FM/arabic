@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | بلدي السعودية — My country is Saudi Arabia |
+| هذا بلد — This is a country |
+| أحب بلد — I like country |
+| وين بلد؟ — Where is the country? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

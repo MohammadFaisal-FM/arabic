@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | أعرف الطريق — I know the way |
+| هذا طريق — This is a road |
+| أحب طريق — I like road |
+| وين طريق؟ — Where is the road? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

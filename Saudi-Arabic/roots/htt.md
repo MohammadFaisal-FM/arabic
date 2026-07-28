@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ح-ط-ط |
-| **Letter** | ح · حاء |
 | **Meaning** | putting / placing |
-| **Form I** | حطّ / يحط |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **حطّ / يحط**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | حطّ / يحط | [Open](#fil/htt) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | حطّ | putting / placing | `#fil/htt` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

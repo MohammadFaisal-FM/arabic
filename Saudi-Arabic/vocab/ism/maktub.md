@@ -6,7 +6,7 @@
 | **Subtype** | done-to |
 | **Arabic** | مكتوب |
 | **Meaning** | written (thing) / fate |
-| **Root** | ك-ت-ب (`ktb`) |
+| **Root** | [ك-ت-ب](#roots/ktb) |
 
 ---
 
@@ -14,10 +14,16 @@
 
 | Arabic · English |
 |------------------|
-| مكتوب كذا — It’s written / destined like that |
+| مكتوب كذا — It is written like this |
+| هذا مكتوب — This is a written (thing) |
+| أحب مكتوب — I like written (thing) |
+| وين مكتوب؟ — Where is the written (thing)? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ك-ت-ب** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ك-ت-ب](#roots/ktb) |
+| **Fiʿl** | [كتب / يكتب](#fil/ktb) |
+

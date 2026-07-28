@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| هذا الشهر — this month |
+| هذا الشهر — This month |
+| هذا شهر — This is a month |
+| أحب شهر — I like month |
+| وين شهر؟ — Where is the month? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

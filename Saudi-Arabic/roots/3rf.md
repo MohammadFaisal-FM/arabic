@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ع-ر-ف |
-| **Letter** | ع · عين |
 | **Meaning** | knowing |
-| **Form I** | عرف / يعرف |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **عرف / يعرف**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | عرف / يعرف | [Open](#fil/3rf) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | عرف | knowing | `#fil/3rf` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

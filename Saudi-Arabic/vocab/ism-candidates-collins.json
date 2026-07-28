@@ -1,0 +1,365 @@
+{
+  "count": 90,
+  "items": [
+    {
+      "arabic_norm": "الس",
+      "count": 157
+    },
+    {
+      "arabic_norm": "الم",
+      "count": 66
+    },
+    {
+      "arabic_norm": "الت",
+      "count": 57
+    },
+    {
+      "arabic_norm": "الص",
+      "count": 54
+    },
+    {
+      "arabic_norm": "الط",
+      "count": 42
+    },
+    {
+      "arabic_norm": "الر",
+      "count": 36
+    },
+    {
+      "arabic_norm": "الن",
+      "count": 34
+    },
+    {
+      "arabic_norm": "الق",
+      "count": 29
+    },
+    {
+      "arabic_norm": "الد",
+      "count": 26
+    },
+    {
+      "arabic_norm": "الع",
+      "count": 26
+    },
+    {
+      "arabic_norm": "الك",
+      "count": 23
+    },
+    {
+      "arabic_norm": "الح",
+      "count": 21
+    },
+    {
+      "arabic_norm": "الض",
+      "count": 20
+    },
+    {
+      "arabic_norm": "الز",
+      "count": 15
+    },
+    {
+      "arabic_norm": "الخ",
+      "count": 14
+    },
+    {
+      "arabic_norm": "الي",
+      "count": 14
+    },
+    {
+      "arabic_norm": "الب",
+      "count": 12
+    },
+    {
+      "arabic_norm": "الاسنان",
+      "count": 11
+    },
+    {
+      "arabic_norm": "الغولف",
+      "count": 11
+    },
+    {
+      "arabic_norm": "الماء",
+      "count": 10
+    },
+    {
+      "arabic_norm": "الموسيقي",
+      "count": 10
+    },
+    {
+      "arabic_norm": "الا",
+      "count": 9
+    },
+    {
+      "arabic_norm": "الشمس",
+      "count": 9
+    },
+    {
+      "arabic_norm": "العربي",
+      "count": 9
+    },
+    {
+      "arabic_norm": "الل",
+      "count": 9
+    },
+    {
+      "arabic_norm": "البريد",
+      "count": 8
+    },
+    {
+      "arabic_norm": "الث",
+      "count": 8
+    },
+    {
+      "arabic_norm": "الج",
+      "count": 8
+    },
+    {
+      "arabic_norm": "الملابس",
+      "count": 8
+    },
+    {
+      "arabic_norm": "الارض",
+      "count": 7
+    },
+    {
+      "arabic_norm": "الباب",
+      "count": 7
+    },
+    {
+      "arabic_norm": "الحيوانات",
+      "count": 7
+    },
+    {
+      "arabic_norm": "الشاطئ",
+      "count": 7
+    },
+    {
+      "arabic_norm": "الكهربائي",
+      "count": 7
+    },
+    {
+      "arabic_norm": "الو",
+      "count": 6
+    },
+    {
+      "arabic_norm": "الامواج",
+      "count": 5
+    },
+    {
+      "arabic_norm": "الاو",
+      "count": 5
+    },
+    {
+      "arabic_norm": "الباص",
+      "count": 5
+    },
+    {
+      "arabic_norm": "البحر",
+      "count": 5
+    },
+    {
+      "arabic_norm": "الحم",
+      "count": 5
+    },
+    {
+      "arabic_norm": "الشعر",
+      "count": 5
+    },
+    {
+      "arabic_norm": "اليدوي",
+      "count": 5
+    },
+    {
+      "arabic_norm": "الالعاب",
+      "count": 4
+    },
+    {
+      "arabic_norm": "الاوراق",
+      "count": 4
+    },
+    {
+      "arabic_norm": "البر",
+      "count": 4
+    },
+    {
+      "arabic_norm": "الحقلم",
+      "count": 4
+    },
+    {
+      "arabic_norm": "الحيوان",
+      "count": 4
+    },
+    {
+      "arabic_norm": "الخوذه",
+      "count": 4
+    },
+    {
+      "arabic_norm": "الشتاء",
+      "count": 4
+    },
+    {
+      "arabic_norm": "العاب",
+      "count": 4
+    },
+    {
+      "arabic_norm": "العام",
+      "count": 4
+    },
+    {
+      "arabic_norm": "الغ",
+      "count": 4
+    },
+    {
+      "arabic_norm": "الفطور",
+      "count": 4
+    },
+    {
+      "arabic_norm": "المنزلي",
+      "count": 4
+    },
+    {
+      "arabic_norm": "الاحمر",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الاسبوع",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الاستحمام",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الاشغال",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الاطفال",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الاعشاب",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الانترنت",
+      "count": 3
+    },
+    {
+      "arabic_norm": "البائع",
+      "count": 3
+    },
+    {
+      "arabic_norm": "البحري",
+      "count": 3
+    },
+    {
+      "arabic_norm": "البطاطا",
+      "count": 3
+    },
+    {
+      "arabic_norm": "البطاقه",
+      "count": 3
+    },
+    {
+      "arabic_norm": "البيت",
+      "count": 3
+    },
+    {
+      "arabic_norm": "التاعه",
+      "count": 3
+    },
+    {
+      "arabic_norm": "التجهاز",
+      "count": 3
+    },
+    {
+      "arabic_norm": "التهازج",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الجامعه",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الجليد",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الخاص",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الذ",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الزالز",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الشاي",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الشحن",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الشوكولاته",
+      "count": 3
+    },
+    {
+      "arabic_norm": "العشاء",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الف",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الفلفل",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الفم",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الفواكه",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الكيس",
+      "count": 3
+    },
+    {
+      "arabic_norm": "اللص",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الماكولات",
+      "count": 3
+    },
+    {
+      "arabic_norm": "المالح",
+      "count": 3
+    },
+    {
+      "arabic_norm": "المفروشات",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الهاتف",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الهواء",
+      "count": 3
+    },
+    {
+      "arabic_norm": "الوقت",
+      "count": 3
+    }
+  ]
+}

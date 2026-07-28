@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | د-ف-ع |
-| **Letter** | د · دال |
 | **Meaning** | paying / pushing |
-| **Form I** | دفع / يدفع |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **دفع / يدفع**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | دفع / يدفع | [Open](#fil/df3) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | دفع | paying / pushing | `#fil/df3` |
-| اسم | حساب | bill / account | `#ism/hisab` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم · ism (noun) | حساب | دفعت الحساب — I paid the account |
 

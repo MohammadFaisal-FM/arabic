@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ق-و-ل |
-| **Letter** | ق · قاف |
 | **Meaning** | saying |
-| **Form I** | قال / يقول |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **قال / يقول**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | قال / يقول | [Open](#fil/qwl) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | قال | saying | `#fil/qwl` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

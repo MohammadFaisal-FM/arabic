@@ -6,8 +6,8 @@
 | **Arabic** | هدى |
 | **Present** | يهدي |
 | **Meaning** | calming / guiding |
-| **Root** | ه-د-ي (`hdy`) |
-| **Form I** | هدى / يهدي |
+| **Root** | [ه-د-ي](#roots/hdy) |
+| **Form** | I · هدى / يهدي |
 
 ---
 
@@ -19,6 +19,31 @@
 
 ---
 
-## Overlap
+## Conjugation
 
-This verb also lives under **Roots → ه-د-ي**. Use the Roots / Ism tabs for the word family.
+Everyday Saudi / Najdi. Future uses **بـ**.
+
+| Pronoun | Past | Present | Future |
+|---------|------|---------|--------|
+| أنا | هدىت | أهدي | بهدي |
+| إحنا | هدىنا | نهدي | بنهدي |
+| أنت | هدىت | تهدي | بتهدي |
+| أنتِ | هدىتي | تهديين | بتهديين |
+| أنتم | هدىتوا | تهديون | بتهديون |
+| هو | هدى | يهدي | بيهدي |
+| هي | هدىت | تهدي | بتهدي |
+| هم | هدىوا | يهديون | بيهديون |
+
+### Examples
+
+| Pronoun | Arabic · English |
+|---------|------------------|
+| أنا | هدىت — I did (calming / guiding) |
+| إحنا | نهدي — we do/does (calming / guiding) |
+| أنت | بتهدي — you (m.) will (calming / guiding) |
+| أنتِ | هدىتي — you (f.) did (calming / guiding) |
+| أنتم | تهديون — you (pl.) do/does (calming / guiding) |
+| هو | بيهدي — he will (calming / guiding) |
+| هي | هدىت — she did (calming / guiding) |
+| هم | يهديون — they do/does (calming / guiding) |
+

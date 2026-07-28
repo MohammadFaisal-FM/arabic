@@ -6,7 +6,7 @@
 | **Subtype** | noun |
 | **Arabic** | شغل |
 | **Meaning** | work / job |
-| **Root** | ش-غ-ل (`shghl`) |
+| **Root** | [ش-غ-ل](#roots/shghl) |
 
 ---
 
@@ -14,10 +14,16 @@
 
 | Arabic · English |
 |------------------|
-| عندي شغل — I have work |
+| عندي شغل — I have a job |
+| هذا شغل — This is a work |
+| أحب شغل — I like work |
+| وين شغل؟ — Where is the work? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ش-غ-ل** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ش-غ-ل](#roots/shghl) |
+| **Fiʿl** | [شغل / يشغل](#fil/shghl) |
+

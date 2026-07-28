@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| هذي مرة — This is a woman |
+| هذي مرة — This time |
+| هذا مرة — This is a woman (najdi) |
+| أحب مرة — I like woman (najdi) |
+| وين مرة؟ — Where is the woman (najdi)? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | افتح الباب — Open the door |
+| هذا باب — This is a door |
+| أحب باب — I like door |
+| وين باب؟ — Where is the door? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

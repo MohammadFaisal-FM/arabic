@@ -6,8 +6,8 @@
 | **Arabic** | ضرب |
 | **Present** | يضرب |
 | **Meaning** | hitting |
-| **Root** | ض-ر-ب (`drb`) |
-| **Form I** | ضرب / يضرب |
+| **Root** | [ض-ر-ب](#roots/drb) |
+| **Form** | I · ضرب / يضرب |
 
 ---
 
@@ -19,6 +19,31 @@
 
 ---
 
-## Overlap
+## Conjugation
 
-This verb also lives under **Roots → ض-ر-ب**. Use the Roots / Ism tabs for the word family.
+Everyday Saudi / Najdi. Future uses **بـ**.
+
+| Pronoun | Past | Present | Future |
+|---------|------|---------|--------|
+| أنا | ضربت | أضرب | بضرب |
+| إحنا | ضربنا | نضرب | بنضرب |
+| أنت | ضربت | تضرب | بتضرب |
+| أنتِ | ضربتي | تضربين | بتضربين |
+| أنتم | ضربتوا | تضربون | بتضربون |
+| هو | ضرب | يضرب | بيضرب |
+| هي | ضربت | تضرب | بتضرب |
+| هم | ضربوا | يضربون | بيضربون |
+
+### Examples
+
+| Pronoun | Arabic · English |
+|---------|------------------|
+| أنا | ضربت — I did (hitting) |
+| إحنا | نضرب — we do/does (hitting) |
+| أنت | بتضرب — you (m.) will (hitting) |
+| أنتِ | ضربتي — you (f.) did (hitting) |
+| أنتم | تضربون — you (pl.) do/does (hitting) |
+| هو | بيضرب — he will (hitting) |
+| هي | ضربت — she did (hitting) |
+| هم | يضربون — they do/does (hitting) |
+

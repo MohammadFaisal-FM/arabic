@@ -6,8 +6,8 @@
 | **Arabic** | نام |
 | **Present** | ينام |
 | **Meaning** | sleeping |
-| **Root** | ن-و-م (`nam`) |
-| **Form I** | نام / ينام |
+| **Root** | [ن-و-م](#roots/nam) |
+| **Form** | I · نام / ينام |
 
 ---
 
@@ -19,6 +19,31 @@
 
 ---
 
-## Overlap
+## Conjugation
 
-This verb also lives under **Roots → ن-و-م**. Use the Roots / Ism tabs for the word family.
+Everyday Saudi / Najdi. Future uses **بـ**.
+
+| Pronoun | Past | Present | Future |
+|---------|------|---------|--------|
+| أنا | نامت | أنام | بنام |
+| إحنا | نامنا | ننام | بننام |
+| أنت | نامت | تنام | بتنام |
+| أنتِ | نامتي | تنامين | بتنامين |
+| أنتم | نامتوا | تنامون | بتنامون |
+| هو | نام | ينام | بينام |
+| هي | نامت | تنام | بتنام |
+| هم | ناموا | ينامون | بينامون |
+
+### Examples
+
+| Pronoun | Arabic · English |
+|---------|------------------|
+| أنا | نامت — I did (sleeping) |
+| إحنا | ننام — we do/does (sleeping) |
+| أنت | بتنام — you (m.) will (sleeping) |
+| أنتِ | نامتي — you (f.) did (sleeping) |
+| أنتم | تنامون — you (pl.) do/does (sleeping) |
+| هو | بينام — he will (sleeping) |
+| هي | نامت — she did (sleeping) |
+| هم | ينامون — they do/does (sleeping) |
+

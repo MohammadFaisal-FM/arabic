@@ -6,7 +6,7 @@
 | **Subtype** | noun |
 | **Arabic** | ولد |
 | **Meaning** | boy / child |
-| **Root** | و-ل-د (`wld`) |
+| **Root** | [و-ل-د](#roots/wld) |
 
 ---
 
@@ -14,10 +14,16 @@
 
 | Arabic · English |
 |------------------|
-| كبر الولد — The boy grew up |
+| كبر الولد — The boy has grown up |
+| هذا ولد — This is a boy |
+| أحب ولد — I like boy |
+| وين ولد؟ — Where is the boy? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → و-ل-د** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [و-ل-د](#roots/wld) |
+| **Fiʿl** | [ولد / يولد](#fil/wld) |
+

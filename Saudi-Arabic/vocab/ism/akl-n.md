@@ -6,7 +6,7 @@
 | **Subtype** | masdar |
 | **Arabic** | أكل |
 | **Meaning** | food / eating |
-| **Root** | أ-ك-ل (`akl`) |
+| **Root** | [أ-ك-ل](#roots/akl) |
 
 ---
 
@@ -14,10 +14,16 @@
 
 | Arabic · English |
 |------------------|
-| الأكل لذيذ — The food is delicious |
+| أحب أكل اللازانيا. — I love eating lasagna. |
+| هذا أكل — This is a food |
+| أحب أكل — I like food |
+| وين أكل؟ — Where is the food? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → أ-ك-ل** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [أ-ك-ل](#roots/akl) |
+| **Fiʿl** | [أكل / ياكل](#fil/akl) |
+

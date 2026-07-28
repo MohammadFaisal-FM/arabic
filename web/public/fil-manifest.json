@@ -1,6 +1,6 @@
 {
   "title": "Fiʿl — Verbs",
-  "description": "Everyday verbs (fiʿl). Overlaps with Roots: each verb belongs to a root family.",
+  "description": "Everyday verbs (fiʿl) by وزن (form). Overlaps with Roots: each verb belongs to a root family.",
   "kind": "fil",
   "letters": [
     {
@@ -126,6 +126,7 @@
       "letter": "أ",
       "rootId": "akhd",
       "root": "أ-خ-ذ",
+      "form": "I",
       "formI": "أخذ / ياخذ",
       "example": "أخذت المفتاح — I took the key",
       "file": "vocab/fil/akhd.md"
@@ -139,6 +140,7 @@
       "letter": "أ",
       "rootId": "akl",
       "root": "أ-ك-ل",
+      "form": "I",
       "formI": "أكل / ياكل",
       "example": "أكلت رز — I ate rice",
       "file": "vocab/fil/akl.md"
@@ -152,6 +154,7 @@
       "letter": "أ",
       "rootId": "amr",
       "root": "أ-م-ر",
+      "form": "I",
       "formI": "أمر / يأمر",
       "example": "أمرني أسويها — He told me to do it",
       "file": "vocab/fil/amr.md"
@@ -165,6 +168,7 @@
       "letter": "أ",
       "rootId": "aty",
       "root": "أ-ت-ي",
+      "form": "I",
       "formI": "أتى / ياتي",
       "example": "متى تجي؟ — When are you coming?",
       "file": "vocab/fil/aty.md"
@@ -178,6 +182,7 @@
       "letter": "ب",
       "rootId": "bda",
       "root": "ب-د-أ",
+      "form": "I",
       "formI": "بدأ / يبدأ",
       "example": "بدأت الدرس — I started the lesson",
       "file": "vocab/fil/bda.md"
@@ -191,6 +196,7 @@
       "letter": "ب",
       "rootId": "bhth",
       "root": "ب-ح-ث",
+      "form": "I",
       "formI": "بحث / يبحث",
       "example": "أبحث عن عمل — I’m looking for work",
       "file": "vocab/fil/bhth.md"
@@ -204,6 +210,7 @@
       "letter": "ب",
       "rootId": "by3",
       "root": "ب-ي-ع",
+      "form": "I",
       "formI": "باع / يبيع",
       "example": "بعت السيارة — I sold the car",
       "file": "vocab/fil/by3.md"
@@ -217,6 +224,7 @@
       "letter": "ب",
       "rootId": "bghy",
       "root": "ب-غ-ي",
+      "form": "I",
       "formI": "بغى / يبغى",
       "example": "أبغى قهوة — I want coffee",
       "file": "vocab/fil/bghy.md"
@@ -230,6 +238,7 @@
       "letter": "ب",
       "rootId": "blgh",
       "root": "ب-ل-غ",
+      "form": "I",
       "formI": "بلغ / يبلغ",
       "example": "بلغني الخبر — The news reached me",
       "file": "vocab/fil/blgh.md"
@@ -243,6 +252,7 @@
       "letter": "ت",
       "rootId": "trk",
       "root": "ت-ر-ك",
+      "form": "I",
       "formI": "ترك / يترك",
       "example": "تركت الجوال — I left the phone",
       "file": "vocab/fil/trk.md"
@@ -256,9 +266,24 @@
       "letter": "ت",
       "rootId": "tb3",
       "root": "ت-ب-ع",
+      "form": "I",
       "formI": "تبع / يتبع",
       "example": "اتبعني — Follow me",
       "file": "vocab/fil/tb3.md"
+    },
+    {
+      "id": "tb3-viii",
+      "arabic": "اتّبع",
+      "past": "اتّبع",
+      "present": "يتّبع",
+      "meaning": "following · follow",
+      "letter": "ت",
+      "rootId": "tb3",
+      "root": "ت-ب-ع",
+      "form": "VIII",
+      "formI": "اتّبع / يتّبع",
+      "example": "اتّبع — Form VIII of ت-ب-ع",
+      "file": "vocab/fil/tb3-viii.md"
     },
     {
       "id": "tmm",
@@ -269,9 +294,24 @@
       "letter": "ت",
       "rootId": "tmm",
       "root": "ت-م-م",
+      "form": "I",
       "formI": "تمّ / يتم",
       "example": "تمّ الشغل — The work is done",
       "file": "vocab/fil/tmm.md"
+    },
+    {
+      "id": "tmm-ii",
+      "arabic": "تمّم",
+      "past": "تمّم",
+      "present": "يتمّم",
+      "meaning": "completing · complete",
+      "letter": "ت",
+      "rootId": "tmm",
+      "root": "ت-م-م",
+      "form": "II",
+      "formI": "تمّم / يتمّم",
+      "example": "تمّم — Form II of ت-م-م",
+      "file": "vocab/fil/tmm-ii.md"
     },
     {
       "id": "thbt",
@@ -282,6 +322,7 @@
       "letter": "ث",
       "rootId": "thbt",
       "root": "ث-ب-ت",
+      "form": "I",
       "formI": "ثبت / يثبت",
       "example": "ثبت الرقم — Save / confirm the number",
       "file": "vocab/fil/thbt.md"
@@ -295,6 +336,7 @@
       "letter": "ث",
       "rootId": "thql",
       "root": "ث-ق-ل",
+      "form": "I",
       "formI": "ثقل / يثقل",
       "example": "الشغل ثقيل — The work is heavy",
       "file": "vocab/fil/thql.md"
@@ -308,6 +350,7 @@
       "letter": "ج",
       "rootId": "jls",
       "root": "ج-ل-س",
+      "form": "I",
       "formI": "جلس / يجلس",
       "example": "اجلس هنا — Sit here",
       "file": "vocab/fil/jls.md"
@@ -321,6 +364,7 @@
       "letter": "ج",
       "rootId": "jy",
       "root": "ج-ي-ء",
+      "form": "I",
       "formI": "جا / يجي",
       "example": "بجي بعدين — I’ll come later",
       "file": "vocab/fil/jy.md"
@@ -334,20 +378,22 @@
       "letter": "ج",
       "rootId": "jm3",
       "root": "ج-م-ع",
+      "form": "I",
       "formI": "جمع / يجمع",
       "example": "جمعنا الفلوس — We collected the money",
       "file": "vocab/fil/jm3.md"
     },
     {
       "id": "jrb",
-      "arabic": "جرب",
-      "past": "جرب",
-      "present": "يجرب",
+      "arabic": "جرّب",
+      "past": "جرّب",
+      "present": "يجرّب",
       "meaning": "trying",
       "letter": "ج",
       "rootId": "jrb",
       "root": "ج-ر-ب",
-      "formI": "جرب / يجرب",
+      "form": "II",
+      "formI": "جرّب / يجرّب",
       "example": "جربت الأكل — I tried the food",
       "file": "vocab/fil/jrb.md"
     },
@@ -360,6 +406,7 @@
       "letter": "ج",
       "rootId": "jry",
       "root": "ج-ر-ي",
+      "form": "I",
       "formI": "جرى / يجري",
       "example": "يجري بسرعة — He runs fast",
       "file": "vocab/fil/jry.md"
@@ -373,6 +420,7 @@
       "letter": "ح",
       "rootId": "hbb",
       "root": "ح-ب-ب",
+      "form": "I",
       "formI": "حبّ / يحب",
       "example": "أحب القهوة — I love coffee",
       "file": "vocab/fil/hbb.md"
@@ -386,6 +434,7 @@
       "letter": "ح",
       "rootId": "hsil",
       "root": "ح-ص-ل",
+      "form": "I",
       "formI": "حصل / يحصل",
       "example": "وش حصل؟ — What happened?",
       "file": "vocab/fil/hsil.md"
@@ -399,6 +448,7 @@
       "letter": "ح",
       "rootId": "hfz",
       "root": "ح-ف-ظ",
+      "form": "I",
       "formI": "حفظ / يحفظ",
       "example": "حفظت الدرس — I memorized the lesson",
       "file": "vocab/fil/hfz.md"
@@ -412,6 +462,7 @@
       "letter": "ح",
       "rootId": "htt",
       "root": "ح-ط-ط",
+      "form": "I",
       "formI": "حطّ / يحط",
       "example": "حطها هنا — Put it here",
       "file": "vocab/fil/htt.md"
@@ -425,9 +476,24 @@
       "letter": "ح",
       "rootId": "hdr",
       "root": "ح-ض-ر",
+      "form": "I",
       "formI": "حضر / يحضر",
       "example": "حضرت الاجتماع — I attended the meeting",
       "file": "vocab/fil/hdr.md"
+    },
+    {
+      "id": "hdr-ii",
+      "arabic": "حضّر",
+      "past": "حضّر",
+      "present": "يحضّر",
+      "meaning": "attending / preparing · prepare",
+      "letter": "ح",
+      "rootId": "hdr",
+      "root": "ح-ض-ر",
+      "form": "II",
+      "formI": "حضّر / يحضّر",
+      "example": "حضّر — Form II of ح-ض-ر",
+      "file": "vocab/fil/hdr-ii.md"
     },
     {
       "id": "hky",
@@ -438,6 +504,7 @@
       "letter": "ح",
       "rootId": "hky",
       "root": "ح-ك-ي",
+      "form": "I",
       "formI": "حكى / يحكي",
       "example": "احكي لي — Tell me",
       "file": "vocab/fil/hky.md"
@@ -451,6 +518,7 @@
       "letter": "ح",
       "rootId": "hml",
       "root": "ح-م-ل",
+      "form": "I",
       "formI": "حمل / يحمل",
       "example": "احمل الشنطة — Carry the bag",
       "file": "vocab/fil/hml.md"
@@ -464,6 +532,7 @@
       "letter": "خ",
       "rootId": "khrj",
       "root": "خ-ر-ج",
+      "form": "I",
       "formI": "خرج / يخرج",
       "example": "خرجت من البيت — I left the house",
       "file": "vocab/fil/khrj.md"
@@ -477,6 +546,7 @@
       "letter": "خ",
       "rootId": "khaf",
       "root": "خ-و-ف",
+      "form": "I",
       "formI": "خاف / يخاف",
       "example": "ما أخاف — I’m not afraid",
       "file": "vocab/fil/khaf.md"
@@ -490,6 +560,7 @@
       "letter": "خ",
       "rootId": "khdm",
       "root": "خ-د-م",
+      "form": "I",
       "formI": "خدم / يخدم",
       "example": "يخدم الزباين — He serves customers",
       "file": "vocab/fil/khdm.md"
@@ -503,6 +574,7 @@
       "letter": "خ",
       "rootId": "khlS",
       "root": "خ-ل-ص",
+      "form": "I",
       "formI": "خلص / يخلص",
       "example": "خلصت الشغل — I finished the work",
       "file": "vocab/fil/khlS.md"
@@ -516,6 +588,7 @@
       "letter": "د",
       "rootId": "dkhl",
       "root": "د-خ-ل",
+      "form": "I",
       "formI": "دخل / يدخل",
       "example": "ادخل — Come in",
       "file": "vocab/fil/dkhl.md"
@@ -529,9 +602,24 @@
       "letter": "د",
       "rootId": "drs",
       "root": "د-ر-س",
+      "form": "I",
       "formI": "درس / يدرس",
       "example": "أدرس عربي — I study Arabic",
       "file": "vocab/fil/drs.md"
+    },
+    {
+      "id": "drs-ii",
+      "arabic": "درّس",
+      "past": "درّس",
+      "present": "يدرّس",
+      "meaning": "studying · teach",
+      "letter": "د",
+      "rootId": "drs",
+      "root": "د-ر-س",
+      "form": "II",
+      "formI": "درّس / يدرّس",
+      "example": "درّس — Form II of د-ر-س",
+      "file": "vocab/fil/drs-ii.md"
     },
     {
       "id": "df3",
@@ -542,6 +630,7 @@
       "letter": "د",
       "rootId": "df3",
       "root": "د-ف-ع",
+      "form": "I",
       "formI": "دفع / يدفع",
       "example": "دفعت الحساب — I paid the bill",
       "file": "vocab/fil/df3.md"
@@ -555,6 +644,7 @@
       "letter": "د",
       "rootId": "dwr",
       "root": "د-و-ر",
+      "form": "I",
       "formI": "دار / يدور",
       "example": "أدور على مفتاح — I’m looking for a key",
       "file": "vocab/fil/dwr.md"
@@ -568,6 +658,7 @@
       "letter": "ذ",
       "rootId": "dhhb",
       "root": "ذ-ه-ب",
+      "form": "I",
       "formI": "ذهب / يذهب",
       "example": "وين تروح؟ — Where are you going?",
       "file": "vocab/fil/dhhb.md"
@@ -581,6 +672,7 @@
       "letter": "ذ",
       "rootId": "dhkr",
       "root": "ذ-ك-ر",
+      "form": "I",
       "formI": "ذكر / يذكر",
       "example": "تذكرت اسمه — I remembered his name",
       "file": "vocab/fil/dhkr.md"
@@ -594,6 +686,7 @@
       "letter": "ر",
       "rootId": "rj3",
       "root": "ر-ج-ع",
+      "form": "I",
       "formI": "رجع / يرجع",
       "example": "برجع بعدين — I’ll come back later",
       "file": "vocab/fil/rj3.md"
@@ -607,6 +700,7 @@
       "letter": "ر",
       "rootId": "rah",
       "root": "ر-و-ح",
+      "form": "I",
       "formI": "راح / يروح",
       "example": "أروح السوق — I’m going to the market",
       "file": "vocab/fil/rah.md"
@@ -620,6 +714,7 @@
       "letter": "ر",
       "rootId": "ray",
       "root": "ر-ا-ي",
+      "form": "I",
       "formI": "رأى / يرى",
       "example": "شفتك أمس — I saw you yesterday",
       "file": "vocab/fil/ray.md"
@@ -633,6 +728,7 @@
       "letter": "ر",
       "rootId": "rkb",
       "root": "ر-ك-ب",
+      "form": "I",
       "formI": "ركب / يركب",
       "example": "ركب السيارة — He got in the car",
       "file": "vocab/fil/rkb.md"
@@ -646,6 +742,7 @@
       "letter": "ر",
       "rootId": "rdd",
       "root": "ر-د-د",
+      "form": "I",
       "formI": "ردّ / يرد",
       "example": "رد عليّ — Reply to me",
       "file": "vocab/fil/rdd.md"
@@ -659,6 +756,7 @@
       "letter": "ر",
       "rootId": "rgb",
       "root": "ر-غ-ب",
+      "form": "I",
       "formI": "رغب / يرغب",
       "example": "أرغب في القهوة — I’d like coffee",
       "file": "vocab/fil/rgb.md"
@@ -672,6 +770,7 @@
       "letter": "ز",
       "rootId": "zwr",
       "root": "ز-و-ر",
+      "form": "I",
       "formI": "زار / يزور",
       "example": "بزور أهلي — I’ll visit my family",
       "file": "vocab/fil/zwr.md"
@@ -685,6 +784,7 @@
       "letter": "ز",
       "rootId": "zyd",
       "root": "ز-ي-د",
+      "form": "I",
       "formI": "زاد / يزيد",
       "example": "زاد السعر — The price went up",
       "file": "vocab/fil/zyd.md"
@@ -698,6 +798,7 @@
       "letter": "س",
       "rootId": "sal",
       "root": "س-أ-ل",
+      "form": "I",
       "formI": "سأل / يسأل",
       "example": "أسألك سؤال — Can I ask you something?",
       "file": "vocab/fil/sal.md"
@@ -707,10 +808,11 @@
       "arabic": "سوى",
       "past": "سوى",
       "present": "يسوي",
-      "meaning": "making / doing",
+      "meaning": "making / doing · do / make (Najdi main)",
       "letter": "س",
       "rootId": "swy",
       "root": "س-و-ي",
+      "form": "II",
       "formI": "سوى / يسوي",
       "example": "وش تسوي؟ — What are you doing?",
       "file": "vocab/fil/swy.md"
@@ -724,6 +826,7 @@
       "letter": "س",
       "rootId": "sm3",
       "root": "س-م-ع",
+      "form": "I",
       "formI": "سمع / يسمع",
       "example": "سمعتك — I heard you",
       "file": "vocab/fil/sm3.md"
@@ -737,6 +840,7 @@
       "letter": "س",
       "rootId": "skn",
       "root": "س-ك-ن",
+      "form": "I",
       "formI": "سكن / يسكن",
       "example": "أسكن في الرياض — I live in Riyadh",
       "file": "vocab/fil/skn.md"
@@ -750,6 +854,7 @@
       "letter": "س",
       "rootId": "syr",
       "root": "س-ي-ر",
+      "form": "I",
       "formI": "سار / يسير",
       "example": "سر معي — Walk with me",
       "file": "vocab/fil/syr.md"
@@ -763,6 +868,7 @@
       "letter": "س",
       "rootId": "sqT",
       "root": "س-ق-ط",
+      "form": "I",
       "formI": "سقط / يسقط",
       "example": "سقط الجوال — The phone fell",
       "file": "vocab/fil/sqT.md"
@@ -776,6 +882,7 @@
       "letter": "ش",
       "rootId": "shaf",
       "root": "ش-و-ف",
+      "form": "I",
       "formI": "شاف / يشوف",
       "example": "أشوفك بكرة — I’ll see you tomorrow",
       "file": "vocab/fil/shaf.md"
@@ -789,6 +896,7 @@
       "letter": "ش",
       "rootId": "shrb",
       "root": "ش-ر-ب",
+      "form": "I",
       "formI": "شرب / يشرب",
       "example": "أشرب شاهي — I drink tea",
       "file": "vocab/fil/shrb.md"
@@ -802,9 +910,24 @@
       "letter": "ش",
       "rootId": "shghl",
       "root": "ش-غ-ل",
+      "form": "I",
       "formI": "شغل / يشغل",
       "example": "وين تشتغل؟ — Where do you work?",
       "file": "vocab/fil/shghl.md"
+    },
+    {
+      "id": "shghl-viii",
+      "arabic": "اشتغل",
+      "past": "اشتغل",
+      "present": "يشتغل",
+      "meaning": "working / occupying · work (very common)",
+      "letter": "ش",
+      "rootId": "shghl",
+      "root": "ش-غ-ل",
+      "form": "VIII",
+      "formI": "اشتغل / يشتغل",
+      "example": "اشتغل — Form VIII of ش-غ-ل",
+      "file": "vocab/fil/shghl-viii.md"
     },
     {
       "id": "shry",
@@ -815,6 +938,7 @@
       "letter": "ش",
       "rootId": "shry",
       "root": "ش-ر-ي",
+      "form": "I",
       "formI": "شرى / يشري",
       "example": "شريت أكل — I bought food",
       "file": "vocab/fil/shry.md"
@@ -828,6 +952,7 @@
       "letter": "ش",
       "rootId": "shkk",
       "root": "ش-ك-ك",
+      "form": "I",
       "formI": "شكّ / يشك",
       "example": "ما أشك — I don’t doubt",
       "file": "vocab/fil/shkk.md"
@@ -841,6 +966,7 @@
       "letter": "ص",
       "rootId": "sar",
       "root": "ص-ي-ر",
+      "form": "I",
       "formI": "صار / يصير",
       "example": "صار الليل — It became night",
       "file": "vocab/fil/sar.md"
@@ -854,6 +980,7 @@
       "letter": "ص",
       "rootId": "sbr",
       "root": "ص-ب-ر",
+      "form": "I",
       "formI": "صبر / يصبر",
       "example": "اصبر شوي — Be patient a bit",
       "file": "vocab/fil/sbr.md"
@@ -867,6 +994,7 @@
       "letter": "ص",
       "rootId": "slh",
       "root": "ص-ل-ح",
+      "form": "I",
       "formI": "صلح / يصلح",
       "example": "يصلح الجوال — He fixes phones",
       "file": "vocab/fil/slh.md"
@@ -880,6 +1008,7 @@
       "letter": "ص",
       "rootId": "sbh",
       "root": "ص-ب-ح",
+      "form": "I",
       "formI": "صبح / يصبح",
       "example": "صباح الخير — Good morning",
       "file": "vocab/fil/sbh.md"
@@ -893,6 +1022,7 @@
       "letter": "ض",
       "rootId": "drb",
       "root": "ض-ر-ب",
+      "form": "I",
       "formI": "ضرب / يضرب",
       "example": "لا تضرب — Don’t hit",
       "file": "vocab/fil/drb.md"
@@ -906,6 +1036,7 @@
       "letter": "ض",
       "rootId": "dyq",
       "root": "ض-ي-ق",
+      "form": "I",
       "formI": "ضاق / يضيق",
       "example": "ضاق صدري — I feel upset",
       "file": "vocab/fil/dyq.md"
@@ -919,6 +1050,7 @@
       "letter": "ض",
       "rootId": "dHk",
       "root": "ض-ح-ك",
+      "form": "I",
       "formI": "ضحك / يضحك",
       "example": "يضحك كثير — He laughs a lot",
       "file": "vocab/fil/dHk.md"
@@ -932,6 +1064,7 @@
       "letter": "ط",
       "rootId": "tl3",
       "root": "ط-ل-ع",
+      "form": "I",
       "formI": "طلع / يطلع",
       "example": "طلعت برا — I went outside",
       "file": "vocab/fil/tl3.md"
@@ -945,6 +1078,7 @@
       "letter": "ط",
       "rootId": "tlb",
       "root": "ط-ل-ب",
+      "form": "I",
       "formI": "طلب / يطلب",
       "example": "طلبت قهوة — I ordered coffee",
       "file": "vocab/fil/tlb.md"
@@ -958,6 +1092,7 @@
       "letter": "ط",
       "rootId": "tbkh",
       "root": "ط-ب-خ",
+      "form": "I",
       "formI": "طبخ / يطبخ",
       "example": "أطبخ اليوم — I’m cooking today",
       "file": "vocab/fil/tbkh.md"
@@ -971,6 +1106,7 @@
       "letter": "ط",
       "rootId": "twl",
       "root": "ط-و-ل",
+      "form": "I",
       "formI": "طول / يطول",
       "example": "لا تطول — Don’t take long",
       "file": "vocab/fil/twl.md"
@@ -984,6 +1120,7 @@
       "letter": "ظ",
       "rootId": "znn",
       "root": "ظ-ن-ن",
+      "form": "I",
       "formI": "ظنّ / يظن",
       "example": "أظن كذا — I think so",
       "file": "vocab/fil/znn.md"
@@ -997,6 +1134,7 @@
       "letter": "ظ",
       "rootId": "zhr",
       "root": "ظ-ه-ر",
+      "form": "I",
       "formI": "ظهر / يظهر",
       "example": "ظهر الحل — The solution appeared",
       "file": "vocab/fil/zhr.md"
@@ -1010,6 +1148,7 @@
       "letter": "ع",
       "rootId": "3rf",
       "root": "ع-ر-ف",
+      "form": "I",
       "formI": "عرف / يعرف",
       "example": "أعرف الطريق — I know the way",
       "file": "vocab/fil/3rf.md"
@@ -1023,6 +1162,7 @@
       "letter": "ع",
       "rootId": "3ml",
       "root": "ع-م-ل",
+      "form": "I",
       "formI": "عمل / يعمل",
       "example": "وش تشتغل؟ — What do you do?",
       "file": "vocab/fil/3ml.md"
@@ -1036,6 +1176,7 @@
       "letter": "ع",
       "rootId": "3ysh",
       "root": "ع-ي-ش",
+      "form": "I",
       "formI": "عاش / يعيش",
       "example": "أعيش هنا — I live here",
       "file": "vocab/fil/3ysh.md"
@@ -1049,6 +1190,7 @@
       "letter": "ع",
       "rootId": "3ty",
       "root": "ع-ط-ي",
+      "form": "I",
       "formI": "عطى / يعطي",
       "example": "أعطني جوالك — Give me your phone",
       "file": "vocab/fil/3ty.md"
@@ -1062,6 +1204,7 @@
       "letter": "ع",
       "rootId": "3dd",
       "root": "ع-د-د",
+      "form": "I",
       "formI": "عدّ / يعد",
       "example": "عدّ الفلوس — Count the money",
       "file": "vocab/fil/3dd.md"
@@ -1071,13 +1214,42 @@
       "arabic": "علم",
       "past": "علم",
       "present": "يعلم",
-      "meaning": "knowing / teaching",
+      "meaning": "knowing / teaching · know (less used than يعرف)",
       "letter": "ع",
       "rootId": "3lm",
       "root": "ع-ل-م",
+      "form": "I",
       "formI": "علم / يعلم",
       "example": "تعلّم عربي — Learn Arabic",
       "file": "vocab/fil/3lm.md"
+    },
+    {
+      "id": "3lm-ii",
+      "arabic": "علّم",
+      "past": "علّم",
+      "present": "يعلّم",
+      "meaning": "knowing / teaching · teach",
+      "letter": "ع",
+      "rootId": "3lm",
+      "root": "ع-ل-م",
+      "form": "II",
+      "formI": "علّم / يعلّم",
+      "example": "علّم — Form II of ع-ل-م",
+      "file": "vocab/fil/3lm-ii.md"
+    },
+    {
+      "id": "3lm-v",
+      "arabic": "تعلّم",
+      "past": "تعلّم",
+      "present": "يتعلّم",
+      "meaning": "knowing / teaching · learn",
+      "letter": "ت",
+      "rootId": "3lm",
+      "root": "ع-ل-م",
+      "form": "V",
+      "formI": "تعلّم / يتعلّم",
+      "example": "تعلّم — Form V of ع-ل-م",
+      "file": "vocab/fil/3lm-v.md"
     },
     {
       "id": "ghsl",
@@ -1088,6 +1260,7 @@
       "letter": "غ",
       "rootId": "ghsl",
       "root": "غ-س-ل",
+      "form": "I",
       "formI": "غسل / يغسل",
       "example": "اغسل يدك — Wash your hands",
       "file": "vocab/fil/ghsl.md"
@@ -1101,6 +1274,7 @@
       "letter": "غ",
       "rootId": "ghyb",
       "root": "غ-ي-ب",
+      "form": "I",
       "formI": "غاب / يغيب",
       "example": "غاب عن الدرس — He missed the lesson",
       "file": "vocab/fil/ghyb.md"
@@ -1114,9 +1288,24 @@
       "letter": "غ",
       "rootId": "ghyr",
       "root": "غ-ي-ر",
+      "form": "II",
       "formI": "غيّر / يغيّر",
       "example": "غيّر رأيك — Change your mind",
       "file": "vocab/fil/ghyr.md"
+    },
+    {
+      "id": "ghyr-v",
+      "arabic": "تغيّر",
+      "past": "تغيّر",
+      "present": "يتغيّر",
+      "meaning": "changing · change (intransitive)",
+      "letter": "ت",
+      "rootId": "ghyr",
+      "root": "غ-ي-ر",
+      "form": "V",
+      "formI": "تغيّر / يتغيّر",
+      "example": "تغيّر — Form V of غ-ي-ر",
+      "file": "vocab/fil/ghyr-v.md"
     },
     {
       "id": "fth",
@@ -1127,6 +1316,7 @@
       "letter": "ف",
       "rootId": "fth",
       "root": "ف-ت-ح",
+      "form": "I",
       "formI": "فتح / يفتح",
       "example": "افتح الباب — Open the door",
       "file": "vocab/fil/fth.md"
@@ -1140,9 +1330,24 @@
       "letter": "ف",
       "rootId": "fhm",
       "root": "ف-ه-م",
+      "form": "I",
       "formI": "فهم / يفهم",
       "example": "فهمت؟ — Did you understand?",
       "file": "vocab/fil/fhm.md"
+    },
+    {
+      "id": "fhm-ii",
+      "arabic": "فهّم",
+      "past": "فهّم",
+      "present": "يفهّم",
+      "meaning": "understanding · make understand",
+      "letter": "ف",
+      "rootId": "fhm",
+      "root": "ف-ه-م",
+      "form": "II",
+      "formI": "فهّم / يفهّم",
+      "example": "فهّم — Form II of ف-ه-م",
+      "file": "vocab/fil/fhm-ii.md"
     },
     {
       "id": "fkr",
@@ -1153,6 +1358,7 @@
       "letter": "ف",
       "rootId": "fkr",
       "root": "ف-ك-ر",
+      "form": "II",
       "formI": "فكّر / يفكّر",
       "example": "خلني أفكر — Let me think",
       "file": "vocab/fil/fkr.md"
@@ -1166,6 +1372,7 @@
       "letter": "ف",
       "rootId": "f3l",
       "root": "ف-ع-ل",
+      "form": "I",
       "formI": "فعل / يفعل",
       "example": "وش أسوي؟ — What should I do?",
       "file": "vocab/fil/f3l.md"
@@ -1179,6 +1386,7 @@
       "letter": "ف",
       "rootId": "fqd",
       "root": "ف-ق-د",
+      "form": "I",
       "formI": "فقد / يفقد",
       "example": "فقدت المفتاح — I lost the key",
       "file": "vocab/fil/fqd.md"
@@ -1192,6 +1400,7 @@
       "letter": "ق",
       "rootId": "qwl",
       "root": "ق-و-ل",
+      "form": "I",
       "formI": "قال / يقول",
       "example": "وش قلت؟ — What did you say?",
       "file": "vocab/fil/qwl.md"
@@ -1205,6 +1414,7 @@
       "letter": "ق",
       "rootId": "qra",
       "root": "ق-ر-أ",
+      "form": "I",
       "formI": "قرأ / يقرأ",
       "example": "أقرأ كتاب — I’m reading a book",
       "file": "vocab/fil/qra.md"
@@ -1218,6 +1428,7 @@
       "letter": "ق",
       "rootId": "qwm",
       "root": "ق-و-م",
+      "form": "I",
       "formI": "قام / يقوم",
       "example": "قوم — Get up",
       "file": "vocab/fil/qwm.md"
@@ -1231,6 +1442,7 @@
       "letter": "ق",
       "rootId": "qdr",
       "root": "ق-د-ر",
+      "form": "I",
       "formI": "قدر / يقدر",
       "example": "أقدر أجي — I can come",
       "file": "vocab/fil/qdr.md"
@@ -1244,6 +1456,7 @@
       "letter": "ق",
       "rootId": "qt3",
       "root": "ق-ط-ع",
+      "form": "I",
       "formI": "قطع / يقطع",
       "example": "قطع الخط — The line cut off",
       "file": "vocab/fil/qt3.md"
@@ -1257,6 +1470,7 @@
       "letter": "ق",
       "rootId": "qrb",
       "root": "ق-ر-ب",
+      "form": "I",
       "formI": "قرب / يقرب",
       "example": "قرب مني — Come closer",
       "file": "vocab/fil/qrb.md"
@@ -1270,9 +1484,24 @@
       "letter": "ك",
       "rootId": "ktb",
       "root": "ك-ت-ب",
+      "form": "I",
       "formI": "كتب / يكتب",
       "example": "أكتب رسالة — I’m writing a letter",
       "file": "vocab/fil/ktb.md"
+    },
+    {
+      "id": "ktb-ii",
+      "arabic": "كتّب",
+      "past": "كتّب",
+      "present": "يكتّب",
+      "meaning": "writing · make write / dictate",
+      "letter": "ك",
+      "rootId": "ktb",
+      "root": "ك-ت-ب",
+      "form": "II",
+      "formI": "كتّب / يكتّب",
+      "example": "كتّب — Form II of ك-ت-ب",
+      "file": "vocab/fil/ktb-ii.md"
     },
     {
       "id": "kwn",
@@ -1283,6 +1512,7 @@
       "letter": "ك",
       "rootId": "kwn",
       "root": "ك-و-ن",
+      "form": "I",
       "formI": "كان / يكون",
       "example": "كان هنا — He was here",
       "file": "vocab/fil/kwn.md"
@@ -1292,13 +1522,28 @@
       "arabic": "كلّم",
       "past": "كلّم",
       "present": "يكلّم",
-      "meaning": "speaking",
+      "meaning": "speaking · talk to (main in speech)",
       "letter": "ك",
       "rootId": "klm",
       "root": "ك-ل-م",
+      "form": "II",
       "formI": "كلّم / يكلّم",
       "example": "كلّمني بعدين — Call / talk to me later",
       "file": "vocab/fil/klm.md"
+    },
+    {
+      "id": "klm-v",
+      "arabic": "تكلّم",
+      "past": "تكلّم",
+      "present": "يتكلّم",
+      "meaning": "speaking · speak",
+      "letter": "ت",
+      "rootId": "klm",
+      "root": "ك-ل-م",
+      "form": "V",
+      "formI": "تكلّم / يتكلّم",
+      "example": "تكلّم — Form V of ك-ل-م",
+      "file": "vocab/fil/klm-v.md"
     },
     {
       "id": "ksr",
@@ -1309,6 +1554,7 @@
       "letter": "ك",
       "rootId": "ksr",
       "root": "ك-س-ر",
+      "form": "I",
       "formI": "كسر / يكسر",
       "example": "انكسر الجوال — The phone broke",
       "file": "vocab/fil/ksr.md"
@@ -1322,6 +1568,7 @@
       "letter": "ك",
       "rootId": "kbr",
       "root": "ك-ب-ر",
+      "form": "I",
       "formI": "كبر / يكبر",
       "example": "كبر الولد — The boy grew up",
       "file": "vocab/fil/kbr.md"
@@ -1335,6 +1582,7 @@
       "letter": "ع",
       "rootId": "l3b",
       "root": "ل-ع-ب",
+      "form": "I",
       "formI": "لعب / يلعب",
       "example": "يلعب كورة — He plays football",
       "file": "vocab/fil/l3b.md"
@@ -1348,6 +1596,7 @@
       "letter": "ق",
       "rootId": "lqy",
       "root": "ل-ق-ي",
+      "form": "I",
       "formI": "لقى / يلقى",
       "example": "لقيت المفتاح — I found the key",
       "file": "vocab/fil/lqy.md"
@@ -1361,6 +1610,7 @@
       "letter": "ب",
       "rootId": "lbs",
       "root": "ل-ب-س",
+      "form": "I",
       "formI": "لبس / يلبس",
       "example": "وش تلبس؟ — What are you wearing?",
       "file": "vocab/fil/lbs.md"
@@ -1374,6 +1624,7 @@
       "letter": "ز",
       "rootId": "lzm",
       "root": "ل-ز-م",
+      "form": "I",
       "formI": "لزم / يلزم",
       "example": "لازم أروح — I must go",
       "file": "vocab/fil/lzm.md"
@@ -1387,6 +1638,7 @@
       "letter": "م",
       "rootId": "mshy",
       "root": "م-ش-ي",
+      "form": "I",
       "formI": "مشى / يمشي",
       "example": "أمشي كل يوم — I walk every day",
       "file": "vocab/fil/mshy.md"
@@ -1400,6 +1652,7 @@
       "letter": "م",
       "rootId": "msk",
       "root": "م-س-ك",
+      "form": "I",
       "formI": "مسك / يمسك",
       "example": "امسك هذي — Hold this",
       "file": "vocab/fil/msk.md"
@@ -1413,6 +1666,7 @@
       "letter": "م",
       "rootId": "mrr",
       "root": "م-ر-ر",
+      "form": "I",
       "formI": "مرّ / يمر",
       "example": "مرّيت من عندك — I passed by you",
       "file": "vocab/fil/mrr.md"
@@ -1426,6 +1680,7 @@
       "letter": "م",
       "rootId": "mwt",
       "root": "م-و-ت",
+      "form": "I",
       "formI": "مات / يموت",
       "example": "مات البطارية — The battery died",
       "file": "vocab/fil/mwt.md"
@@ -1439,6 +1694,7 @@
       "letter": "م",
       "rootId": "mlk",
       "root": "م-ل-ك",
+      "form": "I",
       "formI": "ملك / يملك",
       "example": "أملك سيارة — I own a car",
       "file": "vocab/fil/mlk.md"
@@ -1452,6 +1708,7 @@
       "letter": "ن",
       "rootId": "nam",
       "root": "ن-و-م",
+      "form": "I",
       "formI": "نام / ينام",
       "example": "أنام بدري — I sleep early",
       "file": "vocab/fil/nam.md"
@@ -1465,6 +1722,7 @@
       "letter": "ن",
       "rootId": "nzl",
       "root": "ن-ز-ل",
+      "form": "I",
       "formI": "نزل / ينزل",
       "example": "نزلت من السيارة — I got out of the car",
       "file": "vocab/fil/nzl.md"
@@ -1478,6 +1736,7 @@
       "letter": "ن",
       "rootId": "nzr",
       "root": "ن-ظ-ر",
+      "form": "I",
       "formI": "نظر / ينظر",
       "example": "انظر هنا — Look here",
       "file": "vocab/fil/nzr.md"
@@ -1491,6 +1750,7 @@
       "letter": "ن",
       "rootId": "nsy",
       "root": "ن-س-ي",
+      "form": "I",
       "formI": "نسي / ينسى",
       "example": "نسيت اسمه — I forgot his name",
       "file": "vocab/fil/nsy.md"
@@ -1504,6 +1764,7 @@
       "letter": "ن",
       "rootId": "nql",
       "root": "ن-ق-ل",
+      "form": "I",
       "formI": "نقل / ينقل",
       "example": "نقلت البيت — I moved house",
       "file": "vocab/fil/nql.md"
@@ -1517,6 +1778,7 @@
       "letter": "ه",
       "rootId": "hrb",
       "root": "ه-ر-ب",
+      "form": "I",
       "formI": "هرب / يهرب",
       "example": "هرب الكلب — The dog ran away",
       "file": "vocab/fil/hrb.md"
@@ -1530,6 +1792,7 @@
       "letter": "ه",
       "rootId": "hmm",
       "root": "ه-م-م",
+      "form": "I",
       "formI": "همّ / يهم",
       "example": "يهمني الأمر — This matters to me",
       "file": "vocab/fil/hmm.md"
@@ -1543,6 +1806,7 @@
       "letter": "ه",
       "rootId": "hdy",
       "root": "ه-د-ي",
+      "form": "I",
       "formI": "هدى / يهدي",
       "example": "اهدأ شوي — Calm down a bit",
       "file": "vocab/fil/hdy.md"
@@ -1556,9 +1820,24 @@
       "letter": "و",
       "rootId": "wsl",
       "root": "و-ص-ل",
+      "form": "I",
       "formI": "وصل / يوصل",
       "example": "وصلت البيت — I arrived home",
       "file": "vocab/fil/wsl.md"
+    },
+    {
+      "id": "wsl-ii",
+      "arabic": "وصّل",
+      "past": "وصّل",
+      "present": "يوصّل",
+      "meaning": "arriving / connecting · deliver / connect",
+      "letter": "و",
+      "rootId": "wsl",
+      "root": "و-ص-ل",
+      "form": "II",
+      "formI": "وصّل / يوصّل",
+      "example": "وصّل — Form II of و-ص-ل",
+      "file": "vocab/fil/wsl-ii.md"
     },
     {
       "id": "wqf",
@@ -1569,6 +1848,7 @@
       "letter": "و",
       "rootId": "wqf",
       "root": "و-ق-ف",
+      "form": "I",
       "formI": "وقف / يوقف",
       "example": "وقف هنا — Stop here",
       "file": "vocab/fil/wqf.md"
@@ -1582,6 +1862,7 @@
       "letter": "و",
       "rootId": "wd3",
       "root": "و-ض-ع",
+      "form": "I",
       "formI": "وضع / يوضع",
       "example": "حطها / ضعها هنا — Put it here",
       "file": "vocab/fil/wd3.md"
@@ -1595,6 +1876,7 @@
       "letter": "و",
       "rootId": "wjd",
       "root": "و-ج-د",
+      "form": "I",
       "formI": "وجد / يوجد",
       "example": "لقيت / ما فيه — I found it / there isn’t",
       "file": "vocab/fil/wjd.md"
@@ -1608,6 +1890,7 @@
       "letter": "و",
       "rootId": "wld",
       "root": "و-ل-د",
+      "form": "I",
       "formI": "ولد / يولد",
       "example": "ولد في الرياض — He was born in Riyadh",
       "file": "vocab/fil/wld.md"
@@ -1621,6 +1904,7 @@
       "letter": "و",
       "rootId": "ws3",
       "root": "و-س-ع",
+      "form": "I",
       "formI": "وسع / يوسع",
       "example": "المكان واسع — The place is spacious",
       "file": "vocab/fil/ws3.md"
@@ -1634,6 +1918,7 @@
       "letter": "ي",
       "rootId": "ysr",
       "root": "ي-س-ر",
+      "form": "I",
       "formI": "يسر / ييسر",
       "example": "الله ييسّر — May God make it easy",
       "file": "vocab/fil/ysr.md"
@@ -1647,6 +1932,7 @@
       "letter": "ي",
       "rootId": "ybs",
       "root": "ي-ب-س",
+      "form": "I",
       "formI": "يبس / ييبس",
       "example": "يبس الغسيل — The laundry dried",
       "file": "vocab/fil/ybs.md"

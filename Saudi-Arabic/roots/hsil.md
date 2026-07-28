@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ح-ص-ل |
-| **Letter** | ح · حاء |
 | **Meaning** | happening / getting |
-| **Form I** | حصل / يحصل |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **حصل / يحصل**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | حصل / يحصل | [Open](#fil/hsil) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | حصل | happening / getting | `#fil/hsil` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

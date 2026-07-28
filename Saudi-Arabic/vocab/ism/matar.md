@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| إلى المطار — to the airport |
+| إلى المطار — To the airport |
+| هذا مطار — This is a airport |
+| أحب مطار — I like airport |
+| وين مطار؟ — Where is the airport? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

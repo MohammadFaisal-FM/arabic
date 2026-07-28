@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | غ-ي-ر |
-| **Letter** | غ · غين |
 | **Meaning** | changing |
-| **Form I** | غيّر / يغيّر |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,16 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **غيّر / يغيّر**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| II | غيّر / يغيّر | [Open](#fil/ghyr) |
+| V | تغيّر / يتغيّر · change (intransitive) | [Open](#fil/ghyr-v) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | غيّر | changing | `#fil/ghyr` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

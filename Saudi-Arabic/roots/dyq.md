@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ض-ي-ق |
-| **Letter** | ض · ضاد |
 | **Meaning** | being tight / annoyed |
-| **Form I** | ضاق / يضيق |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **ضاق / يضيق**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | ضاق / يضيق | [Open](#fil/dyq) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | ضاق | being tight / annoyed | `#fil/dyq` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

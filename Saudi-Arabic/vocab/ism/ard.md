@@ -14,10 +14,6 @@
 
 | Arabic · English |
 |------------------|
-| على الأرض — on the floor |
+| في أرض العميان الأعور هو الملك. — In the land of the blind, the one-eyed is the king. |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

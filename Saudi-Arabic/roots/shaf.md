@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ش-و-ف |
-| **Letter** | ش · شين |
 | **Meaning** | seeing (Najdi) |
-| **Form I** | شاف / يشوف |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **شاف / يشوف**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | شاف / يشوف | [Open](#fil/shaf) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | شاف | seeing (Najdi) | `#fil/shaf` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

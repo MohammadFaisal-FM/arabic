@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| في المستشفى — in the hospital |
+| في المستشفى — In the hospital |
+| هذا مستشفى — This is a hospital |
+| أحب مستشفى — I like hospital |
+| وين مستشفى؟ — Where is the hospital? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ع-ل-م |
-| **Letter** | ع · عين |
 | **Meaning** | knowing / teaching |
-| **Form I** | علم / يعلم |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **علم / يعلم**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | علم / يعلم · know (less used than يعرف) | [Open](#fil/3lm) |
+| II | علّم / يعلّم · teach | [Open](#fil/3lm-ii) |
+| V | تعلّم / يتعلّم · learn | [Open](#fil/3lm-v) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | علم | knowing / teaching | `#fil/3lm` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

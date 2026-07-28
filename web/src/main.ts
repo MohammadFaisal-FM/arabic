@@ -3,7 +3,7 @@ import './style.css';
 
 const BASE = import.meta.env.BASE_URL;
 
-type Tab = 'home' | 'course' | 'ism' | 'fil' | 'harf' | 'roots' | 'lyrics';
+type Tab = 'home' | 'course' | 'ism' | 'fil' | 'harf' | 'roots' | 'damair' | 'lyrics';
 type WordKind = 'ism' | 'fil' | 'harf';
 
 interface Stats {
@@ -52,6 +52,13 @@ interface LyricsManifest {
   songs: SongEntry[];
 }
 
+interface RootFormEntry {
+  form: string;
+  verb: string;
+  note?: string;
+  filId?: string;
+}
+
 interface RootEntry {
   id: string;
   root: string;
@@ -62,6 +69,7 @@ interface RootEntry {
   file: string;
   filId?: string;
   ismIds?: string[];
+  forms?: RootFormEntry[] | null;
 }
 
 interface RootLetterMeta {
@@ -236,6 +244,20 @@ function setHash(tab: Tab, idOrOpts?: string | { id?: string; q?: string }) {
   history.replaceState(null, '', hash);
 }
 
+/** Make in-app #fil/… #ism/… #roots/… links navigate the SPA. */
+function wireAppHashLinks(container: HTMLElement) {
+  container.querySelectorAll('a[href^="#"]').forEach((node) => {
+    const a = node as HTMLAnchorElement;
+    const href = a.getAttribute('href') ?? '';
+    if (!/^#(fil|ism|harf|roots|damair|lyrics|home|course)(\/|$|\?)/.test(href)) return;
+    a.addEventListener('click', (ev) => {
+      ev.preventDefault();
+      history.pushState(null, '', href);
+      applyHashRoute();
+    });
+  });
+}
+
 function parseHashParts(): { segment: string; itemId: string; q: string } | null {
   const raw = window.location.hash.replace(/^#/, '');
   if (!raw) return null;
@@ -297,7 +319,7 @@ async function applyHashRoute(): Promise<boolean> {
     return true;
   }
 
-  if (segment === 'home' || segment === 'course') {
+  if (segment === 'home' || segment === 'course' || segment === 'damair') {
     activeTab = segment;
     if (activeTab === 'course' && !activeLessonFile) {
       activeLessonFile = 'course/00-start/00-welcome.md';
@@ -367,9 +389,10 @@ function renderNav() {
   const tabs: { id: Tab; icon: string; label: string }[] = [
     { id: 'home', icon: '🏠', label: 'Home' },
     { id: 'course', icon: '📚', label: 'Course' },
+    { id: 'damair', icon: 'ضمائر', label: 'Damāʾir' },
     { id: 'roots', icon: '🌱', label: 'Roots' },
-    { id: 'ism', icon: 'اسم', label: 'Ism' },
     { id: 'fil', icon: 'فعل', label: 'Fiʿl' },
+    { id: 'ism', icon: 'اسم', label: 'Ism' },
     { id: 'harf', icon: 'حرف', label: 'Ḥarf' },
     { id: 'lyrics', icon: '🎵', label: 'Lyrics' },
   ];
@@ -669,37 +692,8 @@ function appendCrossLinks(
   word: WordEntry,
   kind: WordKind
 ) {
-  if (kind === 'harf' || !word.rootId) return;
-  const row = el('div', 'cross-links');
-
-  const rootBtn = el(
-    'button',
-    'btn btn-outline cross-link-btn',
-    `Root ${word.root ?? word.rootId}`
-  );
-  rootBtn.onclick = () => {
-    activeRootFile = `roots/${word.rootId}.md`;
-    activeTab = 'roots';
-    setHash('roots', word.rootId!);
-    renderNav();
-    renderMain();
-  };
-  row.appendChild(rootBtn);
-
-  if (kind === 'ism') {
-    const filBtn = el('button', 'btn btn-outline cross-link-btn', 'Fiʿl (verb)');
-    filBtn.onclick = () => {
-      activeWordKind = 'fil';
-      activeWordFile = `vocab/fil/${word.rootId}.md`;
-      activeTab = 'fil';
-      setHash('fil', word.rootId!);
-      renderNav();
-      renderMain();
-    };
-    row.appendChild(filBtn);
-  }
-
-  host.appendChild(row);
+  // Fiʿl / Ism: links live in the page content (field table + Example → Links)
+  if (kind === 'harf' || kind === 'fil' || kind === 'ism') return;
 }
 
 async function renderWordLibrary(main: HTMLElement, kind: WordKind) {
@@ -809,6 +803,7 @@ async function renderWordDetail(main: HTMLElement, kind: WordKind) {
     const body = el('div', 'md-content root-content');
     body.style.marginTop = '0.75rem';
     body.innerHTML = await marked.parse(text);
+    wireAppHashLinks(body);
     main.appendChild(body);
   } catch {
     main.innerHTML = '<p class="loading">Could not load word.</p>';
@@ -974,8 +969,6 @@ async function renderRootDetail(main: HTMLElement) {
   main.innerHTML = '<p class="loading">Loading root…</p>';
   main.className = 'main root-detail-page';
   try {
-    const manifest = await loadRootsManifest();
-    const root = manifest.roots.find((r) => r.file === activeRootFile);
     const text = await fetchText(activeRootFile);
     main.innerHTML = '';
 
@@ -987,45 +980,34 @@ async function renderRootDetail(main: HTMLElement) {
     };
     main.appendChild(back);
 
-    if (root) {
-      const row = el('div', 'cross-links');
-      const filBtn = el('button', 'btn btn-outline cross-link-btn', 'Fiʿl (verb)');
-      filBtn.onclick = () => {
-        activeWordKind = 'fil';
-        activeWordFile = `vocab/fil/${root.id}.md`;
-        activeTab = 'fil';
-        setHash('fil', root.id);
-        renderNav();
-        renderMain();
-      };
-      row.appendChild(filBtn);
-
-      if ((root.ismIds ?? []).length) {
-        const ismLib = await loadWordManifest('ism');
-        for (const ismId of root.ismIds!) {
-          const ism = ismLib.items.find((i) => i.id === ismId);
-          const label = ism ? `Ism · ${ism.arabic}` : `Ism · ${ismId}`;
-          const btn = el('button', 'btn btn-outline cross-link-btn', label);
-          btn.onclick = () => {
-            activeWordKind = 'ism';
-            activeWordFile = `vocab/ism/${ismId}.md`;
-            activeTab = 'ism';
-            setHash('ism', ismId);
-            renderNav();
-            renderMain();
-          };
-          row.appendChild(btn);
-        }
-      }
-      main.appendChild(row);
-    }
-
     const body = el('div', 'md-content root-content');
     body.style.marginTop = '0.75rem';
     body.innerHTML = await marked.parse(text);
+    wireAppHashLinks(body);
     main.appendChild(body);
   } catch {
     main.innerHTML = '<p class="loading">Could not load root.</p>';
+  }
+}
+
+async function renderDamair(main: HTMLElement) {
+  main.innerHTML = '<p class="loading">Loading…</p>';
+  main.className = 'main damair-page';
+  try {
+    const text = await fetchText('reference/damair-pronouns.md');
+    main.innerHTML = '';
+    const header = el('div', 'library-header');
+    header.innerHTML = `
+      <h2 class="page-title">Damāʾir · Pronouns</h2>
+      <p class="page-sub">ضمائر — full Fusha set, the 8 we drill, and suffixes (كتابي · كتابك…)</p>
+    `;
+    main.appendChild(header);
+    const body = el('div', 'md-content damair-content');
+    body.innerHTML = await marked.parse(text);
+    wireAppHashLinks(body);
+    main.appendChild(body);
+  } catch {
+    main.innerHTML = '<p class="loading">Could not load pronouns guide.</p>';
   }
 }
 
@@ -1148,6 +1130,9 @@ async function renderMain() {
       break;
     case 'fil':
       await renderWordLibrary(main, 'fil');
+      break;
+    case 'damair':
+      await renderDamair(main);
       break;
     case 'harf':
       await renderWordLibrary(main, 'harf');

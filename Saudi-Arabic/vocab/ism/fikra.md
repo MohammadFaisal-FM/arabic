@@ -6,7 +6,7 @@
 | **Subtype** | noun |
 | **Arabic** | فكرة |
 | **Meaning** | idea |
-| **Root** | ف-ك-ر (`fkr`) |
+| **Root** | [ف-ك-ر](#roots/fkr) |
 
 ---
 
@@ -15,9 +15,15 @@
 | Arabic · English |
 |------------------|
 | عندي فكرة — I have an idea |
+| هذا فكرة — This is a idea |
+| أحب فكرة — I like idea |
+| وين فكرة؟ — Where is the idea? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ف-ك-ر** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ف-ك-ر](#roots/fkr) |
+| **Fiʿl** | [فكّر / يفكّر](#fil/fkr) |
+

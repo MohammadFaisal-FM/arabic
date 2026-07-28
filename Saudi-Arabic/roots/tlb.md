@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ط-ل-ب |
-| **Letter** | ط · طاء |
 | **Meaning** | requesting / ordering |
-| **Form I** | طلب / يطلب |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **طلب / يطلب**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | طلب / يطلب | [Open](#fil/tlb) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | طلب | requesting / ordering | `#fil/tlb` |
-| اسم | طالب | student | `#ism/talib` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم فاعل · ism fāʿil (doer) | طالب | أنا طالب — I am a student |
 

@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | و-ق-ف |
-| **Letter** | و · واو |
 | **Meaning** | stopping / standing |
-| **Form I** | وقف / يوقف |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **وقف / يوقف**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | وقف / يوقف | [Open](#fil/wqf) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | وقف | stopping / standing | `#fil/wqf` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

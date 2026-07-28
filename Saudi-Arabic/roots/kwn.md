@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ك-و-ن |
-| **Letter** | ك · كاف |
 | **Meaning** | being |
-| **Form I** | كان / يكون |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **كان / يكون**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | كان / يكون | [Open](#fil/kwn) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | كان | being | `#fil/kwn` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

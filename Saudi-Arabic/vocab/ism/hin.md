@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| الحين مشغول — I’m busy now |
+| الحين مشغول — Busy now |
+| هذا الحين — This is a now (najdi) |
+| أحب الحين — I like now (najdi) |
+| وين الحين؟ — Where is the now (najdi)? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

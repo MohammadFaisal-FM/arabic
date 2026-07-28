@@ -6,7 +6,7 @@
 | **Subtype** | place |
 | **Arabic** | مدرسة |
 | **Meaning** | school |
-| **Root** | د-ر-س (`drs`) |
+| **Root** | [د-ر-س](#roots/drs) |
 
 ---
 
@@ -15,9 +15,15 @@
 | Arabic · English |
 |------------------|
 | رحت المدرسة — I went to school |
+| هذا مدرسة — This is a school |
+| أحب مدرسة — I like school |
+| وين مدرسة؟ — Where is the school? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → د-ر-س** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [د-ر-س](#roots/drs) |
+| **Fiʿl** | [درس / يدرس](#fil/drs) |
+

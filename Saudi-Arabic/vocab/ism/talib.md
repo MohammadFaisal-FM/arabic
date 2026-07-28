@@ -6,7 +6,7 @@
 | **Subtype** | doer |
 | **Arabic** | طالب |
 | **Meaning** | student |
-| **Root** | ط-ل-ب (`tlb`) |
+| **Root** | [ط-ل-ب](#roots/tlb) |
 
 ---
 
@@ -15,9 +15,15 @@
 | Arabic · English |
 |------------------|
 | أنا طالب — I am a student |
+| هذا طالب — This is a student |
+| أحب طالب — I like student |
+| وين طالب؟ — Where is the student? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ط-ل-ب** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ط-ل-ب](#roots/tlb) |
+| **Fiʿl** | [طلب / يطلب](#fil/tlb) |
+

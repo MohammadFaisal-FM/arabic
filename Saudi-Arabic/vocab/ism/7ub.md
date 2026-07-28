@@ -6,7 +6,7 @@
 | **Subtype** | noun |
 | **Arabic** | حب |
 | **Meaning** | love |
-| **Root** | ح-ب-ب (`hbb`) |
+| **Root** | [ح-ب-ب](#roots/hbb) |
 
 ---
 
@@ -14,10 +14,16 @@
 
 | Arabic · English |
 |------------------|
-| من حب — from love |
+| من حب — From love |
+| هذا حب — This is a love |
+| أحب حب — I like love |
+| وين حب؟ — Where is the love? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ح-ب-ب** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ح-ب-ب](#roots/hbb) |
+| **Fiʿl** | [حبّ / يحب](#fil/hbb) |
+

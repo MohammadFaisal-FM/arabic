@@ -6,7 +6,7 @@
 | **Subtype** | noun |
 | **Arabic** | كلام |
 | **Meaning** | talk / speech |
-| **Root** | ك-ل-م (`klm`) |
+| **Root** | [ك-ل-م](#roots/klm) |
 
 ---
 
@@ -14,10 +14,16 @@
 
 | Arabic · English |
 |------------------|
-| كلامك صحيح — Your talk is right |
+| كلامك صحيح — What you say is true |
+| هذا كلام — This is a talk |
+| أحب كلام — I like talk |
+| وين كلام؟ — Where is the talk? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ك-ل-م** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ك-ل-م](#roots/klm) |
+| **Fiʿl** | [كلّم / يكلّم](#fil/klm) |
+

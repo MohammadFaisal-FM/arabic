@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| رقم جوالك — your phone number |
+| رقم جوالك — Your mobile number |
+| هذا رقم — This is a number |
+| أحب رقم — I like number |
+| وين رقم؟ — Where is the number? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

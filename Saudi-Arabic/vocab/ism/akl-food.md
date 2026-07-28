@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | أكلت رز — I ate rice |
+| هذا رز — This is a rice |
+| أحب رز — I like rice |
+| وين رز؟ — Where is the rice? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

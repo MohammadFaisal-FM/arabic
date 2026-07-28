@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ن-ظ-ر |
-| **Letter** | ن · نون |
 | **Meaning** | looking |
-| **Form I** | نظر / ينظر |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **نظر / ينظر**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | نظر / ينظر | [Open](#fil/nzr) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | نظر | looking | `#fil/nzr` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

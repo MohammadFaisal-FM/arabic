@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ح-ف-ظ |
-| **Letter** | ح · حاء |
 | **Meaning** | memorizing / keeping |
-| **Form I** | حفظ / يحفظ |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **حفظ / يحفظ**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | حفظ / يحفظ | [Open](#fil/hfz) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | حفظ | memorizing / keeping | `#fil/hfz` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

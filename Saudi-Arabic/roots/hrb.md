@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ه-ر-ب |
-| **Letter** | ه · هاء |
 | **Meaning** | escaping / running away |
-| **Form I** | هرب / يهرب |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **هرب / يهرب**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | هرب / يهرب | [Open](#fil/hrb) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | هرب | escaping / running away | `#fil/hrb` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | أ-خ-ذ |
-| **Letter** | أ · ألف |
 | **Meaning** | taking |
-| **Form I** | أخذ / ياخذ |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **أخذ / ياخذ**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | أخذ / ياخذ | [Open](#fil/akhd) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | أخذ | taking | `#fil/akhd` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

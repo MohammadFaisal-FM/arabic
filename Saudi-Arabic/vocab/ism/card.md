@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| بطاقتي — my card |
+| بطاقتي — My card |
+| هذا بطاقة — This is a card |
+| أحب بطاقة — I like card |
+| وين بطاقة؟ — Where is the card? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

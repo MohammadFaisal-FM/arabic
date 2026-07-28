@@ -1,127 +1,4448 @@
 {
-  "note": "Everyday ism (nouns) for conversation — includes root-derived nouns and loanwords. Overlaps with Roots when rootId is set.",
+  "note": "Merged curated Saudi/Najdi nouns (git) with online Tatoeba/Wiktionary import. Deduped by Arabic form; backup junk (particles, failed lookups) excluded.",
   "items": [
-    { "id": "kitab", "arabic": "كتاب", "meaning": "book", "rootId": "ktb", "subtype": "noun", "example": "هذا كتاب — This is a book" },
-    { "id": "katib", "arabic": "كاتب", "meaning": "writer", "rootId": "ktb", "subtype": "doer", "example": "هو كاتب — He is a writer" },
-    { "id": "kitaba", "arabic": "كتابة", "meaning": "writing", "rootId": "ktb", "subtype": "masdar", "example": "الكتابة صعبة — Writing is hard" },
-    { "id": "maktab", "arabic": "مكتب", "meaning": "office / desk", "rootId": "ktb", "subtype": "place", "example": "في المكتب — at the office" },
-    { "id": "maktaba", "arabic": "مكتبة", "meaning": "library / bookstore", "rootId": "ktb", "subtype": "place", "example": "رحت المكتبة — I went to the library" },
-    { "id": "maktub", "arabic": "مكتوب", "meaning": "written (thing) / fate", "rootId": "ktb", "subtype": "done-to", "example": "مكتوب كذا — It’s written / destined like that" },
-
-    { "id": "akl-n", "arabic": "أكل", "meaning": "food / eating", "rootId": "akl", "subtype": "masdar", "example": "الأكل لذيذ — The food is delicious" },
-    { "id": "shurb", "arabic": "شرب", "meaning": "drinking", "rootId": "shrb", "subtype": "masdar", "example": "الشرب مهم — Drinking (water) matters" },
-    { "id": "shoghl", "arabic": "شغل", "meaning": "work / job", "rootId": "shghl", "subtype": "noun", "example": "عندي شغل — I have work" },
-    { "id": "suwal", "arabic": "سؤال", "meaning": "question", "rootId": "sal", "subtype": "noun", "example": "عندي سؤال — I have a question" },
-    { "id": "jawab", "arabic": "جواب", "meaning": "answer", "subtype": "noun", "example": "وين الجواب؟ — Where’s the answer?" },
-    { "id": "kalam", "arabic": "كلام", "meaning": "talk / speech", "rootId": "klm", "subtype": "noun", "example": "كلامك صحيح — Your talk is right" },
-    { "id": "dars", "arabic": "درس", "meaning": "lesson", "rootId": "drs", "subtype": "noun", "example": "عندي درس — I have a lesson" },
-    { "id": "madrasa", "arabic": "مدرسة", "meaning": "school", "rootId": "drs", "subtype": "place", "example": "رحت المدرسة — I went to school" },
-    { "id": "talib", "arabic": "طالب", "meaning": "student", "rootId": "tlb", "subtype": "doer", "example": "أنا طالب — I am a student" },
-    { "id": "amal", "arabic": "عمل", "meaning": "work / job", "rootId": "3ml", "subtype": "noun", "example": "أدور على عمل — I’m looking for work" },
-    { "id": "bayt", "arabic": "بيت", "meaning": "house / home", "subtype": "noun", "example": "في البيت — at home" },
-    { "id": "bab", "arabic": "باب", "meaning": "door", "subtype": "noun", "example": "افتح الباب — Open the door" },
-    { "id": "tariq", "arabic": "طريق", "meaning": "road / way", "subtype": "noun", "example": "أعرف الطريق — I know the way" },
-    { "id": "sayyara", "arabic": "سيارة", "meaning": "car", "subtype": "noun", "example": "سيارتي جديدة — My car is new" },
-    { "id": "miftah", "arabic": "مفتاح", "meaning": "key", "rootId": "fth", "subtype": "noun", "example": "وين المفتاح؟ — Where’s the key?" },
-    { "id": "flus", "arabic": "فلوس", "meaning": "money (colloquial)", "subtype": "noun", "example": "ما عندي فلوس — I don’t have money" },
-    { "id": "suq", "arabic": "سوق", "meaning": "market", "subtype": "noun", "example": "أروح السوق — I’m going to the market" },
-    { "id": "matar", "arabic": "مطار", "meaning": "airport", "subtype": "noun", "example": "إلى المطار — to the airport" },
-    { "id": "masjid", "arabic": "مسجد", "meaning": "mosque", "subtype": "noun", "example": "جنب المسجد — next to the mosque" },
-    { "id": "mustashfa", "arabic": "مستشفى", "meaning": "hospital", "subtype": "noun", "example": "في المستشفى — in the hospital" },
-    { "id": "fanduq", "arabic": "فندق", "meaning": "hotel", "subtype": "loan", "example": "في الفندق — at the hotel" },
-    { "id": "qahwa", "arabic": "قهوة", "meaning": "coffee", "subtype": "noun", "example": "أبغى قهوة — I want coffee" },
-    { "id": "shahi", "arabic": "شاهي", "meaning": "tea (Gulf)", "subtype": "noun", "example": "أشرب شاهي — I drink tea" },
-    { "id": "may", "arabic": "ماي", "meaning": "water (Najdi)", "subtype": "noun", "example": "أبي ماي — I want water" },
-    { "id": "akl-food", "arabic": "رز", "meaning": "rice", "subtype": "noun", "example": "أكلت رز — I ate rice" },
-    { "id": "khubz", "arabic": "خبز", "meaning": "bread", "subtype": "noun", "example": "عندنا خبز — We have bread" },
-    { "id": "yawm", "arabic": "يوم", "meaning": "day", "subtype": "noun", "example": "كل يوم — every day" },
-    { "id": "layl", "arabic": "ليل", "meaning": "night", "subtype": "noun", "example": "صار الليل — It became night" },
-    { "id": "saa", "arabic": "ساعة", "meaning": "hour / watch / clock", "subtype": "noun", "example": "ساعة واحدة — one o’clock" },
-    { "id": "daqiqa", "arabic": "دقيقة", "meaning": "minute", "subtype": "noun", "example": "بس دقيقة — just a minute" },
-    { "id": "usbu", "arabic": "أسبوع", "meaning": "week", "subtype": "noun", "example": "الأسبوع الجاي — next week" },
-    { "id": "shahr", "arabic": "شهر", "meaning": "month", "subtype": "noun", "example": "هذا الشهر — this month" },
-    { "id": "sana", "arabic": "سنة", "meaning": "year", "subtype": "noun", "example": "كل سنة — every year" },
-    { "id": "sabah", "arabic": "صباح", "meaning": "morning", "rootId": "sbh", "subtype": "noun", "example": "صباح الخير — Good morning" },
-    { "id": "masa", "arabic": "مساء", "meaning": "evening", "subtype": "noun", "example": "مساء الخير — Good evening" },
-    { "id": "bukra", "arabic": "بكرة", "meaning": "tomorrow (Najdi)", "subtype": "noun", "example": "أشوفك بكرة — I’ll see you tomorrow" },
-    { "id": "ams", "arabic": "أمس", "meaning": "yesterday", "subtype": "noun", "example": "شفتك أمس — I saw you yesterday" },
-    { "id": "hin", "arabic": "الحين", "meaning": "now (Najdi)", "subtype": "noun", "example": "الحين مشغول — I’m busy now" },
-    { "id": "waqt", "arabic": "وقت", "meaning": "time", "subtype": "noun", "example": "ما عندي وقت — I don’t have time" },
-    { "id": "ism-n", "arabic": "اسم", "meaning": "name", "subtype": "noun", "example": "وش اسمك؟ — What’s your name?" },
-    { "id": "rajul", "arabic": "رجل", "meaning": "man", "subtype": "noun", "example": "هذا رجل — This is a man" },
-    { "id": "marra", "arabic": "مرة", "meaning": "woman (Najdi) / time", "subtype": "noun", "example": "هذي مرة — This is a woman" },
-    { "id": "walad", "arabic": "ولد", "meaning": "boy / child", "rootId": "wld", "subtype": "noun", "example": "كبر الولد — The boy grew up" },
-    { "id": "bint", "arabic": "بنت", "meaning": "girl / daughter", "subtype": "noun", "example": "هذي بنتي — This is my daughter" },
-    { "id": "umm", "arabic": "أم", "meaning": "mother", "subtype": "noun", "example": "أمي — my mother" },
-    { "id": "ab", "arabic": "أب", "meaning": "father", "subtype": "noun", "example": "أبي — my father" },
-    { "id": "akh", "arabic": "أخ", "meaning": "brother", "subtype": "noun", "example": "أخوي — my brother" },
-    { "id": "ukht", "arabic": "أخت", "meaning": "sister", "subtype": "noun", "example": "أختي — my sister" },
-    { "id": "ahl", "arabic": "أهل", "meaning": "family / folks", "subtype": "noun", "example": "بزور أهلي — I’ll visit my family" },
-    { "id": "sadeeq", "arabic": "صديق", "meaning": "friend", "subtype": "noun", "example": "هذا صديقي — This is my friend" },
-    { "id": "yad", "arabic": "يد", "meaning": "hand", "subtype": "noun", "example": "اغسل يدك — Wash your hand" },
-    { "id": "ras", "arabic": "راس", "meaning": "head (colloquial)", "subtype": "noun", "example": "راسي يوجعني — My head hurts" },
-    { "id": "ayn", "arabic": "عين", "meaning": "eye", "subtype": "noun", "example": "عيوني — my eyes" },
-    { "id": "qalb", "arabic": "قلب", "meaning": "heart", "subtype": "noun", "example": "من قلبي — from my heart" },
-    { "id": "shanta", "arabic": "شنطة", "meaning": "bag", "subtype": "noun", "example": "احمل الشنطة — Carry the bag" },
-    { "id": "thawb", "arabic": "ثوب", "meaning": "thobe / dress", "subtype": "noun", "example": "ثوبي جديد — My thobe is new" },
-    { "id": "na3l", "arabic": "نعل", "meaning": "sandal / shoe (Gulf)", "subtype": "noun", "example": "وين نعلي؟ — Where are my sandals?" },
-    { "id": "kursi", "arabic": "كرسي", "meaning": "chair", "subtype": "noun", "example": "اجلس على الكرسي — Sit on the chair" },
-    { "id": "tawila", "arabic": "طاولة", "meaning": "table", "subtype": "noun", "example": "على الطاولة — on the table" },
-    { "id": "ghurfa", "arabic": "غرفة", "meaning": "room", "subtype": "noun", "example": "في الغرفة — in the room" },
-    { "id": "hammam", "arabic": "حمّام", "meaning": "bathroom", "subtype": "noun", "example": "وين الحمّام؟ — Where’s the bathroom?" },
-    { "id": "matbakh", "arabic": "مطبخ", "meaning": "kitchen", "rootId": "tbkh", "subtype": "place", "example": "في المطبخ — in the kitchen" },
-    { "id": "nar", "arabic": "نار", "meaning": "fire / heat", "subtype": "noun", "example": "النار حارة — The fire is hot" },
-    { "id": "harr", "arabic": "حر", "meaning": "heat / hot weather", "subtype": "noun", "example": "اليوم حر — It’s hot today" },
-    { "id": "bard", "arabic": "برد", "meaning": "cold", "subtype": "noun", "example": "الليلة برد — It’s cold tonight" },
-    { "id": "shams", "arabic": "شمس", "meaning": "sun", "subtype": "noun", "example": "الشمس قوية — The sun is strong" },
-    { "id": "qamar", "arabic": "قمر", "meaning": "moon", "subtype": "noun", "example": "القمر حلو — The moon is nice" },
-    { "id": "sama", "arabic": "سما", "meaning": "sky", "subtype": "noun", "example": "السما صافية — The sky is clear" },
-    { "id": "ard", "arabic": "أرض", "meaning": "ground / earth / floor", "subtype": "noun", "example": "على الأرض — on the floor" },
-    { "id": "balad", "arabic": "بلد", "meaning": "country / town", "subtype": "noun", "example": "بلدي السعودية — My country is Saudi Arabia" },
-    { "id": "madina", "arabic": "مدينة", "meaning": "city", "subtype": "noun", "example": "المدينة كبيرة — The city is big" },
-    { "id": "riyadh", "arabic": "الرياض", "meaning": "Riyadh", "subtype": "name", "example": "أسكن في الرياض — I live in Riyadh" },
-    { "id": "saudi", "arabic": "السعودية", "meaning": "Saudi Arabia", "subtype": "name", "example": "من السعودية — from Saudi Arabia" },
-    { "id": "arabi", "arabic": "عربي", "meaning": "Arabic / Arab", "subtype": "noun", "example": "أتعلّم عربي — I’m learning Arabic" },
-    { "id": "ingleezi", "arabic": "إنجليزي", "meaning": "English", "subtype": "loan", "example": "أتكلم إنجليزي — I speak English" },
-    { "id": "kalima", "arabic": "كلمة", "meaning": "word", "rootId": "klm", "subtype": "noun", "example": "كلمة جديدة — a new word" },
-    { "id": "jumlah", "arabic": "جملة", "meaning": "sentence", "subtype": "noun", "example": "هذي جملة — This is a sentence" },
-    { "id": "harf-n", "arabic": "حرف", "meaning": "letter / particle", "subtype": "noun", "example": "هذا حرف — This is a letter/particle" },
-    { "id": "fil-n", "arabic": "فعل", "meaning": "verb / action", "rootId": "f3l", "subtype": "noun", "example": "هذا فعل — This is a verb" },
-    { "id": "jidhr", "arabic": "جذر", "meaning": "root", "subtype": "noun", "example": "جذر الكلمة — the word’s root" },
-    { "id": "risala", "arabic": "رسالة", "meaning": "message / letter", "subtype": "noun", "example": "أكتب رسالة — I’m writing a message" },
-    { "id": "khabar", "arabic": "خبر", "meaning": "news", "subtype": "noun", "example": "وش الخبر؟ — What’s the news?" },
-    { "id": "mushkila", "arabic": "مشكلة", "meaning": "problem", "subtype": "noun", "example": "ما في مشكلة — No problem" },
-    { "id": "hall", "arabic": "حل", "meaning": "solution", "subtype": "noun", "example": "ظهر الحل — The solution appeared" },
-    { "id": "fikra", "arabic": "فكرة", "meaning": "idea", "rootId": "fkr", "subtype": "noun", "example": "عندي فكرة — I have an idea" },
-    { "id": "ray-n", "arabic": "رأي", "meaning": "opinion", "rootId": "ray", "subtype": "noun", "example": "وش رأيك؟ — What’s your opinion?" },
-    { "id": "7ub", "arabic": "حب", "meaning": "love", "rootId": "hbb", "subtype": "noun", "example": "من حب — from love" },
-    { "id": "khawf", "arabic": "خوف", "meaning": "fear", "rootId": "khaf", "subtype": "noun", "example": "ما في خوف — no fear" },
-    { "id": "farah", "arabic": "فرح", "meaning": "joy", "subtype": "noun", "example": "فرحت كثير — I was very happy" },
-    { "id": "taab", "arabic": "تعب", "meaning": "tiredness", "subtype": "noun", "example": "من التعب — from tiredness" },
-    { "id": "marad", "arabic": "مرض", "meaning": "illness", "subtype": "noun", "example": "عندي مرض — I’m sick" },
-    { "id": "dawa", "arabic": "دوا", "meaning": "medicine", "subtype": "noun", "example": "خذ الدوا — Take the medicine" },
-    { "id": "jawwal", "arabic": "جوال", "meaning": "mobile phone (Gulf)", "subtype": "loan", "example": "وين جوالي؟ — Where’s my phone?" },
-    { "id": "telephone", "arabic": "تلفون", "meaning": "telephone", "subtype": "loan", "example": "رقم التلفون — phone number" },
-    { "id": "computer", "arabic": "كمبيوتر", "meaning": "computer", "subtype": "loan", "example": "على الكمبيوتر — on the computer" },
-    { "id": "internet", "arabic": "إنترنت", "meaning": "internet", "subtype": "loan", "example": "ما في إنترنت — no internet" },
-    { "id": "wifi", "arabic": "واي فاي", "meaning": "Wi‑Fi", "subtype": "loan", "example": "وش باس الوواي فاي؟ — What’s the Wi‑Fi password?" },
-    { "id": "app", "arabic": "تطبيق", "meaning": "app", "subtype": "noun", "example": "نزّل التطبيق — Download the app" },
-    { "id": "mesej", "arabic": "مسج", "meaning": "message (loan)", "subtype": "loan", "example": "أرسل مسج — Send a message" },
-    { "id": "ok", "arabic": "أوكي", "meaning": "OK", "subtype": "loan", "example": "أوكي تمام — OK, fine" },
-    { "id": "taxi", "arabic": "تاكسي", "meaning": "taxi", "subtype": "loan", "example": "خذ تاكسي — Take a taxi" },
-    { "id": "bus", "arabic": "باص", "meaning": "bus", "subtype": "loan", "example": "الباص جاي — The bus is coming" },
-    { "id": "bank", "arabic": "بنك", "meaning": "bank", "subtype": "loan", "example": "رحت البنك — I went to the bank" },
-    { "id": "card", "arabic": "بطاقة", "meaning": "card", "subtype": "noun", "example": "بطاقتي — my card" },
-    { "id": "password", "arabic": "باسورد", "meaning": "password", "subtype": "loan", "example": "الباسورد غلط — The password is wrong" },
-    { "id": "number", "arabic": "رقم", "meaning": "number", "subtype": "noun", "example": "رقم جوالك — your phone number" },
-    { "id": "si3r", "arabic": "سعر", "meaning": "price", "subtype": "noun", "example": "كم السعر؟ — What’s the price?" },
-    { "id": "hisab", "arabic": "حساب", "meaning": "bill / account", "rootId": "df3", "subtype": "noun", "example": "دفعت الحساب — I paid the bill" },
-    { "id": "mahal", "arabic": "محل", "meaning": "shop", "subtype": "noun", "example": "المحل قريب — The shop is near" },
-    { "id": "mata3im", "arabic": "مطعم", "meaning": "restaurant", "rootId": "tbkh", "subtype": "place", "example": "نروح مطعم؟ — Shall we go to a restaurant?" },
-    { "id": "qahwa-place", "arabic": "قهوة", "meaning": "café (same word as coffee)", "subtype": "place", "example": "نقعد في القهوة — Let’s sit at the café" },
-    { "id": "koora", "arabic": "كورة", "meaning": "ball / football", "rootId": "l3b", "subtype": "noun", "example": "يلعب كورة — He plays football" },
-    { "id": "film", "arabic": "فيلم", "meaning": "film / movie", "subtype": "loan", "example": "نشوف فيلم — Let’s watch a movie" },
-    { "id": "musiga", "arabic": "موسيقى", "meaning": "music", "subtype": "loan", "example": "أحب الموسيقى — I love music" },
-    { "id": "aghani", "arabic": "أغاني", "meaning": "songs", "subtype": "noun", "example": "أسمع أغاني — I listen to songs" }
+    {
+      "id": "ab",
+      "arabic": "أب",
+      "meaning": "father",
+      "subtype": "noun",
+      "example": "أبي",
+      "exampleEn": "my dad"
+    },
+    {
+      "id": "online-100",
+      "arabic": "اباده",
+      "meaning": "annihilation, extermination, eradication",
+      "subtype": "noun",
+      "example": "بما أنّه لا يمكن اجتناب مقتل الآلاف من النّاس في عزّة، فإنّ كلّ هجوم واسع يُشنّ على هذه المنطقة يُعتبر إبادة جماعيّة.",
+      "exampleEn": "Since the killing of thousands of people in Azza is unavoidable, any large-scale attack launched on this area is considered genocide."
+    },
+    {
+      "id": "online-019",
+      "arabic": "ابتسامه",
+      "meaning": "smile",
+      "subtype": "noun",
+      "example": "كان فاضل طفلا صغيرا ذو ابتسامة مشعّة.",
+      "exampleEn": "Fadel was a little boy with a radiant smile."
+    },
+    {
+      "id": "online-031",
+      "arabic": "ابد",
+      "meaning": "Never",
+      "subtype": "noun",
+      "example": "وَمَنْ لا يُحِبّ صُعُودَ الجِبَـالِ/يَعِشْ أَبَدَ الدَّهْرِ بَيْنَ الحُفَـر",
+      "exampleEn": "He who does not like to climb mountains will live forever among the holes."
+    },
+    {
+      "id": "online-048",
+      "arabic": "ابره",
+      "meaning": "needle",
+      "subtype": "noun",
+      "example": "كَمن يبحث عن إبرة في كومة قَشّ.",
+      "exampleEn": "Like looking for a needle in a haystack."
+    },
+    {
+      "id": "online-079",
+      "arabic": "اتجاه",
+      "meaning": "direction",
+      "subtype": "noun",
+      "example": "حلقت الطيور في كل اتجاه.",
+      "exampleEn": "Birds flew in every direction."
+    },
+    {
+      "id": "online-032",
+      "arabic": "اتخاذ",
+      "meaning": "take",
+      "subtype": "noun",
+      "example": "يؤسفُني عدم إتخاذ نصيحة الطبيب.",
+      "exampleEn": "I regret not taking the doctor's advice."
+    },
+    {
+      "id": "online-063",
+      "arabic": "اتصال",
+      "meaning": "communication",
+      "subtype": "noun",
+      "example": "تبقى على اتصال معه.",
+      "exampleEn": "Keep in touch with him."
+    },
+    {
+      "id": "online-101",
+      "arabic": "اتقان",
+      "meaning": "fixing",
+      "subtype": "noun",
+      "example": "من المستحيل إتقان اللغة الإنجليزية خلال عامٍ واحد أو ما يقارب ذلك.",
+      "exampleEn": "It is impossible to master the English language in one year or so."
+    },
+    {
+      "id": "online-064",
+      "arabic": "اتهام",
+      "meaning": "accusation",
+      "subtype": "noun",
+      "example": "هل تم اتهام توم؟",
+      "exampleEn": "Was Tom charged?"
+    },
+    {
+      "id": "online-080",
+      "arabic": "اتون",
+      "meaning": "Come",
+      "subtype": "noun",
+      "example": "إنهم أتون إلي منزلنا, نحن لن نذهب إلي منزلهم.",
+      "exampleEn": "They come to our house, we are not going to their house."
+    },
+    {
+      "id": "online-033",
+      "arabic": "اثاره",
+      "meaning": "stir",
+      "subtype": "noun",
+      "example": "لاحظ محقّقوا الشّرطة آثارة للسّحب على الأرض.",
+      "exampleEn": "Police investigators noticed drag marks on the ground."
+    },
+    {
+      "id": "online-049",
+      "arabic": "اثبات",
+      "meaning": "proof",
+      "subtype": "noun",
+      "example": "أيمكنك إثبات ذلك؟",
+      "exampleEn": "Can you prove that?"
+    },
+    {
+      "id": "online-050",
+      "arabic": "اجازه",
+      "meaning": "vacation",
+      "subtype": "noun",
+      "example": "نصحها الطبيب بأخذ إجازة.",
+      "exampleEn": "The doctor advised her to take a vacation."
+    },
+    {
+      "id": "online-065",
+      "arabic": "اجتماعي",
+      "meaning": "social",
+      "subtype": "noun",
+      "example": "لكل فرد الحق في التمتع بنظام اجتماعي دولي تتحقق بمقتضاه الحقوق والحريات المنصوص عليها في هذا الإعلان تحققا تاما.",
+      "exampleEn": "Everyone has the right to an international social order in which the rights and freedoms set forth in this Declaration are fully realized."
+    },
+    {
+      "id": "online-066",
+      "arabic": "اجتماعيه",
+      "meaning": "Social",
+      "subtype": "noun",
+      "example": "أصبح مشروع تتويبا ظاهرة إجتماعية و ثقافية مهمة في بلده الأم فرنسا.",
+      "exampleEn": "The Tatoeba project has become an important social and cultural phenomenon in its native France."
+    },
+    {
+      "id": "online-020",
+      "arabic": "اجراء",
+      "meaning": "procedure, work, deed",
+      "subtype": "noun",
+      "example": "الأمر متروك للحكومة لاتخاذ إجراء بشأن العنف.",
+      "exampleEn": "It is up to the government to take action on the violence."
+    },
+    {
+      "id": "online-034",
+      "arabic": "اجنبي",
+      "meaning": "foreign",
+      "subtype": "noun",
+      "example": "أنا أجنبي.",
+      "exampleEn": "I am a foreigner."
+    },
+    {
+      "id": "online-102",
+      "arabic": "احتجاز",
+      "meaning": "detention, confinement",
+      "subtype": "noun",
+      "example": "تمّ احتجاز ليلى من أجل تلقّي العلاج.",
+      "exampleEn": "Laila was detained to receive treatment."
+    },
+    {
+      "id": "online-103",
+      "arabic": "احتفال",
+      "meaning": "celebration, ceremony, festival, festivities",
+      "subtype": "noun",
+      "example": "عيد ميلاد المسيح احتفال مسيحي و المسلمون لا يحتفلون به.",
+      "exampleEn": "Christmas is a Christian celebration, but Muslims do not celebrate it."
+    },
+    {
+      "id": "online-011",
+      "arabic": "احتمال",
+      "meaning": "probability",
+      "subtype": "noun",
+      "example": "هناك إحتمال أن تندلع الحرب.",
+      "exampleEn": "There is a possibility that war will break out."
+    },
+    {
+      "id": "online-081",
+      "arabic": "احداث",
+      "meaning": "events",
+      "subtype": "noun",
+      "example": "توقّف سامي عن إحداث ذلك الصّوت.",
+      "exampleEn": "Sami stopped making that sound."
+    },
+    {
+      "id": "online-082",
+      "arabic": "احساس",
+      "meaning": "sense",
+      "subtype": "noun",
+      "example": "لديّ إحساس أني كنت هنا من قبل.",
+      "exampleEn": "I have a feeling I've been here before."
+    },
+    {
+      "id": "online-104",
+      "arabic": "احياء",
+      "meaning": "revival, vitalization, revivification, reanimation",
+      "subtype": "noun",
+      "example": "كان سامي راغبا في إحياء علاقته مع ليلى.",
+      "exampleEn": "Sami wanted to revive his relationship with Laila."
+    },
+    {
+      "id": "akh",
+      "arabic": "أخ",
+      "meaning": "brother",
+      "subtype": "noun",
+      "example": "أخوي",
+      "exampleEn": "brotherly"
+    },
+    {
+      "id": "online-105",
+      "arabic": "اخافه",
+      "meaning": "Scared him",
+      "subtype": "noun",
+      "example": "أراد فاضل إخافة ليلى.",
+      "exampleEn": "Fadel wanted to scare Laila."
+    },
+    {
+      "id": "ukht",
+      "arabic": "أخت",
+      "meaning": "sister",
+      "subtype": "noun",
+      "example": "لي أخت واحدة.",
+      "exampleEn": "I have one sister."
+    },
+    {
+      "id": "online-021",
+      "arabic": "اختبار",
+      "meaning": "test",
+      "subtype": "noun",
+      "example": "عندي اختبار في الغد.",
+      "exampleEn": "I have a test tomorrow."
+    },
+    {
+      "id": "online-106",
+      "arabic": "اختراع",
+      "meaning": "invention",
+      "subtype": "noun",
+      "example": "لقد تم اختراع الطائرة الورقية قبل ألفَيْ عام.",
+      "exampleEn": "The kite was invented two thousand years ago."
+    },
+    {
+      "id": "online-083",
+      "arabic": "اختطاف",
+      "meaning": "abduction",
+      "subtype": "noun",
+      "example": "كان سامي يخطّط لعمليّة اختطاف.",
+      "exampleEn": "Sami was planning a kidnapping."
+    },
+    {
+      "id": "online-107",
+      "arabic": "اختلاف",
+      "meaning": "difference",
+      "subtype": "noun",
+      "example": "إنه اختلاف.",
+      "exampleEn": "It's a difference."
+    },
+    {
+      "id": "online-012",
+      "arabic": "اختيار",
+      "meaning": "to choose",
+      "subtype": "noun",
+      "example": "يمكنك اختيار أي واحد منهم.",
+      "exampleEn": "You can choose any one of them."
+    },
+    {
+      "id": "online-051",
+      "arabic": "اخراج",
+      "meaning": "Take out",
+      "subtype": "noun",
+      "example": "كان سامي راغبا في إخراج ليلى من الصّورة.",
+      "exampleEn": "Sami wanted to take Laila out of the picture."
+    },
+    {
+      "id": "online-052",
+      "arabic": "اخفاء",
+      "meaning": "Hide",
+      "subtype": "noun",
+      "example": "تقول أنك تتعمدُ إخفاء مظهرك الحسن؟",
+      "exampleEn": "Are you saying that you deliberately hide your good looks?"
+    },
+    {
+      "id": "online-108",
+      "arabic": "اخلاء",
+      "meaning": "evacuation",
+      "subtype": "noun",
+      "example": "يجب أن يتمّ إخلاء العيادة.",
+      "exampleEn": "The clinic must be evacuated."
+    },
+    {
+      "id": "online-109",
+      "arabic": "اخلاق",
+      "meaning": "ethics",
+      "subtype": "noun",
+      "example": "من الواضح أنّ مدرّسك ليس لديه أخلاق.",
+      "exampleEn": "Your teacher clearly has no morals."
+    },
+    {
+      "id": "online-022",
+      "arabic": "اداء",
+      "meaning": "performance",
+      "subtype": "noun",
+      "example": "أداء هذه السيارة أفضل من تلك.",
+      "exampleEn": "This car performs better than that one."
+    },
+    {
+      "id": "online-067",
+      "arabic": "اداه",
+      "meaning": "tool",
+      "subtype": "noun",
+      "example": "تتويبا أداة يمكن أن يستخدمها الطلاب في الفصل.",
+      "exampleEn": "Tatoeba is a tool that students can use in class."
+    },
+    {
+      "id": "online-035",
+      "arabic": "ادخال",
+      "meaning": "Input",
+      "subtype": "noun",
+      "example": "عليك إدخال رقم البيت، الحي، الرمز البريدي والشارع كل على حدى.",
+      "exampleEn": "You must enter the house number, neighborhood, zip code and street separately."
+    },
+    {
+      "id": "online-068",
+      "arabic": "ادم",
+      "meaning": "Adam",
+      "subtype": "noun",
+      "example": "آن آدم جوان چیز زیادی درمورد مملکت‌اش نمی‌داند.",
+      "exampleEn": "Now that Adam is there, he will increase his reputation."
+    },
+    {
+      "id": "online-069",
+      "arabic": "ادمان",
+      "meaning": "addiction",
+      "subtype": "noun",
+      "example": "إدمان الإنترنت موجود حقا.",
+      "exampleEn": "Internet addiction really exists."
+    },
+    {
+      "id": "online-013",
+      "arabic": "اذان",
+      "meaning": "Adhan",
+      "subtype": "noun",
+      "example": "كلّي آذانٌ صاغية.",
+      "exampleEn": "I am all ears."
+    },
+    {
+      "id": "online-036",
+      "arabic": "اراده",
+      "meaning": "will",
+      "subtype": "noun",
+      "example": "حيث هناك إرادة هناك وسيلة.",
+      "exampleEn": "Where there is a will there is a way."
+    },
+    {
+      "id": "online-110",
+      "arabic": "ارتفاع",
+      "meaning": "to rise",
+      "subtype": "noun",
+      "example": "ما هو ارتفاع ذلك البرج؟",
+      "exampleEn": "How high is that tower?"
+    },
+    {
+      "id": "online-084",
+      "arabic": "ارز",
+      "meaning": "rice",
+      "subtype": "noun",
+      "example": "هل لديكم أرز؟",
+      "exampleEn": "Do you have rice?"
+    },
+    {
+      "id": "online-037",
+      "arabic": "ارسال",
+      "meaning": "send",
+      "subtype": "noun",
+      "example": "علينا ألا ننسى إرسال هذه الرسالة غدا.",
+      "exampleEn": "We must not forget to send this message tomorrow."
+    },
+    {
+      "id": "ard",
+      "arabic": "أرض",
+      "meaning": "ground / earth / floor",
+      "subtype": "noun",
+      "example": "في أرض العميان الأعور هو الملك.",
+      "exampleEn": "In the land of the blind, the one-eyed is the king."
+    },
+    {
+      "id": "online-085",
+      "arabic": "ارضاء",
+      "meaning": "satisfaction",
+      "subtype": "noun",
+      "example": "أنا لا أعرف مفتاح النجاح، لكن مفتاح الفشل هو محاولة ارضاء الجميع .",
+      "exampleEn": "I don't know the key to success, but the key to failure is trying to please everyone."
+    },
+    {
+      "id": "online-111",
+      "arabic": "ارضه",
+      "meaning": "His land",
+      "subtype": "noun",
+      "example": "حرث المزارع أرضه.",
+      "exampleEn": "The farmer plowed his land."
+    },
+    {
+      "id": "online-070",
+      "arabic": "ارضيه",
+      "meaning": "floor",
+      "subtype": "noun",
+      "example": "البيت انهدم في هزة أرضية.",
+      "exampleEn": "The house collapsed in an earthquake."
+    },
+    {
+      "id": "online-112",
+      "arabic": "ارم",
+      "meaning": "Toss",
+      "subtype": "noun",
+      "example": "من فضلك اِرمِ الكرة.",
+      "exampleEn": "Please throw the ball."
+    },
+    {
+      "id": "online-113",
+      "arabic": "ازاء",
+      "meaning": "About",
+      "subtype": "noun",
+      "example": "قف إزاء الباب المغلوق",
+      "exampleEn": "Stand in front of the closed door"
+    },
+    {
+      "id": "online-114",
+      "arabic": "ازدحام",
+      "meaning": "congestion",
+      "subtype": "noun",
+      "example": "تأخّرتُ بسبب إزدحام الطريق.",
+      "exampleEn": "I was delayed due to road congestion."
+    },
+    {
+      "id": "online-115",
+      "arabic": "ازعاج",
+      "meaning": "harassment",
+      "subtype": "noun",
+      "example": "كف عن إزعاج والدك",
+      "exampleEn": "Stop annoying your father"
+    },
+    {
+      "id": "online-116",
+      "arabic": "ازل",
+      "meaning": "Remove",
+      "subtype": "noun",
+      "example": "أزل الغُبار عن المرآة.",
+      "exampleEn": "Remove dust from the mirror."
+    },
+    {
+      "id": "online-071",
+      "arabic": "ازهار",
+      "meaning": "blossom",
+      "subtype": "noun",
+      "example": "يا لها من أزهار جميلة!",
+      "exampleEn": "What beautiful flowers!"
+    },
+    {
+      "id": "online-008",
+      "arabic": "اساس",
+      "meaning": "foundation, basis, base",
+      "subtype": "noun",
+      "example": "الرياضيات أساس الحرية.",
+      "exampleEn": "Mathematics is the basis of freedom."
+    },
+    {
+      "id": "online-014",
+      "arabic": "اساسي",
+      "meaning": "fundamentalist",
+      "subtype": "noun",
+      "example": "هذا سؤال أساسي.",
+      "exampleEn": "This is a basic question."
+    },
+    {
+      "id": "online-086",
+      "arabic": "اسباب",
+      "meaning": "Reasons",
+      "subtype": "noun",
+      "example": "رفضت عن أسباب شخصية.",
+      "exampleEn": "I refused for personal reasons."
+    },
+    {
+      "id": "online-087",
+      "arabic": "اسباني",
+      "meaning": "Spanish",
+      "subtype": "noun",
+      "example": "أعمل مع إسبانيّ.",
+      "exampleEn": "I work with a Spaniard."
+    },
+    {
+      "id": "usbu",
+      "arabic": "أسبوع",
+      "meaning": "week",
+      "subtype": "noun",
+      "example": "ستعود في غضون أسبوع.",
+      "exampleEn": "You'll be back in a week."
+    },
+    {
+      "id": "online-117",
+      "arabic": "استئجار",
+      "meaning": "Rent",
+      "subtype": "noun",
+      "example": "كم سعر استئجار الغرفة؟",
+      "exampleEn": "How much does it cost to rent a room?"
+    },
+    {
+      "id": "online-118",
+      "arabic": "استراتيجيه",
+      "meaning": "strategy",
+      "subtype": "noun",
+      "example": "الأمل ليس استراتيجية.",
+      "exampleEn": "Hope is not a strategy."
+    },
+    {
+      "id": "online-015",
+      "arabic": "استراحه",
+      "meaning": "reposing, resting",
+      "subtype": "noun",
+      "example": "لنأخذ استراحة قصيرة.",
+      "exampleEn": "Let's take a short break."
+    },
+    {
+      "id": "online-119",
+      "arabic": "استرجاع",
+      "meaning": "recovery",
+      "subtype": "noun",
+      "example": "لا تزال ليلى تعمل من أجل استرجاع صحّتها.",
+      "exampleEn": "Laila is still working to regain her health."
+    },
+    {
+      "id": "online-120",
+      "arabic": "استعداد",
+      "meaning": "ready",
+      "subtype": "noun",
+      "example": "يقول توم بأنه على استعداد لعمل أي شيء من أجلي",
+      "exampleEn": "Tom says he'd do anything for me"
+    },
+    {
+      "id": "online-088",
+      "arabic": "استقلال",
+      "meaning": "independence",
+      "subtype": "noun",
+      "example": "انعزال هو إستقلال.",
+      "exampleEn": "Isolation is independence."
+    },
+    {
+      "id": "online-089",
+      "arabic": "استكشاف",
+      "meaning": "exploration",
+      "subtype": "noun",
+      "example": "توم يواصل استكشاف أفكار أخرى حول المنتج الجديد",
+      "exampleEn": "Tom continues to explore other ideas for the new product"
+    },
+    {
+      "id": "online-072",
+      "arabic": "اسد",
+      "meaning": "A lion",
+      "subtype": "noun",
+      "example": "أطلق النار على أسد.",
+      "exampleEn": "Shoot a lion."
+    },
+    {
+      "id": "online-038",
+      "arabic": "اسرار",
+      "meaning": "Secrets",
+      "subtype": "noun",
+      "example": "من يا ترى سيكشف أسرار المحيط؟",
+      "exampleEn": "Who do you think will reveal the secrets of the ocean?"
+    },
+    {
+      "id": "online-053",
+      "arabic": "اسفل",
+      "meaning": "lowest",
+      "subtype": "noun",
+      "example": "إقرأ أسفل الصفحة.",
+      "exampleEn": "Read bottom of page."
+    },
+    {
+      "id": "online-016",
+      "arabic": "اسلوب",
+      "meaning": "method, manner, mode, style, technique",
+      "subtype": "noun",
+      "example": "انه خارج نطاق العمل الحالي وصف جميع المكونات التي تكون اسلوب ايميت المعماري.",
+      "exampleEn": "It is beyond the scope of the present work to describe all the components that make up Emmett's architectural style."
+    },
+    {
+      "id": "ism-n",
+      "arabic": "اسم",
+      "meaning": "name",
+      "subtype": "noun",
+      "example": "وش اسمك؟",
+      "exampleEn": "What's your name?"
+    },
+    {
+      "id": "online-023",
+      "arabic": "اسماء",
+      "meaning": "names",
+      "subtype": "noun",
+      "example": "إنه يعرف أسماء كل زبائنه.",
+      "exampleEn": "He knows the names of all his customers."
+    },
+    {
+      "id": "online-007",
+      "arabic": "اسنان",
+      "meaning": "teeth",
+      "subtype": "noun",
+      "example": "توم لديه موعد اسنان عند الثانية والنصف",
+      "exampleEn": "Tom has a dental appointment at 2:30"
+    },
+    {
+      "id": "online-090",
+      "arabic": "اسير",
+      "meaning": "prisoner",
+      "subtype": "noun",
+      "example": "كنت أسير حول المدرسة.",
+      "exampleEn": "I was walking around the school."
+    },
+    {
+      "id": "online-039",
+      "arabic": "اشاره",
+      "meaning": "signal",
+      "subtype": "noun",
+      "example": "كانوا يترقبون اشارة البدء.",
+      "exampleEn": "They were waiting for the signal to start."
+    },
+    {
+      "id": "online-054",
+      "arabic": "اشد",
+      "meaning": "Harder",
+      "subtype": "noun",
+      "example": "الخوفُ أكثر ضرراً من أشد السيوف.",
+      "exampleEn": "Fear is more harmful than the sharpest swords."
+    },
+    {
+      "id": "online-121",
+      "arabic": "اشعار",
+      "meaning": "notice",
+      "subtype": "noun",
+      "example": "تم إشعار الجميع.",
+      "exampleEn": "Everyone has been notified."
+    },
+    {
+      "id": "online-122",
+      "arabic": "اشغال",
+      "meaning": "works",
+      "subtype": "noun",
+      "example": "لا تزال لديها أشغال منزليّة عليها القيام بها.",
+      "exampleEn": "She still has housework to do."
+    },
+    {
+      "id": "online-040",
+      "arabic": "اصابه",
+      "meaning": "infection",
+      "subtype": "noun",
+      "example": "أصابه الصلع في شبابه.",
+      "exampleEn": "He became bald in his youth."
+    },
+    {
+      "id": "online-123",
+      "arabic": "اصبع",
+      "meaning": "finger",
+      "subtype": "noun",
+      "example": "لدي ألم في اصبع قدمي الصغير.",
+      "exampleEn": "I have pain in my little toe."
+    },
+    {
+      "id": "online-124",
+      "arabic": "اصحاب",
+      "meaning": "Friends",
+      "subtype": "noun",
+      "example": "حضر اللقاء عدد من أصحاب الإختصاص.",
+      "exampleEn": "The meeting was attended by a number of specialists."
+    },
+    {
+      "id": "online-017",
+      "arabic": "اضافه",
+      "meaning": "genitive/possessive construction, ʾiḍāfa",
+      "subtype": "noun",
+      "example": "بَيْدَ أن مشروع تتويبا ليس \"جنّة كلمات\". توقفوا رجاءً عن إضافة الكلمات.",
+      "exampleEn": "However, the Tatoeba project is not a “paradise of words.” Please stop adding words."
+    },
+    {
+      "id": "online-073",
+      "arabic": "اضراب",
+      "meaning": "strike",
+      "subtype": "noun",
+      "example": "هناك إضراب.",
+      "exampleEn": "There is a strike."
+    },
+    {
+      "id": "online-055",
+      "arabic": "اضعاف",
+      "meaning": "Fold",
+      "subtype": "noun",
+      "example": "في أمريكا، تضاعف معدل استهلاك الوجبات السريعة ثلاثة أضعاف ما بين عامي 1977 و 1995.",
+      "exampleEn": "In America, fast food consumption tripled between 1977 and 1995."
+    },
+    {
+      "id": "online-056",
+      "arabic": "اطار",
+      "meaning": "framework",
+      "subtype": "noun",
+      "example": "زيري إطار.",
+      "exampleEn": "Ziri tire."
+    },
+    {
+      "id": "online-091",
+      "arabic": "اطعام",
+      "meaning": "feeding",
+      "subtype": "noun",
+      "example": "في الشتاء يجب علينا إطعام الطيور.",
+      "exampleEn": "In winter we must feed the birds."
+    },
+    {
+      "id": "online-041",
+      "arabic": "اعجاب",
+      "meaning": "wonder",
+      "subtype": "noun",
+      "example": "لم تثر الفكرة إعجاب سامي.",
+      "exampleEn": "Sami did not like the idea."
+    },
+    {
+      "id": "online-009",
+      "arabic": "اعداد",
+      "meaning": "numbers",
+      "subtype": "noun",
+      "example": "إعداد المخططات شيء و تنفيذها شيء آخر.",
+      "exampleEn": "Preparing plans is one thing, implementing them is another."
+    },
+    {
+      "id": "online-024",
+      "arabic": "اعزب",
+      "meaning": "bachelor",
+      "subtype": "noun",
+      "example": "توم شاب و أعزب",
+      "exampleEn": "Tom is young and single"
+    },
+    {
+      "id": "online-092",
+      "arabic": "اعلان",
+      "meaning": "advertisement",
+      "subtype": "noun",
+      "example": "ردّت ليلى على إعلان سامي.",
+      "exampleEn": "Laila responded to Sami's ad."
+    },
+    {
+      "id": "aghani",
+      "arabic": "أغاني",
+      "meaning": "songs",
+      "subtype": "noun",
+      "example": "أسمع أغاني",
+      "exampleEn": "I hear songs"
+    },
+    {
+      "id": "online-093",
+      "arabic": "اغراء",
+      "meaning": "temptation",
+      "subtype": "noun",
+      "example": "حاولت ماري إغراء توم.",
+      "exampleEn": "Mary tried to seduce Tom."
+    },
+    {
+      "id": "online-025",
+      "arabic": "اغلبيه",
+      "meaning": "majority",
+      "subtype": "noun",
+      "example": "أغلبية الفنادق مفتوحة طوال العام.",
+      "exampleEn": "The majority of hotels are open all year round."
+    },
+    {
+      "id": "online-125",
+      "arabic": "افاق",
+      "meaning": "Horizons",
+      "subtype": "noun",
+      "example": "السفر يوسع آفاق تفكير المرء.",
+      "exampleEn": "Travel broadens one's horizons of thinking."
+    },
+    {
+      "id": "online-126",
+      "arabic": "افطار",
+      "meaning": "breakfast",
+      "subtype": "noun",
+      "example": "حضر علي إفطار عند سامي.",
+      "exampleEn": "Ali had breakfast with Sami."
+    },
+    {
+      "id": "online-026",
+      "arabic": "اقام",
+      "meaning": "Stay",
+      "subtype": "noun",
+      "example": "أقام سامي علاقة غير شرعيّة مع امرأة متزوِّجة.",
+      "exampleEn": "Sami had an illegal relationship with a married woman."
+    },
+    {
+      "id": "online-042",
+      "arabic": "اقامه",
+      "meaning": "stay",
+      "subtype": "noun",
+      "example": "توم يريد إقامة إجتماع.",
+      "exampleEn": "Tom wants to have a meeting."
+    },
+    {
+      "id": "online-043",
+      "arabic": "اقصي",
+      "meaning": "maximum",
+      "subtype": "noun",
+      "example": "أقصى مدة انتظار يمكنني تحملها هي أربعة أيام.",
+      "exampleEn": "The maximum waiting time I can tolerate is four days."
+    },
+    {
+      "id": "online-127",
+      "arabic": "اقفال",
+      "meaning": "closing",
+      "subtype": "noun",
+      "example": "هل نسيت إقفال الباب اللّيلة الماضية؟",
+      "exampleEn": "Did you forget to lock the door last night?"
+    },
+    {
+      "id": "online-128",
+      "arabic": "اقلاع",
+      "meaning": "Take off",
+      "subtype": "noun",
+      "example": "ما ميعاد إقلاع طائرتك؟",
+      "exampleEn": "What time does your plane take off?"
+    },
+    {
+      "id": "online-094",
+      "arabic": "اقناع",
+      "meaning": "to convince",
+      "subtype": "noun",
+      "example": "تمكنت من إقناع ابن عمي على قبول خطتي.",
+      "exampleEn": "I managed to convince my cousin to accept my plan."
+    },
+    {
+      "id": "online-129",
+      "arabic": "اكاديميه",
+      "meaning": "Academy",
+      "subtype": "noun",
+      "example": "اللّغة الأمازيغيّة لديها الآن أكاديميّة في الجزائر.",
+      "exampleEn": "The Amazigh language now has an academy in Algeria."
+    },
+    {
+      "id": "online-130",
+      "arabic": "اكراميه",
+      "meaning": "Tip",
+      "subtype": "noun",
+      "example": "هل تركت إكرامية؟",
+      "exampleEn": "Did you leave a tip?"
+    },
+    {
+      "id": "online-095",
+      "arabic": "اكسجين",
+      "meaning": "oxygen",
+      "subtype": "noun",
+      "example": "يتكون الماء من هيدروجين و أكسجين.",
+      "exampleEn": "Water consists of hydrogen and oxygen."
+    },
+    {
+      "id": "akl-n",
+      "arabic": "أكل",
+      "meaning": "food / eating",
+      "subtype": "masdar",
+      "example": "أحب أكل اللازانيا.",
+      "rootId": "akl",
+      "exampleEn": "I love eating lasagna."
+    },
+    {
+      "id": "hin",
+      "arabic": "الحين",
+      "meaning": "now (Najdi)",
+      "subtype": "noun",
+      "example": "الحين مشغول",
+      "exampleEn": "Busy now"
+    },
+    {
+      "id": "riyadh",
+      "arabic": "الرياض",
+      "meaning": "Riyadh",
+      "subtype": "name",
+      "example": "أسكن في الرياض",
+      "exampleEn": "I live in Riyadh"
+    },
+    {
+      "id": "saudi",
+      "arabic": "السعودية",
+      "meaning": "Saudi Arabia",
+      "subtype": "name",
+      "example": "من السعودية",
+      "exampleEn": "From Saudi Arabia"
+    },
+    {
+      "id": "online-057",
+      "arabic": "العاب",
+      "meaning": "games",
+      "subtype": "noun",
+      "example": "بعض الأطفال يلعبون ألعاب الفيديو في جميع الأوقات.",
+      "exampleEn": "Some kids play video games all the time."
+    },
+    {
+      "id": "online-027",
+      "arabic": "الغاء",
+      "meaning": "cancellation",
+      "subtype": "noun",
+      "example": "كان لديهِ صداع سيء مما اضطرهُ الى إلغاء المقابلة.",
+      "exampleEn": "He had a bad headache, so he had to cancel the interview."
+    },
+    {
+      "id": "online-044",
+      "arabic": "القاء",
+      "meaning": "throw",
+      "subtype": "noun",
+      "example": "مروا بسرعة و بدون إلقاء نظرة.",
+      "exampleEn": "They passed quickly and without a glance."
+    },
+    {
+      "id": "online-131",
+      "arabic": "الماس",
+      "meaning": "diamond",
+      "subtype": "noun",
+      "example": "قلادة من الماس",
+      "exampleEn": "Diamond necklace"
+    },
+    {
+      "id": "online-045",
+      "arabic": "الماني",
+      "meaning": "German",
+      "subtype": "noun",
+      "example": "دارك هو أفضل مسلسل ألماني.",
+      "exampleEn": "Dark is the best German series."
+    },
+    {
+      "id": "online-074",
+      "arabic": "المانيه",
+      "meaning": "German",
+      "subtype": "noun",
+      "example": "إنه يتكلم الإنجليزية بلكنة ألمانية.",
+      "exampleEn": "He speaks English with a German accent."
+    },
+    {
+      "id": "online-132",
+      "arabic": "الهه",
+      "meaning": "His God",
+      "subtype": "noun",
+      "example": "أفريقيا هي إلهة أمازيغية ، وهي أصل الاسم الذي يطلق على القارة الأفريقية.",
+      "exampleEn": "Africa is a Berber goddess, and is the origin of the name given to the African continent."
+    },
+    {
+      "id": "umm",
+      "arabic": "أم",
+      "meaning": "mother",
+      "subtype": "noun",
+      "example": "أمي",
+      "exampleEn": "My mom"
+    },
+    {
+      "id": "online-058",
+      "arabic": "امازيغ",
+      "meaning": "Amazigh",
+      "subtype": "noun",
+      "example": "القبائل هم أمازيغ و يتكلمون الأمازيغية.",
+      "exampleEn": "The Kabyles are Berbers and speak Amazigh."
+    },
+    {
+      "id": "online-059",
+      "arabic": "امازيغي",
+      "meaning": "Berber",
+      "subtype": "noun",
+      "example": "سامي أمازيغي لكن لا يستطيع التحدث بالأمازيغية.",
+      "exampleEn": "Sami is Amazigh but cannot speak Amazigh."
+    },
+    {
+      "id": "online-046",
+      "arabic": "امامه",
+      "meaning": "In front of him",
+      "subtype": "noun",
+      "example": "لم يلحظ الطريق العلوي أمامه.",
+      "exampleEn": "He did not notice the upper path in front of him."
+    },
+    {
+      "id": "online-047",
+      "arabic": "امان",
+      "meaning": "safety",
+      "subtype": "noun",
+      "example": "ستضمن جُدُر النار أمان الإنترنت.",
+      "exampleEn": "Firewalls will ensure Internet security."
+    },
+    {
+      "id": "online-096",
+      "arabic": "امبراطوريه",
+      "meaning": "empire",
+      "subtype": "noun",
+      "example": "أُسّست امبراطوريّة الدّرّاني في أفغانستان من طرف أحمد شاه درّاني عام 1747.",
+      "exampleEn": "The Durrani Empire was established in Afghanistan by Ahmad Shah Durrani in 1747."
+    },
+    {
+      "id": "online-133",
+      "arabic": "امراض",
+      "meaning": "illnesses",
+      "subtype": "noun",
+      "example": "الإضطراب لده عدة أمراض مختلفة",
+      "exampleEn": "The disorder has several different diseases"
+    },
+    {
+      "id": "ams",
+      "arabic": "أمس",
+      "meaning": "yesterday",
+      "subtype": "noun",
+      "example": "ذهبوا إلى السينما ليلة أمس.",
+      "exampleEn": "They went to the movies last night."
+    },
+    {
+      "id": "online-060",
+      "arabic": "امكانيه",
+      "meaning": "possibility",
+      "subtype": "noun",
+      "example": "أنا اقترحت لتوم إمكانية العمل مع ماري.",
+      "exampleEn": "I suggested to Tom the possibility of working with Mary."
+    },
+    {
+      "id": "online-028",
+      "arabic": "امين",
+      "meaning": "Amen",
+      "subtype": "noun",
+      "example": "على حد علمي، هو شخص أمين.",
+      "exampleEn": "As far as I know, he is an honest person."
+    },
+    {
+      "id": "online-061",
+      "arabic": "انتاج",
+      "meaning": "production",
+      "subtype": "noun",
+      "example": "إنّ إنتاج النّفط في تناقص.",
+      "exampleEn": "Oil production is decreasing."
+    },
+    {
+      "id": "internet",
+      "arabic": "إنترنت",
+      "meaning": "internet",
+      "subtype": "loan",
+      "example": "أي متصفح إنترنت تستخدم؟",
+      "exampleEn": "Which internet browser do you use?"
+    },
+    {
+      "id": "online-134",
+      "arabic": "انجاز",
+      "meaning": "completion",
+      "subtype": "noun",
+      "example": "لا إنجاز بلا جهد .",
+      "exampleEn": "There is no achievement without effort."
+    },
+    {
+      "id": "ingleezi",
+      "arabic": "إنجليزي",
+      "meaning": "English",
+      "subtype": "loan",
+      "example": ""
+    },
+    {
+      "id": "online-018",
+      "arabic": "انذار",
+      "meaning": "warning",
+      "subtype": "noun",
+      "example": "ثبّت سامي جهاز إنذار في منزله.",
+      "exampleEn": "Sami installed an alarm in his home."
+    },
+    {
+      "id": "online-135",
+      "arabic": "انسه",
+      "meaning": "Ms",
+      "subtype": "noun",
+      "example": "كيف حالك يا آنسة جون؟",
+      "exampleEn": "How are you, Miss June?"
+    },
+    {
+      "id": "online-136",
+      "arabic": "انشاء",
+      "meaning": "construction",
+      "subtype": "noun",
+      "example": "إنشاء موقع إلكتروني بدون أي تكلفة؟",
+      "exampleEn": "Create a website at no cost?"
+    },
+    {
+      "id": "online-029",
+      "arabic": "انف",
+      "meaning": "nose",
+      "subtype": "noun",
+      "example": "لدى الفيل أنف طويل.",
+      "exampleEn": "The elephant has a long nose."
+    },
+    {
+      "id": "online-075",
+      "arabic": "انفاق",
+      "meaning": "expenditure",
+      "subtype": "noun",
+      "example": "كان بإمكان إسرائيل أن تدمّر أنفاق حماس بدون أن تقتل الآلاف من المدنيّين الأبرياء في غزّة.",
+      "exampleEn": "Israel could have destroyed Hamas' tunnels without killing thousands of innocent civilians in Gaza."
+    },
+    {
+      "id": "online-098",
+      "arabic": "انفه",
+      "meaning": "conceitedness, disdain, haughtiness, vanity",
+      "subtype": "noun",
+      "example": "تعارك توم مع أخ ماري وكسر أنفه.",
+      "exampleEn": "Tom got into a fight with Mary's brother and broke his nose."
+    },
+    {
+      "id": "online-076",
+      "arabic": "انقاذ",
+      "meaning": "rescue",
+      "subtype": "noun",
+      "example": "أنت الواحد والوحيد الذي يستطيع إنقاذ العالم.",
+      "exampleEn": "You are the one and only one who can save the world."
+    },
+    {
+      "id": "online-137",
+      "arabic": "انكار",
+      "meaning": "denial",
+      "subtype": "noun",
+      "example": "لا يمكن إنكار الحقائق.",
+      "exampleEn": "The facts cannot be denied."
+    },
+    {
+      "id": "online-010",
+      "arabic": "انهاء",
+      "meaning": "ending",
+      "subtype": "noun",
+      "example": "سيستغرق إنهاء المشروع سنةً على الأقل.",
+      "exampleEn": "It will take at least a year to complete the project."
+    },
+    {
+      "id": "online-062",
+      "arabic": "اهداف",
+      "meaning": "Goals",
+      "subtype": "noun",
+      "example": "فاز فريق مانتشستر يونايتد بأربعة أهداف مقابل إثنين.",
+      "exampleEn": "Manchester United won four goals to two."
+    },
+    {
+      "id": "online-004",
+      "arabic": "اهل",
+      "meaning": "family, household; people, kinfolk, relations",
+      "subtype": "noun",
+      "example": "مرحباً ، أهل شيكاغو!",
+      "exampleEn": "Hello, Chicagoans!"
+    },
+    {
+      "id": "ok",
+      "arabic": "أوكي",
+      "meaning": "OK",
+      "subtype": "loan",
+      "example": "أوكي تمام",
+      "exampleEn": "Okay, okay"
+    },
+    {
+      "id": "online-077",
+      "arabic": "اولي",
+      "meaning": "first",
+      "subtype": "noun",
+      "example": "الأقربون أولى بالمعروف.",
+      "exampleEn": "The closest ones are more deserving of kindness."
+    },
+    {
+      "id": "online-078",
+      "arabic": "ايذاء",
+      "meaning": "harming",
+      "subtype": "noun",
+      "example": "لم أكن أحاول إيذاء أحد.",
+      "exampleEn": "I wasn't trying to hurt anyone."
+    },
+    {
+      "id": "online-030",
+      "arabic": "ايصال",
+      "meaning": "receipt",
+      "subtype": "noun",
+      "example": "تم إيصال البضائع بالأمس",
+      "exampleEn": "The goods were delivered yesterday"
+    },
+    {
+      "id": "online-099",
+      "arabic": "ايطالي",
+      "meaning": "Italian",
+      "subtype": "noun",
+      "example": "أحدهما ياباني و الآخر إيطالي.",
+      "exampleEn": "One is Japanese and the other is Italian."
+    },
+    {
+      "id": "bab",
+      "arabic": "باب",
+      "meaning": "door",
+      "subtype": "noun",
+      "example": "افتح الباب",
+      "exampleEn": "Open the door"
+    },
+    {
+      "id": "password",
+      "arabic": "باسورد",
+      "meaning": "password",
+      "subtype": "loan",
+      "example": "الباسورد غلط",
+      "exampleEn": "The password is incorrect"
+    },
+    {
+      "id": "bus",
+      "arabic": "باص",
+      "meaning": "bus",
+      "subtype": "loan",
+      "example": "الباص جاي",
+      "exampleEn": "The bus is coming"
+    },
+    {
+      "id": "bard",
+      "arabic": "برد",
+      "meaning": "cold",
+      "subtype": "noun",
+      "example": "الليلة برد",
+      "exampleEn": "Tonight is cold"
+    },
+    {
+      "id": "card",
+      "arabic": "بطاقة",
+      "meaning": "card",
+      "subtype": "noun",
+      "example": "بطاقتي",
+      "exampleEn": "My card"
+    },
+    {
+      "id": "bukra",
+      "arabic": "بكرة",
+      "meaning": "tomorrow (Najdi)",
+      "subtype": "noun",
+      "example": "أشوفك بكرة",
+      "exampleEn": "I will see you tomorrow"
+    },
+    {
+      "id": "balad",
+      "arabic": "بلد",
+      "meaning": "country / town",
+      "subtype": "noun",
+      "example": "بلدي السعودية",
+      "exampleEn": "My country is Saudi Arabia"
+    },
+    {
+      "id": "bint",
+      "arabic": "بنت",
+      "meaning": "girl / daughter",
+      "subtype": "noun",
+      "example": "هذي بنتي",
+      "exampleEn": "This is my daughter"
+    },
+    {
+      "id": "bank",
+      "arabic": "بنك",
+      "meaning": "bank",
+      "subtype": "loan",
+      "example": "رحت البنك",
+      "exampleEn": "I went to the bank"
+    },
+    {
+      "id": "bayt",
+      "arabic": "بيت",
+      "meaning": "house / home",
+      "subtype": "noun",
+      "example": "في البيت",
+      "exampleEn": "at home"
+    },
+    {
+      "id": "taxi",
+      "arabic": "تاكسي",
+      "meaning": "taxi",
+      "subtype": "loan",
+      "example": "خذ تاكسي",
+      "exampleEn": "Take a taxi"
+    },
+    {
+      "id": "app",
+      "arabic": "تطبيق",
+      "meaning": "app",
+      "subtype": "noun",
+      "example": "نزّل التطبيق",
+      "exampleEn": "Download the app"
+    },
+    {
+      "id": "taab",
+      "arabic": "تعب",
+      "meaning": "tiredness",
+      "subtype": "noun",
+      "example": "من التعب",
+      "exampleEn": "From fatigue"
+    },
+    {
+      "id": "telephone",
+      "arabic": "تلفون",
+      "meaning": "telephone",
+      "subtype": "loan",
+      "example": "رقم التلفون",
+      "exampleEn": "Telephone number"
+    },
+    {
+      "id": "thawb",
+      "arabic": "ثوب",
+      "meaning": "thobe / dress",
+      "subtype": "noun",
+      "example": "ثوبي جديد",
+      "exampleEn": "My dress is new"
+    },
+    {
+      "id": "jidhr",
+      "arabic": "جذر",
+      "meaning": "root",
+      "subtype": "noun",
+      "example": "جذر الكلمة",
+      "exampleEn": "stem"
+    },
+    {
+      "id": "jumlah",
+      "arabic": "جملة",
+      "meaning": "sentence",
+      "subtype": "noun",
+      "example": "هذي جملة",
+      "exampleEn": "This is a sentence"
+    },
+    {
+      "id": "jawab",
+      "arabic": "جواب",
+      "meaning": "answer",
+      "subtype": "noun",
+      "example": "وين الجواب؟",
+      "exampleEn": "Where is the answer?"
+    },
+    {
+      "id": "jawwal",
+      "arabic": "جوال",
+      "meaning": "mobile phone (Gulf)",
+      "subtype": "loan",
+      "example": "وين جوالي؟",
+      "exampleEn": "Where is my phone?"
+    },
+    {
+      "id": "7ub",
+      "arabic": "حب",
+      "meaning": "love",
+      "subtype": "noun",
+      "example": "من حب",
+      "rootId": "hbb",
+      "exampleEn": "From love"
+    },
+    {
+      "id": "harr",
+      "arabic": "حر",
+      "meaning": "heat / hot weather",
+      "subtype": "noun",
+      "example": "اليوم حر",
+      "exampleEn": "Today is free"
+    },
+    {
+      "id": "harf-n",
+      "arabic": "حرف",
+      "meaning": "letter / particle",
+      "subtype": "noun",
+      "example": "هذا حرف",
+      "exampleEn": "This is a letter"
+    },
+    {
+      "id": "hisab",
+      "arabic": "حساب",
+      "meaning": "bill / account",
+      "subtype": "noun",
+      "example": "دفعت الحساب",
+      "rootId": "df3",
+      "exampleEn": "I paid the account"
+    },
+    {
+      "id": "hall",
+      "arabic": "حل",
+      "meaning": "solution",
+      "subtype": "noun",
+      "example": "ظهر الحل",
+      "exampleEn": "The solution appeared"
+    },
+    {
+      "id": "hammam",
+      "arabic": "حمّام",
+      "meaning": "bathroom",
+      "subtype": "noun",
+      "example": "وين الحمّام؟",
+      "exampleEn": "Where is the bathroom?"
+    },
+    {
+      "id": "khabar",
+      "arabic": "خبر",
+      "meaning": "news",
+      "subtype": "noun",
+      "example": "وش الخبر؟",
+      "exampleEn": "What's up?"
+    },
+    {
+      "id": "khubz",
+      "arabic": "خبز",
+      "meaning": "bread",
+      "subtype": "noun",
+      "example": "عندنا خبز",
+      "exampleEn": "We have bread"
+    },
+    {
+      "id": "khawf",
+      "arabic": "خوف",
+      "meaning": "fear",
+      "subtype": "noun",
+      "example": "ما في خوف",
+      "rootId": "khaf",
+      "exampleEn": "There is no fear"
+    },
+    {
+      "id": "dars",
+      "arabic": "درس",
+      "meaning": "lesson",
+      "subtype": "noun",
+      "example": "عندي درس",
+      "rootId": "drs",
+      "exampleEn": "I have a lesson"
+    },
+    {
+      "id": "daqiqa",
+      "arabic": "دقيقة",
+      "meaning": "minute",
+      "subtype": "noun",
+      "example": "بس دقيقة",
+      "exampleEn": "Just a minute"
+    },
+    {
+      "id": "dawa",
+      "arabic": "دوا",
+      "meaning": "medicine",
+      "subtype": "noun",
+      "example": "خذ الدوا",
+      "exampleEn": "Take the medicine"
+    },
+    {
+      "id": "ras",
+      "arabic": "راس",
+      "meaning": "head (colloquial)",
+      "subtype": "noun",
+      "example": "راسي يوجعني",
+      "exampleEn": "My head hurts"
+    },
+    {
+      "id": "ray-n",
+      "arabic": "رأي",
+      "meaning": "opinion",
+      "subtype": "noun",
+      "example": "وش رأيك؟",
+      "rootId": "ray",
+      "exampleEn": "What do you think?"
+    },
+    {
+      "id": "rajul",
+      "arabic": "رجل",
+      "meaning": "man",
+      "subtype": "noun",
+      "example": "هذا رجل",
+      "exampleEn": "This is a man"
+    },
+    {
+      "id": "akl-food",
+      "arabic": "رز",
+      "meaning": "rice",
+      "subtype": "noun",
+      "example": "أكلت رز",
+      "exampleEn": "I ate rice"
+    },
+    {
+      "id": "risala",
+      "arabic": "رسالة",
+      "meaning": "message / letter",
+      "subtype": "noun",
+      "example": "أكتب رسالة",
+      "exampleEn": "Write a message"
+    },
+    {
+      "id": "number",
+      "arabic": "رقم",
+      "meaning": "number",
+      "subtype": "noun",
+      "example": "رقم جوالك",
+      "exampleEn": "Your mobile number"
+    },
+    {
+      "id": "suwal",
+      "arabic": "سؤال",
+      "meaning": "question",
+      "subtype": "noun",
+      "example": "عندي سؤال",
+      "rootId": "sal",
+      "exampleEn": "I have a question"
+    },
+    {
+      "id": "saa",
+      "arabic": "ساعة",
+      "meaning": "hour / watch / clock",
+      "subtype": "noun",
+      "example": "ساعة واحدة",
+      "exampleEn": "One hour"
+    },
+    {
+      "id": "si3r",
+      "arabic": "سعر",
+      "meaning": "price",
+      "subtype": "noun",
+      "example": "كم السعر؟",
+      "exampleEn": "How much is the price?"
+    },
+    {
+      "id": "sama",
+      "arabic": "سما",
+      "meaning": "sky",
+      "subtype": "noun",
+      "example": "السما صافية",
+      "exampleEn": "The sky is clear"
+    },
+    {
+      "id": "sana",
+      "arabic": "سنة",
+      "meaning": "year",
+      "subtype": "noun",
+      "example": "كل سنة",
+      "exampleEn": "Every year"
+    },
+    {
+      "id": "suq",
+      "arabic": "سوق",
+      "meaning": "market",
+      "subtype": "noun",
+      "example": "أروح السوق",
+      "exampleEn": "I go to the market"
+    },
+    {
+      "id": "sayyara",
+      "arabic": "سيارة",
+      "meaning": "car",
+      "subtype": "noun",
+      "example": "سيارتي جديدة",
+      "exampleEn": "My car is new"
+    },
+    {
+      "id": "shahi",
+      "arabic": "شاهي",
+      "meaning": "tea (Gulf)",
+      "subtype": "noun",
+      "example": "أشرب شاهي",
+      "exampleEn": "I drink my tea"
+    },
+    {
+      "id": "shurb",
+      "arabic": "شرب",
+      "meaning": "drinking",
+      "subtype": "masdar",
+      "example": "الشرب مهم",
+      "rootId": "shrb",
+      "exampleEn": "Drinking is important"
+    },
+    {
+      "id": "shoghl",
+      "arabic": "شغل",
+      "meaning": "work / job",
+      "subtype": "noun",
+      "example": "عندي شغل",
+      "rootId": "shghl",
+      "exampleEn": "I have a job"
+    },
+    {
+      "id": "shams",
+      "arabic": "شمس",
+      "meaning": "sun",
+      "subtype": "noun",
+      "example": "الشمس قوية",
+      "exampleEn": "The sun is strong"
+    },
+    {
+      "id": "shanta",
+      "arabic": "شنطة",
+      "meaning": "bag",
+      "subtype": "noun",
+      "example": "احمل الشنطة",
+      "exampleEn": "Carry the bag"
+    },
+    {
+      "id": "shahr",
+      "arabic": "شهر",
+      "meaning": "month",
+      "subtype": "noun",
+      "example": "هذا الشهر",
+      "exampleEn": "This month"
+    },
+    {
+      "id": "sabah",
+      "arabic": "صباح",
+      "meaning": "morning",
+      "subtype": "noun",
+      "example": "صباح الخير",
+      "rootId": "sbh",
+      "exampleEn": "Good morning"
+    },
+    {
+      "id": "sadeeq",
+      "arabic": "صديق",
+      "meaning": "friend",
+      "subtype": "noun",
+      "example": "هذا صديقي",
+      "exampleEn": "This is my friend"
+    },
+    {
+      "id": "talib",
+      "arabic": "طالب",
+      "meaning": "student",
+      "subtype": "doer",
+      "example": "أنا طالب",
+      "rootId": "tlb",
+      "exampleEn": "I am a student"
+    },
+    {
+      "id": "tawila",
+      "arabic": "طاولة",
+      "meaning": "table",
+      "subtype": "noun",
+      "example": "على الطاولة",
+      "exampleEn": "On the table"
+    },
+    {
+      "id": "tariq",
+      "arabic": "طريق",
+      "meaning": "road / way",
+      "subtype": "noun",
+      "example": "أعرف الطريق",
+      "exampleEn": "I know the way"
+    },
+    {
+      "id": "arabi",
+      "arabic": "عربي",
+      "meaning": "Arabic / Arab",
+      "subtype": "noun",
+      "example": "أتعلّم عربي",
+      "exampleEn": "I am learning Arabic"
+    },
+    {
+      "id": "amal",
+      "arabic": "عمل",
+      "meaning": "work / job",
+      "subtype": "noun",
+      "example": "أدور على عمل",
+      "rootId": "3ml",
+      "exampleEn": "I'm looking for work"
+    },
+    {
+      "id": "ayn",
+      "arabic": "عين",
+      "meaning": "eye",
+      "subtype": "noun",
+      "example": "عيوني",
+      "exampleEn": "my eyes"
+    },
+    {
+      "id": "ghurfa",
+      "arabic": "غرفة",
+      "meaning": "room",
+      "subtype": "noun",
+      "example": "في الغرفة",
+      "exampleEn": "In the room"
+    },
+    {
+      "id": "farah",
+      "arabic": "فرح",
+      "meaning": "joy",
+      "subtype": "noun",
+      "example": "فرحت كثير",
+      "exampleEn": "I was very happy"
+    },
+    {
+      "id": "fil-n",
+      "arabic": "فعل",
+      "meaning": "verb / action",
+      "subtype": "noun",
+      "example": "هذا فعل",
+      "rootId": "f3l",
+      "exampleEn": "This is a verb"
+    },
+    {
+      "id": "fikra",
+      "arabic": "فكرة",
+      "meaning": "idea",
+      "subtype": "noun",
+      "example": "عندي فكرة",
+      "rootId": "fkr",
+      "exampleEn": "I have an idea"
+    },
+    {
+      "id": "flus",
+      "arabic": "فلوس",
+      "meaning": "money (colloquial)",
+      "subtype": "noun",
+      "example": "ما عندي فلوس",
+      "exampleEn": "I don't have money"
+    },
+    {
+      "id": "fanduq",
+      "arabic": "فندق",
+      "meaning": "hotel",
+      "subtype": "loan",
+      "example": "في الفندق",
+      "exampleEn": "At the hotel"
+    },
+    {
+      "id": "film",
+      "arabic": "فيلم",
+      "meaning": "film / movie",
+      "subtype": "loan",
+      "example": "نشوف فيلم",
+      "exampleEn": "We watch a movie"
+    },
+    {
+      "id": "qalb",
+      "arabic": "قلب",
+      "meaning": "heart",
+      "subtype": "noun",
+      "example": "من قلبي",
+      "exampleEn": "From my heart"
+    },
+    {
+      "id": "qamar",
+      "arabic": "قمر",
+      "meaning": "moon",
+      "subtype": "noun",
+      "example": "القمر حلو",
+      "exampleEn": "The moon is sweet"
+    },
+    {
+      "id": "qahwa-place",
+      "arabic": "قهوة",
+      "meaning": "café (same word as coffee)",
+      "subtype": "place",
+      "example": "نقعد في القهوة",
+      "exampleEn": "We sit in coffee"
+    },
+    {
+      "id": "katib",
+      "arabic": "كاتب",
+      "meaning": "writer",
+      "subtype": "doer",
+      "example": "هو كاتب",
+      "rootId": "ktb",
+      "exampleEn": "He is a writer"
+    },
+    {
+      "id": "kitab",
+      "arabic": "كتاب",
+      "meaning": "book",
+      "subtype": "noun",
+      "example": "هذا كتاب",
+      "rootId": "ktb",
+      "exampleEn": "This is a book"
+    },
+    {
+      "id": "kitaba",
+      "arabic": "كتابة",
+      "meaning": "writing",
+      "subtype": "masdar",
+      "example": "الكتابة صعبة",
+      "rootId": "ktb",
+      "exampleEn": "Writing is hard"
+    },
+    {
+      "id": "kursi",
+      "arabic": "كرسي",
+      "meaning": "chair",
+      "subtype": "noun",
+      "example": "اجلس على الكرسي",
+      "exampleEn": "Sit on the chair"
+    },
+    {
+      "id": "kalam",
+      "arabic": "كلام",
+      "meaning": "talk / speech",
+      "subtype": "noun",
+      "example": "كلامك صحيح",
+      "rootId": "klm",
+      "exampleEn": "What you say is true"
+    },
+    {
+      "id": "kalima",
+      "arabic": "كلمة",
+      "meaning": "word",
+      "subtype": "noun",
+      "example": "كلمة جديدة",
+      "rootId": "klm",
+      "exampleEn": "New word"
+    },
+    {
+      "id": "computer",
+      "arabic": "كمبيوتر",
+      "meaning": "computer",
+      "subtype": "loan",
+      "example": "على الكمبيوتر",
+      "exampleEn": "On the computer"
+    },
+    {
+      "id": "koora",
+      "arabic": "كورة",
+      "meaning": "ball / football",
+      "subtype": "noun",
+      "example": "يلعب كورة",
+      "rootId": "l3b",
+      "exampleEn": "He plays football"
+    },
+    {
+      "id": "layl",
+      "arabic": "ليل",
+      "meaning": "night",
+      "subtype": "noun",
+      "example": "صار الليل",
+      "exampleEn": "It's night"
+    },
+    {
+      "id": "may",
+      "arabic": "ماي",
+      "meaning": "water (Najdi)",
+      "subtype": "noun",
+      "example": "أبي ماي",
+      "exampleEn": "Dad May"
+    },
+    {
+      "id": "mahal",
+      "arabic": "محل",
+      "meaning": "shop",
+      "subtype": "noun",
+      "example": "المحل قريب",
+      "exampleEn": "The store is nearby"
+    },
+    {
+      "id": "madrasa",
+      "arabic": "مدرسة",
+      "meaning": "school",
+      "subtype": "place",
+      "example": "رحت المدرسة",
+      "rootId": "drs",
+      "exampleEn": "I went to school"
+    },
+    {
+      "id": "madina",
+      "arabic": "مدينة",
+      "meaning": "city",
+      "subtype": "noun",
+      "example": "المدينة كبيرة",
+      "exampleEn": "The city is big"
+    },
+    {
+      "id": "marad",
+      "arabic": "مرض",
+      "meaning": "illness",
+      "subtype": "noun",
+      "example": "عندي مرض",
+      "exampleEn": "I have an illness"
+    },
+    {
+      "id": "marra",
+      "arabic": "مرة",
+      "meaning": "woman (Najdi) / time",
+      "subtype": "noun",
+      "example": "هذي مرة",
+      "exampleEn": "This time"
+    },
+    {
+      "id": "masa",
+      "arabic": "مساء",
+      "meaning": "evening",
+      "subtype": "noun",
+      "example": "مساء الخير",
+      "exampleEn": "Good evening"
+    },
+    {
+      "id": "mustashfa",
+      "arabic": "مستشفى",
+      "meaning": "hospital",
+      "subtype": "noun",
+      "example": "في المستشفى",
+      "exampleEn": "In the hospital"
+    },
+    {
+      "id": "mesej",
+      "arabic": "مسج",
+      "meaning": "message (loan)",
+      "subtype": "loan",
+      "example": "أرسل مسج",
+      "exampleEn": "Send a message"
+    },
+    {
+      "id": "masjid",
+      "arabic": "مسجد",
+      "meaning": "mosque",
+      "subtype": "noun",
+      "example": "جنب المسجد",
+      "exampleEn": "Next to the mosque"
+    },
+    {
+      "id": "mushkila",
+      "arabic": "مشكلة",
+      "meaning": "problem",
+      "subtype": "noun",
+      "example": "ما في مشكلة",
+      "exampleEn": "There's no problem"
+    },
+    {
+      "id": "matar",
+      "arabic": "مطار",
+      "meaning": "airport",
+      "subtype": "noun",
+      "example": "إلى المطار",
+      "exampleEn": "To the airport"
+    },
+    {
+      "id": "matbakh",
+      "arabic": "مطبخ",
+      "meaning": "kitchen",
+      "subtype": "place",
+      "example": "في المطبخ",
+      "rootId": "tbkh",
+      "exampleEn": "In the kitchen"
+    },
+    {
+      "id": "mata3im",
+      "arabic": "مطعم",
+      "meaning": "restaurant",
+      "subtype": "place",
+      "example": "نروح مطعم؟",
+      "rootId": "tbkh",
+      "exampleEn": "Should we go to a restaurant?"
+    },
+    {
+      "id": "miftah",
+      "arabic": "مفتاح",
+      "meaning": "key",
+      "subtype": "noun",
+      "example": "وين المفتاح؟",
+      "rootId": "fth",
+      "exampleEn": "Where is the key?"
+    },
+    {
+      "id": "maktab",
+      "arabic": "مكتب",
+      "meaning": "office / desk",
+      "subtype": "place",
+      "example": "في المكتب",
+      "rootId": "ktb",
+      "exampleEn": "In the office"
+    },
+    {
+      "id": "maktaba",
+      "arabic": "مكتبة",
+      "meaning": "library / bookstore",
+      "subtype": "place",
+      "example": "رحت المكتبة",
+      "rootId": "ktb",
+      "exampleEn": "I went to the library"
+    },
+    {
+      "id": "maktub",
+      "arabic": "مكتوب",
+      "meaning": "written (thing) / fate",
+      "subtype": "done-to",
+      "example": "مكتوب كذا",
+      "rootId": "ktb",
+      "exampleEn": "It is written like this"
+    },
+    {
+      "id": "musiga",
+      "arabic": "موسيقى",
+      "meaning": "music",
+      "subtype": "loan",
+      "example": "أحب الموسيقى",
+      "exampleEn": "I love music"
+    },
+    {
+      "id": "nar",
+      "arabic": "نار",
+      "meaning": "fire / heat",
+      "subtype": "noun",
+      "example": "النار حارة",
+      "exampleEn": "The fire is hot"
+    },
+    {
+      "id": "na3l",
+      "arabic": "نعل",
+      "meaning": "sandal / shoe (Gulf)",
+      "subtype": "noun",
+      "example": "وين نعلي؟",
+      "exampleEn": "Where are my shoes?"
+    },
+    {
+      "id": "wifi",
+      "arabic": "واي فاي",
+      "meaning": "Wi‑Fi",
+      "subtype": "loan",
+      "example": "وش باس الوواي فاي؟",
+      "exampleEn": "What is the wifi password?"
+    },
+    {
+      "id": "waqt",
+      "arabic": "وقت",
+      "meaning": "time",
+      "subtype": "noun",
+      "example": "ما عندي وقت",
+      "exampleEn": "I don't have time"
+    },
+    {
+      "id": "walad",
+      "arabic": "ولد",
+      "meaning": "boy / child",
+      "subtype": "noun",
+      "example": "كبر الولد",
+      "rootId": "wld",
+      "exampleEn": "The boy has grown up"
+    },
+    {
+      "id": "yad",
+      "arabic": "يد",
+      "meaning": "hand",
+      "subtype": "noun",
+      "example": "اغسل يدك",
+      "exampleEn": "Wash your hand"
+    },
+    {
+      "id": "yawm",
+      "arabic": "يوم",
+      "meaning": "day",
+      "subtype": "noun",
+      "example": "كل يوم",
+      "exampleEn": "every day"
+    },
+    {
+      "id": "jamarak",
+      "arabic": "جمارك",
+      "meaning": "customs",
+      "subtype": "noun",
+      "example": "وقفت عند الجمارك في المطار",
+      "exampleEn": "I stopped at customs at the airport"
+    },
+    {
+      "id": "shajara",
+      "arabic": "شجرة",
+      "meaning": "tree",
+      "subtype": "noun",
+      "example": "في الحديقة شجرة كبيرة",
+      "exampleEn": "There is a big tree in the garden"
+    },
+    {
+      "id": "person",
+      "arabic": "شخص",
+      "meaning": "person",
+      "subtype": "noun",
+      "example": "هذا شخص",
+      "exampleEn": "This is person"
+    },
+    {
+      "id": "people",
+      "arabic": "الناس",
+      "meaning": "people",
+      "subtype": "noun",
+      "example": "هذا الناس",
+      "exampleEn": "This is people"
+    },
+    {
+      "id": "woman",
+      "arabic": "امرأة",
+      "meaning": "woman",
+      "subtype": "noun",
+      "example": "هذا امرأة",
+      "exampleEn": "This is woman"
+    },
+    {
+      "id": "child",
+      "arabic": "طفل",
+      "meaning": "child",
+      "subtype": "noun",
+      "example": "هذا طفل",
+      "exampleEn": "This is child"
+    },
+    {
+      "id": "family",
+      "arabic": "عائلة",
+      "meaning": "family",
+      "subtype": "noun",
+      "example": "هذا عائلة",
+      "exampleEn": "This is family"
+    },
+    {
+      "id": "house",
+      "arabic": "منزل",
+      "meaning": "house",
+      "subtype": "noun",
+      "example": "هذا منزل",
+      "exampleEn": "This is house"
+    },
+    {
+      "id": "window",
+      "arabic": "نافذة",
+      "meaning": "window",
+      "subtype": "noun",
+      "example": "هذا نافذة",
+      "exampleEn": "This is window"
+    },
+    {
+      "id": "bed",
+      "arabic": "سرير",
+      "meaning": "bed",
+      "subtype": "noun",
+      "example": "هذا سرير",
+      "exampleEn": "This is bed"
+    },
+    {
+      "id": "street",
+      "arabic": "شارع",
+      "meaning": "street",
+      "subtype": "noun",
+      "example": "هذا شارع",
+      "exampleEn": "This is street"
+    },
+    {
+      "id": "country",
+      "arabic": "دولة",
+      "meaning": "country",
+      "subtype": "noun",
+      "example": "هذا دولة",
+      "exampleEn": "This is country"
+    },
+    {
+      "id": "village",
+      "arabic": "قرية",
+      "meaning": "village",
+      "subtype": "noun",
+      "example": "هذا قرية",
+      "exampleEn": "This is village"
+    },
+    {
+      "id": "class",
+      "arabic": "فصل",
+      "meaning": "class",
+      "subtype": "noun",
+      "example": "هذا فصل",
+      "exampleEn": "This is class"
+    },
+    {
+      "id": "teacher",
+      "arabic": "مدرس",
+      "meaning": "teacher",
+      "subtype": "noun",
+      "example": "هذا مدرس",
+      "exampleEn": "This is teacher"
+    },
+    {
+      "id": "language",
+      "arabic": "لغة",
+      "meaning": "language",
+      "subtype": "noun",
+      "example": "هذا لغة",
+      "exampleEn": "This is language"
+    },
+    {
+      "id": "job",
+      "arabic": "وظيفة",
+      "meaning": "job",
+      "subtype": "noun",
+      "example": "هذا وظيفة",
+      "exampleEn": "This is job"
+    },
+    {
+      "id": "train",
+      "arabic": "يدرب",
+      "meaning": "train",
+      "subtype": "noun",
+      "example": "هذا يدرب",
+      "exampleEn": "This is train"
+    },
+    {
+      "id": "plane",
+      "arabic": "طائرة",
+      "meaning": "plane",
+      "subtype": "noun",
+      "example": "هذا طائرة",
+      "exampleEn": "This is plane"
+    },
+    {
+      "id": "ticket",
+      "arabic": "تذكرة",
+      "meaning": "ticket",
+      "subtype": "noun",
+      "example": "هذا تذكرة",
+      "exampleEn": "This is ticket"
+    },
+    {
+      "id": "phone",
+      "arabic": "هاتف",
+      "meaning": "phone",
+      "subtype": "noun",
+      "example": "هذا هاتف",
+      "exampleEn": "This is phone"
+    },
+    {
+      "id": "email",
+      "arabic": "بريد إلكتروني",
+      "meaning": "email",
+      "subtype": "noun",
+      "example": "هذا بريد إلكتروني",
+      "exampleEn": "This is email"
+    },
+    {
+      "id": "food",
+      "arabic": "طعام",
+      "meaning": "food",
+      "subtype": "noun",
+      "example": "هذا طعام",
+      "exampleEn": "This is food"
+    },
+    {
+      "id": "water",
+      "arabic": "ماء",
+      "meaning": "water",
+      "subtype": "noun",
+      "example": "هذا ماء",
+      "exampleEn": "This is water"
+    },
+    {
+      "id": "tea",
+      "arabic": "شاي",
+      "meaning": "tea",
+      "subtype": "noun",
+      "example": "هذا شاي",
+      "exampleEn": "This is tea"
+    },
+    {
+      "id": "meat",
+      "arabic": "لحمة",
+      "meaning": "meat",
+      "subtype": "noun",
+      "example": "هذا لحمة",
+      "exampleEn": "This is meat"
+    },
+    {
+      "id": "fruit",
+      "arabic": "الفاكهة",
+      "meaning": "fruit",
+      "subtype": "noun",
+      "example": "هذا الفاكهة",
+      "exampleEn": "This is fruit"
+    },
+    {
+      "id": "vegetable",
+      "arabic": "نباتي",
+      "meaning": "vegetable",
+      "subtype": "noun",
+      "example": "هذا نباتي",
+      "exampleEn": "This is vegetable"
+    },
+    {
+      "id": "money",
+      "arabic": "مال",
+      "meaning": "money",
+      "subtype": "noun",
+      "example": "هذا مال",
+      "exampleEn": "This is money"
+    },
+    {
+      "id": "shirt",
+      "arabic": "قميص",
+      "meaning": "shirt",
+      "subtype": "noun",
+      "example": "هذا قميص",
+      "exampleEn": "This is shirt"
+    },
+    {
+      "id": "shoe",
+      "arabic": "حذاء",
+      "meaning": "shoe",
+      "subtype": "noun",
+      "example": "هذا حذاء",
+      "exampleEn": "This is shoe"
+    },
+    {
+      "id": "doorbell",
+      "arabic": "جرس الباب",
+      "meaning": "doorbell",
+      "subtype": "noun",
+      "example": "هذا جرس الباب",
+      "exampleEn": "This is doorbell"
+    },
+    {
+      "id": "map",
+      "arabic": "رسم خريطة",
+      "meaning": "map",
+      "subtype": "noun",
+      "example": "هذا رسم خريطة",
+      "exampleEn": "This is map"
+    },
+    {
+      "id": "doctor",
+      "arabic": "طبيب",
+      "meaning": "doctor",
+      "subtype": "noun",
+      "example": "هذا طبيب",
+      "exampleEn": "This is doctor"
+    },
+    {
+      "id": "help",
+      "arabic": "يساعد",
+      "meaning": "help",
+      "subtype": "noun",
+      "example": "هذا يساعد",
+      "exampleEn": "This is help"
+    },
+    {
+      "id": "meeting",
+      "arabic": "مقابلة",
+      "meaning": "meeting",
+      "subtype": "noun",
+      "example": "هذا مقابلة",
+      "exampleEn": "This is meeting"
+    },
+    {
+      "id": "company",
+      "arabic": "شركة",
+      "meaning": "company",
+      "subtype": "noun",
+      "example": "هذا شركة",
+      "exampleEn": "This is company"
+    },
+    {
+      "id": "project",
+      "arabic": "مشروع",
+      "meaning": "project",
+      "subtype": "noun",
+      "example": "هذا مشروع",
+      "exampleEn": "This is project"
+    },
+    {
+      "id": "plan",
+      "arabic": "يخطط",
+      "meaning": "plan",
+      "subtype": "noun",
+      "example": "هذا يخطط",
+      "exampleEn": "This is plan"
+    },
+    {
+      "id": "goal",
+      "arabic": "هدف",
+      "meaning": "goal",
+      "subtype": "noun",
+      "example": "هذا هدف",
+      "exampleEn": "This is goal"
+    },
+    {
+      "id": "weather",
+      "arabic": "طقس",
+      "meaning": "weather",
+      "subtype": "noun",
+      "example": "هذا طقس",
+      "exampleEn": "This is weather"
+    },
+    {
+      "id": "star",
+      "arabic": "نجم",
+      "meaning": "star",
+      "subtype": "noun",
+      "example": "هذا نجم",
+      "exampleEn": "This is star"
+    },
+    {
+      "id": "flower",
+      "arabic": "ورد",
+      "meaning": "flower",
+      "subtype": "noun",
+      "example": "هذا ورد",
+      "exampleEn": "This is flower"
+    },
+    {
+      "id": "sea",
+      "arabic": "بحر",
+      "meaning": "sea",
+      "subtype": "noun",
+      "example": "هذا بحر",
+      "exampleEn": "This is sea"
+    },
+    {
+      "id": "mountain",
+      "arabic": "جبل",
+      "meaning": "mountain",
+      "subtype": "noun",
+      "example": "هذا جبل",
+      "exampleEn": "This is mountain"
+    },
+    {
+      "id": "photo",
+      "arabic": "صورة",
+      "meaning": "photo",
+      "subtype": "noun",
+      "example": "هذا صورة",
+      "exampleEn": "This is photo"
+    },
+    {
+      "id": "garden",
+      "arabic": "حديقة",
+      "meaning": "garden",
+      "subtype": "noun",
+      "example": "هذا حديقة",
+      "exampleEn": "This is garden"
+    },
+    {
+      "id": "beach",
+      "arabic": "شاطئ",
+      "meaning": "beach",
+      "subtype": "noun",
+      "example": "هذا شاطئ",
+      "exampleEn": "This is beach"
+    },
+    {
+      "id": "river",
+      "arabic": "نهر",
+      "meaning": "river",
+      "subtype": "noun",
+      "example": "هذا نهر",
+      "exampleEn": "This is river"
+    },
+    {
+      "id": "lake",
+      "arabic": "بحيرة",
+      "meaning": "lake",
+      "subtype": "noun",
+      "example": "هذا بحيرة",
+      "exampleEn": "This is lake"
+    },
+    {
+      "id": "forest",
+      "arabic": "غابة",
+      "meaning": "forest",
+      "subtype": "noun",
+      "example": "هذا غابة",
+      "exampleEn": "This is forest"
+    },
+    {
+      "id": "island",
+      "arabic": "جزيرة",
+      "meaning": "island",
+      "subtype": "noun",
+      "example": "هذا جزيرة",
+      "exampleEn": "This is island"
+    },
+    {
+      "id": "farm",
+      "arabic": "مزرعة",
+      "meaning": "farm",
+      "subtype": "noun",
+      "example": "هذا مزرعة",
+      "exampleEn": "This is farm"
+    },
+    {
+      "id": "field",
+      "arabic": "مجال",
+      "meaning": "field",
+      "subtype": "noun",
+      "example": "هذا مجال",
+      "exampleEn": "This is field"
+    },
+    {
+      "id": "bridge",
+      "arabic": "كوبري",
+      "meaning": "bridge",
+      "subtype": "noun",
+      "example": "هذا كوبري",
+      "exampleEn": "This is bridge"
+    },
+    {
+      "id": "station",
+      "arabic": "محطة",
+      "meaning": "station",
+      "subtype": "noun",
+      "example": "هذا محطة",
+      "exampleEn": "This is station"
+    },
+    {
+      "id": "stop",
+      "arabic": "قف",
+      "meaning": "stop",
+      "subtype": "noun",
+      "example": "هذا قف",
+      "exampleEn": "This is stop"
+    },
+    {
+      "id": "trip",
+      "arabic": "رحلة",
+      "meaning": "trip",
+      "subtype": "noun",
+      "example": "هذا رحلة",
+      "exampleEn": "This is trip"
+    },
+    {
+      "id": "travel",
+      "arabic": "يسافر",
+      "meaning": "travel",
+      "subtype": "noun",
+      "example": "هذا يسافر",
+      "exampleEn": "This is travel"
+    },
+    {
+      "id": "passport",
+      "arabic": "جواز سفر",
+      "meaning": "passport",
+      "subtype": "noun",
+      "example": "هذا جواز سفر",
+      "exampleEn": "This is passport"
+    },
+    {
+      "id": "guest",
+      "arabic": "ضيف",
+      "meaning": "guest",
+      "subtype": "noun",
+      "example": "هذا ضيف",
+      "exampleEn": "This is guest"
+    },
+    {
+      "id": "visitor",
+      "arabic": "زائر",
+      "meaning": "visitor",
+      "subtype": "noun",
+      "example": "هذا زائر",
+      "exampleEn": "This is visitor"
+    },
+    {
+      "id": "neighbor",
+      "arabic": "جار",
+      "meaning": "neighbor",
+      "subtype": "noun",
+      "example": "هذا جار",
+      "exampleEn": "This is neighbor"
+    },
+    {
+      "id": "wife",
+      "arabic": "زوجة",
+      "meaning": "wife",
+      "subtype": "noun",
+      "example": "هذا زوجة",
+      "exampleEn": "This is wife"
+    },
+    {
+      "id": "husband",
+      "arabic": "زوج",
+      "meaning": "husband",
+      "subtype": "noun",
+      "example": "هذا زوج",
+      "exampleEn": "This is husband"
+    },
+    {
+      "id": "son",
+      "arabic": "ابن",
+      "meaning": "son",
+      "subtype": "noun",
+      "example": "هذا ابن",
+      "exampleEn": "This is son"
+    },
+    {
+      "id": "uncle",
+      "arabic": "عم",
+      "meaning": "uncle",
+      "subtype": "noun",
+      "example": "هذا عم",
+      "exampleEn": "This is uncle"
+    },
+    {
+      "id": "aunt",
+      "arabic": "عمة",
+      "meaning": "aunt",
+      "subtype": "noun",
+      "example": "هذا عمة",
+      "exampleEn": "This is aunt"
+    },
+    {
+      "id": "cousin",
+      "arabic": "ابن عم",
+      "meaning": "cousin",
+      "subtype": "noun",
+      "example": "هذا ابن عم",
+      "exampleEn": "This is cousin"
+    },
+    {
+      "id": "grandfather",
+      "arabic": "جد",
+      "meaning": "grandfather",
+      "subtype": "noun",
+      "example": "هذا جد",
+      "exampleEn": "This is grandfather"
+    },
+    {
+      "id": "grandmother",
+      "arabic": "جدة",
+      "meaning": "grandmother",
+      "subtype": "noun",
+      "example": "هذا جدة",
+      "exampleEn": "This is grandmother"
+    },
+    {
+      "id": "parent",
+      "arabic": "الوالدين",
+      "meaning": "parent",
+      "subtype": "noun",
+      "example": "هذا الوالدين",
+      "exampleEn": "This is parent"
+    },
+    {
+      "id": "team",
+      "arabic": "فريق",
+      "meaning": "team",
+      "subtype": "noun",
+      "example": "هذا فريق",
+      "exampleEn": "This is team"
+    },
+    {
+      "id": "group",
+      "arabic": "مجموعة",
+      "meaning": "group",
+      "subtype": "noun",
+      "example": "هذا مجموعة",
+      "exampleEn": "This is group"
+    },
+    {
+      "id": "member",
+      "arabic": "عضو",
+      "meaning": "member",
+      "subtype": "noun",
+      "example": "هذا عضو",
+      "exampleEn": "This is member"
+    },
+    {
+      "id": "leader",
+      "arabic": "قائد",
+      "meaning": "leader",
+      "subtype": "noun",
+      "example": "هذا قائد",
+      "exampleEn": "This is leader"
+    },
+    {
+      "id": "boss",
+      "arabic": "رئيس",
+      "meaning": "boss",
+      "subtype": "noun",
+      "example": "هذا رئيس",
+      "exampleEn": "This is boss"
+    },
+    {
+      "id": "worker",
+      "arabic": "عامل",
+      "meaning": "worker",
+      "subtype": "noun",
+      "example": "هذا عامل",
+      "exampleEn": "This is worker"
+    },
+    {
+      "id": "police",
+      "arabic": "شرطة",
+      "meaning": "police",
+      "subtype": "noun",
+      "example": "هذا شرطة",
+      "exampleEn": "This is police"
+    },
+    {
+      "id": "officer",
+      "arabic": "ضابط",
+      "meaning": "officer",
+      "subtype": "noun",
+      "example": "هذا ضابط",
+      "exampleEn": "This is officer"
+    },
+    {
+      "id": "lawyer",
+      "arabic": "محامي",
+      "meaning": "lawyer",
+      "subtype": "noun",
+      "example": "هذا محامي",
+      "exampleEn": "This is lawyer"
+    },
+    {
+      "id": "engineer",
+      "arabic": "مهندس",
+      "meaning": "engineer",
+      "subtype": "noun",
+      "example": "هذا مهندس",
+      "exampleEn": "This is engineer"
+    },
+    {
+      "id": "manager",
+      "arabic": "مدير",
+      "meaning": "manager",
+      "subtype": "noun",
+      "example": "هذا مدير",
+      "exampleEn": "This is manager"
+    },
+    {
+      "id": "chef",
+      "arabic": "الشيف",
+      "meaning": "chef",
+      "subtype": "noun",
+      "example": "هذا الشيف",
+      "exampleEn": "This is chef"
+    },
+    {
+      "id": "cook",
+      "arabic": "يطبخ",
+      "meaning": "cook",
+      "subtype": "noun",
+      "example": "هذا يطبخ",
+      "exampleEn": "This is cook"
+    },
+    {
+      "id": "waiter",
+      "arabic": "النادل",
+      "meaning": "waiter",
+      "subtype": "noun",
+      "example": "هذا النادل",
+      "exampleEn": "This is waiter"
+    },
+    {
+      "id": "nurse",
+      "arabic": "ممرضة",
+      "meaning": "nurse",
+      "subtype": "noun",
+      "example": "هذا ممرضة",
+      "exampleEn": "This is nurse"
+    },
+    {
+      "id": "patient",
+      "arabic": "مريض",
+      "meaning": "patient",
+      "subtype": "noun",
+      "example": "هذا مريض",
+      "exampleEn": "This is patient"
+    },
+    {
+      "id": "health",
+      "arabic": "صحة",
+      "meaning": "health",
+      "subtype": "noun",
+      "example": "هذا صحة",
+      "exampleEn": "This is health"
+    },
+    {
+      "id": "exercise",
+      "arabic": "يمارس",
+      "meaning": "exercise",
+      "subtype": "noun",
+      "example": "هذا يمارس",
+      "exampleEn": "This is exercise"
+    },
+    {
+      "id": "sport",
+      "arabic": "رياضة",
+      "meaning": "sport",
+      "subtype": "noun",
+      "example": "هذا رياضة",
+      "exampleEn": "This is sport"
+    },
+    {
+      "id": "game",
+      "arabic": "لعبة",
+      "meaning": "game",
+      "subtype": "noun",
+      "example": "هذا لعبة",
+      "exampleEn": "This is game"
+    },
+    {
+      "id": "ball",
+      "arabic": "كرة",
+      "meaning": "ball",
+      "subtype": "noun",
+      "example": "هذا كرة",
+      "exampleEn": "This is ball"
+    },
+    {
+      "id": "teamwork",
+      "arabic": "العمل الجماعي",
+      "meaning": "teamwork",
+      "subtype": "noun",
+      "example": "هذا العمل الجماعي",
+      "exampleEn": "This is teamwork"
+    },
+    {
+      "id": "course",
+      "arabic": "دورة",
+      "meaning": "course",
+      "subtype": "noun",
+      "example": "هذا دورة",
+      "exampleEn": "This is course"
+    },
+    {
+      "id": "exam",
+      "arabic": "امتحان",
+      "meaning": "exam",
+      "subtype": "noun",
+      "example": "هذا امتحان",
+      "exampleEn": "This is exam"
+    },
+    {
+      "id": "result",
+      "arabic": "نتيجة",
+      "meaning": "result",
+      "subtype": "noun",
+      "example": "هذا نتيجة",
+      "exampleEn": "This is result"
+    },
+    {
+      "id": "grade",
+      "arabic": "درجة",
+      "meaning": "grade",
+      "subtype": "noun",
+      "example": "هذا درجة",
+      "exampleEn": "This is grade"
+    },
+    {
+      "id": "paper",
+      "arabic": "ورق",
+      "meaning": "paper",
+      "subtype": "noun",
+      "example": "هذا ورق",
+      "exampleEn": "This is paper"
+    },
+    {
+      "id": "pen",
+      "arabic": "قلم",
+      "meaning": "pen",
+      "subtype": "noun",
+      "example": "هذا قلم",
+      "exampleEn": "This is pen"
+    },
+    {
+      "id": "pencil",
+      "arabic": "قلم رصاص",
+      "meaning": "pencil",
+      "subtype": "noun",
+      "example": "هذا قلم رصاص",
+      "exampleEn": "This is pencil"
+    },
+    {
+      "id": "notebook",
+      "arabic": "دفتر",
+      "meaning": "notebook",
+      "subtype": "noun",
+      "example": "هذا دفتر",
+      "exampleEn": "This is notebook"
+    },
+    {
+      "id": "address",
+      "arabic": "عنوان",
+      "meaning": "address",
+      "subtype": "noun",
+      "example": "هذا عنوان",
+      "exampleEn": "This is address"
+    },
+    {
+      "id": "age",
+      "arabic": "عمر",
+      "meaning": "age",
+      "subtype": "noun",
+      "example": "هذا عمر",
+      "exampleEn": "This is age"
+    },
+    {
+      "id": "agreement",
+      "arabic": "اتفاق",
+      "meaning": "agreement",
+      "subtype": "noun",
+      "example": "هذا اتفاق",
+      "exampleEn": "This is agreement"
+    },
+    {
+      "id": "air",
+      "arabic": "هواء",
+      "meaning": "air",
+      "subtype": "noun",
+      "example": "هذا هواء",
+      "exampleEn": "This is air"
+    },
+    {
+      "id": "album",
+      "arabic": "الألبوم",
+      "meaning": "album",
+      "subtype": "noun",
+      "example": "هذا الألبوم",
+      "exampleEn": "This is album"
+    },
+    {
+      "id": "animal",
+      "arabic": "حيوان",
+      "meaning": "animal",
+      "subtype": "noun",
+      "example": "هذا حيوان",
+      "exampleEn": "This is animal"
+    },
+    {
+      "id": "appointment",
+      "arabic": "ميعاد",
+      "meaning": "appointment",
+      "subtype": "noun",
+      "example": "هذا ميعاد",
+      "exampleEn": "This is appointment"
+    },
+    {
+      "id": "area",
+      "arabic": "منطقة",
+      "meaning": "area",
+      "subtype": "noun",
+      "example": "هذا منطقة",
+      "exampleEn": "This is area"
+    },
+    {
+      "id": "army",
+      "arabic": "جيش",
+      "meaning": "army",
+      "subtype": "noun",
+      "example": "هذا جيش",
+      "exampleEn": "This is army"
+    },
+    {
+      "id": "arrival",
+      "arabic": "وصول",
+      "meaning": "arrival",
+      "subtype": "noun",
+      "example": "هذا وصول",
+      "exampleEn": "This is arrival"
+    },
+    {
+      "id": "artist",
+      "arabic": "فنان",
+      "meaning": "artist",
+      "subtype": "noun",
+      "example": "هذا فنان",
+      "exampleEn": "This is artist"
+    },
+    {
+      "id": "athlete",
+      "arabic": "رياضي",
+      "meaning": "athlete",
+      "subtype": "noun",
+      "example": "هذا رياضي",
+      "exampleEn": "This is athlete"
+    },
+    {
+      "id": "attention",
+      "arabic": "انتباه",
+      "meaning": "attention",
+      "subtype": "noun",
+      "example": "هذا انتباه",
+      "exampleEn": "This is attention"
+    },
+    {
+      "id": "author",
+      "arabic": "مؤلف",
+      "meaning": "author",
+      "subtype": "noun",
+      "example": "هذا مؤلف",
+      "exampleEn": "This is author"
+    },
+    {
+      "id": "backpack",
+      "arabic": "حقيبة ظهر",
+      "meaning": "backpack",
+      "subtype": "noun",
+      "example": "هذا حقيبة ظهر",
+      "exampleEn": "This is backpack"
+    },
+    {
+      "id": "bakery",
+      "arabic": "مخبز",
+      "meaning": "bakery",
+      "subtype": "noun",
+      "example": "هذا مخبز",
+      "exampleEn": "This is bakery"
+    },
+    {
+      "id": "barber",
+      "arabic": "حلاق",
+      "meaning": "barber",
+      "subtype": "noun",
+      "example": "هذا حلاق",
+      "exampleEn": "This is barber"
+    },
+    {
+      "id": "basket",
+      "arabic": "سلة",
+      "meaning": "basket",
+      "subtype": "noun",
+      "example": "هذا سلة",
+      "exampleEn": "This is basket"
+    },
+    {
+      "id": "beauty",
+      "arabic": "جمال",
+      "meaning": "beauty",
+      "subtype": "noun",
+      "example": "هذا جمال",
+      "exampleEn": "This is beauty"
+    },
+    {
+      "id": "behavior",
+      "arabic": "سلوك",
+      "meaning": "behavior",
+      "subtype": "noun",
+      "example": "هذا سلوك",
+      "exampleEn": "This is behavior"
+    },
+    {
+      "id": "beginning",
+      "arabic": "بداية",
+      "meaning": "beginning",
+      "subtype": "noun",
+      "example": "هذا بداية",
+      "exampleEn": "This is beginning"
+    },
+    {
+      "id": "bicycle",
+      "arabic": "دراجة",
+      "meaning": "bicycle",
+      "subtype": "noun",
+      "example": "هذا دراجة",
+      "exampleEn": "This is bicycle"
+    },
+    {
+      "id": "bird",
+      "arabic": "طائر",
+      "meaning": "bird",
+      "subtype": "noun",
+      "example": "هذا طائر",
+      "exampleEn": "This is bird"
+    },
+    {
+      "id": "blood",
+      "arabic": "دم",
+      "meaning": "blood",
+      "subtype": "noun",
+      "example": "هذا دم",
+      "exampleEn": "This is blood"
+    },
+    {
+      "id": "boat",
+      "arabic": "قارب",
+      "meaning": "boat",
+      "subtype": "noun",
+      "example": "هذا قارب",
+      "exampleEn": "This is boat"
+    },
+    {
+      "id": "body",
+      "arabic": "جسم",
+      "meaning": "body",
+      "subtype": "noun",
+      "example": "هذا جسم",
+      "exampleEn": "This is body"
+    },
+    {
+      "id": "bone",
+      "arabic": "عظم",
+      "meaning": "bone",
+      "subtype": "noun",
+      "example": "هذا عظم",
+      "exampleEn": "This is bone"
+    },
+    {
+      "id": "border",
+      "arabic": "حدود",
+      "meaning": "border",
+      "subtype": "noun",
+      "example": "هذا حدود",
+      "exampleEn": "This is border"
+    },
+    {
+      "id": "brain",
+      "arabic": "مخ",
+      "meaning": "brain",
+      "subtype": "noun",
+      "example": "هذا مخ",
+      "exampleEn": "This is brain"
+    },
+    {
+      "id": "branch",
+      "arabic": "فرع",
+      "meaning": "branch",
+      "subtype": "noun",
+      "example": "هذا فرع",
+      "exampleEn": "This is branch"
+    },
+    {
+      "id": "budget",
+      "arabic": "ميزانية",
+      "meaning": "budget",
+      "subtype": "noun",
+      "example": "هذا ميزانية",
+      "exampleEn": "This is budget"
+    },
+    {
+      "id": "building",
+      "arabic": "مبنى",
+      "meaning": "building",
+      "subtype": "noun",
+      "example": "هذا مبنى",
+      "exampleEn": "This is building"
+    },
+    {
+      "id": "button",
+      "arabic": "زر",
+      "meaning": "button",
+      "subtype": "noun",
+      "example": "هذا زر",
+      "exampleEn": "This is button"
+    },
+    {
+      "id": "camp",
+      "arabic": "مخيم",
+      "meaning": "camp",
+      "subtype": "noun",
+      "example": "هذا مخيم",
+      "exampleEn": "This is camp"
+    },
+    {
+      "id": "capital",
+      "arabic": "عاصمة",
+      "meaning": "capital",
+      "subtype": "noun",
+      "example": "هذا عاصمة",
+      "exampleEn": "This is capital"
+    },
+    {
+      "id": "career",
+      "arabic": "حياة مهنية",
+      "meaning": "career",
+      "subtype": "noun",
+      "example": "هذا حياة مهنية",
+      "exampleEn": "This is career"
+    },
+    {
+      "id": "case",
+      "arabic": "قضية",
+      "meaning": "case",
+      "subtype": "noun",
+      "example": "هذا قضية",
+      "exampleEn": "This is case"
+    },
+    {
+      "id": "cash",
+      "arabic": "نقدي",
+      "meaning": "cash",
+      "subtype": "noun",
+      "example": "هذا نقدي",
+      "exampleEn": "This is cash"
+    },
+    {
+      "id": "center",
+      "arabic": "مركز",
+      "meaning": "center",
+      "subtype": "noun",
+      "example": "هذا مركز",
+      "exampleEn": "This is center"
+    },
+    {
+      "id": "chance",
+      "arabic": "فرصة",
+      "meaning": "chance",
+      "subtype": "noun",
+      "example": "هذا فرصة",
+      "exampleEn": "This is chance"
+    },
+    {
+      "id": "change",
+      "arabic": "يتغير",
+      "meaning": "change",
+      "subtype": "noun",
+      "example": "هذا يتغير",
+      "exampleEn": "This is change"
+    },
+    {
+      "id": "character",
+      "arabic": "شخصية",
+      "meaning": "character",
+      "subtype": "noun",
+      "example": "هذا شخصية",
+      "exampleEn": "This is character"
+    },
+    {
+      "id": "chat",
+      "arabic": "محادثة",
+      "meaning": "chat",
+      "subtype": "noun",
+      "example": "هذا محادثة",
+      "exampleEn": "This is chat"
+    },
+    {
+      "id": "check",
+      "arabic": "يفحص",
+      "meaning": "check",
+      "subtype": "noun",
+      "example": "هذا يفحص",
+      "exampleEn": "This is check"
+    },
+    {
+      "id": "childhood",
+      "arabic": "طفولة",
+      "meaning": "childhood",
+      "subtype": "noun",
+      "example": "هذا طفولة",
+      "exampleEn": "This is childhood"
+    },
+    {
+      "id": "choice",
+      "arabic": "خيار",
+      "meaning": "choice",
+      "subtype": "noun",
+      "example": "هذا خيار",
+      "exampleEn": "This is choice"
+    },
+    {
+      "id": "church",
+      "arabic": "كنيسة",
+      "meaning": "church",
+      "subtype": "noun",
+      "example": "هذا كنيسة",
+      "exampleEn": "This is church"
+    },
+    {
+      "id": "circle",
+      "arabic": "دائرة",
+      "meaning": "circle",
+      "subtype": "noun",
+      "example": "هذا دائرة",
+      "exampleEn": "This is circle"
+    },
+    {
+      "id": "citizen",
+      "arabic": "مواطن",
+      "meaning": "citizen",
+      "subtype": "noun",
+      "example": "هذا مواطن",
+      "exampleEn": "This is citizen"
+    },
+    {
+      "id": "cleaner",
+      "arabic": "نظافة",
+      "meaning": "cleaner",
+      "subtype": "noun",
+      "example": "هذا نظافة",
+      "exampleEn": "This is cleaner"
+    },
+    {
+      "id": "climate",
+      "arabic": "مناخ",
+      "meaning": "climate",
+      "subtype": "noun",
+      "example": "هذا مناخ",
+      "exampleEn": "This is climate"
+    },
+    {
+      "id": "clothes",
+      "arabic": "ملابس",
+      "meaning": "clothes",
+      "subtype": "noun",
+      "example": "هذا ملابس",
+      "exampleEn": "This is clothes"
+    },
+    {
+      "id": "coach",
+      "arabic": "مدرب",
+      "meaning": "coach",
+      "subtype": "noun",
+      "example": "هذا مدرب",
+      "exampleEn": "This is coach"
+    },
+    {
+      "id": "coast",
+      "arabic": "ساحل",
+      "meaning": "coast",
+      "subtype": "noun",
+      "example": "هذا ساحل",
+      "exampleEn": "This is coast"
+    },
+    {
+      "id": "college",
+      "arabic": "كلية",
+      "meaning": "college",
+      "subtype": "noun",
+      "example": "هذا كلية",
+      "exampleEn": "This is college"
+    },
+    {
+      "id": "color",
+      "arabic": "لون",
+      "meaning": "color",
+      "subtype": "noun",
+      "example": "هذا لون",
+      "exampleEn": "This is color"
+    },
+    {
+      "id": "comfort",
+      "arabic": "راحة",
+      "meaning": "comfort",
+      "subtype": "noun",
+      "example": "هذا راحة",
+      "exampleEn": "This is comfort"
+    },
+    {
+      "id": "command",
+      "arabic": "يأمر",
+      "meaning": "command",
+      "subtype": "noun",
+      "example": "هذا يأمر",
+      "exampleEn": "This is command"
+    },
+    {
+      "id": "comment",
+      "arabic": "تعليق",
+      "meaning": "comment",
+      "subtype": "noun",
+      "example": "هذا تعليق",
+      "exampleEn": "This is comment"
+    },
+    {
+      "id": "community",
+      "arabic": "مجتمع",
+      "meaning": "community",
+      "subtype": "noun",
+      "example": "هذا مجتمع",
+      "exampleEn": "This is community"
+    },
+    {
+      "id": "competition",
+      "arabic": "مسابقة",
+      "meaning": "competition",
+      "subtype": "noun",
+      "example": "هذا مسابقة",
+      "exampleEn": "This is competition"
+    },
+    {
+      "id": "condition",
+      "arabic": "حالة",
+      "meaning": "condition",
+      "subtype": "noun",
+      "example": "هذا حالة",
+      "exampleEn": "This is condition"
+    },
+    {
+      "id": "context",
+      "arabic": "سياق",
+      "meaning": "context",
+      "subtype": "noun",
+      "example": "هذا سياق",
+      "exampleEn": "This is context"
+    },
+    {
+      "id": "control",
+      "arabic": "يتحكم",
+      "meaning": "control",
+      "subtype": "noun",
+      "example": "هذا يتحكم",
+      "exampleEn": "This is control"
+    },
+    {
+      "id": "corner",
+      "arabic": "ركن",
+      "meaning": "corner",
+      "subtype": "noun",
+      "example": "هذا ركن",
+      "exampleEn": "This is corner"
+    },
+    {
+      "id": "cost",
+      "arabic": "يكلف",
+      "meaning": "cost",
+      "subtype": "noun",
+      "example": "هذا يكلف",
+      "exampleEn": "This is cost"
+    },
+    {
+      "id": "culture",
+      "arabic": "ثقافة",
+      "meaning": "culture",
+      "subtype": "noun",
+      "example": "هذا ثقافة",
+      "exampleEn": "This is culture"
+    },
+    {
+      "id": "customer",
+      "arabic": "عميل",
+      "meaning": "customer",
+      "subtype": "noun",
+      "example": "هذا عميل",
+      "exampleEn": "This is customer"
+    },
+    {
+      "id": "damage",
+      "arabic": "ضرر",
+      "meaning": "damage",
+      "subtype": "noun",
+      "example": "هذا ضرر",
+      "exampleEn": "This is damage"
+    },
+    {
+      "id": "dance",
+      "arabic": "رقص",
+      "meaning": "dance",
+      "subtype": "noun",
+      "example": "هذا رقص",
+      "exampleEn": "This is dance"
+    },
+    {
+      "id": "danger",
+      "arabic": "خطر",
+      "meaning": "danger",
+      "subtype": "noun",
+      "example": "هذا خطر",
+      "exampleEn": "This is danger"
+    },
+    {
+      "id": "decision",
+      "arabic": "قرار",
+      "meaning": "decision",
+      "subtype": "noun",
+      "example": "هذا قرار",
+      "exampleEn": "This is decision"
+    },
+    {
+      "id": "delivery",
+      "arabic": "توصيل",
+      "meaning": "delivery",
+      "subtype": "noun",
+      "example": "هذا توصيل",
+      "exampleEn": "This is delivery"
+    },
+    {
+      "id": "department",
+      "arabic": "قسم",
+      "meaning": "department",
+      "subtype": "noun",
+      "example": "هذا قسم",
+      "exampleEn": "This is department"
+    },
+    {
+      "id": "design",
+      "arabic": "تصميم",
+      "meaning": "design",
+      "subtype": "noun",
+      "example": "هذا تصميم",
+      "exampleEn": "This is design"
+    },
+    {
+      "id": "detail",
+      "arabic": "التفاصيل",
+      "meaning": "detail",
+      "subtype": "noun",
+      "example": "هذا التفاصيل",
+      "exampleEn": "This is detail"
+    },
+    {
+      "id": "development",
+      "arabic": "تطوير",
+      "meaning": "development",
+      "subtype": "noun",
+      "example": "هذا تطوير",
+      "exampleEn": "This is development"
+    },
+    {
+      "id": "device",
+      "arabic": "جهاز",
+      "meaning": "device",
+      "subtype": "noun",
+      "example": "هذا جهاز",
+      "exampleEn": "This is device"
+    },
+    {
+      "id": "difficulty",
+      "arabic": "صعوبة",
+      "meaning": "difficulty",
+      "subtype": "noun",
+      "example": "هذا صعوبة",
+      "exampleEn": "This is difficulty"
+    },
+    {
+      "id": "distance",
+      "arabic": "مسافة",
+      "meaning": "distance",
+      "subtype": "noun",
+      "example": "هذا مسافة",
+      "exampleEn": "This is distance"
+    },
+    {
+      "id": "district",
+      "arabic": "يصرف",
+      "meaning": "district",
+      "subtype": "noun",
+      "example": "هذا يصرف",
+      "exampleEn": "This is district"
+    },
+    {
+      "id": "document",
+      "arabic": "وثيقة",
+      "meaning": "document",
+      "subtype": "noun",
+      "example": "هذا وثيقة",
+      "exampleEn": "This is document"
+    },
+    {
+      "id": "dream",
+      "arabic": "حلم",
+      "meaning": "dream",
+      "subtype": "noun",
+      "example": "هذا حلم",
+      "exampleEn": "This is dream"
+    },
+    {
+      "id": "economy",
+      "arabic": "اقتصاد",
+      "meaning": "economy",
+      "subtype": "noun",
+      "example": "هذا اقتصاد",
+      "exampleEn": "This is economy"
+    },
+    {
+      "id": "education",
+      "arabic": "تعليم",
+      "meaning": "education",
+      "subtype": "noun",
+      "example": "هذا تعليم",
+      "exampleEn": "This is education"
+    },
+    {
+      "id": "effect",
+      "arabic": "تأثير",
+      "meaning": "effect",
+      "subtype": "noun",
+      "example": "هذا تأثير",
+      "exampleEn": "This is effect"
+    },
+    {
+      "id": "effort",
+      "arabic": "جهد",
+      "meaning": "effort",
+      "subtype": "noun",
+      "example": "هذا جهد",
+      "exampleEn": "This is effort"
+    },
+    {
+      "id": "electricity",
+      "arabic": "كهرباء",
+      "meaning": "electricity",
+      "subtype": "noun",
+      "example": "هذا كهرباء",
+      "exampleEn": "This is electricity"
+    },
+    {
+      "id": "emotion",
+      "arabic": "العاطفة",
+      "meaning": "emotion",
+      "subtype": "noun",
+      "example": "هذا العاطفة",
+      "exampleEn": "This is emotion"
+    },
+    {
+      "id": "energy",
+      "arabic": "طاقة",
+      "meaning": "energy",
+      "subtype": "noun",
+      "example": "هذا طاقة",
+      "exampleEn": "This is energy"
+    },
+    {
+      "id": "environment",
+      "arabic": "بيئة",
+      "meaning": "environment",
+      "subtype": "noun",
+      "example": "هذا بيئة",
+      "exampleEn": "This is environment"
+    },
+    {
+      "id": "event",
+      "arabic": "حدث",
+      "meaning": "event",
+      "subtype": "noun",
+      "example": "هذا حدث",
+      "exampleEn": "This is event"
+    },
+    {
+      "id": "evidence",
+      "arabic": "شهادة",
+      "meaning": "evidence",
+      "subtype": "noun",
+      "example": "هذا شهادة",
+      "exampleEn": "This is evidence"
+    },
+    {
+      "id": "example",
+      "arabic": "مثال",
+      "meaning": "example",
+      "subtype": "noun",
+      "example": "هذا مثال",
+      "exampleEn": "This is example"
+    },
+    {
+      "id": "exchange",
+      "arabic": "تبادل",
+      "meaning": "exchange",
+      "subtype": "noun",
+      "example": "هذا تبادل",
+      "exampleEn": "This is exchange"
+    },
+    {
+      "id": "experience",
+      "arabic": "خبرة",
+      "meaning": "experience",
+      "subtype": "noun",
+      "example": "هذا خبرة",
+      "exampleEn": "This is experience"
+    },
+    {
+      "id": "expert",
+      "arabic": "خبير",
+      "meaning": "expert",
+      "subtype": "noun",
+      "example": "هذا خبير",
+      "exampleEn": "This is expert"
+    },
+    {
+      "id": "fact",
+      "arabic": "حقيقة",
+      "meaning": "fact",
+      "subtype": "noun",
+      "example": "هذا حقيقة",
+      "exampleEn": "This is fact"
+    },
+    {
+      "id": "failure",
+      "arabic": "فشل",
+      "meaning": "failure",
+      "subtype": "noun",
+      "example": "هذا فشل",
+      "exampleEn": "This is failure"
+    },
+    {
+      "id": "faith",
+      "arabic": "إيمان",
+      "meaning": "faith",
+      "subtype": "noun",
+      "example": "هذا إيمان",
+      "exampleEn": "This is faith"
+    },
+    {
+      "id": "operation",
+      "arabic": "عملية",
+      "meaning": "operation",
+      "subtype": "noun",
+      "example": "هذا عملية",
+      "exampleEn": "This is operation"
+    },
+    {
+      "id": "order",
+      "arabic": "طلب",
+      "meaning": "order",
+      "subtype": "noun",
+      "example": "هذا طلب",
+      "exampleEn": "This is order"
+    },
+    {
+      "id": "organization",
+      "arabic": "منظمة",
+      "meaning": "organization",
+      "subtype": "noun",
+      "example": "هذا منظمة",
+      "exampleEn": "This is organization"
+    },
+    {
+      "id": "owner",
+      "arabic": "مالك",
+      "meaning": "owner",
+      "subtype": "noun",
+      "example": "هذا مالك",
+      "exampleEn": "This is owner"
+    },
+    {
+      "id": "package",
+      "arabic": "طَرد",
+      "meaning": "package",
+      "subtype": "noun",
+      "example": "هذا طَرد",
+      "exampleEn": "This is package"
+    },
+    {
+      "id": "page",
+      "arabic": "صفحة",
+      "meaning": "page",
+      "subtype": "noun",
+      "example": "هذا صفحة",
+      "exampleEn": "This is page"
+    },
+    {
+      "id": "painting",
+      "arabic": "تلوين",
+      "meaning": "painting",
+      "subtype": "noun",
+      "example": "هذا تلوين",
+      "exampleEn": "This is painting"
+    },
+    {
+      "id": "parking",
+      "arabic": "وقوف السيارات",
+      "meaning": "parking",
+      "subtype": "noun",
+      "example": "هذا وقوف السيارات",
+      "exampleEn": "This is parking"
+    },
+    {
+      "id": "partner",
+      "arabic": "شريك",
+      "meaning": "partner",
+      "subtype": "noun",
+      "example": "هذا شريك",
+      "exampleEn": "This is partner"
+    },
+    {
+      "id": "party",
+      "arabic": "حزب",
+      "meaning": "party",
+      "subtype": "noun",
+      "example": "هذا حزب",
+      "exampleEn": "This is party"
+    },
+    {
+      "id": "passenger",
+      "arabic": "راكب",
+      "meaning": "passenger",
+      "subtype": "noun",
+      "example": "هذا راكب",
+      "exampleEn": "This is passenger"
+    },
+    {
+      "id": "payment",
+      "arabic": "قسط",
+      "meaning": "payment",
+      "subtype": "noun",
+      "example": "هذا قسط",
+      "exampleEn": "This is payment"
+    },
+    {
+      "id": "permission",
+      "arabic": "إذن",
+      "meaning": "permission",
+      "subtype": "noun",
+      "example": "هذا إذن",
+      "exampleEn": "This is permission"
+    },
+    {
+      "id": "phase",
+      "arabic": "مرحلة",
+      "meaning": "phase",
+      "subtype": "noun",
+      "example": "هذا مرحلة",
+      "exampleEn": "This is phase"
+    },
+    {
+      "id": "place",
+      "arabic": "مكان",
+      "meaning": "place",
+      "subtype": "noun",
+      "example": "هذا مكان",
+      "exampleEn": "This is place"
+    },
+    {
+      "id": "platform",
+      "arabic": "منصة",
+      "meaning": "platform",
+      "subtype": "noun",
+      "example": "هذا منصة",
+      "exampleEn": "This is platform"
+    },
+    {
+      "id": "player",
+      "arabic": "لاعب",
+      "meaning": "player",
+      "subtype": "noun",
+      "example": "هذا لاعب",
+      "exampleEn": "This is player"
+    },
+    {
+      "id": "point",
+      "arabic": "نقطة",
+      "meaning": "point",
+      "subtype": "noun",
+      "example": "هذا نقطة",
+      "exampleEn": "This is point"
+    },
+    {
+      "id": "policy",
+      "arabic": "سياسة",
+      "meaning": "policy",
+      "subtype": "noun",
+      "example": "هذا سياسة",
+      "exampleEn": "This is policy"
+    },
+    {
+      "id": "population",
+      "arabic": "سكان",
+      "meaning": "population",
+      "subtype": "noun",
+      "example": "هذا سكان",
+      "exampleEn": "This is population"
+    },
+    {
+      "id": "position",
+      "arabic": "موضع",
+      "meaning": "position",
+      "subtype": "noun",
+      "example": "هذا موضع",
+      "exampleEn": "This is position"
+    },
+    {
+      "id": "post",
+      "arabic": "بريد",
+      "meaning": "post",
+      "subtype": "noun",
+      "example": "هذا بريد",
+      "exampleEn": "This is post"
+    },
+    {
+      "id": "presence",
+      "arabic": "حضور",
+      "meaning": "presence",
+      "subtype": "noun",
+      "example": "هذا حضور",
+      "exampleEn": "This is presence"
+    },
+    {
+      "id": "pressure",
+      "arabic": "ضغط",
+      "meaning": "pressure",
+      "subtype": "noun",
+      "example": "هذا ضغط",
+      "exampleEn": "This is pressure"
+    },
+    {
+      "id": "priority",
+      "arabic": "أولوية",
+      "meaning": "priority",
+      "subtype": "noun",
+      "example": "هذا أولوية",
+      "exampleEn": "This is priority"
+    },
+    {
+      "id": "product",
+      "arabic": "منتج",
+      "meaning": "product",
+      "subtype": "noun",
+      "example": "هذا منتج",
+      "exampleEn": "This is product"
+    },
+    {
+      "id": "profession",
+      "arabic": "مهنة",
+      "meaning": "profession",
+      "subtype": "noun",
+      "example": "هذا مهنة",
+      "exampleEn": "This is profession"
+    },
+    {
+      "id": "progress",
+      "arabic": "تقدم",
+      "meaning": "progress",
+      "subtype": "noun",
+      "example": "هذا تقدم",
+      "exampleEn": "This is progress"
+    },
+    {
+      "id": "property",
+      "arabic": "ملكية",
+      "meaning": "property",
+      "subtype": "noun",
+      "example": "هذا ملكية",
+      "exampleEn": "This is property"
+    },
+    {
+      "id": "proposal",
+      "arabic": "عرض",
+      "meaning": "proposal",
+      "subtype": "noun",
+      "example": "هذا عرض",
+      "exampleEn": "This is proposal"
+    },
+    {
+      "id": "protection",
+      "arabic": "حماية",
+      "meaning": "protection",
+      "subtype": "noun",
+      "example": "هذا حماية",
+      "exampleEn": "This is protection"
+    },
+    {
+      "id": "purpose",
+      "arabic": "غاية",
+      "meaning": "purpose",
+      "subtype": "noun",
+      "example": "هذا غاية",
+      "exampleEn": "This is purpose"
+    },
+    {
+      "id": "quality",
+      "arabic": "جودة",
+      "meaning": "quality",
+      "subtype": "noun",
+      "example": "هذا جودة",
+      "exampleEn": "This is quality"
+    },
+    {
+      "id": "quantity",
+      "arabic": "كمية",
+      "meaning": "quantity",
+      "subtype": "noun",
+      "example": "هذا كمية",
+      "exampleEn": "This is quantity"
+    },
+    {
+      "id": "queue",
+      "arabic": "طابور",
+      "meaning": "queue",
+      "subtype": "noun",
+      "example": "هذا طابور",
+      "exampleEn": "This is queue"
+    },
+    {
+      "id": "radio",
+      "arabic": "راديو",
+      "meaning": "radio",
+      "subtype": "noun",
+      "example": "هذا راديو",
+      "exampleEn": "This is radio"
+    },
+    {
+      "id": "reaction",
+      "arabic": "رد فعل",
+      "meaning": "reaction",
+      "subtype": "noun",
+      "example": "هذا رد فعل",
+      "exampleEn": "This is reaction"
+    },
+    {
+      "id": "reader",
+      "arabic": "قارئ",
+      "meaning": "reader",
+      "subtype": "noun",
+      "example": "هذا قارئ",
+      "exampleEn": "This is reader"
+    },
+    {
+      "id": "reason",
+      "arabic": "سبب",
+      "meaning": "reason",
+      "subtype": "noun",
+      "example": "هذا سبب",
+      "exampleEn": "This is reason"
+    },
+    {
+      "id": "record",
+      "arabic": "سِجِلّ",
+      "meaning": "record",
+      "subtype": "noun",
+      "example": "هذا سِجِلّ",
+      "exampleEn": "This is record"
+    },
+    {
+      "id": "reference",
+      "arabic": "مرجع",
+      "meaning": "reference",
+      "subtype": "noun",
+      "example": "هذا مرجع",
+      "exampleEn": "This is reference"
+    },
+    {
+      "id": "relationship",
+      "arabic": "علاقة",
+      "meaning": "relationship",
+      "subtype": "noun",
+      "example": "هذا علاقة",
+      "exampleEn": "This is relationship"
+    },
+    {
+      "id": "repair",
+      "arabic": "بصلح",
+      "meaning": "repair",
+      "subtype": "noun",
+      "example": "هذا بصلح",
+      "exampleEn": "This is repair"
+    },
+    {
+      "id": "report",
+      "arabic": "تقرير",
+      "meaning": "report",
+      "subtype": "noun",
+      "example": "هذا تقرير",
+      "exampleEn": "This is report"
+    },
+    {
+      "id": "research",
+      "arabic": "بحث",
+      "meaning": "research",
+      "subtype": "noun",
+      "example": "هذا بحث",
+      "exampleEn": "This is research"
+    },
+    {
+      "id": "resource",
+      "arabic": "الموارد",
+      "meaning": "resource",
+      "subtype": "noun",
+      "example": "هذا الموارد",
+      "exampleEn": "This is resource"
+    },
+    {
+      "id": "response",
+      "arabic": "إجابة",
+      "meaning": "response",
+      "subtype": "noun",
+      "example": "هذا إجابة",
+      "exampleEn": "This is response"
+    },
+    {
+      "id": "responsibility",
+      "arabic": "مسؤولية",
+      "meaning": "responsibility",
+      "subtype": "noun",
+      "example": "هذا مسؤولية",
+      "exampleEn": "This is responsibility"
+    },
+    {
+      "id": "review",
+      "arabic": "مراجعة",
+      "meaning": "review",
+      "subtype": "noun",
+      "example": "هذا مراجعة",
+      "exampleEn": "This is review"
+    },
+    {
+      "id": "risk",
+      "arabic": "مخاطرة",
+      "meaning": "risk",
+      "subtype": "noun",
+      "example": "هذا مخاطرة",
+      "exampleEn": "This is risk"
+    },
+    {
+      "id": "role",
+      "arabic": "دور",
+      "meaning": "role",
+      "subtype": "noun",
+      "example": "هذا دور",
+      "exampleEn": "This is role"
+    },
+    {
+      "id": "rule",
+      "arabic": "قاعدة",
+      "meaning": "rule",
+      "subtype": "noun",
+      "example": "هذا قاعدة",
+      "exampleEn": "This is rule"
+    },
+    {
+      "id": "sale",
+      "arabic": "أُوكَازيُون",
+      "meaning": "sale",
+      "subtype": "noun",
+      "example": "هذا أُوكَازيُون",
+      "exampleEn": "This is sale"
+    },
+    {
+      "id": "sample",
+      "arabic": "عينة",
+      "meaning": "sample",
+      "subtype": "noun",
+      "example": "هذا عينة",
+      "exampleEn": "This is sample"
+    },
+    {
+      "id": "schedule",
+      "arabic": "جدول",
+      "meaning": "schedule",
+      "subtype": "noun",
+      "example": "هذا جدول",
+      "exampleEn": "This is schedule"
+    },
+    {
+      "id": "science",
+      "arabic": "علوم",
+      "meaning": "science",
+      "subtype": "noun",
+      "example": "هذا علوم",
+      "exampleEn": "This is science"
+    },
+    {
+      "id": "search",
+      "arabic": "يبحث",
+      "meaning": "search",
+      "subtype": "noun",
+      "example": "هذا يبحث",
+      "exampleEn": "This is search"
+    },
+    {
+      "id": "secret",
+      "arabic": "سر",
+      "meaning": "secret",
+      "subtype": "noun",
+      "example": "هذا سر",
+      "exampleEn": "This is secret"
+    },
+    {
+      "id": "service",
+      "arabic": "خدمة",
+      "meaning": "service",
+      "subtype": "noun",
+      "example": "هذا خدمة",
+      "exampleEn": "This is service"
+    },
+    {
+      "id": "session",
+      "arabic": "حصة",
+      "meaning": "session",
+      "subtype": "noun",
+      "example": "هذا حصة",
+      "exampleEn": "This is session"
+    },
+    {
+      "id": "setting",
+      "arabic": "جلسة",
+      "meaning": "setting",
+      "subtype": "noun",
+      "example": "هذا جلسة",
+      "exampleEn": "This is setting"
+    },
+    {
+      "id": "share",
+      "arabic": "يشارك",
+      "meaning": "share",
+      "subtype": "noun",
+      "example": "هذا يشارك",
+      "exampleEn": "This is share"
+    },
+    {
+      "id": "shipping",
+      "arabic": "شحن",
+      "meaning": "shipping",
+      "subtype": "noun",
+      "example": "هذا شحن",
+      "exampleEn": "This is shipping"
+    },
+    {
+      "id": "side",
+      "arabic": "جانب",
+      "meaning": "side",
+      "subtype": "noun",
+      "example": "هذا جانب",
+      "exampleEn": "This is side"
+    },
+    {
+      "id": "sign",
+      "arabic": "لافتة",
+      "meaning": "sign",
+      "subtype": "noun",
+      "example": "هذا لافتة",
+      "exampleEn": "This is sign"
+    },
+    {
+      "id": "signature",
+      "arabic": "إمضاء",
+      "meaning": "signature",
+      "subtype": "noun",
+      "example": "هذا إمضاء",
+      "exampleEn": "This is signature"
+    },
+    {
+      "id": "site",
+      "arabic": "موقع",
+      "meaning": "site",
+      "subtype": "noun",
+      "example": "هذا موقع",
+      "exampleEn": "This is site"
+    },
+    {
+      "id": "situation",
+      "arabic": "الموقف",
+      "meaning": "situation",
+      "subtype": "noun",
+      "example": "هذا الموقف",
+      "exampleEn": "This is situation"
+    },
+    {
+      "id": "skill",
+      "arabic": "مهارة",
+      "meaning": "skill",
+      "subtype": "noun",
+      "example": "هذا مهارة",
+      "exampleEn": "This is skill"
+    },
+    {
+      "id": "source",
+      "arabic": "مصدر",
+      "meaning": "source",
+      "subtype": "noun",
+      "example": "هذا مصدر",
+      "exampleEn": "This is source"
+    },
+    {
+      "id": "space",
+      "arabic": "فضاء",
+      "meaning": "space",
+      "subtype": "noun",
+      "example": "هذا فضاء",
+      "exampleEn": "This is space"
+    },
+    {
+      "id": "speaker",
+      "arabic": "المتكلم",
+      "meaning": "speaker",
+      "subtype": "noun",
+      "example": "هذا المتكلم",
+      "exampleEn": "This is speaker"
+    },
+    {
+      "id": "speed",
+      "arabic": "سرعة",
+      "meaning": "speed",
+      "subtype": "noun",
+      "example": "هذا سرعة",
+      "exampleEn": "This is speed"
+    },
+    {
+      "id": "staff",
+      "arabic": "طاقم عمل",
+      "meaning": "staff",
+      "subtype": "noun",
+      "example": "هذا طاقم عمل",
+      "exampleEn": "This is staff"
+    },
+    {
+      "id": "standard",
+      "arabic": "معيار",
+      "meaning": "standard",
+      "subtype": "noun",
+      "example": "هذا معيار",
+      "exampleEn": "This is standard"
+    },
+    {
+      "id": "state",
+      "arabic": "ولاية",
+      "meaning": "state",
+      "subtype": "noun",
+      "example": "هذا ولاية",
+      "exampleEn": "This is state"
+    },
+    {
+      "id": "step",
+      "arabic": "خطوة",
+      "meaning": "step",
+      "subtype": "noun",
+      "example": "هذا خطوة",
+      "exampleEn": "This is step"
+    },
+    {
+      "id": "storage",
+      "arabic": "تخزين",
+      "meaning": "storage",
+      "subtype": "noun",
+      "example": "هذا تخزين",
+      "exampleEn": "This is storage"
+    },
+    {
+      "id": "strength",
+      "arabic": "قوة",
+      "meaning": "strength",
+      "subtype": "noun",
+      "example": "هذا قوة",
+      "exampleEn": "This is strength"
+    },
+    {
+      "id": "structure",
+      "arabic": "بناء",
+      "meaning": "structure",
+      "subtype": "noun",
+      "example": "هذا بناء",
+      "exampleEn": "This is structure"
+    },
+    {
+      "id": "subject",
+      "arabic": "موضوع",
+      "meaning": "subject",
+      "subtype": "noun",
+      "example": "هذا موضوع",
+      "exampleEn": "This is subject"
+    },
+    {
+      "id": "success",
+      "arabic": "نجاح",
+      "meaning": "success",
+      "subtype": "noun",
+      "example": "هذا نجاح",
+      "exampleEn": "This is success"
+    },
+    {
+      "id": "support",
+      "arabic": "يدعم",
+      "meaning": "support",
+      "subtype": "noun",
+      "example": "هذا يدعم",
+      "exampleEn": "This is support"
+    },
+    {
+      "id": "surface",
+      "arabic": "سطح",
+      "meaning": "surface",
+      "subtype": "noun",
+      "example": "هذا سطح",
+      "exampleEn": "This is surface"
+    },
+    {
+      "id": "system",
+      "arabic": "نظام",
+      "meaning": "system",
+      "subtype": "noun",
+      "example": "هذا نظام",
+      "exampleEn": "This is system"
+    },
+    {
+      "id": "task",
+      "arabic": "مهمة",
+      "meaning": "task",
+      "subtype": "noun",
+      "example": "هذا مهمة",
+      "exampleEn": "This is task"
+    },
+    {
+      "id": "technology",
+      "arabic": "تكنولوجيا",
+      "meaning": "technology",
+      "subtype": "noun",
+      "example": "هذا تكنولوجيا",
+      "exampleEn": "This is technology"
+    },
+    {
+      "id": "term",
+      "arabic": "شرط",
+      "meaning": "term",
+      "subtype": "noun",
+      "example": "هذا شرط",
+      "exampleEn": "This is term"
+    },
+    {
+      "id": "theme",
+      "arabic": "سمة",
+      "meaning": "theme",
+      "subtype": "noun",
+      "example": "هذا سمة",
+      "exampleEn": "This is theme"
+    },
+    {
+      "id": "theory",
+      "arabic": "نظرية",
+      "meaning": "theory",
+      "subtype": "noun",
+      "example": "هذا نظرية",
+      "exampleEn": "This is theory"
+    },
+    {
+      "id": "thought",
+      "arabic": "معتقد",
+      "meaning": "thought",
+      "subtype": "noun",
+      "example": "هذا معتقد",
+      "exampleEn": "This is thought"
+    },
+    {
+      "id": "tradition",
+      "arabic": "التقليد",
+      "meaning": "tradition",
+      "subtype": "noun",
+      "example": "هذا التقليد",
+      "exampleEn": "This is tradition"
+    },
+    {
+      "id": "training",
+      "arabic": "تمرين",
+      "meaning": "training",
+      "subtype": "noun",
+      "example": "هذا تمرين",
+      "exampleEn": "This is training"
+    },
+    {
+      "id": "transition",
+      "arabic": "انتقال",
+      "meaning": "transition",
+      "subtype": "noun",
+      "example": "هذا انتقال",
+      "exampleEn": "This is transition"
+    },
+    {
+      "id": "transport",
+      "arabic": "ينقل",
+      "meaning": "transport",
+      "subtype": "noun",
+      "example": "هذا ينقل",
+      "exampleEn": "This is transport"
+    },
+    {
+      "id": "type",
+      "arabic": "يكتب",
+      "meaning": "type",
+      "subtype": "noun",
+      "example": "هذا يكتب",
+      "exampleEn": "This is type"
+    },
+    {
+      "id": "unit",
+      "arabic": "وحدة",
+      "meaning": "unit",
+      "subtype": "noun",
+      "example": "هذا وحدة",
+      "exampleEn": "This is unit"
+    },
+    {
+      "id": "university",
+      "arabic": "جامعة",
+      "meaning": "university",
+      "subtype": "noun",
+      "example": "هذا جامعة",
+      "exampleEn": "This is university"
+    },
+    {
+      "id": "user",
+      "arabic": "مستخدم",
+      "meaning": "user",
+      "subtype": "noun",
+      "example": "هذا مستخدم",
+      "exampleEn": "This is user"
+    },
+    {
+      "id": "value",
+      "arabic": "قيمة",
+      "meaning": "value",
+      "subtype": "noun",
+      "example": "هذا قيمة",
+      "exampleEn": "This is value"
+    }
   ]
 }

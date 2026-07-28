@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| وين الحمّام؟ — Where’s the bathroom? |
+| وين الحمّام؟ — Where is the bathroom? |
+| هذا حمّام — This is a bathroom |
+| أحب حمّام — I like bathroom |
+| وين حمّام؟ — Where is the bathroom? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

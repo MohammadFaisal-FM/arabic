@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | رحت البنك — I went to the bank |
+| هذا بنك — This is a bank |
+| أحب بنك — I like bank |
+| وين بنك؟ — Where is the bank? |
 
----
 
-## Notes
-
-Loanword — learn as a whole. No useful Arabic root family.

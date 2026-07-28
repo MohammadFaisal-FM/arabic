@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ص-ب-ح |
-| **Letter** | ص · صاد |
 | **Meaning** | becoming morning / waking |
-| **Form I** | صبح / يصبح |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **صبح / يصبح**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | صبح / يصبح | [Open](#fil/sbh) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | صبح | becoming morning / waking | `#fil/sbh` |
-| اسم | صباح | morning | `#ism/sabah` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم · ism (noun) | صباح | صباح الخير — Good morning |
 

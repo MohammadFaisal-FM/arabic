@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | اغسل يدك — Wash your hand |
+| هذا يد — This is a hand |
+| أحب يد — I like hand |
+| وين يد؟ — Where is the hand? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

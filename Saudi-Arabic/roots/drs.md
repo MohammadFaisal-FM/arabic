@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | د-ر-س |
-| **Letter** | د · دال |
 | **Meaning** | studying |
-| **Form I** | درس / يدرس |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,19 +16,19 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **درس / يدرس**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | درس / يدرس | [Open](#fil/drs) |
+| II | درّس / يدرّس · teach | [Open](#fil/drs-ii) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | درس | studying | `#fil/drs` |
-| اسم | درس | lesson | `#ism/dars` |
-| اسم | مدرسة | school | `#ism/madrasa` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم · ism (noun) | درس | عندي درس — I have a lesson |
+| اسم مكان · ism makān (place) | مدرسة | رحت المدرسة — I went to school |
 

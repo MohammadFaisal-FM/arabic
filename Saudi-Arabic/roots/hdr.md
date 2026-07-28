@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ح-ض-ر |
-| **Letter** | ح · حاء |
 | **Meaning** | attending / preparing |
-| **Form I** | حضر / يحضر |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,16 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **حضر / يحضر**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | حضر / يحضر | [Open](#fil/hdr) |
+| II | حضّر / يحضّر · prepare | [Open](#fil/hdr-ii) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | حضر | attending / preparing | `#fil/hdr` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

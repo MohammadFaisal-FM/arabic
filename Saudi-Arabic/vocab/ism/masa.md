@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | مساء الخير — Good evening |
+| هذا مساء — This is a evening |
+| أحب مساء — I like evening |
+| وين مساء؟ — Where is the evening? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

@@ -6,7 +6,7 @@
 | **Subtype** | place |
 | **Arabic** | مطبخ |
 | **Meaning** | kitchen |
-| **Root** | ط-ب-خ (`tbkh`) |
+| **Root** | [ط-ب-خ](#roots/tbkh) |
 
 ---
 
@@ -14,10 +14,16 @@
 
 | Arabic · English |
 |------------------|
-| في المطبخ — in the kitchen |
+| في المطبخ — In the kitchen |
+| هذا مطبخ — This is a kitchen |
+| أحب مطبخ — I like kitchen |
+| وين مطبخ؟ — Where is the kitchen? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ط-ب-خ** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ط-ب-خ](#roots/tbkh) |
+| **Fiʿl** | [طبخ / يطبخ](#fil/tbkh) |
+

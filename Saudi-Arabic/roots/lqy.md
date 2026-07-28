@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ل-ق-ي |
-| **Letter** | ل · لام |
 | **Meaning** | finding |
-| **Form I** | لقى / يلقى |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **لقى / يلقى**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | لقى / يلقى | [Open](#fil/lqy) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | لقى | finding | `#fil/lqy` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

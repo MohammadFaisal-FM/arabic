@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ع-د-د |
-| **Letter** | ع · عين |
 | **Meaning** | counting |
-| **Form I** | عدّ / يعد |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **عدّ / يعد**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | عدّ / يعد | [Open](#fil/3dd) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | عدّ | counting | `#fil/3dd` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

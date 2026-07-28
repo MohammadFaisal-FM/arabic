@@ -15,9 +15,8 @@
 | Arabic · English |
 |------------------|
 | في البيت — at home |
+| هذا بيت — This is a house |
+| أحب بيت — I like house |
+| وين بيت؟ — Where is the house? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

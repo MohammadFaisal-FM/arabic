@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| ساعة واحدة — one o’clock |
+| ساعة واحدة — One hour |
+| هذا ساعة — This is a hour |
+| أحب ساعة — I like hour |
+| وين ساعة؟ — Where is the hour? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

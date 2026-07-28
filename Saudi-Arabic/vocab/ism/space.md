@@ -1,11 +1,11 @@
-# أهل
+# فضاء
 
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
 | **Subtype** | noun |
-| **Arabic** | أهل |
-| **Meaning** | family / folks |
+| **Arabic** | فضاء |
+| **Meaning** | space |
 | **Root** | — (loan / no everyday root) |
 
 ---
@@ -14,10 +14,8 @@
 
 | Arabic · English |
 |------------------|
-| بزور أهلي — I’ll visit my family |
+| هذا فضاء — This is space |
+| أحب فضاء — I like space |
+| وين فضاء؟ — Where is the space? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

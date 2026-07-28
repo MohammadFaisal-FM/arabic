@@ -52,17 +52,49 @@ function firstLetter(root) {
   return normalizeLetter(first);
 }
 
+/** Main everyday forms only (skip rare / classical awzan). */
+function mainForms(root) {
+  if (Array.isArray(root.forms) && root.forms.length > 0) {
+    return root.forms.map((f) => ({
+      form: String(f.form),
+      verb: f.verb,
+      note: f.note ?? '',
+      filId: f.filId ?? root.id,
+    }));
+  }
+  return [
+    {
+      form: 'I',
+      verb: root.formI,
+      note: '',
+      filId: root.id,
+    },
+  ];
+}
+
+function howToUseSection(root) {
+  const forms = mainForms(root);
+  const rows = forms
+    .map((f) => {
+      const label = f.note ? `${f.verb} · ${f.note}` : f.verb;
+      return `| ${f.form} | ${label} | [Open](#fil/${f.filId}) |`;
+    })
+    .join('\n');
+  return `## Forms Widely Used
+
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+${rows}
+`;
+}
+
 function mdFor(root) {
-  const letter = firstLetter(root.root);
-  const name = LETTER_NAMES[letter] ?? letter;
   return `# ${root.root}
 
 | Field | Value |
 |-------|-------|
 | **Root** | ${root.root} |
-| **Letter** | ${letter} · ${name} |
 | **Meaning** | ${root.meaning} |
-| **Form I** | ${root.formI} |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -75,10 +107,7 @@ function mdFor(root) {
 
 ---
 
-## How to use
-
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **${root.formI}**.
-`;
+${howToUseSection(root)}`;
 }
 
 const source = JSON.parse(fs.readFileSync(sourcePath, 'utf8'));
@@ -141,7 +170,7 @@ const manifest = {
     letter,
     name: LETTER_NAMES[letter],
   })),
-  roots: roots.map(({ id, root, letter, meaning, formI, example, file }) => ({
+  roots: roots.map(({ id, root, letter, meaning, formI, example, file, forms }) => ({
     id,
     root,
     letter,
@@ -149,6 +178,7 @@ const manifest = {
     formI,
     example,
     file,
+    forms: forms ?? null,
   })),
 };
 

@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| رقم التلفون — phone number |
+| رقم التلفون — Telephone number |
+| هذا تلفون — This is a telephone |
+| أحب تلفون — I like telephone |
+| وين تلفون؟ — Where is the telephone? |
 
----
 
-## Notes
-
-Loanword — learn as a whole. No useful Arabic root family.

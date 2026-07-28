@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ق-و-م |
-| **Letter** | ق · قاف |
 | **Meaning** | standing / getting up |
-| **Form I** | قام / يقوم |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **قام / يقوم**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | قام / يقوم | [Open](#fil/qwm) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | قام | standing / getting up | `#fil/qwm` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

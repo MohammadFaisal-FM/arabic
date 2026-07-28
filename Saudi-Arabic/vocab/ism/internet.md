@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| ما في إنترنت — no internet |
+| أي متصفح إنترنت تستخدم؟ — Which internet browser do you use? |
+| هذا إنترنت — This is a internet |
+| أحب إنترنت — I like internet |
+| وين إنترنت؟ — Where is the internet? |
 
----
 
-## Notes
-
-Loanword — learn as a whole. No useful Arabic root family.

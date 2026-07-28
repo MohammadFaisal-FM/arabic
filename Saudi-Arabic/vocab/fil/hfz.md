@@ -6,8 +6,8 @@
 | **Arabic** | حفظ |
 | **Present** | يحفظ |
 | **Meaning** | memorizing / keeping |
-| **Root** | ح-ف-ظ (`hfz`) |
-| **Form I** | حفظ / يحفظ |
+| **Root** | [ح-ف-ظ](#roots/hfz) |
+| **Form** | I · حفظ / يحفظ |
 
 ---
 
@@ -19,6 +19,31 @@
 
 ---
 
-## Overlap
+## Conjugation
 
-This verb also lives under **Roots → ح-ف-ظ**. Use the Roots / Ism tabs for the word family.
+Everyday Saudi / Najdi. Future uses **بـ**.
+
+| Pronoun | Past | Present | Future |
+|---------|------|---------|--------|
+| أنا | حفظت | أحفظ | بحفظ |
+| إحنا | حفظنا | نحفظ | بنحفظ |
+| أنت | حفظت | تحفظ | بتحفظ |
+| أنتِ | حفظتي | تحفظين | بتحفظين |
+| أنتم | حفظتوا | تحفظون | بتحفظون |
+| هو | حفظ | يحفظ | بيحفظ |
+| هي | حفظت | تحفظ | بتحفظ |
+| هم | حفظوا | يحفظون | بيحفظون |
+
+### Examples
+
+| Pronoun | Arabic · English |
+|---------|------------------|
+| أنا | حفظت — I did (memorizing / keeping) |
+| إحنا | نحفظ — we do/does (memorizing / keeping) |
+| أنت | بتحفظ — you (m.) will (memorizing / keeping) |
+| أنتِ | حفظتي — you (f.) did (memorizing / keeping) |
+| أنتم | تحفظون — you (pl.) do/does (memorizing / keeping) |
+| هو | بيحفظ — he will (memorizing / keeping) |
+| هي | حفظت — she did (memorizing / keeping) |
+| هم | يحفظون — they do/does (memorizing / keeping) |
+

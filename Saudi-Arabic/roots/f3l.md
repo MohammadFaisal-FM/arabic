@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ف-ع-ل |
-| **Letter** | ف · فاء |
 | **Meaning** | doing |
-| **Form I** | فعل / يفعل |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **فعل / يفعل**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | فعل / يفعل | [Open](#fil/f3l) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | فعل | doing | `#fil/f3l` |
-| اسم | فعل | verb / action | `#ism/fil-n` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم · ism (noun) | فعل | هذا فعل — This is a verb |
 

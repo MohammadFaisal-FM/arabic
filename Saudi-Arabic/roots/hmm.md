@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ه-م-م |
-| **Letter** | ه · هاء |
 | **Meaning** | being concerned |
-| **Form I** | همّ / يهم |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **همّ / يهم**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | همّ / يهم | [Open](#fil/hmm) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | همّ | being concerned | `#fil/hmm` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

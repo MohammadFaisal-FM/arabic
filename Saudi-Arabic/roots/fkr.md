@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ف-ك-ر |
-| **Letter** | ف · فاء |
 | **Meaning** | thinking |
-| **Form I** | فكّر / يفكّر |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,17 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **فكّر / يفكّر**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| II | فكّر / يفكّر | [Open](#fil/fkr) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | فكّر | thinking | `#fil/fkr` |
-| اسم | فكرة | idea | `#ism/fikra` |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+| Type | Word | Example |
+|------|------|---------|
+| اسم · ism (noun) | فكرة | عندي فكرة — I have an idea |
 

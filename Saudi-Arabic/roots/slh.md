@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ص-ل-ح |
-| **Letter** | ص · صاد |
 | **Meaning** | fixing / being suitable |
-| **Form I** | صلح / يصلح |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **صلح / يصلح**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | صلح / يصلح | [Open](#fil/slh) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | صلح | fixing / being suitable | `#fil/slh` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

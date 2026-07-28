@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| من التعب — from tiredness |
+| من التعب — From fatigue |
+| هذا تعب — This is a tiredness |
+| أحب تعب — I like tiredness |
+| وين تعب؟ — Where is the tiredness? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

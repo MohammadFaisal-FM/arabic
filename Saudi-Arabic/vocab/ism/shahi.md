@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| أشرب شاهي — I drink tea |
+| أشرب شاهي — I drink my tea |
+| هذا شاهي — This is a tea (gulf) |
+| أحب شاهي — I like tea (gulf) |
+| وين شاهي؟ — Where is the tea (gulf)? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

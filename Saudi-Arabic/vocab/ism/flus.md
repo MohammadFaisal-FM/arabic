@@ -14,10 +14,9 @@
 
 | Arabic · English |
 |------------------|
-| ما عندي فلوس — I don’t have money |
+| ما عندي فلوس — I don't have money |
+| هذا فلوس — This is a money (colloquial) |
+| أحب فلوس — I like money (colloquial) |
+| وين فلوس؟ — Where is the money (colloquial)? |
 
----
 
-## Notes
-
-Common everyday noun. May not share a productive root in daily speech.

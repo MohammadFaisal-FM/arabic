@@ -6,7 +6,7 @@
 | **Subtype** | noun |
 | **Arabic** | مفتاح |
 | **Meaning** | key |
-| **Root** | ف-ت-ح (`fth`) |
+| **Root** | [ف-ت-ح](#roots/fth) |
 
 ---
 
@@ -14,10 +14,16 @@
 
 | Arabic · English |
 |------------------|
-| وين المفتاح؟ — Where’s the key? |
+| وين المفتاح؟ — Where is the key? |
+| هذا مفتاح — This is a key |
+| أحب مفتاح — I like key |
+| وين مفتاح؟ — Where is the key? |
 
----
 
-## Notes
+### Links
 
-Overlaps with **Roots → ف-ت-ح** and often with related verbs under **Fiʿl**.
+| | |
+|-|-|
+| **Root** | [ف-ت-ح](#roots/fth) |
+| **Fiʿl** | [فتح / يفتح](#fil/fth) |
+

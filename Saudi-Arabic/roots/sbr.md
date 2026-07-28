@@ -3,9 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ص-ب-ر |
-| **Letter** | ص · صاد |
 | **Meaning** | being patient |
-| **Form I** | صبر / يصبر |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -18,18 +16,15 @@
 
 ---
 
-## How to use
+## Forms Widely Used
 
-Open **Fiʿl** for the verb and **Ism** for related nouns. Past / present for Form I: **صبر / يصبر**.
+| Form | Past / present | Fiʿl |
+|------|----------------|------|
+| I | صبر / يصبر | [Open](#fil/sbr) |
 
 ---
 
-## Word family (overlap)
+## Related-Words
 
-| Type | Arabic | Meaning | App link |
-|------|--------|---------|----------|
-| فعل | صبر | being patient | `#fil/sbr` |
-| — | — | No linked isms yet | — |
-
-Ism and Fiʿl tabs list these words by type; this Roots page groups them by جذر.
+No related words yet.
 

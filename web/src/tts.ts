@@ -1,10 +1,8 @@
 /**
  * Device TTS for Arabic learning.
  * Dropdown:
- *  - Arabic Voices → all Arabic voices on this device
- *  - Non-Arabic Voice Default → one best non-Arabic (prefer English; used with romanization)
- * Default = best Arabic if present, else that single non-Arabic default.
- * If the device has no voices → "No voice available".
+ *  - Arabic Voices → browser Arabic voices + Windows Hoda/Naayf if Chrome hides them
+ *  - Non-Arabic Voice Default → one best non-Arabic (prefer English)
  */
 
 const VOICE_PREF_KEY = 'arabic-tts-voice-uri';
@@ -127,19 +125,24 @@ function voiceUri(v: SpeechSynthesisVoice): string {
   return `${v.voiceURI}||${v.name}||${v.lang}`;
 }
 
+/** Chrome on Windows often hides installed OneCore voices (e.g. Hoda). Lang-only options still work. */
+const LANG_HODA_ID = '__lang:ar-EG:hoda__';
+const LANG_NAAYF_ID = '__lang:ar-SA:naayf__';
+
+type VoiceOption =
+  | { id: string; label: string; kind: 'native'; voice: SpeechSynthesisVoice; isArabic: boolean }
+  | { id: string; label: string; kind: 'lang'; lang: string; isArabic: true };
+
+function isWindowsClient(): boolean {
+  return typeof navigator !== 'undefined' && /windows/i.test(navigator.userAgent || '');
+}
+
 function getVoicePref(): string | null {
   try {
     return localStorage.getItem(VOICE_PREF_KEY);
   } catch {
     return null;
   }
-}
-
-function findVoiceByUri(
-  voices: SpeechSynthesisVoice[],
-  uri: string
-): SpeechSynthesisVoice | null {
-  return voices.find((v) => voiceUri(v) === uri) ?? null;
 }
 
 /** Prefer English, then any other non-Arabic voice (exactly one “default”). */
@@ -165,30 +168,89 @@ function pickBestNonArabicVoice(
   })[0];
 }
 
-/** Voices shown in the dropdown: all Arabic + one non-Arabic default. */
-function selectableVoices(voices: SpeechSynthesisVoice[]): SpeechSynthesisVoice[] {
-  const arabic = voices.filter((v) => voiceMeta(v).isArabic);
+function buildArabicOptions(voices: SpeechSynthesisVoice[]): VoiceOption[] {
+  const native = voices
+    .filter((v) => voiceMeta(v).isArabic)
+    .sort((a, b) => voiceRank(a) - voiceRank(b))
+    .map(
+      (v): VoiceOption => ({
+        id: voiceUri(v),
+        label: v.name || v.lang || 'Arabic',
+        kind: 'native',
+        voice: v,
+        isArabic: true,
+      })
+    );
+
+  const hasHoda = native.some((o) => {
+    if (o.kind !== 'native') return false;
+    const m = voiceMeta(o.voice);
+    return m.isHoda || m.isEgyptian || (o.voice.lang || '').toLowerCase().startsWith('ar-eg');
+  });
+  const hasNaayf = native.some((o) => {
+    if (o.kind !== 'native') return false;
+    return voiceMeta(o.voice).isSaudi;
+  });
+
+  // Fill gaps Chrome hides even though Windows installed the voice
+  if (isWindowsClient() && !hasHoda) {
+    native.push({
+      id: LANG_HODA_ID,
+      label: 'Microsoft Hoda',
+      kind: 'lang',
+      lang: 'ar-EG',
+      isArabic: true,
+    });
+  }
+  if (isWindowsClient() && !hasNaayf) {
+    native.push({
+      id: LANG_NAAYF_ID,
+      label: 'Microsoft Naayf',
+      kind: 'lang',
+      lang: 'ar-SA',
+      isArabic: true,
+    });
+  }
+
+  return native;
+}
+
+function buildSelectableOptions(voices: SpeechSynthesisVoice[]): VoiceOption[] {
+  const arabic = buildArabicOptions(voices);
   const nonAr = pickBestNonArabicVoice(voices);
-  return nonAr ? [...arabic, nonAr] : [...arabic];
+  if (!nonAr) return arabic;
+  return [
+    ...arabic,
+    {
+      id: voiceUri(nonAr),
+      label: nonAr.name || nonAr.lang || 'English',
+      kind: 'native',
+      voice: nonAr,
+      isArabic: false,
+    },
+  ];
 }
 
-/** Default: best Arabic if any, else the single non-Arabic default. */
-function defaultVoice(voices: SpeechSynthesisVoice[]): SpeechSynthesisVoice | null {
-  const arabic = voices.filter((v) => voiceMeta(v).isArabic);
+function defaultOption(options: VoiceOption[]): VoiceOption | null {
+  const arabic = options.filter((o) => o.isArabic);
   if (arabic.length) return arabic[0];
-  return pickBestNonArabicVoice(voices);
+  return options[0] ?? null;
 }
 
-function resolveVoice(voices: SpeechSynthesisVoice[]): SpeechSynthesisVoice | null {
-  const options = selectableVoices(voices);
+function resolveOption(
+  voices: SpeechSynthesisVoice[],
+  options?: VoiceOption[]
+): VoiceOption | null {
+  const list = options ?? buildSelectableOptions(voices);
   const pref = getVoicePref();
   if (pref) {
-    const found = findVoiceByUri(options, pref);
+    const found = list.find((o) => o.id === pref);
     if (found) return found;
   }
-  return defaultVoice(voices);
+  return defaultOption(list);
 }
 
+/** @deprecated kept for callers — best native Arabic voice if listed */
 export async function pickArabicVoice(): Promise<SpeechSynthesisVoice | null> {
   const arabic = await listArabicVoices();
   return arabic[0] ?? null;
@@ -408,14 +470,10 @@ function speakLocal(
   });
 }
 
-function voiceLabel(v: SpeechSynthesisVoice): string {
-  return v.name || v.lang || 'Voice';
-}
-
 /**
  * Play with the selected/default system voice.
- * Arabic voices speak Arabic script; non-Arabic voices use romanization (English voices can't speak Arabic script).
- * If the device has no voices → "No voice available".
+ * Arabic voices speak Arabic script; non-Arabic voices use romanization.
+ * Windows lang-only options (Hoda/Naayf) are used when Chrome hides installed voices.
  */
 export async function speakArabic(text: string, btn?: HTMLButtonElement | null): Promise<void> {
   const clean = najdiSpeakHints(text);
@@ -440,28 +498,34 @@ export async function speakArabic(text: string, btn?: HTMLButtonElement | null):
 
   try {
     const all = await listAllVoices();
-    if (!all.length) {
+    const options = buildSelectableOptions(all);
+    if (!options.length) {
       showToast('No voice available');
       return;
     }
 
-    const voice = resolveVoice(all);
-    if (!voice) {
+    const chosen = resolveOption(all, options);
+    if (!chosen) {
       showToast('No voice available');
       return;
     }
 
-    const m = voiceMeta(voice);
-    if (m.isArabic) {
-      const ok = await speakLocal(clean, voice, voice.lang || 'ar');
+    if (chosen.kind === 'lang') {
+      const ok = await speakLocal(clean, null, chosen.lang);
       if (gen !== speakGen) return;
       if (!ok) showToast('No voice available');
       return;
     }
 
-    // Non-Arabic system voice: speak romanized text so something is audible
+    if (chosen.isArabic) {
+      const ok = await speakLocal(clean, chosen.voice, chosen.voice.lang || 'ar');
+      if (gen !== speakGen) return;
+      if (!ok) showToast('No voice available');
+      return;
+    }
+
     const latin = romanizeArabic(clean);
-    const ok = await speakLocal(latin, voice, voice.lang || 'en-US');
+    const ok = await speakLocal(latin, chosen.voice, chosen.voice.lang || 'en-US');
     if (gen !== speakGen) return;
     if (!ok) showToast('No voice available');
   } finally {
@@ -469,16 +533,16 @@ export async function speakArabic(text: string, btn?: HTMLButtonElement | null):
   }
 }
 
-/** Dropdown: all Arabic voices + one Non-Arabic Voice Default (prefer English). */
+/** Dropdown: Arabic Voices (incl. Windows Hoda/Naayf if Chrome hides them) + one Non-Arabic default. */
 export async function mountTtsVoicePicker(host: HTMLElement) {
   if (!ttsSupported()) return;
 
   host.querySelector('.tts-voice-bar')?.remove();
 
   const all = await listAllVoices();
-  const arabic = all.filter((v) => voiceMeta(v).isArabic);
-  const nonArDefault = pickBestNonArabicVoice(all);
-  const options = selectableVoices(all);
+  const options = buildSelectableOptions(all);
+  const arabicOpts = options.filter((o) => o.isArabic);
+  const nonArOpts = options.filter((o) => !o.isArabic);
 
   const bar = document.createElement('div');
   bar.className = 'tts-voice-bar';
@@ -502,26 +566,26 @@ export async function mountTtsVoicePicker(host: HTMLElement) {
     select.disabled = true;
     addOpt('', 'No voice available');
   } else {
-    if (arabic.length) {
+    if (arabicOpts.length) {
       const g = document.createElement('optgroup');
       g.label = 'Arabic Voices';
-      for (const v of arabic) addOpt(voiceUri(v), voiceLabel(v), g);
+      for (const o of arabicOpts) addOpt(o.id, o.label, g);
       select.appendChild(g);
     }
 
-    if (nonArDefault) {
+    if (nonArOpts.length) {
       const g = document.createElement('optgroup');
       g.label = 'Non-Arabic Voice Default';
-      addOpt(voiceUri(nonArDefault), voiceLabel(nonArDefault), g);
+      for (const o of nonArOpts) addOpt(o.id, o.label, g);
       select.appendChild(g);
     }
 
-    const resolved = resolveVoice(all);
+    const resolved = resolveOption(all, options);
     const pref = getVoicePref();
-    if (pref && findVoiceByUri(options, pref)) {
+    if (pref && options.some((o) => o.id === pref)) {
       select.value = pref;
     } else if (resolved) {
-      select.value = voiceUri(resolved);
+      select.value = resolved.id;
       try {
         localStorage.setItem(VOICE_PREF_KEY, select.value);
       } catch {

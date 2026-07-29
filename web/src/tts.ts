@@ -2,10 +2,11 @@
  * Arabic TTS with a never-silent cascade (best → fallback):
  *  1) Saudi / Najdi local voice (Naayf)
  *  2) Any other Arabic local voice
- *  3) Free online Arabic
- *  4) Any local voice at all (accent may be wrong — still plays)
+ *  3) Free online Arabic (rejected if empty/silent response)
+ *  4) Romanized Arabic spoken by any English/system voice (always audible)
  *
- * Toasts say what is playing + optional step-by-step upgrade tips.
+ * Note: English voices reading Arabic script are usually silent — we never
+ * treat that as success. Laptop with only Hazel/Zira needs (3) or (4).
  */
 
 const VOICE_PREF_KEY = 'arabic-tts-voice-uri';
@@ -14,7 +15,7 @@ const HINT_KEY = 'arabic-tts-quality-hint';
 let cachedVoices: SpeechSynthesisVoice[] | null = null;
 let voicesReady: Promise<SpeechSynthesisVoice[]> | null = null;
 
-type PlayTier = 'saudi' | 'arabic' | 'online' | 'any';
+type PlayTier = 'saudi' | 'arabic' | 'online' | 'romanized';
 
 function ensureVoices(): Promise<SpeechSynthesisVoice[]> {
   if (voicesReady) return voicesReady;
@@ -163,9 +164,9 @@ function announcePlaying(tier: PlayTier, voiceName?: string) {
     }
     showToast(
       tipSeen
-        ? 'Playing with a non-Arabic system voice so something still plays.'
-        : `Playing with a non-Arabic system voice so you still hear something. ${INSTALL_SAUDI_STEPS}`,
-      tipSeen ? 4500 : 10000
+        ? 'Playing romanized Arabic (no Arabic voice on this PC).'
+        : `Playing romanized Arabic so you still hear something — this PC has no Arabic voice pack. ${INSTALL_SAUDI_STEPS}`,
+      tipSeen ? 5000 : 11000
     );
   } catch {
     showToast('Playing audio…');
@@ -275,23 +276,152 @@ function chunkForOnlineTts(text: string, max = 160): string[] {
   return out;
 }
 
+/** Rough Latin for English TTS when no Arabic voice exists (always audible). */
+function romanizeArabic(text: string): string {
+  const map: Record<string, string> = {
+    ا: 'a',
+    أ: 'a',
+    إ: 'i',
+    آ: 'aa',
+    ء: '',
+    ؤ: 'u',
+    ئ: 'i',
+    ب: 'b',
+    ت: 't',
+    ث: 'th',
+    ج: 'j',
+    ح: 'h',
+    خ: 'kh',
+    د: 'd',
+    ذ: 'dh',
+    ر: 'r',
+    ز: 'z',
+    س: 's',
+    ش: 'sh',
+    ص: 's',
+    ض: 'd',
+    ط: 't',
+    ظ: 'dh',
+    ع: 'a',
+    غ: 'gh',
+    ف: 'f',
+    ق: 'q',
+    ك: 'k',
+    ل: 'l',
+    م: 'm',
+    ن: 'n',
+    ه: 'h',
+    ة: 'a',
+    و: 'w',
+    ي: 'y',
+    ى: 'a',
+    ً: 'an',
+    ٌ: 'un',
+    ٍ: 'in',
+    َ: 'a',
+    ُ: 'u',
+    ِ: 'i',
+    ّ: '',
+    ْ: '',
+    ـ: '',
+    لا: 'la',
+    ال: 'al-',
+    ،: ',',
+    ؟: '?',
+    '؛': ';',
+  };
+  // Prefer multi-char keys first
+  let out = '';
+  let i = 0;
+  while (i < text.length) {
+    const two = text.slice(i, i + 2);
+    if (two === 'لا' || two === 'ال') {
+      out += map[two];
+      i += 2;
+      continue;
+    }
+    const ch = text[i];
+    if (ch === ' ' || ch === '\n') {
+      out += ' ';
+      i += 1;
+      continue;
+    }
+    if (/[0-9A-Za-z.,!?'-]/.test(ch)) {
+      out += ch;
+      i += 1;
+      continue;
+    }
+    out += map[ch] ?? '';
+    i += 1;
+  }
+  return out.replace(/\s+/g, ' ').trim() || 'arabic';
+}
+
+function onlineTtsUrls(chunk: string): string[] {
+  const q = encodeURIComponent(chunk);
+  return [
+    `https://translate.googleapis.com/translate_tts?ie=UTF-8&client=gtx&tl=ar&q=${q}`,
+    `https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=ar&q=${q}`,
+  ];
+}
+
 function playOnlineChunk(chunk: string): Promise<void> {
-  return new Promise((resolve, reject) => {
-    const url =
-      'https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=ar&q=' +
-      encodeURIComponent(chunk);
-    const audio = new Audio(url);
-    onlineAudio = audio;
-    audio.onended = () => {
-      if (onlineAudio === audio) onlineAudio = null;
-      resolve();
-    };
-    audio.onerror = () => {
-      if (onlineAudio === audio) onlineAudio = null;
-      reject(new Error('online-tts-failed'));
-    };
-    void audio.play().catch(reject);
-  });
+  const urls = onlineTtsUrls(chunk);
+  let lastErr: Error | null = null;
+
+  const tryOne = (url: string): Promise<void> =>
+    new Promise((resolve, reject) => {
+      const audio = new Audio();
+      onlineAudio = audio;
+      let settled = false;
+      const fail = (msg: string) => {
+        if (settled) return;
+        settled = true;
+        try {
+          audio.pause();
+        } catch {
+          /* ignore */
+        }
+        if (onlineAudio === audio) onlineAudio = null;
+        reject(new Error(msg));
+      };
+      const ok = () => {
+        if (settled) return;
+        settled = true;
+        if (onlineAudio === audio) onlineAudio = null;
+        resolve();
+      };
+
+      const isEmpty = () => {
+        const d = audio.duration;
+        return Number.isFinite(d) && d < 0.08;
+      };
+
+      audio.preload = 'auto';
+      audio.onended = () => {
+        if (isEmpty()) fail('online-tts-empty');
+        else ok();
+      };
+      audio.onerror = () => fail('online-tts-error');
+      audio.onloadedmetadata = () => {
+        if (isEmpty()) fail('online-tts-empty');
+      };
+
+      audio.src = url;
+      void audio.play().catch(() => fail('online-tts-play-blocked'));
+    });
+
+  return (async () => {
+    for (const url of urls) {
+      try {
+        await tryOne(url);
+        return;
+      } catch (e) {
+        lastErr = e instanceof Error ? e : new Error('online-tts-failed');
+      }
+    }
+    throw lastErr ?? new Error('online-tts-failed');
+  })();
 }
 
 /** Speak with speechSynthesis; resolves true if audio actually started. */
@@ -433,23 +563,21 @@ export async function speakArabic(text: string, btn?: HTMLButtonElement | null):
       if (ok) return;
     }
 
-    // 4) Any local voice at all — still play something
+    // 4) Romanized Arabic via English/system voice — ALWAYS audible on this PC
+    //    (English voices reading Arabic script are usually silent — do not use that.)
     if (ttsSupported() && stillActive()) {
       const all = await listAllVoices();
       const anyVoice = all[0] ?? null;
-      announcePlaying('any', anyVoice?.name);
-      const ok = await speakLocal(clean, anyVoice, 'ar-SA');
+      const latin = romanizeArabic(clean);
+      announcePlaying('romanized', anyVoice?.name);
+      const ok = await speakLocal(latin, anyVoice, anyVoice?.lang || 'en-US');
       if (!stillActive()) return;
       if (ok) return;
     }
 
-    // Absolute last resort: online again, then clear install help
     if (stillActive()) {
-      const retry = await speakViaOnline(clean, gen);
-      if (!stillActive()) return;
-      if (retry) return;
       showToast(
-        `Could not start audio on this device. ${INSTALL_SAUDI_STEPS} Or open the app on your phone.`,
+        `No audible voice on this device. ${INSTALL_SAUDI_STEPS} Or open the app on your phone (Arabic TTS usually works there).`,
         12000
       );
     }
@@ -486,7 +614,7 @@ export async function mountTtsVoicePicker(host: HTMLElement) {
 
   if (voices.length === 0) {
     const opt = document.createElement('option');
-    opt.textContent = 'Auto: online Arabic → any voice';
+    opt.textContent = 'Auto: online Arabic → romanized (audible)';
     select.appendChild(opt);
     select.disabled = true;
   } else {

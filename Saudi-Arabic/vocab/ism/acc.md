@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | لجنة التنسيق الإدارية |
 | **Meaning** | acc |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا لجنة التنسيق الإدارية — This is acc |
-| أحب لجنة التنسيق الإدارية — I like acc |
-| وين لجنة التنسيق الإدارية؟ — Where is the acc? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا لجنة التنسيق الإدارية</span> | <span class="example-en" dir="ltr" lang="en">This is acc</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب لجنة التنسيق الإدارية</span> | <span class="example-en" dir="ltr" lang="en">I like acc</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين لجنة التنسيق الإدارية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the acc?</span> |
 
 

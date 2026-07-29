@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | باي بال |
 | **Meaning** | paypal |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا باي بال — This is paypal |
-| أحب باي بال — I like paypal |
-| وين باي بال؟ — Where is the paypal? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا باي بال</span> | <span class="example-en" dir="ltr" lang="en">This is paypal</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب باي بال</span> | <span class="example-en" dir="ltr" lang="en">I like paypal</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين باي بال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the paypal?</span> |
 
 

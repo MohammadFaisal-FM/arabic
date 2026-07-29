@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | كولومبيا |
 | **Meaning** | columbia |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا كولومبيا — This is columbia |
-| أحب كولومبيا — I like columbia |
-| وين كولومبيا؟ — Where is the columbia? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا كولومبيا</span> | <span class="example-en" dir="ltr" lang="en">This is columbia</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب كولومبيا</span> | <span class="example-en" dir="ltr" lang="en">I like columbia</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين كولومبيا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the columbia?</span> |
 
 

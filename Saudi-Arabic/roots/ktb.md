@@ -10,9 +10,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| أكتب رسالة — I’m writing a letter |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">أكتب رسالة</span> | <span class="example-en" dir="ltr" lang="en">I’m writing a letter</span> |
+
 
 ---
 
@@ -20,19 +21,24 @@
 
 | Form | Past / present | Fiʿl |
 |------|----------------|------|
-| I | كتب / يكتب | [Open](#fil/ktb) |
+| I | كتب / يكتب · base meaning: writing | [Open](#fil/ktb) |
 | II | كتّب / يكتّب · make write / dictate | [Open](#fil/ktb-ii) |
 
 ---
 
-## Related-Words
+## Word types from this root
 
-| Type | Word | Example |
-|------|------|---------|
-| اسم فاعل · ism fāʿil (doer) | كاتب | هو كاتب — He is a writer |
-| اسم · ism (noun) | كتاب | هذا كتاب — This is a book |
-| مصدر · masdar (verbal noun) | كتابة | الكتابة صعبة — Writing is hard |
-| اسم مكان · ism makān (place) | مكتب | في المكتب — In the office |
-| اسم مكان · ism makān (place) | مكتبة | رحت المكتبة — I went to the library |
-| اسم · ism (noun) | مكتوب | مكتوب كذا — It is written like this |
+| Type | Word | Notes / Example |
+|------|------|-----------------|
+| فعل · fiʿl (Form I) | [كتب / يكتب · base meaning: writing](#fil/ktb) | <span class="example-ar" dir="rtl" lang="ar">أكتب رسالة</span><br><span class="example-en" dir="ltr" lang="en">I’m writing a letter</span> |
+| فعل · fiʿl (Form II) | [كتّب / يكتّب · make write / dictate](#fil/ktb-ii) | <span class="example-ar" dir="rtl" lang="ar">أكتب رسالة</span><br><span class="example-en" dir="ltr" lang="en">I’m writing a letter</span> |
+| مصدر · masdar (verbal noun) | [كتابة](#ism/kitaba) | <span class="example-ar" dir="rtl" lang="ar">الكتابة صعبة</span><br><span class="example-en" dir="ltr" lang="en">Writing is hard</span> |
+| اسم فاعل · ism fāʿil (doer) | [كاتب](#ism/katib) | <span class="example-ar" dir="rtl" lang="ar">هو كاتب</span><br><span class="example-en" dir="ltr" lang="en">He is a writer</span> |
+| اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
+| اسم مكان · ism makān (place) | [مكتب](#ism/maktab) | <span class="example-ar" dir="rtl" lang="ar">في المكتب</span><br><span class="example-en" dir="ltr" lang="en">In the office</span> |
+| اسم مكان · ism makān (place) | [مكتبة](#ism/maktaba) | <span class="example-ar" dir="rtl" lang="ar">رحت المكتبة</span><br><span class="example-en" dir="ltr" lang="en">I went to the library</span> |
+| اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
+| اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
+| اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | [كتاب](#ism/kitab) | <span class="example-ar" dir="rtl" lang="ar">هذا كتاب</span><br><span class="example-en" dir="ltr" lang="en">This is a book</span> |
 

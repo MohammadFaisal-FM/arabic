@@ -52,10 +52,56 @@
     {
       "id": "online-032",
       "arabic": "اتخاذ",
-      "meaning": "take",
+      "meaning": "adopting / taking (a decision)",
+      "subtype": "masdar",
+      "example": "اتخاذ القرار يبغاله هدوء، خاصة إذا كان الموضوع عن البيت والشغل",
+      "exampleEn": "Making a decision needs calm, especially if the topic is about home and work",
+      "rootId": "akhd"
+    },
+    {
+      "id": "akhdh",
+      "arabic": "أخذ",
+      "meaning": "taking",
+      "subtype": "masdar",
+      "example": "أخذ المفتاح من الطاولة سهل، بس لا تنسى تغلق الباب وراكم",
+      "exampleEn": "Taking the key from the table is easy, but don't forget to close the door behind you",
+      "rootId": "akhd"
+    },
+    {
+      "id": "aakhidh",
+      "arabic": "آخذ",
+      "meaning": "taking / one who takes",
+      "subtype": "doer",
+      "example": "أنا آخذ دورة عربي عشان أقدر أطلب في المطعم بدون ترجمة",
+      "exampleEn": "I'm taking an Arabic course so I can order at the restaurant without translation",
+      "rootId": "akhd"
+    },
+    {
+      "id": "makhudh",
+      "arabic": "مأخوذ",
+      "meaning": "taken / impressed",
+      "subtype": "maful",
+      "example": "أنا مأخوذ بفكرته عن السفر، لأنّه يبغى يزور مكة والمدينة",
+      "exampleEn": "I'm impressed by his travel idea, because he wants to visit Makkah and Madinah",
+      "rootId": "akhd"
+    },
+    {
+      "id": "makhadh",
+      "arabic": "مأخذ",
+      "meaning": "drawback / point of criticism",
       "subtype": "noun",
-      "example": "يؤسفُني عدم إتخاذ نصيحة الطبيب.",
-      "exampleEn": "I regret not taking the doctor's advice."
+      "example": "عندي مأخذ بسيط على الخطة: الوقت قصير والمطار بعيد شوي",
+      "exampleEn": "I have a small issue with the plan: the time is short and the airport is a bit far",
+      "rootId": "akhd"
+    },
+    {
+      "id": "muakhadhah",
+      "arabic": "مؤاخذة",
+      "meaning": "excuse me / blame",
+      "subtype": "noun",
+      "example": "مؤاخذة، ما سمعتك زين لأن الشارع فيه ضوضاء كثيرة",
+      "exampleEn": "Excuse me, I didn't hear you well because the street is very noisy",
+      "rootId": "akhd"
     },
     {
       "id": "online-063",
@@ -854,9 +900,9 @@
       "arabic": "أكل",
       "meaning": "food / eating",
       "subtype": "masdar",
-      "example": "أحب أكل اللازانيا.",
+      "example": "أحب أكل الكبسة يوم الجمعة مع العائلة.",
       "rootId": "akl",
-      "exampleEn": "I love eating lasagna."
+      "exampleEn": "I love eating kabsa on Friday with the family."
     },
     {
       "id": "hin",

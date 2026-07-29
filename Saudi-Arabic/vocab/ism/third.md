@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ثالث |
 | **Meaning** | third |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ثالث — This is third |
-| أحب ثالث — I like third |
-| وين ثالث؟ — Where is the third? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ثالث</span> | <span class="example-en" dir="ltr" lang="en">This is third</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ثالث</span> | <span class="example-en" dir="ltr" lang="en">I like third</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ثالث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the third?</span> |
 
 

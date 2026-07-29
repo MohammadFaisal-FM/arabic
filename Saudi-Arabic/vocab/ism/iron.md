@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | حديد |
 | **Meaning** | iron |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا حديد — This is iron |
-| أحب حديد — I like iron |
-| وين حديد؟ — Where is the iron? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا حديد</span> | <span class="example-en" dir="ltr" lang="en">This is iron</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب حديد</span> | <span class="example-en" dir="ltr" lang="en">I like iron</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين حديد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the iron?</span> |
 
 

@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| وش تسوي؟ — What are you doing? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">وش تسوي؟</span> | <span class="example-en" dir="ltr" lang="en">What are you doing?</span> |
+

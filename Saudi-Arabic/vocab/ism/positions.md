@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | المواقف |
 | **Meaning** | positions |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا المواقف — This is positions |
-| أحب المواقف — I like positions |
-| وين المواقف؟ — Where is the positions? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا المواقف</span> | <span class="example-en" dir="ltr" lang="en">This is positions</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب المواقف</span> | <span class="example-en" dir="ltr" lang="en">I like positions</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين المواقف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the positions?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | لينكس |
 | **Meaning** | linux |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا لينكس — This is linux |
-| أحب لينكس — I like linux |
-| وين لينكس؟ — Where is the linux? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا لينكس</span> | <span class="example-en" dir="ltr" lang="en">This is linux</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب لينكس</span> | <span class="example-en" dir="ltr" lang="en">I like linux</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين لينكس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the linux?</span> |
 
 

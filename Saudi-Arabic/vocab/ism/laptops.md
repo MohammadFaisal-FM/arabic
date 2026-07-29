@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | أجهزة الكمبيوتر المحمولة |
 | **Meaning** | laptops |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا أجهزة الكمبيوتر المحمولة — This is laptops |
-| أحب أجهزة الكمبيوتر المحمولة — I like laptops |
-| وين أجهزة الكمبيوتر المحمولة؟ — Where is the laptops? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا أجهزة الكمبيوتر المحمولة</span> | <span class="example-en" dir="ltr" lang="en">This is laptops</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب أجهزة الكمبيوتر المحمولة</span> | <span class="example-en" dir="ltr" lang="en">I like laptops</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين أجهزة الكمبيوتر المحمولة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the laptops?</span> |
 
 

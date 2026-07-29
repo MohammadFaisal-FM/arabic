@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | نيفادا |
 | **Meaning** | nevada |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا نيفادا — This is nevada |
-| أحب نيفادا — I like nevada |
-| وين نيفادا؟ — Where is the nevada? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا نيفادا</span> | <span class="example-en" dir="ltr" lang="en">This is nevada</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب نيفادا</span> | <span class="example-en" dir="ltr" lang="en">I like nevada</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين نيفادا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the nevada?</span> |
 
 

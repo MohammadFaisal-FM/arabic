@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | وحيد |
 | **Meaning** | alone |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا وحيد — This is alone |
-| أحب وحيد — I like alone |
-| وين وحيد؟ — Where is the alone? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا وحيد</span> | <span class="example-en" dir="ltr" lang="en">This is alone</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب وحيد</span> | <span class="example-en" dir="ltr" lang="en">I like alone</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين وحيد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the alone?</span> |
 
 

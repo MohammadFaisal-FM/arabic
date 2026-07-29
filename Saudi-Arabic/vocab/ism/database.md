@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | قاعدة البيانات |
 | **Meaning** | database |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا قاعدة البيانات — This is database |
-| أحب قاعدة البيانات — I like database |
-| وين قاعدة البيانات؟ — Where is the database? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا قاعدة البيانات</span> | <span class="example-en" dir="ltr" lang="en">This is database</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب قاعدة البيانات</span> | <span class="example-en" dir="ltr" lang="en">I like database</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين قاعدة البيانات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the database?</span> |
 
 

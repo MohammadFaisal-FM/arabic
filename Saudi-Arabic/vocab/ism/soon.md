@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | قريباً |
 | **Meaning** | soon |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا قريباً — This is soon |
-| أحب قريباً — I like soon |
-| وين قريباً؟ — Where is the soon? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا قريباً</span> | <span class="example-en" dir="ltr" lang="en">This is soon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب قريباً</span> | <span class="example-en" dir="ltr" lang="en">I like soon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين قريباً؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the soon?</span> |
 
 

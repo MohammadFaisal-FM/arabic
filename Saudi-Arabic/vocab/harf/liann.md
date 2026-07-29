@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| تأخرت لأن الزحمة قوية — I was late because traffic was heavy |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">تأخرت لأن الزحمة قوية</span> | <span class="example-en" dir="ltr" lang="en">I was late because traffic was heavy</span> |
+

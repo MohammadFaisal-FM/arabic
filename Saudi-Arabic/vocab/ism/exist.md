@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يخرج |
 | **Meaning** | exist |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يخرج — This is exist |
-| أحب يخرج — I like exist |
-| وين يخرج؟ — Where is the exist? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يخرج</span> | <span class="example-en" dir="ltr" lang="en">This is exist</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يخرج</span> | <span class="example-en" dir="ltr" lang="en">I like exist</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يخرج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the exist?</span> |
 
 

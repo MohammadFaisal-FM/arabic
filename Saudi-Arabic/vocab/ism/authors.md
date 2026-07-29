@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | المؤلفين |
 | **Meaning** | authors |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا المؤلفين — This is authors |
-| أحب المؤلفين — I like authors |
-| وين المؤلفين؟ — Where is the authors? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا المؤلفين</span> | <span class="example-en" dir="ltr" lang="en">This is authors</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب المؤلفين</span> | <span class="example-en" dir="ltr" lang="en">I like authors</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين المؤلفين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the authors?</span> |
 
 

@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هل فهمت؟ — Did you understand? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هل فهمت؟</span> | <span class="example-en" dir="ltr" lang="en">Did you understand?</span> |
+

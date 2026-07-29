@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | جنسي |
 | **Meaning** | sexual |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا جنسي — This is sexual |
-| أحب جنسي — I like sexual |
-| وين جنسي؟ — Where is the sexual? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا جنسي</span> | <span class="example-en" dir="ltr" lang="en">This is sexual</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب جنسي</span> | <span class="example-en" dir="ltr" lang="en">I like sexual</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين جنسي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sexual?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | رئيس |
 | **Meaning** | boss |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا رئيس — This is boss |
-| أحب رئيس — I like boss |
-| وين رئيس؟ — Where is the boss? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا رئيس</span> | <span class="example-en" dir="ltr" lang="en">This is boss</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب رئيس</span> | <span class="example-en" dir="ltr" lang="en">I like boss</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين رئيس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the boss?</span> |
 
 

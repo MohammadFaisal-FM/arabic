@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| من هذا؟ — Who is this? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">من هذا؟</span> | <span class="example-en" dir="ltr" lang="en">Who is this?</span> |
+

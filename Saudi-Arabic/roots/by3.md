@@ -10,9 +10,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| بعت السيارة — I sold the car |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">بعت السيارة</span> | <span class="example-en" dir="ltr" lang="en">I sold the car</span> |
+
 
 ---
 
@@ -20,11 +21,21 @@
 
 | Form | Past / present | Fiʿl |
 |------|----------------|------|
-| I | باع / يبيع | [Open](#fil/by3) |
+| I | باع / يبيع · base meaning: selling | [Open](#fil/by3) |
 
 ---
 
-## Related-Words
+## Word types from this root
 
-No related words yet.
+| Type | Word | Notes / Example |
+|------|------|-----------------|
+| فعل · fiʿl (Form I) | [باع / يبيع · base meaning: selling](#fil/by3) | <span class="example-ar" dir="rtl" lang="ar">بعت السيارة</span><br><span class="example-en" dir="ltr" lang="en">I sold the car</span> |
+| مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
+| اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
+| اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
+| اسم مكان · ism makān (place) | N/A | not common / not listed yet |
+| اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
+| اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
+| اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | N/A | not common / not listed yet |
 

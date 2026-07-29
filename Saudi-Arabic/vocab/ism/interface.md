@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | واجهة |
 | **Meaning** | interface |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا واجهة — This is interface |
-| أحب واجهة — I like interface |
-| وين واجهة؟ — Where is the interface? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا واجهة</span> | <span class="example-en" dir="ltr" lang="en">This is interface</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب واجهة</span> | <span class="example-en" dir="ltr" lang="en">I like interface</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين واجهة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the interface?</span> |
 
 

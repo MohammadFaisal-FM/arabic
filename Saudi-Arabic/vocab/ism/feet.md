@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | قدم |
 | **Meaning** | feet |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا قدم — This is feet |
-| أحب قدم — I like feet |
-| وين قدم؟ — Where is the feet? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا قدم</span> | <span class="example-en" dir="ltr" lang="en">This is feet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب قدم</span> | <span class="example-en" dir="ltr" lang="en">I like feet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين قدم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the feet?</span> |
 
 

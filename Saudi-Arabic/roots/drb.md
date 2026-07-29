@@ -10,9 +10,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| لا تضرب — Don’t hit |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">لا تضرب</span> | <span class="example-en" dir="ltr" lang="en">Don’t hit</span> |
+
 
 ---
 
@@ -20,11 +21,21 @@
 
 | Form | Past / present | Fiʿl |
 |------|----------------|------|
-| I | ضرب / يضرب | [Open](#fil/drb) |
+| I | ضرب / يضرب · base meaning: hitting | [Open](#fil/drb) |
 
 ---
 
-## Related-Words
+## Word types from this root
 
-No related words yet.
+| Type | Word | Notes / Example |
+|------|------|-----------------|
+| فعل · fiʿl (Form I) | [ضرب / يضرب · base meaning: hitting](#fil/drb) | <span class="example-ar" dir="rtl" lang="ar">لا تضرب</span><br><span class="example-en" dir="ltr" lang="en">Don’t hit</span> |
+| مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
+| اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
+| اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
+| اسم مكان · ism makān (place) | N/A | not common / not listed yet |
+| اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
+| اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
+| اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | N/A | not common / not listed yet |
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | الأسعار |
 | **Meaning** | prices |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا الأسعار — This is prices |
-| أحب الأسعار — I like prices |
-| وين الأسعار؟ — Where is the prices? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا الأسعار</span> | <span class="example-en" dir="ltr" lang="en">This is prices</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب الأسعار</span> | <span class="example-en" dir="ltr" lang="en">I like prices</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الأسعار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the prices?</span> |
 
 

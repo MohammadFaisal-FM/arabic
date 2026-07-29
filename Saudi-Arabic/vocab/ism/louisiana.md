@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | لويزيانا |
 | **Meaning** | louisiana |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا لويزيانا — This is louisiana |
-| أحب لويزيانا — I like louisiana |
-| وين لويزيانا؟ — Where is the louisiana? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا لويزيانا</span> | <span class="example-en" dir="ltr" lang="en">This is louisiana</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب لويزيانا</span> | <span class="example-en" dir="ltr" lang="en">I like louisiana</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين لويزيانا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the louisiana?</span> |
 
 

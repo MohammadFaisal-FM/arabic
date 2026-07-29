@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | القوات |
 | **Meaning** | forces |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا القوات — This is forces |
-| أحب القوات — I like forces |
-| وين القوات؟ — Where is the forces? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا القوات</span> | <span class="example-en" dir="ltr" lang="en">This is forces</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب القوات</span> | <span class="example-en" dir="ltr" lang="en">I like forces</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين القوات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the forces?</span> |
 
 

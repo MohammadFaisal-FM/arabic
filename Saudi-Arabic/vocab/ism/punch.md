@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | لكمة |
 | **Meaning** | punch |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا لكمة — This is punch |
-| أحب لكمة — I like punch |
-| وين لكمة؟ — Where is the punch? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا لكمة</span> | <span class="example-en" dir="ltr" lang="en">This is punch</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب لكمة</span> | <span class="example-en" dir="ltr" lang="en">I like punch</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين لكمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the punch?</span> |
 
 

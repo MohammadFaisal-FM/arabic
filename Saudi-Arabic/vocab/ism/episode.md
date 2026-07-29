@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | حلقة |
 | **Meaning** | episode |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا حلقة — This is episode |
-| أحب حلقة — I like episode |
-| وين حلقة؟ — Where is the episode? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا حلقة</span> | <span class="example-en" dir="ltr" lang="en">This is episode</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب حلقة</span> | <span class="example-en" dir="ltr" lang="en">I like episode</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين حلقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the episode?</span> |
 
 

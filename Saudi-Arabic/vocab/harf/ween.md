@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| وين أنت؟ — Where are you? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">وين أنت؟</span> | <span class="example-en" dir="ltr" lang="en">Where are you?</span> |
+

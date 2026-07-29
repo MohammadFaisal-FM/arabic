@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | راكب |
 | **Meaning** | passenger |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا راكب — This is passenger |
-| أحب راكب — I like passenger |
-| وين راكب؟ — Where is the passenger? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا راكب</span> | <span class="example-en" dir="ltr" lang="en">This is passenger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب راكب</span> | <span class="example-en" dir="ltr" lang="en">I like passenger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين راكب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the passenger?</span> |
 
 

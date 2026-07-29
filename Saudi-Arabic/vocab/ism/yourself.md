@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | نفسك |
 | **Meaning** | yourself |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا نفسك — This is yourself |
-| أحب نفسك — I like yourself |
-| وين نفسك؟ — Where is the yourself? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا نفسك</span> | <span class="example-en" dir="ltr" lang="en">This is yourself</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب نفسك</span> | <span class="example-en" dir="ltr" lang="en">I like yourself</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين نفسك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the yourself?</span> |
 
 

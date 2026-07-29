@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | حملة |
 | **Meaning** | campaign |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا حملة — This is campaign |
-| أحب حملة — I like campaign |
-| وين حملة؟ — Where is the campaign? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا حملة</span> | <span class="example-en" dir="ltr" lang="en">This is campaign</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب حملة</span> | <span class="example-en" dir="ltr" lang="en">I like campaign</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين حملة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the campaign?</span> |
 
 

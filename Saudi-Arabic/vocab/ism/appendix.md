@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | زائدة |
 | **Meaning** | appendix |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا زائدة — This is appendix |
-| أحب زائدة — I like appendix |
-| وين زائدة؟ — Where is the appendix? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا زائدة</span> | <span class="example-en" dir="ltr" lang="en">This is appendix</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب زائدة</span> | <span class="example-en" dir="ltr" lang="en">I like appendix</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين زائدة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the appendix?</span> |
 
 

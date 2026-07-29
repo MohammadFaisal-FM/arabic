@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | الأشخاص |
 | **Meaning** | persons |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا الأشخاص — This is persons |
-| أحب الأشخاص — I like persons |
-| وين الأشخاص؟ — Where is the persons? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا الأشخاص</span> | <span class="example-en" dir="ltr" lang="en">This is persons</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب الأشخاص</span> | <span class="example-en" dir="ltr" lang="en">I like persons</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الأشخاص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the persons?</span> |
 
 

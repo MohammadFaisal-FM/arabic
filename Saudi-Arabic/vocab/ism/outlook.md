@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | التوقعات |
 | **Meaning** | outlook |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا التوقعات — This is outlook |
-| أحب التوقعات — I like outlook |
-| وين التوقعات؟ — Where is the outlook? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا التوقعات</span> | <span class="example-en" dir="ltr" lang="en">This is outlook</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب التوقعات</span> | <span class="example-en" dir="ltr" lang="en">I like outlook</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين التوقعات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the outlook?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | شاشات الكريستال السائل |
 | **Meaning** | lcd |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا شاشات الكريستال السائل — This is lcd |
-| أحب شاشات الكريستال السائل — I like lcd |
-| وين شاشات الكريستال السائل؟ — Where is the lcd? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا شاشات الكريستال السائل</span> | <span class="example-en" dir="ltr" lang="en">This is lcd</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب شاشات الكريستال السائل</span> | <span class="example-en" dir="ltr" lang="en">I like lcd</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين شاشات الكريستال السائل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lcd?</span> |
 
 

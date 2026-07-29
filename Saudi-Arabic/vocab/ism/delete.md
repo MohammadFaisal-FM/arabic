@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يمسح |
 | **Meaning** | delete |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يمسح — This is delete |
-| أحب يمسح — I like delete |
-| وين يمسح؟ — Where is the delete? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يمسح</span> | <span class="example-en" dir="ltr" lang="en">This is delete</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يمسح</span> | <span class="example-en" dir="ltr" lang="en">I like delete</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يمسح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the delete?</span> |
 
 

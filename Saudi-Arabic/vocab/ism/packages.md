@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | الحزم |
 | **Meaning** | packages |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا الحزم — This is packages |
-| أحب الحزم — I like packages |
-| وين الحزم؟ — Where is the packages? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا الحزم</span> | <span class="example-en" dir="ltr" lang="en">This is packages</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب الحزم</span> | <span class="example-en" dir="ltr" lang="en">I like packages</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الحزم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the packages?</span> |
 
 

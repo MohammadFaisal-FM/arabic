@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | بني |
 | **Meaning** | brown |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا بني — This is brown |
-| أحب بني — I like brown |
-| وين بني؟ — Where is the brown? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا بني</span> | <span class="example-en" dir="ltr" lang="en">This is brown</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب بني</span> | <span class="example-en" dir="ltr" lang="en">I like brown</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين بني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the brown?</span> |
 
 

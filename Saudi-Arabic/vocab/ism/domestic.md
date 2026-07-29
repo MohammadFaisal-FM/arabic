@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | محلي |
 | **Meaning** | domestic |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا محلي — This is domestic |
-| أحب محلي — I like domestic |
-| وين محلي؟ — Where is the domestic? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا محلي</span> | <span class="example-en" dir="ltr" lang="en">This is domestic</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب محلي</span> | <span class="example-en" dir="ltr" lang="en">I like domestic</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين محلي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the domestic?</span> |
 
 

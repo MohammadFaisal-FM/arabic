@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مهرجان |
 | **Meaning** | festival |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مهرجان — This is festival |
-| أحب مهرجان — I like festival |
-| وين مهرجان؟ — Where is the festival? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مهرجان</span> | <span class="example-en" dir="ltr" lang="en">This is festival</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مهرجان</span> | <span class="example-en" dir="ltr" lang="en">I like festival</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مهرجان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the festival?</span> |
 
 

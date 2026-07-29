@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | تنفيذ |
 | **Meaning** | execution |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا تنفيذ — This is execution |
-| أحب تنفيذ — I like execution |
-| وين تنفيذ؟ — Where is the execution? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا تنفيذ</span> | <span class="example-en" dir="ltr" lang="en">This is execution</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب تنفيذ</span> | <span class="example-en" dir="ltr" lang="en">I like execution</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين تنفيذ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the execution?</span> |
 
 

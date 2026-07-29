@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | حقوق الطبع والنشر |
 | **Meaning** | copyright |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا حقوق الطبع والنشر — This is copyright |
-| أحب حقوق الطبع والنشر — I like copyright |
-| وين حقوق الطبع والنشر؟ — Where is the copyright? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا حقوق الطبع والنشر</span> | <span class="example-en" dir="ltr" lang="en">This is copyright</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب حقوق الطبع والنشر</span> | <span class="example-en" dir="ltr" lang="en">I like copyright</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين حقوق الطبع والنشر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the copyright?</span> |
 
 

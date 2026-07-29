@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | تحقيق |
 | **Meaning** | realization |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا تحقيق — This is realization |
-| أحب تحقيق — I like realization |
-| وين تحقيق؟ — Where is the realization? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا تحقيق</span> | <span class="example-en" dir="ltr" lang="en">This is realization</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب تحقيق</span> | <span class="example-en" dir="ltr" lang="en">I like realization</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين تحقيق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the realization?</span> |
 
 

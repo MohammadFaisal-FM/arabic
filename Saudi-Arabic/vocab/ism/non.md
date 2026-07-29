@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | غير |
 | **Meaning** | non |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا غير — This is non |
-| أحب غير — I like non |
-| وين غير؟ — Where is the non? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا غير</span> | <span class="example-en" dir="ltr" lang="en">This is non</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب غير</span> | <span class="example-en" dir="ltr" lang="en">I like non</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين غير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the non?</span> |
 
 

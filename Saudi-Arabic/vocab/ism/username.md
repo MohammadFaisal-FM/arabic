@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | اسم المستخدم |
 | **Meaning** | username |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا اسم المستخدم — This is username |
-| أحب اسم المستخدم — I like username |
-| وين اسم المستخدم؟ — Where is the username? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا اسم المستخدم</span> | <span class="example-en" dir="ltr" lang="en">This is username</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب اسم المستخدم</span> | <span class="example-en" dir="ltr" lang="en">I like username</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين اسم المستخدم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the username?</span> |
 
 

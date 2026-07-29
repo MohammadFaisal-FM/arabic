@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يمارس |
 | **Meaning** | exercise |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يمارس — This is exercise |
-| أحب يمارس — I like exercise |
-| وين يمارس؟ — Where is the exercise? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يمارس</span> | <span class="example-en" dir="ltr" lang="en">This is exercise</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يمارس</span> | <span class="example-en" dir="ltr" lang="en">I like exercise</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يمارس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the exercise?</span> |
 
 

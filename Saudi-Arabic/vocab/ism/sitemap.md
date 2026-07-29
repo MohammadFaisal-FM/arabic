@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | خريطة الموقع |
 | **Meaning** | sitemap |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا خريطة الموقع — This is sitemap |
-| أحب خريطة الموقع — I like sitemap |
-| وين خريطة الموقع؟ — Where is the sitemap? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا خريطة الموقع</span> | <span class="example-en" dir="ltr" lang="en">This is sitemap</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب خريطة الموقع</span> | <span class="example-en" dir="ltr" lang="en">I like sitemap</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين خريطة الموقع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sitemap?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | سفارة |
 | **Meaning** | embassy |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا سفارة — This is embassy |
-| أحب سفارة — I like embassy |
-| وين سفارة؟ — Where is the embassy? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا سفارة</span> | <span class="example-en" dir="ltr" lang="en">This is embassy</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب سفارة</span> | <span class="example-en" dir="ltr" lang="en">I like embassy</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين سفارة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the embassy?</span> |
 
 

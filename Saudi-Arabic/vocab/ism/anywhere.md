@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | في أي مكان |
 | **Meaning** | anywhere |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا في أي مكان — This is anywhere |
-| أحب في أي مكان — I like anywhere |
-| وين في أي مكان؟ — Where is the anywhere? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا في أي مكان</span> | <span class="example-en" dir="ltr" lang="en">This is anywhere</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب في أي مكان</span> | <span class="example-en" dir="ltr" lang="en">I like anywhere</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين في أي مكان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the anywhere?</span> |
 
 

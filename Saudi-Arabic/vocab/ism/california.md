@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | كاليفورنيا |
 | **Meaning** | california |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا كاليفورنيا — This is california |
-| أحب كاليفورنيا — I like california |
-| وين كاليفورنيا؟ — Where is the california? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا كاليفورنيا</span> | <span class="example-en" dir="ltr" lang="en">This is california</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب كاليفورنيا</span> | <span class="example-en" dir="ltr" lang="en">I like california</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين كاليفورنيا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the california?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مصيبة |
 | **Meaning** | crisis |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مصيبة — This is crisis |
-| أحب مصيبة — I like crisis |
-| وين مصيبة؟ — Where is the crisis? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مصيبة</span> | <span class="example-en" dir="ltr" lang="en">This is crisis</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مصيبة</span> | <span class="example-en" dir="ltr" lang="en">I like crisis</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مصيبة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the crisis?</span> |
 
 

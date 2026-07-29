@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| تحت الطاولة — under the table |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">تحت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">under the table</span> |
+

@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| مو كذا — It’s not like that |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">مو كذا</span> | <span class="example-en" dir="ltr" lang="en">It’s not like that</span> |
+

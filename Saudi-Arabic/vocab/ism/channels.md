@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | القنوات |
 | **Meaning** | channels |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا القنوات — This is channels |
-| أحب القنوات — I like channels |
-| وين القنوات؟ — Where is the channels? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا القنوات</span> | <span class="example-en" dir="ltr" lang="en">This is channels</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب القنوات</span> | <span class="example-en" dir="ltr" lang="en">I like channels</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين القنوات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the channels?</span> |
 
 

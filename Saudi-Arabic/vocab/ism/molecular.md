@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | جزيئي |
 | **Meaning** | molecular |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا جزيئي — This is molecular |
-| أحب جزيئي — I like molecular |
-| وين جزيئي؟ — Where is the molecular? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا جزيئي</span> | <span class="example-en" dir="ltr" lang="en">This is molecular</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب جزيئي</span> | <span class="example-en" dir="ltr" lang="en">I like molecular</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين جزيئي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the molecular?</span> |
 
 

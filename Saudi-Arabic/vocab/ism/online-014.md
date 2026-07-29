@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | اساسي |
 | **Meaning** | fundamentalist |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,11 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا سؤال أساسي. — This is a basic question. |
-| هذا اساسي — This is a fundamentalist |
-| أحب اساسي — I like fundamentalist |
-| وين اساسي؟ — Where is the fundamentalist? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا سؤال أساسي.</span> | <span class="example-en" dir="ltr" lang="en">This is a basic question.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا اساسي</span> | <span class="example-en" dir="ltr" lang="en">This is a fundamentalist</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب اساسي</span> | <span class="example-en" dir="ltr" lang="en">I like fundamentalist</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين اساسي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fundamentalist?</span> |
 
 

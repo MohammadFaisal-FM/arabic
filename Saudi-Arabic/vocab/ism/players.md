@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | اللاعبين |
 | **Meaning** | players |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا اللاعبين — This is players |
-| أحب اللاعبين — I like players |
-| وين اللاعبين؟ — Where is the players? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا اللاعبين</span> | <span class="example-en" dir="ltr" lang="en">This is players</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب اللاعبين</span> | <span class="example-en" dir="ltr" lang="en">I like players</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين اللاعبين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the players?</span> |
 
 

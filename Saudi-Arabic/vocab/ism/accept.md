@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يقبل |
 | **Meaning** | accept |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يقبل — This is accept |
-| أحب يقبل — I like accept |
-| وين يقبل؟ — Where is the accept? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يقبل</span> | <span class="example-en" dir="ltr" lang="en">This is accept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يقبل</span> | <span class="example-en" dir="ltr" lang="en">I like accept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يقبل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the accept?</span> |
 
 

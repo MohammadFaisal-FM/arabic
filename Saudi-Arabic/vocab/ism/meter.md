@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | متر |
 | **Meaning** | meter |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا متر — This is meter |
-| أحب متر — I like meter |
-| وين متر؟ — Where is the meter? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا متر</span> | <span class="example-en" dir="ltr" lang="en">This is meter</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب متر</span> | <span class="example-en" dir="ltr" lang="en">I like meter</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين متر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the meter?</span> |
 
 

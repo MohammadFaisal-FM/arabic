@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | دقيق |
 | **Meaning** | accurate |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا دقيق — This is accurate |
-| أحب دقيق — I like accurate |
-| وين دقيق؟ — Where is the accurate? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا دقيق</span> | <span class="example-en" dir="ltr" lang="en">This is accurate</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب دقيق</span> | <span class="example-en" dir="ltr" lang="en">I like accurate</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين دقيق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the accurate?</span> |
 
 

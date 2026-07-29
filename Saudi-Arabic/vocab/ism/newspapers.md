@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | الصحف |
 | **Meaning** | newspapers |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا الصحف — This is newspapers |
-| أحب الصحف — I like newspapers |
-| وين الصحف؟ — Where is the newspapers? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا الصحف</span> | <span class="example-en" dir="ltr" lang="en">This is newspapers</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب الصحف</span> | <span class="example-en" dir="ltr" lang="en">I like newspapers</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الصحف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the newspapers?</span> |
 
 

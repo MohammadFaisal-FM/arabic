@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| نروح السوق ثم نرجع — we go to the market then come back |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">نروح السوق ثم نرجع</span> | <span class="example-en" dir="ltr" lang="en">we go to the market then come back</span> |
+

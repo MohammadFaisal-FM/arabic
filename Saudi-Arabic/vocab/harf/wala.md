@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| ما عندي وقت ولا فلوس — I have neither time nor money |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">ما عندي وقت ولا فلوس</span> | <span class="example-en" dir="ltr" lang="en">I have neither time nor money</span> |
+

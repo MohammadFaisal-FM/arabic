@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | اخلاء |
 | **Meaning** | evacuation |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,11 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| يجب أن يتمّ إخلاء العيادة. — The clinic must be evacuated. |
-| هذا اخلاء — This is a evacuation |
-| أحب اخلاء — I like evacuation |
-| وين اخلاء؟ — Where is the evacuation? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">يجب أن يتمّ إخلاء العيادة.</span> | <span class="example-en" dir="ltr" lang="en">The clinic must be evacuated.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا اخلاء</span> | <span class="example-en" dir="ltr" lang="en">This is a evacuation</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب اخلاء</span> | <span class="example-en" dir="ltr" lang="en">I like evacuation</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين اخلاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the evacuation?</span> |
 
 

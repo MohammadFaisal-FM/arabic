@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يعد |
 | **Meaning** | promise |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يعد — This is promise |
-| أحب يعد — I like promise |
-| وين يعد؟ — Where is the promise? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يعد</span> | <span class="example-en" dir="ltr" lang="en">This is promise</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يعد</span> | <span class="example-en" dir="ltr" lang="en">I like promise</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يعد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the promise?</span> |
 
 

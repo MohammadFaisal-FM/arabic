@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | درس |
 | **Meaning** | lesson |
 | **Root** | [د-ر-س](#roots/drs) |
@@ -12,18 +12,18 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| عندي درس — I have a lesson |
-| هذا درس — This is a lesson |
-| أحب درس — I like lesson |
-| وين درس؟ — Where is the lesson? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">عندي درس</span> | <span class="example-en" dir="ltr" lang="en">I have a lesson</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا درس</span> | <span class="example-en" dir="ltr" lang="en">This is a lesson</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب درس</span> | <span class="example-en" dir="ltr" lang="en">I like lesson</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين درس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lesson?</span> |
 
 
 ### Links
 
 | | |
 |-|-|
-| **Root** | [د-ر-س](#roots/drs) |
+| **Root family** | [د-ر-س](#roots/drs) — see all word types |
 | **Fiʿl** | [درس / يدرس](#fil/drs) |
 

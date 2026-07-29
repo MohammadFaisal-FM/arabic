@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | سامسونج |
 | **Meaning** | samsung |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا سامسونج — This is samsung |
-| أحب سامسونج — I like samsung |
-| وين سامسونج؟ — Where is the samsung? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا سامسونج</span> | <span class="example-en" dir="ltr" lang="en">This is samsung</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب سامسونج</span> | <span class="example-en" dir="ltr" lang="en">I like samsung</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين سامسونج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the samsung?</span> |
 
 

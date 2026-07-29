@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | لي |
 | **Meaning** | lee |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا لي — This is lee |
-| أحب لي — I like lee |
-| وين لي؟ — Where is the lee? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا لي</span> | <span class="example-en" dir="ltr" lang="en">This is lee</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب لي</span> | <span class="example-en" dir="ltr" lang="en">I like lee</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين لي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lee?</span> |
 
 

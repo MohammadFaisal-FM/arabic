@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | زوجة |
 | **Meaning** | wife |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا زوجة — This is wife |
-| أحب زوجة — I like wife |
-| وين زوجة؟ — Where is the wife? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا زوجة</span> | <span class="example-en" dir="ltr" lang="en">This is wife</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب زوجة</span> | <span class="example-en" dir="ltr" lang="en">I like wife</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين زوجة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wife?</span> |
 
 

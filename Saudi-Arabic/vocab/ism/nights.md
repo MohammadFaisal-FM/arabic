@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | الليالي |
 | **Meaning** | nights |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا الليالي — This is nights |
-| أحب الليالي — I like nights |
-| وين الليالي؟ — Where is the nights? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا الليالي</span> | <span class="example-en" dir="ltr" lang="en">This is nights</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب الليالي</span> | <span class="example-en" dir="ltr" lang="en">I like nights</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الليالي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the nights?</span> |
 
 

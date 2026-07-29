@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | غداً |
 | **Meaning** | tomorrow |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا غداً — This is tomorrow |
-| أحب غداً — I like tomorrow |
-| وين غداً؟ — Where is the tomorrow? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا غداً</span> | <span class="example-en" dir="ltr" lang="en">This is tomorrow</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب غداً</span> | <span class="example-en" dir="ltr" lang="en">I like tomorrow</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين غداً؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tomorrow?</span> |
 
 

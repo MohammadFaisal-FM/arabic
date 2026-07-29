@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | place |
+| **Subtype** | اسم مكان · ism makān (place) |
 | **Arabic** | قهوة |
 | **Meaning** | café (same word as coffee) |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,8 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| نقعد في القهوة — We sit in coffee |
-| هذا قهوة — This is a café (same word as coffee) |
-| أحب قهوة — I like café (same word as coffee) |
-| وين قهوة؟ — Where is the café (same word as coffee)? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">نقعد في القهوة</span> | <span class="example-en" dir="ltr" lang="en">We sit in coffee</span> |
 
 

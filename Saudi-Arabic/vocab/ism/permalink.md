@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | الرابط الثابت |
 | **Meaning** | permalink |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا الرابط الثابت — This is permalink |
-| أحب الرابط الثابت — I like permalink |
-| وين الرابط الثابت؟ — Where is the permalink? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا الرابط الثابت</span> | <span class="example-en" dir="ltr" lang="en">This is permalink</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب الرابط الثابت</span> | <span class="example-en" dir="ltr" lang="en">I like permalink</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الرابط الثابت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the permalink?</span> |
 
 

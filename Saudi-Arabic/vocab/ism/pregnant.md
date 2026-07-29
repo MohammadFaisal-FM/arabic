@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | حامل |
 | **Meaning** | pregnant |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا حامل — This is pregnant |
-| أحب حامل — I like pregnant |
-| وين حامل؟ — Where is the pregnant? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا حامل</span> | <span class="example-en" dir="ltr" lang="en">This is pregnant</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب حامل</span> | <span class="example-en" dir="ltr" lang="en">I like pregnant</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين حامل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pregnant?</span> |
 
 

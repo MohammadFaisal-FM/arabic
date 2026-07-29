@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | أدوبي |
 | **Meaning** | adobe |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا أدوبي — This is adobe |
-| أحب أدوبي — I like adobe |
-| وين أدوبي؟ — Where is the adobe? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا أدوبي</span> | <span class="example-en" dir="ltr" lang="en">This is adobe</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب أدوبي</span> | <span class="example-en" dir="ltr" lang="en">I like adobe</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين أدوبي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the adobe?</span> |
 
 

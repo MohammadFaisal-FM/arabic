@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | التشغيل |
 | **Meaning** | operating |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا التشغيل — This is operating |
-| أحب التشغيل — I like operating |
-| وين التشغيل؟ — Where is the operating? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا التشغيل</span> | <span class="example-en" dir="ltr" lang="en">This is operating</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب التشغيل</span> | <span class="example-en" dir="ltr" lang="en">I like operating</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين التشغيل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the operating?</span> |
 
 

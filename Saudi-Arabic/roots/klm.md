@@ -10,9 +10,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| كلّمني بعدين — Call / talk to me later |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">كلّمني بعدين</span> | <span class="example-en" dir="ltr" lang="en">Call / talk to me later</span> |
+
 
 ---
 
@@ -25,10 +26,19 @@
 
 ---
 
-## Related-Words
+## Word types from this root
 
-| Type | Word | Example |
-|------|------|---------|
-| اسم · ism (noun) | كلام | كلامك صحيح — What you say is true |
-| اسم · ism (noun) | كلمة | كلمة جديدة — New word |
+| Type | Word | Notes / Example |
+|------|------|-----------------|
+| فعل · fiʿl (Form II) | [كلّم / يكلّم · talk to (main in speech)](#fil/klm) | <span class="example-ar" dir="rtl" lang="ar">كلّمني بعدين</span><br><span class="example-en" dir="ltr" lang="en">Call / talk to me later</span> |
+| فعل · fiʿl (Form V) | [تكلّم / يتكلّم · speak](#fil/klm-v) | <span class="example-ar" dir="rtl" lang="ar">كلّمني بعدين</span><br><span class="example-en" dir="ltr" lang="en">Call / talk to me later</span> |
+| مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
+| اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
+| اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
+| اسم مكان · ism makān (place) | N/A | not common / not listed yet |
+| اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
+| اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
+| اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | [كلام](#ism/kalam) | <span class="example-ar" dir="rtl" lang="ar">كلامك صحيح</span><br><span class="example-en" dir="ltr" lang="en">What you say is true</span> |
+| اسم · ism (noun / other) | [كلمة](#ism/kalima) | <span class="example-ar" dir="rtl" lang="ar">كلمة جديدة</span><br><span class="example-en" dir="ltr" lang="en">New word</span> |
 

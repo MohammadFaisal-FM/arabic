@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مرتين |
 | **Meaning** | twice |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مرتين — This is twice |
-| أحب مرتين — I like twice |
-| وين مرتين؟ — Where is the twice? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مرتين</span> | <span class="example-en" dir="ltr" lang="en">This is twice</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مرتين</span> | <span class="example-en" dir="ltr" lang="en">I like twice</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مرتين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the twice?</span> |
 
 

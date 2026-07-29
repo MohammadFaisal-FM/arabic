@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | إجراءات |
 | **Meaning** | procedures |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا إجراءات — This is procedures |
-| أحب إجراءات — I like procedures |
-| وين إجراءات؟ — Where is the procedures? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا إجراءات</span> | <span class="example-en" dir="ltr" lang="en">This is procedures</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب إجراءات</span> | <span class="example-en" dir="ltr" lang="en">I like procedures</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين إجراءات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the procedures?</span> |
 
 

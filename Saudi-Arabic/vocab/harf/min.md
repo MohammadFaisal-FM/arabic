@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| من الرياض — from Riyadh |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">من الرياض</span> | <span class="example-en" dir="ltr" lang="en">from Riyadh</span> |
+

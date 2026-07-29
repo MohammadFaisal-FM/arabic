@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ينقسم |
 | **Meaning** | split |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ينقسم — This is split |
-| أحب ينقسم — I like split |
-| وين ينقسم؟ — Where is the split? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ينقسم</span> | <span class="example-en" dir="ltr" lang="en">This is split</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ينقسم</span> | <span class="example-en" dir="ltr" lang="en">I like split</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ينقسم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the split?</span> |
 
 

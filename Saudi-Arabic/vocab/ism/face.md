@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | وجه |
 | **Meaning** | face |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا وجه — This is face |
-| أحب وجه — I like face |
-| وين وجه؟ — Where is the face? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا وجه</span> | <span class="example-en" dir="ltr" lang="en">This is face</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب وجه</span> | <span class="example-en" dir="ltr" lang="en">I like face</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين وجه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the face?</span> |
 
 

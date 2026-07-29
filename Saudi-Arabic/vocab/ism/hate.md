@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يكره |
 | **Meaning** | hate |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يكره — This is hate |
-| أحب يكره — I like hate |
-| وين يكره؟ — Where is the hate? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يكره</span> | <span class="example-en" dir="ltr" lang="en">This is hate</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يكره</span> | <span class="example-en" dir="ltr" lang="en">I like hate</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يكره؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hate?</span> |
 
 

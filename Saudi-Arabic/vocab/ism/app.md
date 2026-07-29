@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | تطبيق |
 | **Meaning** | app |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,11 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| نزّل التطبيق — Download the app |
-| هذا تطبيق — This is a app |
-| أحب تطبيق — I like app |
-| وين تطبيق؟ — Where is the app? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">نزّل التطبيق</span> | <span class="example-en" dir="ltr" lang="en">Download the app</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا تطبيق</span> | <span class="example-en" dir="ltr" lang="en">This is a app</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب تطبيق</span> | <span class="example-en" dir="ltr" lang="en">I like app</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين تطبيق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the app?</span> |
 
 

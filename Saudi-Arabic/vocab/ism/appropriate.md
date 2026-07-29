@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ملائم |
 | **Meaning** | appropriate |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ملائم — This is appropriate |
-| أحب ملائم — I like appropriate |
-| وين ملائم؟ — Where is the appropriate? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ملائم</span> | <span class="example-en" dir="ltr" lang="en">This is appropriate</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ملائم</span> | <span class="example-en" dir="ltr" lang="en">I like appropriate</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ملائم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the appropriate?</span> |
 
 

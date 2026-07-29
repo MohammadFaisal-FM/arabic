@@ -10,9 +10,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| حطها / ضعها هنا — Put it here |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">حطها / ضعها هنا</span> | <span class="example-en" dir="ltr" lang="en">Put it here</span> |
+
 
 ---
 
@@ -20,11 +21,21 @@
 
 | Form | Past / present | Fiʿl |
 |------|----------------|------|
-| I | وضع / يوضع | [Open](#fil/wd3) |
+| I | وضع / يوضع · base meaning: placing | [Open](#fil/wd3) |
 
 ---
 
-## Related-Words
+## Word types from this root
 
-No related words yet.
+| Type | Word | Notes / Example |
+|------|------|-----------------|
+| فعل · fiʿl (Form I) | [وضع / يوضع · base meaning: placing](#fil/wd3) | <span class="example-ar" dir="rtl" lang="ar">حطها / ضعها هنا</span><br><span class="example-en" dir="ltr" lang="en">Put it here</span> |
+| مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
+| اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
+| اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
+| اسم مكان · ism makān (place) | N/A | not common / not listed yet |
+| اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
+| اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
+| اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | N/A | not common / not listed yet |
 

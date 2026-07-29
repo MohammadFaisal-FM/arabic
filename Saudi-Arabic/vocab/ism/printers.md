@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | الطابعات |
 | **Meaning** | printers |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا الطابعات — This is printers |
-| أحب الطابعات — I like printers |
-| وين الطابعات؟ — Where is the printers? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا الطابعات</span> | <span class="example-en" dir="ltr" lang="en">This is printers</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب الطابعات</span> | <span class="example-en" dir="ltr" lang="en">I like printers</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الطابعات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the printers?</span> |
 
 

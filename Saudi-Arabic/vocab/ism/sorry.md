@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | آسف |
 | **Meaning** | sorry |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا آسف — This is sorry |
-| أحب آسف — I like sorry |
-| وين آسف؟ — Where is the sorry? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا آسف</span> | <span class="example-en" dir="ltr" lang="en">This is sorry</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب آسف</span> | <span class="example-en" dir="ltr" lang="en">I like sorry</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين آسف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sorry?</span> |
 
 

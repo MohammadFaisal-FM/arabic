@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يحدث |
 | **Meaning** | happen |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يحدث — This is happen |
-| أحب يحدث — I like happen |
-| وين يحدث؟ — Where is the happen? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يحدث</span> | <span class="example-en" dir="ltr" lang="en">This is happen</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يحدث</span> | <span class="example-en" dir="ltr" lang="en">I like happen</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يحدث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the happen?</span> |
 
 

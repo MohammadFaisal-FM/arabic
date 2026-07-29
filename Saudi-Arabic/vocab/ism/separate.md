@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | متفرق |
 | **Meaning** | separate |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا متفرق — This is separate |
-| أحب متفرق — I like separate |
-| وين متفرق؟ — Where is the separate? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا متفرق</span> | <span class="example-en" dir="ltr" lang="en">This is separate</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب متفرق</span> | <span class="example-en" dir="ltr" lang="en">I like separate</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين متفرق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the separate?</span> |
 
 

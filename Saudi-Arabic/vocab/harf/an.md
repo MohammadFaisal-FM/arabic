@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| عن الشغل — about work |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">عن الشغل</span> | <span class="example-en" dir="ltr" lang="en">about work</span> |
+

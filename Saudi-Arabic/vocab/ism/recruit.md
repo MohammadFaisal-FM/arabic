@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | تجنيد |
 | **Meaning** | recruit |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا تجنيد — This is recruit |
-| أحب تجنيد — I like recruit |
-| وين تجنيد؟ — Where is the recruit? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا تجنيد</span> | <span class="example-en" dir="ltr" lang="en">This is recruit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب تجنيد</span> | <span class="example-en" dir="ltr" lang="en">I like recruit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين تجنيد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the recruit?</span> |
 
 

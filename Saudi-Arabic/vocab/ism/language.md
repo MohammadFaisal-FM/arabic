@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | لغة |
 | **Meaning** | language |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا لغة — This is language |
-| أحب لغة — I like language |
-| وين لغة؟ — Where is the language? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا لغة</span> | <span class="example-en" dir="ltr" lang="en">This is language</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب لغة</span> | <span class="example-en" dir="ltr" lang="en">I like language</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين لغة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the language?</span> |
 
 

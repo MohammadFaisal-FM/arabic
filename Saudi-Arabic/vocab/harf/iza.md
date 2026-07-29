@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| إذا خلصت، كلمني — if you finish, call me |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">إذا خلصت، كلمني</span> | <span class="example-en" dir="ltr" lang="en">if you finish, call me</span> |
+

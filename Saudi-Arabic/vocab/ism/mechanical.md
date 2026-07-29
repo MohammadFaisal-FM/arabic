@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ميكانيكية |
 | **Meaning** | mechanical |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ميكانيكية — This is mechanical |
-| أحب ميكانيكية — I like mechanical |
-| وين ميكانيكية؟ — Where is the mechanical? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ميكانيكية</span> | <span class="example-en" dir="ltr" lang="en">This is mechanical</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ميكانيكية</span> | <span class="example-en" dir="ltr" lang="en">I like mechanical</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ميكانيكية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mechanical?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | الولايات المتحدة الأمريكية |
 | **Meaning** | usa |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا الولايات المتحدة الأمريكية — This is usa |
-| أحب الولايات المتحدة الأمريكية — I like usa |
-| وين الولايات المتحدة الأمريكية؟ — Where is the usa? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا الولايات المتحدة الأمريكية</span> | <span class="example-en" dir="ltr" lang="en">This is usa</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب الولايات المتحدة الأمريكية</span> | <span class="example-en" dir="ltr" lang="en">I like usa</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الولايات المتحدة الأمريكية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the usa?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | place |
+| **Subtype** | اسم مكان · ism makān (place) |
 | **Arabic** | مدرسة |
 | **Meaning** | school |
 | **Root** | [د-ر-س](#roots/drs) |
@@ -12,18 +12,15 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| رحت المدرسة — I went to school |
-| هذا مدرسة — This is a school |
-| أحب مدرسة — I like school |
-| وين مدرسة؟ — Where is the school? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">رحت المدرسة</span> | <span class="example-en" dir="ltr" lang="en">I went to school</span> |
 
 
 ### Links
 
 | | |
 |-|-|
-| **Root** | [د-ر-س](#roots/drs) |
+| **Root family** | [د-ر-س](#roots/drs) — see all word types |
 | **Fiʿl** | [درس / يدرس](#fil/drs) |
 

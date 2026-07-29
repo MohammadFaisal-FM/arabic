@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ترتيب |
 | **Meaning** | arrangement |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ترتيب — This is arrangement |
-| أحب ترتيب — I like arrangement |
-| وين ترتيب؟ — Where is the arrangement? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ترتيب</span> | <span class="example-en" dir="ltr" lang="en">This is arrangement</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ترتيب</span> | <span class="example-en" dir="ltr" lang="en">I like arrangement</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ترتيب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the arrangement?</span> |
 
 

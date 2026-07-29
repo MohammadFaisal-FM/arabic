@@ -10,9 +10,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| وقف هنا — Stop here |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">وقف هنا</span> | <span class="example-en" dir="ltr" lang="en">Stop here</span> |
+
 
 ---
 
@@ -20,11 +21,21 @@
 
 | Form | Past / present | Fiʿl |
 |------|----------------|------|
-| I | وقف / يوقف | [Open](#fil/wqf) |
+| I | وقف / يوقف · base meaning: stopping / standing | [Open](#fil/wqf) |
 
 ---
 
-## Related-Words
+## Word types from this root
 
-No related words yet.
+| Type | Word | Notes / Example |
+|------|------|-----------------|
+| فعل · fiʿl (Form I) | [وقف / يوقف · base meaning: stopping / standing](#fil/wqf) | <span class="example-ar" dir="rtl" lang="ar">وقف هنا</span><br><span class="example-en" dir="ltr" lang="en">Stop here</span> |
+| مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
+| اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
+| اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
+| اسم مكان · ism makān (place) | N/A | not common / not listed yet |
+| اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
+| اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
+| اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | N/A | not common / not listed yet |
 

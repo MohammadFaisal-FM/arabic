@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ألاسكا |
 | **Meaning** | alaska |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ألاسكا — This is alaska |
-| أحب ألاسكا — I like alaska |
-| وين ألاسكا؟ — Where is the alaska? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ألاسكا</span> | <span class="example-en" dir="ltr" lang="en">This is alaska</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ألاسكا</span> | <span class="example-en" dir="ltr" lang="en">I like alaska</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ألاسكا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the alaska?</span> |
 
 

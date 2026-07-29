@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | صباح |
 | **Meaning** | morning |
 | **Root** | [ص-ب-ح](#roots/sbh) |
@@ -12,18 +12,18 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| صباح الخير — Good morning |
-| هذا صباح — This is a morning |
-| أحب صباح — I like morning |
-| وين صباح؟ — Where is the morning? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">صباح الخير</span> | <span class="example-en" dir="ltr" lang="en">Good morning</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا صباح</span> | <span class="example-en" dir="ltr" lang="en">This is a morning</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب صباح</span> | <span class="example-en" dir="ltr" lang="en">I like morning</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين صباح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the morning?</span> |
 
 
 ### Links
 
 | | |
 |-|-|
-| **Root** | [ص-ب-ح](#roots/sbh) |
+| **Root family** | [ص-ب-ح](#roots/sbh) — see all word types |
 | **Fiʿl** | [صبح / يصبح](#fil/sbh) |
 

@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| إلى المطار — to the airport |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">إلى المطار</span> | <span class="example-en" dir="ltr" lang="en">to the airport</span> |
+

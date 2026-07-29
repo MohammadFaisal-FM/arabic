@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | قرصان |
 | **Meaning** | pirate |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا قرصان — This is pirate |
-| أحب قرصان — I like pirate |
-| وين قرصان؟ — Where is the pirate? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا قرصان</span> | <span class="example-en" dir="ltr" lang="en">This is pirate</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب قرصان</span> | <span class="example-en" dir="ltr" lang="en">I like pirate</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين قرصان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pirate?</span> |
 
 

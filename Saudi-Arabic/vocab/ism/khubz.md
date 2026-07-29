@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | خبز |
 | **Meaning** | bread |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,11 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| عندنا خبز — We have bread |
-| هذا خبز — This is a bread |
-| أحب خبز — I like bread |
-| وين خبز؟ — Where is the bread? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">عندنا خبز</span> | <span class="example-en" dir="ltr" lang="en">We have bread</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا خبز</span> | <span class="example-en" dir="ltr" lang="en">This is a bread</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب خبز</span> | <span class="example-en" dir="ltr" lang="en">I like bread</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين خبز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bread?</span> |
 
 

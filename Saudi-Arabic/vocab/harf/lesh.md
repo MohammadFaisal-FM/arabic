@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| ليش كذا؟ — Why like that? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">ليش كذا؟</span> | <span class="example-en" dir="ltr" lang="en">Why like that?</span> |
+

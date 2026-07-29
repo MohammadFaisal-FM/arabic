@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | اللاتينية |
 | **Meaning** | latin |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا اللاتينية — This is latin |
-| أحب اللاتينية — I like latin |
-| وين اللاتينية؟ — Where is the latin? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا اللاتينية</span> | <span class="example-en" dir="ltr" lang="en">This is latin</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب اللاتينية</span> | <span class="example-en" dir="ltr" lang="en">I like latin</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين اللاتينية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the latin?</span> |
 
 

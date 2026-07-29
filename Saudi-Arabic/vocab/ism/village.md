@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | قرية |
 | **Meaning** | village |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا قرية — This is village |
-| أحب قرية — I like village |
-| وين قرية؟ — Where is the village? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا قرية</span> | <span class="example-en" dir="ltr" lang="en">This is village</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب قرية</span> | <span class="example-en" dir="ltr" lang="en">I like village</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين قرية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the village?</span> |
 
 

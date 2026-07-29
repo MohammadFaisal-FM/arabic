@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مساعد |
 | **Meaning** | assistant |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مساعد — This is assistant |
-| أحب مساعد — I like assistant |
-| وين مساعد؟ — Where is the assistant? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مساعد</span> | <span class="example-en" dir="ltr" lang="en">This is assistant</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مساعد</span> | <span class="example-en" dir="ltr" lang="en">I like assistant</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مساعد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the assistant?</span> |
 
 

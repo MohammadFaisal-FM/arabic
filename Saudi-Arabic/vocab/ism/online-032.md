@@ -3,20 +3,24 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | مصدر · masdar (verbal noun) |
 | **Arabic** | اتخاذ |
-| **Meaning** | take |
-| **Root** | — (loan / no everyday root) |
+| **Meaning** | adopting / taking (a decision) |
+| **Root** | [أ-خ-ذ](#roots/akhd) |
 
 ---
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| يؤسفُني عدم إتخاذ نصيحة الطبيب. — I regret not taking the doctor's advice. |
-| هذا اتخاذ — This is a take |
-| أحب اتخاذ — I like take |
-| وين اتخاذ؟ — Where is the take? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">اتخاذ القرار يبغاله هدوء، خاصة إذا كان الموضوع عن البيت والشغل</span> | <span class="example-en" dir="ltr" lang="en">Making a decision needs calm, especially if the topic is about home and work</span> |
 
+
+### Links
+
+| | |
+|-|-|
+| **Root family** | [أ-خ-ذ](#roots/akhd) — see all word types |
+| **Fiʿl** | [أخذ / ياخذ](#fil/akhd) |
 

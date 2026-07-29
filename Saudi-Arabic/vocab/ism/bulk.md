@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | حجم كبير |
 | **Meaning** | bulk |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا حجم كبير — This is bulk |
-| أحب حجم كبير — I like bulk |
-| وين حجم كبير؟ — Where is the bulk? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا حجم كبير</span> | <span class="example-en" dir="ltr" lang="en">This is bulk</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب حجم كبير</span> | <span class="example-en" dir="ltr" lang="en">I like bulk</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين حجم كبير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bulk?</span> |
 
 

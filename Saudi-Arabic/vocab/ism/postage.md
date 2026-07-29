@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | رسوم البريد |
 | **Meaning** | postage |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا رسوم البريد — This is postage |
-| أحب رسوم البريد — I like postage |
-| وين رسوم البريد؟ — Where is the postage? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا رسوم البريد</span> | <span class="example-en" dir="ltr" lang="en">This is postage</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب رسوم البريد</span> | <span class="example-en" dir="ltr" lang="en">I like postage</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين رسوم البريد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the postage?</span> |
 
 

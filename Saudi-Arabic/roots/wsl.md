@@ -10,9 +10,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| وصلت البيت — I arrived home |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">وصلت البيت</span> | <span class="example-en" dir="ltr" lang="en">I arrived home</span> |
+
 
 ---
 
@@ -20,12 +21,23 @@
 
 | Form | Past / present | Fiʿl |
 |------|----------------|------|
-| I | وصل / يوصل | [Open](#fil/wsl) |
+| I | وصل / يوصل · base meaning: arriving / connecting | [Open](#fil/wsl) |
 | II | وصّل / يوصّل · deliver / connect | [Open](#fil/wsl-ii) |
 
 ---
 
-## Related-Words
+## Word types from this root
 
-No related words yet.
+| Type | Word | Notes / Example |
+|------|------|-----------------|
+| فعل · fiʿl (Form I) | [وصل / يوصل · base meaning: arriving / connecting](#fil/wsl) | <span class="example-ar" dir="rtl" lang="ar">وصلت البيت</span><br><span class="example-en" dir="ltr" lang="en">I arrived home</span> |
+| فعل · fiʿl (Form II) | [وصّل / يوصّل · deliver / connect](#fil/wsl-ii) | <span class="example-ar" dir="rtl" lang="ar">وصلت البيت</span><br><span class="example-en" dir="ltr" lang="en">I arrived home</span> |
+| مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
+| اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
+| اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
+| اسم مكان · ism makān (place) | N/A | not common / not listed yet |
+| اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
+| اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
+| اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | N/A | not common / not listed yet |
 

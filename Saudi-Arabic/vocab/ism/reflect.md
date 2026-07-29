@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يعكس |
 | **Meaning** | reflect |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يعكس — This is reflect |
-| أحب يعكس — I like reflect |
-| وين يعكس؟ — Where is the reflect? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يعكس</span> | <span class="example-en" dir="ltr" lang="en">This is reflect</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يعكس</span> | <span class="example-en" dir="ltr" lang="en">I like reflect</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يعكس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reflect?</span> |
 
 

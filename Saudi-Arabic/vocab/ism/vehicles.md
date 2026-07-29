@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | المركبات |
 | **Meaning** | vehicles |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا المركبات — This is vehicles |
-| أحب المركبات — I like vehicles |
-| وين المركبات؟ — Where is the vehicles? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا المركبات</span> | <span class="example-en" dir="ltr" lang="en">This is vehicles</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب المركبات</span> | <span class="example-en" dir="ltr" lang="en">I like vehicles</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين المركبات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the vehicles?</span> |
 
 

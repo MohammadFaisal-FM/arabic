@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | القدرات |
 | **Meaning** | capabilities |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا القدرات — This is capabilities |
-| أحب القدرات — I like capabilities |
-| وين القدرات؟ — Where is the capabilities? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا القدرات</span> | <span class="example-en" dir="ltr" lang="en">This is capabilities</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب القدرات</span> | <span class="example-en" dir="ltr" lang="en">I like capabilities</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين القدرات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the capabilities?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | تينيسي |
 | **Meaning** | tennessee |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا تينيسي — This is tennessee |
-| أحب تينيسي — I like tennessee |
-| وين تينيسي؟ — Where is the tennessee? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا تينيسي</span> | <span class="example-en" dir="ltr" lang="en">This is tennessee</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب تينيسي</span> | <span class="example-en" dir="ltr" lang="en">I like tennessee</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين تينيسي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tennessee?</span> |
 
 

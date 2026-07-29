@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| جنب المسجد — next to the mosque |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">جنب المسجد</span> | <span class="example-en" dir="ltr" lang="en">next to the mosque</span> |
+

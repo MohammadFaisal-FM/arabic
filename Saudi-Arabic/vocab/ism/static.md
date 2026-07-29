@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ثابت |
 | **Meaning** | static |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ثابت — This is static |
-| أحب ثابت — I like static |
-| وين ثابت؟ — Where is the static? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ثابت</span> | <span class="example-en" dir="ltr" lang="en">This is static</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ثابت</span> | <span class="example-en" dir="ltr" lang="en">I like static</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ثابت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the static?</span> |
 
 

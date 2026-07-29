@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مسرح |
 | **Meaning** | theatre |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مسرح — This is theatre |
-| أحب مسرح — I like theatre |
-| وين مسرح؟ — Where is the theatre? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مسرح</span> | <span class="example-en" dir="ltr" lang="en">This is theatre</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مسرح</span> | <span class="example-en" dir="ltr" lang="en">I like theatre</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مسرح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the theatre?</span> |
 
 

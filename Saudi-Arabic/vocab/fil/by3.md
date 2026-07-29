@@ -7,15 +7,16 @@
 | **Present** | يبيع |
 | **Meaning** | selling |
 | **Root** | [ب-ي-ع](#roots/by3) |
-| **Form** | I · باع / يبيع |
+| **Form** | I · باع / يبيع · base meaning: selling |
 
 ---
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| بعت السيارة — I sold the car |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">بعت السيارة</span> | <span class="example-en" dir="ltr" lang="en">I sold the car</span> |
+
 
 ---
 
@@ -36,14 +37,16 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-| Pronoun | Arabic · English |
-|---------|------------------|
-| أنا | باعت — I did (selling) |
-| إحنا | نبيع — we do/does (selling) |
-| أنت | بتبيع — you (m.) will (selling) |
-| أنتِ | باعتي — you (f.) did (selling) |
-| أنتم | تبيعون — you (pl.) do/does (selling) |
-| هو | بيبيع — he will (selling) |
-| هي | باعت — she did (selling) |
-| هم | يبيعون — they do/does (selling) |
+Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+
+| Pronoun | Arabic | English |
+|---------|--------|---------|
+| أنا | <span class="example-ar" dir="rtl" lang="ar">باعت، وبعدين شفت الدفتر الأحمر من الكرسي، قبل ما تطفى الأنوار، وبعدين صلّينا المغرب</span> | <span class="example-en" dir="ltr" lang="en">I did it (selling), then I saw the red notebook from the chair, before the lights go out, and then we prayed Maghrib</span> |
+| إحنا | <span class="example-ar" dir="rtl" lang="ar">نبيع الحين، وبعدين أحط المسطرة من السيارة، عشان الاختبار يوم الأحد</span> | <span class="example-en" dir="ltr" lang="en">we do it (selling) now, then I put the ruler from the car, because the exam is on Sunday</span> |
+| أنت | <span class="example-ar" dir="rtl" lang="ar">بتبيع بكرة، وآخذ البوصلة من الرف إذا احتجته، لأن الشمس قوية برا، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (selling) tomorrow, and I’ll get the compass from the shelf if I need it, because the sun is strong outside, and then I charged the device</span> |
+| أنتِ | <span class="example-ar" dir="rtl" lang="ar">باعتي، وبعدين شفت العدسة المكبرة من التطبيق، قبل ما يقفل الباب، وبعدها رجعت الغرفة بهدوء</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (selling), then I saw the magnifying glass from the app, before the door closes, and then I went back to the room quietly</span> |
+| أنتم | <span class="example-ar" dir="rtl" lang="ar">تبيعون الحين، وبعدين أحط المنظار من الدرج، عشان ما يضيع شيء</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (selling) now, then I put the binoculars from the drawer, so nothing gets lost</span> |
+| هو | <span class="example-ar" dir="rtl" lang="ar">بيبيع بكرة، وآخذ البطارية الاحتياطية من الثلاجة إذا احتجته، لأن الوقت ضيق شوي، وبعد كده رنّ الجرس</span> | <span class="example-en" dir="ltr" lang="en">he will do it (selling) tomorrow, and I’ll get the spare battery from the fridge if I need it, because time is a bit tight, and then the doorbell rang</span> |
+| هي | <span class="example-ar" dir="rtl" lang="ar">باعت، وبعدين شفت السماعة الخارجية من الفرن، قبل ما يبدأ الاجتماع، وبعدها شربت شوية ميّ</span> | <span class="example-en" dir="ltr" lang="en">she did it (selling), then I saw the external speaker from the oven, before the meeting starts, and then I drank a bit of water</span> |
+| هم | <span class="example-ar" dir="rtl" lang="ar">يبيعون الحين، وبعدين أحط الحقيبة المدرسية من الاستقبال، عشان نلحق الصلاة</span> | <span class="example-en" dir="ltr" lang="en">they do it (selling) now, then I put the school bag from reception, so we make prayer on time</span> |
 

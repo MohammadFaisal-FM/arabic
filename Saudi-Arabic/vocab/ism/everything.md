@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | كل شئ |
 | **Meaning** | everything |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا كل شئ — This is everything |
-| أحب كل شئ — I like everything |
-| وين كل شئ؟ — Where is the everything? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا كل شئ</span> | <span class="example-en" dir="ltr" lang="en">This is everything</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب كل شئ</span> | <span class="example-en" dir="ltr" lang="en">I like everything</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين كل شئ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the everything?</span> |
 
 

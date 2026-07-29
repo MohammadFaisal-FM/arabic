@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مرئي |
 | **Meaning** | visual |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مرئي — This is visual |
-| أحب مرئي — I like visual |
-| وين مرئي؟ — Where is the visual? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مرئي</span> | <span class="example-en" dir="ltr" lang="en">This is visual</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مرئي</span> | <span class="example-en" dir="ltr" lang="en">I like visual</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مرئي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the visual?</span> |
 
 

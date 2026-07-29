@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| متى تجي؟ — When are you coming? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">متى تجي؟</span> | <span class="example-en" dir="ltr" lang="en">When are you coming?</span> |
+

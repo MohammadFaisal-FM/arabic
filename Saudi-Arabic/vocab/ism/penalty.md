@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | جزاء |
 | **Meaning** | penalty |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا جزاء — This is penalty |
-| أحب جزاء — I like penalty |
-| وين جزاء؟ — Where is the penalty? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا جزاء</span> | <span class="example-en" dir="ltr" lang="en">This is penalty</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب جزاء</span> | <span class="example-en" dir="ltr" lang="en">I like penalty</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين جزاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the penalty?</span> |
 
 

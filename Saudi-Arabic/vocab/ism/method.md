@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | طريقة |
 | **Meaning** | method |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا طريقة — This is method |
-| أحب طريقة — I like method |
-| وين طريقة؟ — Where is the method? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا طريقة</span> | <span class="example-en" dir="ltr" lang="en">This is method</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب طريقة</span> | <span class="example-en" dir="ltr" lang="en">I like method</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين طريقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the method?</span> |
 
 

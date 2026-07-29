@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | إرشاد |
 | **Meaning** | guidance |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا إرشاد — This is guidance |
-| أحب إرشاد — I like guidance |
-| وين إرشاد؟ — Where is the guidance? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا إرشاد</span> | <span class="example-en" dir="ltr" lang="en">This is guidance</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب إرشاد</span> | <span class="example-en" dir="ltr" lang="en">I like guidance</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين إرشاد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the guidance?</span> |
 
 

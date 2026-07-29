@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | فيغاس |
 | **Meaning** | vegas |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا فيغاس — This is vegas |
-| أحب فيغاس — I like vegas |
-| وين فيغاس؟ — Where is the vegas? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا فيغاس</span> | <span class="example-en" dir="ltr" lang="en">This is vegas</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب فيغاس</span> | <span class="example-en" dir="ltr" lang="en">I like vegas</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين فيغاس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the vegas?</span> |
 
 

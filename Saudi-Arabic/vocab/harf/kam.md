@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| كم السعر؟ — How much is the price? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">كم السعر؟</span> | <span class="example-en" dir="ltr" lang="en">How much is the price?</span> |
+

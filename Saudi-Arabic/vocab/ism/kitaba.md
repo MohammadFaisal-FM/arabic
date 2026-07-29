@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | masdar |
+| **Subtype** | مصدر · masdar (verbal noun) |
 | **Arabic** | كتابة |
 | **Meaning** | writing |
 | **Root** | [ك-ت-ب](#roots/ktb) |
@@ -12,18 +12,15 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| الكتابة صعبة — Writing is hard |
-| هذا كتابة — This is a writing |
-| أحب كتابة — I like writing |
-| وين كتابة؟ — Where is the writing? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">الكتابة صعبة</span> | <span class="example-en" dir="ltr" lang="en">Writing is hard</span> |
 
 
 ### Links
 
 | | |
 |-|-|
-| **Root** | [ك-ت-ب](#roots/ktb) |
+| **Root family** | [ك-ت-ب](#roots/ktb) — see all word types |
 | **Fiʿl** | [كتب / يكتب](#fil/ktb) |
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | غاما |
 | **Meaning** | gamma |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا غاما — This is gamma |
-| أحب غاما — I like gamma |
-| وين غاما؟ — Where is the gamma? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا غاما</span> | <span class="example-en" dir="ltr" lang="en">This is gamma</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب غاما</span> | <span class="example-en" dir="ltr" lang="en">I like gamma</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين غاما؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the gamma?</span> |
 
 

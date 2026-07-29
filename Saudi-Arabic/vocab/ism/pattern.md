@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | نمط |
 | **Meaning** | pattern |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا نمط — This is pattern |
-| أحب نمط — I like pattern |
-| وين نمط؟ — Where is the pattern? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا نمط</span> | <span class="example-en" dir="ltr" lang="en">This is pattern</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب نمط</span> | <span class="example-en" dir="ltr" lang="en">I like pattern</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين نمط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pattern?</span> |
 
 

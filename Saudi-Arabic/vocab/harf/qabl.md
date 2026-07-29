@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| قبل الشغل — before work |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">قبل الشغل</span> | <span class="example-en" dir="ltr" lang="en">before work</span> |
+

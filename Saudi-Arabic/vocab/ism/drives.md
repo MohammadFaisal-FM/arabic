@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | محركات الأقراص |
 | **Meaning** | drives |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا محركات الأقراص — This is drives |
-| أحب محركات الأقراص — I like drives |
-| وين محركات الأقراص؟ — Where is the drives? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا محركات الأقراص</span> | <span class="example-en" dir="ltr" lang="en">This is drives</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب محركات الأقراص</span> | <span class="example-en" dir="ltr" lang="en">I like drives</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين محركات الأقراص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the drives?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | محمول |
 | **Meaning** | portable |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا محمول — This is portable |
-| أحب محمول — I like portable |
-| وين محمول؟ — Where is the portable? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا محمول</span> | <span class="example-en" dir="ltr" lang="en">This is portable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب محمول</span> | <span class="example-en" dir="ltr" lang="en">I like portable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين محمول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the portable?</span> |
 
 

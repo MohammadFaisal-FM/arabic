@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | متطلبات |
 | **Meaning** | requirement |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا متطلبات — This is requirement |
-| أحب متطلبات — I like requirement |
-| وين متطلبات؟ — Where is the requirement? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا متطلبات</span> | <span class="example-en" dir="ltr" lang="en">This is requirement</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب متطلبات</span> | <span class="example-en" dir="ltr" lang="en">I like requirement</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين متطلبات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the requirement?</span> |
 
 

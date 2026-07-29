@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | المقتنيات |
 | **Meaning** | collectibles |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا المقتنيات — This is collectibles |
-| أحب المقتنيات — I like collectibles |
-| وين المقتنيات؟ — Where is the collectibles? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا المقتنيات</span> | <span class="example-en" dir="ltr" lang="en">This is collectibles</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب المقتنيات</span> | <span class="example-en" dir="ltr" lang="en">I like collectibles</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين المقتنيات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the collectibles?</span> |
 
 

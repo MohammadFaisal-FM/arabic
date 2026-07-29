@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مايكل |
 | **Meaning** | michael |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مايكل — This is michael |
-| أحب مايكل — I like michael |
-| وين مايكل؟ — Where is the michael? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مايكل</span> | <span class="example-en" dir="ltr" lang="en">This is michael</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مايكل</span> | <span class="example-en" dir="ltr" lang="en">I like michael</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مايكل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the michael?</span> |
 
 

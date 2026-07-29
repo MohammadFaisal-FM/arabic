@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | باناسونيك |
 | **Meaning** | panasonic |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا باناسونيك — This is panasonic |
-| أحب باناسونيك — I like panasonic |
-| وين باناسونيك؟ — Where is the panasonic? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا باناسونيك</span> | <span class="example-en" dir="ltr" lang="en">This is panasonic</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب باناسونيك</span> | <span class="example-en" dir="ltr" lang="en">I like panasonic</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين باناسونيك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the panasonic?</span> |
 
 

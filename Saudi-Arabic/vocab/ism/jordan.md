@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | الأردن |
 | **Meaning** | jordan |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا الأردن — This is jordan |
-| أحب الأردن — I like jordan |
-| وين الأردن؟ — Where is the jordan? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا الأردن</span> | <span class="example-en" dir="ltr" lang="en">This is jordan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب الأردن</span> | <span class="example-en" dir="ltr" lang="en">I like jordan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الأردن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jordan?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يونيكس |
 | **Meaning** | unix |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يونيكس — This is unix |
-| أحب يونيكس — I like unix |
-| وين يونيكس؟ — Where is the unix? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يونيكس</span> | <span class="example-en" dir="ltr" lang="en">This is unix</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يونيكس</span> | <span class="example-en" dir="ltr" lang="en">I like unix</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يونيكس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the unix?</span> |
 
 

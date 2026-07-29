@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | عنصرية |
 | **Meaning** | racism |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا عنصرية — This is racism |
-| أحب عنصرية — I like racism |
-| وين عنصرية؟ — Where is the racism? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا عنصرية</span> | <span class="example-en" dir="ltr" lang="en">This is racism</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب عنصرية</span> | <span class="example-en" dir="ltr" lang="en">I like racism</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين عنصرية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the racism?</span> |
 
 

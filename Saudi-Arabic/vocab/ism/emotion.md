@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | العاطفة |
 | **Meaning** | emotion |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا العاطفة — This is emotion |
-| أحب العاطفة — I like emotion |
-| وين العاطفة؟ — Where is the emotion? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا العاطفة</span> | <span class="example-en" dir="ltr" lang="en">This is emotion</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب العاطفة</span> | <span class="example-en" dir="ltr" lang="en">I like emotion</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين العاطفة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the emotion?</span> |
 
 

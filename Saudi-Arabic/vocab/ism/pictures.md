@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | صور |
 | **Meaning** | pictures |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا صور — This is pictures |
-| أحب صور — I like pictures |
-| وين صور؟ — Where is the pictures? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا صور</span> | <span class="example-en" dir="ltr" lang="en">This is pictures</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب صور</span> | <span class="example-en" dir="ltr" lang="en">I like pictures</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين صور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pictures?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | عيون |
 | **Meaning** | eyes |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا عيون — This is eyes |
-| أحب عيون — I like eyes |
-| وين عيون؟ — Where is the eyes? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا عيون</span> | <span class="example-en" dir="ltr" lang="en">This is eyes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب عيون</span> | <span class="example-en" dir="ltr" lang="en">I like eyes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين عيون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the eyes?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | المتكلم |
 | **Meaning** | speaker |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا المتكلم — This is speaker |
-| أحب المتكلم — I like speaker |
-| وين المتكلم؟ — Where is the speaker? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا المتكلم</span> | <span class="example-en" dir="ltr" lang="en">This is speaker</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب المتكلم</span> | <span class="example-en" dir="ltr" lang="en">I like speaker</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين المتكلم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the speaker?</span> |
 
 

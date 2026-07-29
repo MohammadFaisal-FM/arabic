@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | اِصطِلاحِيّ |
 | **Meaning** | technical |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا اِصطِلاحِيّ — This is technical |
-| أحب اِصطِلاحِيّ — I like technical |
-| وين اِصطِلاحِيّ؟ — Where is the technical? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا اِصطِلاحِيّ</span> | <span class="example-en" dir="ltr" lang="en">This is technical</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب اِصطِلاحِيّ</span> | <span class="example-en" dir="ltr" lang="en">I like technical</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين اِصطِلاحِيّ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the technical?</span> |
 
 

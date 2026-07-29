@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | صاحب العمل |
 | **Meaning** | employer |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا صاحب العمل — This is employer |
-| أحب صاحب العمل — I like employer |
-| وين صاحب العمل؟ — Where is the employer? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا صاحب العمل</span> | <span class="example-en" dir="ltr" lang="en">This is employer</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب صاحب العمل</span> | <span class="example-en" dir="ltr" lang="en">I like employer</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين صاحب العمل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the employer?</span> |
 
 

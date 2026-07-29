@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مسجل |
 | **Meaning** | recorder |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مسجل — This is recorder |
-| أحب مسجل — I like recorder |
-| وين مسجل؟ — Where is the recorder? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مسجل</span> | <span class="example-en" dir="ltr" lang="en">This is recorder</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مسجل</span> | <span class="example-en" dir="ltr" lang="en">I like recorder</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مسجل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the recorder?</span> |
 
 

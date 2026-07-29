@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مهارات |
 | **Meaning** | skills |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مهارات — This is skills |
-| أحب مهارات — I like skills |
-| وين مهارات؟ — Where is the skills? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مهارات</span> | <span class="example-en" dir="ltr" lang="en">This is skills</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مهارات</span> | <span class="example-en" dir="ltr" lang="en">I like skills</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مهارات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the skills?</span> |
 
 

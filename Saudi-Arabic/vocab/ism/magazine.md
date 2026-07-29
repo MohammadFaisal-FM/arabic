@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مجلة |
 | **Meaning** | magazine |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مجلة — This is magazine |
-| أحب مجلة — I like magazine |
-| وين مجلة؟ — Where is the magazine? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مجلة</span> | <span class="example-en" dir="ltr" lang="en">This is magazine</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مجلة</span> | <span class="example-en" dir="ltr" lang="en">I like magazine</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مجلة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the magazine?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | سيارة |
 | **Meaning** | car |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,11 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| سيارتي جديدة — My car is new |
-| هذا سيارة — This is a car |
-| أحب سيارة — I like car |
-| وين سيارة؟ — Where is the car? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">سيارتي جديدة</span> | <span class="example-en" dir="ltr" lang="en">My car is new</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا سيارة</span> | <span class="example-en" dir="ltr" lang="en">This is a car</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب سيارة</span> | <span class="example-en" dir="ltr" lang="en">I like car</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين سيارة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the car?</span> |
 
 

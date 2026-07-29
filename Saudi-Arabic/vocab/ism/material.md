@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مادة |
 | **Meaning** | material |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مادة — This is material |
-| أحب مادة — I like material |
-| وين مادة؟ — Where is the material? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مادة</span> | <span class="example-en" dir="ltr" lang="en">This is material</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مادة</span> | <span class="example-en" dir="ltr" lang="en">I like material</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مادة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the material?</span> |
 
 

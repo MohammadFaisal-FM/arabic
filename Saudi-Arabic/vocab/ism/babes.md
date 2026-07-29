@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | فاتنة |
 | **Meaning** | babes |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا فاتنة — This is babes |
-| أحب فاتنة — I like babes |
-| وين فاتنة؟ — Where is the babes? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا فاتنة</span> | <span class="example-en" dir="ltr" lang="en">This is babes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب فاتنة</span> | <span class="example-en" dir="ltr" lang="en">I like babes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين فاتنة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the babes?</span> |
 
 

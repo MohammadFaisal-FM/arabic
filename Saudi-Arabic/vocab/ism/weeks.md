@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | أسابيع |
 | **Meaning** | weeks |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا أسابيع — This is weeks |
-| أحب أسابيع — I like weeks |
-| وين أسابيع؟ — Where is the weeks? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا أسابيع</span> | <span class="example-en" dir="ltr" lang="en">This is weeks</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب أسابيع</span> | <span class="example-en" dir="ltr" lang="en">I like weeks</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين أسابيع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the weeks?</span> |
 
 

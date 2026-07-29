@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يكتشف |
 | **Meaning** | discover |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يكتشف — This is discover |
-| أحب يكتشف — I like discover |
-| وين يكتشف؟ — Where is the discover? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يكتشف</span> | <span class="example-en" dir="ltr" lang="en">This is discover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يكتشف</span> | <span class="example-en" dir="ltr" lang="en">I like discover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يكتشف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the discover?</span> |
 
 

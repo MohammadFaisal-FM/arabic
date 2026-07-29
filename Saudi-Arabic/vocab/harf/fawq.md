@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| فوق السطح — upstairs / on the roof |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">فوق السطح</span> | <span class="example-en" dir="ltr" lang="en">upstairs / on the roof</span> |
+

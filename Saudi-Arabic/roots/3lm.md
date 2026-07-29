@@ -10,9 +10,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| تعلّم عربي — Learn Arabic |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">تعلّم عربي</span> | <span class="example-en" dir="ltr" lang="en">Learn Arabic</span> |
+
 
 ---
 
@@ -26,7 +27,19 @@
 
 ---
 
-## Related-Words
+## Word types from this root
 
-No related words yet.
+| Type | Word | Notes / Example |
+|------|------|-----------------|
+| فعل · fiʿl (Form I) | [علم / يعلم · know (less used than يعرف)](#fil/3lm) | <span class="example-ar" dir="rtl" lang="ar">تعلّم عربي</span><br><span class="example-en" dir="ltr" lang="en">Learn Arabic</span> |
+| فعل · fiʿl (Form II) | [علّم / يعلّم · teach](#fil/3lm-ii) | <span class="example-ar" dir="rtl" lang="ar">تعلّم عربي</span><br><span class="example-en" dir="ltr" lang="en">Learn Arabic</span> |
+| فعل · fiʿl (Form V) | [تعلّم / يتعلّم · learn](#fil/3lm-v) | <span class="example-ar" dir="rtl" lang="ar">تعلّم عربي</span><br><span class="example-en" dir="ltr" lang="en">Learn Arabic</span> |
+| مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
+| اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
+| اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
+| اسم مكان · ism makān (place) | N/A | not common / not listed yet |
+| اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
+| اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
+| اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | N/A | not common / not listed yet |
 

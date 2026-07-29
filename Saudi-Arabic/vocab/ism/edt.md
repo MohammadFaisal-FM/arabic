@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | بتوقيت شرق الولايات المتحدة |
 | **Meaning** | edt |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا بتوقيت شرق الولايات المتحدة — This is edt |
-| أحب بتوقيت شرق الولايات المتحدة — I like edt |
-| وين بتوقيت شرق الولايات المتحدة؟ — Where is the edt? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا بتوقيت شرق الولايات المتحدة</span> | <span class="example-en" dir="ltr" lang="en">This is edt</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب بتوقيت شرق الولايات المتحدة</span> | <span class="example-en" dir="ltr" lang="en">I like edt</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين بتوقيت شرق الولايات المتحدة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the edt?</span> |
 
 

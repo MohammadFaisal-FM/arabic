@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | متنوعات |
 | **Meaning** | misc |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا متنوعات — This is misc |
-| أحب متنوعات — I like misc |
-| وين متنوعات؟ — Where is the misc? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا متنوعات</span> | <span class="example-en" dir="ltr" lang="en">This is misc</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب متنوعات</span> | <span class="example-en" dir="ltr" lang="en">I like misc</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين متنوعات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the misc?</span> |
 
 

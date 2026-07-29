@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | رخصة |
 | **Meaning** | license |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا رخصة — This is license |
-| أحب رخصة — I like license |
-| وين رخصة؟ — Where is the license? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا رخصة</span> | <span class="example-en" dir="ltr" lang="en">This is license</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب رخصة</span> | <span class="example-en" dir="ltr" lang="en">I like license</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين رخصة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the license?</span> |
 
 

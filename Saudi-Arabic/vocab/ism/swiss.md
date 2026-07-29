@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | سويسري |
 | **Meaning** | swiss |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا سويسري — This is swiss |
-| أحب سويسري — I like swiss |
-| وين سويسري؟ — Where is the swiss? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا سويسري</span> | <span class="example-en" dir="ltr" lang="en">This is swiss</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب سويسري</span> | <span class="example-en" dir="ltr" lang="en">I like swiss</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين سويسري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the swiss?</span> |
 
 

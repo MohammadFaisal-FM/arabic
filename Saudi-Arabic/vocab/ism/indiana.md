@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | إنديانا |
 | **Meaning** | indiana |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا إنديانا — This is indiana |
-| أحب إنديانا — I like indiana |
-| وين إنديانا؟ — Where is the indiana? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا إنديانا</span> | <span class="example-en" dir="ltr" lang="en">This is indiana</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب إنديانا</span> | <span class="example-en" dir="ltr" lang="en">I like indiana</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين إنديانا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the indiana?</span> |
 
 

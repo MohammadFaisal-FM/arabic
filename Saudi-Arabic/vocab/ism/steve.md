@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ستيف |
 | **Meaning** | steve |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ستيف — This is steve |
-| أحب ستيف — I like steve |
-| وين ستيف؟ — Where is the steve? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ستيف</span> | <span class="example-en" dir="ltr" lang="en">This is steve</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ستيف</span> | <span class="example-en" dir="ltr" lang="en">I like steve</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ستيف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the steve?</span> |
 
 

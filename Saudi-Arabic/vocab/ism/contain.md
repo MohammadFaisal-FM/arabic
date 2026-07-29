@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يحتوي |
 | **Meaning** | contain |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يحتوي — This is contain |
-| أحب يحتوي — I like contain |
-| وين يحتوي؟ — Where is the contain? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يحتوي</span> | <span class="example-en" dir="ltr" lang="en">This is contain</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يحتوي</span> | <span class="example-en" dir="ltr" lang="en">I like contain</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يحتوي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the contain?</span> |
 
 

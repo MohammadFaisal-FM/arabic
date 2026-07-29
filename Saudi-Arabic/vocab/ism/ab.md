@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | أب |
 | **Meaning** | father |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,11 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| أبي — my dad |
-| هذا أب — This is a father |
-| أحب أب — I like father |
-| وين أب؟ — Where is the father? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">أبي</span> | <span class="example-en" dir="ltr" lang="en">my dad</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا أب</span> | <span class="example-en" dir="ltr" lang="en">This is a father</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب أب</span> | <span class="example-en" dir="ltr" lang="en">I like father</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين أب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the father?</span> |
 
 

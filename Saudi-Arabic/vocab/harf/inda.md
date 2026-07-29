@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| عندي وقت — I have time |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">عندي وقت</span> | <span class="example-en" dir="ltr" lang="en">I have time</span> |
+

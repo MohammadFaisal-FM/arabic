@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | طبقة |
 | **Meaning** | layer |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا طبقة — This is layer |
-| أحب طبقة — I like layer |
-| وين طبقة؟ — Where is the layer? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا طبقة</span> | <span class="example-en" dir="ltr" lang="en">This is layer</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب طبقة</span> | <span class="example-en" dir="ltr" lang="en">I like layer</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين طبقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the layer?</span> |
 
 

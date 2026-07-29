@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | موضع |
 | **Meaning** | position |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا موضع — This is position |
-| أحب موضع — I like position |
-| وين موضع؟ — Where is the position? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا موضع</span> | <span class="example-en" dir="ltr" lang="en">This is position</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب موضع</span> | <span class="example-en" dir="ltr" lang="en">I like position</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين موضع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the position?</span> |
 
 

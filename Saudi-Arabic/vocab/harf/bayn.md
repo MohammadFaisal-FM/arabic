@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| بين البيت والشغل — between home and work |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">بين البيت والشغل</span> | <span class="example-en" dir="ltr" lang="en">between home and work</span> |
+

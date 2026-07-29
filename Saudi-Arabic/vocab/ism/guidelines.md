@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | المبادئ التوجيهية |
 | **Meaning** | guidelines |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا المبادئ التوجيهية — This is guidelines |
-| أحب المبادئ التوجيهية — I like guidelines |
-| وين المبادئ التوجيهية؟ — Where is the guidelines? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا المبادئ التوجيهية</span> | <span class="example-en" dir="ltr" lang="en">This is guidelines</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب المبادئ التوجيهية</span> | <span class="example-en" dir="ltr" lang="en">I like guidelines</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين المبادئ التوجيهية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the guidelines?</span> |
 
 

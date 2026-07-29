@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| كيف حالك؟ — How are you? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">كيف حالك؟</span> | <span class="example-en" dir="ltr" lang="en">How are you?</span> |
+

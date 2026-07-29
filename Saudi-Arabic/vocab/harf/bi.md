@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| بالسيارة — by car |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">بالسيارة</span> | <span class="example-en" dir="ltr" lang="en">by car</span> |
+

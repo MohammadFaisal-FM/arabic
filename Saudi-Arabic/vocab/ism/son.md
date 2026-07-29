@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ابن |
 | **Meaning** | son |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ابن — This is son |
-| أحب ابن — I like son |
-| وين ابن؟ — Where is the son? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ابن</span> | <span class="example-en" dir="ltr" lang="en">This is son</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ابن</span> | <span class="example-en" dir="ltr" lang="en">I like son</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ابن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the son?</span> |
 
 

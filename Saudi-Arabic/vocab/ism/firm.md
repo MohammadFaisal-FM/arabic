@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | حازم |
 | **Meaning** | firm |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا حازم — This is firm |
-| أحب حازم — I like firm |
-| وين حازم؟ — Where is the firm? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا حازم</span> | <span class="example-en" dir="ltr" lang="en">This is firm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب حازم</span> | <span class="example-en" dir="ltr" lang="en">I like firm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين حازم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the firm?</span> |
 
 

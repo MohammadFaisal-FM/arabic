@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مختصر |
 | **Meaning** | brief |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مختصر — This is brief |
-| أحب مختصر — I like brief |
-| وين مختصر؟ — Where is the brief? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مختصر</span> | <span class="example-en" dir="ltr" lang="en">This is brief</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مختصر</span> | <span class="example-en" dir="ltr" lang="en">I like brief</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مختصر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the brief?</span> |
 
 

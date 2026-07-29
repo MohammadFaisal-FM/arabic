@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | تسجيل |
 | **Meaning** | recording |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا تسجيل — This is recording |
-| أحب تسجيل — I like recording |
-| وين تسجيل؟ — Where is the recording? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا تسجيل</span> | <span class="example-en" dir="ltr" lang="en">This is recording</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب تسجيل</span> | <span class="example-en" dir="ltr" lang="en">I like recording</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين تسجيل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the recording?</span> |
 
 

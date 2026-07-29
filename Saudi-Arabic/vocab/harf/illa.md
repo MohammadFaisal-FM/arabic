@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| ما أحد إلا أنت — nobody except you |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">ما أحد إلا أنت</span> | <span class="example-en" dir="ltr" lang="en">nobody except you</span> |
+

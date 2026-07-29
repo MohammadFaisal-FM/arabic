@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | بطاقة |
 | **Meaning** | card |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,11 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| بطاقتي — My card |
-| هذا بطاقة — This is a card |
-| أحب بطاقة — I like card |
-| وين بطاقة؟ — Where is the card? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">بطاقتي</span> | <span class="example-en" dir="ltr" lang="en">My card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا بطاقة</span> | <span class="example-en" dir="ltr" lang="en">This is a card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب بطاقة</span> | <span class="example-en" dir="ltr" lang="en">I like card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين بطاقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the card?</span> |
 
 

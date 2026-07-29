@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | محل |
 | **Meaning** | shop |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,11 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| المحل قريب — The store is nearby |
-| هذا محل — This is a shop |
-| أحب محل — I like shop |
-| وين محل؟ — Where is the shop? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">المحل قريب</span> | <span class="example-en" dir="ltr" lang="en">The store is nearby</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا محل</span> | <span class="example-en" dir="ltr" lang="en">This is a shop</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب محل</span> | <span class="example-en" dir="ltr" lang="en">I like shop</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين محل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the shop?</span> |
 
 

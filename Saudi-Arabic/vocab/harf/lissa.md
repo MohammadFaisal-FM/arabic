@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| لسه ما وصلت — I still haven’t arrived |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">لسه ما وصلت</span> | <span class="example-en" dir="ltr" lang="en">I still haven’t arrived</span> |
+

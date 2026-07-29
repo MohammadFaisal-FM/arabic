@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | نادر |
 | **Meaning** | rare |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا نادر — This is rare |
-| أحب نادر — I like rare |
-| وين نادر؟ — Where is the rare? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا نادر</span> | <span class="example-en" dir="ltr" lang="en">This is rare</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب نادر</span> | <span class="example-en" dir="ltr" lang="en">I like rare</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين نادر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rare?</span> |
 
 

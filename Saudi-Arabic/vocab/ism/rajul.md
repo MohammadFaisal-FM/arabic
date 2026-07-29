@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | رجل |
 | **Meaning** | man |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا رجل — This is a man |
-| أحب رجل — I like man |
-| وين رجل؟ — Where is the man? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا رجل</span> | <span class="example-en" dir="ltr" lang="en">This is a man</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب رجل</span> | <span class="example-en" dir="ltr" lang="en">I like man</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين رجل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the man?</span> |
 
 

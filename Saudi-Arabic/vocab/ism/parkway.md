@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | باركواي |
 | **Meaning** | parkway |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا باركواي — This is parkway |
-| أحب باركواي — I like parkway |
-| وين باركواي؟ — Where is the parkway? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا باركواي</span> | <span class="example-en" dir="ltr" lang="en">This is parkway</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب باركواي</span> | <span class="example-en" dir="ltr" lang="en">I like parkway</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين باركواي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the parkway?</span> |
 
 

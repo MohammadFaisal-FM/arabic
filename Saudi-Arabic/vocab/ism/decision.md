@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | قرار |
 | **Meaning** | decision |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا قرار — This is decision |
-| أحب قرار — I like decision |
-| وين قرار؟ — Where is the decision? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا قرار</span> | <span class="example-en" dir="ltr" lang="en">This is decision</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب قرار</span> | <span class="example-en" dir="ltr" lang="en">I like decision</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين قرار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the decision?</span> |
 
 

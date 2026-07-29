@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | الضباط |
 | **Meaning** | officers |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا الضباط — This is officers |
-| أحب الضباط — I like officers |
-| وين الضباط؟ — Where is the officers? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا الضباط</span> | <span class="example-en" dir="ltr" lang="en">This is officers</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب الضباط</span> | <span class="example-en" dir="ltr" lang="en">I like officers</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الضباط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the officers?</span> |
 
 

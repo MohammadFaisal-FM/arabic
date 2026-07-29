@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | العمل الجماعي |
 | **Meaning** | teamwork |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا العمل الجماعي — This is teamwork |
-| أحب العمل الجماعي — I like teamwork |
-| وين العمل الجماعي؟ — Where is the teamwork? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا العمل الجماعي</span> | <span class="example-en" dir="ltr" lang="en">This is teamwork</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب العمل الجماعي</span> | <span class="example-en" dir="ltr" lang="en">I like teamwork</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين العمل الجماعي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the teamwork?</span> |
 
 

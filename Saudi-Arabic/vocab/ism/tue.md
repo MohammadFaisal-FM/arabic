@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | الثلاثاء |
 | **Meaning** | tue |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا الثلاثاء — This is tue |
-| أحب الثلاثاء — I like tue |
-| وين الثلاثاء؟ — Where is the tue? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا الثلاثاء</span> | <span class="example-en" dir="ltr" lang="en">This is tue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب الثلاثاء</span> | <span class="example-en" dir="ltr" lang="en">I like tue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الثلاثاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tue?</span> |
 
 

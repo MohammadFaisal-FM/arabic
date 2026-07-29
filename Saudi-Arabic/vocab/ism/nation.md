@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | أمة |
 | **Meaning** | nation |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا أمة — This is nation |
-| أحب أمة — I like nation |
-| وين أمة؟ — Where is the nation? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا أمة</span> | <span class="example-en" dir="ltr" lang="en">This is nation</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب أمة</span> | <span class="example-en" dir="ltr" lang="en">I like nation</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين أمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the nation?</span> |
 
 

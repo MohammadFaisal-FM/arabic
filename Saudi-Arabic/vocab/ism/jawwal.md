@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | loan |
+| **Subtype** | دخيل · loanword |
 | **Arabic** | جوال |
 | **Meaning** | mobile phone (Gulf) |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,11 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| وين جوالي؟ — Where is my phone? |
-| هذا جوال — This is a mobile phone (gulf) |
-| أحب جوال — I like mobile phone (gulf) |
-| وين جوال؟ — Where is the mobile phone (gulf)? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">وين جوالي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is my phone?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا جوال</span> | <span class="example-en" dir="ltr" lang="en">This is a mobile phone (gulf)</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب جوال</span> | <span class="example-en" dir="ltr" lang="en">I like mobile phone (gulf)</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين جوال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mobile phone (gulf)?</span> |
 
 

@@ -120,21 +120,109 @@
       "id": "akhd",
       "root": "أ-خ-ذ",
       "letter": "أ",
-      "meaning": "taking",
+      "meaning": "taking / getting",
       "formI": "أخذ / ياخذ",
-      "example": "أخذت المفتاح — I took the key",
+      "example": "أخذت اللازانيا من المطعم لأنّي أحب الأكل الإيطالي، وبعدها رجعت البيت وأنا مبسوط — I picked up lasagna from the restaurant because I like Italian food, then I went back home happy.",
       "file": "roots/akhd.md",
-      "forms": null,
+      "forms": [
+        {
+          "form": "I",
+          "verb": "أخذ / ياخذ",
+          "example": "أخذت اللازانيا من المطعم لأنّي أحب الأكل الإيطالي، وبعدها رجعت البيت وأنا مبسوط — I picked up lasagna from the restaurant because I like Italian food, then I went back home happy.",
+          "conjExamples": [
+            {
+              "ar": "أخذت المظلة من السيارة قبل المطر، وبعدها دخلت المكتب بسرعة",
+              "en": "I took the umbrella from the car before the rain, then I went into the office quickly"
+            },
+            {
+              "ar": "ناخذ استراحة قصيرة بعد الشغل عشان نرتاح قبل العشا",
+              "en": "We take a short break after work so we can rest before dinner"
+            },
+            {
+              "ar": "بتاخذ التذكرة من التطبيق إذا خلص الدفع",
+              "en": "You (m.) will get the ticket from the app if the payment goes through"
+            },
+            {
+              "ar": "أخذتي الشنطة من الرف، بس لا تنسين المفاتيح جوه",
+              "en": "You (f.) took the bag from the shelf, but don’t forget the keys inside"
+            },
+            {
+              "ar": "تاخذون دروس سباحة كل جمعة لأن المسبح قريب من البيت",
+              "en": "You (pl.) take swimming lessons every Friday because the pool is near the house"
+            },
+            {
+              "ar": "بياخذ إجازة أسبوع عشان يزور أهله في القصيم",
+              "en": "He will take a week off so he can visit his family in Qassim"
+            },
+            {
+              "ar": "أخذت الدواء بعد الفطور، وبعدين نامت شوي",
+              "en": "She took the medicine after breakfast, then she slept a bit"
+            },
+            {
+              "ar": "ياخذون تاكسي للمطار لأن الباص متأخر اليوم",
+              "en": "They take a taxi to the airport because the bus is late today"
+            }
+          ]
+        },
+        {
+          "form": "VIII",
+          "verb": "اتخذ / يتخذ",
+          "note": "adopt / take a decision",
+          "filId": "akhd-viii",
+          "example": "اتخذنا قرار نروح الطائف في الويكند لأن الجو أبرد من جدة — We decided to go to Taif on the weekend because the weather is cooler than Jeddah.",
+          "conjExamples": [
+            {
+              "ar": "اتخذت موقف واضح في الاجتماع، لأن الموضوع يهم الفريق كله",
+              "en": "I took a clear stance in the meeting, because the topic matters to the whole team"
+            },
+            {
+              "ar": "نتخذ خطوات بطيئة في المشروع عشان ما نغلط في التفاصيل",
+              "en": "We take slow steps on the project so we don’t mess up the details"
+            },
+            {
+              "ar": "بتتخذ قرار السفر بعد ما تشوف الأسعار والفنادق",
+              "en": "You (m.) will decide on travel after you check prices and hotels"
+            },
+            {
+              "ar": "اتخذتي أسلوب هادي مع الأطفال، وبعدين صار الصف أهدى",
+              "en": "You (f.) adopted a calm approach with the kids, then the class got quieter"
+            },
+            {
+              "ar": "تتخذون سياسة جديدة في الشركة لأن الشكاوى كثرت",
+              "en": "You (pl.) are adopting a new company policy because complaints increased"
+            },
+            {
+              "ar": "بيتخذ خطة ادخار شهرية عشان يشتري سيارة مستعملة",
+              "en": "He will adopt a monthly saving plan so he can buy a used car"
+            },
+            {
+              "ar": "اتخذت اسم مستعار في المنتدى لأنها تبغى خصوصية أكثر",
+              "en": "She adopted a nickname on the forum because she wants more privacy"
+            },
+            {
+              "ar": "يتخذون موقف محايد في النقاش عشان ما يصير سوء فهم",
+              "en": "They take a neutral stance in the discussion so there is no misunderstanding"
+            }
+          ]
+        }
+      ],
       "filId": "akhd",
-      "ismIds": []
+      "ismIds": [
+        "online-032",
+        "akhdh",
+        "aakhidh",
+        "makhudh",
+        "makhadh",
+        "muakhadhah"
+      ]
     },
     {
       "id": "akl",
       "root": "أ-ك-ل",
       "letter": "أ",
-      "meaning": "eating",
+      "meaning": "eating / consuming",
       "formI": "أكل / ياكل",
-      "example": "أكلت رز — I ate rice",
+      "example": "أكلنا رز ودجاج — We ate rice and chicken",
       "file": "roots/akl.md",
       "forms": null,
       "filId": "akl",

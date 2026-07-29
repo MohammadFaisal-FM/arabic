@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| قدام الباب — in front of the door |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">قدام الباب</span> | <span class="example-en" dir="ltr" lang="en">in front of the door</span> |
+

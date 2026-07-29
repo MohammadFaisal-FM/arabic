@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مكتمل |
 | **Meaning** | complete |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مكتمل — This is complete |
-| أحب مكتمل — I like complete |
-| وين مكتمل؟ — Where is the complete? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مكتمل</span> | <span class="example-en" dir="ltr" lang="en">This is complete</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مكتمل</span> | <span class="example-en" dir="ltr" lang="en">I like complete</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مكتمل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the complete?</span> |
 
 

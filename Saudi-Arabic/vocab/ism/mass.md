@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | كتلة |
 | **Meaning** | mass |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا كتلة — This is mass |
-| أحب كتلة — I like mass |
-| وين كتلة؟ — Where is the mass? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا كتلة</span> | <span class="example-en" dir="ltr" lang="en">This is mass</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب كتلة</span> | <span class="example-en" dir="ltr" lang="en">I like mass</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين كتلة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mass?</span> |
 
 

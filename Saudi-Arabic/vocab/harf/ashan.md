@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| أدرس عشان الاختبار — I study for the exam |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">أدرس عشان الاختبار</span> | <span class="example-en" dir="ltr" lang="en">I study for the exam</span> |
+

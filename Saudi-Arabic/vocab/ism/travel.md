@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يسافر |
 | **Meaning** | travel |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يسافر — This is travel |
-| أحب يسافر — I like travel |
-| وين يسافر؟ — Where is the travel? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يسافر</span> | <span class="example-en" dir="ltr" lang="en">This is travel</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يسافر</span> | <span class="example-en" dir="ltr" lang="en">I like travel</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يسافر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the travel?</span> |
 
 

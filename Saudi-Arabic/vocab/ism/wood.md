@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | خشب |
 | **Meaning** | wood |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا خشب — This is wood |
-| أحب خشب — I like wood |
-| وين خشب؟ — Where is the wood? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا خشب</span> | <span class="example-en" dir="ltr" lang="en">This is wood</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب خشب</span> | <span class="example-en" dir="ltr" lang="en">I like wood</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين خشب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wood?</span> |
 
 

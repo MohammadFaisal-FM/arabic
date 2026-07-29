@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | تجاري |
 | **Meaning** | commercial |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا تجاري — This is commercial |
-| أحب تجاري — I like commercial |
-| وين تجاري؟ — Where is the commercial? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا تجاري</span> | <span class="example-en" dir="ltr" lang="en">This is commercial</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب تجاري</span> | <span class="example-en" dir="ltr" lang="en">I like commercial</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين تجاري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the commercial?</span> |
 
 

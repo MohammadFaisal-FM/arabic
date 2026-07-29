@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | عامل |
 | **Meaning** | worker |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا عامل — This is worker |
-| أحب عامل — I like worker |
-| وين عامل؟ — Where is the worker? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا عامل</span> | <span class="example-en" dir="ltr" lang="en">This is worker</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب عامل</span> | <span class="example-en" dir="ltr" lang="en">I like worker</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين عامل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the worker?</span> |
 
 

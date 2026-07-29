@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| على الطاولة — on the table |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">على الطاولة</span> | <span class="example-en" dir="ltr" lang="en">on the table</span> |
+

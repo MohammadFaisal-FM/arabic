@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | غرفة نوم |
 | **Meaning** | bedroom |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا غرفة نوم — This is bedroom |
-| أحب غرفة نوم — I like bedroom |
-| وين غرفة نوم؟ — Where is the bedroom? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا غرفة نوم</span> | <span class="example-en" dir="ltr" lang="en">This is bedroom</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب غرفة نوم</span> | <span class="example-en" dir="ltr" lang="en">I like bedroom</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين غرفة نوم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bedroom?</span> |
 
 

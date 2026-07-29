@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | شارلوت |
 | **Meaning** | charlotte |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا شارلوت — This is charlotte |
-| أحب شارلوت — I like charlotte |
-| وين شارلوت؟ — Where is the charlotte? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا شارلوت</span> | <span class="example-en" dir="ltr" lang="en">This is charlotte</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب شارلوت</span> | <span class="example-en" dir="ltr" lang="en">I like charlotte</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين شارلوت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the charlotte?</span> |
 
 

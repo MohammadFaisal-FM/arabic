@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | قريب |
 | **Meaning** | nearby |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا قريب — This is nearby |
-| أحب قريب — I like nearby |
-| وين قريب؟ — Where is the nearby? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا قريب</span> | <span class="example-en" dir="ltr" lang="en">This is nearby</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب قريب</span> | <span class="example-en" dir="ltr" lang="en">I like nearby</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين قريب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the nearby?</span> |
 
 

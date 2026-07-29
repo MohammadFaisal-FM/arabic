@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مسار |
 | **Meaning** | track |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مسار — This is track |
-| أحب مسار — I like track |
-| وين مسار؟ — Where is the track? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مسار</span> | <span class="example-en" dir="ltr" lang="en">This is track</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مسار</span> | <span class="example-en" dir="ltr" lang="en">I like track</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مسار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the track?</span> |
 
 

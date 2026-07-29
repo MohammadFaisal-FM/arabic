@@ -10,9 +10,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| كبر الولد — The boy grew up |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">كبر الولد</span> | <span class="example-en" dir="ltr" lang="en">The boy grew up</span> |
+
 
 ---
 
@@ -20,11 +21,21 @@
 
 | Form | Past / present | Fiʿl |
 |------|----------------|------|
-| I | كبر / يكبر | [Open](#fil/kbr) |
+| I | كبر / يكبر · base meaning: growing / being big | [Open](#fil/kbr) |
 
 ---
 
-## Related-Words
+## Word types from this root
 
-No related words yet.
+| Type | Word | Notes / Example |
+|------|------|-----------------|
+| فعل · fiʿl (Form I) | [كبر / يكبر · base meaning: growing / being big](#fil/kbr) | <span class="example-ar" dir="rtl" lang="ar">كبر الولد</span><br><span class="example-en" dir="ltr" lang="en">The boy grew up</span> |
+| مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
+| اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
+| اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
+| اسم مكان · ism makān (place) | N/A | not common / not listed yet |
+| اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
+| اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
+| اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | N/A | not common / not listed yet |
 

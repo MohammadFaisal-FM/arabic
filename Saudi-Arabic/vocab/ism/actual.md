@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | فِعلي |
 | **Meaning** | actual |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا فِعلي — This is actual |
-| أحب فِعلي — I like actual |
-| وين فِعلي؟ — Where is the actual? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا فِعلي</span> | <span class="example-en" dir="ltr" lang="en">This is actual</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب فِعلي</span> | <span class="example-en" dir="ltr" lang="en">I like actual</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين فِعلي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the actual?</span> |
 
 

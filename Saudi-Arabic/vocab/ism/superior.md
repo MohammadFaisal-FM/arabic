@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | أرقى |
 | **Meaning** | superior |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا أرقى — This is superior |
-| أحب أرقى — I like superior |
-| وين أرقى؟ — Where is the superior? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا أرقى</span> | <span class="example-en" dir="ltr" lang="en">This is superior</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب أرقى</span> | <span class="example-en" dir="ltr" lang="en">I like superior</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين أرقى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the superior?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | place |
+| **Subtype** | اسم مكان · ism makān (place) |
 | **Arabic** | مطبخ |
 | **Meaning** | kitchen |
 | **Root** | [ط-ب-خ](#roots/tbkh) |
@@ -12,18 +12,15 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| في المطبخ — In the kitchen |
-| هذا مطبخ — This is a kitchen |
-| أحب مطبخ — I like kitchen |
-| وين مطبخ؟ — Where is the kitchen? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">في المطبخ</span> | <span class="example-en" dir="ltr" lang="en">In the kitchen</span> |
 
 
 ### Links
 
 | | |
 |-|-|
-| **Root** | [ط-ب-خ](#roots/tbkh) |
+| **Root family** | [ط-ب-خ](#roots/tbkh) — see all word types |
 | **Fiʿl** | [طبخ / يطبخ](#fil/tbkh) |
 

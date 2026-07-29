@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | استراحه |
 | **Meaning** | reposing, resting |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,11 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| لنأخذ استراحة قصيرة. — Let's take a short break. |
-| هذا استراحه — This is a reposing |
-| أحب استراحه — I like reposing |
-| وين استراحه؟ — Where is the reposing? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">لنأخذ استراحة قصيرة.</span> | <span class="example-en" dir="ltr" lang="en">Let's take a short break.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا استراحه</span> | <span class="example-en" dir="ltr" lang="en">This is a reposing</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب استراحه</span> | <span class="example-en" dir="ltr" lang="en">I like reposing</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين استراحه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reposing?</span> |
 
 

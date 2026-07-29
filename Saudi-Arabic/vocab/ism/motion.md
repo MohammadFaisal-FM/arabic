@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | حركة |
 | **Meaning** | motion |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا حركة — This is motion |
-| أحب حركة — I like motion |
-| وين حركة؟ — Where is the motion? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا حركة</span> | <span class="example-en" dir="ltr" lang="en">This is motion</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب حركة</span> | <span class="example-en" dir="ltr" lang="en">I like motion</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين حركة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the motion?</span> |
 
 

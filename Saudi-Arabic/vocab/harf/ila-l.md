@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| لك — for you |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">لك</span> | <span class="example-en" dir="ltr" lang="en">for you</span> |
+

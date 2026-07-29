@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | إيجار |
 | **Meaning** | lease |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا إيجار — This is lease |
-| أحب إيجار — I like lease |
-| وين إيجار؟ — Where is the lease? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا إيجار</span> | <span class="example-en" dir="ltr" lang="en">This is lease</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب إيجار</span> | <span class="example-en" dir="ltr" lang="en">I like lease</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين إيجار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lease?</span> |
 
 

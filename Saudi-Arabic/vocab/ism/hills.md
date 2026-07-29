@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | التلال |
 | **Meaning** | hills |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا التلال — This is hills |
-| أحب التلال — I like hills |
-| وين التلال؟ — Where is the hills? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا التلال</span> | <span class="example-en" dir="ltr" lang="en">This is hills</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب التلال</span> | <span class="example-en" dir="ltr" lang="en">I like hills</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين التلال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hills?</span> |
 
 

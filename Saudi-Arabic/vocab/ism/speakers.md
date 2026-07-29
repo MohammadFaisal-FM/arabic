@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مكبرات الصوت |
 | **Meaning** | speakers |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مكبرات الصوت — This is speakers |
-| أحب مكبرات الصوت — I like speakers |
-| وين مكبرات الصوت؟ — Where is the speakers? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مكبرات الصوت</span> | <span class="example-en" dir="ltr" lang="en">This is speakers</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مكبرات الصوت</span> | <span class="example-en" dir="ltr" lang="en">I like speakers</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مكبرات الصوت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the speakers?</span> |
 
 

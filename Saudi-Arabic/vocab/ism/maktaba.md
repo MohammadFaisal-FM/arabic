@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | place |
+| **Subtype** | اسم مكان · ism makān (place) |
 | **Arabic** | مكتبة |
 | **Meaning** | library / bookstore |
 | **Root** | [ك-ت-ب](#roots/ktb) |
@@ -12,18 +12,15 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| رحت المكتبة — I went to the library |
-| هذا مكتبة — This is a library |
-| أحب مكتبة — I like library |
-| وين مكتبة؟ — Where is the library? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">رحت المكتبة</span> | <span class="example-en" dir="ltr" lang="en">I went to the library</span> |
 
 
 ### Links
 
 | | |
 |-|-|
-| **Root** | [ك-ت-ب](#roots/ktb) |
+| **Root family** | [ك-ت-ب](#roots/ktb) — see all word types |
 | **Fiʿl** | [كتب / يكتب](#fil/ktb) |
 

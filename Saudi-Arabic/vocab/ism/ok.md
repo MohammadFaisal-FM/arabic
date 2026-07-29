@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | loan |
+| **Subtype** | دخيل · loanword |
 | **Arabic** | أوكي |
 | **Meaning** | OK |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,11 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| أوكي تمام — Okay, okay |
-| هذا أوكي — This is a ok |
-| أحب أوكي — I like ok |
-| وين أوكي؟ — Where is the ok? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">أوكي تمام</span> | <span class="example-en" dir="ltr" lang="en">Okay, okay</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا أوكي</span> | <span class="example-en" dir="ltr" lang="en">This is a ok</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب أوكي</span> | <span class="example-en" dir="ltr" lang="en">I like ok</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين أوكي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ok?</span> |
 
 

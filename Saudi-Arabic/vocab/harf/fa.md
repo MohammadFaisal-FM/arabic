@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| فـخلاص — so that’s it |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">فـخلاص</span> | <span class="example-en" dir="ltr" lang="en">so that’s it</span> |
+

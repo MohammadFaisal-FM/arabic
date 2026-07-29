@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | معلومات |
 | **Meaning** | info |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا معلومات — This is info |
-| أحب معلومات — I like info |
-| وين معلومات؟ — Where is the info? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا معلومات</span> | <span class="example-en" dir="ltr" lang="en">This is info</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب معلومات</span> | <span class="example-en" dir="ltr" lang="en">I like info</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين معلومات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the info?</span> |
 
 

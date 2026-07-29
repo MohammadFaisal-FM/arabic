@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | جينز |
 | **Meaning** | jeans |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا جينز — This is jeans |
-| أحب جينز — I like jeans |
-| وين جينز؟ — Where is the jeans? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا جينز</span> | <span class="example-en" dir="ltr" lang="en">This is jeans</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب جينز</span> | <span class="example-en" dir="ltr" lang="en">I like jeans</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين جينز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jeans?</span> |
 
 

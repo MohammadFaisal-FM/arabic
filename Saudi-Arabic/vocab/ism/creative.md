@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مبدع |
 | **Meaning** | creative |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مبدع — This is creative |
-| أحب مبدع — I like creative |
-| وين مبدع؟ — Where is the creative? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مبدع</span> | <span class="example-en" dir="ltr" lang="en">This is creative</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مبدع</span> | <span class="example-en" dir="ltr" lang="en">I like creative</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مبدع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the creative?</span> |
 
 

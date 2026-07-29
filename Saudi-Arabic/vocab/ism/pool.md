@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | حمام سباحة |
 | **Meaning** | pool |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا حمام سباحة — This is pool |
-| أحب حمام سباحة — I like pool |
-| وين حمام سباحة؟ — Where is the pool? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا حمام سباحة</span> | <span class="example-en" dir="ltr" lang="en">This is pool</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب حمام سباحة</span> | <span class="example-en" dir="ltr" lang="en">I like pool</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين حمام سباحة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pool?</span> |
 
 

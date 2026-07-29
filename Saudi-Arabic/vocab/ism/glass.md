@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | زجاج |
 | **Meaning** | glass |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا زجاج — This is glass |
-| أحب زجاج — I like glass |
-| وين زجاج؟ — Where is the glass? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا زجاج</span> | <span class="example-en" dir="ltr" lang="en">This is glass</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب زجاج</span> | <span class="example-en" dir="ltr" lang="en">I like glass</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين زجاج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the glass?</span> |
 
 

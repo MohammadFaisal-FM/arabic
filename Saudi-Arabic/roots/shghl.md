@@ -10,9 +10,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| وين تشتغل؟ — Where do you work? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">وين تشتغل؟</span> | <span class="example-en" dir="ltr" lang="en">Where do you work?</span> |
+
 
 ---
 
@@ -20,14 +21,23 @@
 
 | Form | Past / present | Fiʿl |
 |------|----------------|------|
-| I | شغل / يشغل | [Open](#fil/shghl) |
+| I | شغل / يشغل · base meaning: working / occupying | [Open](#fil/shghl) |
 | VIII | اشتغل / يشتغل · work (very common) | [Open](#fil/shghl-viii) |
 
 ---
 
-## Related-Words
+## Word types from this root
 
-| Type | Word | Example |
-|------|------|---------|
-| اسم · ism (noun) | شغل | عندي شغل — I have a job |
+| Type | Word | Notes / Example |
+|------|------|-----------------|
+| فعل · fiʿl (Form I) | [شغل / يشغل · base meaning: working / occupying](#fil/shghl) | <span class="example-ar" dir="rtl" lang="ar">وين تشتغل؟</span><br><span class="example-en" dir="ltr" lang="en">Where do you work?</span> |
+| فعل · fiʿl (Form VIII) | [اشتغل / يشتغل · work (very common)](#fil/shghl-viii) | <span class="example-ar" dir="rtl" lang="ar">وين تشتغل؟</span><br><span class="example-en" dir="ltr" lang="en">Where do you work?</span> |
+| مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
+| اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
+| اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
+| اسم مكان · ism makān (place) | N/A | not common / not listed yet |
+| اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
+| اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
+| اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | [شغل](#ism/shoghl) | <span class="example-ar" dir="rtl" lang="ar">عندي شغل</span><br><span class="example-en" dir="ltr" lang="en">I have a job</span> |
 

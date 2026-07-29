@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | أي شخص |
 | **Meaning** | anyone |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا أي شخص — This is anyone |
-| أحب أي شخص — I like anyone |
-| وين أي شخص؟ — Where is the anyone? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا أي شخص</span> | <span class="example-en" dir="ltr" lang="en">This is anyone</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب أي شخص</span> | <span class="example-en" dir="ltr" lang="en">I like anyone</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين أي شخص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the anyone?</span> |
 
 

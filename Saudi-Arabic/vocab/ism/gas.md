@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | غاز |
 | **Meaning** | gas |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا غاز — This is gas |
-| أحب غاز — I like gas |
-| وين غاز؟ — Where is the gas? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا غاز</span> | <span class="example-en" dir="ltr" lang="en">This is gas</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب غاز</span> | <span class="example-en" dir="ltr" lang="en">I like gas</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين غاز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the gas?</span> |
 
 

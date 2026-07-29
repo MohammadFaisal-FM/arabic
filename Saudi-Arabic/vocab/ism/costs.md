@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | التكاليف |
 | **Meaning** | costs |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا التكاليف — This is costs |
-| أحب التكاليف — I like costs |
-| وين التكاليف؟ — Where is the costs? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا التكاليف</span> | <span class="example-en" dir="ltr" lang="en">This is costs</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب التكاليف</span> | <span class="example-en" dir="ltr" lang="en">I like costs</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين التكاليف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the costs?</span> |
 
 

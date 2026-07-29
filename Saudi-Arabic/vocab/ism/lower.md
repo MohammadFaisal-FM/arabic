@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | أدنى |
 | **Meaning** | lower |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا أدنى — This is lower |
-| أحب أدنى — I like lower |
-| وين أدنى؟ — Where is the lower? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا أدنى</span> | <span class="example-en" dir="ltr" lang="en">This is lower</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب أدنى</span> | <span class="example-en" dir="ltr" lang="en">I like lower</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين أدنى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lower?</span> |
 
 

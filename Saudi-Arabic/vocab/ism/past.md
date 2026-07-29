@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ماضي |
 | **Meaning** | past |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ماضي — This is past |
-| أحب ماضي — I like past |
-| وين ماضي؟ — Where is the past? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ماضي</span> | <span class="example-en" dir="ltr" lang="en">This is past</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ماضي</span> | <span class="example-en" dir="ltr" lang="en">I like past</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ماضي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the past?</span> |
 
 

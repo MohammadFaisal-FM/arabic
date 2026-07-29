@@ -12,8 +12,8 @@ High-frequency everyday Arabic roots for learners (Saudi/Najdi focus). Not a com
 
 | Root | Meaning | File |
 |------|---------|------|
-| أ-خ-ذ | taking | [akhd.md](akhd.md) |
-| أ-ك-ل | eating | [akl.md](akl.md) |
+| أ-خ-ذ | taking / getting | [akhd.md](akhd.md) |
+| أ-ك-ل | eating / consuming | [akl.md](akl.md) |
 | أ-م-ر | ordering / commanding | [amr.md](amr.md) |
 | أ-ت-ي | coming / bringing | [aty.md](aty.md) |
 

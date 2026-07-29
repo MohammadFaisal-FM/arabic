@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | قمة |
 | **Meaning** | peak |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا قمة — This is peak |
-| أحب قمة — I like peak |
-| وين قمة؟ — Where is the peak? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا قمة</span> | <span class="example-en" dir="ltr" lang="en">This is peak</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب قمة</span> | <span class="example-en" dir="ltr" lang="en">I like peak</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين قمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the peak?</span> |
 
 

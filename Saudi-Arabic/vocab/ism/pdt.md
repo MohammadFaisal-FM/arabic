@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | التوقيت الصيفى الباسيفيكى |
 | **Meaning** | pdt |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا التوقيت الصيفى الباسيفيكى — This is pdt |
-| أحب التوقيت الصيفى الباسيفيكى — I like pdt |
-| وين التوقيت الصيفى الباسيفيكى؟ — Where is the pdt? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا التوقيت الصيفى الباسيفيكى</span> | <span class="example-en" dir="ltr" lang="en">This is pdt</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب التوقيت الصيفى الباسيفيكى</span> | <span class="example-en" dir="ltr" lang="en">I like pdt</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين التوقيت الصيفى الباسيفيكى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pdt?</span> |
 
 

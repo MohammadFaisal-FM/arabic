@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يحكم على |
 | **Meaning** | judge |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يحكم على — This is judge |
-| أحب يحكم على — I like judge |
-| وين يحكم على؟ — Where is the judge? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يحكم على</span> | <span class="example-en" dir="ltr" lang="en">This is judge</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يحكم على</span> | <span class="example-en" dir="ltr" lang="en">I like judge</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يحكم على؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the judge?</span> |
 
 

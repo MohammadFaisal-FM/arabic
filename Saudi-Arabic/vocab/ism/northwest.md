@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | شمال غرب |
 | **Meaning** | northwest |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا شمال غرب — This is northwest |
-| أحب شمال غرب — I like northwest |
-| وين شمال غرب؟ — Where is the northwest? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا شمال غرب</span> | <span class="example-en" dir="ltr" lang="en">This is northwest</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب شمال غرب</span> | <span class="example-en" dir="ltr" lang="en">I like northwest</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين شمال غرب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the northwest?</span> |
 
 

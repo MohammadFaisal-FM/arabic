@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يحسن |
 | **Meaning** | improve |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يحسن — This is improve |
-| أحب يحسن — I like improve |
-| وين يحسن؟ — Where is the improve? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يحسن</span> | <span class="example-en" dir="ltr" lang="en">This is improve</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يحسن</span> | <span class="example-en" dir="ltr" lang="en">I like improve</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يحسن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the improve?</span> |
 
 

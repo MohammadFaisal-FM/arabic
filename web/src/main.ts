@@ -1,5 +1,6 @@
 import { marked } from 'marked';
 import './style.css';
+import { stopArabicSpeech, wireArabicAudio } from './tts';
 
 const BASE = import.meta.env.BASE_URL;
 
@@ -133,6 +134,115 @@ let lyricsManifest: LyricsManifest | null = null;
 let rootsManifest: RootsManifest | null = null;
 const wordManifests: Partial<Record<WordKind, WordManifest>> = {};
 
+/** Remember scroll per location hash so Back restores the exact spot. */
+const scrollByHash: Record<string, { main: number; window: number }> = {};
+const expandedLettersByKey: Record<string, Set<string>> = {};
+/** When true, next restore scrolls to top (bottom-tab escape hatch). */
+let forceScrollTopOnce = false;
+/** Ignore hashchange/popstate while we drive navigation ourselves. */
+let suppressLocationEvents = false;
+
+try {
+  history.scrollRestoration = 'manual';
+} catch {
+  /* ignore */
+}
+
+function locationKey(hash = window.location.hash): string {
+  return hash || '#home';
+}
+
+/** Hash for the page currently on screen (lags during popstate until re-render). */
+let displayedHash = locationKey();
+
+function listStateKey(tab: string): string {
+  return tab;
+}
+
+function getMainScroller(): HTMLElement | null {
+  return document.getElementById('main');
+}
+
+/** Prefer the A–Z list pane when the library toolbar is pinned. */
+function getListScroller(): HTMLElement | null {
+  return (
+    (document.querySelector('.roots-library-page .roots-index-host') as HTMLElement | null) ||
+    getMainScroller()
+  );
+}
+
+function getActiveScroller(): HTMLElement | null {
+  return (
+    (document.querySelector('.roots-library-page .roots-index-host') as HTMLElement | null) ||
+    getMainScroller()
+  );
+}
+
+function saveScrollForKey(key: string) {
+  const scroller = getActiveScroller();
+  const main = getMainScroller();
+  scrollByHash[key] = {
+    main: scroller?.scrollTop ?? main?.scrollTop ?? 0,
+    window: window.scrollY || document.documentElement.scrollTop || 0,
+  };
+}
+
+/** Call before leaving the current page (push / replace / back). */
+function saveCurrentScroll() {
+  // During popstate, location.hash is already the NEW page, but the DOM
+  // still shows the OLD page — always save under displayedHash.
+  saveScrollForKey(displayedHash);
+}
+
+function restoreScrollForKey(key: string, toTop = false) {
+  const pos = toTop ? { main: 0, window: 0 } : scrollByHash[key];
+  const apply = () => {
+    const listHost = document.querySelector(
+      '.roots-library-page .roots-index-host'
+    ) as HTMLElement | null;
+    const main = getMainScroller();
+    const y = pos?.main ?? 0;
+    const win = pos?.window ?? 0;
+    if (listHost) listHost.scrollTop = y;
+    if (main) main.scrollTop = listHost ? 0 : y;
+    window.scrollTo(0, win);
+  };
+
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      apply();
+      setTimeout(apply, 40);
+      setTimeout(apply, 120);
+      setTimeout(apply, 250);
+    });
+  });
+}
+
+function restoreCurrentScroll() {
+  const toTop = forceScrollTopOnce;
+  forceScrollTopOnce = false;
+  const key = locationKey();
+  restoreScrollForKey(key, toTop);
+  displayedHash = key;
+}
+
+/** @deprecated list helpers — kept as thin wrappers for call sites */
+function saveListScroll(_tab: string, _openedId?: string) {
+  saveCurrentScroll();
+}
+
+function restoreListScroll(_tab: string) {
+  restoreCurrentScroll();
+}
+
+function getExpandedLetters(tab: string, fallbackLetter?: string): Set<string> {
+  const key = listStateKey(tab);
+  if (!expandedLettersByKey[key]) {
+    expandedLettersByKey[key] = new Set(fallbackLetter ? [fallbackLetter] : []);
+  }
+  return expandedLettersByKey[key];
+}
+
 const WORD_TAB_META: Record<
   WordKind,
   { title: string; sub: string; empty: string }
@@ -168,6 +278,7 @@ function el<K extends keyof HTMLElementTagNameMap>(
 }
 
 function goToTab(tab: Tab) {
+  saveCurrentScroll();
   activeTab = tab;
   activeSearchQ = '';
   if (tab === 'course' && !activeLessonFile) {
@@ -186,9 +297,94 @@ function goToTab(tab: Tab) {
     activeWordKind = tab;
     delete wordManifests[tab];
   }
-  setHash(tab);
+  // Escape hatch: jump to this tab’s list at the top (skip the trail).
+  forceScrollTopOnce = true;
+  navigate(tab, undefined, 'replace');
+  scrollByHash[locationKey()] = { main: 0, window: 0 };
   renderNav();
-  renderMain();
+  void renderMain().then(() => restoreCurrentScroll());
+}
+
+type HashOpts = { id?: string; q?: string };
+
+function buildHash(tab: Tab, idOrOpts?: string | HashOpts): string {
+  if (tab === 'home') {
+    return window.location.pathname + window.location.search;
+  }
+  const opts = typeof idOrOpts === 'string' ? { id: idOrOpts } : idOrOpts ?? {};
+  let hash = `#${tab}`;
+  if (opts.id) {
+    hash += `/${opts.id}`;
+  } else if (opts.q && opts.q.trim()) {
+    hash += `?q=${encodeURIComponent(opts.q.trim())}`;
+  }
+  return hash;
+}
+
+/** Update URL hash — push adds a history step (path back); replace skips the chain. */
+function navigate(tab: Tab, idOrOpts?: string | HashOpts, mode: 'push' | 'replace' = 'replace') {
+  saveCurrentScroll();
+  const target = buildHash(tab, idOrOpts);
+  suppressLocationEvents = true;
+  if (mode === 'push') {
+    history.pushState(null, '', target);
+  } else {
+    history.replaceState(null, '', target);
+  }
+  queueMicrotask(() => {
+    suppressLocationEvents = false;
+  });
+}
+
+async function navigateAndApply(tab: Tab, idOrOpts?: string | HashOpts, mode: 'push' | 'replace' = 'replace') {
+  navigate(tab, idOrOpts, mode);
+  suppressLocationEvents = true;
+  try {
+    await applyHashRoute();
+    restoreCurrentScroll();
+  } finally {
+    suppressLocationEvents = false;
+  }
+}
+
+/** UI / browser back — follow history trail; fall back to tab list if no prior step. */
+function goBackOrFallback(fallback: () => void) {
+  saveCurrentScroll();
+  const hashBefore = window.location.hash;
+  let popped = false;
+  const onPop = () => {
+    popped = true;
+    window.removeEventListener('popstate', onPop);
+  };
+  window.addEventListener('popstate', onPop);
+  history.back();
+  window.setTimeout(() => {
+    window.removeEventListener('popstate', onPop);
+    if (!popped && window.location.hash === hashBefore) {
+      fallback();
+    }
+  }, 100);
+}
+
+function fallbackToWordList(kind: WordKind) {
+  activeWordFile = '';
+  navigate(kind, activeSearchQ ? { q: activeSearchQ } : undefined, 'replace');
+  renderNav();
+  void renderMain().then(() => restoreCurrentScroll());
+}
+
+function fallbackToRootsList() {
+  activeRootFile = '';
+  navigate('roots', activeSearchQ ? { q: activeSearchQ } : undefined, 'replace');
+  renderNav();
+  void renderMain().then(() => restoreCurrentScroll());
+}
+
+function fallbackToLyricsList() {
+  activeSongFile = '';
+  navigate('lyrics', undefined, 'replace');
+  renderNav();
+  void renderMain().then(() => restoreCurrentScroll());
 }
 
 async function fetchText(file: string): Promise<string> {
@@ -229,19 +425,8 @@ async function loadWordManifest(kind: WordKind): Promise<WordManifest> {
   return wordManifests[kind]!;
 }
 
-function setHash(tab: Tab, idOrOpts?: string | { id?: string; q?: string }) {
-  if (tab === 'home') {
-    history.replaceState(null, '', window.location.pathname + window.location.search);
-    return;
-  }
-  const opts = typeof idOrOpts === 'string' ? { id: idOrOpts } : idOrOpts ?? {};
-  let hash = `#${tab}`;
-  if (opts.id) {
-    hash += `/${opts.id}`;
-  } else if (opts.q && opts.q.trim()) {
-    hash += `?q=${encodeURIComponent(opts.q.trim())}`;
-  }
-  history.replaceState(null, '', hash);
+function setHash(tab: Tab, idOrOpts?: string | HashOpts) {
+  navigate(tab, idOrOpts, 'replace');
 }
 
 /** Make in-app #fil/… #ism/… #roots/… links navigate the SPA. */
@@ -252,8 +437,14 @@ function wireAppHashLinks(container: HTMLElement) {
     if (!/^#(fil|ism|harf|roots|damair|lyrics|home|course)(\/|$|\?)/.test(href)) return;
     a.addEventListener('click', (ev) => {
       ev.preventDefault();
+      saveCurrentScroll();
+      suppressLocationEvents = true;
       history.pushState(null, '', href);
-      applyHashRoute();
+      applyHashRoute()
+        .then(() => restoreCurrentScroll())
+        .finally(() => {
+          suppressLocationEvents = false;
+        });
     });
   });
 }
@@ -384,6 +575,12 @@ function setLyricsSongMode(enabled: boolean) {
   document.getElementById('app')?.classList.toggle('lyrics-song-mode', enabled);
 }
 
+function syncAppChrome() {
+  const app = document.getElementById('app');
+  if (!app) return;
+  app.classList.toggle('home-tab', activeTab === 'home');
+}
+
 function renderNav() {
   const nav = document.getElementById('nav')!;
   const tabs: { id: Tab; icon: string; label: string }[] = [
@@ -403,6 +600,7 @@ function renderNav() {
     btn.onclick = () => goToTab(t.id);
     nav.appendChild(btn);
   });
+  syncAppChrome();
 }
 
 async function renderHome(main: HTMLElement) {
@@ -668,6 +866,7 @@ function buildWordIndex(
     const list = el('nav', 'library-list roots-letter-list');
     for (const word of words) {
       const link = el('button', 'library-link root-link');
+      link.dataset.listId = word.id;
       const metaBits = [
         word.meaning,
         word.subtype && word.subtype !== 'noun' ? word.subtype : '',
@@ -709,14 +908,6 @@ async function renderWordLibrary(main: HTMLElement, kind: WordKind) {
     main.innerHTML = '';
     main.className = 'main roots-library-page';
 
-    const header = el('div', 'library-header');
-    header.innerHTML = `
-      <h2 class="page-title">${meta.title}</h2>
-      <p class="page-sub">${manifest.items.length} · ${meta.sub}</p>
-      <p class="page-note">${manifest.description}</p>
-    `;
-    main.appendChild(header);
-
     if (manifest.items.length === 0) {
       const empty = el('div', 'card');
       empty.innerHTML = `<p>${meta.empty}</p>`;
@@ -747,18 +938,24 @@ async function renderWordLibrary(main: HTMLElement, kind: WordKind) {
     main.appendChild(tools);
 
     const indexHost = el('div', 'roots-index-host');
+    const header = el('div', 'library-header');
+    header.innerHTML = `
+      <h2 class="page-title">${meta.title}</h2>
+      <p class="page-sub">${manifest.items.length} · ${meta.sub}</p>
+      <p class="page-note">${manifest.description}</p>
+    `;
+    indexHost.appendChild(header);
     main.appendChild(indexHost);
-    const expanded = new Set<string>([manifest.letters[0]?.letter].filter(Boolean) as string[]);
+
+    const expanded = getExpandedLetters(kind, manifest.letters[0]?.letter);
 
     const paint = () => {
-      indexHost.innerHTML = '';
+      indexHost.querySelector('.roots-index')?.remove();
       indexHost.appendChild(
         buildWordIndex(manifest, search.value, expanded, (word) => {
-          activeWordKind = kind;
-          activeWordFile = word.file;
-          activeSearchQ = '';
-          setHash(kind, word.id);
-          renderMain();
+          if (word.letter) expanded.add(word.letter);
+          saveListScroll(kind, word.id);
+          navigateAndApply(kind, word.id, 'push');
         })
       );
     };
@@ -790,11 +987,9 @@ async function renderWordDetail(main: HTMLElement, kind: WordKind) {
     const text = await fetchText(activeWordFile);
     main.innerHTML = '';
 
-    const back = el('button', 'btn btn-outline', `← All ${WORD_TAB_META[kind].title}`);
+    const back = el('button', 'btn btn-outline', '← Back');
     back.onclick = () => {
-      activeWordFile = '';
-      setHash(kind);
-      renderMain();
+      goBackOrFallback(() => fallbackToWordList(kind));
     };
     main.appendChild(back);
 
@@ -804,6 +999,7 @@ async function renderWordDetail(main: HTMLElement, kind: WordKind) {
     body.style.marginTop = '0.75rem';
     body.innerHTML = await marked.parse(text);
     wireAppHashLinks(body);
+    wireArabicAudio(body);
     main.appendChild(body);
   } catch {
     main.innerHTML = '<p class="loading">Could not load word.</p>';
@@ -873,15 +1069,15 @@ function buildRootsIndex(
     const list = el('nav', 'library-list roots-letter-list');
     for (const root of roots) {
       const link = el('button', 'library-link root-link');
+      link.dataset.listId = root.id;
       link.innerHTML = `
         <span class="library-link-title" lang="ar" dir="rtl">${root.root}</span>
         <span class="library-link-meta">${root.meaning} · ${root.formI}</span>
       `;
       link.onclick = () => {
-        activeRootFile = root.file;
-        activeSearchQ = '';
-        setHash('roots', root.id);
-        renderMain();
+        if (root.letter) getExpandedLetters('roots').add(root.letter);
+        saveListScroll('roots', root.id);
+        navigateAndApply('roots', root.id, 'push');
       };
       list.appendChild(link);
     }
@@ -903,14 +1099,6 @@ async function renderRoots(main: HTMLElement) {
     const manifest = await loadRootsManifest();
     main.innerHTML = '';
     main.className = 'main roots-library-page';
-
-    const header = el('div', 'library-header');
-    header.innerHTML = `
-      <h2 class="page-title">Roots</h2>
-      <p class="page-sub">${manifest.roots.length} common everyday roots · A–Z by first letter</p>
-      <p class="page-note">${manifest.description}</p>
-    `;
-    main.appendChild(header);
 
     if (manifest.roots.length === 0) {
       const empty = el('div', 'card');
@@ -937,12 +1125,19 @@ async function renderRoots(main: HTMLElement) {
     main.appendChild(tools);
 
     const indexHost = el('div', 'roots-index-host');
+    const header = el('div', 'library-header');
+    header.innerHTML = `
+      <h2 class="page-title">Roots</h2>
+      <p class="page-sub">${manifest.roots.length} common everyday roots · A–Z by first letter</p>
+      <p class="page-note">${manifest.description}</p>
+    `;
+    indexHost.appendChild(header);
     main.appendChild(indexHost);
 
-    const expanded = new Set<string>([manifest.letters[0]?.letter].filter(Boolean) as string[]);
+    const expanded = getExpandedLetters('roots', manifest.letters[0]?.letter);
 
     const paint = () => {
-      indexHost.innerHTML = '';
+      indexHost.querySelector('.roots-index')?.remove();
       indexHost.appendChild(buildRootsIndex(manifest, search.value, expanded));
     };
 
@@ -972,11 +1167,9 @@ async function renderRootDetail(main: HTMLElement) {
     const text = await fetchText(activeRootFile);
     main.innerHTML = '';
 
-    const back = el('button', 'btn btn-outline', '← All roots');
+    const back = el('button', 'btn btn-outline', '← Back');
     back.onclick = () => {
-      activeRootFile = '';
-      setHash('roots');
-      renderMain();
+      goBackOrFallback(() => fallbackToRootsList());
     };
     main.appendChild(back);
 
@@ -984,6 +1177,7 @@ async function renderRootDetail(main: HTMLElement) {
     body.style.marginTop = '0.75rem';
     body.innerHTML = await marked.parse(text);
     wireAppHashLinks(body);
+    wireArabicAudio(body);
     main.appendChild(body);
   } catch {
     main.innerHTML = '<p class="loading">Could not load root.</p>';
@@ -1005,6 +1199,7 @@ async function renderDamair(main: HTMLElement) {
     const body = el('div', 'md-content damair-content');
     body.innerHTML = await marked.parse(text);
     wireAppHashLinks(body);
+    wireArabicAudio(body);
     main.appendChild(body);
   } catch {
     main.innerHTML = '<p class="loading">Could not load pronouns guide.</p>';
@@ -1047,9 +1242,7 @@ async function renderLyrics(main: HTMLElement) {
         <span class="library-link-meta">${song.artist || 'Unknown'} · ${song.dialect || '—'}</span>
       `;
       link.onclick = () => {
-        activeSongFile = song.file;
-        setHash('lyrics', song.id);
-        renderMain();
+        navigateAndApply('lyrics', song.id, 'push');
       };
       list.appendChild(link);
     });
@@ -1070,16 +1263,14 @@ async function renderLyricsSong(main: HTMLElement) {
 
     const shell = el('div', 'lyrics-song');
     shell.innerHTML = `
-      <button type="button" class="lyrics-back">← Library</button>
+      <button type="button" class="lyrics-back">← Back</button>
       <p class="lyrics-song-title">${parsed.title}</p>
       ${parsed.artist ? `<p class="lyrics-song-meta">${parsed.artist}${parsed.dialect ? ` · ${parsed.dialect}` : ''}</p>` : ''}
       <h1 class="lyrics-headline">Arabic · English</h1>
     `;
 
     shell.querySelector('.lyrics-back')!.addEventListener('click', () => {
-      activeSongFile = '';
-      setHash('lyrics');
-      renderMain();
+      goBackOrFallback(() => fallbackToLyricsList());
     });
 
     const linesWrap = el('div', 'lyrics-lines');
@@ -1100,9 +1291,11 @@ async function renderLyricsSong(main: HTMLElement) {
     if (parsed.footerMd.trim()) {
       const footer = el('div', 'lyrics-footer md-content');
       footer.innerHTML = await marked.parse(parsed.footerMd);
+      wireArabicAudio(footer);
       shell.appendChild(footer);
     }
 
+    wireArabicAudio(shell);
     main.appendChild(shell);
   } catch {
     setLyricsSongMode(false);
@@ -1111,8 +1304,10 @@ async function renderLyricsSong(main: HTMLElement) {
 }
 
 async function renderMain() {
+  stopArabicSpeech();
   const main = document.getElementById('main')!;
   main.innerHTML = '';
+  syncAppChrome();
   if (activeTab !== 'lyrics' || !activeSongFile) {
     setLyricsSongMode(false);
     main.className = 'main';
@@ -1150,6 +1345,18 @@ renderNav();
 applyHashRoute().then((handled) => {
   if (!handled) renderMain();
 });
-window.addEventListener('hashchange', () => {
-  applyHashRoute();
-});
+
+let routeApplyToken = 0;
+async function onLocationChange() {
+  if (suppressLocationEvents) return;
+  // popstate/hashchange: hash already changed, DOM still shows previous page
+  saveCurrentScroll();
+  const token = ++routeApplyToken;
+  const handled = await applyHashRoute();
+  if (token !== routeApplyToken) return;
+  if (!handled) await renderMain();
+  restoreCurrentScroll();
+}
+
+window.addEventListener('popstate', () => onLocationChange());
+window.addEventListener('hashchange', () => onLocationChange());

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | انذار |
 | **Meaning** | warning |
 | **Root** | — (loan / no everyday root) |
@@ -12,8 +12,8 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| ثبّت سامي جهاز إنذار في منزله. — Sami installed an alarm in his home. |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">ثبّت سامي جهاز إنذار في منزله.</span> | <span class="example-en" dir="ltr" lang="en">Sami installed an alarm in his home.</span> |
 
 

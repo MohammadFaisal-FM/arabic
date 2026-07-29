@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | هاتف |
 | **Meaning** | phone |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا هاتف — This is phone |
-| أحب هاتف — I like phone |
-| وين هاتف؟ — Where is the phone? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا هاتف</span> | <span class="example-en" dir="ltr" lang="en">This is phone</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب هاتف</span> | <span class="example-en" dir="ltr" lang="en">I like phone</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين هاتف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the phone?</span> |
 
 

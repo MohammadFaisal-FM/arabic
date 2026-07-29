@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ديلوكس |
 | **Meaning** | deluxe |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ديلوكس — This is deluxe |
-| أحب ديلوكس — I like deluxe |
-| وين ديلوكس؟ — Where is the deluxe? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ديلوكس</span> | <span class="example-en" dir="ltr" lang="en">This is deluxe</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ديلوكس</span> | <span class="example-en" dir="ltr" lang="en">I like deluxe</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ديلوكس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the deluxe?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | لاس |
 | **Meaning** | las |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا لاس — This is las |
-| أحب لاس — I like las |
-| وين لاس؟ — Where is the las? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا لاس</span> | <span class="example-en" dir="ltr" lang="en">This is las</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب لاس</span> | <span class="example-en" dir="ltr" lang="en">I like las</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين لاس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the las?</span> |
 
 

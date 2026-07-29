@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | المعارض |
 | **Meaning** | galleries |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا المعارض — This is galleries |
-| أحب المعارض — I like galleries |
-| وين المعارض؟ — Where is the galleries? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا المعارض</span> | <span class="example-en" dir="ltr" lang="en">This is galleries</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب المعارض</span> | <span class="example-en" dir="ltr" lang="en">I like galleries</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين المعارض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the galleries?</span> |
 
 

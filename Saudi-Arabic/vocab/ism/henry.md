@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | هنري |
 | **Meaning** | henry |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا هنري — This is henry |
-| أحب هنري — I like henry |
-| وين هنري؟ — Where is the henry? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا هنري</span> | <span class="example-en" dir="ltr" lang="en">This is henry</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب هنري</span> | <span class="example-en" dir="ltr" lang="en">I like henry</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين هنري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the henry?</span> |
 
 

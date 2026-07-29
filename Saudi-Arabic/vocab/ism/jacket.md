@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | سترة |
 | **Meaning** | jacket |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا سترة — This is jacket |
-| أحب سترة — I like jacket |
-| وين سترة؟ — Where is the jacket? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا سترة</span> | <span class="example-en" dir="ltr" lang="en">This is jacket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب سترة</span> | <span class="example-en" dir="ltr" lang="en">I like jacket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين سترة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jacket?</span> |
 
 

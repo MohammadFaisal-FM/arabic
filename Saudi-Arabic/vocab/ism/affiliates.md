@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | الشركات التابعة |
 | **Meaning** | affiliates |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا الشركات التابعة — This is affiliates |
-| أحب الشركات التابعة — I like affiliates |
-| وين الشركات التابعة؟ — Where is the affiliates? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا الشركات التابعة</span> | <span class="example-en" dir="ltr" lang="en">This is affiliates</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب الشركات التابعة</span> | <span class="example-en" dir="ltr" lang="en">I like affiliates</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الشركات التابعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the affiliates?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | المنتجعات |
 | **Meaning** | resorts |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا المنتجعات — This is resorts |
-| أحب المنتجعات — I like resorts |
-| وين المنتجعات؟ — Where is the resorts? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا المنتجعات</span> | <span class="example-en" dir="ltr" lang="en">This is resorts</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب المنتجعات</span> | <span class="example-en" dir="ltr" lang="en">I like resorts</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين المنتجعات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the resorts?</span> |
 
 

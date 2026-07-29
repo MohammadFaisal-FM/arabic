@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | شاعر |
 | **Meaning** | poet |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا شاعر — This is poet |
-| أحب شاعر — I like poet |
-| وين شاعر؟ — Where is the poet? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا شاعر</span> | <span class="example-en" dir="ltr" lang="en">This is poet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب شاعر</span> | <span class="example-en" dir="ltr" lang="en">I like poet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين شاعر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the poet?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | توم |
 | **Meaning** | tom |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا توم — This is tom |
-| أحب توم — I like tom |
-| وين توم؟ — Where is the tom? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا توم</span> | <span class="example-en" dir="ltr" lang="en">This is tom</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب توم</span> | <span class="example-en" dir="ltr" lang="en">I like tom</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين توم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tom?</span> |
 
 

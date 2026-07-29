@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | صاروخ |
 | **Meaning** | rocket |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا صاروخ — This is rocket |
-| أحب صاروخ — I like rocket |
-| وين صاروخ؟ — Where is the rocket? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا صاروخ</span> | <span class="example-en" dir="ltr" lang="en">This is rocket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب صاروخ</span> | <span class="example-en" dir="ltr" lang="en">I like rocket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين صاروخ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rocket?</span> |
 
 

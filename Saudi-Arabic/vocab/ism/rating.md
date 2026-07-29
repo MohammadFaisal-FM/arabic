@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | تصنيف |
 | **Meaning** | rating |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا تصنيف — This is rating |
-| أحب تصنيف — I like rating |
-| وين تصنيف؟ — Where is the rating? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا تصنيف</span> | <span class="example-en" dir="ltr" lang="en">This is rating</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب تصنيف</span> | <span class="example-en" dir="ltr" lang="en">I like rating</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين تصنيف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rating?</span> |
 
 

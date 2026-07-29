@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | place |
+| **Subtype** | اسم مكان · ism makān (place) |
 | **Arabic** | مطعم |
 | **Meaning** | restaurant |
 | **Root** | [ط-ب-خ](#roots/tbkh) |
@@ -12,18 +12,15 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| نروح مطعم؟ — Should we go to a restaurant? |
-| هذا مطعم — This is a restaurant |
-| أحب مطعم — I like restaurant |
-| وين مطعم؟ — Where is the restaurant? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">نروح مطعم؟</span> | <span class="example-en" dir="ltr" lang="en">Should we go to a restaurant?</span> |
 
 
 ### Links
 
 | | |
 |-|-|
-| **Root** | [ط-ب-خ](#roots/tbkh) |
+| **Root family** | [ط-ب-خ](#roots/tbkh) — see all word types |
 | **Fiʿl** | [طبخ / يطبخ](#fil/tbkh) |
 

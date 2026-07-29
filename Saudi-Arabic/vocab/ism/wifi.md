@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | loan |
+| **Subtype** | دخيل · loanword |
 | **Arabic** | واي فاي |
 | **Meaning** | Wi‑Fi |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,11 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| وش باس الوواي فاي؟ — What is the wifi password? |
-| هذا واي فاي — This is a wi‑fi |
-| أحب واي فاي — I like wi‑fi |
-| وين واي فاي؟ — Where is the wi‑fi? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">وش باس الوواي فاي؟</span> | <span class="example-en" dir="ltr" lang="en">What is the wifi password?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا واي فاي</span> | <span class="example-en" dir="ltr" lang="en">This is a wi‑fi</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب واي فاي</span> | <span class="example-en" dir="ltr" lang="en">I like wi‑fi</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين واي فاي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wi‑fi?</span> |
 
 

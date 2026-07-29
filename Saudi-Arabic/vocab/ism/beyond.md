@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | وَرَاءَ |
 | **Meaning** | beyond |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا وَرَاءَ — This is beyond |
-| أحب وَرَاءَ — I like beyond |
-| وين وَرَاءَ؟ — Where is the beyond? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا وَرَاءَ</span> | <span class="example-en" dir="ltr" lang="en">This is beyond</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب وَرَاءَ</span> | <span class="example-en" dir="ltr" lang="en">I like beyond</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين وَرَاءَ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the beyond?</span> |
 
 

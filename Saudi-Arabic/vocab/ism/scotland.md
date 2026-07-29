@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | اسكتلندا |
 | **Meaning** | scotland |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا اسكتلندا — This is scotland |
-| أحب اسكتلندا — I like scotland |
-| وين اسكتلندا؟ — Where is the scotland? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا اسكتلندا</span> | <span class="example-en" dir="ltr" lang="en">This is scotland</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب اسكتلندا</span> | <span class="example-en" dir="ltr" lang="en">I like scotland</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين اسكتلندا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the scotland?</span> |
 
 

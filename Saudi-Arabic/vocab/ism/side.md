@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | جانب |
 | **Meaning** | side |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا جانب — This is side |
-| أحب جانب — I like side |
-| وين جانب؟ — Where is the side? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا جانب</span> | <span class="example-en" dir="ltr" lang="en">This is side</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب جانب</span> | <span class="example-en" dir="ltr" lang="en">I like side</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين جانب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the side?</span> |
 
 

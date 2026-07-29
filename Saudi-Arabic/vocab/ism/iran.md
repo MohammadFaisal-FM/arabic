@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | إيران |
 | **Meaning** | iran |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا إيران — This is iran |
-| أحب إيران — I like iran |
-| وين إيران؟ — Where is the iran? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا إيران</span> | <span class="example-en" dir="ltr" lang="en">This is iran</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب إيران</span> | <span class="example-en" dir="ltr" lang="en">I like iran</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين إيران؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the iran?</span> |
 
 

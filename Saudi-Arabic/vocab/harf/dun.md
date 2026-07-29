@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| بدون سكر — without sugar |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">بدون سكر</span> | <span class="example-en" dir="ltr" lang="en">without sugar</span> |
+

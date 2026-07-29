@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | رقص |
 | **Meaning** | dance |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا رقص — This is dance |
-| أحب رقص — I like dance |
-| وين رقص؟ — Where is the dance? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا رقص</span> | <span class="example-en" dir="ltr" lang="en">This is dance</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب رقص</span> | <span class="example-en" dir="ltr" lang="en">I like dance</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين رقص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dance?</span> |
 
 

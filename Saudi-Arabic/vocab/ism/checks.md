@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | الشيكات |
 | **Meaning** | checks |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا الشيكات — This is checks |
-| أحب الشيكات — I like checks |
-| وين الشيكات؟ — Where is the checks? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا الشيكات</span> | <span class="example-en" dir="ltr" lang="en">This is checks</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب الشيكات</span> | <span class="example-en" dir="ltr" lang="en">I like checks</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الشيكات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the checks?</span> |
 
 

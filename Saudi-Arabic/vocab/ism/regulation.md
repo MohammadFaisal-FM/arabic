@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | أنظمة |
 | **Meaning** | regulation |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا أنظمة — This is regulation |
-| أحب أنظمة — I like regulation |
-| وين أنظمة؟ — Where is the regulation? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا أنظمة</span> | <span class="example-en" dir="ltr" lang="en">This is regulation</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب أنظمة</span> | <span class="example-en" dir="ltr" lang="en">I like regulation</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين أنظمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the regulation?</span> |
 
 

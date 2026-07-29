@@ -43,10 +43,14 @@ For each row show:
 
 ```text
 [Pronoun] — Past: … · Present: …
-Sentence: [Arabic]
+Sentence (Arabic): …
 Translit: …
 English: …
 ```
+
+**Layout:** Arabic, transliteration, and English must be on **separate lines** (never one mixed `Arabic — English` line) so RTL/LTR reading direction does not clash.
+
+**Root family / word types:** If two words share the same type (e.g. masdar **اتخاذ** and **أخذ**), give a **separate example sentence for each word** — do not combine them on one row.
 
 Also add **Future (Najdi بـ)** for أنا and هو only (high frequency).
 

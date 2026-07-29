@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | دير |
 | **Meaning** | der |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا دير — This is der |
-| أحب دير — I like der |
-| وين دير؟ — Where is the der? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا دير</span> | <span class="example-en" dir="ltr" lang="en">This is der</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب دير</span> | <span class="example-en" dir="ltr" lang="en">I like der</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين دير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the der?</span> |
 
 

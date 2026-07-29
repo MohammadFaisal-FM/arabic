@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| أبي أروح لكن تعبان — I want to go but I’m tired |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">أبي أروح لكن تعبان</span> | <span class="example-en" dir="ltr" lang="en">I want to go but I’m tired</span> |
+

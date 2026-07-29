@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | منفذ |
 | **Meaning** | portal |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا منفذ — This is portal |
-| أحب منفذ — I like portal |
-| وين منفذ؟ — Where is the portal? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا منفذ</span> | <span class="example-en" dir="ltr" lang="en">This is portal</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب منفذ</span> | <span class="example-en" dir="ltr" lang="en">I like portal</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين منفذ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the portal?</span> |
 
 

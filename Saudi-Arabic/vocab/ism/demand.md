@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يطلب |
 | **Meaning** | demand |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يطلب — This is demand |
-| أحب يطلب — I like demand |
-| وين يطلب؟ — Where is the demand? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يطلب</span> | <span class="example-en" dir="ltr" lang="en">This is demand</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يطلب</span> | <span class="example-en" dir="ltr" lang="en">I like demand</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يطلب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the demand?</span> |
 
 

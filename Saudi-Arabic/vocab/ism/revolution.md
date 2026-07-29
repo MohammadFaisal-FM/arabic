@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ثورة |
 | **Meaning** | revolution |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ثورة — This is revolution |
-| أحب ثورة — I like revolution |
-| وين ثورة؟ — Where is the revolution? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ثورة</span> | <span class="example-en" dir="ltr" lang="en">This is revolution</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ثورة</span> | <span class="example-en" dir="ltr" lang="en">I like revolution</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ثورة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the revolution?</span> |
 
 

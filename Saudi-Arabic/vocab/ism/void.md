@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | فارغ |
 | **Meaning** | void |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا فارغ — This is void |
-| أحب فارغ — I like void |
-| وين فارغ؟ — Where is the void? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا فارغ</span> | <span class="example-en" dir="ltr" lang="en">This is void</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب فارغ</span> | <span class="example-en" dir="ltr" lang="en">I like void</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين فارغ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the void?</span> |
 
 

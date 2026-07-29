@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | دعامات |
 | **Meaning** | posts |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا دعامات — This is posts |
-| أحب دعامات — I like posts |
-| وين دعامات؟ — Where is the posts? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا دعامات</span> | <span class="example-en" dir="ltr" lang="en">This is posts</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب دعامات</span> | <span class="example-en" dir="ltr" lang="en">I like posts</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين دعامات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the posts?</span> |
 
 

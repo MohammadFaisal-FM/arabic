@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | تمرد |
 | **Meaning** | rebellion |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا تمرد — This is rebellion |
-| أحب تمرد — I like rebellion |
-| وين تمرد؟ — Where is the rebellion? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا تمرد</span> | <span class="example-en" dir="ltr" lang="en">This is rebellion</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب تمرد</span> | <span class="example-en" dir="ltr" lang="en">I like rebellion</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين تمرد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rebellion?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | فخر |
 | **Meaning** | pride |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا فخر — This is pride |
-| أحب فخر — I like pride |
-| وين فخر؟ — Where is the pride? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا فخر</span> | <span class="example-en" dir="ltr" lang="en">This is pride</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب فخر</span> | <span class="example-en" dir="ltr" lang="en">I like pride</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين فخر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pride?</span> |
 
 

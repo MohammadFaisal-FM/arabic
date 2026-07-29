@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | استهلاك |
 | **Meaning** | consumption |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا استهلاك — This is consumption |
-| أحب استهلاك — I like consumption |
-| وين استهلاك؟ — Where is the consumption? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا استهلاك</span> | <span class="example-en" dir="ltr" lang="en">This is consumption</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب استهلاك</span> | <span class="example-en" dir="ltr" lang="en">I like consumption</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين استهلاك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the consumption?</span> |
 
 

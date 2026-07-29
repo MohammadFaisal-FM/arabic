@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| مع أهلي — with my family |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">مع أهلي</span> | <span class="example-en" dir="ltr" lang="en">with my family</span> |
+

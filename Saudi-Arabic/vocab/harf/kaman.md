@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| أنا كمان — me too |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">أنا كمان</span> | <span class="example-en" dir="ltr" lang="en">me too</span> |
+

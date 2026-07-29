@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ماساتشوستس |
 | **Meaning** | massachusetts |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ماساتشوستس — This is massachusetts |
-| أحب ماساتشوستس — I like massachusetts |
-| وين ماساتشوستس؟ — Where is the massachusetts? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ماساتشوستس</span> | <span class="example-en" dir="ltr" lang="en">This is massachusetts</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ماساتشوستس</span> | <span class="example-en" dir="ltr" lang="en">I like massachusetts</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ماساتشوستس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the massachusetts?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | أرضي |
 | **Meaning** | ground |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا أرضي — This is ground |
-| أحب أرضي — I like ground |
-| وين أرضي؟ — Where is the ground? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا أرضي</span> | <span class="example-en" dir="ltr" lang="en">This is ground</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب أرضي</span> | <span class="example-en" dir="ltr" lang="en">I like ground</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين أرضي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ground?</span> |
 
 

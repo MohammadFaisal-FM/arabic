@@ -35,6 +35,7 @@ html, body {
 #app {
   display: flex;
   flex-direction: column;
+  height: 100%;
   min-height: 100%;
   max-width: 480px;
   margin: 0 auto;
@@ -42,6 +43,7 @@ html, body {
   border-left: 1px solid rgba(37, 42, 61, 0.8);
   border-right: 1px solid rgba(37, 42, 61, 0.8);
   box-shadow: 0 0 48px rgba(0, 0, 0, 0.55);
+  overflow: hidden;
 }
 
 .header {
@@ -49,6 +51,12 @@ html, body {
   text-align: center;
   background: linear-gradient(180deg, rgba(90, 70, 150, 0.22) 0%, rgba(5, 6, 10, 0) 100%);
   border-bottom: 1px solid rgba(37, 42, 61, 0.85);
+  display: none;
+  flex-shrink: 0;
+}
+
+#app.home-tab .header {
+  display: block;
 }
 
 .header h1 {
@@ -77,9 +85,41 @@ html, body {
 
 .main {
   flex: 1;
+  min-height: 0;
   overflow-y: auto;
   padding: 1.05rem;
   padding-bottom: calc(5rem + var(--safe-bottom));
+}
+
+/* Library lists: keep search/actions pinned; title scrolls with the list */
+.main.roots-library-page {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding-top: 0.75rem;
+  padding-bottom: calc(5rem + var(--safe-bottom));
+}
+
+.roots-library-page .roots-tools {
+  flex-shrink: 0;
+  position: static;
+  margin-bottom: 0.55rem;
+  padding: 0.1rem 0 0.5rem;
+  background: #080a12;
+  border-bottom: 1px solid rgba(37, 42, 61, 0.85);
+}
+
+.roots-library-page .roots-index-host {
+  flex: 1 1 auto;
+  min-height: 12rem;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+  padding-bottom: 0.75rem;
+}
+
+.roots-library-page .library-header {
+  margin-bottom: 0.75rem;
 }
 
 .nav {
@@ -429,6 +469,62 @@ html, body {
   text-align: right;
 }
 
+.md-content .example-ar {
+  display: block;
+  direction: rtl;
+  text-align: right;
+  unicode-bidi: isolate;
+}
+
+.md-content .example-ar-wrap,
+.lyrics-line .example-ar-wrap {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.45rem;
+  direction: rtl;
+}
+
+.md-content .example-ar-wrap .example-ar,
+.lyrics-line .example-ar-wrap .lyrics-ar {
+  flex: 1;
+  min-width: 0;
+}
+
+.tts-btn {
+  flex-shrink: 0;
+  width: 1.85rem;
+  height: 1.85rem;
+  border-radius: 999px;
+  border: 1px solid rgba(120, 103, 184, 0.55);
+  background: rgba(32, 38, 64, 0.9);
+  color: #d7cff5;
+  font-size: 0.7rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0;
+  margin-top: 0.1rem;
+}
+
+.tts-btn:hover {
+  background: rgba(120, 103, 184, 0.35);
+  border-color: #9b8ad4;
+}
+
+.tts-btn.is-playing {
+  background: #7867b8;
+  border-color: #7867b8;
+  color: #fff;
+}
+
+.md-content .example-en {
+  display: block;
+  direction: ltr;
+  text-align: left;
+  unicode-bidi: isolate;
+  margin-top: 0.35rem;
+  color: #b8b2d0;
+}
+
 .doc-tabs {
   display: flex;
   gap: 0.35rem;
@@ -719,11 +815,7 @@ html, body {
   flex-direction: column;
   gap: 0.55rem;
   margin-bottom: 0.85rem;
-  position: sticky;
-  top: 0;
   z-index: 2;
-  padding: 0.35rem 0 0.55rem;
-  background: linear-gradient(180deg, rgba(5, 6, 10, 0.98) 70%, rgba(5, 6, 10, 0));
 }
 
 .roots-search {
@@ -907,7 +999,7 @@ html, body {
 
 /* Lyrics song page — dark focus mode */
 #app.lyrics-song-mode .header {
-  opacity: 0.35;
+  display: none;
 }
 
 #app.lyrics-song-mode .main {

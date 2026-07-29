@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | أبدًا |
 | **Meaning** | ever |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا أبدًا — This is ever |
-| أحب أبدًا — I like ever |
-| وين أبدًا؟ — Where is the ever? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا أبدًا</span> | <span class="example-en" dir="ltr" lang="en">This is ever</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب أبدًا</span> | <span class="example-en" dir="ltr" lang="en">I like ever</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين أبدًا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ever?</span> |
 
 

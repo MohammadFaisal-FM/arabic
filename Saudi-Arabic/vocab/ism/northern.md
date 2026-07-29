@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | شمالي |
 | **Meaning** | northern |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا شمالي — This is northern |
-| أحب شمالي — I like northern |
-| وين شمالي؟ — Where is the northern? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا شمالي</span> | <span class="example-en" dir="ltr" lang="en">This is northern</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب شمالي</span> | <span class="example-en" dir="ltr" lang="en">I like northern</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين شمالي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the northern?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | امراض |
 | **Meaning** | illnesses |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,11 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| الإضطراب لده عدة أمراض مختلفة — The disorder has several different diseases |
-| هذا امراض — This is a illnesses |
-| أحب امراض — I like illnesses |
-| وين امراض؟ — Where is the illnesses? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">الإضطراب لده عدة أمراض مختلفة</span> | <span class="example-en" dir="ltr" lang="en">The disorder has several different diseases</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا امراض</span> | <span class="example-en" dir="ltr" lang="en">This is a illnesses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب امراض</span> | <span class="example-en" dir="ltr" lang="en">I like illnesses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين امراض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the illnesses?</span> |
 
 

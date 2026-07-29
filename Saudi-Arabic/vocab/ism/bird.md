@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | طائر |
 | **Meaning** | bird |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا طائر — This is bird |
-| أحب طائر — I like bird |
-| وين طائر؟ — Where is the bird? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا طائر</span> | <span class="example-en" dir="ltr" lang="en">This is bird</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب طائر</span> | <span class="example-en" dir="ltr" lang="en">I like bird</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين طائر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bird?</span> |
 
 

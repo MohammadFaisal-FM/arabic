@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | قراءة |
 | **Meaning** | reading |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا قراءة — This is reading |
-| أحب قراءة — I like reading |
-| وين قراءة؟ — Where is the reading? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا قراءة</span> | <span class="example-en" dir="ltr" lang="en">This is reading</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب قراءة</span> | <span class="example-en" dir="ltr" lang="en">I like reading</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين قراءة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reading?</span> |
 
 

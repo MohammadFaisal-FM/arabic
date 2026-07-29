@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | معتقد |
 | **Meaning** | thought |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا معتقد — This is thought |
-| أحب معتقد — I like thought |
-| وين معتقد؟ — Where is the thought? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا معتقد</span> | <span class="example-en" dir="ltr" lang="en">This is thought</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب معتقد</span> | <span class="example-en" dir="ltr" lang="en">I like thought</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين معتقد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the thought?</span> |
 
 

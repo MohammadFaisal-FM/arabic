@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | نمط الحياة |
 | **Meaning** | lifestyle |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا نمط الحياة — This is lifestyle |
-| أحب نمط الحياة — I like lifestyle |
-| وين نمط الحياة؟ — Where is the lifestyle? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا نمط الحياة</span> | <span class="example-en" dir="ltr" lang="en">This is lifestyle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب نمط الحياة</span> | <span class="example-en" dir="ltr" lang="en">I like lifestyle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين نمط الحياة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lifestyle?</span> |
 
 

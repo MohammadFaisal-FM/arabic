@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | بنيان |
 | **Meaning** | architecture |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا بنيان — This is architecture |
-| أحب بنيان — I like architecture |
-| وين بنيان؟ — Where is the architecture? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا بنيان</span> | <span class="example-en" dir="ltr" lang="en">This is architecture</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب بنيان</span> | <span class="example-en" dir="ltr" lang="en">I like architecture</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين بنيان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the architecture?</span> |
 
 

@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| شاي أو قهوة — tea or coffee |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">شاي أو قهوة</span> | <span class="example-en" dir="ltr" lang="en">tea or coffee</span> |
+

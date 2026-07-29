@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ذكي |
 | **Meaning** | smart |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ذكي — This is smart |
-| أحب ذكي — I like smart |
-| وين ذكي؟ — Where is the smart? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ذكي</span> | <span class="example-en" dir="ltr" lang="en">This is smart</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ذكي</span> | <span class="example-en" dir="ltr" lang="en">I like smart</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ذكي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the smart?</span> |
 
 

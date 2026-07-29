@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | بالرغم من |
 | **Meaning** | despite |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا بالرغم من — This is despite |
-| أحب بالرغم من — I like despite |
-| وين بالرغم من؟ — Where is the despite? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا بالرغم من</span> | <span class="example-en" dir="ltr" lang="en">This is despite</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب بالرغم من</span> | <span class="example-en" dir="ltr" lang="en">I like despite</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين بالرغم من؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the despite?</span> |
 
 

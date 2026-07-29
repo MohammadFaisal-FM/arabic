@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | doer |
+| **Subtype** | اسم فاعل · ism fāʿil (doer) |
 | **Arabic** | كاتب |
 | **Meaning** | writer |
 | **Root** | [ك-ت-ب](#roots/ktb) |
@@ -12,18 +12,15 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هو كاتب — He is a writer |
-| هذا كاتب — This is a writer |
-| أحب كاتب — I like writer |
-| وين كاتب؟ — Where is the writer? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هو كاتب</span> | <span class="example-en" dir="ltr" lang="en">He is a writer</span> |
 
 
 ### Links
 
 | | |
 |-|-|
-| **Root** | [ك-ت-ب](#roots/ktb) |
+| **Root family** | [ك-ت-ب](#roots/ktb) — see all word types |
 | **Fiʿl** | [كتب / يكتب](#fil/ktb) |
 

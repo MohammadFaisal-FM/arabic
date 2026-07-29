@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | صحيح |
 | **Meaning** | correct |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا صحيح — This is correct |
-| أحب صحيح — I like correct |
-| وين صحيح؟ — Where is the correct? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا صحيح</span> | <span class="example-en" dir="ltr" lang="en">This is correct</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب صحيح</span> | <span class="example-en" dir="ltr" lang="en">I like correct</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين صحيح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the correct?</span> |
 
 

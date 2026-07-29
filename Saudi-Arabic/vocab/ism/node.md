@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | العقدة |
 | **Meaning** | node |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا العقدة — This is node |
-| أحب العقدة — I like node |
-| وين العقدة؟ — Where is the node? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا العقدة</span> | <span class="example-en" dir="ltr" lang="en">This is node</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب العقدة</span> | <span class="example-en" dir="ltr" lang="en">I like node</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين العقدة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the node?</span> |
 
 

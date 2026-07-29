@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يمثل |
 | **Meaning** | act |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يمثل — This is act |
-| أحب يمثل — I like act |
-| وين يمثل؟ — Where is the act? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يمثل</span> | <span class="example-en" dir="ltr" lang="en">This is act</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يمثل</span> | <span class="example-en" dir="ltr" lang="en">I like act</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يمثل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the act?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مراجع |
 | **Meaning** | references |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مراجع — This is references |
-| أحب مراجع — I like references |
-| وين مراجع؟ — Where is the references? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مراجع</span> | <span class="example-en" dir="ltr" lang="en">This is references</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مراجع</span> | <span class="example-en" dir="ltr" lang="en">I like references</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مراجع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the references?</span> |
 
 

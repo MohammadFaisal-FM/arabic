@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | المراقبين |
 | **Meaning** | monitors |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا المراقبين — This is monitors |
-| أحب المراقبين — I like monitors |
-| وين المراقبين؟ — Where is the monitors? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا المراقبين</span> | <span class="example-en" dir="ltr" lang="en">This is monitors</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب المراقبين</span> | <span class="example-en" dir="ltr" lang="en">I like monitors</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين المراقبين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the monitors?</span> |
 
 

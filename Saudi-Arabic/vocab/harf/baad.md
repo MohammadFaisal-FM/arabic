@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| بعد الصلاة — after prayer |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">بعد الصلاة</span> | <span class="example-en" dir="ltr" lang="en">after prayer</span> |
+

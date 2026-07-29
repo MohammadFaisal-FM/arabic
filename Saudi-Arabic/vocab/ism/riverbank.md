@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ضفة النهر |
 | **Meaning** | riverbank |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ضفة النهر — This is riverbank |
-| أحب ضفة النهر — I like riverbank |
-| وين ضفة النهر؟ — Where is the riverbank? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ضفة النهر</span> | <span class="example-en" dir="ltr" lang="en">This is riverbank</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ضفة النهر</span> | <span class="example-en" dir="ltr" lang="en">I like riverbank</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ضفة النهر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the riverbank?</span> |
 
 

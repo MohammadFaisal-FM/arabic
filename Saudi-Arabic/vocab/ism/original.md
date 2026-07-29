@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | إبداعي |
 | **Meaning** | original |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا إبداعي — This is original |
-| أحب إبداعي — I like original |
-| وين إبداعي؟ — Where is the original? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا إبداعي</span> | <span class="example-en" dir="ltr" lang="en">This is original</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب إبداعي</span> | <span class="example-en" dir="ltr" lang="en">I like original</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين إبداعي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the original?</span> |
 
 

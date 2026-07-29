@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | masdar |
+| **Subtype** | مصدر · masdar (verbal noun) |
 | **Arabic** | أكل |
 | **Meaning** | food / eating |
 | **Root** | [أ-ك-ل](#roots/akl) |
@@ -12,18 +12,15 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| أحب أكل اللازانيا. — I love eating lasagna. |
-| هذا أكل — This is a food |
-| أحب أكل — I like food |
-| وين أكل؟ — Where is the food? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">أحب أكل الكبسة يوم الجمعة مع العائلة.</span> | <span class="example-en" dir="ltr" lang="en">I love eating kabsa on Friday with the family.</span> |
 
 
 ### Links
 
 | | |
 |-|-|
-| **Root** | [أ-ك-ل](#roots/akl) |
+| **Root family** | [أ-ك-ل](#roots/akl) — see all word types |
 | **Fiʿl** | [أكل / ياكل](#fil/akl) |
 

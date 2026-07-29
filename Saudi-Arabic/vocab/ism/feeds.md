@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يغذي |
 | **Meaning** | feeds |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يغذي — This is feeds |
-| أحب يغذي — I like feeds |
-| وين يغذي؟ — Where is the feeds? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يغذي</span> | <span class="example-en" dir="ltr" lang="en">This is feeds</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يغذي</span> | <span class="example-en" dir="ltr" lang="en">I like feeds</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يغذي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the feeds?</span> |
 
 

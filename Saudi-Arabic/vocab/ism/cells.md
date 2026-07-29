@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | الخلايا |
 | **Meaning** | cells |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا الخلايا — This is cells |
-| أحب الخلايا — I like cells |
-| وين الخلايا؟ — Where is the cells? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا الخلايا</span> | <span class="example-en" dir="ltr" lang="en">This is cells</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب الخلايا</span> | <span class="example-en" dir="ltr" lang="en">I like cells</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الخلايا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cells?</span> |
 
 

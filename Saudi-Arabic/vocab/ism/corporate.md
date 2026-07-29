@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | شركة كبرى |
 | **Meaning** | corporate |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا شركة كبرى — This is corporate |
-| أحب شركة كبرى — I like corporate |
-| وين شركة كبرى؟ — Where is the corporate? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا شركة كبرى</span> | <span class="example-en" dir="ltr" lang="en">This is corporate</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب شركة كبرى</span> | <span class="example-en" dir="ltr" lang="en">I like corporate</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين شركة كبرى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the corporate?</span> |
 
 

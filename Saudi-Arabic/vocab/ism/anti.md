@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مكافحة |
 | **Meaning** | anti |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مكافحة — This is anti |
-| أحب مكافحة — I like anti |
-| وين مكافحة؟ — Where is the anti? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مكافحة</span> | <span class="example-en" dir="ltr" lang="en">This is anti</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مكافحة</span> | <span class="example-en" dir="ltr" lang="en">I like anti</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مكافحة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the anti?</span> |
 
 

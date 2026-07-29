@@ -10,9 +10,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| ولد في الرياض — He was born in Riyadh |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">ولد في الرياض</span> | <span class="example-en" dir="ltr" lang="en">He was born in Riyadh</span> |
+
 
 ---
 
@@ -20,13 +21,21 @@
 
 | Form | Past / present | Fiʿl |
 |------|----------------|------|
-| I | ولد / يولد | [Open](#fil/wld) |
+| I | ولد / يولد · base meaning: being born / giving birth | [Open](#fil/wld) |
 
 ---
 
-## Related-Words
+## Word types from this root
 
-| Type | Word | Example |
-|------|------|---------|
-| اسم · ism (noun) | ولد | كبر الولد — The boy has grown up |
+| Type | Word | Notes / Example |
+|------|------|-----------------|
+| فعل · fiʿl (Form I) | [ولد / يولد · base meaning: being born / giving birth](#fil/wld) | <span class="example-ar" dir="rtl" lang="ar">ولد في الرياض</span><br><span class="example-en" dir="ltr" lang="en">He was born in Riyadh</span> |
+| مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
+| اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
+| اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
+| اسم مكان · ism makān (place) | N/A | not common / not listed yet |
+| اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
+| اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
+| اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | [ولد](#ism/walad) | <span class="example-ar" dir="rtl" lang="ar">كبر الولد</span><br><span class="example-en" dir="ltr" lang="en">The boy has grown up</span> |
 

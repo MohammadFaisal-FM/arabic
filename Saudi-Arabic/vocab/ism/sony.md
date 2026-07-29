@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | سوني |
 | **Meaning** | sony |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا سوني — This is sony |
-| أحب سوني — I like sony |
-| وين سوني؟ — Where is the sony? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا سوني</span> | <span class="example-en" dir="ltr" lang="en">This is sony</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب سوني</span> | <span class="example-en" dir="ltr" lang="en">I like sony</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين سوني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sony?</span> |
 
 

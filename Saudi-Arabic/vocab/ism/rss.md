@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | آر إس إس |
 | **Meaning** | rss |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا آر إس إس — This is rss |
-| أحب آر إس إس — I like rss |
-| وين آر إس إس؟ — Where is the rss? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا آر إس إس</span> | <span class="example-en" dir="ltr" lang="en">This is rss</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب آر إس إس</span> | <span class="example-en" dir="ltr" lang="en">I like rss</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين آر إس إس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rss?</span> |
 
 

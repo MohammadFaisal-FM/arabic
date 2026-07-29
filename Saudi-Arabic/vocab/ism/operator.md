@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مشغل |
 | **Meaning** | operator |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مشغل — This is operator |
-| أحب مشغل — I like operator |
-| وين مشغل؟ — Where is the operator? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مشغل</span> | <span class="example-en" dir="ltr" lang="en">This is operator</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مشغل</span> | <span class="example-en" dir="ltr" lang="en">I like operator</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مشغل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the operator?</span> |
 
 

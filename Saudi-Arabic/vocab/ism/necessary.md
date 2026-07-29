@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ضروري |
 | **Meaning** | necessary |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ضروري — This is necessary |
-| أحب ضروري — I like necessary |
-| وين ضروري؟ — Where is the necessary? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ضروري</span> | <span class="example-en" dir="ltr" lang="en">This is necessary</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ضروري</span> | <span class="example-en" dir="ltr" lang="en">I like necessary</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ضروري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the necessary?</span> |
 
 

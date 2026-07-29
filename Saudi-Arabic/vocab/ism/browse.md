@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | تصفح |
 | **Meaning** | browse |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا تصفح — This is browse |
-| أحب تصفح — I like browse |
-| وين تصفح؟ — Where is the browse? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا تصفح</span> | <span class="example-en" dir="ltr" lang="en">This is browse</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب تصفح</span> | <span class="example-en" dir="ltr" lang="en">I like browse</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين تصفح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the browse?</span> |
 
 

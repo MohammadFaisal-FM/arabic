@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | جنو |
 | **Meaning** | gnu |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا جنو — This is gnu |
-| أحب جنو — I like gnu |
-| وين جنو؟ — Where is the gnu? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا جنو</span> | <span class="example-en" dir="ltr" lang="en">This is gnu</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب جنو</span> | <span class="example-en" dir="ltr" lang="en">I like gnu</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين جنو؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the gnu?</span> |
 
 

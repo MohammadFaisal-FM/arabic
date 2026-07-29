@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | صناعي |
 | **Meaning** | industrial |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا صناعي — This is industrial |
-| أحب صناعي — I like industrial |
-| وين صناعي؟ — Where is the industrial? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا صناعي</span> | <span class="example-en" dir="ltr" lang="en">This is industrial</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب صناعي</span> | <span class="example-en" dir="ltr" lang="en">I like industrial</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين صناعي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the industrial?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | غش |
 | **Meaning** | cheats |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا غش — This is cheats |
-| أحب غش — I like cheats |
-| وين غش؟ — Where is the cheats? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا غش</span> | <span class="example-en" dir="ltr" lang="en">This is cheats</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب غش</span> | <span class="example-en" dir="ltr" lang="en">I like cheats</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين غش؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cheats?</span> |
 
 

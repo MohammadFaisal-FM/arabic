@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| لو عندي وقت، بجي — if I had time, I would come |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">لو عندي وقت، بجي</span> | <span class="example-en" dir="ltr" lang="en">if I had time, I would come</span> |
+

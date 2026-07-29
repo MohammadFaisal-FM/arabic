@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يوسع |
 | **Meaning** | expand |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يوسع — This is expand |
-| أحب يوسع — I like expand |
-| وين يوسع؟ — Where is the expand? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يوسع</span> | <span class="example-en" dir="ltr" lang="en">This is expand</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يوسع</span> | <span class="example-en" dir="ltr" lang="en">I like expand</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يوسع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the expand?</span> |
 
 

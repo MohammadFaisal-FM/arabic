@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | نيابةً عن |
 | **Meaning** | behalf |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا نيابةً عن — This is behalf |
-| أحب نيابةً عن — I like behalf |
-| وين نيابةً عن؟ — Where is the behalf? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا نيابةً عن</span> | <span class="example-en" dir="ltr" lang="en">This is behalf</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب نيابةً عن</span> | <span class="example-en" dir="ltr" lang="en">I like behalf</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين نيابةً عن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the behalf?</span> |
 
 

@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| في البيت — at home |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">في البيت</span> | <span class="example-en" dir="ltr" lang="en">at home</span> |
+

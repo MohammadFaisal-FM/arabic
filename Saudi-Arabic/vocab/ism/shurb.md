@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | masdar |
+| **Subtype** | مصدر · masdar (verbal noun) |
 | **Arabic** | شرب |
 | **Meaning** | drinking |
 | **Root** | [ش-ر-ب](#roots/shrb) |
@@ -12,18 +12,15 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| الشرب مهم — Drinking is important |
-| هذا شرب — This is a drinking |
-| أحب شرب — I like drinking |
-| وين شرب؟ — Where is the drinking? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">الشرب مهم</span> | <span class="example-en" dir="ltr" lang="en">Drinking is important</span> |
 
 
 ### Links
 
 | | |
 |-|-|
-| **Root** | [ش-ر-ب](#roots/shrb) |
+| **Root family** | [ش-ر-ب](#roots/shrb) — see all word types |
 | **Fiʿl** | [شرب / يشرب](#fil/shrb) |
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | رئيس الوزراء |
 | **Meaning** | prime |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا رئيس الوزراء — This is prime |
-| أحب رئيس الوزراء — I like prime |
-| وين رئيس الوزراء؟ — Where is the prime? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا رئيس الوزراء</span> | <span class="example-en" dir="ltr" lang="en">This is prime</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب رئيس الوزراء</span> | <span class="example-en" dir="ltr" lang="en">I like prime</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين رئيس الوزراء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the prime?</span> |
 
 

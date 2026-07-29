@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | بيتزا |
 | **Meaning** | pizza |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا بيتزا — This is pizza |
-| أحب بيتزا — I like pizza |
-| وين بيتزا؟ — Where is the pizza? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا بيتزا</span> | <span class="example-en" dir="ltr" lang="en">This is pizza</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب بيتزا</span> | <span class="example-en" dir="ltr" lang="en">I like pizza</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين بيتزا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pizza?</span> |
 
 

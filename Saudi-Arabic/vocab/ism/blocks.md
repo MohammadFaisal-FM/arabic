@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | كتل |
 | **Meaning** | blocks |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا كتل — This is blocks |
-| أحب كتل — I like blocks |
-| وين كتل؟ — Where is the blocks? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا كتل</span> | <span class="example-en" dir="ltr" lang="en">This is blocks</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب كتل</span> | <span class="example-en" dir="ltr" lang="en">I like blocks</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين كتل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the blocks?</span> |
 
 

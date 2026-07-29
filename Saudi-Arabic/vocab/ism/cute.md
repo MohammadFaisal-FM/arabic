@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | لطيف |
 | **Meaning** | cute |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا لطيف — This is cute |
-| أحب لطيف — I like cute |
-| وين لطيف؟ — Where is the cute? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا لطيف</span> | <span class="example-en" dir="ltr" lang="en">This is cute</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب لطيف</span> | <span class="example-en" dir="ltr" lang="en">I like cute</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين لطيف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cute?</span> |
 
 

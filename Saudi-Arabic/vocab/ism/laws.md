@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | القوانين |
 | **Meaning** | laws |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا القوانين — This is laws |
-| أحب القوانين — I like laws |
-| وين القوانين؟ — Where is the laws? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا القوانين</span> | <span class="example-en" dir="ltr" lang="en">This is laws</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب القوانين</span> | <span class="example-en" dir="ltr" lang="en">I like laws</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين القوانين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the laws?</span> |
 
 

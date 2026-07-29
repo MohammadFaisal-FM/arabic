@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مدرس |
 | **Meaning** | teacher |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مدرس — This is teacher |
-| أحب مدرس — I like teacher |
-| وين مدرس؟ — Where is the teacher? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مدرس</span> | <span class="example-en" dir="ltr" lang="en">This is teacher</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مدرس</span> | <span class="example-en" dir="ltr" lang="en">I like teacher</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مدرس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the teacher?</span> |
 
 

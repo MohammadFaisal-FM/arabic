@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | قرن |
 | **Meaning** | century |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا قرن — This is century |
-| أحب قرن — I like century |
-| وين قرن؟ — Where is the century? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا قرن</span> | <span class="example-en" dir="ltr" lang="en">This is century</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب قرن</span> | <span class="example-en" dir="ltr" lang="en">I like century</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين قرن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the century?</span> |
 
 

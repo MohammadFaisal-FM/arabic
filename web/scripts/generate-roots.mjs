@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { examplePairsTableSection, splitBilingualLine } from './example-format.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.resolve(__dirname, '../..');
@@ -72,11 +73,18 @@ function mainForms(root) {
   ];
 }
 
+function formDifferenceNote(root, form) {
+  const explicit = (form.note || '').trim();
+  if (explicit) return explicit;
+  if (String(form.form) === 'I') return `base meaning: ${root.meaning}`;
+  return `derived from Form I (${root.formI})`;
+}
+
 function howToUseSection(root) {
   const forms = mainForms(root);
   const rows = forms
     .map((f) => {
-      const label = f.note ? `${f.verb} · ${f.note}` : f.verb;
+      const label = `${f.verb} · ${formDifferenceNote(root, f)}`;
       return `| ${f.form} | ${label} | [Open](#fil/${f.filId}) |`;
     })
     .join('\n');
@@ -89,6 +97,7 @@ ${rows}
 }
 
 function mdFor(root) {
+  const { ar: exAr, en: exEn } = splitBilingualLine(root.example);
   return `# ${root.root}
 
 | Field | Value |
@@ -99,11 +108,7 @@ function mdFor(root) {
 
 ---
 
-## Example
-
-| Arabic · English |
-|------------------|
-| ${root.example} |
+${examplePairsTableSection(exAr ? [{ ar: exAr, en: exEn }] : [])}
 
 ---
 

@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| حتى بكرة — until tomorrow |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">حتى بكرة</span> | <span class="example-en" dir="ltr" lang="en">until tomorrow</span> |
+

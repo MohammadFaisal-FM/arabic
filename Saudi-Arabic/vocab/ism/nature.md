@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | طبيعة |
 | **Meaning** | nature |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا طبيعة — This is nature |
-| أحب طبيعة — I like nature |
-| وين طبيعة؟ — Where is the nature? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا طبيعة</span> | <span class="example-en" dir="ltr" lang="en">This is nature</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب طبيعة</span> | <span class="example-en" dir="ltr" lang="en">I like nature</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين طبيعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the nature?</span> |
 
 

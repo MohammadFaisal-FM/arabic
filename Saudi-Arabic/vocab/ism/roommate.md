@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | رفيق السكن |
 | **Meaning** | roommate |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا رفيق السكن — This is roommate |
-| أحب رفيق السكن — I like roommate |
-| وين رفيق السكن؟ — Where is the roommate? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا رفيق السكن</span> | <span class="example-en" dir="ltr" lang="en">This is roommate</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب رفيق السكن</span> | <span class="example-en" dir="ltr" lang="en">I like roommate</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين رفيق السكن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the roommate?</span> |
 
 

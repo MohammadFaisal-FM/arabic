@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | في سن المراهقة |
 | **Meaning** | teen |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا في سن المراهقة — This is teen |
-| أحب في سن المراهقة — I like teen |
-| وين في سن المراهقة؟ — Where is the teen? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا في سن المراهقة</span> | <span class="example-en" dir="ltr" lang="en">This is teen</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب في سن المراهقة</span> | <span class="example-en" dir="ltr" lang="en">I like teen</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين في سن المراهقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the teen?</span> |
 
 

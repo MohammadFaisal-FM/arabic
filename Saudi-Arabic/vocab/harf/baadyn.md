@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| نشوف بعدين — we’ll see later |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">نشوف بعدين</span> | <span class="example-en" dir="ltr" lang="en">we’ll see later</span> |
+

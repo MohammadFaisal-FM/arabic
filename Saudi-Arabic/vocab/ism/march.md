@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | يمشي |
 | **Meaning** | march |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا يمشي — This is march |
-| أحب يمشي — I like march |
-| وين يمشي؟ — Where is the march? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا يمشي</span> | <span class="example-en" dir="ltr" lang="en">This is march</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب يمشي</span> | <span class="example-en" dir="ltr" lang="en">I like march</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين يمشي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the march?</span> |
 
 

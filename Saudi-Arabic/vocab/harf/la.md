@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| لا تروح — Don’t go |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">لا تروح</span> | <span class="example-en" dir="ltr" lang="en">Don’t go</span> |
+

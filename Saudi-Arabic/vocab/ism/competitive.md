@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | تنافسي |
 | **Meaning** | competitive |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا تنافسي — This is competitive |
-| أحب تنافسي — I like competitive |
-| وين تنافسي؟ — Where is the competitive? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا تنافسي</span> | <span class="example-en" dir="ltr" lang="en">This is competitive</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب تنافسي</span> | <span class="example-en" dir="ltr" lang="en">I like competitive</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين تنافسي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the competitive?</span> |
 
 

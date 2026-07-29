@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | دراجة |
 | **Meaning** | bicycle |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا دراجة — This is bicycle |
-| أحب دراجة — I like bicycle |
-| وين دراجة؟ — Where is the bicycle? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا دراجة</span> | <span class="example-en" dir="ltr" lang="en">This is bicycle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب دراجة</span> | <span class="example-en" dir="ltr" lang="en">I like bicycle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين دراجة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bicycle?</span> |
 
 

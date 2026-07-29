@@ -10,9 +10,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| شفتك أمس — I saw you yesterday |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">شفتك أمس</span> | <span class="example-en" dir="ltr" lang="en">I saw you yesterday</span> |
+
 
 ---
 
@@ -20,13 +21,21 @@
 
 | Form | Past / present | Fiʿl |
 |------|----------------|------|
-| I | رأى / يرى | [Open](#fil/ray) |
+| I | رأى / يرى · base meaning: seeing | [Open](#fil/ray) |
 
 ---
 
-## Related-Words
+## Word types from this root
 
-| Type | Word | Example |
-|------|------|---------|
-| اسم · ism (noun) | رأي | وش رأيك؟ — What do you think? |
+| Type | Word | Notes / Example |
+|------|------|-----------------|
+| فعل · fiʿl (Form I) | [رأى / يرى · base meaning: seeing](#fil/ray) | <span class="example-ar" dir="rtl" lang="ar">شفتك أمس</span><br><span class="example-en" dir="ltr" lang="en">I saw you yesterday</span> |
+| مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
+| اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
+| اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
+| اسم مكان · ism makān (place) | N/A | not common / not listed yet |
+| اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
+| اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
+| اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | [رأي](#ism/ray-n) | <span class="example-ar" dir="rtl" lang="ar">وش رأيك؟</span><br><span class="example-en" dir="ltr" lang="en">What do you think?</span> |
 

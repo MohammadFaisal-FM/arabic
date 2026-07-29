@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | فرجينيا |
 | **Meaning** | virginia |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا فرجينيا — This is virginia |
-| أحب فرجينيا — I like virginia |
-| وين فرجينيا؟ — Where is the virginia? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا فرجينيا</span> | <span class="example-en" dir="ltr" lang="en">This is virginia</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب فرجينيا</span> | <span class="example-en" dir="ltr" lang="en">I like virginia</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين فرجينيا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the virginia?</span> |
 
 

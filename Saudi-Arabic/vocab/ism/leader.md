@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | قائد |
 | **Meaning** | leader |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا قائد — This is leader |
-| أحب قائد — I like leader |
-| وين قائد؟ — Where is the leader? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا قائد</span> | <span class="example-en" dir="ltr" lang="en">This is leader</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب قائد</span> | <span class="example-en" dir="ltr" lang="en">I like leader</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين قائد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the leader?</span> |
 
 

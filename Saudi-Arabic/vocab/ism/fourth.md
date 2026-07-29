@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | الرابع |
 | **Meaning** | fourth |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا الرابع — This is fourth |
-| أحب الرابع — I like fourth |
-| وين الرابع؟ — Where is the fourth? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا الرابع</span> | <span class="example-en" dir="ltr" lang="en">This is fourth</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب الرابع</span> | <span class="example-en" dir="ltr" lang="en">I like fourth</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الرابع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fourth?</span> |
 
 

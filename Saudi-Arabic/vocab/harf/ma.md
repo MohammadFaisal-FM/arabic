@@ -12,6 +12,7 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| ما أبي — I don’t want |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">ما أبي</span> | <span class="example-en" dir="ltr" lang="en">I don’t want</span> |
+

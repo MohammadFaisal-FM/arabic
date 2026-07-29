@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | loan |
+| **Subtype** | دخيل · loanword |
 | **Arabic** | فيلم |
 | **Meaning** | film / movie |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,11 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| نشوف فيلم — We watch a movie |
-| هذا فيلم — This is a film |
-| أحب فيلم — I like film |
-| وين فيلم؟ — Where is the film? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">نشوف فيلم</span> | <span class="example-en" dir="ltr" lang="en">We watch a movie</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا فيلم</span> | <span class="example-en" dir="ltr" lang="en">This is a film</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب فيلم</span> | <span class="example-en" dir="ltr" lang="en">I like film</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين فيلم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the film?</span> |
 
 

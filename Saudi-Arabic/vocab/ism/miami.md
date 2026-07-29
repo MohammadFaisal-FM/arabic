@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | ميامي |
 | **Meaning** | miami |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا ميامي — This is miami |
-| أحب ميامي — I like miami |
-| وين ميامي؟ — Where is the miami? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا ميامي</span> | <span class="example-en" dir="ltr" lang="en">This is miami</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب ميامي</span> | <span class="example-en" dir="ltr" lang="en">I like miami</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين ميامي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the miami?</span> |
 
 

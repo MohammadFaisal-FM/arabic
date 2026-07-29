@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | خاتمة |
 | **Meaning** | conclusion |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا خاتمة — This is conclusion |
-| أحب خاتمة — I like conclusion |
-| وين خاتمة؟ — Where is the conclusion? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا خاتمة</span> | <span class="example-en" dir="ltr" lang="en">This is conclusion</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب خاتمة</span> | <span class="example-en" dir="ltr" lang="en">I like conclusion</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين خاتمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the conclusion?</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | التصوير الفوتوغرافي |
 | **Meaning** | photography |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا التصوير الفوتوغرافي — This is photography |
-| أحب التصوير الفوتوغرافي — I like photography |
-| وين التصوير الفوتوغرافي؟ — Where is the photography? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا التصوير الفوتوغرافي</span> | <span class="example-en" dir="ltr" lang="en">This is photography</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب التصوير الفوتوغرافي</span> | <span class="example-en" dir="ltr" lang="en">I like photography</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين التصوير الفوتوغرافي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the photography?</span> |
 
 

@@ -10,9 +10,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| وش تشتغل؟ — What do you do? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">وش تشتغل؟</span> | <span class="example-en" dir="ltr" lang="en">What do you do?</span> |
+
 
 ---
 
@@ -20,13 +21,21 @@
 
 | Form | Past / present | Fiʿl |
 |------|----------------|------|
-| I | عمل / يعمل | [Open](#fil/3ml) |
+| I | عمل / يعمل · base meaning: working / doing | [Open](#fil/3ml) |
 
 ---
 
-## Related-Words
+## Word types from this root
 
-| Type | Word | Example |
-|------|------|---------|
-| اسم · ism (noun) | عمل | أدور على عمل — I'm looking for work |
+| Type | Word | Notes / Example |
+|------|------|-----------------|
+| فعل · fiʿl (Form I) | [عمل / يعمل · base meaning: working / doing](#fil/3ml) | <span class="example-ar" dir="rtl" lang="ar">وش تشتغل؟</span><br><span class="example-en" dir="ltr" lang="en">What do you do?</span> |
+| مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
+| اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
+| اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
+| اسم مكان · ism makān (place) | N/A | not common / not listed yet |
+| اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
+| اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
+| اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | [عمل](#ism/amal) | <span class="example-ar" dir="rtl" lang="ar">أدور على عمل</span><br><span class="example-en" dir="ltr" lang="en">I'm looking for work</span> |
 

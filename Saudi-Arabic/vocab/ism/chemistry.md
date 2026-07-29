@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | كيمياء |
 | **Meaning** | chemistry |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا كيمياء — This is chemistry |
-| أحب كيمياء — I like chemistry |
-| وين كيمياء؟ — Where is the chemistry? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا كيمياء</span> | <span class="example-en" dir="ltr" lang="en">This is chemistry</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب كيمياء</span> | <span class="example-en" dir="ltr" lang="en">I like chemistry</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين كيمياء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the chemistry?</span> |
 
 

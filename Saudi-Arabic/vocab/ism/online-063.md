@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | اتصال |
 | **Meaning** | communication |
 | **Root** | — (loan / no everyday root) |
@@ -12,11 +12,11 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| تبقى على اتصال معه. — Keep in touch with him. |
-| هذا اتصال — This is a communication |
-| أحب اتصال — I like communication |
-| وين اتصال؟ — Where is the communication? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">تبقى على اتصال معه.</span> | <span class="example-en" dir="ltr" lang="en">Keep in touch with him.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هذا اتصال</span> | <span class="example-en" dir="ltr" lang="en">This is a communication</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب اتصال</span> | <span class="example-en" dir="ltr" lang="en">I like communication</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين اتصال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the communication?</span> |
 
 

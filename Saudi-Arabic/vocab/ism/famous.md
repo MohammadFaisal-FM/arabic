@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Type** | اسم · ism (noun) |
-| **Subtype** | noun |
+| **Subtype** | اسم · ism (noun) |
 | **Arabic** | مشهور |
 | **Meaning** | famous |
 | **Root** | — (loan / no everyday root) |
@@ -12,10 +12,10 @@
 
 ## Example
 
-| Arabic · English |
-|------------------|
-| هذا مشهور — This is famous |
-| أحب مشهور — I like famous |
-| وين مشهور؟ — Where is the famous? |
+| Arabic | English |
+|--------|---------|
+| <span class="example-ar" dir="rtl" lang="ar">هذا مشهور</span> | <span class="example-en" dir="ltr" lang="en">This is famous</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب مشهور</span> | <span class="example-en" dir="ltr" lang="en">I like famous</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين مشهور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the famous?</span> |
 
 

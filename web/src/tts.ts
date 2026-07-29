@@ -1,11 +1,13 @@
 /**
  * Device TTS for Arabic learning.
  * Dropdown:
- *  - Arabic Voices → browser Arabic voices + Windows Hoda/Naayf if Chrome hides them
+ *  - Arabic Voices → every Arabic voice the browser exposes (incl. Arabic-script names)
  *  - Non-Arabic Voice Default → one best non-Arabic (prefer English)
  */
 
 const VOICE_PREF_KEY = 'arabic-tts-voice-uri';
+/** Arabic letters / presentation forms — catch voices named in Arabic script */
+const ARABIC_SCRIPT_RE = /[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]/;
 
 let cachedVoices: SpeechSynthesisVoice[] | null = null;
 let voicesReady: Promise<SpeechSynthesisVoice[]> | null = null;
@@ -39,10 +41,13 @@ function ensureVoices(): Promise<SpeechSynthesisVoice[]> {
   if (!voicesListenerAttached) {
     voicesListenerAttached = true;
     speechSynthesis.addEventListener('voiceschanged', () => {
-      const before = cachedVoices?.length ?? 0;
-      refreshVoiceCache();
-      const after = cachedVoices?.length ?? 0;
-      if (after !== before) remountOpenVoicePickers();
+      const prev = cachedVoices || [];
+      const next = refreshVoiceCache();
+      const prevAr = prev.filter((v) => voiceMeta(v).isArabic).length;
+      const nextAr = next.filter((v) => voiceMeta(v).isArabic).length;
+      if (next.length !== prev.length || nextAr !== prevAr) {
+        remountOpenVoicePickers();
+      }
     });
   }
 
@@ -50,8 +55,15 @@ function ensureVoices(): Promise<SpeechSynthesisVoice[]> {
   const now = speechSynthesis.getVoices();
   if (now.length > 0) {
     cachedVoices = now;
-    if (!voicesReady) voicesReady = Promise.resolve(now);
-    return Promise.resolve([...now]);
+    if (!voicesReady) {
+      // Still wait briefly — more Arabic voices may appear on voiceschanged
+      voicesReady = new Promise((resolve) => {
+        window.setTimeout(() => {
+          resolve(refreshVoiceCache());
+        }, 400);
+      });
+    }
+    return Promise.resolve([...refreshVoiceCache()]);
   }
 
   if (voicesReady) return voicesReady;
@@ -68,16 +80,36 @@ function ensureVoices(): Promise<SpeechSynthesisVoice[]> {
 }
 
 function voiceMeta(v: SpeechSynthesisVoice) {
-  const lang = (v.lang || '').toLowerCase();
+  const lang = (v.lang || '').toLowerCase().replace(/_/g, '-');
   const name = (v.name || '').toLowerCase();
+  const uri = (v.voiceURI || '').toLowerCase();
+  const blob = `${lang} ${name} ${uri}`;
+
+  const hasArabicScript =
+    ARABIC_SCRIPT_RE.test(v.name || '') || ARABIC_SCRIPT_RE.test(v.voiceURI || '');
+
   const isSaudi =
     lang.startsWith('ar-sa') ||
-    name.includes('saudi') ||
-    name.includes('naayf') ||
-    name.includes('نايف');
-  const isHoda = name.includes('hoda');
+    blob.includes('saudi') ||
+    blob.includes('naayf') ||
+    blob.includes('نـايف') ||
+    blob.includes('نايف') ||
+    blob.includes('arsa') ||
+    blob.includes('ar_sa');
+
+  const isHoda =
+    blob.includes('hoda') ||
+    blob.includes('هدى') ||
+    blob.includes('هودا') ||
+    blob.includes('areg') ||
+    blob.includes('ar_eg');
+
   const isEgyptian =
-    isHoda || lang.startsWith('ar-eg') || name.includes('egypt');
+    isHoda ||
+    lang.startsWith('ar-eg') ||
+    blob.includes('egypt') ||
+    blob.includes('egyptian');
+
   const isGulf =
     isSaudi ||
     lang.startsWith('ar-ae') ||
@@ -85,12 +117,28 @@ function voiceMeta(v: SpeechSynthesisVoice) {
     lang.startsWith('ar-qa') ||
     lang.startsWith('ar-bh') ||
     lang.startsWith('ar-om') ||
-    name.includes('gulf') ||
-    name.includes('emirati');
+    blob.includes('gulf') ||
+    blob.includes('emirati') ||
+    blob.includes('khaleeji');
+
   const isNatural =
-    name.includes('natural') || name.includes('online') || name.includes('neural');
+    blob.includes('natural') || blob.includes('online') || blob.includes('neural');
+
+  // Never miss Arabic: lang ar*, Arabic script in name, known voice names, "arab*"
   const isArabic =
-    lang.startsWith('ar') || name.includes('arab') || isHoda || isSaudi;
+    lang.startsWith('ar') ||
+    /(^|[^a-z])ar([^a-z]|$)/.test(lang) ||
+    hasArabicScript ||
+    blob.includes('arab') ||
+    blob.includes('arabic') ||
+    isHoda ||
+    isSaudi ||
+    isEgyptian ||
+    blob.includes('msa') ||
+    blob.includes('fusha') ||
+    blob.includes('fuṣḥ') ||
+    blob.includes('فصح');
+
   return { lang, name, isSaudi, isHoda, isGulf, isEgyptian, isNatural, isArabic };
 }
 
@@ -171,11 +219,20 @@ function pickBestNonArabicVoice(
 
 /**
  * Only voices the *browser* can actually use (speechSynthesis.getVoices()).
- * Windows may have Hoda installed while Chrome still omits it — we cannot fake it.
+ * Includes every Arabic voice we can detect (lang, English name, or Arabic-script name).
  */
 function buildArabicOptions(voices: SpeechSynthesisVoice[]): VoiceOption[] {
-  return voices
-    .filter((v) => voiceMeta(v).isArabic)
+  // Dedupe by voiceURI+name+lang in case the browser lists duplicates
+  const seen = new Set<string>();
+  const arabic: SpeechSynthesisVoice[] = [];
+  for (const v of voices) {
+    if (!voiceMeta(v).isArabic) continue;
+    const key = voiceUri(v);
+    if (seen.has(key)) continue;
+    seen.add(key);
+    arabic.push(v);
+  }
+  return arabic
     .sort((a, b) => voiceRank(a) - voiceRank(b))
     .map((v) => ({
       id: voiceUri(v),

@@ -1,21 +1,14 @@
 /**
- * Device TTS for Arabic learning:
- *  1) User-selected voice from dropdown (all system voices listed)
- *  2) Auto: Naayf/Saudi → Hoda/other Arabic → romanized (always audible)
- *
- * Voices come from the OS/browser on the current device (Windows / Android / iPhone).
- * The website does not host voices.
+ * Device TTS for Arabic learning.
+ * Dropdown lists every voice on this device (Arabic / Non-Arabic).
+ * Default = best available system voice (prefer Arabic).
+ * If the device has no voices at all → "No voice available".
  */
 
 const VOICE_PREF_KEY = 'arabic-tts-voice-uri';
-const HINT_KEY = 'arabic-tts-quality-hint';
-const AUTO_VALUE = '__auto__';
-const ROMANIZED_VALUE = '__romanized__';
 
 let cachedVoices: SpeechSynthesisVoice[] | null = null;
 let voicesReady: Promise<SpeechSynthesisVoice[]> | null = null;
-
-type PlayTier = 'saudi' | 'arabic' | 'romanized' | 'picked';
 
 function ensureVoices(): Promise<SpeechSynthesisVoice[]> {
   if (voicesReady) return voicesReady;
@@ -97,11 +90,11 @@ function voiceUri(v: SpeechSynthesisVoice): string {
   return `${v.voiceURI}||${v.name}||${v.lang}`;
 }
 
-function getVoicePref(): string {
+function getVoicePref(): string | null {
   try {
-    return localStorage.getItem(VOICE_PREF_KEY) || AUTO_VALUE;
+    return localStorage.getItem(VOICE_PREF_KEY);
   } catch {
-    return AUTO_VALUE;
+    return null;
   }
 }
 
@@ -110,6 +103,20 @@ function findVoiceByUri(
   uri: string
 ): SpeechSynthesisVoice | null {
   return voices.find((v) => voiceUri(v) === uri) ?? null;
+}
+
+/** Default: best system voice (Arabic preferred via voiceRank). */
+function defaultVoice(voices: SpeechSynthesisVoice[]): SpeechSynthesisVoice | null {
+  return voices[0] ?? null;
+}
+
+function resolveVoice(voices: SpeechSynthesisVoice[]): SpeechSynthesisVoice | null {
+  const pref = getVoicePref();
+  if (pref) {
+    const found = findVoiceByUri(voices, pref);
+    if (found) return found;
+  }
+  return defaultVoice(voices);
 }
 
 export async function pickArabicVoice(): Promise<SpeechSynthesisVoice | null> {
@@ -122,10 +129,7 @@ export async function hasSaudiVoice(): Promise<boolean> {
   return arabic.some((v) => voiceMeta(v).isSaudi);
 }
 
-const INSTALL_HINT =
-  'Tip: on Windows add Arabic voices in Settings → Speech → Add voices (Naayf / Hoda).';
-
-function showToast(msg: string, ms = 7000) {
+function showToast(msg: string, ms = 5000) {
   const toast = document.getElementById('toast');
   if (!toast) return;
   toast.textContent = msg;
@@ -135,44 +139,6 @@ function showToast(msg: string, ms = 7000) {
     toast.classList.add('hidden');
     toast.classList.remove('toast-long');
   }, ms);
-}
-
-function announcePlaying(tier: PlayTier, voiceName?: string) {
-  try {
-    const key = `${HINT_KEY}:${tier}`;
-    const tipSeen = sessionStorage.getItem(key) === '1';
-    sessionStorage.setItem(key, '1');
-
-    if (tier === 'picked') {
-      if (!tipSeen) {
-        showToast(`Playing with selected voice${voiceName ? `: ${voiceName}` : ''}.`, 3500);
-      }
-      return;
-    }
-    if (tier === 'saudi') {
-      if (!tipSeen) {
-        showToast(`Playing Saudi voice${voiceName ? ` (${voiceName})` : ''}.`, 3200);
-      }
-      return;
-    }
-    if (tier === 'arabic') {
-      showToast(
-        tipSeen
-          ? `Playing Arabic voice${voiceName ? ` (${voiceName})` : ''}.`
-          : `Playing Arabic voice${voiceName ? ` (${voiceName})` : ''}. ${INSTALL_HINT}`,
-        tipSeen ? 4000 : 8000
-      );
-      return;
-    }
-    showToast(
-      tipSeen
-        ? 'Playing romanized Arabic (no usable Arabic voice).'
-        : `Playing romanized Arabic so you still hear something. ${INSTALL_HINT}`,
-      tipSeen ? 4500 : 9000
-    );
-  } catch {
-    showToast('Playing audio…');
-  }
 }
 
 let currentBtn: HTMLButtonElement | null = null;
@@ -377,8 +343,9 @@ function voiceLabel(v: SpeechSynthesisVoice): string {
 }
 
 /**
- * Auto cascade + optional manual voice from dropdown.
- * Manual non-Arabic voices speak romanized text so audio is audible.
+ * Play with the selected/default system voice.
+ * Arabic voices speak Arabic script; non-Arabic voices use romanization (English voices can't speak Arabic script).
+ * If the device has no voices → "No voice available".
  */
 export async function speakArabic(text: string, btn?: HTMLButtonElement | null): Promise<void> {
   const clean = najdiSpeakHints(text);
@@ -390,7 +357,7 @@ export async function speakArabic(text: string, btn?: HTMLButtonElement | null):
   }
 
   if (!ttsSupported()) {
-    showToast('Speech not supported in this browser — try Edge or Chrome.');
+    showToast('No voice available');
     return;
   }
 
@@ -401,94 +368,38 @@ export async function speakArabic(text: string, btn?: HTMLButtonElement | null):
     if (gen === speakGen) setPlaying(btn ?? null, false);
   };
 
-  const stillActive = () => gen === speakGen;
-
   try {
     const all = await listAllVoices();
-    const arabic = all.filter((v) => voiceMeta(v).isArabic);
-    const saudi = arabic.filter((v) => voiceMeta(v).isSaudi);
-    const hodaOrOther = arabic.filter((v) => !voiceMeta(v).isSaudi);
-    const pref = getVoicePref();
-
-    // Force romanized mode from dropdown
-    if (pref === ROMANIZED_VALUE) {
-      const fallbackVoice =
-        all.find((v) => !voiceMeta(v).isArabic) ?? all[0] ?? null;
-      const latin = romanizeArabic(clean);
-      announcePlaying('romanized', fallbackVoice?.name);
-      await speakLocal(latin, fallbackVoice, fallbackVoice?.lang || 'en-US');
+    if (!all.length) {
+      showToast('No voice available');
       return;
     }
 
-    // Manual voice from dropdown
-    if (pref !== AUTO_VALUE) {
-      const picked = findVoiceByUri(all, pref);
-      if (picked && stillActive()) {
-        const m = voiceMeta(picked);
-        if (m.isArabic) {
-          announcePlaying('picked', picked.name);
-          const ok = await speakLocal(clean, picked, picked.lang || 'ar');
-          if (!stillActive()) return;
-          if (ok) return;
-          // Arabic voice failed → romanize with same voice / any voice
-          const latin = romanizeArabic(clean);
-          announcePlaying('romanized', picked.name);
-          await speakLocal(latin, picked, picked.lang || 'en-US');
-          return;
-        }
-        // Non-Arabic voice: romanize so the user actually hears something
-        const latin = romanizeArabic(clean);
-        announcePlaying('romanized', picked.name);
-        await speakLocal(latin, picked, picked.lang || 'en-US');
-        return;
-      }
+    const voice = resolveVoice(all);
+    if (!voice) {
+      showToast('No voice available');
+      return;
     }
 
-    // Auto: Naayf/Saudi → Hoda/other Arabic → romanized
-    if (saudi[0] && stillActive()) {
-      announcePlaying('saudi', saudi[0].name);
-      const ok = await speakLocal(clean, saudi[0], saudi[0].lang || 'ar-SA');
-      if (!stillActive()) return;
-      if (ok) return;
+    const m = voiceMeta(voice);
+    if (m.isArabic) {
+      const ok = await speakLocal(clean, voice, voice.lang || 'ar');
+      if (gen !== speakGen) return;
+      if (!ok) showToast('No voice available');
+      return;
     }
 
-    if (hodaOrOther[0] && stillActive()) {
-      announcePlaying('arabic', hodaOrOther[0].name);
-      const ok = await speakLocal(
-        clean,
-        hodaOrOther[0],
-        hodaOrOther[0].lang || 'ar'
-      );
-      if (!stillActive()) return;
-      if (ok) return;
-    }
-
-    if (stillActive()) {
-      const fallbackVoice =
-        all.find((v) => !voiceMeta(v).isArabic) ?? all[0] ?? null;
-      const latin = romanizeArabic(clean);
-      announcePlaying('romanized', fallbackVoice?.name);
-      const ok = await speakLocal(
-        latin,
-        fallbackVoice,
-        fallbackVoice?.lang || 'en-US'
-      );
-      if (!stillActive()) return;
-      if (ok) return;
-    }
-
-    if (stillActive()) {
-      showToast(
-        `No audible voice on this device. ${INSTALL_HINT} Or try your phone.`,
-        10000
-      );
-    }
+    // Non-Arabic system voice: speak romanized text so something is audible
+    const latin = romanizeArabic(clean);
+    const ok = await speakLocal(latin, voice, voice.lang || 'en-US');
+    if (gen !== speakGen) return;
+    if (!ok) showToast('No voice available');
   } finally {
     finish();
   }
 }
 
-/** Clean dropdown: Auto / Romanized + Arabic Voices / Non-Arabic Voices. */
+/** Dropdown: Arabic Voices / Non-Arabic Voices only. Default = best available. */
 export async function mountTtsVoicePicker(host: HTMLElement) {
   if (!ttsSupported()) return;
 
@@ -516,43 +427,47 @@ export async function mountTtsVoicePicker(host: HTMLElement) {
     (group ?? select).appendChild(opt);
   };
 
-  addOpt(AUTO_VALUE, 'Auto');
-  addOpt(ROMANIZED_VALUE, 'Romanized');
-
-  if (arabic.length) {
-    const g = document.createElement('optgroup');
-    g.label = 'Arabic Voices';
-    for (const v of arabic) addOpt(voiceUri(v), voiceLabel(v), g);
-    select.appendChild(g);
-  }
-
-  if (other.length) {
-    const g = document.createElement('optgroup');
-    g.label = 'Non-Arabic Voices';
-    for (const v of other) addOpt(voiceUri(v), voiceLabel(v), g);
-    select.appendChild(g);
-  }
-
   if (!all.length) {
     select.disabled = true;
-    addOpt(AUTO_VALUE, 'No voices found');
-  }
-
-  const pref = getVoicePref();
-  if ([...select.options].some((o) => o.value === pref)) {
-    select.value = pref;
+    addOpt('', 'No voice available');
   } else {
-    select.value = AUTO_VALUE;
-  }
-
-  select.addEventListener('change', () => {
-    try {
-      localStorage.setItem(VOICE_PREF_KEY, select.value);
-    } catch {
-      /* ignore */
+    if (arabic.length) {
+      const g = document.createElement('optgroup');
+      g.label = 'Arabic Voices';
+      for (const v of arabic) addOpt(voiceUri(v), voiceLabel(v), g);
+      select.appendChild(g);
     }
-    showToast('Voice saved — tap ▶', 2500);
-  });
+
+    if (other.length) {
+      const g = document.createElement('optgroup');
+      g.label = 'Non-Arabic Voices';
+      for (const v of other) addOpt(voiceUri(v), voiceLabel(v), g);
+      select.appendChild(g);
+    }
+
+    const resolved = resolveVoice(all);
+    // Drop stale Auto/Romanized prefs
+    const pref = getVoicePref();
+    if (pref && findVoiceByUri(all, pref)) {
+      select.value = pref;
+    } else if (resolved) {
+      select.value = voiceUri(resolved);
+      try {
+        localStorage.setItem(VOICE_PREF_KEY, select.value);
+      } catch {
+        /* ignore */
+      }
+    }
+
+    select.addEventListener('change', () => {
+      try {
+        localStorage.setItem(VOICE_PREF_KEY, select.value);
+      } catch {
+        /* ignore */
+      }
+      showToast('Voice saved — tap ▶', 2500);
+    });
+  }
 
   bar.appendChild(label);
   bar.appendChild(select);

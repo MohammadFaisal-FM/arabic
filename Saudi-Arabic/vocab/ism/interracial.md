@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بين الأعراق</span> | <span class="example-en" dir="ltr" lang="en">This is interracial</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بين الأعراق</span> | <span class="example-en" dir="ltr" lang="en">I like interracial</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بين الأعراق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the interracial?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بين الأعراق في الحديقة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put an interracial in the park, if you need it later, and then we prayed</span> |
 
 

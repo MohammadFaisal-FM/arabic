@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يضرب</span> | <span class="example-en" dir="ltr" lang="en">This is hits</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يضرب</span> | <span class="example-en" dir="ltr" lang="en">I like hits</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يضرب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hits?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يضرب عند الصيدلية، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a hits at the pharmacy, because the weather is a bit hot, and then I tidied the table</span> |
 
 

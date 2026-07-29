@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حاولت ماري إغراء توم.</span> | <span class="example-en" dir="ltr" lang="en">Mary tried to seduce Tom.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اغراء</span> | <span class="example-en" dir="ltr" lang="en">This is a temptation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اغراء</span> | <span class="example-en" dir="ltr" lang="en">I like temptation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اغراء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the temptation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اغراء في المكتبة مع الملعقة الصغيرة، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a temptation in the library with the small spoon, before the place closes, and then I wiped the floor</span> |
 
 

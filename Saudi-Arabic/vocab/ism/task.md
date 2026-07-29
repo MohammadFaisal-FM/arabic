@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مهمة</span> | <span class="example-en" dir="ltr" lang="en">This is task</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مهمة</span> | <span class="example-en" dir="ltr" lang="en">I like task</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مهمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the task?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مهمة قدام الملعب مع اللاصق الشفاف، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a task in front of the pitch with the clear tape, because the light is better there, and then I wrote a note</span> |
 
 

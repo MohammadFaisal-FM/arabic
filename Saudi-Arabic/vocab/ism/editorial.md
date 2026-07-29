@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا افتتاحية</span> | <span class="example-en" dir="ltr" lang="en">This is editorial</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب افتتاحية</span> | <span class="example-en" dir="ltr" lang="en">I like editorial</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين افتتاحية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the editorial?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت افتتاحية عند الاستقبال، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put an editorial at reception, before the driver arrives, and then I wiped the floor</span> |
 
 

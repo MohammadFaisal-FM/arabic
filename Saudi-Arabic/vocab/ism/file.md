@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملف</span> | <span class="example-en" dir="ltr" lang="en">This is file</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملف</span> | <span class="example-en" dir="ltr" lang="en">I like file</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the file?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ملف عند العيادة مع الدباسة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a file at the clinic with the stapler, if you need it later, and then we prayed</span> |
 
 

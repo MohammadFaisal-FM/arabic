@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عدة</span> | <span class="example-en" dir="ltr" lang="en">This is kit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عدة</span> | <span class="example-en" dir="ltr" lang="en">I like kit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عدة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the kit?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عدة في الحقيبة، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a kit in the bag, before the driver arrives, and then I charged the device</span> |
 
 

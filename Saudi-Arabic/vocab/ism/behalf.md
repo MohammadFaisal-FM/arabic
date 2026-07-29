@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نيابةً عن</span> | <span class="example-en" dir="ltr" lang="en">This is behalf</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نيابةً عن</span> | <span class="example-en" dir="ltr" lang="en">I like behalf</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نيابةً عن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the behalf?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نيابةً عن عند العيادة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a behalf at the clinic, if you need it later, and then I drank some water</span> |
 
 

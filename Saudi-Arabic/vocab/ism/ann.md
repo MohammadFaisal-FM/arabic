@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا آن</span> | <span class="example-en" dir="ltr" lang="en">This is ann</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب آن</span> | <span class="example-en" dir="ltr" lang="en">I like ann</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين آن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ann?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت آن في المكتبة مع الملعقة الصغيرة، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found an ann in the library with the small spoon, before the place closes, and then I wiped the floor</span> |
 
 

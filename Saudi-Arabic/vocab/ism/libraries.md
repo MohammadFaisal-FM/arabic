@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المكتبات</span> | <span class="example-en" dir="ltr" lang="en">This is libraries</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المكتبات</span> | <span class="example-en" dir="ltr" lang="en">I like libraries</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المكتبات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the libraries?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المكتبات على الشرفة مع البطاقة الصفراء، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a libraries on the balcony with the yellow card, because the boy is sleepy, and then I turned off the light</span> |
 
 

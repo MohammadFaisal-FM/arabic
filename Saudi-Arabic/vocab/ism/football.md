@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كرة القدم</span> | <span class="example-en" dir="ltr" lang="en">This is football</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كرة القدم</span> | <span class="example-en" dir="ltr" lang="en">I like football</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كرة القدم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the football?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كرة القدم الحين في الحقيبة، لأن الزحمة قوية، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a football now in the bag, because traffic is heavy, and I also took the clean shoes</span> |
 
 

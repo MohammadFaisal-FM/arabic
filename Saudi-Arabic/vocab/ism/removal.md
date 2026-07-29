@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إزالة</span> | <span class="example-en" dir="ltr" lang="en">This is removal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إزالة</span> | <span class="example-en" dir="ltr" lang="en">I like removal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إزالة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the removal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إزالة الحين في الحقيبة، قبل ما يقفل المكان، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a removal now in the bag, before the place closes, and I also took the clean shoes</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دولة</span> | <span class="example-en" dir="ltr" lang="en">This is country</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دولة</span> | <span class="example-en" dir="ltr" lang="en">I like country</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دولة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the country?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج دولة الحين في المدرسة، عشان ما نتأخر، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a country now at school, so we are not late, and I also took the sharp scissors</span> |
 
 

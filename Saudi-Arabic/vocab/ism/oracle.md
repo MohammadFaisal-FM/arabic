@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أوراكل</span> | <span class="example-en" dir="ltr" lang="en">This is oracle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أوراكل</span> | <span class="example-en" dir="ltr" lang="en">I like oracle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أوراكل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the oracle?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أوراكل الحين في المدرسة، قبل صلاة المغرب، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need an oracle now at school, before Maghrib prayer, and I also took the sharp scissors</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تلفزيون</span> | <span class="example-en" dir="ltr" lang="en">This is television</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تلفزيون</span> | <span class="example-en" dir="ltr" lang="en">I like television</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تلفزيون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the television?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تلفزيون قدام المصعد مع الكرتون الفاضي، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a television in front of the elevator with the empty carton, but keep it near you, and then the phone rang</span> |
 
 

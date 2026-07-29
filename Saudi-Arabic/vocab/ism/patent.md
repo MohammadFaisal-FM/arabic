@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا براءة اختراع</span> | <span class="example-en" dir="ltr" lang="en">This is patent</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب براءة اختراع</span> | <span class="example-en" dir="ltr" lang="en">I like patent</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين براءة اختراع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the patent?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت براءة اختراع في المدرسة، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a patent at school, because the boy is sleepy, and then I replied to the message</span> |
 
 

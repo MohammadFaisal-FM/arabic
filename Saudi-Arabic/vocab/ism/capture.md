@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يأسر</span> | <span class="example-en" dir="ltr" lang="en">This is capture</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يأسر</span> | <span class="example-en" dir="ltr" lang="en">I like capture</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يأسر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the capture?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يأسر عند الباب مع المحفظة البنية، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a capture at the door with the brown wallet, because work finished early, and then the boy slept</span> |
 
 

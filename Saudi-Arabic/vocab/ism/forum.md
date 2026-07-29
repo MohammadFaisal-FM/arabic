@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المنتدى</span> | <span class="example-en" dir="ltr" lang="en">This is forum</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المنتدى</span> | <span class="example-en" dir="ltr" lang="en">I like forum</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المنتدى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the forum?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المنتدى قدام المصعد مع الكرتون الفاضي، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a forum in front of the elevator with the empty carton, but keep it near you, and then the phone rang</span> |
 
 

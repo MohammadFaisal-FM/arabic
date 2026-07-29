@@ -14,10 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">مكتوب كذا</span> | <span class="example-en" dir="ltr" lang="en">It is written like this</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا مكتوب</span> | <span class="example-en" dir="ltr" lang="en">This is a written (thing)</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مكتوب</span> | <span class="example-en" dir="ltr" lang="en">I like written (thing)</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مكتوب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the written (thing)?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مكتوب في السيارة، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a written (thing) in the car, so we are not late, and then I replied to the message</span> |
 
 
 ### Links

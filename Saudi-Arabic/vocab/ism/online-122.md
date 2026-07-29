@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لا تزال لديها أشغال منزليّة عليها القيام بها.</span> | <span class="example-en" dir="ltr" lang="en">She still has housework to do.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اشغال الحين في السيارة، لأن الولد نعسان، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a works now in the car, because the boy is sleepy, and I also took the soft pillow</span> |
 
 

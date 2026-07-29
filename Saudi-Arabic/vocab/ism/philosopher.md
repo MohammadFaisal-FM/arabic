@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فيلسوف</span> | <span class="example-en" dir="ltr" lang="en">This is philosopher</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فيلسوف</span> | <span class="example-en" dir="ltr" lang="en">I like philosopher</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فيلسوف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the philosopher?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فيلسوف في السيارة مع الوسادة الناعمة، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a philosopher in the car with the soft pillow, because the boy is sleepy, and then I turned off the light</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لينكس</span> | <span class="example-en" dir="ltr" lang="en">This is linux</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لينكس</span> | <span class="example-en" dir="ltr" lang="en">I like linux</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لينكس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the linux?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت لينكس في الغرفة مع المفتاح الاحتياطي، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a linux in the room with the spare key, because the weather is a bit hot, and then I tidied the table</span> |
 
 

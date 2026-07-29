@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سفينة</span> | <span class="example-en" dir="ltr" lang="en">This is ship</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سفينة</span> | <span class="example-en" dir="ltr" lang="en">I like ship</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سفينة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ship?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سفينة على المكتب، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a ship on the desk, because the light is better there, and then I washed my hands</span> |
 
 

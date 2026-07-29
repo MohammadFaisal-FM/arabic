@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الحقول</span> | <span class="example-en" dir="ltr" lang="en">This is fields</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الحقول</span> | <span class="example-en" dir="ltr" lang="en">I like fields</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الحقول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fields?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الحقول الحين عند الاستقبال، قبل ما يقفل المكان، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a fields now at reception, before the place closes, and I also took the glass cup</span> |
 
 

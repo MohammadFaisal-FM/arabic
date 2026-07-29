@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا انجلترا</span> | <span class="example-en" dir="ltr" lang="en">This is england</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب انجلترا</span> | <span class="example-en" dir="ltr" lang="en">I like england</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين انجلترا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the england?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت انجلترا على الشرفة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an england on the balcony, because the boy is sleepy, and then we laughed a bit</span> |
 
 

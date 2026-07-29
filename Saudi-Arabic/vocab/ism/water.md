@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ماء</span> | <span class="example-en" dir="ltr" lang="en">This is water</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ماء</span> | <span class="example-en" dir="ltr" lang="en">I like water</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ماء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the water?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ماء عند الاستقبال، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a water at reception, so revision is easier, and then I charged the device</span> |
 
 

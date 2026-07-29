@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ألفا</span> | <span class="example-en" dir="ltr" lang="en">This is alpha</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ألفا</span> | <span class="example-en" dir="ltr" lang="en">I like alpha</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ألفا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the alpha?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ألفا على المكتب مع البطانية الخفيفة، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an alpha on the desk with the light blanket, because the weather is a bit hot, and then I tidied the table</span> |
 
 

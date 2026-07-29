@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حدود</span> | <span class="example-en" dir="ltr" lang="en">This is border</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حدود</span> | <span class="example-en" dir="ltr" lang="en">I like border</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حدود؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the border?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حدود قدام المصعد مع الكرتون الفاضي، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a border in front of the elevator with the empty carton, so we make the appointment, and then the boy slept</span> |
 
 

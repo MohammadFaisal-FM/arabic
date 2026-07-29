@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يعلو</span> | <span class="example-en" dir="ltr" lang="en">This is rise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يعلو</span> | <span class="example-en" dir="ltr" lang="en">I like rise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يعلو؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rise?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يعلو الحين في المكتبة، قبل ما يجي السائق، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a rise now in the library, before the driver arrives, and I also took the small spoon</span> |
 
 

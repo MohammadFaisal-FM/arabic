@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ثقافية</span> | <span class="example-en" dir="ltr" lang="en">This is cultural</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ثقافية</span> | <span class="example-en" dir="ltr" lang="en">I like cultural</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ثقافية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cultural?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ثقافية الحين جنب المسجد، لأن الوقت ضيق، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a cultural now next to the mosque, because time is tight, and I also took the pencil</span> |
 
 

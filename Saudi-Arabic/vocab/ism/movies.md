@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أفلام</span> | <span class="example-en" dir="ltr" lang="en">This is movies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أفلام</span> | <span class="example-en" dir="ltr" lang="en">I like movies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أفلام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the movies?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أفلام في الحديقة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a movies in the park, because time is tight, and then we prayed</span> |
 
 

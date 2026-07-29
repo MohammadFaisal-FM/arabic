@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا داكوتا</span> | <span class="example-en" dir="ltr" lang="en">This is dakota</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب داكوتا</span> | <span class="example-en" dir="ltr" lang="en">I like dakota</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين داكوتا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dakota?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت داكوتا قدام التلفاز، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a dakota in front of the TV, because guests are arriving, and then the boy slept</span> |
 
 

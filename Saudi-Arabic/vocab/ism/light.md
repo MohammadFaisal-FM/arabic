@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ضوء</span> | <span class="example-en" dir="ltr" lang="en">This is light</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ضوء</span> | <span class="example-en" dir="ltr" lang="en">I like light</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ضوء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the light?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ضوء الحين في المحطة، عشان نلحق الموعد، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a light now at the station, so we make the appointment, and I also took the short cable</span> |
 
 

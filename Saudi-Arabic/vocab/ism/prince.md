@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأمير</span> | <span class="example-en" dir="ltr" lang="en">This is prince</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأمير</span> | <span class="example-en" dir="ltr" lang="en">I like prince</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأمير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the prince?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الأمير في الدرج، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a prince in the drawer, for studying tomorrow, and then I tidied the table</span> |
 
 

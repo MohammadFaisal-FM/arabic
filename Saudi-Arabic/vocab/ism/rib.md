@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ضلع</span> | <span class="example-en" dir="ltr" lang="en">This is rib</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ضلع</span> | <span class="example-en" dir="ltr" lang="en">I like rib</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ضلع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rib?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ضلع الحين تحت السرير، لأن الولد نعسان، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a rib now under the bed, because the boy is sleepy, and I also took the grey scarf</span> |
 
 

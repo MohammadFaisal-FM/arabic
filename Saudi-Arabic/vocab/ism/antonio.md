@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أنطونيو</span> | <span class="example-en" dir="ltr" lang="en">This is antonio</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أنطونيو</span> | <span class="example-en" dir="ltr" lang="en">I like antonio</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أنطونيو؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the antonio?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أنطونيو في الصالون، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put an antonio in the living room, because guests are arriving, and then I turned on the fan</span> |
 
 

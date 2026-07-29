@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا واسع</span> | <span class="example-en" dir="ltr" lang="en">This is wide</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب واسع</span> | <span class="example-en" dir="ltr" lang="en">I like wide</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين واسع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wide?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج واسع الحين تحت السرير، عشان ما يضيع، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a wide now under the bed, so it doesn’t get lost, and I also took the grey scarf</span> |
 
 

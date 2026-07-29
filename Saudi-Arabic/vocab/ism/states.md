@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الدول</span> | <span class="example-en" dir="ltr" lang="en">This is states</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الدول</span> | <span class="example-en" dir="ltr" lang="en">I like states</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الدول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the states?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الدول عند الصيدلية مع الغطاء الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a states at the pharmacy with the clear cover, for studying tomorrow, and then I tidied the table</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عينات</span> | <span class="example-en" dir="ltr" lang="en">This is samples</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عينات</span> | <span class="example-en" dir="ltr" lang="en">I like samples</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عينات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the samples?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عينات الحين عند الباب، عشان الضيوف يوصلون، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a samples now at the door, because guests are arriving, and I also took the brown wallet</span> |
 
 

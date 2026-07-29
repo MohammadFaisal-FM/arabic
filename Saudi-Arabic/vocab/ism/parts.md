@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أجزاء</span> | <span class="example-en" dir="ltr" lang="en">This is parts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أجزاء</span> | <span class="example-en" dir="ltr" lang="en">I like parts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أجزاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the parts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أجزاء الحين على المكتب، لأن الجو حار شوي، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a parts now on the desk, because the weather is a bit hot, and I also took the light blanket</span> |
 
 

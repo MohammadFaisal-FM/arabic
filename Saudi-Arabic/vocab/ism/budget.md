@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ميزانية</span> | <span class="example-en" dir="ltr" lang="en">This is budget</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ميزانية</span> | <span class="example-en" dir="ltr" lang="en">I like budget</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ميزانية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the budget?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ميزانية في الغرفة مع المفتاح الاحتياطي، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a budget in the room with the spare key, because the weather is a bit hot, and then I tidied the table</span> |
 
 

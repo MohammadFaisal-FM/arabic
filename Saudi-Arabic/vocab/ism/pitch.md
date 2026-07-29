@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يقذف</span> | <span class="example-en" dir="ltr" lang="en">This is pitch</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يقذف</span> | <span class="example-en" dir="ltr" lang="en">I like pitch</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يقذف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pitch?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يقذف على الشرفة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a pitch on the balcony, before Maghrib prayer, and then I turned off the light</span> |
 
 

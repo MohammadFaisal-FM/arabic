@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا على</span> | <span class="example-en" dir="ltr" lang="en">This is upon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب على</span> | <span class="example-en" dir="ltr" lang="en">I like upon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين على؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the upon?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج على الحين عند الاستقبال، قبل ما يقفل المكان، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need an upon now at reception, before the place closes, and I also took the glass cup</span> |
 
 

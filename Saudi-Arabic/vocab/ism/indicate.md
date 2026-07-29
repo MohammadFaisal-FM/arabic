@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يشير</span> | <span class="example-en" dir="ltr" lang="en">This is indicate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يشير</span> | <span class="example-en" dir="ltr" lang="en">I like indicate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يشير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the indicate?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يشير قدام الملعب، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put an indicate in front of the pitch, before the food gets cold, and then I wrote a note</span> |
 
 

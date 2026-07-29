@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لا إنجاز بلا جهد .</span> | <span class="example-en" dir="ltr" lang="en">There is no achievement without effort.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا انجاز</span> | <span class="example-en" dir="ltr" lang="en">This is a completion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب انجاز</span> | <span class="example-en" dir="ltr" lang="en">I like completion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين انجاز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the completion?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت انجاز جنب البنك مع الزجاجة الفارغة، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a completion next to the bank with the empty bottle, so revision is easier, and then I wiped the floor</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا باركواي</span> | <span class="example-en" dir="ltr" lang="en">This is parkway</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب باركواي</span> | <span class="example-en" dir="ltr" lang="en">I like parkway</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين باركواي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the parkway?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت باركواي في السيارة مع الوسادة الناعمة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a parkway in the car with the soft pillow, before Maghrib prayer, and then I replied to the message</span> |
 
 

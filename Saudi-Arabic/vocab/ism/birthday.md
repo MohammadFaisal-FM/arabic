@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عيد ميلاد</span> | <span class="example-en" dir="ltr" lang="en">This is birthday</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عيد ميلاد</span> | <span class="example-en" dir="ltr" lang="en">I like birthday</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عيد ميلاد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the birthday?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عيد ميلاد الحين في السيارة، عشان ما نتأخر، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a birthday now in the car, so we are not late, and I also took the soft pillow</span> |
 
 

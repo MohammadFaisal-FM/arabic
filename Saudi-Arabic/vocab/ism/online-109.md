@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">من الواضح أنّ مدرّسك ليس لديه أخلاق.</span> | <span class="example-en" dir="ltr" lang="en">Your teacher clearly has no morals.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اخلاق الحين جنب المسجد، عشان الصورة تطلع أوضح، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need an ethics now next to the mosque, so the photo comes out clearer, and I also took the pencil</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كيان</span> | <span class="example-en" dir="ltr" lang="en">This is entity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كيان</span> | <span class="example-en" dir="ltr" lang="en">I like entity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كيان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the entity?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كيان في الدرج، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put an entity in the drawer, for studying tomorrow, and then I tidied the table</span> |
 
 

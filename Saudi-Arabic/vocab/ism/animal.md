@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حيوان</span> | <span class="example-en" dir="ltr" lang="en">This is animal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حيوان</span> | <span class="example-en" dir="ltr" lang="en">I like animal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حيوان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the animal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حيوان الحين في الغرفة، لأن الإضاءة أحسن هناك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an animal now in the room, because the light is better there, and I also took the spare key</span> |
 
 

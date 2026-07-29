@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شرح</span> | <span class="example-en" dir="ltr" lang="en">This is annotation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شرح</span> | <span class="example-en" dir="ltr" lang="en">I like annotation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شرح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the annotation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شرح في المكتبة، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put an annotation in the library, before the driver arrives, and then I closed the window</span> |
 
 

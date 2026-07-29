@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شريت أكل</span> | <span class="example-en" dir="ltr" lang="en">I bought food</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شريت أكل، ولقيت المنديل النظيف على المكتب، عشان المراجعة أسهل، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I bought food, and I found the clean tissue on the desk, so revision is easier, and then I turned on the fan</span> |
 
 
 ---

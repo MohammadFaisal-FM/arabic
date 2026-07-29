@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حياة</span> | <span class="example-en" dir="ltr" lang="en">This is lifetime</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حياة</span> | <span class="example-en" dir="ltr" lang="en">I like lifetime</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حياة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lifetime?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حياة الحين في السيارة، عشان ما يضيع، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a lifetime now in the car, so it doesn’t get lost, and I also took the soft pillow</span> |
 
 

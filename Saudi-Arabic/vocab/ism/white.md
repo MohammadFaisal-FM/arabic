@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أبيض</span> | <span class="example-en" dir="ltr" lang="en">This is white</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أبيض</span> | <span class="example-en" dir="ltr" lang="en">I like white</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أبيض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the white?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أبيض جنب البنك مع الزجاجة الفارغة، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a white next to the bank with the empty bottle, before the driver arrives, and then I closed the window</span> |
 
 

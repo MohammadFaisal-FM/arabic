@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تكلفة</span> | <span class="example-en" dir="ltr" lang="en">This is charge</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تكلفة</span> | <span class="example-en" dir="ltr" lang="en">I like charge</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تكلفة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the charge?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تكلفة الحين في الحديقة، لأن الوقت ضيق، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a charge now in the park, because time is tight, and I also took the old alarm</span> |
 
 

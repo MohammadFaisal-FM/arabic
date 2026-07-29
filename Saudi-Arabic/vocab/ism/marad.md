@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">عندي مرض</span> | <span class="example-en" dir="ltr" lang="en">I have an illness</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا مرض</span> | <span class="example-en" dir="ltr" lang="en">This is a illness</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مرض</span> | <span class="example-en" dir="ltr" lang="en">I like illness</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مرض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the illness?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مرض في المكتبة، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an illness in the library, because traffic is heavy, and then I charged the device</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يهم</span> | <span class="example-en" dir="ltr" lang="en">This is matters</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يهم</span> | <span class="example-en" dir="ltr" lang="en">I like matters</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يهم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the matters?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يهم الحين في المكتبة، عشان المراجعة أسهل، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a matters now in the library, so revision is easier, and I also took the small spoon</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الصفحات</span> | <span class="example-en" dir="ltr" lang="en">This is pages</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الصفحات</span> | <span class="example-en" dir="ltr" lang="en">I like pages</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الصفحات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pages?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الصفحات الحين في المطبخ، قبل ما يجي السائق، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a pages now in the kitchen, before the driver arrives, and I also took the paper file</span> |
 
 

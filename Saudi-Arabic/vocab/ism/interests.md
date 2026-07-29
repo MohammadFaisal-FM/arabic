@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المصالح</span> | <span class="example-en" dir="ltr" lang="en">This is interests</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المصالح</span> | <span class="example-en" dir="ltr" lang="en">I like interests</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المصالح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the interests?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المصالح الحين في المكتبة، عشان المراجعة أسهل، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an interests now in the library, so revision is easier, and I also took the small spoon</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طائر الفينيق</span> | <span class="example-en" dir="ltr" lang="en">This is phoenix</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طائر الفينيق</span> | <span class="example-en" dir="ltr" lang="en">I like phoenix</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طائر الفينيق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the phoenix?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت طائر الفينيق في المدرسة مع المقص الحاد، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a phoenix at school with the sharp scissors, so it doesn’t get lost, and then I replied to the message</span> |
 
 

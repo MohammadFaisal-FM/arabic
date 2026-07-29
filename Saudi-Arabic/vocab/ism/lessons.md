@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الدروس</span> | <span class="example-en" dir="ltr" lang="en">This is lessons</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الدروس</span> | <span class="example-en" dir="ltr" lang="en">I like lessons</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الدروس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lessons?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت الدروس جنب المسجد، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I saw a lessons next to the mosque, because the battery is low, and then we locked the door</span> |
 
 

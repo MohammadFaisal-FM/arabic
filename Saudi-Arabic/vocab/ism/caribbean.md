@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا منطقة البحر الكاريبي</span> | <span class="example-en" dir="ltr" lang="en">This is caribbean</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب منطقة البحر الكاريبي</span> | <span class="example-en" dir="ltr" lang="en">I like caribbean</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين منطقة البحر الكاريبي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the caribbean?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت منطقة البحر الكاريبي في المدرسة، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a caribbean at school, so it doesn’t get lost, and then I turned off the light</span> |
 
 

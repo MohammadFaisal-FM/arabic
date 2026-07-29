@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا زائر</span> | <span class="example-en" dir="ltr" lang="en">This is visitor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب زائر</span> | <span class="example-en" dir="ltr" lang="en">I like visitor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين زائر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the visitor?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج زائر الحين في المدرسة، لأن الولد نعسان، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a visitor now at school, because the boy is sleepy, and I also took the sharp scissors</span> |
 
 

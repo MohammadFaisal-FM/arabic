@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الحزم</span> | <span class="example-en" dir="ltr" lang="en">This is packages</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الحزم</span> | <span class="example-en" dir="ltr" lang="en">I like packages</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الحزم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the packages?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الحزم في الثلاجة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a packages in the fridge, because time is tight, and then I drank some water</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مفهوم</span> | <span class="example-en" dir="ltr" lang="en">This is concept</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مفهوم</span> | <span class="example-en" dir="ltr" lang="en">I like concept</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مفهوم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the concept?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مفهوم عند الباب، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a concept at the door, but keep it near you, and then the boy slept</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تخطيط</span> | <span class="example-en" dir="ltr" lang="en">This is planning</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تخطيط</span> | <span class="example-en" dir="ltr" lang="en">I like planning</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تخطيط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the planning?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تخطيط الحين في الصالون، عشان الضيوف يوصلون، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a planning now in the living room, because guests are arriving, and I also took the clean tissue</span> |
 
 

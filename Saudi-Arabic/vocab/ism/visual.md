@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مرئي</span> | <span class="example-en" dir="ltr" lang="en">This is visual</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مرئي</span> | <span class="example-en" dir="ltr" lang="en">I like visual</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مرئي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the visual?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مرئي عند الاستقبال مع الكوب الزجاج، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a visual at reception with the glass cup, because traffic is heavy, and then I wiped the floor</span> |
 
 

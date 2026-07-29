@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ادخل</span> | <span class="example-en" dir="ltr" lang="en">Come in</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ادخل، ولقيت الشاحن الطويل قدام التلفاز، عشان الصورة تطلع أوضح، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">Come in, and I found the long charger in front of the TV, so the photo comes out clearer, and then we laughed a bit</span> |
 
 
 ---

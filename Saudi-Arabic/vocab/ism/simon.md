@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سيمون</span> | <span class="example-en" dir="ltr" lang="en">This is simon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سيمون</span> | <span class="example-en" dir="ltr" lang="en">I like simon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سيمون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the simon?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سيمون الحين عند الاستقبال، لأن الزحمة قوية، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a simon now at reception, because traffic is heavy, and I also took the glass cup</span> |
 
 

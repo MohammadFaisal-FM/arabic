@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ما عندي وقت</span> | <span class="example-en" dir="ltr" lang="en">I don't have time</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا وقت</span> | <span class="example-en" dir="ltr" lang="en">This is a time</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وقت</span> | <span class="example-en" dir="ltr" lang="en">I like time</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وقت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the time?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت وقت تحت السرير، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a time under the bed, before Maghrib prayer, and then we laughed a bit</span> |
 
 

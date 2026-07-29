@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وحدات</span> | <span class="example-en" dir="ltr" lang="en">This is units</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وحدات</span> | <span class="example-en" dir="ltr" lang="en">I like units</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وحدات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the units?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج وحدات الحين جنب البنك، قبل ما يجي السائق، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need an units now next to the bank, before the driver arrives, and I also took the empty bottle</span> |
 
 

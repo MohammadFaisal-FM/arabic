@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">احكي لي</span> | <span class="example-en" dir="ltr" lang="en">Tell me</span> |
+| <span class="example-ar" dir="rtl" lang="ar">احكي لي، ولقيت القبعة الصيفية في المطبخ، عشان الضيوف يوصلون، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">Tell me, and I found the summer hat in the kitchen, because guests are arriving, and then we prayed</span> |
 
 
 ---

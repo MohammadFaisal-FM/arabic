@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الدقة</span> | <span class="example-en" dir="ltr" lang="en">This is res</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الدقة</span> | <span class="example-en" dir="ltr" lang="en">I like res</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الدقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the res?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الدقة الحين في الثلاجة، لأن البطارية ضعيفة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a res now in the fridge, because the battery is low, and I also took the summer hat</span> |
 
 

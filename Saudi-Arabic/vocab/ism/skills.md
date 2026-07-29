@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مهارات</span> | <span class="example-en" dir="ltr" lang="en">This is skills</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مهارات</span> | <span class="example-en" dir="ltr" lang="en">I like skills</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مهارات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the skills?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مهارات في الحديقة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a skills in the park, because the battery is low, and then I drank some water</span> |
 
 

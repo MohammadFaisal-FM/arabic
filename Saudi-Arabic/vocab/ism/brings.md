@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يجلب</span> | <span class="example-en" dir="ltr" lang="en">This is brings</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يجلب</span> | <span class="example-en" dir="ltr" lang="en">I like brings</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يجلب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the brings?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يجلب في المطبخ، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a brings in the kitchen, before the place closes, and then I closed the window</span> |
 
 

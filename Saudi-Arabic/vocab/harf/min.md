@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">من الرياض</span> | <span class="example-en" dir="ltr" lang="en">from Riyadh</span> |
+| <span class="example-ar" dir="rtl" lang="ar">خذيت المنديل النظيف من الرف، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I took the clean tissue from the shelf, so we make the appointment, and then I turned on the fan</span> |
 

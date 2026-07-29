@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جوهر</span> | <span class="example-en" dir="ltr" lang="en">This is core</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جوهر</span> | <span class="example-en" dir="ltr" lang="en">I like core</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جوهر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the core?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جوهر في الحديقة مع المنبه القديميم، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a core in the park with the old alarm, so the photo comes out clearer, and then I drank some water</span> |
 
 

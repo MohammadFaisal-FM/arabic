@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بني</span> | <span class="example-en" dir="ltr" lang="en">This is brown</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بني</span> | <span class="example-en" dir="ltr" lang="en">I like brown</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the brown?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بني جنب المسجد، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a brown next to the mosque, if you need it later, and then we locked the door</span> |
 
 

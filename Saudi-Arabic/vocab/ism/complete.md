@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مكتمل</span> | <span class="example-en" dir="ltr" lang="en">This is complete</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مكتمل</span> | <span class="example-en" dir="ltr" lang="en">I like complete</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مكتمل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the complete?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مكتمل في البقالة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a complete at the grocery, before Maghrib prayer, and then I replied to the message</span> |
 
 

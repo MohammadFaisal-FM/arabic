@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ماساتشوستس</span> | <span class="example-en" dir="ltr" lang="en">This is massachusetts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ماساتشوستس</span> | <span class="example-en" dir="ltr" lang="en">I like massachusetts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ماساتشوستس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the massachusetts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ماساتشوستس في البقالة، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a massachusetts at the grocery, because the boy is sleepy, and then I turned off the light</span> |
 
 

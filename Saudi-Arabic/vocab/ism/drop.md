@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يسقط</span> | <span class="example-en" dir="ltr" lang="en">This is drop</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يسقط</span> | <span class="example-en" dir="ltr" lang="en">I like drop</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يسقط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the drop?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يسقط في المكتبة مع الملعقة الصغيرة، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a drop in the library with the small spoon, before the place closes, and then I wiped the floor</span> |
 
 

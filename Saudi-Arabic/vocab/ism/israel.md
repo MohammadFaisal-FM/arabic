@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إسرائيل</span> | <span class="example-en" dir="ltr" lang="en">This is israel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إسرائيل</span> | <span class="example-en" dir="ltr" lang="en">I like israel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إسرائيل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the israel?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إسرائيل الحين في الثلاجة، لأن البطارية ضعيفة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an israel now in the fridge, because the battery is low, and I also took the summer hat</span> |
 
 

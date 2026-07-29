@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المرافق</span> | <span class="example-en" dir="ltr" lang="en">This is utilities</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المرافق</span> | <span class="example-en" dir="ltr" lang="en">I like utilities</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المرافق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the utilities?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المرافق الحين تحت السرير، عشان ما يضيع، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need an utilities now under the bed, so it doesn’t get lost, and I also took the grey scarf</span> |
 
 

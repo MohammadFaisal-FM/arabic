@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تاريخي</span> | <span class="example-en" dir="ltr" lang="en">This is historical</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تاريخي</span> | <span class="example-en" dir="ltr" lang="en">I like historical</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تاريخي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the historical?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تاريخي الحين عند العيادة، لأن البطارية ضعيفة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a historical now at the clinic, because the battery is low, and I also took the stapler</span> |
 
 

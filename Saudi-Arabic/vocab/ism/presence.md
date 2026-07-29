@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حضور</span> | <span class="example-en" dir="ltr" lang="en">This is presence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حضور</span> | <span class="example-en" dir="ltr" lang="en">I like presence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حضور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the presence?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حضور في الصالون مع المنديل النظيف، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a presence in the living room with the clean tissue, because work finished early, and then the phone rang</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ساطع</span> | <span class="example-en" dir="ltr" lang="en">This is bright</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ساطع</span> | <span class="example-en" dir="ltr" lang="en">I like bright</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ساطع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bright?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ساطع الحين على المكتب، عشان الدراسة بكرة، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a bright now on the desk, for studying tomorrow, and I also took the light blanket</span> |
 
 

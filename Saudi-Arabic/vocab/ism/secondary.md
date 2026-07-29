@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ثانوي</span> | <span class="example-en" dir="ltr" lang="en">This is secondary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ثانوي</span> | <span class="example-en" dir="ltr" lang="en">I like secondary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ثانوي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the secondary?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ثانوي على الشرفة مع البطاقة الصفراء، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a secondary on the balcony with the yellow card, before Maghrib prayer, and then I replied to the message</span> |
 
 

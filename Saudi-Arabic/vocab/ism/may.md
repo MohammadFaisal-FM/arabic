@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أبي ماي</span> | <span class="example-en" dir="ltr" lang="en">Dad May</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا ماي</span> | <span class="example-en" dir="ltr" lang="en">This is a water (najdi)</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ماي</span> | <span class="example-en" dir="ltr" lang="en">I like water (najdi)</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ماي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the water (najdi)?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ماي في الصالون، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a water (najdi) in the living room, because guests are arriving, and then I turned on the fan</span> |
 
 

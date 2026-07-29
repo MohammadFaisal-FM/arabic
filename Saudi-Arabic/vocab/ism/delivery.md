@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا توصيل</span> | <span class="example-en" dir="ltr" lang="en">This is delivery</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب توصيل</span> | <span class="example-en" dir="ltr" lang="en">I like delivery</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين توصيل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the delivery?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت توصيل في الصالون مع المنديل النظيف، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a delivery in the living room with the clean tissue, because guests are arriving, and then the boy slept</span> |
 
 

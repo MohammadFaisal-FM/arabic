@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مقاومة</span> | <span class="example-en" dir="ltr" lang="en">This is resistance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مقاومة</span> | <span class="example-en" dir="ltr" lang="en">I like resistance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مقاومة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the resistance?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مقاومة في المحطة مع الكابل القصير، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a resistance at the station with the short cable, so we make the appointment, and then I turned on the fan</span> |
 
 

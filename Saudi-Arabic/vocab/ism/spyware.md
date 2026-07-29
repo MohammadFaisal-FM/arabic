@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا برامج التجسس</span> | <span class="example-en" dir="ltr" lang="en">This is spyware</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب برامج التجسس</span> | <span class="example-en" dir="ltr" lang="en">I like spyware</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين برامج التجسس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the spyware?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت برامج التجسس جنب النافذة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a spyware beside the window, so the photo comes out clearer, and then we locked the door</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سميث</span> | <span class="example-en" dir="ltr" lang="en">This is smith</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سميث</span> | <span class="example-en" dir="ltr" lang="en">I like smith</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سميث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the smith?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سميث الحين في المدرسة، قبل صلاة المغرب، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a smith now at school, before Maghrib prayer, and I also took the sharp scissors</span> |
 
 

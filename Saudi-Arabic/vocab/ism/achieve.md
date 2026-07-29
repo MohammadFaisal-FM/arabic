@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يحقق</span> | <span class="example-en" dir="ltr" lang="en">This is achieve</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يحقق</span> | <span class="example-en" dir="ltr" lang="en">I like achieve</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يحقق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the achieve?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يحقق في المدرسة، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put an achieve at school, so we are not late, and then I turned off the light</span> |
 
 

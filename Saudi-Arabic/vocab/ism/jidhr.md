@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">جذر الكلمة</span> | <span class="example-en" dir="ltr" lang="en">stem</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا جذر</span> | <span class="example-en" dir="ltr" lang="en">This is a root</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جذر</span> | <span class="example-en" dir="ltr" lang="en">I like root</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جذر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the root?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جذر في المطبخ مع الملف الورقي، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a root in the kitchen with the paper file, before the place closes, and then I wiped the floor</span> |
 
 

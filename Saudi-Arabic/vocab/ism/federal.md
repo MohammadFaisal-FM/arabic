@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الفيدرالية</span> | <span class="example-en" dir="ltr" lang="en">This is federal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الفيدرالية</span> | <span class="example-en" dir="ltr" lang="en">I like federal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الفيدرالية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the federal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الفيدرالية الحين في البقالة، لأن الولد نعسان، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a federal now at the grocery, because the boy is sleepy, and I also took the long charger</span> |
 
 

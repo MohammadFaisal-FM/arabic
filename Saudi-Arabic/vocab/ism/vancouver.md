@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فانكوفر</span> | <span class="example-en" dir="ltr" lang="en">This is vancouver</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فانكوفر</span> | <span class="example-en" dir="ltr" lang="en">I like vancouver</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فانكوفر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the vancouver?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فانكوفر الحين في المدرسة، قبل صلاة المغرب، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a vancouver now at school, before Maghrib prayer, and I also took the sharp scissors</span> |
 
 

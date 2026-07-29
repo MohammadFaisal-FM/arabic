@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وسط</span> | <span class="example-en" dir="ltr" lang="en">This is middle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وسط</span> | <span class="example-en" dir="ltr" lang="en">I like middle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وسط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the middle?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت وسط في الحقيبة مع الحذاء النظيف، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a middle in the bag with the clean shoes, before the driver arrives, and then I closed the window</span> |
 
 

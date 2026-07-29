@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الحمض النووي</span> | <span class="example-en" dir="ltr" lang="en">This is dna</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الحمض النووي</span> | <span class="example-en" dir="ltr" lang="en">I like dna</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الحمض النووي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dna?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الحمض النووي في الحديقة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a dna in the park, because the battery is low, and then I drank some water</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا غير قادر</span> | <span class="example-en" dir="ltr" lang="en">This is unable</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب غير قادر</span> | <span class="example-en" dir="ltr" lang="en">I like unable</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين غير قادر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the unable?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج غير قادر الحين في المكتبة، قبل ما يقفل المكان، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an unable now in the library, before the place closes, and I also took the small spoon</span> |
 
 

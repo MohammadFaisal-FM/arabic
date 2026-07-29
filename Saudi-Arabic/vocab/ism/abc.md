@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اي بي سي</span> | <span class="example-en" dir="ltr" lang="en">This is abc</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اي بي سي</span> | <span class="example-en" dir="ltr" lang="en">I like abc</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اي بي سي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the abc?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اي بي سي على المكتب، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put an abc on the desk, for studying tomorrow, and then I wrote a note</span> |
 
 

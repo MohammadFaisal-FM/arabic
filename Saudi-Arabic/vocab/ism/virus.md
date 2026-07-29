@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فايروس</span> | <span class="example-en" dir="ltr" lang="en">This is virus</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فايروس</span> | <span class="example-en" dir="ltr" lang="en">I like virus</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فايروس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the virus?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فايروس في المدرسة مع المقص الحاد، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a virus at school with the sharp scissors, so it doesn’t get lost, and then I replied to the message</span> |
 
 

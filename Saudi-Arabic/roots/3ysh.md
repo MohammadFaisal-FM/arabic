@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أعيش هنا</span> | <span class="example-en" dir="ltr" lang="en">I live here</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أعيش هنا، ولقيت الوسادة الناعمة في المحطة، عشان الصورة تطلع أوضح، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I live here, and I found the soft pillow at the station, so the photo comes out clearer, and then I replied to the message</span> |
 
 
 ---

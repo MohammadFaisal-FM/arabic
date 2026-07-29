@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا واجب</span> | <span class="example-en" dir="ltr" lang="en">This is duty</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب واجب</span> | <span class="example-en" dir="ltr" lang="en">I like duty</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين واجب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the duty?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج واجب الحين في الثلاجة، لأن الوقت ضيق، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a duty now in the fridge, because time is tight, and I also took the summer hat</span> |
 
 

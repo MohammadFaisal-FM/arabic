@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأعلى</span> | <span class="example-en" dir="ltr" lang="en">This is max</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأعلى</span> | <span class="example-en" dir="ltr" lang="en">I like max</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأعلى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the max?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأعلى الحين في الصالون، بس خلّه قريب منك، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a max now in the living room, but keep it near you, and I also took the clean tissue</span> |
 
 

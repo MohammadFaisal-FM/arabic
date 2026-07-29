@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قديس</span> | <span class="example-en" dir="ltr" lang="en">This is saint</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قديس</span> | <span class="example-en" dir="ltr" lang="en">I like saint</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قديس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the saint?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قديس عند العيادة مع الدباسة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a saint at the clinic with the stapler, because time is tight, and then we prayed</span> |
 
 

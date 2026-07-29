@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حديقة</span> | <span class="example-en" dir="ltr" lang="en">This is garden</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حديقة</span> | <span class="example-en" dir="ltr" lang="en">I like garden</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حديقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the garden?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حديقة تحت السرير، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a garden under the bed, so it doesn’t get lost, and then I turned off the light</span> |
 
 

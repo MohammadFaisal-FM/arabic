@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كان سامي راغبا في إخراج ليلى من الصّورة.</span> | <span class="example-en" dir="ltr" lang="en">Sami wanted to take Laila out of the picture.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اخراج الحين في الدرج، عشان الدراسة بكرة، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a take out now in the drawer, for studying tomorrow, and I also took the blue notebook</span> |
 
 

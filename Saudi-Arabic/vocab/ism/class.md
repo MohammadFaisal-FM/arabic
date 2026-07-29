@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فصل</span> | <span class="example-en" dir="ltr" lang="en">This is class</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فصل</span> | <span class="example-en" dir="ltr" lang="en">I like class</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فصل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the class?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فصل في المطبخ، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a class in the kitchen, before the place closes, and then I closed the window</span> |
 
 

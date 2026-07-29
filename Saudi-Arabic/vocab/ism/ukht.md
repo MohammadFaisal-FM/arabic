@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لي أخت واحدة.</span> | <span class="example-en" dir="ltr" lang="en">I have one sister.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا أخت</span> | <span class="example-en" dir="ltr" lang="en">This is a sister</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أخت</span> | <span class="example-en" dir="ltr" lang="en">I like sister</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أخت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sister?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أخت كان/كانت في السيارة، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">a sister was in the car, so we are not late, and then I turned off the light</span> |
 
 

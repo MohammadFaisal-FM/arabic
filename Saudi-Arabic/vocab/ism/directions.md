@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الاتجاهات</span> | <span class="example-en" dir="ltr" lang="en">This is directions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الاتجاهات</span> | <span class="example-en" dir="ltr" lang="en">I like directions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الاتجاهات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the directions?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الاتجاهات في السيارة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a directions in the car, before Maghrib prayer, and then I turned off the light</span> |
 
 

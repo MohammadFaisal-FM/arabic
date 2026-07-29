@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ستيريو</span> | <span class="example-en" dir="ltr" lang="en">This is stereo</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ستيريو</span> | <span class="example-en" dir="ltr" lang="en">I like stereo</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ستيريو؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the stereo?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ستيريو في الحقيبة، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a stereo in the bag, because traffic is heavy, and then I wiped the floor</span> |
 
 

@@ -3,6 +3,12 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { conjugationSection, seedUsedExampleTokens } from './conjugate.mjs';
 import {
+  seedEnrichmentBans,
+  isRichExample,
+  enrichIsmExample,
+  enrichHarfExampleSmart,
+} from './enrich-examples.mjs';
+import {
   escapeTableCell,
   formatExampleCell,
   examplePairsTableSection,
@@ -139,6 +145,7 @@ function formsForRoot(root) {
     if (item.exampleEn) seedTexts.push(item.exampleEn);
   }
   seedUsedExampleTokens(seedTexts);
+  seedEnrichmentBans(seedTexts);
 }
 
 function formDifferenceNote(root, form) {
@@ -224,10 +231,6 @@ for (const fil of filItems) {
   if (!filByRootId.has(fil.rootId)) filByRootId.set(fil.rootId, fil);
 }
 
-function ismGloss(meaning) {
-  return (meaning || 'it').split(/[,/·]/)[0].trim().toLowerCase();
-}
-
 function ismExampleEntries(item) {
   const rows = [];
   const seen = new Set();
@@ -240,29 +243,32 @@ function ismExampleEntries(item) {
 
   if (Array.isArray(item.examples)) {
     for (const ex of item.examples) {
-      if (typeof ex === 'string') push(ex, '');
-      else push(ex.ar, ex.en);
+      if (typeof ex === 'string') {
+        if (isRichExample(ex)) push(ex, '');
+        else {
+          const rich = enrichIsmExample(item.arabic, item.meaning);
+          push(rich.ar, rich.en);
+        }
+      } else if (isRichExample(ex.ar)) {
+        push(ex.ar, ex.en);
+      } else {
+        const rich = enrichIsmExample(item.arabic, item.meaning);
+        push(rich.ar, rich.en);
+      }
     }
   }
 
-  push(item.example, item.exampleEn);
-
-  const word = (item.arabic || '').trim();
-  const gloss = ismGloss(item.meaning);
   const primary = (item.example || '').trim();
-  const isShort = primary.length < 40 && primary.split(/\s+/).length <= 5;
-  const subtype = item.subtype ?? 'noun';
-  const skipFillers = ['masdar', 'doer', 'maful', 'place', 'time', 'tool', 'comparative'].includes(
-    subtype
-  );
-
-  if (!skipFillers && isShort && word) {
-    push(`هذا ${word}`, `This is a ${gloss}`);
-    push(`أحب ${word}`, `I like ${gloss}`);
-    push(`وين ${word}؟`, `Where is the ${gloss}?`);
+  const primaryEn = (item.exampleEn || '').trim();
+  if (primary && isRichExample(primary)) {
+    push(primary, primaryEn);
+  } else {
+    const rich = enrichIsmExample(item.arabic, item.meaning);
+    push(rich.ar, rich.en);
   }
 
-  return rows.slice(0, 4);
+  // One solid multi-clause example is enough for learning density.
+  return rows.slice(0, 1);
 }
 
 function ismTypeLabel(subtype) {
@@ -319,6 +325,7 @@ const ismItems = ismSource.items.map((item) => {
   const fil = item.rootId ? filByRootId.get(item.rootId) : null;
   const file = `vocab/ism/${item.id}.md`;
   const subtype = item.subtype ?? 'noun';
+  const exampleEntries = ismExampleEntries(item);
   const md = `# ${item.arabic}
 
 | Field | Value |
@@ -331,10 +338,14 @@ const ismItems = ismSource.items.map((item) => {
 
 ---
 
-${ismExampleSection(item)}
+${examplePairsTableSection(exampleEntries)}
 ${ismLinksSection(item, root, fil)}
 `;
   fs.writeFileSync(path.join(ismDir, `${item.id}.md`), md, 'utf8');
+  const shown = exampleEntries[0] || {
+    ar: item.example,
+    en: item.exampleEn ?? '',
+  };
   return {
     id: item.id,
     arabic: item.arabic,
@@ -343,8 +354,8 @@ ${ismLinksSection(item, root, fil)}
     subtype,
     rootId: item.rootId ?? null,
     root: root?.root ?? null,
-    example: item.example,
-    exampleEn: item.exampleEn ?? null,
+    example: shown.ar,
+    exampleEn: shown.en || null,
     file,
   };
 });
@@ -365,7 +376,7 @@ clearGeneratedMd(harfDir);
 const harfItems = harfSource.items.map((item) => {
   const letter = firstLetterFromArabic(item.arabic);
   const file = `vocab/harf/${item.id}.md`;
-  const { ar: exAr, en: exEn } = splitBilingualLine(item.example);
+  const rich = enrichHarfExampleSmart(item);
   const md = `# ${item.arabic}
 
 | Field | Value |
@@ -378,7 +389,7 @@ const harfItems = harfSource.items.map((item) => {
 
 ---
 
-${examplePairsTableSection(exAr ? [{ ar: exAr, en: exEn }] : [])}
+${examplePairsTableSection([{ ar: rich.ar, en: rich.en }])}
 `;
   fs.writeFileSync(path.join(harfDir, `${item.id}.md`), md, 'utf8');
   return {
@@ -387,7 +398,7 @@ ${examplePairsTableSection(exAr ? [{ ar: exAr, en: exEn }] : [])}
     meaning: item.meaning,
     letter,
     usage: item.usage,
-    example: item.example,
+    example: `${rich.ar} — ${rich.en}`,
     file,
   };
 });

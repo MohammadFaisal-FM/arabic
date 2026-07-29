@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ساعة واحدة</span> | <span class="example-en" dir="ltr" lang="en">One hour</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا ساعة</span> | <span class="example-en" dir="ltr" lang="en">This is a hour</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ساعة</span> | <span class="example-en" dir="ltr" lang="en">I like hour</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ساعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hour?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ساعة عند العيادة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a hour at the clinic, because the battery is low, and then we locked the door</span> |
 
 

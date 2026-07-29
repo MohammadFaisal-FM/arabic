@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يتغير</span> | <span class="example-en" dir="ltr" lang="en">This is change</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يتغير</span> | <span class="example-en" dir="ltr" lang="en">I like change</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يتغير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the change?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يتغير الحين على المكتب، قبل ما يبرد الأكل، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a change now on the desk, before the food gets cold, and I also took the light blanket</span> |
 
 

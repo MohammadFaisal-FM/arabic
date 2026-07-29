@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الشريط</span> | <span class="example-en" dir="ltr" lang="en">This is ribbon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الشريط</span> | <span class="example-en" dir="ltr" lang="en">I like ribbon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الشريط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ribbon?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الشريط الحين في الدرج، قبل ما يبرد الأكل، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a ribbon now in the drawer, before the food gets cold, and I also took the blue notebook</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يوم الثلاثاء</span> | <span class="example-en" dir="ltr" lang="en">This is tuesday</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يوم الثلاثاء</span> | <span class="example-en" dir="ltr" lang="en">I like tuesday</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يوم الثلاثاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tuesday?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يوم الثلاثاء في الدرج، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a tuesday in the drawer, because the weather is a bit hot, and then I wrote a note</span> |
 
 

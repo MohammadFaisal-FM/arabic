@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا محكمة</span> | <span class="example-en" dir="ltr" lang="en">This is court</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب محكمة</span> | <span class="example-en" dir="ltr" lang="en">I like court</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين محكمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the court?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج محكمة الحين في البقالة، عشان ما نتأخر، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a court now at the grocery, so we are not late, and I also took the long charger</span> |
 
 

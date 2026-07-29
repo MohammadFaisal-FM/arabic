@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ماك</span> | <span class="example-en" dir="ltr" lang="en">This is mac</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ماك</span> | <span class="example-en" dir="ltr" lang="en">I like mac</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ماك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mac?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ماك الحين على المكتب، لأن الجو حار شوي، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a mac now on the desk, because the weather is a bit hot, and I also took the light blanket</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مناظرة</span> | <span class="example-en" dir="ltr" lang="en">This is debate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مناظرة</span> | <span class="example-en" dir="ltr" lang="en">I like debate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مناظرة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the debate?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مناظرة الحين في الدرج، لأن الإضاءة أحسن هناك، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a debate now in the drawer, because the light is better there, and I also took the blue notebook</span> |
 
 

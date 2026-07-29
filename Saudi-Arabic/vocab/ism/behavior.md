@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سلوك</span> | <span class="example-en" dir="ltr" lang="en">This is behavior</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سلوك</span> | <span class="example-en" dir="ltr" lang="en">I like behavior</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سلوك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the behavior?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سلوك الحين تحت السرير، لأن الولد نعسان، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a behavior now under the bed, because the boy is sleepy, and I also took the grey scarf</span> |
 
 

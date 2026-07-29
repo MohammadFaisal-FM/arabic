@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ذهبوا إلى السينما ليلة أمس.</span> | <span class="example-en" dir="ltr" lang="en">They went to the movies last night.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا أمس</span> | <span class="example-en" dir="ltr" lang="en">This is a yesterday</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أمس</span> | <span class="example-en" dir="ltr" lang="en">I like yesterday</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أمس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the yesterday?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أمس قدام المصعد مع الكرتون الفاضي، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a yesterday in front of the elevator with the empty carton, but keep it near you, and then the phone rang</span> |
 
 

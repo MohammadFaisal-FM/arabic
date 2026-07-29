@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إبينيونز</span> | <span class="example-en" dir="ltr" lang="en">This is epinions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إبينيونز</span> | <span class="example-en" dir="ltr" lang="en">I like epinions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إبينيونز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the epinions?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت إبينيونز على الشرفة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put an epinions on the balcony, before Maghrib prayer, and then I turned off the light</span> |
 
 

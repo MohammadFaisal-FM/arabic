@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يأمر</span> | <span class="example-en" dir="ltr" lang="en">This is command</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يأمر</span> | <span class="example-en" dir="ltr" lang="en">I like command</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يأمر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the command?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت يأمر في المحطة، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I saw a command at the station, but keep it near you, and then the boy slept</span> |
 
 

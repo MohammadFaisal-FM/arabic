@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شرطة</span> | <span class="example-en" dir="ltr" lang="en">This is police</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شرطة</span> | <span class="example-en" dir="ltr" lang="en">I like police</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شرطة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the police?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شرطة الحين في المكتبة، لأن الزحمة قوية، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a police now in the library, because traffic is heavy, and I also took the small spoon</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأمم</span> | <span class="example-en" dir="ltr" lang="en">This is nations</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأمم</span> | <span class="example-en" dir="ltr" lang="en">I like nations</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأمم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the nations?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأمم الحين في المدرسة، قبل صلاة المغرب، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a nations now at school, before Maghrib prayer, and I also took the sharp scissors</span> |
 
 

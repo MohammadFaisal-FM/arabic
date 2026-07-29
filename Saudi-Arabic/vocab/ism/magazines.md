@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المجلات</span> | <span class="example-en" dir="ltr" lang="en">This is magazines</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المجلات</span> | <span class="example-en" dir="ltr" lang="en">I like magazines</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المجلات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the magazines?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المجلات قدام التلفاز، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a magazines in front of the TV, so we make the appointment, and then the phone rang</span> |
 
 

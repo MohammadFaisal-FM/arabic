@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خيارات</span> | <span class="example-en" dir="ltr" lang="en">This is options</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خيارات</span> | <span class="example-en" dir="ltr" lang="en">I like options</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خيارات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the options?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت خيارات على المكتب، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put an options on the desk, because the weather is a bit hot, and then I washed my hands</span> |
 
 

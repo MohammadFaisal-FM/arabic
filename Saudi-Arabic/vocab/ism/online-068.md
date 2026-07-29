@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">آن آدم جوان چیز زیادی درمورد مملکت‌اش نمی‌داند.</span> | <span class="example-en" dir="ltr" lang="en">Now that Adam is there, he will increase his reputation.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ادم الحين في المكتبة، عشان المراجعة أسهل، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an adam now in the library, so revision is easier, and I also took the small spoon</span> |
 
 

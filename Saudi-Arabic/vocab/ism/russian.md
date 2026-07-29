@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الروسية</span> | <span class="example-en" dir="ltr" lang="en">This is russian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الروسية</span> | <span class="example-en" dir="ltr" lang="en">I like russian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الروسية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the russian?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الروسية في المكتبة، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a russian in the library, because traffic is heavy, and then I charged the device</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التنظيمية</span> | <span class="example-en" dir="ltr" lang="en">This is regulatory</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التنظيمية</span> | <span class="example-en" dir="ltr" lang="en">I like regulatory</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التنظيمية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the regulatory?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التنظيمية قدام المصعد، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a regulatory in front of the elevator, so we make the appointment, and then I turned on the fan</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أمريكا</span> | <span class="example-en" dir="ltr" lang="en">This is america</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أمريكا</span> | <span class="example-en" dir="ltr" lang="en">I like america</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أمريكا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the america?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أمريكا قدام التلفاز، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put an america in front of the TV, because guests are arriving, and then the boy slept</span> |
 
 

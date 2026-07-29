@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رمز</span> | <span class="example-en" dir="ltr" lang="en">This is icon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رمز</span> | <span class="example-en" dir="ltr" lang="en">I like icon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رمز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the icon?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رمز الحين قدام المصعد، لأن الشغل خلص بدري، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need an icon now in front of the elevator, because work finished early, and I also took the empty carton</span> |
 
 

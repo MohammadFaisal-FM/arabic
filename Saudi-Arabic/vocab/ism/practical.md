@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عملي</span> | <span class="example-en" dir="ltr" lang="en">This is practical</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عملي</span> | <span class="example-en" dir="ltr" lang="en">I like practical</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عملي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the practical?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عملي الحين عند الباب، بس خلّه قريب منك، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a practical now at the door, but keep it near you, and I also took the brown wallet</span> |
 
 

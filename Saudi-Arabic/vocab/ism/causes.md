@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأسباب</span> | <span class="example-en" dir="ltr" lang="en">This is causes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأسباب</span> | <span class="example-en" dir="ltr" lang="en">I like causes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأسباب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the causes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأسباب الحين عند الاستقبال، قبل ما يجي السائق، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a causes now at reception, before the driver arrives, and I also took the glass cup</span> |
 
 

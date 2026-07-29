@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">جربت الأكل</span> | <span class="example-en" dir="ltr" lang="en">I tried the food</span> |
+| <span class="example-ar" dir="rtl" lang="ar">جربت الأكل، ولقيت الملف الورقي على الشرفة، لأن الإضاءة أحسن هناك، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I tried the food, and I found the paper file on the balcony, because the light is better there, and then I closed the window</span> |
 
 
 ---

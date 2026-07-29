@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إصدار</span> | <span class="example-en" dir="ltr" lang="en">This is version</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إصدار</span> | <span class="example-en" dir="ltr" lang="en">I like version</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إصدار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the version?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إصدار عند الباب مع المحفظة البنية، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a version at the door with the brown wallet, so we make the appointment, and then the boy slept</span> |
 
 

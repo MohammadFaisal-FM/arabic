@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ثالثا</span> | <span class="example-en" dir="ltr" lang="en">This is iii</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ثالثا</span> | <span class="example-en" dir="ltr" lang="en">I like iii</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ثالثا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the iii?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ثالثا الحين في الثلاجة، لأن البطارية ضعيفة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an iii now in the fridge, because the battery is low, and I also took the summer hat</span> |
 
 

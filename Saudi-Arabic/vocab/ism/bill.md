@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فاتورة</span> | <span class="example-en" dir="ltr" lang="en">This is bill</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فاتورة</span> | <span class="example-en" dir="ltr" lang="en">I like bill</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فاتورة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bill?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فاتورة الحين في الصالون، بس خلّه قريب منك، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a bill now in the living room, but keep it near you, and I also took the clean tissue</span> |
 
 

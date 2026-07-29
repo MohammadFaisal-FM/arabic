@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حساس</span> | <span class="example-en" dir="ltr" lang="en">This is sensitive</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حساس</span> | <span class="example-en" dir="ltr" lang="en">I like sensitive</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حساس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sensitive?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حساس في الغرفة مع المفتاح الاحتياطي، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a sensitive in the room with the spare key, for studying tomorrow, and then I washed my hands</span> |
 
 

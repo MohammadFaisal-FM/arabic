@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الرسومات</span> | <span class="example-en" dir="ltr" lang="en">This is graphics</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الرسومات</span> | <span class="example-en" dir="ltr" lang="en">I like graphics</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الرسومات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the graphics?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الرسومات في المدرسة مع المقص الحاد، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a graphics at school with the sharp scissors, before Maghrib prayer, and then I turned off the light</span> |
 
 

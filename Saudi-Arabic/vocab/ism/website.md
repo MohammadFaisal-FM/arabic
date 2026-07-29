@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موقع إلكتروني</span> | <span class="example-en" dir="ltr" lang="en">This is website</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موقع إلكتروني</span> | <span class="example-en" dir="ltr" lang="en">I like website</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موقع إلكتروني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the website?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت موقع إلكتروني في الغرفة مع المفتاح الاحتياطي، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a website in the room with the spare key, before the food gets cold, and then I wrote a note</span> |
 
 

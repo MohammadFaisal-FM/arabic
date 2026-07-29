@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا توضيح</span> | <span class="example-en" dir="ltr" lang="en">This is explanation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب توضيح</span> | <span class="example-en" dir="ltr" lang="en">I like explanation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين توضيح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the explanation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج توضيح الحين في السيارة، عشان ما نتأخر، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need an explanation now in the car, so we are not late, and I also took the soft pillow</span> |
 
 

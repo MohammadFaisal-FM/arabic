@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موقع ئي باي</span> | <span class="example-en" dir="ltr" lang="en">This is ebay</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موقع ئي باي</span> | <span class="example-en" dir="ltr" lang="en">I like ebay</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موقع ئي باي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ebay?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت موقع ئي باي تحت السرير مع الوشاح الرمادي، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found an ebay under the bed with the grey scarf, so we are not late, and then I replied to the message</span> |
 
 

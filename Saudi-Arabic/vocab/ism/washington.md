@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا واشنطن</span> | <span class="example-en" dir="ltr" lang="en">This is washington</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب واشنطن</span> | <span class="example-en" dir="ltr" lang="en">I like washington</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين واشنطن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the washington?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت واشنطن جنب المسجد، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a washington next to the mosque, if you need it later, and then we locked the door</span> |
 
 

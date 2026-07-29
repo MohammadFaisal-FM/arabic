@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دليل</span> | <span class="example-en" dir="ltr" lang="en">This is directory</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دليل</span> | <span class="example-en" dir="ltr" lang="en">I like directory</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دليل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the directory?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت دليل على الشرفة مع البطاقة الصفراء، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a directory on the balcony with the yellow card, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

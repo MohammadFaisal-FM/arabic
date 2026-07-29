@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أروح السوق</span> | <span class="example-en" dir="ltr" lang="en">I’m going to the market</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أروح السوق، ولقيت الزجاجة الفارغة في البقالة، لأن الإضاءة أحسن هناك، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I’m going to the market, and I found the empty bottle at the grocery, because the light is better there, and then I wiped the floor</span> |
 
 
 ---

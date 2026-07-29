@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الخادم</span> | <span class="example-en" dir="ltr" lang="en">This is server</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الخادم</span> | <span class="example-en" dir="ltr" lang="en">I like server</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الخادم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the server?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الخادم في الحقيبة مع الحذاء النظيف، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a server in the bag with the clean shoes, before the driver arrives, and then I closed the window</span> |
 
 

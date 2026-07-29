@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا باطل</span> | <span class="example-en" dir="ltr" lang="en">This is null</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب باطل</span> | <span class="example-en" dir="ltr" lang="en">I like null</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين باطل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the null?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت باطل في المطبخ، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a null in the kitchen, so revision is easier, and then I wiped the floor</span> |
 
 

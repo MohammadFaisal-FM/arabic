@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مدح</span> | <span class="example-en" dir="ltr" lang="en">This is praise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مدح</span> | <span class="example-en" dir="ltr" lang="en">I like praise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مدح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the praise?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مدح عند العيادة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a praise at the clinic, if you need it later, and then I drank some water</span> |
 
 

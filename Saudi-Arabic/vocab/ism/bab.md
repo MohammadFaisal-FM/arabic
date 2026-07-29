@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">افتح الباب</span> | <span class="example-en" dir="ltr" lang="en">Open the door</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا باب</span> | <span class="example-en" dir="ltr" lang="en">This is a door</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب باب</span> | <span class="example-en" dir="ltr" lang="en">I like door</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين باب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the door?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت باب عند الاستقبال مع الكوب الزجاج، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a door at reception with the glass cup, because traffic is heavy, and then I wiped the floor</span> |
 
 

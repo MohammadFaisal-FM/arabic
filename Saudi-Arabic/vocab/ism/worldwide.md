@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا في جميع أنحاء العالم</span> | <span class="example-en" dir="ltr" lang="en">This is worldwide</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب في جميع أنحاء العالم</span> | <span class="example-en" dir="ltr" lang="en">I like worldwide</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين في جميع أنحاء العالم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the worldwide?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج في جميع أنحاء العالم الحين عند الصيدلية، لأن الجو حار شوي، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a worldwide now at the pharmacy, because the weather is a bit hot, and I also took the clear cover</span> |
 
 

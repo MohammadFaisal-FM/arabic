@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المباني</span> | <span class="example-en" dir="ltr" lang="en">This is buildings</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المباني</span> | <span class="example-en" dir="ltr" lang="en">I like buildings</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المباني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the buildings?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المباني عند الاستقبال مع الكوب الزجاج، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a buildings at reception with the glass cup, because traffic is heavy, and then I wiped the floor</span> |
 
 

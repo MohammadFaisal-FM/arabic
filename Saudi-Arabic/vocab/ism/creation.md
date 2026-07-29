@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الخلق</span> | <span class="example-en" dir="ltr" lang="en">This is creation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الخلق</span> | <span class="example-en" dir="ltr" lang="en">I like creation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الخلق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the creation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الخلق الحين عند الصيدلية، لأن الجو حار شوي، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a creation now at the pharmacy, because the weather is a bit hot, and I also took the clear cover</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا متخصص</span> | <span class="example-en" dir="ltr" lang="en">This is specialist</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب متخصص</span> | <span class="example-en" dir="ltr" lang="en">I like specialist</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين متخصص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the specialist?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج متخصص الحين قدام المصعد، عشان الضيوف يوصلون، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a specialist now in front of the elevator, because guests are arriving, and I also took the empty carton</span> |
 
 

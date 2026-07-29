@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ديف</span> | <span class="example-en" dir="ltr" lang="en">This is dev</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ديف</span> | <span class="example-en" dir="ltr" lang="en">I like dev</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ديف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dev?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ديف في المحطة، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a dev at the station, because work finished early, and then the phone rang</span> |
 
 

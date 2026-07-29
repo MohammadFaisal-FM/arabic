@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اللاتينية</span> | <span class="example-en" dir="ltr" lang="en">This is latin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اللاتينية</span> | <span class="example-en" dir="ltr" lang="en">I like latin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اللاتينية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the latin?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اللاتينية في الحديقة مع المنبه القديميم، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a latin in the park with the old alarm, so the photo comes out clearer, and then I drank some water</span> |
 
 

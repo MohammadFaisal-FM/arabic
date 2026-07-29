@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أسابيع</span> | <span class="example-en" dir="ltr" lang="en">This is weeks</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أسابيع</span> | <span class="example-en" dir="ltr" lang="en">I like weeks</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أسابيع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the weeks?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أسابيع في الحقيبة مع الحذاء النظيف، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a weeks in the bag with the clean shoes, so revision is easier, and then I wiped the floor</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رسم خريطة</span> | <span class="example-en" dir="ltr" lang="en">This is map</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رسم خريطة</span> | <span class="example-en" dir="ltr" lang="en">I like map</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رسم خريطة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the map?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رسم خريطة الحين في الغرفة، لأن الجو حار شوي، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a map now in the room, because the weather is a bit hot, and I also took the spare key</span> |
 
 

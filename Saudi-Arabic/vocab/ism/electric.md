@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كهربائي</span> | <span class="example-en" dir="ltr" lang="en">This is electric</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كهربائي</span> | <span class="example-en" dir="ltr" lang="en">I like electric</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كهربائي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the electric?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كهربائي في الدرج مع الدفتر الأزرق، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an electric in the drawer with the blue notebook, before the food gets cold, and then I tidied the table</span> |
 
 

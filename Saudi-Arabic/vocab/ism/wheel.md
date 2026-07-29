@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عجلة</span> | <span class="example-en" dir="ltr" lang="en">This is wheel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عجلة</span> | <span class="example-en" dir="ltr" lang="en">I like wheel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عجلة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wheel?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عجلة جنب البنك، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a wheel next to the bank, before the driver arrives, and then I charged the device</span> |
 
 

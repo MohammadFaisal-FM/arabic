@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خياري</span> | <span class="example-en" dir="ltr" lang="en">This is optional</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خياري</span> | <span class="example-en" dir="ltr" lang="en">I like optional</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خياري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the optional?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت خياري في الحقيبة، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an optional in the bag, before the driver arrives, and then I charged the device</span> |
 
 

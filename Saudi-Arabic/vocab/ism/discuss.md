@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يناقش</span> | <span class="example-en" dir="ltr" lang="en">This is discuss</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يناقش</span> | <span class="example-en" dir="ltr" lang="en">I like discuss</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يناقش؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the discuss?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يناقش في الصالون، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a discuss in the living room, because work finished early, and then the boy slept</span> |
 
 

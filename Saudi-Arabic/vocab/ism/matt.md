@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مات</span> | <span class="example-en" dir="ltr" lang="en">This is matt</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مات</span> | <span class="example-en" dir="ltr" lang="en">I like matt</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the matt?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مات الحين جنب المسجد، عشان الصورة تطلع أوضح، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a matt now next to the mosque, so the photo comes out clearer, and I also took the pencil</span> |
 
 

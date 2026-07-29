@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأعمار</span> | <span class="example-en" dir="ltr" lang="en">This is ages</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأعمار</span> | <span class="example-en" dir="ltr" lang="en">I like ages</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأعمار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ages?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأعمار الحين في المكتبة، قبل ما يقفل المكان، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an ages now in the library, before the place closes, and I also took the small spoon</span> |
 
 

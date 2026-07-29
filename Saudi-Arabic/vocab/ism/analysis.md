@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تحليل</span> | <span class="example-en" dir="ltr" lang="en">This is analysis</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تحليل</span> | <span class="example-en" dir="ltr" lang="en">I like analysis</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تحليل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the analysis?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تحليل جنب البنك، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an analysis next to the bank, before the driver arrives, and then I charged the device</span> |
 
 

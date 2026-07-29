@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كان فاضل طفلا صغيرا ذو ابتسامة مشعّة.</span> | <span class="example-en" dir="ltr" lang="en">Fadel was a little boy with a radiant smile.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ابتسامه الحين في الحقيبة، عشان ما نتأخر، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a smile now in the bag, so we are not late, and I also took the glass cup</span> |
 
 

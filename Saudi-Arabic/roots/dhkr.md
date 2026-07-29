@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تذكرت اسمه</span> | <span class="example-en" dir="ltr" lang="en">I remembered his name</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تذكرت اسمه، ولقيت البطاقة الصفراء في الصالون، إذا احتجته بعدين، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I remembered his name, and I found the yellow card in the living room, if you need it later, and then I turned off the light</span> |
 
 
 ---

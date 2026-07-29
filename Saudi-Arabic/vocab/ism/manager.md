@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مدير</span> | <span class="example-en" dir="ltr" lang="en">This is manager</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مدير</span> | <span class="example-en" dir="ltr" lang="en">I like manager</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مدير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the manager?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">مدير كان/كانت في الغرفة، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">a manager was in the room, before the food gets cold, and then I washed my hands</span> |
 
 

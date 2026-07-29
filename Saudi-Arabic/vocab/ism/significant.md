@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بارِز</span> | <span class="example-en" dir="ltr" lang="en">This is significant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بارِز</span> | <span class="example-en" dir="ltr" lang="en">I like significant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بارِز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the significant?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بارِز في المطبخ، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a significant in the kitchen, before the driver arrives, and then I closed the window</span> |
 
 

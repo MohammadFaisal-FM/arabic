@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جرس الباب</span> | <span class="example-en" dir="ltr" lang="en">This is doorbell</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جرس الباب</span> | <span class="example-en" dir="ltr" lang="en">I like doorbell</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جرس الباب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the doorbell?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جرس الباب الحين على الشرفة، عشان ما نتأخر، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a doorbell now on the balcony, so we are not late, and I also took the yellow card</span> |
 
 

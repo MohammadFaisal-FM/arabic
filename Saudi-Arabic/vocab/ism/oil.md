@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا زيت</span> | <span class="example-en" dir="ltr" lang="en">This is oil</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب زيت</span> | <span class="example-en" dir="ltr" lang="en">I like oil</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين زيت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the oil?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت زيت في الحديقة مع المنبه القديميم، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found an oil in the park with the old alarm, so the photo comes out clearer, and then I drank some water</span> |
 
 

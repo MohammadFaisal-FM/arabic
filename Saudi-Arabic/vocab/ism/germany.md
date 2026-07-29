@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ألمانيا</span> | <span class="example-en" dir="ltr" lang="en">This is germany</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ألمانيا</span> | <span class="example-en" dir="ltr" lang="en">I like germany</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ألمانيا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the germany?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت ألمانيا قدام المصعد، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I saw a germany in front of the elevator, so we make the appointment, and then the boy slept</span> |
 
 

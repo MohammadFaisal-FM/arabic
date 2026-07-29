@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الفقرة</span> | <span class="example-en" dir="ltr" lang="en">This is para</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الفقرة</span> | <span class="example-en" dir="ltr" lang="en">I like para</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الفقرة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the para?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الفقرة عند العيادة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a para at the clinic, so the photo comes out clearer, and then we prayed</span> |
 
 

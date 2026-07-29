@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الخط</span> | <span class="example-en" dir="ltr" lang="en">This is font</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الخط</span> | <span class="example-en" dir="ltr" lang="en">I like font</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الخط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the font?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الخط الحين جنب البنك، عشان المراجعة أسهل، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a font now next to the bank, so revision is easier, and I also took the empty bottle</span> |
 
 

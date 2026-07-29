@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عيد</span> | <span class="example-en" dir="ltr" lang="en">This is anniversary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عيد</span> | <span class="example-en" dir="ltr" lang="en">I like anniversary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عيد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the anniversary?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عيد على الشرفة مع البطاقة الصفراء، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found an anniversary on the balcony with the yellow card, because the boy is sleepy, and then I turned off the light</span> |
 
 

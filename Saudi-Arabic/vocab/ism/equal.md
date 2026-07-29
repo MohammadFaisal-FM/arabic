@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا متساوي</span> | <span class="example-en" dir="ltr" lang="en">This is equal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب متساوي</span> | <span class="example-en" dir="ltr" lang="en">I like equal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين متساوي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the equal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت متساوي قدام المصعد، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put an equal in front of the elevator, so we make the appointment, and then I turned on the fan</span> |
 
 

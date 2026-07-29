@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نزهه</span> | <span class="example-en" dir="ltr" lang="en">This is picnic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نزهه</span> | <span class="example-en" dir="ltr" lang="en">I like picnic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نزهه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the picnic?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت نزهه في الدرج مع الدفتر الأزرق، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a picnic in the drawer with the blue notebook, because the light is better there, and then I washed my hands</span> |
 
 

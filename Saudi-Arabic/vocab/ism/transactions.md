@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المعاملات</span> | <span class="example-en" dir="ltr" lang="en">This is transactions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المعاملات</span> | <span class="example-en" dir="ltr" lang="en">I like transactions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المعاملات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the transactions?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المعاملات في البقالة مع الشاحن الطويل، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a transactions at the grocery with the long charger, so we are not late, and then I turned off the light</span> |
 
 

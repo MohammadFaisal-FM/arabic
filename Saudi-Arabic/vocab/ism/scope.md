@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نِطَاق</span> | <span class="example-en" dir="ltr" lang="en">This is scope</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نِطَاق</span> | <span class="example-en" dir="ltr" lang="en">I like scope</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نِطَاق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the scope?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نِطَاق الحين في المطبخ، لأن الزحمة قوية، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a scope now in the kitchen, because traffic is heavy, and I also took the paper file</span> |
 
 

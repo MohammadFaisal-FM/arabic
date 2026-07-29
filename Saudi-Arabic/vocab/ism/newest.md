@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأحدث</span> | <span class="example-en" dir="ltr" lang="en">This is newest</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأحدث</span> | <span class="example-en" dir="ltr" lang="en">I like newest</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأحدث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the newest?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأحدث الحين على الشرفة، عشان ما نتأخر، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a newest now on the balcony, so we are not late, and I also took the yellow card</span> |
 
 

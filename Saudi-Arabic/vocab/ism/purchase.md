@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شراء</span> | <span class="example-en" dir="ltr" lang="en">This is purchase</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شراء</span> | <span class="example-en" dir="ltr" lang="en">I like purchase</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شراء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the purchase?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شراء الحين في الغرفة، لأن الجو حار شوي، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a purchase now in the room, because the weather is a bit hot, and I also took the spare key</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا هوايات</span> | <span class="example-en" dir="ltr" lang="en">This is hobbies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب هوايات</span> | <span class="example-en" dir="ltr" lang="en">I like hobbies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين هوايات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hobbies?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت هوايات في السيارة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a hobbies in the car, because the boy is sleepy, and then we laughed a bit</span> |
 
 

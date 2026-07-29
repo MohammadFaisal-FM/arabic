@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سعي</span> | <span class="example-en" dir="ltr" lang="en">This is pursuit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سعي</span> | <span class="example-en" dir="ltr" lang="en">I like pursuit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سعي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pursuit?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سعي الحين عند العيادة، لأن البطارية ضعيفة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a pursuit now at the clinic, because the battery is low, and I also took the stapler</span> |
 
 

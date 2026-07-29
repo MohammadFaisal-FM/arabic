@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت / ما فيه</span> | <span class="example-en" dir="ltr" lang="en">I found it / there isn’t</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت / ما فيه، ولقيت الكابل القصير عند الصيدلية، عشان المراجعة أسهل، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found it / there isn’t, and I found the short cable at the pharmacy, so revision is easier, and then I turned on the fan</span> |
 
 
 ---

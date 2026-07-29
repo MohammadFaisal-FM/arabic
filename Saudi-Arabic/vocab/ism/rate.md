@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا معدل</span> | <span class="example-en" dir="ltr" lang="en">This is rate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب معدل</span> | <span class="example-en" dir="ltr" lang="en">I like rate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين معدل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rate?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج معدل الحين في المكتبة، قبل ما يقفل المكان، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a rate now in the library, before the place closes, and I also took the small spoon</span> |
 
 

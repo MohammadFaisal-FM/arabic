@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يتخطى</span> | <span class="example-en" dir="ltr" lang="en">This is skip</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يتخطى</span> | <span class="example-en" dir="ltr" lang="en">I like skip</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يتخطى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the skip?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يتخطى قدام التلفاز، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a skip in front of the TV, because guests are arriving, and then the boy slept</span> |
 
 

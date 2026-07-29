@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صوتي</span> | <span class="example-en" dir="ltr" lang="en">This is audio</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صوتي</span> | <span class="example-en" dir="ltr" lang="en">I like audio</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صوتي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the audio?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صوتي جنب البنك، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an audio next to the bank, before the driver arrives, and then I charged the device</span> |
 
 

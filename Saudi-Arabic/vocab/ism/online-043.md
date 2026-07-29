@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أقصى مدة انتظار يمكنني تحملها هي أربعة أيام.</span> | <span class="example-en" dir="ltr" lang="en">The maximum waiting time I can tolerate is four days.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اقصي في المحطة مع الكابل القصير، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a maximum at the station with the short cable, but keep it near you, and then the boy slept</span> |
 
 

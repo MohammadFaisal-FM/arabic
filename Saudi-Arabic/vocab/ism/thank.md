@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شكر</span> | <span class="example-en" dir="ltr" lang="en">This is thank</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شكر</span> | <span class="example-en" dir="ltr" lang="en">I like thank</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شكر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the thank?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شكر قدام الملعب، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a thank in front of the pitch, for studying tomorrow, and then I washed my hands</span> |
 
 

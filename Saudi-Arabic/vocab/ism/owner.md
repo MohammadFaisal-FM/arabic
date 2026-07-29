@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مالك</span> | <span class="example-en" dir="ltr" lang="en">This is owner</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مالك</span> | <span class="example-en" dir="ltr" lang="en">I like owner</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مالك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the owner?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مالك في الحديقة مع المنبه القديميم، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an owner in the park with the old alarm, if you need it later, and then we locked the door</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مكتشف</span> | <span class="example-en" dir="ltr" lang="en">This is finder</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مكتشف</span> | <span class="example-en" dir="ltr" lang="en">I like finder</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مكتشف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the finder?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مكتشف الحين عند الصيدلية، لأن الجو حار شوي، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a finder now at the pharmacy, because the weather is a bit hot, and I also took the clear cover</span> |
 
 

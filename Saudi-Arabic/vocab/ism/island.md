@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جزيرة</span> | <span class="example-en" dir="ltr" lang="en">This is island</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جزيرة</span> | <span class="example-en" dir="ltr" lang="en">I like island</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جزيرة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the island?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جزيرة الحين في البقالة، عشان ما نتأخر، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need an island now at the grocery, so we are not late, and I also took the long charger</span> |
 
 

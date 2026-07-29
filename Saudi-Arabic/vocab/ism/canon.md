@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الكنسي</span> | <span class="example-en" dir="ltr" lang="en">This is canon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الكنسي</span> | <span class="example-en" dir="ltr" lang="en">I like canon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الكنسي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the canon?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الكنسي في السيارة، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a canon in the car, so it doesn’t get lost, and then I replied to the message</span> |
 
 

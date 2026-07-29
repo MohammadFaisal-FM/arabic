@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كلية</span> | <span class="example-en" dir="ltr" lang="en">This is college</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كلية</span> | <span class="example-en" dir="ltr" lang="en">I like college</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كلية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the college?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كلية على الشرفة مع البطاقة الصفراء، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a college on the balcony with the yellow card, before Maghrib prayer, and then I replied to the message</span> |
 
 

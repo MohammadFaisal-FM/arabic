@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مدة</span> | <span class="example-en" dir="ltr" lang="en">This is duration</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مدة</span> | <span class="example-en" dir="ltr" lang="en">I like duration</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مدة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the duration?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مدة عند الاستقبال مع الكوب الزجاج، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a duration at reception with the glass cup, before the driver arrives, and then I charged the device</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا البق</span> | <span class="example-en" dir="ltr" lang="en">This is bugs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب البق</span> | <span class="example-en" dir="ltr" lang="en">I like bugs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين البق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bugs?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت البق جنب النافذة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a bugs beside the window, because time is tight, and then we prayed</span> |
 
 

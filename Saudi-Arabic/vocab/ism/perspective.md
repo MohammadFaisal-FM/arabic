@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وجهة نظر</span> | <span class="example-en" dir="ltr" lang="en">This is perspective</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وجهة نظر</span> | <span class="example-en" dir="ltr" lang="en">I like perspective</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وجهة نظر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the perspective?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت وجهة نظر في المطبخ مع الملف الورقي، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a perspective in the kitchen with the paper file, because traffic is heavy, and then I closed the window</span> |
 
 

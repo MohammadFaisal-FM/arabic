@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كومة</span> | <span class="example-en" dir="ltr" lang="en">This is pile</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كومة</span> | <span class="example-en" dir="ltr" lang="en">I like pile</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كومة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pile?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كومة في الصالون، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a pile in the living room, so we make the appointment, and then the boy slept</span> |
 
 

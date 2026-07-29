@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الاختبارات</span> | <span class="example-en" dir="ltr" lang="en">This is tests</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الاختبارات</span> | <span class="example-en" dir="ltr" lang="en">I like tests</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الاختبارات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tests?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الاختبارات في الحقيبة، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a tests in the bag, so revision is easier, and then I closed the window</span> |
 
 

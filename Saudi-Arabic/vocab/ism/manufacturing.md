@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تصنيع</span> | <span class="example-en" dir="ltr" lang="en">This is manufacturing</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تصنيع</span> | <span class="example-en" dir="ltr" lang="en">I like manufacturing</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تصنيع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the manufacturing?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تصنيع كان/كانت تحت السرير، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">a manufacturing was under the bed, so we are not late, and then we laughed a bit</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نقص</span> | <span class="example-en" dir="ltr" lang="en">This is lack</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نقص</span> | <span class="example-en" dir="ltr" lang="en">I like lack</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نقص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lack?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نقص على المكتب، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a lack on the desk, for studying tomorrow, and then I wrote a note</span> |
 
 

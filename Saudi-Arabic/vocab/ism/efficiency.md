@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كفاءة</span> | <span class="example-en" dir="ltr" lang="en">This is efficiency</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كفاءة</span> | <span class="example-en" dir="ltr" lang="en">I like efficiency</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كفاءة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the efficiency?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كفاءة على الشرفة مع البطاقة الصفراء، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found an efficiency on the balcony with the yellow card, before Maghrib prayer, and then I replied to the message</span> |
 
 

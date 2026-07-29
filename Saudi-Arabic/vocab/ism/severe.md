@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شديد</span> | <span class="example-en" dir="ltr" lang="en">This is severe</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شديد</span> | <span class="example-en" dir="ltr" lang="en">I like severe</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شديد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the severe?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شديد جنب النافذة مع النظارة الشمسية، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a severe beside the window with the sunglasses, so the photo comes out clearer, and then I drank some water</span> |
 
 

@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">المدينة كبيرة</span> | <span class="example-en" dir="ltr" lang="en">The city is big</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا مدينة</span> | <span class="example-en" dir="ltr" lang="en">This is a city</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مدينة</span> | <span class="example-en" dir="ltr" lang="en">I like city</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مدينة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the city?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مدينة عند الصيدلية، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a city at the pharmacy, for studying tomorrow, and then I washed my hands</span> |
 
 

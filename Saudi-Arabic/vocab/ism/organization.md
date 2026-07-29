@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا منظمة</span> | <span class="example-en" dir="ltr" lang="en">This is organization</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب منظمة</span> | <span class="example-en" dir="ltr" lang="en">I like organization</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين منظمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the organization?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت منظمة قدام المصعد مع الكرتون الفاضي، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an organization in front of the elevator with the empty carton, because work finished early, and then the boy slept</span> |
 
 

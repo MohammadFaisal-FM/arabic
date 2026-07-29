@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مبدع</span> | <span class="example-en" dir="ltr" lang="en">This is creative</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مبدع</span> | <span class="example-en" dir="ltr" lang="en">I like creative</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مبدع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the creative?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مبدع قدام الملعب مع اللاصق الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a creative in front of the pitch with the clear tape, for studying tomorrow, and then I tidied the table</span> |
 
 

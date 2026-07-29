@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مليون</span> | <span class="example-en" dir="ltr" lang="en">This is million</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مليون</span> | <span class="example-en" dir="ltr" lang="en">I like million</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مليون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the million?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مليون الحين على الشرفة، عشان ما نتأخر، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a million now on the balcony, so we are not late, and I also took the yellow card</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">متى تجي؟</span> | <span class="example-en" dir="ltr" lang="en">When are you coming?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">متى تجي؟، ولقيت المنديل النظيف على المكتب، لأن الجو حار شوي، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">When are you coming?, and I found the clean tissue on the desk, because the weather is a bit hot, and then the phone rang</span> |
 
 
 ---

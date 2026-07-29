@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المكالمات</span> | <span class="example-en" dir="ltr" lang="en">This is calls</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المكالمات</span> | <span class="example-en" dir="ltr" lang="en">I like calls</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المكالمات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the calls?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المكالمات قدام التلفاز، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a calls in front of the TV, but keep it near you, and then I turned on the fan</span> |
 
 

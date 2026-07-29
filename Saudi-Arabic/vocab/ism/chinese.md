@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الصينية</span> | <span class="example-en" dir="ltr" lang="en">This is chinese</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الصينية</span> | <span class="example-en" dir="ltr" lang="en">I like chinese</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الصينية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the chinese?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الصينية الحين في السيارة، قبل صلاة المغرب، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a chinese now in the car, before Maghrib prayer, and I also took the soft pillow</span> |
 
 

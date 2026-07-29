@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قبعة</span> | <span class="example-en" dir="ltr" lang="en">This is hat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قبعة</span> | <span class="example-en" dir="ltr" lang="en">I like hat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قبعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hat?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قبعة الحين في الغرفة، عشان الدراسة بكرة، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a hat now in the room, for studying tomorrow, and I also took the spare key</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الصيد</span> | <span class="example-en" dir="ltr" lang="en">This is hunting</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الصيد</span> | <span class="example-en" dir="ltr" lang="en">I like hunting</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الصيد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hunting?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الصيد الحين عند الصيدلية، قبل ما يبرد الأكل، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a hunting now at the pharmacy, before the food gets cold, and I also took the clear cover</span> |
 
 

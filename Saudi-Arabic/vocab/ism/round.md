@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دائري</span> | <span class="example-en" dir="ltr" lang="en">This is round</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دائري</span> | <span class="example-en" dir="ltr" lang="en">I like round</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دائري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the round?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج دائري الحين جنب النافذة، عشان الصورة تطلع أوضح، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a round now beside the window, so the photo comes out clearer, and I also took the sunglasses</span> |
 
 

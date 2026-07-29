@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شحن</span> | <span class="example-en" dir="ltr" lang="en">This is shipping</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شحن</span> | <span class="example-en" dir="ltr" lang="en">I like shipping</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شحن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the shipping?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شحن عند الباب مع المحفظة البنية، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a shipping at the door with the brown wallet, because work finished early, and then the boy slept</span> |
 
 

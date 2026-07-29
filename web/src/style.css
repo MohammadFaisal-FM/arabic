@@ -516,6 +516,45 @@ html, body {
   color: #fff;
 }
 
+.tts-voice-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem 0.75rem;
+  margin: 0 0 0.85rem;
+  padding: 0.55rem 0.65rem;
+  border: 1px solid rgba(37, 42, 61, 0.95);
+  border-radius: 10px;
+  background: rgba(16, 19, 29, 0.72);
+}
+
+.tts-voice-label {
+  font-size: 0.78rem;
+  color: #b8b2d0;
+}
+
+.tts-voice-ok {
+  color: #8fd6a8;
+  font-weight: 600;
+}
+
+.tts-voice-warn {
+  color: #e2b56f;
+  font-weight: 600;
+}
+
+.tts-voice-select {
+  flex: 1 1 12rem;
+  min-width: 10rem;
+  max-width: 100%;
+  background: #0c0e16;
+  color: #eeeaf8;
+  border: 1px solid rgba(120, 103, 184, 0.45);
+  border-radius: 8px;
+  padding: 0.35rem 0.5rem;
+  font-size: 0.78rem;
+}
+
 .md-content .example-en {
   display: block;
   direction: ltr;

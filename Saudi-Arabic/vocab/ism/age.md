@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عمر</span> | <span class="example-en" dir="ltr" lang="en">This is age</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عمر</span> | <span class="example-en" dir="ltr" lang="en">I like age</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عمر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the age?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عمر الحين في المكتبة، عشان المراجعة أسهل، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an age now in the library, so revision is easier, and I also took the small spoon</span> |
 
 

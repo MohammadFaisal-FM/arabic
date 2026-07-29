@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مثال</span> | <span class="example-en" dir="ltr" lang="en">This is example</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مثال</span> | <span class="example-en" dir="ltr" lang="en">I like example</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مثال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the example?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مثال في الثلاجة مع القبعة الصيفية، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found an example in the fridge with the summer hat, because the battery is low, and then I drank some water</span> |
 
 

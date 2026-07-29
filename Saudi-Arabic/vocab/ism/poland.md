@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بولندا</span> | <span class="example-en" dir="ltr" lang="en">This is poland</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بولندا</span> | <span class="example-en" dir="ltr" lang="en">I like poland</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بولندا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the poland?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بولندا الحين جنب النافذة، إذا احتجته بعدين، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a poland now beside the window, if you need it later, and I also took the sunglasses</span> |
 
 

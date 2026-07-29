@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العراق</span> | <span class="example-en" dir="ltr" lang="en">This is iraq</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العراق</span> | <span class="example-en" dir="ltr" lang="en">I like iraq</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العراق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the iraq?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج العراق الحين عند الاستقبال، قبل ما يجي السائق، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need an iraq now at reception, before the driver arrives, and I also took the glass cup</span> |
 
 

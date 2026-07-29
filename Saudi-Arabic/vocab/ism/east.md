@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شرق</span> | <span class="example-en" dir="ltr" lang="en">This is east</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شرق</span> | <span class="example-en" dir="ltr" lang="en">I like east</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شرق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the east?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شرق في الثلاجة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put an east in the fridge, because the battery is low, and then we locked the door</span> |
 
 

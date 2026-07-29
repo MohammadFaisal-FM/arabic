@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">انظر هنا</span> | <span class="example-en" dir="ltr" lang="en">Look here</span> |
+| <span class="example-ar" dir="rtl" lang="ar">انظر هنا، ولقيت القلم الرصاص في الحقيبة، عشان الضيوف يوصلون، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">Look here, and I found the pencil in the bag, because guests are arriving, and then we locked the door</span> |
 
 
 ---

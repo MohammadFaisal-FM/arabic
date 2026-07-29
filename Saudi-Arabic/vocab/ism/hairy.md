@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مشعر</span> | <span class="example-en" dir="ltr" lang="en">This is hairy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مشعر</span> | <span class="example-en" dir="ltr" lang="en">I like hairy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مشعر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hairy?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مشعر الحين تحت السرير، عشان ما يضيع، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a hairy now under the bed, so it doesn’t get lost, and I also took the grey scarf</span> |
 
 

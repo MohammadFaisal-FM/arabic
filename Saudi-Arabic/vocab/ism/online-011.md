@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هناك إحتمال أن تندلع الحرب.</span> | <span class="example-en" dir="ltr" lang="en">There is a possibility that war will break out.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا احتمال</span> | <span class="example-en" dir="ltr" lang="en">This is a probability</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب احتمال</span> | <span class="example-en" dir="ltr" lang="en">I like probability</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين احتمال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the probability?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت احتمال جنب البنك، عشان المراجعة أسهل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a probability next to the bank, so revision is easier, and then we locked the door</span> |
 
 

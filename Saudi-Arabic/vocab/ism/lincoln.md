@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لينكولن</span> | <span class="example-en" dir="ltr" lang="en">This is lincoln</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لينكولن</span> | <span class="example-en" dir="ltr" lang="en">I like lincoln</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لينكولن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lincoln?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لينكولن في المكتبة، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a lincoln in the library, so revision is easier, and then I wiped the floor</span> |
 
 

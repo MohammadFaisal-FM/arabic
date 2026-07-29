@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بوب</span> | <span class="example-en" dir="ltr" lang="en">This is bob</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بوب</span> | <span class="example-en" dir="ltr" lang="en">I like bob</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بوب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bob?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بوب قدام الملعب، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a bob in front of the pitch, for studying tomorrow, and then I washed my hands</span> |
 
 

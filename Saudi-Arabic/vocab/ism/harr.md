@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">اليوم حر</span> | <span class="example-en" dir="ltr" lang="en">Today is free</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا حر</span> | <span class="example-en" dir="ltr" lang="en">This is a heat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حر</span> | <span class="example-en" dir="ltr" lang="en">I like heat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the heat?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حر في الحقيبة مع الحذاء النظيف، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a heat in the bag with the clean shoes, because traffic is heavy, and then I charged the device</span> |
 
 

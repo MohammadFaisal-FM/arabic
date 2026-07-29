@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مسحوق</span> | <span class="example-en" dir="ltr" lang="en">This is powder</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مسحوق</span> | <span class="example-en" dir="ltr" lang="en">I like powder</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مسحوق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the powder?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مسحوق في المحطة، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a powder at the station, because work finished early, and then the phone rang</span> |
 
 

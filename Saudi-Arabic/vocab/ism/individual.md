@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فردي</span> | <span class="example-en" dir="ltr" lang="en">This is individual</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فردي</span> | <span class="example-en" dir="ltr" lang="en">I like individual</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فردي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the individual?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فردي الحين في السيارة، قبل صلاة المغرب، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need an individual now in the car, before Maghrib prayer, and I also took the soft pillow</span> |
 
 

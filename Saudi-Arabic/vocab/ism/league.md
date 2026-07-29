@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الدوري</span> | <span class="example-en" dir="ltr" lang="en">This is league</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الدوري</span> | <span class="example-en" dir="ltr" lang="en">I like league</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الدوري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the league?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الدوري قدام المصعد مع الكرتون الفاضي، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a league in front of the elevator with the empty carton, because guests are arriving, and then I turned on the fan</span> |
 
 

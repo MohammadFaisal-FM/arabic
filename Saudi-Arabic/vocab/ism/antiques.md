@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التحف</span> | <span class="example-en" dir="ltr" lang="en">This is antiques</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التحف</span> | <span class="example-en" dir="ltr" lang="en">I like antiques</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التحف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the antiques?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التحف في السيارة مع الوسادة الناعمة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found an antiques in the car with the soft pillow, before Maghrib prayer, and then I replied to the message</span> |
 
 

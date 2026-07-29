@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يتصور</span> | <span class="example-en" dir="ltr" lang="en">This is imagine</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يتصور</span> | <span class="example-en" dir="ltr" lang="en">I like imagine</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يتصور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the imagine?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يتصور قدام الملعب، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put an imagine in front of the pitch, because the weather is a bit hot, and then I tidied the table</span> |
 
 

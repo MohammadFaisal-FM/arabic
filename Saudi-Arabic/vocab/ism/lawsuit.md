@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دعوى قضائية</span> | <span class="example-en" dir="ltr" lang="en">This is lawsuit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دعوى قضائية</span> | <span class="example-en" dir="ltr" lang="en">I like lawsuit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دعوى قضائية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lawsuit?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت دعوى قضائية في البقالة مع الشاحن الطويل، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a lawsuit at the grocery with the long charger, so we are not late, and then I turned off the light</span> |
 
 

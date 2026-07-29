@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التجار</span> | <span class="example-en" dir="ltr" lang="en">This is dealers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التجار</span> | <span class="example-en" dir="ltr" lang="en">I like dealers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التجار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dealers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج التجار الحين جنب البنك، لأن الزحمة قوية، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a dealers now next to the bank, because traffic is heavy, and I also took the empty bottle</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دِين</span> | <span class="example-en" dir="ltr" lang="en">This is religion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دِين</span> | <span class="example-en" dir="ltr" lang="en">I like religion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دِين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the religion?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دِين في المطبخ، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a religion in the kitchen, before the driver arrives, and then I closed the window</span> |
 
 

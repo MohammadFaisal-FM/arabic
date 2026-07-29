@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التوقيت الصيفى الباسيفيكى</span> | <span class="example-en" dir="ltr" lang="en">This is pdt</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التوقيت الصيفى الباسيفيكى</span> | <span class="example-en" dir="ltr" lang="en">I like pdt</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التوقيت الصيفى الباسيفيكى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pdt?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التوقيت الصيفى الباسيفيكى في الدرج مع الدفتر الأزرق، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a pdt in the drawer with the blue notebook, for studying tomorrow, and then I wrote a note</span> |
 
 

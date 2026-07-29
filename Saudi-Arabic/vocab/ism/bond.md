@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رابطة</span> | <span class="example-en" dir="ltr" lang="en">This is bond</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رابطة</span> | <span class="example-en" dir="ltr" lang="en">I like bond</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رابطة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bond?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رابطة في الحديقة مع المنبه القديميم، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a bond in the park with the old alarm, because time is tight, and then we locked the door</span> |
 
 

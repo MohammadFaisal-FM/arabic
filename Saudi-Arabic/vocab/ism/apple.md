@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تفاحة</span> | <span class="example-en" dir="ltr" lang="en">This is apple</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تفاحة</span> | <span class="example-en" dir="ltr" lang="en">I like apple</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تفاحة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the apple?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تفاحة في الثلاجة مع القبعة الصيفية، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found an apple in the fridge with the summer hat, because the battery is low, and then I drank some water</span> |
 
 

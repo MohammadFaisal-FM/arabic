@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دراسات</span> | <span class="example-en" dir="ltr" lang="en">This is studies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دراسات</span> | <span class="example-en" dir="ltr" lang="en">I like studies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دراسات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the studies?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج دراسات الحين في المدرسة، لأن الولد نعسان، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a studies now at school, because the boy is sleepy, and I also took the sharp scissors</span> |
 
 

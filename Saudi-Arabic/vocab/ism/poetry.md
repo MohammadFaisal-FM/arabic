@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شِعر</span> | <span class="example-en" dir="ltr" lang="en">This is poetry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شِعر</span> | <span class="example-en" dir="ltr" lang="en">I like poetry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شِعر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the poetry?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شِعر في الثلاجة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a poetry in the fridge, because time is tight, and then I drank some water</span> |
 
 

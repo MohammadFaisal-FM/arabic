@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سباحة</span> | <span class="example-en" dir="ltr" lang="en">This is swimming</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سباحة</span> | <span class="example-en" dir="ltr" lang="en">I like swimming</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سباحة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the swimming?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سباحة عند الباب، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a swimming at the door, but keep it near you, and then the boy slept</span> |
 
 

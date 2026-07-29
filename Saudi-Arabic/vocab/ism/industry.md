@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صناعة</span> | <span class="example-en" dir="ltr" lang="en">This is industry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صناعة</span> | <span class="example-en" dir="ltr" lang="en">I like industry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صناعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the industry?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صناعة جنب البنك، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put an industry next to the bank, because traffic is heavy, and then I wiped the floor</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا محادثة</span> | <span class="example-en" dir="ltr" lang="en">This is chat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب محادثة</span> | <span class="example-en" dir="ltr" lang="en">I like chat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين محادثة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the chat?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج محادثة الحين قدام التلفاز، لأن الشغل خلص بدري، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a chat now in front of the TV, because work finished early, and I also took the white sock</span> |
 
 

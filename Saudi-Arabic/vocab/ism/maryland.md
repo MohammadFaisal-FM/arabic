@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ميريلاند</span> | <span class="example-en" dir="ltr" lang="en">This is maryland</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ميريلاند</span> | <span class="example-en" dir="ltr" lang="en">I like maryland</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ميريلاند؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the maryland?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ميريلاند عند الاستقبال، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a maryland at reception, so revision is easier, and then I charged the device</span> |
 
 

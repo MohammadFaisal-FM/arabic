@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المدعي العام</span> | <span class="example-en" dir="ltr" lang="en">This is prosecutor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المدعي العام</span> | <span class="example-en" dir="ltr" lang="en">I like prosecutor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المدعي العام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the prosecutor?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المدعي العام على المكتب، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a prosecutor on the desk, for studying tomorrow, and then I wrote a note</span> |
 
 

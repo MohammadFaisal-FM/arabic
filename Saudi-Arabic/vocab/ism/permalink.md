@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الرابط الثابت</span> | <span class="example-en" dir="ltr" lang="en">This is permalink</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الرابط الثابت</span> | <span class="example-en" dir="ltr" lang="en">I like permalink</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الرابط الثابت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the permalink?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الرابط الثابت في الدرج مع الدفتر الأزرق، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a permalink in the drawer with the blue notebook, before the food gets cold, and then I tidied the table</span> |
 
 

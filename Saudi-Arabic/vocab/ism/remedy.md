@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا علاج</span> | <span class="example-en" dir="ltr" lang="en">This is remedy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب علاج</span> | <span class="example-en" dir="ltr" lang="en">I like remedy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين علاج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the remedy?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج علاج الحين في السيارة، عشان ما نتأخر، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a remedy now in the car, so we are not late, and I also took the soft pillow</span> |
 
 

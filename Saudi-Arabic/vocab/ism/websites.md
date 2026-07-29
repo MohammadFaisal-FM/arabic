@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مواقع الويب</span> | <span class="example-en" dir="ltr" lang="en">This is websites</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مواقع الويب</span> | <span class="example-en" dir="ltr" lang="en">I like websites</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مواقع الويب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the websites?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مواقع الويب الحين على الشرفة، لأن الولد نعسان، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a websites now on the balcony, because the boy is sleepy, and I also took the yellow card</span> |
 
 

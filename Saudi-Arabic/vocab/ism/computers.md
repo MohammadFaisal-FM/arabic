@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أجهزة الكمبيوتر</span> | <span class="example-en" dir="ltr" lang="en">This is computers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أجهزة الكمبيوتر</span> | <span class="example-en" dir="ltr" lang="en">I like computers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أجهزة الكمبيوتر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the computers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أجهزة الكمبيوتر الحين عند العيادة، لأن البطارية ضعيفة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a computers now at the clinic, because the battery is low, and I also took the stapler</span> |
 
 

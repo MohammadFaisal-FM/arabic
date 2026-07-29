@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سلك</span> | <span class="example-en" dir="ltr" lang="en">This is wire</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سلك</span> | <span class="example-en" dir="ltr" lang="en">I like wire</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سلك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wire?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سلك الحين جنب المسجد، لأن الوقت ضيق، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a wire now next to the mosque, because time is tight, and I also took the pencil</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">سمعتك</span> | <span class="example-en" dir="ltr" lang="en">I heard you</span> |
+| <span class="example-ar" dir="rtl" lang="ar">سمعتك، ولقيت البطانية الخفيفة عند العيادة، قبل صلاة المغرب، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I heard you, and I found the light blanket at the clinic, before Maghrib prayer, and then I tidied the table</span> |
 
 
 ---

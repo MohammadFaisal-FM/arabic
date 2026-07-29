@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رسمي</span> | <span class="example-en" dir="ltr" lang="en">This is official</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رسمي</span> | <span class="example-en" dir="ltr" lang="en">I like official</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رسمي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the official?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رسمي الحين عند الصيدلية، عشان الدراسة بكرة، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an official now at the pharmacy, for studying tomorrow, and I also took the clear cover</span> |
 
 

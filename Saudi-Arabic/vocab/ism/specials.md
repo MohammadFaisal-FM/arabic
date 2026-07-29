@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العروض الخاصة</span> | <span class="example-en" dir="ltr" lang="en">This is specials</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العروض الخاصة</span> | <span class="example-en" dir="ltr" lang="en">I like specials</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العروض الخاصة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the specials?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت العروض الخاصة في الصالون مع المنديل النظيف، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a specials in the living room with the clean tissue, but keep it near you, and then I turned on the fan</span> |
 
 

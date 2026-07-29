@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بندقية</span> | <span class="example-en" dir="ltr" lang="en">This is rifle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بندقية</span> | <span class="example-en" dir="ltr" lang="en">I like rifle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بندقية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rifle?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بندقية الحين جنب المسجد، إذا احتجته بعدين، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a rifle now next to the mosque, if you need it later, and I also took the pencil</span> |
 
 

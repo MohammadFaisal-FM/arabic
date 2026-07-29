@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سياتل</span> | <span class="example-en" dir="ltr" lang="en">This is seattle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سياتل</span> | <span class="example-en" dir="ltr" lang="en">I like seattle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سياتل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the seattle?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سياتل في السيارة مع الوسادة الناعمة، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a seattle in the car with the soft pillow, because the boy is sleepy, and then I turned off the light</span> |
 
 

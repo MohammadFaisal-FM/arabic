@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بلح</span> | <span class="example-en" dir="ltr" lang="en">This is dates</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بلح</span> | <span class="example-en" dir="ltr" lang="en">I like dates</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بلح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dates?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بلح الحين في البقالة، عشان ما يضيع، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a dates now at the grocery, so it doesn’t get lost, and I also took the long charger</span> |
 
 

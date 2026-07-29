@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">سقط الجوال</span> | <span class="example-en" dir="ltr" lang="en">The phone fell</span> |
+| <span class="example-ar" dir="rtl" lang="ar">سقط الجوال، ولقيت القبعة الصيفية في المطبخ، بس خلّه قريب منك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">The phone fell, and I found the summer hat in the kitchen, but keep it near you, and then I drank some water</span> |
 
 
 ---

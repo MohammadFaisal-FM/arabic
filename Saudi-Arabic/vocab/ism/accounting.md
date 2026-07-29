@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا محاسبة</span> | <span class="example-en" dir="ltr" lang="en">This is accounting</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب محاسبة</span> | <span class="example-en" dir="ltr" lang="en">I like accounting</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين محاسبة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the accounting?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج محاسبة الحين في الثلاجة، لأن الوقت ضيق، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an accounting now in the fridge, because time is tight, and I also took the summer hat</span> |
 
 

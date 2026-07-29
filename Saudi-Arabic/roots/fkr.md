@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">خلني أفكر</span> | <span class="example-en" dir="ltr" lang="en">Let me think</span> |
+| <span class="example-ar" dir="rtl" lang="ar">خلني أفكر، ولقيت القلم الرصاص في الحقيبة، عشان نلحق الموعد، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">Let me think, and I found the pencil in the bag, so we make the appointment, and then I drank some water</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [فكرة](#ism/fikra) | <span class="example-ar" dir="rtl" lang="ar">عندي فكرة</span><br><span class="example-en" dir="ltr" lang="en">I have an idea</span> |
+| اسم · ism (noun / other) | [فكرة](#ism/fikra) | <span class="example-ar" dir="rtl" lang="ar">حطّيت فكرة جنب البنك، لأن الزحمة قوية، وبعدها مسحت الأرض</span><br><span class="example-en" dir="ltr" lang="en">I put an idea next to the bank, because traffic is heavy, and then I wiped the floor</span> |
 

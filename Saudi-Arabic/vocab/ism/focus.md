@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ركز</span> | <span class="example-en" dir="ltr" lang="en">This is focus</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ركز</span> | <span class="example-en" dir="ltr" lang="en">I like focus</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ركز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the focus?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ركز عند الباب، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a focus at the door, because guests are arriving, and then the phone rang</span> |
 
 

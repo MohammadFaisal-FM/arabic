@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بطارية</span> | <span class="example-en" dir="ltr" lang="en">This is battery</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بطارية</span> | <span class="example-en" dir="ltr" lang="en">I like battery</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بطارية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the battery?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بطارية في الصالون مع المنديل النظيف، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a battery in the living room with the clean tissue, because guests are arriving, and then the boy slept</span> |
 
 

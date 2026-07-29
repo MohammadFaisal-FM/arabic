@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كلب</span> | <span class="example-en" dir="ltr" lang="en">This is dog</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كلب</span> | <span class="example-en" dir="ltr" lang="en">I like dog</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كلب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dog?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كلب على المكتب مع البطانية الخفيفة، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a dog on the desk with the light blanket, for studying tomorrow, and then I washed my hands</span> |
 
 

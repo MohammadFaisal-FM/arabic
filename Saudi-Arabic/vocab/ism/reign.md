@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حكم</span> | <span class="example-en" dir="ltr" lang="en">This is reign</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حكم</span> | <span class="example-en" dir="ltr" lang="en">I like reign</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حكم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reign?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حكم الحين عند العيادة، إذا احتجته بعدين، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a reign now at the clinic, if you need it later, and I also took the stapler</span> |
 
 

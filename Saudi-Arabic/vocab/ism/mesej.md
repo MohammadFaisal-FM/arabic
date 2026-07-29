@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أرسل مسج</span> | <span class="example-en" dir="ltr" lang="en">Send a message</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا مسج</span> | <span class="example-en" dir="ltr" lang="en">This is a message (loan)</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مسج</span> | <span class="example-en" dir="ltr" lang="en">I like message (loan)</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مسج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the message (loan)?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مسج في الغرفة، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a message (loan) in the room, before the food gets cold, and then I tidied the table</span> |
 
 

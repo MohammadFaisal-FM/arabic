@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موظف</span> | <span class="example-en" dir="ltr" lang="en">This is employee</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موظف</span> | <span class="example-en" dir="ltr" lang="en">I like employee</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موظف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the employee?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج موظف الحين قدام المصعد، بس خلّه قريب منك، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need an employee now in front of the elevator, but keep it near you, and I also took the empty carton</span> |
 
 

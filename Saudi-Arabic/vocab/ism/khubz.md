@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">عندنا خبز</span> | <span class="example-en" dir="ltr" lang="en">We have bread</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا خبز</span> | <span class="example-en" dir="ltr" lang="en">This is a bread</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خبز</span> | <span class="example-en" dir="ltr" lang="en">I like bread</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خبز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bread?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خبز في الصالون مع المنديل النظيف، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a bread in the living room with the clean tissue, because work finished early, and then the phone rang</span> |
 
 

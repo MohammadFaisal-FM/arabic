@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المسؤولين</span> | <span class="example-en" dir="ltr" lang="en">This is officials</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المسؤولين</span> | <span class="example-en" dir="ltr" lang="en">I like officials</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المسؤولين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the officials?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المسؤولين الحين في الثلاجة، لأن البطارية ضعيفة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an officials now in the fridge, because the battery is low, and I also took the summer hat</span> |
 
 

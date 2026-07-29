@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أشوفك بكرة</span> | <span class="example-en" dir="ltr" lang="en">I will see you tomorrow</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا بكرة</span> | <span class="example-en" dir="ltr" lang="en">This is a tomorrow (najdi)</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بكرة</span> | <span class="example-en" dir="ltr" lang="en">I like tomorrow (najdi)</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بكرة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tomorrow (najdi)?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بكرة في المكتبة مع الملعقة الصغيرة، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a tomorrow (najdi) in the library with the small spoon, so revision is easier, and then I charged the device</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا متناسق</span> | <span class="example-en" dir="ltr" lang="en">This is compatible</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب متناسق</span> | <span class="example-en" dir="ltr" lang="en">I like compatible</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين متناسق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the compatible?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج متناسق الحين في المدرسة، لأن الولد نعسان، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a compatible now at school, because the boy is sleepy, and I also took the sharp scissors</span> |
 
 

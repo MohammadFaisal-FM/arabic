@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا القدرات</span> | <span class="example-en" dir="ltr" lang="en">This is capabilities</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب القدرات</span> | <span class="example-en" dir="ltr" lang="en">I like capabilities</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين القدرات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the capabilities?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت القدرات على الشرفة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a capabilities on the balcony, before Maghrib prayer, and then I turned off the light</span> |
 
 

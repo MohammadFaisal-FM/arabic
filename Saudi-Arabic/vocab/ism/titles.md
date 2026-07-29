@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العناوين</span> | <span class="example-en" dir="ltr" lang="en">This is titles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العناوين</span> | <span class="example-en" dir="ltr" lang="en">I like titles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العناوين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the titles?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت العناوين في الحديقة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a titles in the park, so the photo comes out clearer, and then we locked the door</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا استسلام</span> | <span class="example-en" dir="ltr" lang="en">This is submission</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب استسلام</span> | <span class="example-en" dir="ltr" lang="en">I like submission</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين استسلام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the submission?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت استسلام في البقالة مع الشاحن الطويل، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a submission at the grocery with the long charger, so it doesn’t get lost, and then I turned off the light</span> |
 
 

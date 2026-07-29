@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رسوم متحركة</span> | <span class="example-en" dir="ltr" lang="en">This is cartoon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رسوم متحركة</span> | <span class="example-en" dir="ltr" lang="en">I like cartoon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رسوم متحركة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cartoon?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رسوم متحركة الحين في الحديقة، إذا احتجته بعدين، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a cartoon now in the park, if you need it later, and I also took the old alarm</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أي شخص</span> | <span class="example-en" dir="ltr" lang="en">This is anyone</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أي شخص</span> | <span class="example-en" dir="ltr" lang="en">I like anyone</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أي شخص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the anyone?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أي شخص قدام الملعب مع اللاصق الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an anyone in front of the pitch with the clear tape, for studying tomorrow, and then I tidied the table</span> |
 
 

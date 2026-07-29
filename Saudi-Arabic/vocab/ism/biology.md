@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا علم الأحياء</span> | <span class="example-en" dir="ltr" lang="en">This is biology</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب علم الأحياء</span> | <span class="example-en" dir="ltr" lang="en">I like biology</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين علم الأحياء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the biology?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج علم الأحياء الحين قدام التلفاز، لأن الشغل خلص بدري، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a biology now in front of the TV, because work finished early, and I also took the white sock</span> |
 
 

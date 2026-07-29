@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ثواني</span> | <span class="example-en" dir="ltr" lang="en">This is seconds</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ثواني</span> | <span class="example-en" dir="ltr" lang="en">I like seconds</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ثواني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the seconds?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ثواني الحين في الصالون، بس خلّه قريب منك، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a seconds now in the living room, but keep it near you, and I also took the clean tissue</span> |
 
 

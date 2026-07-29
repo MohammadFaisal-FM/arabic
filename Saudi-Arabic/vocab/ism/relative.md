@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نسبي</span> | <span class="example-en" dir="ltr" lang="en">This is relative</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نسبي</span> | <span class="example-en" dir="ltr" lang="en">I like relative</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نسبي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the relative?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت نسبي على المكتب مع البطانية الخفيفة، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a relative on the desk with the light blanket, before the food gets cold, and then I wrote a note</span> |
 
 

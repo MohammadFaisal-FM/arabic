@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مثليات</span> | <span class="example-en" dir="ltr" lang="en">This is lesbians</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مثليات</span> | <span class="example-en" dir="ltr" lang="en">I like lesbians</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مثليات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lesbians?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مثليات الحين في المدرسة، قبل صلاة المغرب، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a lesbians now at school, before Maghrib prayer, and I also took the sharp scissors</span> |
 
 

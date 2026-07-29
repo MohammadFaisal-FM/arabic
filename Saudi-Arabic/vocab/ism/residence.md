@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مسكن</span> | <span class="example-en" dir="ltr" lang="en">This is residence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مسكن</span> | <span class="example-en" dir="ltr" lang="en">I like residence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مسكن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the residence?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مسكن الحين على الشرفة، عشان ما يضيع، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a residence now on the balcony, so it doesn’t get lost, and I also took the yellow card</span> |
 
 

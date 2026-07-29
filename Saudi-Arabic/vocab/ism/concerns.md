@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مخاوف</span> | <span class="example-en" dir="ltr" lang="en">This is concerns</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مخاوف</span> | <span class="example-en" dir="ltr" lang="en">I like concerns</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مخاوف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the concerns?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مخاوف الحين قدام التلفاز، لأن الشغل خلص بدري، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a concerns now in front of the TV, because work finished early, and I also took the white sock</span> |
 
 

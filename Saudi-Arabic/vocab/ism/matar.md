@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">إلى المطار</span> | <span class="example-en" dir="ltr" lang="en">To the airport</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا مطار</span> | <span class="example-en" dir="ltr" lang="en">This is a airport</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مطار</span> | <span class="example-en" dir="ltr" lang="en">I like airport</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مطار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the airport?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مطار عند العيادة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an airport at the clinic, if you need it later, and then I drank some water</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دور</span> | <span class="example-en" dir="ltr" lang="en">This is role</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دور</span> | <span class="example-en" dir="ltr" lang="en">I like role</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the role?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دور عند الصيدلية، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a role at the pharmacy, because the weather is a bit hot, and then I tidied the table</span> |
 
 

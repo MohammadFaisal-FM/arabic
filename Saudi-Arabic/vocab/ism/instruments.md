@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأدوات</span> | <span class="example-en" dir="ltr" lang="en">This is instruments</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأدوات</span> | <span class="example-en" dir="ltr" lang="en">I like instruments</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأدوات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the instruments?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الأدوات عند الاستقبال مع الكوب الزجاج، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an instruments at reception with the glass cup, so revision is easier, and then I closed the window</span> |
 
 

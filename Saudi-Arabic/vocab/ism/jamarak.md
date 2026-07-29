@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وقفت عند الجمارك في المطار</span> | <span class="example-en" dir="ltr" lang="en">I stopped at customs at the airport</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا جمارك</span> | <span class="example-en" dir="ltr" lang="en">This is a customs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جمارك</span> | <span class="example-en" dir="ltr" lang="en">I like customs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جمارك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the customs?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت جمارك جنب المسجد، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a customs next to the mosque, so the photo comes out clearer, and then I drank some water</span> |
 
 

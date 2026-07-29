@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مقدمة</span> | <span class="example-en" dir="ltr" lang="en">This is introduction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مقدمة</span> | <span class="example-en" dir="ltr" lang="en">I like introduction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مقدمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the introduction?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مقدمة الحين في المدرسة، لأن الولد نعسان، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need an introduction now at school, because the boy is sleepy, and I also took the sharp scissors</span> |
 
 

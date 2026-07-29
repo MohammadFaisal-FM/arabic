@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ذكي</span> | <span class="example-en" dir="ltr" lang="en">This is smart</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ذكي</span> | <span class="example-en" dir="ltr" lang="en">I like smart</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ذكي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the smart?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ذكي في المكتبة مع الملعقة الصغيرة، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a smart in the library with the small spoon, because traffic is heavy, and then I closed the window</span> |
 
 

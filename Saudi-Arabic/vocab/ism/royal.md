@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملكي</span> | <span class="example-en" dir="ltr" lang="en">This is royal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملكي</span> | <span class="example-en" dir="ltr" lang="en">I like royal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملكي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the royal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ملكي في البقالة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a royal at the grocery, before Maghrib prayer, and then I replied to the message</span> |
 
 

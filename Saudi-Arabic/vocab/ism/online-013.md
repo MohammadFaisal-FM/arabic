@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كلّي آذانٌ صاغية.</span> | <span class="example-en" dir="ltr" lang="en">I am all ears.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اذان</span> | <span class="example-en" dir="ltr" lang="en">This is a adhan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اذان</span> | <span class="example-en" dir="ltr" lang="en">I like adhan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اذان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the adhan?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اذان الحين في الحديقة، إذا احتجته بعدين، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need an adhan now in the park, if you need it later, and I also took the old alarm</span> |
 
 

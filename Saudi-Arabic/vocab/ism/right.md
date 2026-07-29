@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يمين</span> | <span class="example-en" dir="ltr" lang="en">This is right</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يمين</span> | <span class="example-en" dir="ltr" lang="en">I like right</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يمين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the right?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يمين الحين في البقالة، عشان ما يضيع، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a right now at the grocery, so it doesn’t get lost, and I also took the long charger</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الطبقات</span> | <span class="example-en" dir="ltr" lang="en">This is classes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الطبقات</span> | <span class="example-en" dir="ltr" lang="en">I like classes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الطبقات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the classes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الطبقات في المطبخ مع الملف الورقي، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a classes in the kitchen with the paper file, before the place closes, and then I wiped the floor</span> |
 
 

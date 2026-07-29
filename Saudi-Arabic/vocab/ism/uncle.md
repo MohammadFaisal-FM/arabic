@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عم</span> | <span class="example-en" dir="ltr" lang="en">This is uncle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عم</span> | <span class="example-en" dir="ltr" lang="en">I like uncle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the uncle?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عم في السيارة، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put an uncle in the car, so it doesn’t get lost, and then I replied to the message</span> |
 
 

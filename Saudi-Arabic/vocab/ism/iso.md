@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ايزو</span> | <span class="example-en" dir="ltr" lang="en">This is iso</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ايزو</span> | <span class="example-en" dir="ltr" lang="en">I like iso</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ايزو؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the iso?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ايزو جنب النافذة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an iso beside the window, because the battery is low, and then I drank some water</span> |
 
 

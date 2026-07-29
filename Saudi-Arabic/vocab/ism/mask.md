@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قناع</span> | <span class="example-en" dir="ltr" lang="en">This is mask</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قناع</span> | <span class="example-en" dir="ltr" lang="en">I like mask</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قناع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mask?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قناع عند الباب مع المحفظة البنية، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a mask at the door with the brown wallet, so we make the appointment, and then the boy slept</span> |
 
 

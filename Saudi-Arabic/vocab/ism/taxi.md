@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">خذ تاكسي</span> | <span class="example-en" dir="ltr" lang="en">Take a taxi</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا تاكسي</span> | <span class="example-en" dir="ltr" lang="en">This is a taxi</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تاكسي</span> | <span class="example-en" dir="ltr" lang="en">I like taxi</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تاكسي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the taxi?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تاكسي جنب البنك مع الزجاجة الفارغة، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a taxi next to the bank with the empty bottle, before the driver arrives, and then I closed the window</span> |
 
 

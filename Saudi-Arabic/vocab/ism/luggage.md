@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أمتعة السفر</span> | <span class="example-en" dir="ltr" lang="en">This is luggage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أمتعة السفر</span> | <span class="example-en" dir="ltr" lang="en">I like luggage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أمتعة السفر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the luggage?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أمتعة السفر على الشرفة مع البطاقة الصفراء، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a luggage on the balcony with the yellow card, because the boy is sleepy, and then I turned off the light</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عيون</span> | <span class="example-en" dir="ltr" lang="en">This is eyes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عيون</span> | <span class="example-en" dir="ltr" lang="en">I like eyes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عيون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the eyes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عيون في الغرفة، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put an eyes in the room, because the weather is a bit hot, and then I washed my hands</span> |
 
 

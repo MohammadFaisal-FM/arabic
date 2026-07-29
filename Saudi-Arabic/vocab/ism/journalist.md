@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صحافي</span> | <span class="example-en" dir="ltr" lang="en">This is journalist</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صحافي</span> | <span class="example-en" dir="ltr" lang="en">I like journalist</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صحافي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the journalist?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت صحافي في المدرسة مع المقص الحاد، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a journalist at school with the sharp scissors, before Maghrib prayer, and then I turned off the light</span> |
 
 

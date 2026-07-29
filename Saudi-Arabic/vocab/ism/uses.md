@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الاستخدامات</span> | <span class="example-en" dir="ltr" lang="en">This is uses</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الاستخدامات</span> | <span class="example-en" dir="ltr" lang="en">I like uses</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الاستخدامات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the uses?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الاستخدامات الحين في الثلاجة، عشان الصورة تطلع أوضح، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an uses now in the fridge, so the photo comes out clearer, and I also took the summer hat</span> |
 
 

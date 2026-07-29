@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مقدم الطلب</span> | <span class="example-en" dir="ltr" lang="en">This is applicant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مقدم الطلب</span> | <span class="example-en" dir="ltr" lang="en">I like applicant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مقدم الطلب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the applicant?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مقدم الطلب جنب البنك مع الزجاجة الفارغة، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an applicant next to the bank with the empty bottle, before the place closes, and then I closed the window</span> |
 
 

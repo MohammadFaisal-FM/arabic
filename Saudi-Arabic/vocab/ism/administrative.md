@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إداري</span> | <span class="example-en" dir="ltr" lang="en">This is administrative</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إداري</span> | <span class="example-en" dir="ltr" lang="en">I like administrative</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إداري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the administrative?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إداري الحين في المكتبة، قبل ما يجي السائق، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an administrative now in the library, before the driver arrives, and I also took the small spoon</span> |
 
 

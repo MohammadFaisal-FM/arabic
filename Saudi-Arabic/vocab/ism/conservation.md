@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حفظ</span> | <span class="example-en" dir="ltr" lang="en">This is conservation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حفظ</span> | <span class="example-en" dir="ltr" lang="en">I like conservation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حفظ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the conservation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حفظ جنب النافذة مع النظارة الشمسية، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a conservation beside the window with the sunglasses, if you need it later, and then we locked the door</span> |
 
 

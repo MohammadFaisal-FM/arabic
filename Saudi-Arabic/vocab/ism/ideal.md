@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مثالي</span> | <span class="example-en" dir="ltr" lang="en">This is ideal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مثالي</span> | <span class="example-en" dir="ltr" lang="en">I like ideal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مثالي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ideal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مثالي في السيارة مع الوسادة الناعمة، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found an ideal in the car with the soft pillow, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

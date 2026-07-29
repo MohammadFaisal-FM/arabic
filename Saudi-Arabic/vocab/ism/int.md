@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كثافة العمليات</span> | <span class="example-en" dir="ltr" lang="en">This is int</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كثافة العمليات</span> | <span class="example-en" dir="ltr" lang="en">I like int</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كثافة العمليات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the int?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كثافة العمليات الحين قدام التلفاز، لأن الشغل خلص بدري، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need an int now in front of the TV, because work finished early, and I also took the white sock</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مسيحي</span> | <span class="example-en" dir="ltr" lang="en">This is christian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مسيحي</span> | <span class="example-en" dir="ltr" lang="en">I like christian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مسيحي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the christian?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مسيحي في الثلاجة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a christian in the fridge, if you need it later, and then I drank some water</span> |
 
 

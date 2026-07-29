@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أطفال</span> | <span class="example-en" dir="ltr" lang="en">This is children</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أطفال</span> | <span class="example-en" dir="ltr" lang="en">I like children</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أطفال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the children?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن أطفال شوي، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">We talked about a children a bit, so we are not late, and then I turned off the light</span> |
 
 

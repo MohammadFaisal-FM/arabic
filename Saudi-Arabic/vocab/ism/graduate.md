@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا متخرج</span> | <span class="example-en" dir="ltr" lang="en">This is graduate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب متخرج</span> | <span class="example-en" dir="ltr" lang="en">I like graduate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين متخرج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the graduate?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج متخرج الحين في المحطة، بس خلّه قريب منك، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a graduate now at the station, but keep it near you, and I also took the short cable</span> |
 
 

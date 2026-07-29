@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">عندي اختبار في الغد.</span> | <span class="example-en" dir="ltr" lang="en">I have a test tomorrow.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اختبار</span> | <span class="example-en" dir="ltr" lang="en">This is a test</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اختبار</span> | <span class="example-en" dir="ltr" lang="en">I like test</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اختبار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the test?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اختبار الحين على المكتب، لأن الجو حار شوي، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a test now on the desk, because the weather is a bit hot, and I also took the light blanket</span> |
 
 

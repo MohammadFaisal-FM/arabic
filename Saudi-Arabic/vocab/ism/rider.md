@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا متسابق</span> | <span class="example-en" dir="ltr" lang="en">This is rider</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب متسابق</span> | <span class="example-en" dir="ltr" lang="en">I like rider</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين متسابق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rider?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج متسابق الحين عند الاستقبال، عشان المراجعة أسهل، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a rider now at reception, so revision is easier, and I also took the glass cup</span> |
 
 

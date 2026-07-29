@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يقتبس</span> | <span class="example-en" dir="ltr" lang="en">This is quote</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يقتبس</span> | <span class="example-en" dir="ltr" lang="en">I like quote</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يقتبس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the quote?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يقتبس على المكتب، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a quote on the desk, before the food gets cold, and then I tidied the table</span> |
 
 

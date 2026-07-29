@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نافذة</span> | <span class="example-en" dir="ltr" lang="en">This is window</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نافذة</span> | <span class="example-en" dir="ltr" lang="en">I like window</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نافذة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the window?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نافذة جنب البنك، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a window next to the bank, before the driver arrives, and then I charged the device</span> |
 
 

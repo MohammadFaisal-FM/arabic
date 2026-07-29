@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا محرك</span> | <span class="example-en" dir="ltr" lang="en">This is engine</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب محرك</span> | <span class="example-en" dir="ltr" lang="en">I like engine</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين محرك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the engine?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت محرك جنب البنك مع الزجاجة الفارغة، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an engine next to the bank with the empty bottle, before the driver arrives, and then I closed the window</span> |
 
 

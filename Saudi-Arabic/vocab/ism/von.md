@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فون</span> | <span class="example-en" dir="ltr" lang="en">This is von</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فون</span> | <span class="example-en" dir="ltr" lang="en">I like von</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the von?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فون عند العيادة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a von at the clinic, because the battery is low, and then we locked the door</span> |
 
 

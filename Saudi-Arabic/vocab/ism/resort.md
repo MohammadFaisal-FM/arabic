@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملجأ</span> | <span class="example-en" dir="ltr" lang="en">This is resort</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملجأ</span> | <span class="example-en" dir="ltr" lang="en">I like resort</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملجأ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the resort?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ملجأ في المدرسة مع المقص الحاد، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a resort at school with the sharp scissors, so we are not late, and then I replied to the message</span> |
 
 

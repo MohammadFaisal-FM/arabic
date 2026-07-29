@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يتراوح</span> | <span class="example-en" dir="ltr" lang="en">This is range</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يتراوح</span> | <span class="example-en" dir="ltr" lang="en">I like range</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يتراوح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the range?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يتراوح الحين في الصالون، عشان نلحق الموعد، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a range now in the living room, so we make the appointment, and I also took the clean tissue</span> |
 
 

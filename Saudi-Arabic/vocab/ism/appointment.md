@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ميعاد</span> | <span class="example-en" dir="ltr" lang="en">This is appointment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ميعاد</span> | <span class="example-en" dir="ltr" lang="en">I like appointment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ميعاد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the appointment?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ميعاد الحين جنب البنك، قبل ما يجي السائق، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need an appointment now next to the bank, before the driver arrives, and I also took the empty bottle</span> |
 
 

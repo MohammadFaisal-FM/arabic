@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تملُّك</span> | <span class="example-en" dir="ltr" lang="en">This is possession</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تملُّك</span> | <span class="example-en" dir="ltr" lang="en">I like possession</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تملُّك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the possession?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تملُّك في الحديقة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a possession in the park, so the photo comes out clearer, and then we locked the door</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الشخصيات</span> | <span class="example-en" dir="ltr" lang="en">This is characters</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الشخصيات</span> | <span class="example-en" dir="ltr" lang="en">I like characters</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الشخصيات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the characters?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الشخصيات الحين على المكتب، عشان الدراسة بكرة، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a characters now on the desk, for studying tomorrow, and I also took the light blanket</span> |
 
 

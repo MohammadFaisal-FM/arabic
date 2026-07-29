@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كتلة</span> | <span class="example-en" dir="ltr" lang="en">This is mass</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كتلة</span> | <span class="example-en" dir="ltr" lang="en">I like mass</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كتلة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mass?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كتلة جنب النافذة مع النظارة الشمسية، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a mass beside the window with the sunglasses, because time is tight, and then we locked the door</span> |
 
 

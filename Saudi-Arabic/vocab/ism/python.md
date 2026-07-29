@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بيثون</span> | <span class="example-en" dir="ltr" lang="en">This is python</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بيثون</span> | <span class="example-en" dir="ltr" lang="en">I like python</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بيثون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the python?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بيثون جنب البنك، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a python next to the bank, so revision is easier, and then I closed the window</span> |
 
 

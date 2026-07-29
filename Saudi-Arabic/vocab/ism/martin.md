@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مارتن</span> | <span class="example-en" dir="ltr" lang="en">This is martin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مارتن</span> | <span class="example-en" dir="ltr" lang="en">I like martin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مارتن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the martin?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مارتن عند الصيدلية مع الغطاء الشفاف، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a martin at the pharmacy with the clear cover, before the food gets cold, and then I washed my hands</span> |
 
 

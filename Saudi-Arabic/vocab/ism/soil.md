@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تربة</span> | <span class="example-en" dir="ltr" lang="en">This is soil</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تربة</span> | <span class="example-en" dir="ltr" lang="en">I like soil</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تربة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the soil?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تربة الحين في السيارة، عشان ما نتأخر، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a soil now in the car, so we are not late, and I also took the soft pillow</span> |
 
 

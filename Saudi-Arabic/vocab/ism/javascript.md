@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جافا سكريبت</span> | <span class="example-en" dir="ltr" lang="en">This is javascript</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جافا سكريبت</span> | <span class="example-en" dir="ltr" lang="en">I like javascript</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جافا سكريبت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the javascript?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت جافا سكريبت في الحديقة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a javascript in the park, so the photo comes out clearer, and then we locked the door</span> |
 
 

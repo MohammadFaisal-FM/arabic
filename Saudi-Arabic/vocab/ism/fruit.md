@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الفاكهة</span> | <span class="example-en" dir="ltr" lang="en">This is fruit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الفاكهة</span> | <span class="example-en" dir="ltr" lang="en">I like fruit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الفاكهة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fruit?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الفاكهة في البقالة، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a fruit at the grocery, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

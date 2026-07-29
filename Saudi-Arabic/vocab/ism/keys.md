@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مفاتيح</span> | <span class="example-en" dir="ltr" lang="en">This is keys</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مفاتيح</span> | <span class="example-en" dir="ltr" lang="en">I like keys</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مفاتيح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the keys?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مفاتيح في المحطة مع الكابل القصير، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a keys at the station with the short cable, so we make the appointment, and then I turned on the fan</span> |
 
 

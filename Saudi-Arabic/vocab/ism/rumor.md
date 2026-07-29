@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شائعة</span> | <span class="example-en" dir="ltr" lang="en">This is rumor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شائعة</span> | <span class="example-en" dir="ltr" lang="en">I like rumor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شائعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rumor?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شائعة الحين عند الاستقبال، قبل ما يجي السائق، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a rumor now at reception, before the driver arrives, and I also took the glass cup</span> |
 
 

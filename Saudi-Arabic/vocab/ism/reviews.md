@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مراجعات</span> | <span class="example-en" dir="ltr" lang="en">This is reviews</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مراجعات</span> | <span class="example-en" dir="ltr" lang="en">I like reviews</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مراجعات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reviews?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مراجعات الحين في الحقيبة، قبل ما يجي السائق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a reviews now in the bag, before the driver arrives, and I also took the clean shoes</span> |
 
 

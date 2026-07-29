@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مختفي</span> | <span class="example-en" dir="ltr" lang="en">This is hidden</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مختفي</span> | <span class="example-en" dir="ltr" lang="en">I like hidden</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مختفي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hidden?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مختفي في الثلاجة مع القبعة الصيفية، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a hidden in the fridge with the summer hat, if you need it later, and then we prayed</span> |
 
 

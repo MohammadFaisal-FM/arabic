@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شائع</span> | <span class="example-en" dir="ltr" lang="en">This is popular</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شائع</span> | <span class="example-en" dir="ltr" lang="en">I like popular</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شائع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the popular?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شائع الحين جنب البنك، قبل ما يقفل المكان، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a popular now next to the bank, before the place closes, and I also took the empty bottle</span> |
 
 

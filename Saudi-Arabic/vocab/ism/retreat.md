@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تراجع</span> | <span class="example-en" dir="ltr" lang="en">This is retreat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تراجع</span> | <span class="example-en" dir="ltr" lang="en">I like retreat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تراجع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the retreat?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تراجع الحين جنب النافذة، لأن البطارية ضعيفة، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a retreat now beside the window, because the battery is low, and I also took the sunglasses</span> |
 
 

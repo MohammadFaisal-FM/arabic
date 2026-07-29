@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">قبل الشغل</span> | <span class="example-en" dir="ltr" lang="en">before work</span> |
+| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «قبل» في الجملة، وحطينا الوسادة الناعمة في السيارة، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">We used “قبل” (before) in the sentence, and put the soft pillow in the car, so it doesn’t get lost, and then I replied to the message</span> |
 

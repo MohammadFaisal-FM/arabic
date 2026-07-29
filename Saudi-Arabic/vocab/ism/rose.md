@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وَردَة</span> | <span class="example-en" dir="ltr" lang="en">This is rose</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وَردَة</span> | <span class="example-en" dir="ltr" lang="en">I like rose</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وَردَة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rose?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج وَردَة الحين في المطبخ، لأن الزحمة قوية، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a rose now in the kitchen, because traffic is heavy, and I also took the paper file</span> |
 
 

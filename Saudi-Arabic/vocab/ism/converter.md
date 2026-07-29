@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا محول</span> | <span class="example-en" dir="ltr" lang="en">This is converter</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب محول</span> | <span class="example-en" dir="ltr" lang="en">I like converter</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين محول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the converter?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت محول في المدرسة مع المقص الحاد، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a converter at school with the sharp scissors, so it doesn’t get lost, and then I replied to the message</span> |
 
 

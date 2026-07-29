@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الواجبات</span> | <span class="example-en" dir="ltr" lang="en">This is duties</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الواجبات</span> | <span class="example-en" dir="ltr" lang="en">I like duties</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الواجبات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the duties?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الواجبات على الشرفة، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a duties on the balcony, so it doesn’t get lost, and then I replied to the message</span> |
 
 

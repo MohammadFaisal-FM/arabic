@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذي بنتي</span> | <span class="example-en" dir="ltr" lang="en">This is my daughter</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا بنت</span> | <span class="example-en" dir="ltr" lang="en">This is a girl</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بنت</span> | <span class="example-en" dir="ltr" lang="en">I like girl</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بنت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the girl?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت بنت في الحديقة، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I saw a girl in the park, if you need it later, and then we locked the door</span> |
 
 

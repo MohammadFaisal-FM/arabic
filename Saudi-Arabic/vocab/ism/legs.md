@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الساقين</span> | <span class="example-en" dir="ltr" lang="en">This is legs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الساقين</span> | <span class="example-en" dir="ltr" lang="en">I like legs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الساقين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the legs?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الساقين على المكتب مع البطانية الخفيفة، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a legs on the desk with the light blanket, because the weather is a bit hot, and then I tidied the table</span> |
 
 

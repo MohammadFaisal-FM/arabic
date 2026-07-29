@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وظائف</span> | <span class="example-en" dir="ltr" lang="en">This is jobs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وظائف</span> | <span class="example-en" dir="ltr" lang="en">I like jobs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وظائف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jobs?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت وظائف في الغرفة، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a jobs in the room, because the weather is a bit hot, and then I washed my hands</span> |
 
 

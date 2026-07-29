@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الضيوف</span> | <span class="example-en" dir="ltr" lang="en">This is guests</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الضيوف</span> | <span class="example-en" dir="ltr" lang="en">I like guests</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الضيوف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the guests?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">الضيوف كان/كانت في الصالون، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">a guests was in the living room, because guests are arriving, and then the phone rang</span> |
 
 

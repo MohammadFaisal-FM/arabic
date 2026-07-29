@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تثبيت</span> | <span class="example-en" dir="ltr" lang="en">This is installation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تثبيت</span> | <span class="example-en" dir="ltr" lang="en">I like installation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تثبيت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the installation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تثبيت قدام الملعب مع اللاصق الشفاف، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an installation in front of the pitch with the clear tape, because the light is better there, and then I wrote a note</span> |
 
 

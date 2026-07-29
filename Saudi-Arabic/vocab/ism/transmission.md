@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الانتقال</span> | <span class="example-en" dir="ltr" lang="en">This is transmission</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الانتقال</span> | <span class="example-en" dir="ltr" lang="en">I like transmission</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الانتقال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the transmission?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الانتقال عند الباب، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a transmission at the door, because work finished early, and then I turned on the fan</span> |
 
 

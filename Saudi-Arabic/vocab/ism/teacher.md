@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مدرس</span> | <span class="example-en" dir="ltr" lang="en">This is teacher</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مدرس</span> | <span class="example-en" dir="ltr" lang="en">I like teacher</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مدرس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the teacher?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن مدرس شوي، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">We talked about a teacher a bit, because guests are arriving, and then the phone rang</span> |
 
 

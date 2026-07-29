@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التفاصيل</span> | <span class="example-en" dir="ltr" lang="en">This is detail</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التفاصيل</span> | <span class="example-en" dir="ltr" lang="en">I like detail</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التفاصيل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the detail?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التفاصيل عند الصيدلية مع الغطاء الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a detail at the pharmacy with the clear cover, for studying tomorrow, and then I tidied the table</span> |
 
 

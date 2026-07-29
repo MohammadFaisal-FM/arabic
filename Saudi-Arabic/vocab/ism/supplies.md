@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لوازم</span> | <span class="example-en" dir="ltr" lang="en">This is supplies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لوازم</span> | <span class="example-en" dir="ltr" lang="en">I like supplies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لوازم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the supplies?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لوازم في المدرسة، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a supplies at school, so we are not late, and then I turned off the light</span> |
 
 

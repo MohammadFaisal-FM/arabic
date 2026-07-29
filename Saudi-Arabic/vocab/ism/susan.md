@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سوزان</span> | <span class="example-en" dir="ltr" lang="en">This is susan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سوزان</span> | <span class="example-en" dir="ltr" lang="en">I like susan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سوزان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the susan?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سوزان على الشرفة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a susan on the balcony, because the boy is sleepy, and then we laughed a bit</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الحرف اليدوية</span> | <span class="example-en" dir="ltr" lang="en">This is crafts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الحرف اليدوية</span> | <span class="example-en" dir="ltr" lang="en">I like crafts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الحرف اليدوية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the crafts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الحرف اليدوية الحين قدام التلفاز، بس خلّه قريب منك، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a crafts now in front of the TV, but keep it near you, and I also took the white sock</span> |
 
 

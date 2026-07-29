@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أميال</span> | <span class="example-en" dir="ltr" lang="en">This is miles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أميال</span> | <span class="example-en" dir="ltr" lang="en">I like miles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أميال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the miles?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أميال الحين في الثلاجة، لأن البطارية ضعيفة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a miles now in the fridge, because the battery is low, and I also took the summer hat</span> |
 
 

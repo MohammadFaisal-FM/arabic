@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مرتبط ب</span> | <span class="example-en" dir="ltr" lang="en">This is bound</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مرتبط ب</span> | <span class="example-en" dir="ltr" lang="en">I like bound</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مرتبط ب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bound?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مرتبط ب على الشرفة مع البطاقة الصفراء، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a bound on the balcony with the yellow card, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

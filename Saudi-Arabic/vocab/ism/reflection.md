@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا انعكاس</span> | <span class="example-en" dir="ltr" lang="en">This is reflection</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب انعكاس</span> | <span class="example-en" dir="ltr" lang="en">I like reflection</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين انعكاس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reflection?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج انعكاس الحين جنب المسجد، لأن البطارية ضعيفة، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a reflection now next to the mosque, because the battery is low, and I also took the pencil</span> |
 
 

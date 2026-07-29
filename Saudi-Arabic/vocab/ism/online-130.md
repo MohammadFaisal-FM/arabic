@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هل تركت إكرامية؟</span> | <span class="example-en" dir="ltr" lang="en">Did you leave a tip?</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اكراميه</span> | <span class="example-en" dir="ltr" lang="en">This is a tip</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اكراميه</span> | <span class="example-en" dir="ltr" lang="en">I like tip</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اكراميه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tip?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اكراميه الحين في المطبخ، عشان المراجعة أسهل، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a tip now in the kitchen, so revision is easier, and I also took the paper file</span> |
 
 

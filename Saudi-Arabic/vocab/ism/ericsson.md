@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إريكسون</span> | <span class="example-en" dir="ltr" lang="en">This is ericsson</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إريكسون</span> | <span class="example-en" dir="ltr" lang="en">I like ericsson</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إريكسون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ericsson?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت إريكسون في الغرفة، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I saw an ericsson in the room, because the weather is a bit hot, and then I tidied the table</span> |
 
 

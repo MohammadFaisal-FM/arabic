@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الممارسات</span> | <span class="example-en" dir="ltr" lang="en">This is practices</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الممارسات</span> | <span class="example-en" dir="ltr" lang="en">I like practices</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الممارسات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the practices?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الممارسات الحين في السيارة، لأن الولد نعسان، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a practices now in the car, because the boy is sleepy, and I also took the soft pillow</span> |
 
 

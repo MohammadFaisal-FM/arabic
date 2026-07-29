@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نسبة</span> | <span class="example-en" dir="ltr" lang="en">This is ratio</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نسبة</span> | <span class="example-en" dir="ltr" lang="en">I like ratio</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نسبة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ratio?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نسبة الحين في الحديقة، لأن البطارية ضعيفة، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a ratio now in the park, because the battery is low, and I also took the old alarm</span> |
 
 

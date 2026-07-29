@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قائد</span> | <span class="example-en" dir="ltr" lang="en">This is leader</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قائد</span> | <span class="example-en" dir="ltr" lang="en">I like leader</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قائد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the leader?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قائد الحين جنب المسجد، لأن البطارية ضعيفة، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a leader now next to the mosque, because the battery is low, and I also took the pencil</span> |
 
 

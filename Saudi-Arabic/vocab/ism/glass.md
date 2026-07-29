@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا زجاج</span> | <span class="example-en" dir="ltr" lang="en">This is glass</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب زجاج</span> | <span class="example-en" dir="ltr" lang="en">I like glass</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين زجاج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the glass?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج زجاج الحين في المحطة، عشان الضيوف يوصلون، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a glass now at the station, because guests are arriving, and I also took the short cable</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا آخر</span> | <span class="example-en" dir="ltr" lang="en">This is else</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب آخر</span> | <span class="example-en" dir="ltr" lang="en">I like else</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين آخر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the else?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت آخر في المحطة مع الكابل القصير، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found an else at the station with the short cable, so we make the appointment, and then I turned on the fan</span> |
 
 

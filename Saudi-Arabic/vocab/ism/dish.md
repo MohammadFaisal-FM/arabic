@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طبق</span> | <span class="example-en" dir="ltr" lang="en">This is dish</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طبق</span> | <span class="example-en" dir="ltr" lang="en">I like dish</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طبق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dish?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت طبق في السيارة، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a dish in the car, so it doesn’t get lost, and then I replied to the message</span> |
 
 

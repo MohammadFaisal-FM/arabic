@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خطوط</span> | <span class="example-en" dir="ltr" lang="en">This is lines</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خطوط</span> | <span class="example-en" dir="ltr" lang="en">I like lines</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خطوط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lines?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خطوط تحت السرير مع الوشاح الرمادي، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a lines under the bed with the grey scarf, because the boy is sleepy, and then we laughed a bit</span> |
 
 

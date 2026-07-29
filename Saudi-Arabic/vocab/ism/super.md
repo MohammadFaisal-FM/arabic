@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ممتاز</span> | <span class="example-en" dir="ltr" lang="en">This is super</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ممتاز</span> | <span class="example-en" dir="ltr" lang="en">I like super</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ممتاز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the super?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ممتاز في البقالة، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a super at the grocery, because the boy is sleepy, and then I turned off the light</span> |
 
 

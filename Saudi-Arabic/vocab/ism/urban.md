@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حضري</span> | <span class="example-en" dir="ltr" lang="en">This is urban</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حضري</span> | <span class="example-en" dir="ltr" lang="en">I like urban</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حضري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the urban?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حضري الحين جنب النافذة، عشان الصورة تطلع أوضح، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need an urban now beside the window, so the photo comes out clearer, and I also took the sunglasses</span> |
 
 

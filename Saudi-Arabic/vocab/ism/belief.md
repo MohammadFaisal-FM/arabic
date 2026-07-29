@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الاعتقاد</span> | <span class="example-en" dir="ltr" lang="en">This is belief</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الاعتقاد</span> | <span class="example-en" dir="ltr" lang="en">I like belief</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الاعتقاد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the belief?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الاعتقاد في الثلاجة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a belief in the fridge, so the photo comes out clearer, and then we prayed</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مسافة</span> | <span class="example-en" dir="ltr" lang="en">This is distance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مسافة</span> | <span class="example-en" dir="ltr" lang="en">I like distance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مسافة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the distance?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مسافة على الشرفة مع البطاقة الصفراء، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a distance on the balcony with the yellow card, because the boy is sleepy, and then I turned off the light</span> |
 
 

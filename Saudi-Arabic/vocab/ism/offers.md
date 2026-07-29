@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العروض</span> | <span class="example-en" dir="ltr" lang="en">This is offers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العروض</span> | <span class="example-en" dir="ltr" lang="en">I like offers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العروض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the offers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت العروض عند العيادة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an offers at the clinic, if you need it later, and then I drank some water</span> |
 
 

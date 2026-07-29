@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وثائق</span> | <span class="example-en" dir="ltr" lang="en">This is documents</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وثائق</span> | <span class="example-en" dir="ltr" lang="en">I like documents</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وثائق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the documents?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت وثائق في الثلاجة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a documents in the fridge, so the photo comes out clearer, and then we prayed</span> |
 
 

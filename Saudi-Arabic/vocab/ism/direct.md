@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مباشر</span> | <span class="example-en" dir="ltr" lang="en">This is direct</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مباشر</span> | <span class="example-en" dir="ltr" lang="en">I like direct</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مباشر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the direct?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مباشر الحين جنب البنك، عشان المراجعة أسهل، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a direct now next to the bank, so revision is easier, and I also took the empty bottle</span> |
 
 

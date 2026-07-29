@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مطبوعات</span> | <span class="example-en" dir="ltr" lang="en">This is prints</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مطبوعات</span> | <span class="example-en" dir="ltr" lang="en">I like prints</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مطبوعات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the prints?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مطبوعات عند الباب مع المحفظة البنية، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a prints at the door with the brown wallet, but keep it near you, and then the phone rang</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كتل</span> | <span class="example-en" dir="ltr" lang="en">This is blocks</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كتل</span> | <span class="example-en" dir="ltr" lang="en">I like blocks</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كتل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the blocks?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كتل الحين جنب النافذة، لأن الوقت ضيق، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a blocks now beside the window, because time is tight, and I also took the sunglasses</span> |
 
 

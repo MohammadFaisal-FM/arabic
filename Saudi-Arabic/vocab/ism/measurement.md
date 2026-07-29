@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قياس</span> | <span class="example-en" dir="ltr" lang="en">This is measurement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قياس</span> | <span class="example-en" dir="ltr" lang="en">I like measurement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قياس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the measurement?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قياس قدام التلفاز مع الجورب الأبيض، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a measurement in front of the TV with the white sock, because guests are arriving, and then the phone rang</span> |
 
 

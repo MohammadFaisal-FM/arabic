@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أطلق النار على أسد.</span> | <span class="example-en" dir="ltr" lang="en">Shoot a lion.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اسد</span> | <span class="example-en" dir="ltr" lang="en">This is a a lion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اسد</span> | <span class="example-en" dir="ltr" lang="en">I like a lion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اسد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the a lion?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اسد على الشرفة مع البطاقة الصفراء، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a lion on the balcony with the yellow card, so we are not late, and then we laughed a bit</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا روحي</span> | <span class="example-en" dir="ltr" lang="en">This is spiritual</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب روحي</span> | <span class="example-en" dir="ltr" lang="en">I like spiritual</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين روحي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the spiritual?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج روحي الحين في السيارة، عشان ما نتأخر، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a spiritual now in the car, so we are not late, and I also took the soft pillow</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مزج</span> | <span class="example-en" dir="ltr" lang="en">This is mix</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مزج</span> | <span class="example-en" dir="ltr" lang="en">I like mix</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مزج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mix?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مزج في الثلاجة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a mix in the fridge, because the battery is low, and then we locked the door</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قطعة</span> | <span class="example-en" dir="ltr" lang="en">This is parcel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قطعة</span> | <span class="example-en" dir="ltr" lang="en">I like parcel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قطعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the parcel?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قطعة عند الباب مع المحفظة البنية، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a parcel at the door with the brown wallet, because guests are arriving, and then I turned on the fan</span> |
 
 

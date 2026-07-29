@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عاقبة</span> | <span class="example-en" dir="ltr" lang="en">This is consequence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عاقبة</span> | <span class="example-en" dir="ltr" lang="en">I like consequence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عاقبة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the consequence?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عاقبة في الحقيبة، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a consequence in the bag, so revision is easier, and then I closed the window</span> |
 
 

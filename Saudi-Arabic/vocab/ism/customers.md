@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عملاء</span> | <span class="example-en" dir="ltr" lang="en">This is customers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عملاء</span> | <span class="example-en" dir="ltr" lang="en">I like customers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عملاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the customers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عملاء الحين على المكتب، لأن الإضاءة أحسن هناك، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a customers now on the desk, because the light is better there, and I also took the light blanket</span> |
 
 

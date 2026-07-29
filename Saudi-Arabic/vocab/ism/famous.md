@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مشهور</span> | <span class="example-en" dir="ltr" lang="en">This is famous</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مشهور</span> | <span class="example-en" dir="ltr" lang="en">I like famous</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مشهور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the famous?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مشهور قدام المصعد مع الكرتون الفاضي، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a famous in front of the elevator with the empty carton, so we make the appointment, and then the boy slept</span> |
 
 

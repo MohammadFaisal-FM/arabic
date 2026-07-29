@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وصفة</span> | <span class="example-en" dir="ltr" lang="en">This is recipe</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وصفة</span> | <span class="example-en" dir="ltr" lang="en">I like recipe</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وصفة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the recipe?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت وصفة جنب النافذة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a recipe beside the window, if you need it later, and then we prayed</span> |
 
 

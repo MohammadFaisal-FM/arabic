@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أعظم</span> | <span class="example-en" dir="ltr" lang="en">This is greatest</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أعظم</span> | <span class="example-en" dir="ltr" lang="en">I like greatest</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أعظم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the greatest?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أعظم قدام التلفاز، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a greatest in front of the TV, because guests are arriving, and then the boy slept</span> |
 
 

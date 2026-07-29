@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قوات الدفاع الشعبي</span> | <span class="example-en" dir="ltr" lang="en">This is pdf</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قوات الدفاع الشعبي</span> | <span class="example-en" dir="ltr" lang="en">I like pdf</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قوات الدفاع الشعبي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pdf?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قوات الدفاع الشعبي في المحطة، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a pdf at the station, because guests are arriving, and then the boy slept</span> |
 
 

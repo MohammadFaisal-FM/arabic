@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ثبّت سامي جهاز إنذار في منزله.</span> | <span class="example-en" dir="ltr" lang="en">Sami installed an alarm in his home.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت انذار عند العيادة مع الدباسة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a warning at the clinic with the stapler, if you need it later, and then we prayed</span> |
 
 

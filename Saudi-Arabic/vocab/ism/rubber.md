@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ممحاة</span> | <span class="example-en" dir="ltr" lang="en">This is rubber</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ممحاة</span> | <span class="example-en" dir="ltr" lang="en">I like rubber</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ممحاة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rubber?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ممحاة الحين في الحقيبة، عشان المراجعة أسهل، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a rubber now in the bag, so revision is easier, and I also took the clean shoes</span> |
 
 

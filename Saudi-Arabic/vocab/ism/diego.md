@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دييغو</span> | <span class="example-en" dir="ltr" lang="en">This is diego</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دييغو</span> | <span class="example-en" dir="ltr" lang="en">I like diego</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دييغو؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the diego?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دييغو عند الصيدلية، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a diego at the pharmacy, before the food gets cold, and then I wrote a note</span> |
 
 

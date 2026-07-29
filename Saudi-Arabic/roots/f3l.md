@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وش أسوي؟</span> | <span class="example-en" dir="ltr" lang="en">What should I do?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وش أسوي؟، ولقيت الشاحن الطويل قدام التلفاز، لأن الوقت ضيق، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">What should I do?, and I found the long charger in front of the TV, because time is tight, and then I turned off the light</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [فعل](#ism/fil-n) | <span class="example-ar" dir="rtl" lang="ar">هذا فعل</span><br><span class="example-en" dir="ltr" lang="en">This is a verb</span> |
+| اسم · ism (noun / other) | [فعل](#ism/fil-n) | <span class="example-ar" dir="rtl" lang="ar">حطّيت فعل في الغرفة، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span><br><span class="example-en" dir="ltr" lang="en">I put a verb in the room, for studying tomorrow, and then I wrote a note</span> |
 

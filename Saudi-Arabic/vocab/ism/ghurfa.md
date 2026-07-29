@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">في الغرفة</span> | <span class="example-en" dir="ltr" lang="en">In the room</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا غرفة</span> | <span class="example-en" dir="ltr" lang="en">This is a room</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب غرفة</span> | <span class="example-en" dir="ltr" lang="en">I like room</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين غرفة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the room?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت غرفة في الحديقة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a room in the park, because the battery is low, and then I drank some water</span> |
 
 

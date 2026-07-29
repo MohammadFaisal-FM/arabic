@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الضباط</span> | <span class="example-en" dir="ltr" lang="en">This is officers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الضباط</span> | <span class="example-en" dir="ltr" lang="en">I like officers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الضباط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the officers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الضباط الحين في الدرج، لأن الإضاءة أحسن هناك، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need an officers now in the drawer, because the light is better there, and I also took the blue notebook</span> |
 
 

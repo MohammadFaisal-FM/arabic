@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملزمة</span> | <span class="example-en" dir="ltr" lang="en">This is sheet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملزمة</span> | <span class="example-en" dir="ltr" lang="en">I like sheet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملزمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sheet?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ملزمة في المكتبة، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a sheet in the library, so revision is easier, and then I wiped the floor</span> |
 
 

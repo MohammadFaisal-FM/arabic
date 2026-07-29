@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المتمردين</span> | <span class="example-en" dir="ltr" lang="en">This is rebel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المتمردين</span> | <span class="example-en" dir="ltr" lang="en">I like rebel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المتمردين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rebel?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المتمردين الحين في المدرسة، لأن الولد نعسان، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a rebel now at school, because the boy is sleepy, and I also took the sharp scissors</span> |
 
 

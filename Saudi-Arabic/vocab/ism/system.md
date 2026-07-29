@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نظام</span> | <span class="example-en" dir="ltr" lang="en">This is system</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نظام</span> | <span class="example-en" dir="ltr" lang="en">I like system</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نظام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the system?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نظام في المدرسة، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a system at school, so it doesn’t get lost, and then I turned off the light</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الوسائط المتعددة</span> | <span class="example-en" dir="ltr" lang="en">This is multimedia</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الوسائط المتعددة</span> | <span class="example-en" dir="ltr" lang="en">I like multimedia</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الوسائط المتعددة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the multimedia?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الوسائط المتعددة على الشرفة مع البطاقة الصفراء، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a multimedia on the balcony with the yellow card, because the boy is sleepy, and then I turned off the light</span> |
 
 

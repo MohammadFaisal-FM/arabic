@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا النشرة الإخبارية</span> | <span class="example-en" dir="ltr" lang="en">This is newsletter</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب النشرة الإخبارية</span> | <span class="example-en" dir="ltr" lang="en">I like newsletter</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين النشرة الإخبارية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the newsletter?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج النشرة الإخبارية الحين قدام الملعب، عشان الدراسة بكرة، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a newsletter now in front of the pitch, for studying tomorrow, and I also took the clear tape</span> |
 
 

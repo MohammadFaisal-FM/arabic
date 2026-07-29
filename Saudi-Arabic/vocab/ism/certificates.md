@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شهادات</span> | <span class="example-en" dir="ltr" lang="en">This is certificates</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شهادات</span> | <span class="example-en" dir="ltr" lang="en">I like certificates</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شهادات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the certificates?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شهادات عند الباب، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a certificates at the door, so we make the appointment, and then I turned on the fan</span> |
 
 

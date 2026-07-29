@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأطلسي</span> | <span class="example-en" dir="ltr" lang="en">This is atlantic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأطلسي</span> | <span class="example-en" dir="ltr" lang="en">I like atlantic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأطلسي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the atlantic?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأطلسي الحين قدام التلفاز، عشان الضيوف يوصلون، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need an atlantic now in front of the TV, because guests are arriving, and I also took the white sock</span> |
 
 

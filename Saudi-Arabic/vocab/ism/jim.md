@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جيم</span> | <span class="example-en" dir="ltr" lang="en">This is jim</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جيم</span> | <span class="example-en" dir="ltr" lang="en">I like jim</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جيم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jim?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جيم الحين قدام الملعب، لأن الجو حار شوي، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a jim now in front of the pitch, because the weather is a bit hot, and I also took the clear tape</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الاثنين</span> | <span class="example-en" dir="ltr" lang="en">This is monday</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الاثنين</span> | <span class="example-en" dir="ltr" lang="en">I like monday</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الاثنين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the monday?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الاثنين عند الاستقبال مع الكوب الزجاج، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a monday at reception with the glass cup, because traffic is heavy, and then I wiped the floor</span> |
 
 

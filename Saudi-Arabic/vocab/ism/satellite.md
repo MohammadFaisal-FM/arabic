@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قمر صناعي</span> | <span class="example-en" dir="ltr" lang="en">This is satellite</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قمر صناعي</span> | <span class="example-en" dir="ltr" lang="en">I like satellite</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قمر صناعي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the satellite?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قمر صناعي على المكتب، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a satellite on the desk, before the food gets cold, and then I tidied the table</span> |
 
 

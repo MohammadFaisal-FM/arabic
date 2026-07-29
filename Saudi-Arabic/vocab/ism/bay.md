@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خليج</span> | <span class="example-en" dir="ltr" lang="en">This is bay</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خليج</span> | <span class="example-en" dir="ltr" lang="en">I like bay</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خليج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bay?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خليج قدام المصعد مع الكرتون الفاضي، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a bay in front of the elevator with the empty carton, because work finished early, and then the boy slept</span> |
 
 

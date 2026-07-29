@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الناقل</span> | <span class="example-en" dir="ltr" lang="en">This is carrier</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الناقل</span> | <span class="example-en" dir="ltr" lang="en">I like carrier</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الناقل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the carrier?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الناقل الحين عند الباب، لأن الشغل خلص بدري، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a carrier now at the door, because work finished early, and I also took the brown wallet</span> |
 
 

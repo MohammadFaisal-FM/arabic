@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حازم</span> | <span class="example-en" dir="ltr" lang="en">This is firm</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حازم</span> | <span class="example-en" dir="ltr" lang="en">I like firm</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حازم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the firm?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حازم قدام المصعد، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a firm in front of the elevator, because work finished early, and then I turned on the fan</span> |
 
 

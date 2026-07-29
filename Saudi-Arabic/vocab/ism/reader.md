@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قارئ</span> | <span class="example-en" dir="ltr" lang="en">This is reader</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قارئ</span> | <span class="example-en" dir="ltr" lang="en">I like reader</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قارئ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reader?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قارئ عند الباب مع المحفظة البنية، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a reader at the door with the brown wallet, but keep it near you, and then the phone rang</span> |
 
 

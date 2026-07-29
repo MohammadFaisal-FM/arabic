@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سُلُّم</span> | <span class="example-en" dir="ltr" lang="en">This is ladder</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سُلُّم</span> | <span class="example-en" dir="ltr" lang="en">I like ladder</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سُلُّم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ladder?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سُلُّم الحين في الثلاجة، إذا احتجته بعدين، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a ladder now in the fridge, if you need it later, and I also took the summer hat</span> |
 
 

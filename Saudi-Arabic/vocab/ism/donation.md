@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا هبة</span> | <span class="example-en" dir="ltr" lang="en">This is donation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب هبة</span> | <span class="example-en" dir="ltr" lang="en">I like donation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين هبة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the donation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت هبة في الحقيبة، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a donation in the bag, before the driver arrives, and then I charged the device</span> |
 
 

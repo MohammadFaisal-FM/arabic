@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قطاع</span> | <span class="example-en" dir="ltr" lang="en">This is sector</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قطاع</span> | <span class="example-en" dir="ltr" lang="en">I like sector</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قطاع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sector?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قطاع على المكتب مع البطانية الخفيفة، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a sector on the desk with the light blanket, for studying tomorrow, and then I washed my hands</span> |
 
 

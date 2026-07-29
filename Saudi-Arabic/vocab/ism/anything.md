@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أي شئ</span> | <span class="example-en" dir="ltr" lang="en">This is anything</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أي شئ</span> | <span class="example-en" dir="ltr" lang="en">I like anything</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أي شئ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the anything?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أي شئ عند الصيدلية مع الغطاء الشفاف، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an anything at the pharmacy with the clear cover, because the light is better there, and then I wrote a note</span> |
 
 

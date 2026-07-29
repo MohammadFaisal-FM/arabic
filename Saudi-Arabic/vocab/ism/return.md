@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يعود</span> | <span class="example-en" dir="ltr" lang="en">This is return</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يعود</span> | <span class="example-en" dir="ltr" lang="en">I like return</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يعود؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the return?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يعود الحين في السيارة، قبل صلاة المغرب، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a return now in the car, before Maghrib prayer, and I also took the soft pillow</span> |
 
 

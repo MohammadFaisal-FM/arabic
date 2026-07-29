@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا باناسونيك</span> | <span class="example-en" dir="ltr" lang="en">This is panasonic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب باناسونيك</span> | <span class="example-en" dir="ltr" lang="en">I like panasonic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين باناسونيك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the panasonic?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت باناسونيك تحت السرير، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I saw a panasonic under the bed, because the boy is sleepy, and then we laughed a bit</span> |
 
 

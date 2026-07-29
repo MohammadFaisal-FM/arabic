@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كيلومتر</span> | <span class="example-en" dir="ltr" lang="en">This is kilometer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كيلومتر</span> | <span class="example-en" dir="ltr" lang="en">I like kilometer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كيلومتر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the kilometer?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كيلومتر الحين جنب النافذة، عشان الصورة تطلع أوضح، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a kilometer now beside the window, so the photo comes out clearer, and I also took the sunglasses</span> |
 
 

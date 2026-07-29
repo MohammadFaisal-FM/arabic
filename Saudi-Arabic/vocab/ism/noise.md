@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ضوضاء</span> | <span class="example-en" dir="ltr" lang="en">This is noise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ضوضاء</span> | <span class="example-en" dir="ltr" lang="en">I like noise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ضوضاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the noise?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ضوضاء في الحقيبة، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a noise in the bag, because traffic is heavy, and then I wiped the floor</span> |
 
 

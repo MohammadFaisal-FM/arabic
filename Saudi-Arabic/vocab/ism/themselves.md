@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أنفسهم</span> | <span class="example-en" dir="ltr" lang="en">This is themselves</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أنفسهم</span> | <span class="example-en" dir="ltr" lang="en">I like themselves</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أنفسهم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the themselves?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أنفسهم عند الاستقبال مع الكوب الزجاج، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a themselves at reception with the glass cup, before the driver arrives, and then I charged the device</span> |
 
 

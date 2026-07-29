@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يتحكم</span> | <span class="example-en" dir="ltr" lang="en">This is control</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يتحكم</span> | <span class="example-en" dir="ltr" lang="en">I like control</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يتحكم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the control?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يتحكم الحين جنب النافذة، إذا احتجته بعدين، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a control now beside the window, if you need it later, and I also took the sunglasses</span> |
 
 

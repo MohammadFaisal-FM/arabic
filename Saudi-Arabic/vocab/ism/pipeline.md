@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خط أنابيب</span> | <span class="example-en" dir="ltr" lang="en">This is pipeline</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خط أنابيب</span> | <span class="example-en" dir="ltr" lang="en">I like pipeline</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خط أنابيب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pipeline?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت خط أنابيب في المكتبة، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a pipeline in the library, before the place closes, and then I closed the window</span> |
 
 

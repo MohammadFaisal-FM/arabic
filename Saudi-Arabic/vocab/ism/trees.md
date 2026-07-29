@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأشجار</span> | <span class="example-en" dir="ltr" lang="en">This is trees</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأشجار</span> | <span class="example-en" dir="ltr" lang="en">I like trees</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأشجار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the trees?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الأشجار عند العيادة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a trees at the clinic, because time is tight, and then I drank some water</span> |
 
 

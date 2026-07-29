@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التغييرات</span> | <span class="example-en" dir="ltr" lang="en">This is changes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التغييرات</span> | <span class="example-en" dir="ltr" lang="en">I like changes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التغييرات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the changes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التغييرات عند الصيدلية، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a changes at the pharmacy, before the food gets cold, and then I wrote a note</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فلاح</span> | <span class="example-en" dir="ltr" lang="en">This is peasant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فلاح</span> | <span class="example-en" dir="ltr" lang="en">I like peasant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فلاح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the peasant?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فلاح على الشرفة، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a peasant on the balcony, so we are not late, and then I replied to the message</span> |
 
 

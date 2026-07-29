@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تحميل</span> | <span class="example-en" dir="ltr" lang="en">This is download</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تحميل</span> | <span class="example-en" dir="ltr" lang="en">I like download</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تحميل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the download?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تحميل تحت السرير مع الوشاح الرمادي، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a download under the bed with the grey scarf, before Maghrib prayer, and then I turned off the light</span> |
 
 

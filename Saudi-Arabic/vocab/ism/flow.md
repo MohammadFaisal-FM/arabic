@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تدفق</span> | <span class="example-en" dir="ltr" lang="en">This is flow</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تدفق</span> | <span class="example-en" dir="ltr" lang="en">I like flow</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تدفق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the flow?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تدفق في الغرفة، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a flow in the room, for studying tomorrow, and then I wrote a note</span> |
 
 

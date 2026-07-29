@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تنظيف</span> | <span class="example-en" dir="ltr" lang="en">This is cleaning</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تنظيف</span> | <span class="example-en" dir="ltr" lang="en">I like cleaning</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تنظيف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cleaning?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تنظيف الحين قدام الملعب، عشان الدراسة بكرة، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a cleaning now in front of the pitch, for studying tomorrow, and I also took the clear tape</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دبوس</span> | <span class="example-en" dir="ltr" lang="en">This is pin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دبوس</span> | <span class="example-en" dir="ltr" lang="en">I like pin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دبوس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pin?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دبوس عند الصيدلية، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a pin at the pharmacy, because the weather is a bit hot, and then I tidied the table</span> |
 
 

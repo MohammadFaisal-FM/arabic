@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سمات</span> | <span class="example-en" dir="ltr" lang="en">This is features</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سمات</span> | <span class="example-en" dir="ltr" lang="en">I like features</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سمات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the features?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سمات في الغرفة، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a features in the room, for studying tomorrow, and then I wrote a note</span> |
 
 

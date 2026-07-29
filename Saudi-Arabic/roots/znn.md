@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أظن كذا</span> | <span class="example-en" dir="ltr" lang="en">I think so</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أظن كذا، ولقيت اللاصق الشفاف في الحديقة، قبل صلاة المغرب، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I think so, and I found the clear tape in the park, before Maghrib prayer, and then I wrote a note</span> |
 
 
 ---

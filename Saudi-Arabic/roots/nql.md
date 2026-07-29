@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">نقلت البيت</span> | <span class="example-en" dir="ltr" lang="en">I moved house</span> |
+| <span class="example-ar" dir="rtl" lang="ar">نقلت البيت، ولقيت الغطاء الشفاف في الثلاجة، قبل صلاة المغرب، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I moved house, and I found the clear cover in the fridge, before Maghrib prayer, and then I tidied the table</span> |
 
 
 ---

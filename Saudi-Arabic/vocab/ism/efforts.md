@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جهود</span> | <span class="example-en" dir="ltr" lang="en">This is efforts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جهود</span> | <span class="example-en" dir="ltr" lang="en">I like efforts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جهود؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the efforts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جهود الحين في المطبخ، لأن الزحمة قوية، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an efforts now in the kitchen, because traffic is heavy, and I also took the paper file</span> |
 
 

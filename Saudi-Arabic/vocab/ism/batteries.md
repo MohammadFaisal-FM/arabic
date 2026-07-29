@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا البطاريات</span> | <span class="example-en" dir="ltr" lang="en">This is batteries</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب البطاريات</span> | <span class="example-en" dir="ltr" lang="en">I like batteries</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين البطاريات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the batteries?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت البطاريات في المكتبة مع الملعقة الصغيرة، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a batteries in the library with the small spoon, so revision is easier, and then I charged the device</span> |
 
 

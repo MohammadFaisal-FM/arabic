@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يملأ</span> | <span class="example-en" dir="ltr" lang="en">This is fill</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يملأ</span> | <span class="example-en" dir="ltr" lang="en">I like fill</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يملأ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fill?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يملأ في الثلاجة مع القبعة الصيفية، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a fill in the fridge with the summer hat, so the photo comes out clearer, and then we locked the door</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ديلاوير</span> | <span class="example-en" dir="ltr" lang="en">This is delaware</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ديلاوير</span> | <span class="example-en" dir="ltr" lang="en">I like delaware</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ديلاوير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the delaware?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ديلاوير قدام المصعد مع الكرتون الفاضي، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a delaware in front of the elevator with the empty carton, so we make the appointment, and then the boy slept</span> |
 
 

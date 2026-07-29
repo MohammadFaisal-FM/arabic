@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حرم الجامعة</span> | <span class="example-en" dir="ltr" lang="en">This is campus</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حرم الجامعة</span> | <span class="example-en" dir="ltr" lang="en">I like campus</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حرم الجامعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the campus?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حرم الجامعة في الدرج، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a campus in the drawer, before the food gets cold, and then I washed my hands</span> |
 
 

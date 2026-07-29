@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ويكيبيديا</span> | <span class="example-en" dir="ltr" lang="en">This is wikipedia</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ويكيبيديا</span> | <span class="example-en" dir="ltr" lang="en">I like wikipedia</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ويكيبيديا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wikipedia?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ويكيبيديا الحين في المدرسة، عشان ما يضيع، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a wikipedia now at school, so it doesn’t get lost, and I also took the sharp scissors</span> |
 
 

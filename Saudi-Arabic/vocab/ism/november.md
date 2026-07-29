@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نوفمبر</span> | <span class="example-en" dir="ltr" lang="en">This is november</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نوفمبر</span> | <span class="example-en" dir="ltr" lang="en">I like november</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نوفمبر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the november?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نوفمبر في المكتبة، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a november in the library, before the place closes, and then I closed the window</span> |
 
 

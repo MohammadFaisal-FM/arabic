@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ستارة</span> | <span class="example-en" dir="ltr" lang="en">This is curtain</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ستارة</span> | <span class="example-en" dir="ltr" lang="en">I like curtain</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ستارة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the curtain?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ستارة الحين على الشرفة، قبل صلاة المغرب، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a curtain now on the balcony, before Maghrib prayer, and I also took the yellow card</span> |
 
 

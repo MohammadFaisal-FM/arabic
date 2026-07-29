@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الفنانين</span> | <span class="example-en" dir="ltr" lang="en">This is artists</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الفنانين</span> | <span class="example-en" dir="ltr" lang="en">I like artists</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الفنانين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the artists?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الفنانين الحين عند الاستقبال، عشان المراجعة أسهل، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need an artists now at reception, so revision is easier, and I also took the glass cup</span> |
 
 

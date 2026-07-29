@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مؤتمر</span> | <span class="example-en" dir="ltr" lang="en">This is conference</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مؤتمر</span> | <span class="example-en" dir="ltr" lang="en">I like conference</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مؤتمر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the conference?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مؤتمر الحين عند العيادة، إذا احتجته بعدين، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a conference now at the clinic, if you need it later, and I also took the stapler</span> |
 
 

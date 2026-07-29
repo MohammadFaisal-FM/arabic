@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صديقي</span> | <span class="example-en" dir="ltr" lang="en">This is my friend</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا صديق</span> | <span class="example-en" dir="ltr" lang="en">This is a friend</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صديق</span> | <span class="example-en" dir="ltr" lang="en">I like friend</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صديق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the friend?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت صديق عند الاستقبال، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I saw a friend at reception, before the driver arrives, and then I charged the device</span> |
 
 

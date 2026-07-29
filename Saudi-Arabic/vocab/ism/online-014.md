@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سؤال أساسي.</span> | <span class="example-en" dir="ltr" lang="en">This is a basic question.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اساسي</span> | <span class="example-en" dir="ltr" lang="en">This is a fundamentalist</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اساسي</span> | <span class="example-en" dir="ltr" lang="en">I like fundamentalist</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اساسي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fundamentalist?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اساسي الحين في الثلاجة، عشان الصورة تطلع أوضح، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a fundamentalist now in the fridge, so the photo comes out clearer, and I also took the summer hat</span> |
 
 

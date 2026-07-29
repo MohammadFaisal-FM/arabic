@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اقتصاد</span> | <span class="example-en" dir="ltr" lang="en">This is economy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اقتصاد</span> | <span class="example-en" dir="ltr" lang="en">I like economy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اقتصاد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the economy?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اقتصاد عند العيادة مع الدباسة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an economy at the clinic with the stapler, if you need it later, and then we prayed</span> |
 
 

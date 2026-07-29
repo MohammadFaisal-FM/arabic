@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا برمجة</span> | <span class="example-en" dir="ltr" lang="en">This is programming</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب برمجة</span> | <span class="example-en" dir="ltr" lang="en">I like programming</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين برمجة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the programming?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج برمجة الحين في المدرسة، عشان ما نتأخر، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a programming now at school, so we are not late, and I also took the sharp scissors</span> |
 
 

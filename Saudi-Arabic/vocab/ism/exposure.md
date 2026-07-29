@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التعرض</span> | <span class="example-en" dir="ltr" lang="en">This is exposure</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التعرض</span> | <span class="example-en" dir="ltr" lang="en">I like exposure</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التعرض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the exposure?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التعرض في الثلاجة مع القبعة الصيفية، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an exposure in the fridge with the summer hat, so the photo comes out clearer, and then we locked the door</span> |
 
 

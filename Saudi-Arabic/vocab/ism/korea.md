@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كوريا</span> | <span class="example-en" dir="ltr" lang="en">This is korea</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كوريا</span> | <span class="example-en" dir="ltr" lang="en">I like korea</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كوريا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the korea?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كوريا الحين في الثلاجة، لأن الوقت ضيق، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a korea now in the fridge, because time is tight, and I also took the summer hat</span> |
 
 

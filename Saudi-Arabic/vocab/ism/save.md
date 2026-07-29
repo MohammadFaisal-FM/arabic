@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يحفظ</span> | <span class="example-en" dir="ltr" lang="en">This is save</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يحفظ</span> | <span class="example-en" dir="ltr" lang="en">I like save</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يحفظ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the save?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يحفظ في البقالة مع الشاحن الطويل، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a save at the grocery with the long charger, so it doesn’t get lost, and then I turned off the light</span> |
 
 

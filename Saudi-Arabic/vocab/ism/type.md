@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يكتب</span> | <span class="example-en" dir="ltr" lang="en">This is type</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يكتب</span> | <span class="example-en" dir="ltr" lang="en">I like type</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يكتب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the type?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يكتب في الدرج، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a type in the drawer, for studying tomorrow, and then I tidied the table</span> |
 
 

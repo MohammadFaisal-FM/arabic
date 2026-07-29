@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يمارس</span> | <span class="example-en" dir="ltr" lang="en">This is exercise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يمارس</span> | <span class="example-en" dir="ltr" lang="en">I like exercise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يمارس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the exercise?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يمارس الحين عند الباب، عشان نلحق الموعد، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an exercise now at the door, so we make the appointment, and I also took the brown wallet</span> |
 
 

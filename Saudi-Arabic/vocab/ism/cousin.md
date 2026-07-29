@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ابن عم</span> | <span class="example-en" dir="ltr" lang="en">This is cousin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ابن عم</span> | <span class="example-en" dir="ltr" lang="en">I like cousin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ابن عم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cousin?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ابن عم في الحقيبة، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a cousin in the bag, before the driver arrives, and then I charged the device</span> |
 
 

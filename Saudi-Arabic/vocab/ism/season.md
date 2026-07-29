@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موسم</span> | <span class="example-en" dir="ltr" lang="en">This is season</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موسم</span> | <span class="example-en" dir="ltr" lang="en">I like season</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موسم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the season?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت موسم في الصالون، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I saw a season in the living room, because work finished early, and then the phone rang</span> |
 
 

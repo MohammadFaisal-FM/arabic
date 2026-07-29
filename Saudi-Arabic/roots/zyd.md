@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">زاد السعر</span> | <span class="example-en" dir="ltr" lang="en">The price went up</span> |
+| <span class="example-ar" dir="rtl" lang="ar">زاد السعر، ولقيت المحفظة البنية في الغرفة، قبل ما يقفل المكان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">The price went up, and I found the brown wallet in the room, before the place closes, and then the boy slept</span> |
 
 
 ---

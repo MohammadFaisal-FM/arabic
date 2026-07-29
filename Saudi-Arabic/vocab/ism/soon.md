@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قريباً</span> | <span class="example-en" dir="ltr" lang="en">This is soon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قريباً</span> | <span class="example-en" dir="ltr" lang="en">I like soon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قريباً؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the soon?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قريباً في الثلاجة مع القبعة الصيفية، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a soon in the fridge with the summer hat, so the photo comes out clearer, and then we locked the door</span> |
 
 

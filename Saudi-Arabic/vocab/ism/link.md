@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وصلة</span> | <span class="example-en" dir="ltr" lang="en">This is link</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وصلة</span> | <span class="example-en" dir="ltr" lang="en">I like link</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وصلة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the link?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت وصلة في الثلاجة مع القبعة الصيفية، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a link in the fridge with the summer hat, because time is tight, and then we prayed</span> |
 
 

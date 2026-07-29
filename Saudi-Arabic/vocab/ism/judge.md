@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يحكم على</span> | <span class="example-en" dir="ltr" lang="en">This is judge</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يحكم على</span> | <span class="example-en" dir="ltr" lang="en">I like judge</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يحكم على؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the judge?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يحكم على الحين في الحديقة، لأن البطارية ضعيفة، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a judge now in the park, because the battery is low, and I also took the old alarm</span> |
 
 

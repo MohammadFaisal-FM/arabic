@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سرير</span> | <span class="example-en" dir="ltr" lang="en">This is bed</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سرير</span> | <span class="example-en" dir="ltr" lang="en">I like bed</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سرير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bed?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سرير الحين في المحطة، عشان نلحق الموعد، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a bed now at the station, so we make the appointment, and I also took the short cable</span> |
 
 

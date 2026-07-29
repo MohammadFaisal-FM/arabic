@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مارشال</span> | <span class="example-en" dir="ltr" lang="en">This is marshall</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مارشال</span> | <span class="example-en" dir="ltr" lang="en">I like marshall</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مارشال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the marshall?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مارشال جنب المسجد، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a marshall next to the mosque, because the battery is low, and then we prayed</span> |
 
 

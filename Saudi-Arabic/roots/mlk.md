@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أملك سيارة</span> | <span class="example-en" dir="ltr" lang="en">I own a car</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أملك سيارة، ولقيت الدفتر الأزرق جنب النافذة، عشان ما نتأخر، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I own a car, and I found the blue notebook beside the window, so we are not late, and then I washed my hands</span> |
 
 
 ---

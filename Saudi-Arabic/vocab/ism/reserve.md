@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا احتياطي</span> | <span class="example-en" dir="ltr" lang="en">This is reserve</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب احتياطي</span> | <span class="example-en" dir="ltr" lang="en">I like reserve</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين احتياطي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reserve?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت احتياطي عند العيادة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a reserve at the clinic, because time is tight, and then I drank some water</span> |
 
 

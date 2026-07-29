@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يذكر</span> | <span class="example-en" dir="ltr" lang="en">This is mention</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يذكر</span> | <span class="example-en" dir="ltr" lang="en">I like mention</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يذكر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mention?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يذكر عند الاستقبال مع الكوب الزجاج، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a mention at reception with the glass cup, so revision is easier, and then I closed the window</span> |
 
 

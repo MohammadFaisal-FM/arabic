@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المحامون</span> | <span class="example-en" dir="ltr" lang="en">This is lawyers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المحامون</span> | <span class="example-en" dir="ltr" lang="en">I like lawyers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المحامون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lawyers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المحامون في الدرج، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a lawyers in the drawer, because the weather is a bit hot, and then I wrote a note</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قمصان</span> | <span class="example-en" dir="ltr" lang="en">This is shirts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قمصان</span> | <span class="example-en" dir="ltr" lang="en">I like shirts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قمصان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the shirts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قمصان في الحديقة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a shirts in the park, because time is tight, and then we prayed</span> |
 
 

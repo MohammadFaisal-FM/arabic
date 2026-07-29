@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جين</span> | <span class="example-en" dir="ltr" lang="en">This is jane</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جين</span> | <span class="example-en" dir="ltr" lang="en">I like jane</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jane?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت جين في الثلاجة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a jane in the fridge, if you need it later, and then I drank some water</span> |
 
 

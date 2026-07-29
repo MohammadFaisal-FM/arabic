@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فوري</span> | <span class="example-en" dir="ltr" lang="en">This is instant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فوري</span> | <span class="example-en" dir="ltr" lang="en">I like instant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فوري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the instant?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فوري الحين عند الباب، لأن الشغل خلص بدري، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an instant now at the door, because work finished early, and I also took the brown wallet</span> |
 
 

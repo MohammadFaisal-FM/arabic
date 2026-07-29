@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فأر</span> | <span class="example-en" dir="ltr" lang="en">This is rat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فأر</span> | <span class="example-en" dir="ltr" lang="en">I like rat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فأر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rat?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فأر الحين عند الصيدلية، لأن الجو حار شوي، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a rat now at the pharmacy, because the weather is a bit hot, and I also took the clear cover</span> |
 
 

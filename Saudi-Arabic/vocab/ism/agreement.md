@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اتفاق</span> | <span class="example-en" dir="ltr" lang="en">This is agreement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اتفاق</span> | <span class="example-en" dir="ltr" lang="en">I like agreement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اتفاق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the agreement?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اتفاق الحين قدام المصعد، لأن الشغل خلص بدري، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need an agreement now in front of the elevator, because work finished early, and I also took the empty carton</span> |
 
 

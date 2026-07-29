@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يستحق</span> | <span class="example-en" dir="ltr" lang="en">This is worth</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يستحق</span> | <span class="example-en" dir="ltr" lang="en">I like worth</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يستحق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the worth?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يستحق في الحديقة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a worth in the park, because time is tight, and then we prayed</span> |
 
 

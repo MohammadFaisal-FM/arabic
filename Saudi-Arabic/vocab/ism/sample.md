@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عينة</span> | <span class="example-en" dir="ltr" lang="en">This is sample</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عينة</span> | <span class="example-en" dir="ltr" lang="en">I like sample</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عينة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sample?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عينة في الحديقة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a sample in the park, because the battery is low, and then I drank some water</span> |
 
 

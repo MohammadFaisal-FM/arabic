@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مِقلاة</span> | <span class="example-en" dir="ltr" lang="en">This is pan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مِقلاة</span> | <span class="example-en" dir="ltr" lang="en">I like pan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مِقلاة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pan?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مِقلاة على المكتب مع البطانية الخفيفة، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a pan on the desk with the light blanket, before the food gets cold, and then I wrote a note</span> |
 
 

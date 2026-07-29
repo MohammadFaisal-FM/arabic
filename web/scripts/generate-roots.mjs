@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { examplePairsTableSection, splitBilingualLine } from './example-format.mjs';
+import { enrichRootExample, isRichExample, seedEnrichmentBans } from './enrich-examples.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.resolve(__dirname, '../..');
@@ -97,7 +98,9 @@ ${rows}
 }
 
 function mdFor(root) {
-  const { ar: exAr, en: exEn } = splitBilingualLine(root.example);
+  const { ar: rawAr, en: rawEn } = splitBilingualLine(root.example);
+  const enriched =
+    isRichExample(rawAr) ? { ar: rawAr, en: rawEn } : enrichRootExample(root.example, root.meaning);
   return `# ${root.root}
 
 | Field | Value |
@@ -108,7 +111,7 @@ function mdFor(root) {
 
 ---
 
-${examplePairsTableSection(exAr ? [{ ar: exAr, en: exEn }] : [])}
+${examplePairsTableSection(enriched.ar ? [{ ar: enriched.ar, en: enriched.en }] : [])}
 
 ---
 
@@ -116,6 +119,20 @@ ${howToUseSection(root)}`;
 }
 
 const source = JSON.parse(fs.readFileSync(sourcePath, 'utf8'));
+seedEnrichmentBans(
+  source.roots.flatMap((r) => {
+    const texts = [r.example, r.meaning, r.formI];
+    if (Array.isArray(r.forms)) {
+      for (const f of r.forms) {
+        texts.push(f.example, f.note);
+        if (Array.isArray(f.conjExamples)) {
+          for (const ex of f.conjExamples) texts.push(ex.ar, ex.en);
+        }
+      }
+    }
+    return texts.filter(Boolean);
+  })
+);
 const roots = source.roots.map((r) => ({
   ...r,
   letter: firstLetter(r.root),

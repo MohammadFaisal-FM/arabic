@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الاعتمادات</span> | <span class="example-en" dir="ltr" lang="en">This is credits</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الاعتمادات</span> | <span class="example-en" dir="ltr" lang="en">I like credits</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الاعتمادات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the credits?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الاعتمادات تحت السرير، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a credits under the bed, before Maghrib prayer, and then we laughed a bit</span> |
 
 

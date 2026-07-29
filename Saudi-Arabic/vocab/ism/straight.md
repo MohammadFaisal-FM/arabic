@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مستقيم</span> | <span class="example-en" dir="ltr" lang="en">This is straight</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مستقيم</span> | <span class="example-en" dir="ltr" lang="en">I like straight</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مستقيم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the straight?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مستقيم في المطبخ مع الملف الورقي، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a straight in the kitchen with the paper file, before the driver arrives, and then I wiped the floor</span> |
 
 

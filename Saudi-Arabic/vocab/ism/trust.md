@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يثق</span> | <span class="example-en" dir="ltr" lang="en">This is trust</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يثق</span> | <span class="example-en" dir="ltr" lang="en">I like trust</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يثق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the trust?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يثق الحين عند الصيدلية، لأن الإضاءة أحسن هناك، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a trust now at the pharmacy, because the light is better there, and I also took the clear cover</span> |
 
 

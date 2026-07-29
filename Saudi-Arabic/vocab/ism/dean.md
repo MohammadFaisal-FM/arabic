@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عميد</span> | <span class="example-en" dir="ltr" lang="en">This is dean</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عميد</span> | <span class="example-en" dir="ltr" lang="en">I like dean</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عميد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dean?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عميد الحين عند الاستقبال، عشان المراجعة أسهل، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a dean now at reception, so revision is easier, and I also took the glass cup</span> |
 
 

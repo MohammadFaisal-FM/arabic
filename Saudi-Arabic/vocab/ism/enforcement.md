@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الإنفاذ</span> | <span class="example-en" dir="ltr" lang="en">This is enforcement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الإنفاذ</span> | <span class="example-en" dir="ltr" lang="en">I like enforcement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الإنفاذ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the enforcement?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الإنفاذ الحين في الحقيبة، لأن الزحمة قوية، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an enforcement now in the bag, because traffic is heavy, and I also took the clean shoes</span> |
 
 

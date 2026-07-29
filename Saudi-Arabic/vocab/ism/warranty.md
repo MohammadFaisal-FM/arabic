@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ضمان</span> | <span class="example-en" dir="ltr" lang="en">This is warranty</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ضمان</span> | <span class="example-en" dir="ltr" lang="en">I like warranty</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ضمان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the warranty?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ضمان على الشرفة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a warranty on the balcony, before Maghrib prayer, and then I turned off the light</span> |
 
 

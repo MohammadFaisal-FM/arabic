@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا معتقد</span> | <span class="example-en" dir="ltr" lang="en">This is thought</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب معتقد</span> | <span class="example-en" dir="ltr" lang="en">I like thought</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين معتقد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the thought?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت معتقد على المكتب، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a thought on the desk, because the weather is a bit hot, and then I washed my hands</span> |
 
 

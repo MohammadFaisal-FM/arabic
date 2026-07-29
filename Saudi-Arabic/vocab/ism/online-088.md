@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">انعزال هو إستقلال.</span> | <span class="example-en" dir="ltr" lang="en">Isolation is independence.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا استقلال</span> | <span class="example-en" dir="ltr" lang="en">This is a independence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب استقلال</span> | <span class="example-en" dir="ltr" lang="en">I like independence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين استقلال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the independence?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت استقلال قدام المصعد مع الكرتون الفاضي، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an independence in front of the elevator with the empty carton, so we make the appointment, and then the boy slept</span> |
 
 

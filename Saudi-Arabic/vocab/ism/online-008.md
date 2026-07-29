@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">الرياضيات أساس الحرية.</span> | <span class="example-en" dir="ltr" lang="en">Mathematics is the basis of freedom.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اساس</span> | <span class="example-en" dir="ltr" lang="en">This is a foundation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اساس</span> | <span class="example-en" dir="ltr" lang="en">I like foundation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اساس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the foundation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اساس الحين قدام التلفاز، بس خلّه قريب منك، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a foundation now in front of the TV, but keep it near you, and I also took the white sock</span> |
 
 

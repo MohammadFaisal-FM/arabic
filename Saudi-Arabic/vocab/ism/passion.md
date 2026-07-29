@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عاطفة</span> | <span class="example-en" dir="ltr" lang="en">This is passion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عاطفة</span> | <span class="example-en" dir="ltr" lang="en">I like passion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عاطفة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the passion?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عاطفة عند الاستقبال مع الكوب الزجاج، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a passion at reception with the glass cup, so revision is easier, and then I closed the window</span> |
 
 

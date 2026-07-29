@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يخطر</span> | <span class="example-en" dir="ltr" lang="en">This is notify</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يخطر</span> | <span class="example-en" dir="ltr" lang="en">I like notify</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يخطر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the notify?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يخطر في المحطة مع الكابل القصير، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a notify at the station with the short cable, because guests are arriving, and then the phone rang</span> |
 
 

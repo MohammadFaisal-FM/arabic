@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تخفيض</span> | <span class="example-en" dir="ltr" lang="en">This is discount</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تخفيض</span> | <span class="example-en" dir="ltr" lang="en">I like discount</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تخفيض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the discount?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تخفيض في المطبخ، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a discount in the kitchen, so revision is easier, and then I wiped the floor</span> |
 
 

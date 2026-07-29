@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مباراة</span> | <span class="example-en" dir="ltr" lang="en">This is match</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مباراة</span> | <span class="example-en" dir="ltr" lang="en">I like match</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مباراة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the match?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مباراة على المكتب مع البطانية الخفيفة، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a match on the desk with the light blanket, because the weather is a bit hot, and then I tidied the table</span> |
 
 

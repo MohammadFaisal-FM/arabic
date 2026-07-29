@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المحاكم</span> | <span class="example-en" dir="ltr" lang="en">This is courts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المحاكم</span> | <span class="example-en" dir="ltr" lang="en">I like courts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المحاكم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the courts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المحاكم في الدرج مع الدفتر الأزرق، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a courts in the drawer with the blue notebook, because the weather is a bit hot, and then I washed my hands</span> |
 
 

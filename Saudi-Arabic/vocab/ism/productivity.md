@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إنتاجية</span> | <span class="example-en" dir="ltr" lang="en">This is productivity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إنتاجية</span> | <span class="example-en" dir="ltr" lang="en">I like productivity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إنتاجية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the productivity?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت إنتاجية في الحديقة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a productivity in the park, if you need it later, and then we prayed</span> |
 
 

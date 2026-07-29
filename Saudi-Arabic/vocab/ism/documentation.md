@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الوثائق</span> | <span class="example-en" dir="ltr" lang="en">This is documentation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الوثائق</span> | <span class="example-en" dir="ltr" lang="en">I like documentation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الوثائق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the documentation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الوثائق في الحقيبة، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a documentation in the bag, because traffic is heavy, and then I wiped the floor</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">اتبعني</span> | <span class="example-en" dir="ltr" lang="en">Follow me</span> |
+| <span class="example-ar" dir="rtl" lang="ar">اتبعني، ولقيت البطاقة الصفراء في الصالون، عشان الصورة تطلع أوضح، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">Follow me, and I found the yellow card in the living room, so the photo comes out clearer, and then I replied to the message</span> |
 
 
 ---

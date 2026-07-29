@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فيلادلفيا</span> | <span class="example-en" dir="ltr" lang="en">This is philadelphia</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فيلادلفيا</span> | <span class="example-en" dir="ltr" lang="en">I like philadelphia</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فيلادلفيا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the philadelphia?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فيلادلفيا الحين عند الباب، عشان نلحق الموعد، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a philadelphia now at the door, so we make the appointment, and I also took the brown wallet</span> |
 
 

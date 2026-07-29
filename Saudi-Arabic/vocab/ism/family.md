@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عائلة</span> | <span class="example-en" dir="ltr" lang="en">This is family</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عائلة</span> | <span class="example-en" dir="ltr" lang="en">I like family</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عائلة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the family?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن عائلة شوي، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a family a bit, so it doesn’t get lost, and then I replied to the message</span> |
 
 

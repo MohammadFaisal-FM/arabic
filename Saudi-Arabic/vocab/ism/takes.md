@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يأخذ</span> | <span class="example-en" dir="ltr" lang="en">This is takes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يأخذ</span> | <span class="example-en" dir="ltr" lang="en">I like takes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يأخذ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the takes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يأخذ الحين قدام التلفاز، عشان الضيوف يوصلون، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a takes now in front of the TV, because guests are arriving, and I also took the white sock</span> |
 
 

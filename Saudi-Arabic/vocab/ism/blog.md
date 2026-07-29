@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مدونة</span> | <span class="example-en" dir="ltr" lang="en">This is blog</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مدونة</span> | <span class="example-en" dir="ltr" lang="en">I like blog</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مدونة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the blog?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مدونة على الشرفة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a blog on the balcony, because the boy is sleepy, and then we laughed a bit</span> |
 
 

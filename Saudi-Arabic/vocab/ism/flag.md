@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا علَم</span> | <span class="example-en" dir="ltr" lang="en">This is flag</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب علَم</span> | <span class="example-en" dir="ltr" lang="en">I like flag</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين علَم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the flag?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت علَم جنب المسجد، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a flag next to the mosque, because the battery is low, and then we prayed</span> |
 
 

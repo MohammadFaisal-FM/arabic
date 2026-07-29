@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موضة</span> | <span class="example-en" dir="ltr" lang="en">This is fashion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موضة</span> | <span class="example-en" dir="ltr" lang="en">I like fashion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موضة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fashion?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت موضة جنب النافذة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a fashion beside the window, because the battery is low, and then I drank some water</span> |
 
 

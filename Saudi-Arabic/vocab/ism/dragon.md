@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تنين</span> | <span class="example-en" dir="ltr" lang="en">This is dragon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تنين</span> | <span class="example-en" dir="ltr" lang="en">I like dragon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تنين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dragon?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تنين الحين عند العيادة، لأن الوقت ضيق، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a dragon now at the clinic, because time is tight, and I also took the stapler</span> |
 
 

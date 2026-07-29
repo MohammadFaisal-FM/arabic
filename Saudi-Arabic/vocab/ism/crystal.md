@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كريستال</span> | <span class="example-en" dir="ltr" lang="en">This is crystal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كريستال</span> | <span class="example-en" dir="ltr" lang="en">I like crystal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كريستال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the crystal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كريستال الحين في المكتبة، قبل ما يجي السائق، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a crystal now in the library, before the driver arrives, and I also took the small spoon</span> |
 
 

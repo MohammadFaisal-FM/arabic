@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مسلسل</span> | <span class="example-en" dir="ltr" lang="en">This is series</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مسلسل</span> | <span class="example-en" dir="ltr" lang="en">I like series</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مسلسل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the series?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مسلسل في الحديقة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a series in the park, because the battery is low, and then I drank some water</span> |
 
 

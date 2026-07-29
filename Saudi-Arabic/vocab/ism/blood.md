@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دم</span> | <span class="example-en" dir="ltr" lang="en">This is blood</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دم</span> | <span class="example-en" dir="ltr" lang="en">I like blood</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the blood?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج دم الحين جنب المسجد، إذا احتجته بعدين، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a blood now next to the mosque, if you need it later, and I also took the pencil</span> |
 
 

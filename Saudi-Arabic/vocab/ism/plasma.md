@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بلازما</span> | <span class="example-en" dir="ltr" lang="en">This is plasma</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بلازما</span> | <span class="example-en" dir="ltr" lang="en">I like plasma</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بلازما؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the plasma?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بلازما الحين في الصالون، لأن الشغل خلص بدري، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a plasma now in the living room, because work finished early, and I also took the clean tissue</span> |
 
 

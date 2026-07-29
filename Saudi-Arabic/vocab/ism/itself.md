@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نفسها</span> | <span class="example-en" dir="ltr" lang="en">This is itself</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نفسها</span> | <span class="example-en" dir="ltr" lang="en">I like itself</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نفسها؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the itself?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت نفسها في المدرسة مع المقص الحاد، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found an itself at school with the sharp scissors, so it doesn’t get lost, and then I replied to the message</span> |
 
 

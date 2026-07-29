@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تلوين</span> | <span class="example-en" dir="ltr" lang="en">This is painting</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تلوين</span> | <span class="example-en" dir="ltr" lang="en">I like painting</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تلوين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the painting?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تلوين جنب البنك مع الزجاجة الفارغة، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a painting next to the bank with the empty bottle, before the driver arrives, and then I closed the window</span> |
 
 

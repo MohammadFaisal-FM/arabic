@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ممر</span> | <span class="example-en" dir="ltr" lang="en">This is passage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ممر</span> | <span class="example-en" dir="ltr" lang="en">I like passage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ممر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the passage?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ممر في الدرج مع الدفتر الأزرق، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a passage in the drawer with the blue notebook, before the food gets cold, and then I tidied the table</span> |
 
 

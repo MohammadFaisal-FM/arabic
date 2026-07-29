@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العتيقة</span> | <span class="example-en" dir="ltr" lang="en">This is antique</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العتيقة</span> | <span class="example-en" dir="ltr" lang="en">I like antique</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العتيقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the antique?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت العتيقة عند العيادة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an antique at the clinic, because time is tight, and then I drank some water</span> |
 
 

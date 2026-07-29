@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مستقر</span> | <span class="example-en" dir="ltr" lang="en">This is stable</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مستقر</span> | <span class="example-en" dir="ltr" lang="en">I like stable</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مستقر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the stable?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مستقر في الغرفة، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a stable in the room, because the weather is a bit hot, and then I washed my hands</span> |
 
 

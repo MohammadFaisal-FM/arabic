@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ديزني</span> | <span class="example-en" dir="ltr" lang="en">This is disney</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ديزني</span> | <span class="example-en" dir="ltr" lang="en">I like disney</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ديزني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the disney?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ديزني في البقالة مع الشاحن الطويل، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a disney at the grocery with the long charger, because the boy is sleepy, and then I replied to the message</span> |
 
 

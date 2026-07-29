@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طبيعي</span> | <span class="example-en" dir="ltr" lang="en">This is natural</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طبيعي</span> | <span class="example-en" dir="ltr" lang="en">I like natural</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طبيعي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the natural?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج طبيعي الحين في الثلاجة، لأن الوقت ضيق، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a natural now in the fridge, because time is tight, and I also took the summer hat</span> |
 
 

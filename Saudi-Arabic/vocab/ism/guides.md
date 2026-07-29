@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أدلة</span> | <span class="example-en" dir="ltr" lang="en">This is guides</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أدلة</span> | <span class="example-en" dir="ltr" lang="en">I like guides</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أدلة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the guides?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أدلة الحين في المكتبة، لأن الزحمة قوية، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a guides now in the library, because traffic is heavy, and I also took the small spoon</span> |
 
 

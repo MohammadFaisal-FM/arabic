@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بوسطن</span> | <span class="example-en" dir="ltr" lang="en">This is boston</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بوسطن</span> | <span class="example-en" dir="ltr" lang="en">I like boston</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بوسطن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the boston?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بوسطن في البقالة مع الشاحن الطويل، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a boston at the grocery with the long charger, before Maghrib prayer, and then we laughed a bit</span> |
 
 

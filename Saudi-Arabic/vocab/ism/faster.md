@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أسرع</span> | <span class="example-en" dir="ltr" lang="en">This is faster</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أسرع</span> | <span class="example-en" dir="ltr" lang="en">I like faster</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أسرع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the faster?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أسرع الحين على الشرفة، عشان ما نتأخر، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a faster now on the balcony, so we are not late, and I also took the yellow card</span> |
 
 

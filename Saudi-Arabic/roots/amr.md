@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أمرني أسويها</span> | <span class="example-en" dir="ltr" lang="en">He told me to do it</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أمرني أسويها، ولقيت الكوب الزجاج جنب النافذة، عشان ما نتأخر، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">He told me to do it, and I found the glass cup beside the window, so we are not late, and then I closed the window</span> |
 
 
 ---

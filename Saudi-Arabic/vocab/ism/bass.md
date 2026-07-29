@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا باس</span> | <span class="example-en" dir="ltr" lang="en">This is bass</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب باس</span> | <span class="example-en" dir="ltr" lang="en">I like bass</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين باس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bass?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت باس في الغرفة، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a bass in the room, for studying tomorrow, and then I wrote a note</span> |
 
 

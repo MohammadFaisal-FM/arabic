@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الروابط</span> | <span class="example-en" dir="ltr" lang="en">This is links</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الروابط</span> | <span class="example-en" dir="ltr" lang="en">I like links</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الروابط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the links?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الروابط الحين جنب النافذة، إذا احتجته بعدين، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a links now beside the window, if you need it later, and I also took the sunglasses</span> |
 
 

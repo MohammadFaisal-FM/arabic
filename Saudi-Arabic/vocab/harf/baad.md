@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">بعد الصلاة</span> | <span class="example-en" dir="ltr" lang="en">after prayer</span> |
+| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «بعد» في الجملة، وحطينا البطانية الخفيفة على المكتب، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">We used “بعد” (after) in the sentence, and put the light blanket on the desk, because the light is better there, and then I washed my hands</span> |
 

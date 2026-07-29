@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إلكتروني</span> | <span class="example-en" dir="ltr" lang="en">This is electronic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إلكتروني</span> | <span class="example-en" dir="ltr" lang="en">I like electronic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إلكتروني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the electronic?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إلكتروني في الدرج مع الدفتر الأزرق، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an electronic in the drawer with the blue notebook, before the food gets cold, and then I tidied the table</span> |
 
 

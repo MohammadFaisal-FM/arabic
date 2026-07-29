@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حمولة</span> | <span class="example-en" dir="ltr" lang="en">This is load</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حمولة</span> | <span class="example-en" dir="ltr" lang="en">I like load</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حمولة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the load?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حمولة الحين قدام التلفاز، لأن الشغل خلص بدري، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a load now in front of the TV, because work finished early, and I also took the white sock</span> |
 
 

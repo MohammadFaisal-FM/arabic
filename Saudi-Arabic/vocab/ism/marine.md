@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا البحرية</span> | <span class="example-en" dir="ltr" lang="en">This is marine</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب البحرية</span> | <span class="example-en" dir="ltr" lang="en">I like marine</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين البحرية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the marine?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت البحرية في المدرسة مع المقص الحاد، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a marine at school with the sharp scissors, because the boy is sleepy, and then we laughed a bit</span> |
 
 

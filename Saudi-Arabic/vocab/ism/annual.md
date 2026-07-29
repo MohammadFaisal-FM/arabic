@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سنوي</span> | <span class="example-en" dir="ltr" lang="en">This is annual</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سنوي</span> | <span class="example-en" dir="ltr" lang="en">I like annual</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سنوي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the annual?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سنوي عند العيادة مع الدباسة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an annual at the clinic with the stapler, so the photo comes out clearer, and then we locked the door</span> |
 
 

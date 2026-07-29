@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا غلاف ورقي</span> | <span class="example-en" dir="ltr" lang="en">This is paperback</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب غلاف ورقي</span> | <span class="example-en" dir="ltr" lang="en">I like paperback</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين غلاف ورقي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the paperback?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج غلاف ورقي الحين في الغرفة، لأن الإضاءة أحسن هناك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a paperback now in the room, because the light is better there, and I also took the spare key</span> |
 
 

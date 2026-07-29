@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ضاق صدري</span> | <span class="example-en" dir="ltr" lang="en">I feel upset</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ضاق صدري، ولقيت البطاقة الصفراء في الصالون، لأن الوقت ضيق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I feel upset, and I found the yellow card in the living room, because time is tight, and then we laughed a bit</span> |
 
 
 ---

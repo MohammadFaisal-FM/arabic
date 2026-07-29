@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ميزة</span> | <span class="example-en" dir="ltr" lang="en">This is advantage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ميزة</span> | <span class="example-en" dir="ltr" lang="en">I like advantage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ميزة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the advantage?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ميزة قدام المصعد، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put an advantage in front of the elevator, because work finished early, and then I turned on the fan</span> |
 
 

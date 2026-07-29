@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كليفلاند</span> | <span class="example-en" dir="ltr" lang="en">This is cleveland</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كليفلاند</span> | <span class="example-en" dir="ltr" lang="en">I like cleveland</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كليفلاند؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cleveland?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كليفلاند الحين عند الاستقبال، قبل ما يجي السائق، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a cleveland now at reception, before the driver arrives, and I also took the glass cup</span> |
 
 

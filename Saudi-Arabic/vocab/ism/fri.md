@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الجمعة</span> | <span class="example-en" dir="ltr" lang="en">This is fri</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الجمعة</span> | <span class="example-en" dir="ltr" lang="en">I like fri</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الجمعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fri?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الجمعة عند العيادة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a fri at the clinic, if you need it later, and then I drank some water</span> |
 
 

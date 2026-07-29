@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ضريبة القيمة المضافة</span> | <span class="example-en" dir="ltr" lang="en">This is vat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ضريبة القيمة المضافة</span> | <span class="example-en" dir="ltr" lang="en">I like vat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ضريبة القيمة المضافة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the vat?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ضريبة القيمة المضافة الحين في المحطة، عشان الضيوف يوصلون، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a vat now at the station, because guests are arriving, and I also took the short cable</span> |
 
 

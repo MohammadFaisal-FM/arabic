@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ديك رومى</span> | <span class="example-en" dir="ltr" lang="en">This is turkey</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ديك رومى</span> | <span class="example-en" dir="ltr" lang="en">I like turkey</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ديك رومى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the turkey?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ديك رومى في الحديقة مع المنبه القديميم، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a turkey in the park with the old alarm, so the photo comes out clearer, and then I drank some water</span> |
 
 

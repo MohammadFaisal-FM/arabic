@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اكتساب</span> | <span class="example-en" dir="ltr" lang="en">This is acquisition</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اكتساب</span> | <span class="example-en" dir="ltr" lang="en">I like acquisition</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اكتساب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the acquisition?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اكتساب الحين في المطبخ، لأن الزحمة قوية، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an acquisition now in the kitchen, because traffic is heavy, and I also took the paper file</span> |
 
 

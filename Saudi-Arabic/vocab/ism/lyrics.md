@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كلمات</span> | <span class="example-en" dir="ltr" lang="en">This is lyrics</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كلمات</span> | <span class="example-en" dir="ltr" lang="en">I like lyrics</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كلمات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lyrics?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كلمات الحين في البقالة، عشان ما يضيع، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a lyrics now at the grocery, so it doesn’t get lost, and I also took the long charger</span> |
 
 

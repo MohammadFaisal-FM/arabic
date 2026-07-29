@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رعاية</span> | <span class="example-en" dir="ltr" lang="en">This is care</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رعاية</span> | <span class="example-en" dir="ltr" lang="en">I like care</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رعاية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the care?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رعاية على المكتب مع البطانية الخفيفة، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a care on the desk with the light blanket, because the weather is a bit hot, and then I tidied the table</span> |
 
 

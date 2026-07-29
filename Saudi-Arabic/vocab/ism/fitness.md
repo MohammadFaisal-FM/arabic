@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لياقة بدنية</span> | <span class="example-en" dir="ltr" lang="en">This is fitness</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لياقة بدنية</span> | <span class="example-en" dir="ltr" lang="en">I like fitness</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لياقة بدنية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fitness?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج لياقة بدنية الحين جنب النافذة، لأن البطارية ضعيفة، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a fitness now beside the window, because the battery is low, and I also took the sunglasses</span> |
 
 

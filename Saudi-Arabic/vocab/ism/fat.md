@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سمين</span> | <span class="example-en" dir="ltr" lang="en">This is fat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سمين</span> | <span class="example-en" dir="ltr" lang="en">I like fat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سمين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fat?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سمين تحت السرير مع الوشاح الرمادي، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a fat under the bed with the grey scarf, because the boy is sleepy, and then we laughed a bit</span> |
 
 

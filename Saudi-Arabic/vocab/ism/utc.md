@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التوقيت العالمي</span> | <span class="example-en" dir="ltr" lang="en">This is utc</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التوقيت العالمي</span> | <span class="example-en" dir="ltr" lang="en">I like utc</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التوقيت العالمي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the utc?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التوقيت العالمي في السيارة، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put an utc in the car, so it doesn’t get lost, and then I replied to the message</span> |
 
 

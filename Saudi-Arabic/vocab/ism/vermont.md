@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فيرمونت</span> | <span class="example-en" dir="ltr" lang="en">This is vermont</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فيرمونت</span> | <span class="example-en" dir="ltr" lang="en">I like vermont</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فيرمونت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the vermont?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فيرمونت الحين عند الباب، عشان نلحق الموعد، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a vermont now at the door, so we make the appointment, and I also took the brown wallet</span> |
 
 

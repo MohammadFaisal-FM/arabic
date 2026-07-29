@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جميل</span> | <span class="example-en" dir="ltr" lang="en">This is pretty</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جميل</span> | <span class="example-en" dir="ltr" lang="en">I like pretty</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جميل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pretty?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جميل الحين في الحقيبة، قبل ما يجي السائق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a pretty now in the bag, before the driver arrives, and I also took the clean shoes</span> |
 
 

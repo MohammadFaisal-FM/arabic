@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اريك</span> | <span class="example-en" dir="ltr" lang="en">This is eric</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اريك</span> | <span class="example-en" dir="ltr" lang="en">I like eric</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اريك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the eric?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اريك في المدرسة، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an eric at school, before Maghrib prayer, and then we laughed a bit</span> |
 
 

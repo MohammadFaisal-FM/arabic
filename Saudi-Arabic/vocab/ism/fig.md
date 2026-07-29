@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تين</span> | <span class="example-en" dir="ltr" lang="en">This is fig</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تين</span> | <span class="example-en" dir="ltr" lang="en">I like fig</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fig?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تين عند العيادة مع الدباسة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a fig at the clinic with the stapler, because the battery is low, and then I drank some water</span> |
 
 

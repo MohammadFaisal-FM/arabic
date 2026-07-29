@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">زيري إطار.</span> | <span class="example-en" dir="ltr" lang="en">Ziri tire.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اطار</span> | <span class="example-en" dir="ltr" lang="en">This is a framework</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اطار</span> | <span class="example-en" dir="ltr" lang="en">I like framework</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اطار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the framework?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اطار الحين تحت السرير، عشان ما يضيع، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a framework now under the bed, so it doesn’t get lost, and I also took the grey scarf</span> |
 
 

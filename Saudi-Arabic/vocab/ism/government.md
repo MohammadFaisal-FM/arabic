@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حكومة</span> | <span class="example-en" dir="ltr" lang="en">This is government</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حكومة</span> | <span class="example-en" dir="ltr" lang="en">I like government</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حكومة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the government?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حكومة عند العيادة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a government at the clinic, because time is tight, and then I drank some water</span> |
 
 

@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">الأمل ليس استراتيجية.</span> | <span class="example-en" dir="ltr" lang="en">Hope is not a strategy.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا استراتيجيه</span> | <span class="example-en" dir="ltr" lang="en">This is a strategy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب استراتيجيه</span> | <span class="example-en" dir="ltr" lang="en">I like strategy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين استراتيجيه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the strategy?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج استراتيجيه الحين جنب المسجد، إذا احتجته بعدين، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a strategy now next to the mosque, if you need it later, and I also took the pencil</span> |
 
 

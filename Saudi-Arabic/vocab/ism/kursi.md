@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">اجلس على الكرسي</span> | <span class="example-en" dir="ltr" lang="en">Sit on the chair</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا كرسي</span> | <span class="example-en" dir="ltr" lang="en">This is a chair</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كرسي</span> | <span class="example-en" dir="ltr" lang="en">I like chair</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كرسي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the chair?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كرسي في الحقيبة مع الحذاء النظيف، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a chair in the bag with the clean shoes, before the driver arrives, and then I closed the window</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تأثيرات</span> | <span class="example-en" dir="ltr" lang="en">This is effects</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تأثيرات</span> | <span class="example-en" dir="ltr" lang="en">I like effects</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تأثيرات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the effects?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تأثيرات في المكتبة مع الملعقة الصغيرة، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an effects in the library with the small spoon, because traffic is heavy, and then I closed the window</span> |
 
 

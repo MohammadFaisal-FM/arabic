@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سفاري</span> | <span class="example-en" dir="ltr" lang="en">This is safari</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سفاري</span> | <span class="example-en" dir="ltr" lang="en">I like safari</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سفاري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the safari?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سفاري الحين في المطبخ، قبل ما يجي السائق، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a safari now in the kitchen, before the driver arrives, and I also took the paper file</span> |
 
 

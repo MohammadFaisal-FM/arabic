@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وحدة التحكم</span> | <span class="example-en" dir="ltr" lang="en">This is console</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وحدة التحكم</span> | <span class="example-en" dir="ltr" lang="en">I like console</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وحدة التحكم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the console?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت وحدة التحكم في الثلاجة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a console in the fridge, if you need it later, and then I drank some water</span> |
 
 

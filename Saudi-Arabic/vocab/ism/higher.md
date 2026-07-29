@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أعلى</span> | <span class="example-en" dir="ltr" lang="en">This is higher</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أعلى</span> | <span class="example-en" dir="ltr" lang="en">I like higher</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أعلى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the higher?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أعلى عند الصيدلية مع الغطاء الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a higher at the pharmacy with the clear cover, for studying tomorrow, and then I tidied the table</span> |
 
 

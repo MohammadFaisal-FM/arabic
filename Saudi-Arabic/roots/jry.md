@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">يجري بسرعة</span> | <span class="example-en" dir="ltr" lang="en">He runs fast</span> |
+| <span class="example-ar" dir="rtl" lang="ar">يجري بسرعة، ولقيت المحفظة البنية في الغرفة، قبل ما يجي السائق، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">He runs fast, and I found the brown wallet in the room, before the driver arrives, and then the phone rang</span> |
 
 
 ---

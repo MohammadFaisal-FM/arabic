@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التقييمات</span> | <span class="example-en" dir="ltr" lang="en">This is ratings</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التقييمات</span> | <span class="example-en" dir="ltr" lang="en">I like ratings</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التقييمات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ratings?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج التقييمات الحين على الشرفة، عشان ما نتأخر، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a ratings now on the balcony, so we are not late, and I also took the yellow card</span> |
 
 

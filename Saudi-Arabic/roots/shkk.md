@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ما أشك</span> | <span class="example-en" dir="ltr" lang="en">I don’t doubt</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ما أشك، ولقيت القلم الرصاص في الحقيبة، لأن الشغل خلص بدري، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I don’t doubt, and I found the pencil in the bag, because work finished early, and then we prayed</span> |
 
 
 ---

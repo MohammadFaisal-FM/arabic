@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شاعر</span> | <span class="example-en" dir="ltr" lang="en">This is poet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شاعر</span> | <span class="example-en" dir="ltr" lang="en">I like poet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شاعر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the poet?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شاعر قدام التلفاز، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a poet in front of the TV, so we make the appointment, and then the phone rang</span> |
 
 

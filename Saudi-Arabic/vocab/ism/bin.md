@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بن</span> | <span class="example-en" dir="ltr" lang="en">This is bin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بن</span> | <span class="example-en" dir="ltr" lang="en">I like bin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bin?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بن الحين عند الصيدلية، قبل ما يبرد الأكل، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a bin now at the pharmacy, before the food gets cold, and I also took the clear cover</span> |
 
 

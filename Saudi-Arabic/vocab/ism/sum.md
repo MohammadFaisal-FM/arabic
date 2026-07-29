@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مجموع</span> | <span class="example-en" dir="ltr" lang="en">This is sum</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مجموع</span> | <span class="example-en" dir="ltr" lang="en">I like sum</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مجموع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sum?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مجموع في الثلاجة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a sum in the fridge, so the photo comes out clearer, and then we prayed</span> |
 
 

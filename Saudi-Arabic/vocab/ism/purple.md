@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أرجواني</span> | <span class="example-en" dir="ltr" lang="en">This is purple</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أرجواني</span> | <span class="example-en" dir="ltr" lang="en">I like purple</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أرجواني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the purple?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أرجواني الحين في المحطة، عشان الضيوف يوصلون، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a purple now at the station, because guests are arriving, and I also took the short cable</span> |
 
 

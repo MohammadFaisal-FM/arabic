@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مطر</span> | <span class="example-en" dir="ltr" lang="en">This is rain</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مطر</span> | <span class="example-en" dir="ltr" lang="en">I like rain</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مطر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rain?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مطر في البقالة، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a rain at the grocery, so we are not late, and then we laughed a bit</span> |
 
 

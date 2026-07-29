@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حيّ</span> | <span class="example-en" dir="ltr" lang="en">This is neighborhood</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حيّ</span> | <span class="example-en" dir="ltr" lang="en">I like neighborhood</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حيّ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the neighborhood?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حيّ الحين في الحديقة، عشان الصورة تطلع أوضح، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a neighborhood now in the park, so the photo comes out clearer, and I also took the old alarm</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خبير</span> | <span class="example-en" dir="ltr" lang="en">This is expert</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خبير</span> | <span class="example-en" dir="ltr" lang="en">I like expert</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خبير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the expert?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خبير عند الاستقبال مع الكوب الزجاج، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found an expert at reception with the glass cup, because traffic is heavy, and then I wiped the floor</span> |
 
 

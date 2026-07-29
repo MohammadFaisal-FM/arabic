@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كريس</span> | <span class="example-en" dir="ltr" lang="en">This is chris</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كريس</span> | <span class="example-en" dir="ltr" lang="en">I like chris</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كريس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the chris?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كريس على المكتب، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a chris on the desk, because the weather is a bit hot, and then I washed my hands</span> |
 
 

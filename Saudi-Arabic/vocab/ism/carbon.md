@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الكربون</span> | <span class="example-en" dir="ltr" lang="en">This is carbon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الكربون</span> | <span class="example-en" dir="ltr" lang="en">I like carbon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الكربون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the carbon?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الكربون عند العيادة مع الدباسة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a carbon at the clinic with the stapler, because time is tight, and then we prayed</span> |
 
 

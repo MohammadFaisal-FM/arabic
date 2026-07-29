@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وضع</span> | <span class="example-en" dir="ltr" lang="en">This is mode</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وضع</span> | <span class="example-en" dir="ltr" lang="en">I like mode</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وضع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mode?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت وضع على المكتب، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a mode on the desk, because the weather is a bit hot, and then I washed my hands</span> |
 
 

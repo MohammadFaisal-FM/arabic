@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يُقرض</span> | <span class="example-en" dir="ltr" lang="en">This is loan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يُقرض</span> | <span class="example-en" dir="ltr" lang="en">I like loan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يُقرض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the loan?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يُقرض في الصالون مع المنديل النظيف، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a loan in the living room with the clean tissue, because guests are arriving, and then the boy slept</span> |
 
 

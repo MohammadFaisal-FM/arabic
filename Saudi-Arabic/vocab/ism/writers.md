@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الكتاب</span> | <span class="example-en" dir="ltr" lang="en">This is writers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الكتاب</span> | <span class="example-en" dir="ltr" lang="en">I like writers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الكتاب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the writers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الكتاب الحين في الصالون، بس خلّه قريب منك، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a writers now in the living room, but keep it near you, and I also took the clean tissue</span> |
 
 

@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أشرب شاهي</span> | <span class="example-en" dir="ltr" lang="en">I drink my tea</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا شاهي</span> | <span class="example-en" dir="ltr" lang="en">This is a tea (gulf)</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شاهي</span> | <span class="example-en" dir="ltr" lang="en">I like tea (gulf)</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شاهي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tea (gulf)?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شاهي في السيارة مع الوسادة الناعمة، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a tea (gulf) in the car with the soft pillow, because the boy is sleepy, and then I turned off the light</span> |
 
 

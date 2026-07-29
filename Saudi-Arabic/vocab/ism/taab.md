@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">من التعب</span> | <span class="example-en" dir="ltr" lang="en">From fatigue</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا تعب</span> | <span class="example-en" dir="ltr" lang="en">This is a tiredness</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تعب</span> | <span class="example-en" dir="ltr" lang="en">I like tiredness</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تعب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tiredness?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تعب عند العيادة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a tiredness at the clinic, because time is tight, and then I drank some water</span> |
 
 

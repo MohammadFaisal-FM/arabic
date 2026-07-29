@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مريح</span> | <span class="example-en" dir="ltr" lang="en">This is comfortable</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مريح</span> | <span class="example-en" dir="ltr" lang="en">I like comfortable</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مريح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the comfortable?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مريح الحين قدام الملعب، لأن الجو حار شوي، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a comfortable now in front of the pitch, because the weather is a bit hot, and I also took the clear tape</span> |
 
 

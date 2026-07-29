@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خشب</span> | <span class="example-en" dir="ltr" lang="en">This is wood</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خشب</span> | <span class="example-en" dir="ltr" lang="en">I like wood</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خشب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wood?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خشب في المحطة مع الكابل القصير، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a wood at the station with the short cable, because work finished early, and then I turned on the fan</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وحيد</span> | <span class="example-en" dir="ltr" lang="en">This is alone</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وحيد</span> | <span class="example-en" dir="ltr" lang="en">I like alone</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وحيد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the alone?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج وحيد الحين في الدرج، عشان الدراسة بكرة، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need an alone now in the drawer, for studying tomorrow, and I also took the blue notebook</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يوقف</span> | <span class="example-en" dir="ltr" lang="en">This is pause</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يوقف</span> | <span class="example-en" dir="ltr" lang="en">I like pause</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يوقف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pause?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يوقف في المكتبة مع الملعقة الصغيرة، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a pause in the library with the small spoon, before the driver arrives, and then I wiped the floor</span> |
 
 

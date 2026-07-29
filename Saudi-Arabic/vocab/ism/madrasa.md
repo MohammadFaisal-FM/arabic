@@ -14,7 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">رحت المدرسة</span> | <span class="example-en" dir="ltr" lang="en">I went to school</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مدرسة في البقالة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a school at the grocery, before Maghrib prayer, and then I replied to the message</span> |
 
 
 ### Links

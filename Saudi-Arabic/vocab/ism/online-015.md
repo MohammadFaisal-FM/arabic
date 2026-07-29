@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لنأخذ استراحة قصيرة.</span> | <span class="example-en" dir="ltr" lang="en">Let's take a short break.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا استراحه</span> | <span class="example-en" dir="ltr" lang="en">This is a reposing</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب استراحه</span> | <span class="example-en" dir="ltr" lang="en">I like reposing</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين استراحه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reposing?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج استراحه الحين في البقالة، عشان ما يضيع، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a reposing now at the grocery, so it doesn’t get lost, and I also took the long charger</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ناضجة</span> | <span class="example-en" dir="ltr" lang="en">This is mature</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ناضجة</span> | <span class="example-en" dir="ltr" lang="en">I like mature</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ناضجة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mature?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ناضجة على المكتب مع البطانية الخفيفة، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a mature on the desk with the light blanket, before the food gets cold, and then I wrote a note</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فيلبيني</span> | <span class="example-en" dir="ltr" lang="en">This is philippines</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فيلبيني</span> | <span class="example-en" dir="ltr" lang="en">I like philippines</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فيلبيني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the philippines?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فيلبيني تحت السرير مع الوشاح الرمادي، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a philippines under the bed with the grey scarf, because the boy is sleepy, and then we laughed a bit</span> |
 
 

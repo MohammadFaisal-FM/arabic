@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأشخاص</span> | <span class="example-en" dir="ltr" lang="en">This is persons</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأشخاص</span> | <span class="example-en" dir="ltr" lang="en">I like persons</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأشخاص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the persons?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن الأشخاص شوي، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">We talked about a persons a bit, but keep it near you, and then the boy slept</span> |
 
 

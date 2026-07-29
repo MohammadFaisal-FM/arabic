@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مملكة</span> | <span class="example-en" dir="ltr" lang="en">This is kingdom</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مملكة</span> | <span class="example-en" dir="ltr" lang="en">I like kingdom</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مملكة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the kingdom?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مملكة الحين على المكتب، قبل ما يبرد الأكل، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a kingdom now on the desk, before the food gets cold, and I also took the light blanket</span> |
 
 

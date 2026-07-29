@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ريتشارد</span> | <span class="example-en" dir="ltr" lang="en">This is richard</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ريتشارد</span> | <span class="example-en" dir="ltr" lang="en">I like richard</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ريتشارد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the richard?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ريتشارد في المدرسة مع المقص الحاد، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a richard at school with the sharp scissors, because the boy is sleepy, and then we laughed a bit</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تلة</span> | <span class="example-en" dir="ltr" lang="en">This is hill</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تلة</span> | <span class="example-en" dir="ltr" lang="en">I like hill</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تلة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hill?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تلة في المكتبة، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a hill in the library, before the driver arrives, and then I closed the window</span> |
 
 

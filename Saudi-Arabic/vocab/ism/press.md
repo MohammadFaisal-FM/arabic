@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يضعط</span> | <span class="example-en" dir="ltr" lang="en">This is press</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يضعط</span> | <span class="example-en" dir="ltr" lang="en">I like press</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يضعط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the press?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يضعط في الحقيبة، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a press in the bag, before the place closes, and then I charged the device</span> |
 
 

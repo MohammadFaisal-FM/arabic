@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كبير</span> | <span class="example-en" dir="ltr" lang="en">This is senior</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كبير</span> | <span class="example-en" dir="ltr" lang="en">I like senior</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كبير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the senior?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كبير الحين قدام المصعد، لأن الشغل خلص بدري، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a senior now in front of the elevator, because work finished early, and I also took the empty carton</span> |
 
 

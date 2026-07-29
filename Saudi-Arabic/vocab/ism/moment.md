@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لحظة</span> | <span class="example-en" dir="ltr" lang="en">This is moment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لحظة</span> | <span class="example-en" dir="ltr" lang="en">I like moment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لحظة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the moment?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت لحظة في المكتبة، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I saw a moment in the library, so revision is easier, and then I charged the device</span> |
 
 

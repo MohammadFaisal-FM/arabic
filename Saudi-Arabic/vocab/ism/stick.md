@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يلزق</span> | <span class="example-en" dir="ltr" lang="en">This is stick</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يلزق</span> | <span class="example-en" dir="ltr" lang="en">I like stick</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يلزق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the stick?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يلزق قدام التلفاز مع الجورب الأبيض، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a stick in front of the TV with the white sock, because guests are arriving, and then the phone rang</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الدفع</span> | <span class="example-en" dir="ltr" lang="en">This is checkout</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الدفع</span> | <span class="example-en" dir="ltr" lang="en">I like checkout</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الدفع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the checkout?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الدفع جنب المسجد، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a checkout next to the mosque, if you need it later, and then we locked the door</span> |
 
 

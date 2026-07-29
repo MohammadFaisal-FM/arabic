@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سنين</span> | <span class="example-en" dir="ltr" lang="en">This is years</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سنين</span> | <span class="example-en" dir="ltr" lang="en">I like years</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سنين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the years?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سنين الحين في السيارة، عشان ما يضيع، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a years now in the car, so it doesn’t get lost, and I also took the soft pillow</span> |
 
 

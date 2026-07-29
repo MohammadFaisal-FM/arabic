@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مرشحين</span> | <span class="example-en" dir="ltr" lang="en">This is candidates</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مرشحين</span> | <span class="example-en" dir="ltr" lang="en">I like candidates</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مرشحين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the candidates?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مرشحين الحين في الدرج، لأن الجو حار شوي، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a candidates now in the drawer, because the weather is a bit hot, and I also took the blue notebook</span> |
 
 

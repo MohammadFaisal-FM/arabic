@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يستثني</span> | <span class="example-en" dir="ltr" lang="en">This is except</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يستثني</span> | <span class="example-en" dir="ltr" lang="en">I like except</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يستثني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the except?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يستثني الحين عند الباب، لأن الشغل خلص بدري، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an except now at the door, because work finished early, and I also took the brown wallet</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا متعدد</span> | <span class="example-en" dir="ltr" lang="en">This is multi</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب متعدد</span> | <span class="example-en" dir="ltr" lang="en">I like multi</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين متعدد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the multi?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت متعدد في الحديقة مع المنبه القديميم، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a multi in the park with the old alarm, because time is tight, and then we locked the door</span> |
 
 

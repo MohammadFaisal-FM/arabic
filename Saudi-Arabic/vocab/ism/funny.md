@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مضحك</span> | <span class="example-en" dir="ltr" lang="en">This is funny</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مضحك</span> | <span class="example-en" dir="ltr" lang="en">I like funny</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مضحك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the funny?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مضحك عند الاستقبال مع الكوب الزجاج، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a funny at reception with the glass cup, before the driver arrives, and then I charged the device</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بول</span> | <span class="example-en" dir="ltr" lang="en">This is paul</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بول</span> | <span class="example-en" dir="ltr" lang="en">I like paul</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the paul?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بول في الغرفة مع المفتاح الاحتياطي، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a paul in the room with the spare key, for studying tomorrow, and then I washed my hands</span> |
 
 

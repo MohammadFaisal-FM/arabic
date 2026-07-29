@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا محطات</span> | <span class="example-en" dir="ltr" lang="en">This is stations</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب محطات</span> | <span class="example-en" dir="ltr" lang="en">I like stations</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين محطات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the stations?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت محطات جنب النافذة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a stations beside the window, because time is tight, and then we prayed</span> |
 
 

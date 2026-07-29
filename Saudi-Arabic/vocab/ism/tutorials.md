@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دروس</span> | <span class="example-en" dir="ltr" lang="en">This is tutorials</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دروس</span> | <span class="example-en" dir="ltr" lang="en">I like tutorials</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دروس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tutorials?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دروس في البقالة، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a tutorials at the grocery, because the boy is sleepy, and then I turned off the light</span> |
 
 

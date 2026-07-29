@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تفاصيل</span> | <span class="example-en" dir="ltr" lang="en">This is details</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تفاصيل</span> | <span class="example-en" dir="ltr" lang="en">I like details</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تفاصيل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the details?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تفاصيل عند الاستقبال مع الكوب الزجاج، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a details at reception with the glass cup, before the place closes, and then I charged the device</span> |
 
 

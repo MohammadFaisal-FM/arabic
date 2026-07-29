@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ما أخاف</span> | <span class="example-en" dir="ltr" lang="en">I’m not afraid</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ما أخاف، ولقيت الكوب الزجاج في السيارة، عشان الدراسة بكرة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I’m not afraid, and I found the glass cup in the car, for studying tomorrow, and then I charged the device</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [خوف](#ism/khawf) | <span class="example-ar" dir="rtl" lang="ar">ما في خوف</span><br><span class="example-en" dir="ltr" lang="en">There is no fear</span> |
+| اسم · ism (noun / other) | [خوف](#ism/khawf) | <span class="example-ar" dir="rtl" lang="ar">لقيت خوف جنب المسجد مع القلم الرصاص، إذا احتجته بعدين، وبعدين شربت ميّ</span><br><span class="example-en" dir="ltr" lang="en">I found a fear next to the mosque with the pencil, if you need it later, and then I drank some water</span> |
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عنصرية</span> | <span class="example-en" dir="ltr" lang="en">This is racism</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عنصرية</span> | <span class="example-en" dir="ltr" lang="en">I like racism</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عنصرية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the racism?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عنصرية قدام التلفاز، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a racism in front of the TV, because work finished early, and then the phone rang</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مضخة</span> | <span class="example-en" dir="ltr" lang="en">This is pump</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مضخة</span> | <span class="example-en" dir="ltr" lang="en">I like pump</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مضخة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pump?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مضخة في المكتبة، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a pump in the library, before the driver arrives, and then I closed the window</span> |
 
 

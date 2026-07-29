@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التسميات</span> | <span class="example-en" dir="ltr" lang="en">This is labels</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التسميات</span> | <span class="example-en" dir="ltr" lang="en">I like labels</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التسميات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the labels?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التسميات في المدرسة، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a labels at school, so we are not late, and then I turned off the light</span> |
 
 

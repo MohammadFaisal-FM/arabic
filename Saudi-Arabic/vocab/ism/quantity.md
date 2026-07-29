@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كمية</span> | <span class="example-en" dir="ltr" lang="en">This is quantity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كمية</span> | <span class="example-en" dir="ltr" lang="en">I like quantity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كمية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the quantity?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كمية عند العيادة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a quantity at the clinic, because the battery is low, and then we locked the door</span> |
 
 

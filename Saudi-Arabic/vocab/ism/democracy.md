@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ديمقراطية</span> | <span class="example-en" dir="ltr" lang="en">This is democracy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ديمقراطية</span> | <span class="example-en" dir="ltr" lang="en">I like democracy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ديمقراطية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the democracy?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ديمقراطية الحين في الغرفة، عشان الدراسة بكرة، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a democracy now in the room, for studying tomorrow, and I also took the spare key</span> |
 
 

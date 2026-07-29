@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">إعداد المخططات شيء و تنفيذها شيء آخر.</span> | <span class="example-en" dir="ltr" lang="en">Preparing plans is one thing, implementing them is another.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اعداد في الصالون مع المنديل النظيف، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a numbers in the living room with the clean tissue, so we make the appointment, and then the phone rang</span> |
 
 

@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">رقم جوالك</span> | <span class="example-en" dir="ltr" lang="en">Your mobile number</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا رقم</span> | <span class="example-en" dir="ltr" lang="en">This is a number</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رقم</span> | <span class="example-en" dir="ltr" lang="en">I like number</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رقم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the number?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت رقم جنب البنك، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a number next to the bank, before the place closes, and then I charged the device</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شريحة</span> | <span class="example-en" dir="ltr" lang="en">This is slide</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شريحة</span> | <span class="example-en" dir="ltr" lang="en">I like slide</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شريحة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the slide?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شريحة في الصالون مع المنديل النظيف، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a slide in the living room with the clean tissue, but keep it near you, and then I turned on the fan</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أغسطس</span> | <span class="example-en" dir="ltr" lang="en">This is august</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أغسطس</span> | <span class="example-en" dir="ltr" lang="en">I like august</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أغسطس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the august?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أغسطس جنب النافذة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put an august beside the window, because time is tight, and then we prayed</span> |
 
 

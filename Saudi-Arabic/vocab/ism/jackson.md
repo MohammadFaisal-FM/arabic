@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جاكسون</span> | <span class="example-en" dir="ltr" lang="en">This is jackson</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جاكسون</span> | <span class="example-en" dir="ltr" lang="en">I like jackson</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جاكسون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jackson?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت جاكسون في المكتبة، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I saw a jackson in the library, before the driver arrives, and then I wiped the floor</span> |
 
 

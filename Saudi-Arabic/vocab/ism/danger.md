@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خطر</span> | <span class="example-en" dir="ltr" lang="en">This is danger</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خطر</span> | <span class="example-en" dir="ltr" lang="en">I like danger</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خطر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the danger?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خطر في الدرج مع الدفتر الأزرق، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a danger in the drawer with the blue notebook, because the weather is a bit hot, and then I washed my hands</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يقبل</span> | <span class="example-en" dir="ltr" lang="en">This is accept</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يقبل</span> | <span class="example-en" dir="ltr" lang="en">I like accept</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يقبل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the accept?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يقبل جنب المسجد، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put an accept next to the mosque, if you need it later, and then we locked the door</span> |
 
 

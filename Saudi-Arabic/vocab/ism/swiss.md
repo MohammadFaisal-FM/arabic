@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سويسري</span> | <span class="example-en" dir="ltr" lang="en">This is swiss</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سويسري</span> | <span class="example-en" dir="ltr" lang="en">I like swiss</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سويسري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the swiss?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سويسري قدام المصعد، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a swiss in front of the elevator, but keep it near you, and then the boy slept</span> |
 
 

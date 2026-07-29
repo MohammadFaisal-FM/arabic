@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الملفات الشخصية</span> | <span class="example-en" dir="ltr" lang="en">This is profiles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الملفات الشخصية</span> | <span class="example-en" dir="ltr" lang="en">I like profiles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الملفات الشخصية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the profiles?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الملفات الشخصية الحين جنب المسجد، عشان الصورة تطلع أوضح، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a profiles now next to the mosque, so the photo comes out clearer, and I also took the pencil</span> |
 
 

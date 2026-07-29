@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جدول الأعمال</span> | <span class="example-en" dir="ltr" lang="en">This is agenda</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جدول الأعمال</span> | <span class="example-en" dir="ltr" lang="en">I like agenda</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جدول الأعمال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the agenda?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جدول الأعمال الحين في المحطة، لأن الشغل خلص بدري، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need an agenda now at the station, because work finished early, and I also took the short cable</span> |
 
 

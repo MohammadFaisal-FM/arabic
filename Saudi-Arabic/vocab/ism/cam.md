@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كاميرا</span> | <span class="example-en" dir="ltr" lang="en">This is cam</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كاميرا</span> | <span class="example-en" dir="ltr" lang="en">I like cam</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كاميرا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cam?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كاميرا الحين عند الباب، عشان نلحق الموعد، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a cam now at the door, so we make the appointment, and I also took the brown wallet</span> |
 
 

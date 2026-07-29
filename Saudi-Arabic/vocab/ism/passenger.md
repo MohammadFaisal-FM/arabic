@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا راكب</span> | <span class="example-en" dir="ltr" lang="en">This is passenger</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب راكب</span> | <span class="example-en" dir="ltr" lang="en">I like passenger</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين راكب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the passenger?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت راكب قدام الملعب مع اللاصق الشفاف، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a passenger in front of the pitch with the clear tape, because the weather is a bit hot, and then I wrote a note</span> |
 
 

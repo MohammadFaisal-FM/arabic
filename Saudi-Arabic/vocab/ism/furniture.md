@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أثاث</span> | <span class="example-en" dir="ltr" lang="en">This is furniture</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أثاث</span> | <span class="example-en" dir="ltr" lang="en">I like furniture</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أثاث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the furniture?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أثاث في المطبخ مع الملف الورقي، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a furniture in the kitchen with the paper file, before the driver arrives, and then I wiped the floor</span> |
 
 

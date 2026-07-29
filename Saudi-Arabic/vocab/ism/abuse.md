@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إساءة</span> | <span class="example-en" dir="ltr" lang="en">This is abuse</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إساءة</span> | <span class="example-en" dir="ltr" lang="en">I like abuse</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إساءة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the abuse?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إساءة الحين قدام الملعب، لأن الإضاءة أحسن هناك، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an abuse now in front of the pitch, because the light is better there, and I also took the clear tape</span> |
 
 

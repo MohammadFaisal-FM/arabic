@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كل يوم</span> | <span class="example-en" dir="ltr" lang="en">every day</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا يوم</span> | <span class="example-en" dir="ltr" lang="en">This is a day</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يوم</span> | <span class="example-en" dir="ltr" lang="en">I like day</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يوم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the day?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يوم في الصالون، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a day in the living room, but keep it near you, and then the phone rang</span> |
 
 

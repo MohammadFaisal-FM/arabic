@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خريطة الموقع</span> | <span class="example-en" dir="ltr" lang="en">This is sitemap</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خريطة الموقع</span> | <span class="example-en" dir="ltr" lang="en">I like sitemap</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خريطة الموقع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sitemap?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خريطة الموقع في الصالون مع المنديل النظيف، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a sitemap in the living room with the clean tissue, but keep it near you, and then I turned on the fan</span> |
 
 

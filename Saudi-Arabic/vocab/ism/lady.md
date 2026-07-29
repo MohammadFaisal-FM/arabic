@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سيدة</span> | <span class="example-en" dir="ltr" lang="en">This is lady</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سيدة</span> | <span class="example-en" dir="ltr" lang="en">I like lady</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سيدة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lady?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سيدة الحين تحت السرير، عشان ما يضيع، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a lady now under the bed, so it doesn’t get lost, and I also took the grey scarf</span> |
 
 

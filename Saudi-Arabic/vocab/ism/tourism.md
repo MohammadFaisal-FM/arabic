@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا السياحة</span> | <span class="example-en" dir="ltr" lang="en">This is tourism</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب السياحة</span> | <span class="example-en" dir="ltr" lang="en">I like tourism</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين السياحة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tourism?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت السياحة قدام المصعد، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a tourism in front of the elevator, but keep it near you, and then the boy slept</span> |
 
 

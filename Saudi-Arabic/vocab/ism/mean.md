@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يقصد</span> | <span class="example-en" dir="ltr" lang="en">This is mean</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يقصد</span> | <span class="example-en" dir="ltr" lang="en">I like mean</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يقصد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mean?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يقصد قدام التلفاز مع الجورب الأبيض، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a mean in front of the TV with the white sock, because guests are arriving, and then the phone rang</span> |
 
 

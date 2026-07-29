@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لويزيانا</span> | <span class="example-en" dir="ltr" lang="en">This is louisiana</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لويزيانا</span> | <span class="example-en" dir="ltr" lang="en">I like louisiana</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لويزيانا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the louisiana?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لويزيانا في المكتبة، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a louisiana in the library, because traffic is heavy, and then I charged the device</span> |
 
 

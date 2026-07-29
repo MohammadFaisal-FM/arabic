@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الاستخدام</span> | <span class="example-en" dir="ltr" lang="en">This is usage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الاستخدام</span> | <span class="example-en" dir="ltr" lang="en">I like usage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الاستخدام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the usage?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الاستخدام جنب المسجد، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an usage next to the mosque, so the photo comes out clearer, and then I drank some water</span> |
 
 

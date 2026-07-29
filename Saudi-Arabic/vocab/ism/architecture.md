@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بنيان</span> | <span class="example-en" dir="ltr" lang="en">This is architecture</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بنيان</span> | <span class="example-en" dir="ltr" lang="en">I like architecture</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بنيان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the architecture?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بنيان قدام الملعب، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put an architecture in front of the pitch, before the food gets cold, and then I wrote a note</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قوي</span> | <span class="example-en" dir="ltr" lang="en">This is powerful</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قوي</span> | <span class="example-en" dir="ltr" lang="en">I like powerful</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قوي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the powerful?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قوي في الحقيبة مع الحذاء النظيف، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a powerful in the bag with the clean shoes, before the driver arrives, and then I closed the window</span> |
 
 

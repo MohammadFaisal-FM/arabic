@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المنتديات</span> | <span class="example-en" dir="ltr" lang="en">This is forums</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المنتديات</span> | <span class="example-en" dir="ltr" lang="en">I like forums</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المنتديات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the forums?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المنتديات قدام الملعب مع اللاصق الشفاف، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a forums in front of the pitch with the clear tape, before the food gets cold, and then I washed my hands</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الكلمات الرئيسية</span> | <span class="example-en" dir="ltr" lang="en">This is keywords</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الكلمات الرئيسية</span> | <span class="example-en" dir="ltr" lang="en">I like keywords</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الكلمات الرئيسية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the keywords?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الكلمات الرئيسية عند الصيدلية مع الغطاء الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a keywords at the pharmacy with the clear cover, for studying tomorrow, and then I tidied the table</span> |
 
 

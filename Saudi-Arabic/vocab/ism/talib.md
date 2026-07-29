@@ -14,7 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أنا طالب</span> | <span class="example-en" dir="ltr" lang="en">I am a student</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت طالب في الصالون، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a student in the living room, so we make the appointment, and then the boy slept</span> |
 
 
 ### Links

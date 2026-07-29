@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شهور</span> | <span class="example-en" dir="ltr" lang="en">This is months</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شهور</span> | <span class="example-en" dir="ltr" lang="en">I like months</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شهور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the months?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شهور الحين في البقالة، عشان ما نتأخر، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a months now at the grocery, so we are not late, and I also took the long charger</span> |
 
 

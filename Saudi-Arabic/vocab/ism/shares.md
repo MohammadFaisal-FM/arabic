@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أسهم</span> | <span class="example-en" dir="ltr" lang="en">This is shares</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أسهم</span> | <span class="example-en" dir="ltr" lang="en">I like shares</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أسهم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the shares?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أسهم الحين قدام الملعب، لأن الإضاءة أحسن هناك، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a shares now in front of the pitch, because the light is better there, and I also took the clear tape</span> |
 
 

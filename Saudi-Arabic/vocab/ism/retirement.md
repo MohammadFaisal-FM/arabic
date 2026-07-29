@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التقاعد</span> | <span class="example-en" dir="ltr" lang="en">This is retirement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التقاعد</span> | <span class="example-en" dir="ltr" lang="en">I like retirement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التقاعد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the retirement?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج التقاعد الحين عند الباب، عشان الضيوف يوصلون، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a retirement now at the door, because guests are arriving, and I also took the brown wallet</span> |
 
 

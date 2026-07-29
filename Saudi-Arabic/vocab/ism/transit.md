@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عبور</span> | <span class="example-en" dir="ltr" lang="en">This is transit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عبور</span> | <span class="example-en" dir="ltr" lang="en">I like transit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عبور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the transit?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عبور الحين في المحطة، عشان نلحق الموعد، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a transit now at the station, so we make the appointment, and I also took the short cable</span> |
 
 

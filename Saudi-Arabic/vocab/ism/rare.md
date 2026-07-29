@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نادر</span> | <span class="example-en" dir="ltr" lang="en">This is rare</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نادر</span> | <span class="example-en" dir="ltr" lang="en">I like rare</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نادر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rare?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نادر الحين في المطبخ، قبل ما يقفل المكان، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a rare now in the kitchen, before the place closes, and I also took the paper file</span> |
 
 

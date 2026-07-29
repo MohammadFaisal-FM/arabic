@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ديلوكس</span> | <span class="example-en" dir="ltr" lang="en">This is deluxe</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ديلوكس</span> | <span class="example-en" dir="ltr" lang="en">I like deluxe</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ديلوكس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the deluxe?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ديلوكس في الثلاجة مع القبعة الصيفية، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a deluxe in the fridge with the summer hat, if you need it later, and then we prayed</span> |
 
 

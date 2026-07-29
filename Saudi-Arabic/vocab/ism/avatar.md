@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الصورة الرمزية</span> | <span class="example-en" dir="ltr" lang="en">This is avatar</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الصورة الرمزية</span> | <span class="example-en" dir="ltr" lang="en">I like avatar</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الصورة الرمزية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the avatar?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الصورة الرمزية تحت السرير، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an avatar under the bed, before Maghrib prayer, and then we laughed a bit</span> |
 
 

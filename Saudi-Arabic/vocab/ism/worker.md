@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عامل</span> | <span class="example-en" dir="ltr" lang="en">This is worker</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عامل</span> | <span class="example-en" dir="ltr" lang="en">I like worker</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عامل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the worker?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عامل الحين عند الصيدلية، عشان الدراسة بكرة، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a worker now at the pharmacy, for studying tomorrow, and I also took the clear cover</span> |
 
 

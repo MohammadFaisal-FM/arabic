@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">غيّر رأيك</span> | <span class="example-en" dir="ltr" lang="en">Change your mind</span> |
+| <span class="example-ar" dir="rtl" lang="ar">غيّر رأيك، ولقيت الدفتر الأزرق جنب النافذة، عشان ما يضيع، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">Change your mind, and I found the blue notebook beside the window, so it doesn’t get lost, and then I tidied the table</span> |
 
 
 ---

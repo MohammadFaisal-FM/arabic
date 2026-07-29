@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لديّ إحساس أني كنت هنا من قبل.</span> | <span class="example-en" dir="ltr" lang="en">I have a feeling I've been here before.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج احساس الحين قدام الملعب، إذا احتجته بعدين، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a sense now in front of the pitch, if you need it later, and I also took the clear tape</span> |
 
 

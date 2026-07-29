@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يؤجر</span> | <span class="example-en" dir="ltr" lang="en">This is hire</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يؤجر</span> | <span class="example-en" dir="ltr" lang="en">I like hire</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يؤجر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hire?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يؤجر في الصالون مع المنديل النظيف، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a hire in the living room with the clean tissue, because guests are arriving, and then the boy slept</span> |
 
 

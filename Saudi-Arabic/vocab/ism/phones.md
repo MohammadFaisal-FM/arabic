@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الهواتف</span> | <span class="example-en" dir="ltr" lang="en">This is phones</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الهواتف</span> | <span class="example-en" dir="ltr" lang="en">I like phones</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الهواتف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the phones?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الهواتف في الحقيبة، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a phones in the bag, before the place closes, and then I charged the device</span> |
 
 

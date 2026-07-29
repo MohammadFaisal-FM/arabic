@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملخص</span> | <span class="example-en" dir="ltr" lang="en">This is summary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملخص</span> | <span class="example-en" dir="ltr" lang="en">I like summary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملخص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the summary?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ملخص في الحقيبة مع الحذاء النظيف، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a summary in the bag with the clean shoes, before the place closes, and then I closed the window</span> |
 
 

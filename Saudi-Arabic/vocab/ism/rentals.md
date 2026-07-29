@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الإيجارات</span> | <span class="example-en" dir="ltr" lang="en">This is rentals</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الإيجارات</span> | <span class="example-en" dir="ltr" lang="en">I like rentals</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الإيجارات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rentals?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الإيجارات الحين جنب المسجد، لأن الوقت ضيق، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a rentals now next to the mosque, because time is tight, and I also took the pencil</span> |
 
 

@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">المحل قريب</span> | <span class="example-en" dir="ltr" lang="en">The store is nearby</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا محل</span> | <span class="example-en" dir="ltr" lang="en">This is a shop</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب محل</span> | <span class="example-en" dir="ltr" lang="en">I like shop</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين محل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the shop?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت محل جنب المسجد، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a shop next to the mosque, because the battery is low, and then we prayed</span> |
 
 

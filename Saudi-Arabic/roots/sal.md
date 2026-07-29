@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أسألك سؤال</span> | <span class="example-en" dir="ltr" lang="en">Can I ask you something?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أسألك سؤال، ولقيت النظارة الشمسية جنب البنك، عشان الضيوف يوصلون، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">Can I ask you something?, and I found the sunglasses next to the bank, because guests are arriving, and then we locked the door</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [سؤال](#ism/suwal) | <span class="example-ar" dir="rtl" lang="ar">عندي سؤال</span><br><span class="example-en" dir="ltr" lang="en">I have a question</span> |
+| اسم · ism (noun / other) | [سؤال](#ism/suwal) | <span class="example-ar" dir="rtl" lang="ar">حطّيت سؤال في المحطة، عشان الضيوف يوصلون، وبعدها نام الولد</span><br><span class="example-en" dir="ltr" lang="en">I put a question at the station, because guests are arriving, and then the boy slept</span> |
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الإعلانات المبوبة</span> | <span class="example-en" dir="ltr" lang="en">This is classifieds</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الإعلانات المبوبة</span> | <span class="example-en" dir="ltr" lang="en">I like classifieds</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الإعلانات المبوبة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the classifieds?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الإعلانات المبوبة الحين جنب البنك، قبل ما يجي السائق، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a classifieds now next to the bank, before the driver arrives, and I also took the empty bottle</span> |
 
 

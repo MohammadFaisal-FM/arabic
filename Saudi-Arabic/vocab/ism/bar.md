@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حاجِز</span> | <span class="example-en" dir="ltr" lang="en">This is bar</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حاجِز</span> | <span class="example-en" dir="ltr" lang="en">I like bar</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حاجِز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bar?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حاجِز قدام الملعب مع اللاصق الشفاف، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a bar in front of the pitch with the clear tape, because the weather is a bit hot, and then I wrote a note</span> |
 
 

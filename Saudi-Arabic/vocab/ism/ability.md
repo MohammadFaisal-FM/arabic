@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قدرة</span> | <span class="example-en" dir="ltr" lang="en">This is ability</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قدرة</span> | <span class="example-en" dir="ltr" lang="en">I like ability</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قدرة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ability?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قدرة الحين جنب النافذة، إذا احتجته بعدين، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need an ability now beside the window, if you need it later, and I also took the sunglasses</span> |
 
 

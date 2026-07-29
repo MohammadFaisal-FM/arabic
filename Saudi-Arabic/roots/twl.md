@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لا تطول</span> | <span class="example-en" dir="ltr" lang="en">Don’t take long</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لا تطول، ولقيت المقص الحاد قدام المصعد، لأن البطارية ضعيفة، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">Don’t take long, and I found the sharp scissors in front of the elevator, because the battery is low, and then I turned off the light</span> |
 
 
 ---

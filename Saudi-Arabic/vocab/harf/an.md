@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">عن الشغل</span> | <span class="example-en" dir="ltr" lang="en">about work</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن الموضوع بهدوء، وحطينا الشاحن الطويل في البقالة، عشان ما نتأخر</span> | <span class="example-en" dir="ltr" lang="en">We talked about the topic calmly, and put the long charger at the grocery, so we are not late</span> |
 

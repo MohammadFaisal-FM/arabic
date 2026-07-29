@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شيكاغو</span> | <span class="example-en" dir="ltr" lang="en">This is chicago</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شيكاغو</span> | <span class="example-en" dir="ltr" lang="en">I like chicago</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شيكاغو؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the chicago?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شيكاغو الحين في الغرفة، لأن الجو حار شوي، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a chicago now in the room, because the weather is a bit hot, and I also took the spare key</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا آلة تصوير</span> | <span class="example-en" dir="ltr" lang="en">This is camera</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب آلة تصوير</span> | <span class="example-en" dir="ltr" lang="en">I like camera</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين آلة تصوير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the camera?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج آلة تصوير الحين جنب النافذة، عشان الصورة تطلع أوضح، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a camera now beside the window, so the photo comes out clearer, and I also took the sunglasses</span> |
 
 

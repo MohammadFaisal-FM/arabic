@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا معجم</span> | <span class="example-en" dir="ltr" lang="en">This is glossary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب معجم</span> | <span class="example-en" dir="ltr" lang="en">I like glossary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين معجم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the glossary?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج معجم الحين جنب المسجد، إذا احتجته بعدين، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a glossary now next to the mosque, if you need it later, and I also took the pencil</span> |
 
 

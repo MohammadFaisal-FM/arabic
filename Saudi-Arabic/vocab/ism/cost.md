@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يكلف</span> | <span class="example-en" dir="ltr" lang="en">This is cost</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يكلف</span> | <span class="example-en" dir="ltr" lang="en">I like cost</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يكلف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cost?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يكلف الحين على المكتب، لأن الإضاءة أحسن هناك، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a cost now on the desk, because the light is better there, and I also took the light blanket</span> |
 
 

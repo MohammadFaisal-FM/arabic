@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا غاري</span> | <span class="example-en" dir="ltr" lang="en">This is gary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب غاري</span> | <span class="example-en" dir="ltr" lang="en">I like gary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين غاري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the gary?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت غاري في الدرج، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a gary in the drawer, for studying tomorrow, and then I tidied the table</span> |
 
 

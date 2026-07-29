@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا داخلي</span> | <span class="example-en" dir="ltr" lang="en">This is internal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب داخلي</span> | <span class="example-en" dir="ltr" lang="en">I like internal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين داخلي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the internal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت داخلي في المحطة مع الكابل القصير، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an internal at the station with the short cable, but keep it near you, and then the boy slept</span> |
 
 

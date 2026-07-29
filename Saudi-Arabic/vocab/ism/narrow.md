@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ضيق</span> | <span class="example-en" dir="ltr" lang="en">This is narrow</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ضيق</span> | <span class="example-en" dir="ltr" lang="en">I like narrow</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ضيق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the narrow?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ضيق تحت السرير مع الوشاح الرمادي، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a narrow under the bed with the grey scarf, before Maghrib prayer, and then I turned off the light</span> |
 
 

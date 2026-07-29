@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نوع</span> | <span class="example-en" dir="ltr" lang="en">This is sort</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نوع</span> | <span class="example-en" dir="ltr" lang="en">I like sort</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نوع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sort?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نوع الحين عند الاستقبال، قبل ما يجي السائق، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a sort now at reception, before the driver arrives, and I also took the glass cup</span> |
 
 

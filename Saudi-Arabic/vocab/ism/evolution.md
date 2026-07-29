@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تطور</span> | <span class="example-en" dir="ltr" lang="en">This is evolution</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تطور</span> | <span class="example-en" dir="ltr" lang="en">I like evolution</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تطور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the evolution?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تطور قدام الملعب مع اللاصق الشفاف، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an evolution in front of the pitch with the clear tape, because the light is better there, and then I wrote a note</span> |
 
 

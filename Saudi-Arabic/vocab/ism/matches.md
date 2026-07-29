@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مباريات</span> | <span class="example-en" dir="ltr" lang="en">This is matches</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مباريات</span> | <span class="example-en" dir="ltr" lang="en">I like matches</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مباريات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the matches?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مباريات في السيارة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a matches in the car, before Maghrib prayer, and then I turned off the light</span> |
 
 

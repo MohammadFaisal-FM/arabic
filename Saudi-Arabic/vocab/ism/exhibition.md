@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا معرض</span> | <span class="example-en" dir="ltr" lang="en">This is exhibition</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب معرض</span> | <span class="example-en" dir="ltr" lang="en">I like exhibition</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين معرض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the exhibition?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج معرض الحين عند الباب، عشان نلحق الموعد، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an exhibition now at the door, so we make the appointment, and I also took the brown wallet</span> |
 
 

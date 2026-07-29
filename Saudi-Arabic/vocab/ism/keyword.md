@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الكلمة الرئيسية</span> | <span class="example-en" dir="ltr" lang="en">This is keyword</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الكلمة الرئيسية</span> | <span class="example-en" dir="ltr" lang="en">I like keyword</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الكلمة الرئيسية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the keyword?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الكلمة الرئيسية الحين عند الصيدلية، قبل ما يبرد الأكل، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a keyword now at the pharmacy, before the food gets cold, and I also took the clear cover</span> |
 
 

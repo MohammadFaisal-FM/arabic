@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">قرب مني</span> | <span class="example-en" dir="ltr" lang="en">Come closer</span> |
+| <span class="example-ar" dir="rtl" lang="ar">قرب مني، ولقيت الزجاجة الفارغة في البقالة، عشان الدراسة بكرة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">Come closer, and I found the empty bottle at the grocery, for studying tomorrow, and then I charged the device</span> |
 
 
 ---

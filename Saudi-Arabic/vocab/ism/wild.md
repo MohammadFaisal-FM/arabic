@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بري</span> | <span class="example-en" dir="ltr" lang="en">This is wild</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بري</span> | <span class="example-en" dir="ltr" lang="en">I like wild</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wild?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بري الحين في المحطة، لأن الشغل خلص بدري، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a wild now at the station, because work finished early, and I also took the short cable</span> |
 
 

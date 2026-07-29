@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نواة</span> | <span class="example-en" dir="ltr" lang="en">This is kernel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نواة</span> | <span class="example-en" dir="ltr" lang="en">I like kernel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نواة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the kernel?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نواة قدام التلفاز، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a kernel in front of the TV, so we make the appointment, and then the phone rang</span> |
 
 

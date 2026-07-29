@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نفسه</span> | <span class="example-en" dir="ltr" lang="en">This is himself</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نفسه</span> | <span class="example-en" dir="ltr" lang="en">I like himself</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نفسه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the himself?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نفسه الحين في السيارة، عشان ما نتأخر، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a himself now in the car, so we are not late, and I also took the soft pillow</span> |
 
 

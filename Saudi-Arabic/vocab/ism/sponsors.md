@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الرعاة</span> | <span class="example-en" dir="ltr" lang="en">This is sponsors</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الرعاة</span> | <span class="example-en" dir="ltr" lang="en">I like sponsors</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الرعاة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sponsors?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الرعاة الحين في المكتبة، عشان المراجعة أسهل، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a sponsors now in the library, so revision is easier, and I also took the small spoon</span> |
 
 

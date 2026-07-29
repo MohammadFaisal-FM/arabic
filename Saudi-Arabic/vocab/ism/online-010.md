@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">سيستغرق إنهاء المشروع سنةً على الأقل.</span> | <span class="example-en" dir="ltr" lang="en">It will take at least a year to complete the project.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت انهاء على المكتب مع البطانية الخفيفة، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an ending on the desk with the light blanket, because the weather is a bit hot, and then I tidied the table</span> |
 
 

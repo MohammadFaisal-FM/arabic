@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الرسوم البيانية</span> | <span class="example-en" dir="ltr" lang="en">This is charts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الرسوم البيانية</span> | <span class="example-en" dir="ltr" lang="en">I like charts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الرسوم البيانية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the charts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الرسوم البيانية في المكتبة، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a charts in the library, so revision is easier, and then I wiped the floor</span> |
 
 

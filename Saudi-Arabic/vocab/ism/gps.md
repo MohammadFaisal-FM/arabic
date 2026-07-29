@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نظام تحديد المواقع</span> | <span class="example-en" dir="ltr" lang="en">This is gps</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نظام تحديد المواقع</span> | <span class="example-en" dir="ltr" lang="en">I like gps</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نظام تحديد المواقع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the gps?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نظام تحديد المواقع في السيارة، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a gps in the car, so we are not late, and then I replied to the message</span> |
 
 

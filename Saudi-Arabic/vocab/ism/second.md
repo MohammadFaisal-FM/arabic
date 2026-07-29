@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ثانية</span> | <span class="example-en" dir="ltr" lang="en">This is second</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ثانية</span> | <span class="example-en" dir="ltr" lang="en">I like second</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ثانية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the second?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ثانية عند العيادة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a second at the clinic, so the photo comes out clearer, and then we prayed</span> |
 
 

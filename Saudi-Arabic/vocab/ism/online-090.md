@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كنت أسير حول المدرسة.</span> | <span class="example-en" dir="ltr" lang="en">I was walking around the school.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اسير</span> | <span class="example-en" dir="ltr" lang="en">This is a prisoner</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اسير</span> | <span class="example-en" dir="ltr" lang="en">I like prisoner</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اسير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the prisoner?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">اسير كان/كانت قدام الملعب، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">a prisoner was in front of the pitch, for studying tomorrow, and then I wrote a note</span> |
 
 

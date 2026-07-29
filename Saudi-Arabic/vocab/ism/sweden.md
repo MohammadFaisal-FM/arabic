@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا السويد</span> | <span class="example-en" dir="ltr" lang="en">This is sweden</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب السويد</span> | <span class="example-en" dir="ltr" lang="en">I like sweden</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين السويد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sweden?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت السويد جنب النافذة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a sweden beside the window, so the photo comes out clearer, and then we locked the door</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مفيد</span> | <span class="example-en" dir="ltr" lang="en">This is useful</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مفيد</span> | <span class="example-en" dir="ltr" lang="en">I like useful</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مفيد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the useful?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مفيد الحين في السيارة، عشان ما نتأخر، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need an useful now in the car, so we are not late, and I also took the soft pillow</span> |
 
 

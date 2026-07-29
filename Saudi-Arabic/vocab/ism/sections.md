@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أقسام</span> | <span class="example-en" dir="ltr" lang="en">This is sections</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أقسام</span> | <span class="example-en" dir="ltr" lang="en">I like sections</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أقسام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sections?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أقسام الحين في الدرج، لأن الجو حار شوي، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a sections now in the drawer, because the weather is a bit hot, and I also took the blue notebook</span> |
 
 

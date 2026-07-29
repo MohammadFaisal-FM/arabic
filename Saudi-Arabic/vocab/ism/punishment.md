@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العقوبة</span> | <span class="example-en" dir="ltr" lang="en">This is punishment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العقوبة</span> | <span class="example-en" dir="ltr" lang="en">I like punishment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العقوبة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the punishment?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج العقوبة الحين في الحديقة، لأن الوقت ضيق، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a punishment now in the park, because time is tight, and I also took the old alarm</span> |
 
 

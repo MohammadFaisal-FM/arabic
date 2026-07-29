@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الاحتياجات</span> | <span class="example-en" dir="ltr" lang="en">This is needs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الاحتياجات</span> | <span class="example-en" dir="ltr" lang="en">I like needs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الاحتياجات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the needs?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الاحتياجات على المكتب، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a needs on the desk, for studying tomorrow, and then I wrote a note</span> |
 
 

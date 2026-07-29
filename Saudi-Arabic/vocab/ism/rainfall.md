@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا هطول الأمطار</span> | <span class="example-en" dir="ltr" lang="en">This is rainfall</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب هطول الأمطار</span> | <span class="example-en" dir="ltr" lang="en">I like rainfall</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين هطول الأمطار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rainfall?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت هطول الأمطار عند الاستقبال، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a rainfall at reception, before the driver arrives, and then I wiped the floor</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يولد</span> | <span class="example-en" dir="ltr" lang="en">This is generate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يولد</span> | <span class="example-en" dir="ltr" lang="en">I like generate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يولد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the generate?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يولد في السيارة مع الوسادة الناعمة، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a generate in the car with the soft pillow, because the boy is sleepy, and then I turned off the light</span> |
 
 

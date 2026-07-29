@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الحياة البرية</span> | <span class="example-en" dir="ltr" lang="en">This is wildlife</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الحياة البرية</span> | <span class="example-en" dir="ltr" lang="en">I like wildlife</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الحياة البرية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wildlife?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الحياة البرية الحين في الصالون، بس خلّه قريب منك، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a wildlife now in the living room, but keep it near you, and I also took the clean tissue</span> |
 
 

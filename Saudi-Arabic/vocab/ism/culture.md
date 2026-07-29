@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ثقافة</span> | <span class="example-en" dir="ltr" lang="en">This is culture</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ثقافة</span> | <span class="example-en" dir="ltr" lang="en">I like culture</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ثقافة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the culture?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ثقافة الحين في الحقيبة، قبل ما يجي السائق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a culture now in the bag, before the driver arrives, and I also took the clean shoes</span> |
 
 

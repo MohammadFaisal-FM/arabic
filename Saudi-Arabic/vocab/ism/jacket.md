@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سترة</span> | <span class="example-en" dir="ltr" lang="en">This is jacket</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سترة</span> | <span class="example-en" dir="ltr" lang="en">I like jacket</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سترة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jacket?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سترة في الحديقة مع المنبه القديميم، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a jacket in the park with the old alarm, because time is tight, and then we locked the door</span> |
 
 

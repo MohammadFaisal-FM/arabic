@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الرأس</span> | <span class="example-en" dir="ltr" lang="en">This is cape</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الرأس</span> | <span class="example-en" dir="ltr" lang="en">I like cape</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الرأس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cape?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الرأس عند الصيدلية مع الغطاء الشفاف، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a cape at the pharmacy with the clear cover, because the weather is a bit hot, and then I wrote a note</span> |
 
 

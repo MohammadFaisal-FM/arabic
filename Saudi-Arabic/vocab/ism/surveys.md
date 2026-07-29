@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المسوحات</span> | <span class="example-en" dir="ltr" lang="en">This is surveys</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المسوحات</span> | <span class="example-en" dir="ltr" lang="en">I like surveys</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المسوحات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the surveys?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المسوحات في الصالون مع المنديل النظيف، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a surveys in the living room with the clean tissue, but keep it near you, and then I turned on the fan</span> |
 
 

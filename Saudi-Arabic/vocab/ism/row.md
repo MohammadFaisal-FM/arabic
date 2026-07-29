@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صف</span> | <span class="example-en" dir="ltr" lang="en">This is row</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صف</span> | <span class="example-en" dir="ltr" lang="en">I like row</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the row?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج صف الحين على المكتب، قبل ما يبرد الأكل، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a row now on the desk, before the food gets cold, and I also took the light blanket</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بقايا</span> | <span class="example-en" dir="ltr" lang="en">This is remains</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بقايا</span> | <span class="example-en" dir="ltr" lang="en">I like remains</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بقايا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the remains?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بقايا على المكتب، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a remains on the desk, because the weather is a bit hot, and then I washed my hands</span> |
 
 

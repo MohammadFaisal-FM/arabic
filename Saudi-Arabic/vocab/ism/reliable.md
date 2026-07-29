@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موثوق</span> | <span class="example-en" dir="ltr" lang="en">This is reliable</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موثوق</span> | <span class="example-en" dir="ltr" lang="en">I like reliable</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موثوق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reliable?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت موثوق في الدرج، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a reliable in the drawer, because the light is better there, and then I wrote a note</span> |
 
 

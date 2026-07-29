@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رفاهية</span> | <span class="example-en" dir="ltr" lang="en">This is luxury</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رفاهية</span> | <span class="example-en" dir="ltr" lang="en">I like luxury</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رفاهية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the luxury?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رفاهية جنب المسجد مع القلم الرصاص، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a luxury next to the mosque with the pencil, if you need it later, and then I drank some water</span> |
 
 

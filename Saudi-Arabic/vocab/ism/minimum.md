@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الحد الأدنى</span> | <span class="example-en" dir="ltr" lang="en">This is minimum</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الحد الأدنى</span> | <span class="example-en" dir="ltr" lang="en">I like minimum</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الحد الأدنى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the minimum?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الحد الأدنى في الدرج مع الدفتر الأزرق، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a minimum in the drawer with the blue notebook, for studying tomorrow, and then I wrote a note</span> |
 
 

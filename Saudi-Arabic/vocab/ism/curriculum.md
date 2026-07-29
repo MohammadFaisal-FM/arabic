@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مقرر</span> | <span class="example-en" dir="ltr" lang="en">This is curriculum</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مقرر</span> | <span class="example-en" dir="ltr" lang="en">I like curriculum</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مقرر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the curriculum?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مقرر الحين جنب النافذة، لأن الوقت ضيق، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a curriculum now beside the window, because time is tight, and I also took the sunglasses</span> |
 
 

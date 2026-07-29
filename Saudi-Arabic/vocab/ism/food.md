@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طعام</span> | <span class="example-en" dir="ltr" lang="en">This is food</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طعام</span> | <span class="example-en" dir="ltr" lang="en">I like food</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طعام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the food?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت طعام في الدرج، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a food in the drawer, before the food gets cold, and then I washed my hands</span> |
 
 

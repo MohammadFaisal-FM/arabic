@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا النمسا</span> | <span class="example-en" dir="ltr" lang="en">This is austria</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب النمسا</span> | <span class="example-en" dir="ltr" lang="en">I like austria</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين النمسا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the austria?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت النمسا في الدرج مع الدفتر الأزرق، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found an austria in the drawer with the blue notebook, because the weather is a bit hot, and then I washed my hands</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خاص</span> | <span class="example-en" dir="ltr" lang="en">This is particular</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خاص</span> | <span class="example-en" dir="ltr" lang="en">I like particular</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خاص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the particular?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت خاص جنب المسجد، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a particular next to the mosque, because time is tight, and then we locked the door</span> |
 
 

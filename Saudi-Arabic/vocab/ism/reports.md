@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التقارير</span> | <span class="example-en" dir="ltr" lang="en">This is reports</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التقارير</span> | <span class="example-en" dir="ltr" lang="en">I like reports</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التقارير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reports?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج التقارير الحين في المدرسة، قبل صلاة المغرب، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a reports now at school, before Maghrib prayer, and I also took the sharp scissors</span> |
 
 

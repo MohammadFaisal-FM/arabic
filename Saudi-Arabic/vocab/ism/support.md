@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يدعم</span> | <span class="example-en" dir="ltr" lang="en">This is support</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يدعم</span> | <span class="example-en" dir="ltr" lang="en">I like support</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يدعم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the support?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يدعم في المحطة، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a support at the station, because work finished early, and then the phone rang</span> |
 
 

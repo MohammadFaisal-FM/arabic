@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أوهايو</span> | <span class="example-en" dir="ltr" lang="en">This is ohio</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أوهايو</span> | <span class="example-en" dir="ltr" lang="en">I like ohio</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أوهايو؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ohio?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أوهايو جنب النافذة مع النظارة الشمسية، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an ohio beside the window with the sunglasses, because the battery is low, and then we prayed</span> |
 
 

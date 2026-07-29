@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التخصص</span> | <span class="example-en" dir="ltr" lang="en">This is specialty</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التخصص</span> | <span class="example-en" dir="ltr" lang="en">I like specialty</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التخصص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the specialty?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التخصص عند العيادة مع الدباسة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a specialty at the clinic with the stapler, so the photo comes out clearer, and then we locked the door</span> |
 
 

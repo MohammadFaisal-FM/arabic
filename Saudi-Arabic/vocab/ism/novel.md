@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رواية</span> | <span class="example-en" dir="ltr" lang="en">This is novel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رواية</span> | <span class="example-en" dir="ltr" lang="en">I like novel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رواية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the novel?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رواية في السيارة مع الوسادة الناعمة، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a novel in the car with the soft pillow, because the boy is sleepy, and then I turned off the light</span> |
 
 

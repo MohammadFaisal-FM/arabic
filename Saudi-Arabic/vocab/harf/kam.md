@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كم السعر؟</span> | <span class="example-en" dir="ltr" lang="en">How much is the price?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «كم» في الجملة، وحطينا الكرتون الفاضي قدام المصعد، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">We used “كم” (how many / how much) in the sentence, and put the empty carton in front of the elevator, but keep it near you, and then I turned on the fan</span> |
 

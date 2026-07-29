@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اورليانز</span> | <span class="example-en" dir="ltr" lang="en">This is orleans</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اورليانز</span> | <span class="example-en" dir="ltr" lang="en">I like orleans</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اورليانز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the orleans?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اورليانز في السيارة، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put an orleans in the car, so we are not late, and then I replied to the message</span> |
 
 

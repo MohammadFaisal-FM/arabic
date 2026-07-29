@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أنت الواحد والوحيد الذي يستطيع إنقاذ العالم.</span> | <span class="example-en" dir="ltr" lang="en">You are the one and only one who can save the world.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت انقاذ جنب النافذة مع النظارة الشمسية، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a rescue beside the window with the sunglasses, because time is tight, and then we locked the door</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الثلاثاء</span> | <span class="example-en" dir="ltr" lang="en">This is tue</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الثلاثاء</span> | <span class="example-en" dir="ltr" lang="en">I like tue</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الثلاثاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tue?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الثلاثاء الحين عند العيادة، لأن البطارية ضعيفة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a tue now at the clinic, because the battery is low, and I also took the stapler</span> |
 
 

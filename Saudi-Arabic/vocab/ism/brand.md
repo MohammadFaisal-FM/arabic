@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ماركة</span> | <span class="example-en" dir="ltr" lang="en">This is brand</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ماركة</span> | <span class="example-en" dir="ltr" lang="en">I like brand</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ماركة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the brand?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ماركة في البقالة مع الشاحن الطويل، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a brand at the grocery with the long charger, before Maghrib prayer, and then we laughed a bit</span> |
 
 

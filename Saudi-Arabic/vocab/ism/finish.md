@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ينهي</span> | <span class="example-en" dir="ltr" lang="en">This is finish</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ينهي</span> | <span class="example-en" dir="ltr" lang="en">I like finish</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ينهي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the finish?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ينهي عند العيادة مع الدباسة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a finish at the clinic with the stapler, because time is tight, and then we prayed</span> |
 
 

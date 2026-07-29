@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا برج</span> | <span class="example-en" dir="ltr" lang="en">This is tower</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب برج</span> | <span class="example-en" dir="ltr" lang="en">I like tower</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين برج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tower?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت برج في الحقيبة، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a tower in the bag, because traffic is heavy, and then I wiped the floor</span> |
 
 

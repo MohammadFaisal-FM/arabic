@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملابس</span> | <span class="example-en" dir="ltr" lang="en">This is clothes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملابس</span> | <span class="example-en" dir="ltr" lang="en">I like clothes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملابس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the clothes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ملابس في المكتبة مع الملعقة الصغيرة، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a clothes in the library with the small spoon, before the place closes, and then I wiped the floor</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دقة</span> | <span class="example-en" dir="ltr" lang="en">This is resolution</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دقة</span> | <span class="example-en" dir="ltr" lang="en">I like resolution</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the resolution?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت دقة عند العيادة مع الدباسة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a resolution at the clinic with the stapler, because time is tight, and then we prayed</span> |
 
 

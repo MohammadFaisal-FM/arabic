@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شئ ما</span> | <span class="example-en" dir="ltr" lang="en">This is something</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شئ ما</span> | <span class="example-en" dir="ltr" lang="en">I like something</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شئ ما؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the something?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شئ ما جنب المسجد، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a something next to the mosque, so the photo comes out clearer, and then I drank some water</span> |
 
 

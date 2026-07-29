@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فنان</span> | <span class="example-en" dir="ltr" lang="en">This is artist</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فنان</span> | <span class="example-en" dir="ltr" lang="en">I like artist</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فنان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the artist?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فنان الحين قدام الملعب، لأن الجو حار شوي، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an artist now in front of the pitch, because the weather is a bit hot, and I also took the clear tape</span> |
 
 

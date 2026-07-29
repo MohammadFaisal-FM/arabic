@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أبي</span> | <span class="example-en" dir="ltr" lang="en">my dad</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا أب</span> | <span class="example-en" dir="ltr" lang="en">This is a father</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أب</span> | <span class="example-en" dir="ltr" lang="en">I like father</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the father?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن أب شوي، لأن الوقت ضيق، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a father a bit, because time is tight, and then I tidied the table</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا استفسار</span> | <span class="example-en" dir="ltr" lang="en">This is query</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب استفسار</span> | <span class="example-en" dir="ltr" lang="en">I like query</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين استفسار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the query?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت استفسار تحت السرير، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a query under the bed, so it doesn’t get lost, and then I turned off the light</span> |
 
 

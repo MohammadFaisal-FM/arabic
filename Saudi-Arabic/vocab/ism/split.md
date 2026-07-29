@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ينقسم</span> | <span class="example-en" dir="ltr" lang="en">This is split</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ينقسم</span> | <span class="example-en" dir="ltr" lang="en">I like split</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ينقسم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the split?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ينقسم الحين في المكتبة، لأن الزحمة قوية، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a split now in the library, because traffic is heavy, and I also took the small spoon</span> |
 
 

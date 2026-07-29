@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مرآة</span> | <span class="example-en" dir="ltr" lang="en">This is mirror</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مرآة</span> | <span class="example-en" dir="ltr" lang="en">I like mirror</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مرآة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mirror?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مرآة جنب النافذة مع النظارة الشمسية، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a mirror beside the window with the sunglasses, if you need it later, and then we locked the door</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لندن</span> | <span class="example-en" dir="ltr" lang="en">This is london</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لندن</span> | <span class="example-en" dir="ltr" lang="en">I like london</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لندن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the london?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لندن في الصالون، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a london in the living room, because work finished early, and then the boy slept</span> |
 
 

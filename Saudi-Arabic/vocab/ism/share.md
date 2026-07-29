@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يشارك</span> | <span class="example-en" dir="ltr" lang="en">This is share</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يشارك</span> | <span class="example-en" dir="ltr" lang="en">I like share</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يشارك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the share?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يشارك في المطبخ مع الملف الورقي، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a share in the kitchen with the paper file, so revision is easier, and then I charged the device</span> |
 
 

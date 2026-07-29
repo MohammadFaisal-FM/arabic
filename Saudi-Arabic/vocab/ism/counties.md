@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المقاطعات</span> | <span class="example-en" dir="ltr" lang="en">This is counties</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المقاطعات</span> | <span class="example-en" dir="ltr" lang="en">I like counties</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المقاطعات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the counties?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المقاطعات الحين قدام الملعب، عشان الدراسة بكرة، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a counties now in front of the pitch, for studying tomorrow, and I also took the clear tape</span> |
 
 

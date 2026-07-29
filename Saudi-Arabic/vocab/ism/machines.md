@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا آلات</span> | <span class="example-en" dir="ltr" lang="en">This is machines</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب آلات</span> | <span class="example-en" dir="ltr" lang="en">I like machines</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين آلات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the machines?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج آلات الحين في الدرج، لأن الإضاءة أحسن هناك، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a machines now in the drawer, because the light is better there, and I also took the blue notebook</span> |
 
 

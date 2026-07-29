@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أي متصفح إنترنت تستخدم؟</span> | <span class="example-en" dir="ltr" lang="en">Which internet browser do you use?</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا إنترنت</span> | <span class="example-en" dir="ltr" lang="en">This is a internet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إنترنت</span> | <span class="example-en" dir="ltr" lang="en">I like internet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إنترنت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the internet?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إنترنت في الغرفة مع المفتاح الاحتياطي، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an internet in the room with the spare key, before the food gets cold, and then I wrote a note</span> |
 
 

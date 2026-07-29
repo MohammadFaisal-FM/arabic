@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صانع</span> | <span class="example-en" dir="ltr" lang="en">This is maker</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صانع</span> | <span class="example-en" dir="ltr" lang="en">I like maker</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صانع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the maker?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت صانع في المدرسة مع المقص الحاد، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a maker at school with the sharp scissors, so it doesn’t get lost, and then I replied to the message</span> |
 
 

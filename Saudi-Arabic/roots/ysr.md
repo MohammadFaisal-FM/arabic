@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">الله ييسّر</span> | <span class="example-en" dir="ltr" lang="en">May God make it easy</span> |
+| <span class="example-ar" dir="rtl" lang="ar">الله ييسّر، ولقيت اللاصق الشفاف في الحديقة، عشان ما يضيع، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">May God make it easy, and I found the clear tape in the park, so it doesn’t get lost, and then I washed my hands</span> |
 
 
 ---

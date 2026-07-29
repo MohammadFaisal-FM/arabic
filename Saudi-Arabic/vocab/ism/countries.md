@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بلدان</span> | <span class="example-en" dir="ltr" lang="en">This is countries</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بلدان</span> | <span class="example-en" dir="ltr" lang="en">I like countries</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بلدان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the countries?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بلدان في الصالون مع المنديل النظيف، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a countries in the living room with the clean tissue, because guests are arriving, and then the boy slept</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موتورولا</span> | <span class="example-en" dir="ltr" lang="en">This is motorola</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موتورولا</span> | <span class="example-en" dir="ltr" lang="en">I like motorola</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موتورولا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the motorola?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج موتورولا الحين في الحقيبة، قبل ما يجي السائق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a motorola now in the bag, before the driver arrives, and I also took the clean shoes</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جيب</span> | <span class="example-en" dir="ltr" lang="en">This is pocket</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جيب</span> | <span class="example-en" dir="ltr" lang="en">I like pocket</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جيب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pocket?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جيب في المحطة مع الكابل القصير، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a pocket at the station with the short cable, so we make the appointment, and then I turned on the fan</span> |
 
 

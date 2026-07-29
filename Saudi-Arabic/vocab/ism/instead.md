@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بدلاً من</span> | <span class="example-en" dir="ltr" lang="en">This is instead</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بدلاً من</span> | <span class="example-en" dir="ltr" lang="en">I like instead</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بدلاً من؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the instead?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بدلاً من في المحطة مع الكابل القصير، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found an instead at the station with the short cable, so we make the appointment, and then I turned on the fan</span> |
 
 

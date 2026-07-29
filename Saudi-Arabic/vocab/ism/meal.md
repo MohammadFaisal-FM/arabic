@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وجبة</span> | <span class="example-en" dir="ltr" lang="en">This is meal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وجبة</span> | <span class="example-en" dir="ltr" lang="en">I like meal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وجبة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the meal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت وجبة في الحقيبة مع الحذاء النظيف، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a meal in the bag with the clean shoes, before the place closes, and then I closed the window</span> |
 
 

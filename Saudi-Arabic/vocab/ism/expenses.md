@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نفقات</span> | <span class="example-en" dir="ltr" lang="en">This is expenses</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نفقات</span> | <span class="example-en" dir="ltr" lang="en">I like expenses</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نفقات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the expenses?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نفقات الحين في المدرسة، لأن الولد نعسان، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need an expenses now at school, because the boy is sleepy, and I also took the sharp scissors</span> |
 
 

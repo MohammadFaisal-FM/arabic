@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يتبع</span> | <span class="example-en" dir="ltr" lang="en">This is follows</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يتبع</span> | <span class="example-en" dir="ltr" lang="en">I like follows</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يتبع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the follows?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يتبع في السيارة مع الوسادة الناعمة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a follows in the car with the soft pillow, before Maghrib prayer, and then I replied to the message</span> |
 
 

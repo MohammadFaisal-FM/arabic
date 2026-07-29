@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كان سامي يخطّط لعمليّة اختطاف.</span> | <span class="example-en" dir="ltr" lang="en">Sami was planning a kidnapping.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اختطاف</span> | <span class="example-en" dir="ltr" lang="en">This is a abduction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اختطاف</span> | <span class="example-en" dir="ltr" lang="en">I like abduction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اختطاف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the abduction?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اختطاف الحين قدام التلفاز، عشان الضيوف يوصلون، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need an abduction now in front of the TV, because guests are arriving, and I also took the white sock</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العمال</span> | <span class="example-en" dir="ltr" lang="en">This is workers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العمال</span> | <span class="example-en" dir="ltr" lang="en">I like workers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العمال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the workers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت العمال جنب البنك، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a workers next to the bank, before the place closes, and then I charged the device</span> |
 
 

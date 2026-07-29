@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سكرتير</span> | <span class="example-en" dir="ltr" lang="en">This is secretary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سكرتير</span> | <span class="example-en" dir="ltr" lang="en">I like secretary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سكرتير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the secretary?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سكرتير عند الباب مع المحفظة البنية، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a secretary at the door with the brown wallet, because work finished early, and then the boy slept</span> |
 
 

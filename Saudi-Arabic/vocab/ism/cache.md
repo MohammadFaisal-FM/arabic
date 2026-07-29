@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مخبأ</span> | <span class="example-en" dir="ltr" lang="en">This is cache</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مخبأ</span> | <span class="example-en" dir="ltr" lang="en">I like cache</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مخبأ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cache?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مخبأ الحين في الغرفة، لأن الجو حار شوي، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a cache now in the room, because the weather is a bit hot, and I also took the spare key</span> |
 
 

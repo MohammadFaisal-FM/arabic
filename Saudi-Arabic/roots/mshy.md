@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أمشي كل يوم</span> | <span class="example-en" dir="ltr" lang="en">I walk every day</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أمشي كل يوم، ولقيت الحذاء النظيف في المدرسة، لأن الإضاءة أحسن هناك، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I walk every day, and I found the clean shoes at school, because the light is better there, and then I wiped the floor</span> |
 
 
 ---

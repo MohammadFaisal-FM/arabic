@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إذاعة</span> | <span class="example-en" dir="ltr" lang="en">This is broadcast</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إذاعة</span> | <span class="example-en" dir="ltr" lang="en">I like broadcast</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إذاعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the broadcast?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إذاعة في المكتبة مع الملعقة الصغيرة، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a broadcast in the library with the small spoon, because traffic is heavy, and then I closed the window</span> |
 
 

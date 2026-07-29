@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دي في دي</span> | <span class="example-en" dir="ltr" lang="en">This is dvd</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دي في دي</span> | <span class="example-en" dir="ltr" lang="en">I like dvd</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دي في دي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dvd?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت دي في دي في المكتبة مع الملعقة الصغيرة، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a dvd in the library with the small spoon, because traffic is heavy, and then I closed the window</span> |
 
 

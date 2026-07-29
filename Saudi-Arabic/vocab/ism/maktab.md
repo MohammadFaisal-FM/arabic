@@ -14,7 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">في المكتب</span> | <span class="example-en" dir="ltr" lang="en">In the office</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مكتب عند الباب، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put an office at the door, so we make the appointment, and then I turned on the fan</span> |
 
 
 ### Links

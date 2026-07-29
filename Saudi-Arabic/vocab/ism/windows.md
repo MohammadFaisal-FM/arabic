@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ويندوز</span> | <span class="example-en" dir="ltr" lang="en">This is windows</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ويندوز</span> | <span class="example-en" dir="ltr" lang="en">I like windows</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ويندوز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the windows?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ويندوز تحت السرير مع الوشاح الرمادي، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a windows under the bed with the grey scarf, so it doesn’t get lost, and then I replied to the message</span> |
 
 

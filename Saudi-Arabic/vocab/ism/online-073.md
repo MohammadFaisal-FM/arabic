@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هناك إضراب.</span> | <span class="example-en" dir="ltr" lang="en">There is a strike.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اضراب</span> | <span class="example-en" dir="ltr" lang="en">This is a strike</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اضراب</span> | <span class="example-en" dir="ltr" lang="en">I like strike</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اضراب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the strike?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اضراب الحين في الثلاجة، إذا احتجته بعدين، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a strike now in the fridge, if you need it later, and I also took the summer hat</span> |
 
 

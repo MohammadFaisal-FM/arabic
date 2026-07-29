@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قراءة</span> | <span class="example-en" dir="ltr" lang="en">This is reading</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قراءة</span> | <span class="example-en" dir="ltr" lang="en">I like reading</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قراءة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reading?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قراءة الحين عند الباب، عشان الضيوف يوصلون، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a reading now at the door, because guests are arriving, and I also took the brown wallet</span> |
 
 

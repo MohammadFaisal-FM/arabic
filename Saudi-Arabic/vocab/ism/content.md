@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا محتوى</span> | <span class="example-en" dir="ltr" lang="en">This is content</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب محتوى</span> | <span class="example-en" dir="ltr" lang="en">I like content</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين محتوى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the content?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت محتوى في الثلاجة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a content in the fridge, if you need it later, and then I drank some water</span> |
 
 

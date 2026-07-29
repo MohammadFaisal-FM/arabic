@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ورشة عمل</span> | <span class="example-en" dir="ltr" lang="en">This is workshop</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ورشة عمل</span> | <span class="example-en" dir="ltr" lang="en">I like workshop</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ورشة عمل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the workshop?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ورشة عمل في المطبخ مع الملف الورقي، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a workshop in the kitchen with the paper file, because traffic is heavy, and then I closed the window</span> |
 
 

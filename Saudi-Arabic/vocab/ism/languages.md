@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اللغات</span> | <span class="example-en" dir="ltr" lang="en">This is languages</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اللغات</span> | <span class="example-en" dir="ltr" lang="en">I like languages</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اللغات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the languages?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اللغات على الشرفة مع البطاقة الصفراء، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a languages on the balcony with the yellow card, before Maghrib prayer, and then I replied to the message</span> |
 
 

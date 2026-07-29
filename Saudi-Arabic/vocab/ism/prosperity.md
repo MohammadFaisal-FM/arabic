@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ازدهار</span> | <span class="example-en" dir="ltr" lang="en">This is prosperity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ازدهار</span> | <span class="example-en" dir="ltr" lang="en">I like prosperity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ازدهار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the prosperity?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ازدهار في الحقيبة، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a prosperity in the bag, because traffic is heavy, and then I wiped the floor</span> |
 
 

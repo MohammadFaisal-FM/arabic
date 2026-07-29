@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">في البيت</span> | <span class="example-en" dir="ltr" lang="en">at home</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا بيت</span> | <span class="example-en" dir="ltr" lang="en">This is a house</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بيت</span> | <span class="example-en" dir="ltr" lang="en">I like house</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بيت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the house?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بيت في الغرفة مع المفتاح الاحتياطي، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a house in the room with the spare key, because the light is better there, and then I tidied the table</span> |
 
 

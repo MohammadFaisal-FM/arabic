@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يفتقد</span> | <span class="example-en" dir="ltr" lang="en">This is miss</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يفتقد</span> | <span class="example-en" dir="ltr" lang="en">I like miss</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يفتقد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the miss?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يفتقد في المطبخ، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a miss in the kitchen, before the driver arrives, and then I closed the window</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مناقشة</span> | <span class="example-en" dir="ltr" lang="en">This is discussion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مناقشة</span> | <span class="example-en" dir="ltr" lang="en">I like discussion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مناقشة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the discussion?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مناقشة جنب النافذة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a discussion beside the window, if you need it later, and then we prayed</span> |
 
 

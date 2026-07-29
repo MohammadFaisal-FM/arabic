@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مسابقة</span> | <span class="example-en" dir="ltr" lang="en">This is competition</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مسابقة</span> | <span class="example-en" dir="ltr" lang="en">I like competition</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مسابقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the competition?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مسابقة الحين قدام الملعب، قبل ما يبرد الأكل، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a competition now in front of the pitch, before the food gets cold, and I also took the clear tape</span> |
 
 

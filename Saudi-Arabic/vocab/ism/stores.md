@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مخازن</span> | <span class="example-en" dir="ltr" lang="en">This is stores</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مخازن</span> | <span class="example-en" dir="ltr" lang="en">I like stores</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مخازن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the stores?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مخازن قدام الملعب مع اللاصق الشفاف، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a stores in front of the pitch with the clear tape, because the light is better there, and then I wrote a note</span> |
 
 

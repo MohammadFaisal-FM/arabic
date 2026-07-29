@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مواصفة</span> | <span class="example-en" dir="ltr" lang="en">This is specification</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مواصفة</span> | <span class="example-en" dir="ltr" lang="en">I like specification</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مواصفة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the specification?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مواصفة في المحطة مع الكابل القصير، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a specification at the station with the short cable, because work finished early, and then I turned on the fan</span> |
 
 

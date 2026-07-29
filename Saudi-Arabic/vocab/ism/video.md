@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فيديو</span> | <span class="example-en" dir="ltr" lang="en">This is video</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فيديو</span> | <span class="example-en" dir="ltr" lang="en">I like video</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فيديو؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the video?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فيديو عند العيادة مع الدباسة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a video at the clinic with the stapler, so the photo comes out clearer, and then we locked the door</span> |
 
 

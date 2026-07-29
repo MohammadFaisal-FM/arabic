@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عميق</span> | <span class="example-en" dir="ltr" lang="en">This is deep</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عميق</span> | <span class="example-en" dir="ltr" lang="en">I like deep</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عميق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the deep?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عميق في البقالة مع الشاحن الطويل، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a deep at the grocery with the long charger, so we are not late, and then I turned off the light</span> |
 
 

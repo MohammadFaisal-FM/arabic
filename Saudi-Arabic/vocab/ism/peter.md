@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بيتر</span> | <span class="example-en" dir="ltr" lang="en">This is peter</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بيتر</span> | <span class="example-en" dir="ltr" lang="en">I like peter</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بيتر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the peter?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بيتر الحين في الدرج، لأن الجو حار شوي، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a peter now in the drawer, because the weather is a bit hot, and I also took the blue notebook</span> |
 
 

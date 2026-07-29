@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تعديل</span> | <span class="example-en" dir="ltr" lang="en">This is amendment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تعديل</span> | <span class="example-en" dir="ltr" lang="en">I like amendment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تعديل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the amendment?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تعديل في المكتبة مع الملعقة الصغيرة، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an amendment in the library with the small spoon, because traffic is heavy, and then I closed the window</span> |
 
 

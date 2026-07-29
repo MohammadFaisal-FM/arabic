@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قوة</span> | <span class="example-en" dir="ltr" lang="en">This is strength</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قوة</span> | <span class="example-en" dir="ltr" lang="en">I like strength</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قوة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the strength?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قوة في الحديقة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a strength in the park, so the photo comes out clearer, and then we locked the door</span> |
 
 

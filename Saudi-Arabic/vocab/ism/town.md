@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بلدة</span> | <span class="example-en" dir="ltr" lang="en">This is town</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بلدة</span> | <span class="example-en" dir="ltr" lang="en">I like town</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بلدة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the town?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بلدة في المدرسة مع المقص الحاد، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a town at school with the sharp scissors, before Maghrib prayer, and then I turned off the light</span> |
 
 

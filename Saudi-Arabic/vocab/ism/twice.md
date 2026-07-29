@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مرتين</span> | <span class="example-en" dir="ltr" lang="en">This is twice</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مرتين</span> | <span class="example-en" dir="ltr" lang="en">I like twice</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مرتين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the twice?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مرتين الحين في الغرفة، قبل ما يبرد الأكل، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a twice now in the room, before the food gets cold, and I also took the spare key</span> |
 
 

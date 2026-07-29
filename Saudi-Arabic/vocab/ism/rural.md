@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ريفي</span> | <span class="example-en" dir="ltr" lang="en">This is rural</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ريفي</span> | <span class="example-en" dir="ltr" lang="en">I like rural</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ريفي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rural?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ريفي الحين في المكتبة، قبل ما يقفل المكان، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a rural now in the library, before the place closes, and I also took the small spoon</span> |
 
 

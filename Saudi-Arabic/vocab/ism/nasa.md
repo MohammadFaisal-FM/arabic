@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ناسا</span> | <span class="example-en" dir="ltr" lang="en">This is nasa</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ناسا</span> | <span class="example-en" dir="ltr" lang="en">I like nasa</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ناسا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the nasa?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ناسا في المكتبة مع الملعقة الصغيرة، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a nasa in the library with the small spoon, before the place closes, and then I wiped the floor</span> |
 
 

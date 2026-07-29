@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سيد</span> | <span class="example-en" dir="ltr" lang="en">This is sir</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سيد</span> | <span class="example-en" dir="ltr" lang="en">I like sir</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سيد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sir?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سيد الحين جنب المسجد، لأن الوقت ضيق، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a sir now next to the mosque, because time is tight, and I also took the pencil</span> |
 
 

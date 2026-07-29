@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يوفر</span> | <span class="example-en" dir="ltr" lang="en">This is provides</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يوفر</span> | <span class="example-en" dir="ltr" lang="en">I like provides</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يوفر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the provides?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يوفر الحين في الغرفة، عشان الدراسة بكرة، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a provides now in the room, for studying tomorrow, and I also took the spare key</span> |
 
 

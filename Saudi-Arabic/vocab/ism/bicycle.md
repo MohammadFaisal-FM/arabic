@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دراجة</span> | <span class="example-en" dir="ltr" lang="en">This is bicycle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دراجة</span> | <span class="example-en" dir="ltr" lang="en">I like bicycle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دراجة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bicycle?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج دراجة الحين عند الاستقبال، عشان المراجعة أسهل، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a bicycle now at reception, so revision is easier, and I also took the glass cup</span> |
 
 

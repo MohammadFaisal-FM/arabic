@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا آباء</span> | <span class="example-en" dir="ltr" lang="en">This is parents</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب آباء</span> | <span class="example-en" dir="ltr" lang="en">I like parents</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين آباء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the parents?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج آباء الحين جنب البنك، لأن الزحمة قوية، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a parents now next to the bank, because traffic is heavy, and I also took the empty bottle</span> |
 
 

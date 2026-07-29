@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أُوكَازيُون</span> | <span class="example-en" dir="ltr" lang="en">This is sale</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أُوكَازيُون</span> | <span class="example-en" dir="ltr" lang="en">I like sale</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أُوكَازيُون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sale?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أُوكَازيُون قدام المصعد، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a sale in front of the elevator, because guests are arriving, and then the phone rang</span> |
 
 

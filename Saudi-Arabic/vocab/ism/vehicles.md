@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المركبات</span> | <span class="example-en" dir="ltr" lang="en">This is vehicles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المركبات</span> | <span class="example-en" dir="ltr" lang="en">I like vehicles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المركبات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the vehicles?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المركبات في المحطة مع الكابل القصير، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a vehicles at the station with the short cable, but keep it near you, and then the boy slept</span> |
 
 

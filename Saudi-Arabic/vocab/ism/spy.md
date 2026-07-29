@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جاسوس</span> | <span class="example-en" dir="ltr" lang="en">This is spy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جاسوس</span> | <span class="example-en" dir="ltr" lang="en">I like spy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جاسوس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the spy?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جاسوس الحين في البقالة، قبل صلاة المغرب، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a spy now at the grocery, before Maghrib prayer, and I also took the long charger</span> |
 
 

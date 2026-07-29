@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لاحظ محقّقوا الشّرطة آثارة للسّحب على الأرض.</span> | <span class="example-en" dir="ltr" lang="en">Police investigators noticed drag marks on the ground.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اثاره في الصالون مع الملعقة الصغيرة، قبل صلاة المغرب، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a stir in the living room with the small spoon, before Maghrib prayer, and then I turned on the fan</span> |
 
 

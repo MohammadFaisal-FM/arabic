@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تم إشعار الجميع.</span> | <span class="example-en" dir="ltr" lang="en">Everyone has been notified.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اشعار</span> | <span class="example-en" dir="ltr" lang="en">This is a notice</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اشعار</span> | <span class="example-en" dir="ltr" lang="en">I like notice</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اشعار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the notice?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اشعار الحين جنب النافذة، عشان الصورة تطلع أوضح، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a notice now beside the window, so the photo comes out clearer, and I also took the sunglasses</span> |
 
 

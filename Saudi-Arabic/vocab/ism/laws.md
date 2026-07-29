@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا القوانين</span> | <span class="example-en" dir="ltr" lang="en">This is laws</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب القوانين</span> | <span class="example-en" dir="ltr" lang="en">I like laws</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين القوانين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the laws?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت القوانين في الدرج، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a laws in the drawer, because the weather is a bit hot, and then I wrote a note</span> |
 
 

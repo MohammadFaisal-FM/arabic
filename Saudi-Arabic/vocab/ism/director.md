@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مخرج</span> | <span class="example-en" dir="ltr" lang="en">This is director</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مخرج</span> | <span class="example-en" dir="ltr" lang="en">I like director</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مخرج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the director?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مخرج في الحقيبة، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a director in the bag, before the driver arrives, and then I charged the device</span> |
 
 

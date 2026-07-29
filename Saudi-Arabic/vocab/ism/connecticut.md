@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كونيتيكت</span> | <span class="example-en" dir="ltr" lang="en">This is connecticut</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كونيتيكت</span> | <span class="example-en" dir="ltr" lang="en">I like connecticut</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كونيتيكت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the connecticut?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كونيتيكت في الثلاجة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a connecticut in the fridge, if you need it later, and then I drank some water</span> |
 
 

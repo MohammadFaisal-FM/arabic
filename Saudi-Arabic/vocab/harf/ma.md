@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ما أبي</span> | <span class="example-en" dir="ltr" lang="en">I don’t want</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ما لقيت الزجاجة الفارغة أول، بعدين لقيته جنب البنك، عشان المراجعة أسهل</span> | <span class="example-en" dir="ltr" lang="en">I didn’t find the empty bottle at first, then I found it next to the bank, so revision is easier</span> |
 

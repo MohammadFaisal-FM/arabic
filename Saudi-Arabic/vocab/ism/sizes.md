@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأحجام</span> | <span class="example-en" dir="ltr" lang="en">This is sizes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأحجام</span> | <span class="example-en" dir="ltr" lang="en">I like sizes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأحجام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sizes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأحجام الحين على الشرفة، عشان ما يضيع، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a sizes now on the balcony, so it doesn’t get lost, and I also took the yellow card</span> |
 
 

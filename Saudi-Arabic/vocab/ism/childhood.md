@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طفولة</span> | <span class="example-en" dir="ltr" lang="en">This is childhood</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طفولة</span> | <span class="example-en" dir="ltr" lang="en">I like childhood</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طفولة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the childhood?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">طفولة كان/كانت تحت السرير، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">a childhood was under the bed, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

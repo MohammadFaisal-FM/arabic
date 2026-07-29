@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طبخ</span> | <span class="example-en" dir="ltr" lang="en">This is cooking</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طبخ</span> | <span class="example-en" dir="ltr" lang="en">I like cooking</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طبخ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cooking?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج طبخ الحين عند الصيدلية، قبل ما يبرد الأكل، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a cooking now at the pharmacy, before the food gets cold, and I also took the clear cover</span> |
 
 

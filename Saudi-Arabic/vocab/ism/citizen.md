@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مواطن</span> | <span class="example-en" dir="ltr" lang="en">This is citizen</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مواطن</span> | <span class="example-en" dir="ltr" lang="en">I like citizen</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مواطن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the citizen?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مواطن جنب المسجد مع القلم الرصاص، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a citizen next to the mosque with the pencil, because time is tight, and then I drank some water</span> |
 
 

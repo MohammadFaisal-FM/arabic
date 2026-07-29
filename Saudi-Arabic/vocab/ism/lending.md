@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الإقراض</span> | <span class="example-en" dir="ltr" lang="en">This is lending</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الإقراض</span> | <span class="example-en" dir="ltr" lang="en">I like lending</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الإقراض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lending?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الإقراض عند العيادة مع الدباسة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a lending at the clinic with the stapler, so the photo comes out clearer, and then we locked the door</span> |
 
 

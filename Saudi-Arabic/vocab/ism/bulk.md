@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حجم كبير</span> | <span class="example-en" dir="ltr" lang="en">This is bulk</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حجم كبير</span> | <span class="example-en" dir="ltr" lang="en">I like bulk</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حجم كبير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bulk?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حجم كبير في الصالون، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a bulk in the living room, so we make the appointment, and then the boy slept</span> |
 
 

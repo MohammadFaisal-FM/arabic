@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شاي أو قهوة</span> | <span class="example-en" dir="ltr" lang="en">tea or coffee</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تبغى شاي أو قهوة؟ خلّ الدباسة عند العيادة لين تقرر</span> | <span class="example-en" dir="ltr" lang="en">Do you want tea or coffee? Leave the stapler at the clinic until you decide</span> |
 

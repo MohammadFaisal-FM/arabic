@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الموانئ</span> | <span class="example-en" dir="ltr" lang="en">This is ports</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الموانئ</span> | <span class="example-en" dir="ltr" lang="en">I like ports</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الموانئ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ports?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الموانئ الحين عند الباب، بس خلّه قريب منك، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a ports now at the door, but keep it near you, and I also took the brown wallet</span> |
 
 

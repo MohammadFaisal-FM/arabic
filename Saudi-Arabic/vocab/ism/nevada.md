@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نيفادا</span> | <span class="example-en" dir="ltr" lang="en">This is nevada</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نيفادا</span> | <span class="example-en" dir="ltr" lang="en">I like nevada</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نيفادا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the nevada?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نيفادا الحين على الشرفة، لأن الولد نعسان، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a nevada now on the balcony, because the boy is sleepy, and I also took the yellow card</span> |
 
 

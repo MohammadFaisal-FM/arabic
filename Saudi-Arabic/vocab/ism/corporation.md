@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مؤسَّسة</span> | <span class="example-en" dir="ltr" lang="en">This is corporation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مؤسَّسة</span> | <span class="example-en" dir="ltr" lang="en">I like corporation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مؤسَّسة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the corporation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مؤسَّسة الحين في الصالون، عشان نلحق الموعد، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a corporation now in the living room, so we make the appointment, and I also took the clean tissue</span> |
 
 

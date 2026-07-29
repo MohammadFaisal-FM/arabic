@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قاعدة البيانات</span> | <span class="example-en" dir="ltr" lang="en">This is database</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قاعدة البيانات</span> | <span class="example-en" dir="ltr" lang="en">I like database</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قاعدة البيانات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the database?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قاعدة البيانات الحين جنب المسجد، لأن البطارية ضعيفة، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a database now next to the mosque, because the battery is low, and I also took the pencil</span> |
 
 

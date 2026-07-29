@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فرع</span> | <span class="example-en" dir="ltr" lang="en">This is branch</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فرع</span> | <span class="example-en" dir="ltr" lang="en">I like branch</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فرع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the branch?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فرع على الشرفة مع البطاقة الصفراء، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a branch on the balcony with the yellow card, so we are not late, and then we laughed a bit</span> |
 
 

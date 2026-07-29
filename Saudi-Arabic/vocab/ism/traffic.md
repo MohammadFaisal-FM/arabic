@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مرور</span> | <span class="example-en" dir="ltr" lang="en">This is traffic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مرور</span> | <span class="example-en" dir="ltr" lang="en">I like traffic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مرور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the traffic?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مرور الحين جنب المسجد، عشان الصورة تطلع أوضح، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a traffic now next to the mosque, so the photo comes out clearer, and I also took the pencil</span> |
 
 

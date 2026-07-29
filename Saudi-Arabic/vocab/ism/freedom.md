@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حرية</span> | <span class="example-en" dir="ltr" lang="en">This is freedom</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حرية</span> | <span class="example-en" dir="ltr" lang="en">I like freedom</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حرية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the freedom?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حرية في المدرسة مع المقص الحاد، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a freedom at school with the sharp scissors, so we are not late, and then I replied to the message</span> |
 
 

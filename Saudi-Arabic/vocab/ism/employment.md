@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا توظيف</span> | <span class="example-en" dir="ltr" lang="en">This is employment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب توظيف</span> | <span class="example-en" dir="ltr" lang="en">I like employment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين توظيف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the employment?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج توظيف الحين في الحديقة، عشان الصورة تطلع أوضح، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need an employment now in the park, so the photo comes out clearer, and I also took the old alarm</span> |
 
 

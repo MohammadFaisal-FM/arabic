@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا البيولوجية</span> | <span class="example-en" dir="ltr" lang="en">This is biological</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب البيولوجية</span> | <span class="example-en" dir="ltr" lang="en">I like biological</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين البيولوجية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the biological?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج البيولوجية الحين في الصالون، عشان الضيوف يوصلون، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a biological now in the living room, because guests are arriving, and I also took the clean tissue</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يبحث</span> | <span class="example-en" dir="ltr" lang="en">This is search</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يبحث</span> | <span class="example-en" dir="ltr" lang="en">I like search</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يبحث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the search?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يبحث جنب البنك، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a search next to the bank, because traffic is heavy, and then I wiped the floor</span> |
 
 

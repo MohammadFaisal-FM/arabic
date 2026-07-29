@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تضخم اقتصادي</span> | <span class="example-en" dir="ltr" lang="en">This is inflation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تضخم اقتصادي</span> | <span class="example-en" dir="ltr" lang="en">I like inflation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تضخم اقتصادي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the inflation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تضخم اقتصادي الحين قدام الملعب، لأن الجو حار شوي، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an inflation now in front of the pitch, because the weather is a bit hot, and I also took the clear tape</span> |
 
 

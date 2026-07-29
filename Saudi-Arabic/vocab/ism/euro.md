@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اليورو</span> | <span class="example-en" dir="ltr" lang="en">This is euro</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اليورو</span> | <span class="example-en" dir="ltr" lang="en">I like euro</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اليورو؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the euro?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اليورو في الثلاجة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put an euro in the fridge, because the battery is low, and then we locked the door</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عدالة</span> | <span class="example-en" dir="ltr" lang="en">This is justice</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عدالة</span> | <span class="example-en" dir="ltr" lang="en">I like justice</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عدالة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the justice?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عدالة الحين عند الباب، بس خلّه قريب منك، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a justice now at the door, but keep it near you, and I also took the brown wallet</span> |
 
 

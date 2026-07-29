@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قيم</span> | <span class="example-en" dir="ltr" lang="en">This is values</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قيم</span> | <span class="example-en" dir="ltr" lang="en">I like values</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قيم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the values?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قيم تحت السرير، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a values under the bed, so we are not late, and then I turned off the light</span> |
 
 

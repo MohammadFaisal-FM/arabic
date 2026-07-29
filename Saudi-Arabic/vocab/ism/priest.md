@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كاهن</span> | <span class="example-en" dir="ltr" lang="en">This is priest</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كاهن</span> | <span class="example-en" dir="ltr" lang="en">I like priest</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كاهن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the priest?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كاهن تحت السرير، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a priest under the bed, before Maghrib prayer, and then we laughed a bit</span> |
 
 

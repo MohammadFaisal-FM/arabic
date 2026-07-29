@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لفترة أطول</span> | <span class="example-en" dir="ltr" lang="en">This is longer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لفترة أطول</span> | <span class="example-en" dir="ltr" lang="en">I like longer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لفترة أطول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the longer?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج لفترة أطول الحين في الحقيبة، عشان المراجعة أسهل، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a longer now in the bag, so revision is easier, and I also took the clean shoes</span> |
 
 

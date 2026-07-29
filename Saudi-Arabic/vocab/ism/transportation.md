@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مواصلات</span> | <span class="example-en" dir="ltr" lang="en">This is transportation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مواصلات</span> | <span class="example-en" dir="ltr" lang="en">I like transportation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مواصلات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the transportation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مواصلات في المكتبة مع الملعقة الصغيرة، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a transportation in the library with the small spoon, before the place closes, and then I wiped the floor</span> |
 
 

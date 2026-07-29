@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أورلاندو</span> | <span class="example-en" dir="ltr" lang="en">This is orlando</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أورلاندو</span> | <span class="example-en" dir="ltr" lang="en">I like orlando</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أورلاندو؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the orlando?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أورلاندو قدام الملعب مع اللاصق الشفاف، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found an orlando in front of the pitch with the clear tape, before the food gets cold, and then I washed my hands</span> |
 
 

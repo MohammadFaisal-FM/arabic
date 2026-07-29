@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إيران</span> | <span class="example-en" dir="ltr" lang="en">This is iran</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إيران</span> | <span class="example-en" dir="ltr" lang="en">I like iran</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إيران؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the iran?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إيران الحين في الغرفة، لأن الإضاءة أحسن هناك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an iran now in the room, because the light is better there, and I also took the spare key</span> |
 
 

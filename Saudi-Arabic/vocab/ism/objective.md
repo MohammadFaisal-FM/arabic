@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موضوعي</span> | <span class="example-en" dir="ltr" lang="en">This is objective</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موضوعي</span> | <span class="example-en" dir="ltr" lang="en">I like objective</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موضوعي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the objective?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت موضوعي عند الباب مع المحفظة البنية، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an objective at the door with the brown wallet, so we make the appointment, and then the boy slept</span> |
 
 

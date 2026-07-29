@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مقاطعة</span> | <span class="example-en" dir="ltr" lang="en">This is province</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مقاطعة</span> | <span class="example-en" dir="ltr" lang="en">I like province</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مقاطعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the province?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مقاطعة في الدرج، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a province in the drawer, before the food gets cold, and then I washed my hands</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جون</span> | <span class="example-en" dir="ltr" lang="en">This is john</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جون</span> | <span class="example-en" dir="ltr" lang="en">I like john</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the john?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جون تحت السرير مع الوشاح الرمادي، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a john under the bed with the grey scarf, because the boy is sleepy, and then we laughed a bit</span> |
 
 

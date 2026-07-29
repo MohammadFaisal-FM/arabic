@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شارع</span> | <span class="example-en" dir="ltr" lang="en">This is street</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شارع</span> | <span class="example-en" dir="ltr" lang="en">I like street</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شارع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the street?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شارع الحين عند العيادة، لأن الوقت ضيق، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a street now at the clinic, because time is tight, and I also took the stapler</span> |
 
 

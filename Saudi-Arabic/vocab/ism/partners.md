@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الشركاء</span> | <span class="example-en" dir="ltr" lang="en">This is partners</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الشركاء</span> | <span class="example-en" dir="ltr" lang="en">I like partners</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الشركاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the partners?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الشركاء الحين عند الصيدلية، عشان الدراسة بكرة، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a partners now at the pharmacy, for studying tomorrow, and I also took the clear cover</span> |
 
 

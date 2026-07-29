@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أغلبية الفنادق مفتوحة طوال العام.</span> | <span class="example-en" dir="ltr" lang="en">The majority of hotels are open all year round.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اغلبيه</span> | <span class="example-en" dir="ltr" lang="en">This is a majority</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اغلبيه</span> | <span class="example-en" dir="ltr" lang="en">I like majority</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اغلبيه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the majority?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اغلبيه قدام المصعد مع الكرتون الفاضي، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a majority in front of the elevator with the empty carton, because guests are arriving, and then I turned on the fan</span> |
 
 

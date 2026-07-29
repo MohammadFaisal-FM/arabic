@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التوفر</span> | <span class="example-en" dir="ltr" lang="en">This is availability</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التوفر</span> | <span class="example-en" dir="ltr" lang="en">I like availability</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التوفر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the availability?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التوفر في السيارة مع الوسادة الناعمة، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found an availability in the car with the soft pillow, so we are not late, and then we laughed a bit</span> |
 
 

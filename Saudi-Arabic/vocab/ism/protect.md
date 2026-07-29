@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يحمي</span> | <span class="example-en" dir="ltr" lang="en">This is protect</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يحمي</span> | <span class="example-en" dir="ltr" lang="en">I like protect</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يحمي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the protect?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يحمي عند الصيدلية مع الغطاء الشفاف، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a protect at the pharmacy with the clear cover, because the weather is a bit hot, and then I wrote a note</span> |
 
 

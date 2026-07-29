@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بي بي سي</span> | <span class="example-en" dir="ltr" lang="en">This is bbc</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بي بي سي</span> | <span class="example-en" dir="ltr" lang="en">I like bbc</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بي بي سي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bbc?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بي بي سي في الحديقة مع المنبه القديميم، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a bbc in the park with the old alarm, if you need it later, and then we locked the door</span> |
 
 

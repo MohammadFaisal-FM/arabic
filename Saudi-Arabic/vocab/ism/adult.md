@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بالغ</span> | <span class="example-en" dir="ltr" lang="en">This is adult</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بالغ</span> | <span class="example-en" dir="ltr" lang="en">I like adult</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بالغ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the adult?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بالغ الحين في المكتبة، عشان المراجعة أسهل، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an adult now in the library, so revision is easier, and I also took the small spoon</span> |
 
 

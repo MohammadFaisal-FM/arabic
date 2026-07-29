@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أقراص مدمجة</span> | <span class="example-en" dir="ltr" lang="en">This is cds</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أقراص مدمجة</span> | <span class="example-en" dir="ltr" lang="en">I like cds</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أقراص مدمجة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cds?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أقراص مدمجة في الحديقة مع المنبه القديميم، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a cds in the park with the old alarm, because the battery is low, and then we prayed</span> |
 
 

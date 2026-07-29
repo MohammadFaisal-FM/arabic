@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نتائج</span> | <span class="example-en" dir="ltr" lang="en">This is results</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نتائج</span> | <span class="example-en" dir="ltr" lang="en">I like results</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نتائج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the results?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت نتائج في البقالة مع الشاحن الطويل، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a results at the grocery with the long charger, before Maghrib prayer, and then we laughed a bit</span> |
 
 

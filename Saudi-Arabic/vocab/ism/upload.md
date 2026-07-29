@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رفع</span> | <span class="example-en" dir="ltr" lang="en">This is upload</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رفع</span> | <span class="example-en" dir="ltr" lang="en">I like upload</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رفع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the upload?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رفع الحين في الحقيبة، قبل ما يجي السائق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an upload now in the bag, before the driver arrives, and I also took the clean shoes</span> |
 
 

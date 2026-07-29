@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">نسيت اسمه</span> | <span class="example-en" dir="ltr" lang="en">I forgot his name</span> |
+| <span class="example-ar" dir="rtl" lang="ar">نسيت اسمه، ولقيت الشاحن الطويل قدام التلفاز، لأن البطارية ضعيفة، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I forgot his name, and I found the long charger in front of the TV, because the battery is low, and then we laughed a bit</span> |
 
 
 ---

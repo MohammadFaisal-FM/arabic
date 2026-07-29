@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مقطع</span> | <span class="example-en" dir="ltr" lang="en">This is clip</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مقطع</span> | <span class="example-en" dir="ltr" lang="en">I like clip</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مقطع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the clip?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مقطع في الدرج، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a clip in the drawer, because the light is better there, and then I wrote a note</span> |
 
 

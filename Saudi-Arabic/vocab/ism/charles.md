@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تشارلز</span> | <span class="example-en" dir="ltr" lang="en">This is charles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تشارلز</span> | <span class="example-en" dir="ltr" lang="en">I like charles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تشارلز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the charles?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تشارلز جنب المسجد، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a charles next to the mosque, so the photo comes out clearer, and then I drank some water</span> |
 
 

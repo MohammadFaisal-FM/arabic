@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وين نعلي؟</span> | <span class="example-en" dir="ltr" lang="en">Where are my shoes?</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا نعل</span> | <span class="example-en" dir="ltr" lang="en">This is a sandal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نعل</span> | <span class="example-en" dir="ltr" lang="en">I like sandal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نعل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sandal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نعل قدام التلفاز، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a sandal in front of the TV, because guests are arriving, and then the boy slept</span> |
 
 

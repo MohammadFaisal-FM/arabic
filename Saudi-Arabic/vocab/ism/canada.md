@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كندا</span> | <span class="example-en" dir="ltr" lang="en">This is canada</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كندا</span> | <span class="example-en" dir="ltr" lang="en">I like canada</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كندا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the canada?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كندا في المحطة، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a canada at the station, because guests are arriving, and then the boy slept</span> |
 
 

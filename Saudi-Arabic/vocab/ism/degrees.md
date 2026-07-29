@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا درجات</span> | <span class="example-en" dir="ltr" lang="en">This is degrees</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب درجات</span> | <span class="example-en" dir="ltr" lang="en">I like degrees</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين درجات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the degrees?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت درجات جنب البنك مع الزجاجة الفارغة، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a degrees next to the bank with the empty bottle, so revision is easier, and then I wiped the floor</span> |
 
 

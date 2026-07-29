@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كاثوليكي</span> | <span class="example-en" dir="ltr" lang="en">This is catholic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كاثوليكي</span> | <span class="example-en" dir="ltr" lang="en">I like catholic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كاثوليكي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the catholic?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كاثوليكي الحين في الغرفة، لأن الجو حار شوي، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a catholic now in the room, because the weather is a bit hot, and I also took the spare key</span> |
 
 

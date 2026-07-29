@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أيام</span> | <span class="example-en" dir="ltr" lang="en">This is days</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أيام</span> | <span class="example-en" dir="ltr" lang="en">I like days</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أيام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the days?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أيام قدام التلفاز مع الجورب الأبيض، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a days in front of the TV with the white sock, so we make the appointment, and then I turned on the fan</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يوسع</span> | <span class="example-en" dir="ltr" lang="en">This is expand</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يوسع</span> | <span class="example-en" dir="ltr" lang="en">I like expand</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يوسع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the expand?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يوسع الحين جنب المسجد، لأن الوقت ضيق، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need an expand now next to the mosque, because time is tight, and I also took the pencil</span> |
 
 

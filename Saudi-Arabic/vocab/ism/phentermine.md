@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فينترمين</span> | <span class="example-en" dir="ltr" lang="en">This is phentermine</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فينترمين</span> | <span class="example-en" dir="ltr" lang="en">I like phentermine</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فينترمين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the phentermine?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فينترمين قدام التلفاز مع الجورب الأبيض، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a phentermine in front of the TV with the white sock, so we make the appointment, and then I turned on the fan</span> |
 
 

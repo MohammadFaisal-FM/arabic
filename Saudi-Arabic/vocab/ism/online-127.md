@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هل نسيت إقفال الباب اللّيلة الماضية؟</span> | <span class="example-en" dir="ltr" lang="en">Did you forget to lock the door last night?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اقفال عند العيادة مع الدباسة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a closing at the clinic with the stapler, so the photo comes out clearer, and then we locked the door</span> |
 
 

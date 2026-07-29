@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأيدي</span> | <span class="example-en" dir="ltr" lang="en">This is hands</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأيدي</span> | <span class="example-en" dir="ltr" lang="en">I like hands</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأيدي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hands?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الأيدي في المحطة، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a hands at the station, so we make the appointment, and then the phone rang</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المهندسين</span> | <span class="example-en" dir="ltr" lang="en">This is engineers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المهندسين</span> | <span class="example-en" dir="ltr" lang="en">I like engineers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المهندسين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the engineers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المهندسين تحت السرير، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an engineers under the bed, before Maghrib prayer, and then we laughed a bit</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رسم</span> | <span class="example-en" dir="ltr" lang="en">This is drawing</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رسم</span> | <span class="example-en" dir="ltr" lang="en">I like drawing</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رسم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the drawing?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رسم الحين قدام التلفاز، عشان نلحق الموعد، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a drawing now in front of the TV, so we make the appointment, and I also took the white sock</span> |
 
 

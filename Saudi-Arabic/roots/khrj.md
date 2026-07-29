@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">خرجت من البيت</span> | <span class="example-en" dir="ltr" lang="en">I left the house</span> |
+| <span class="example-ar" dir="rtl" lang="ar">خرجت من البيت، ولقيت الدفتر الأزرق جنب النافذة، قبل صلاة المغرب، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I left the house, and I found the blue notebook beside the window, before Maghrib prayer, and then I washed my hands</span> |
 
 
 ---

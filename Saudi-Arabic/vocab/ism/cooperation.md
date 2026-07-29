@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تعاون</span> | <span class="example-en" dir="ltr" lang="en">This is cooperation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تعاون</span> | <span class="example-en" dir="ltr" lang="en">I like cooperation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تعاون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cooperation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تعاون عند الاستقبال، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a cooperation at reception, before the driver arrives, and then I wiped the floor</span> |
 
 

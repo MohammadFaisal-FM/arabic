@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نغمات</span> | <span class="example-en" dir="ltr" lang="en">This is ringtones</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نغمات</span> | <span class="example-en" dir="ltr" lang="en">I like ringtones</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نغمات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ringtones?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نغمات في المطبخ، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a ringtones in the kitchen, because traffic is heavy, and then I charged the device</span> |
 
 

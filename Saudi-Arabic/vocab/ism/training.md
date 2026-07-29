@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تمرين</span> | <span class="example-en" dir="ltr" lang="en">This is training</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تمرين</span> | <span class="example-en" dir="ltr" lang="en">I like training</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تمرين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the training?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تمرين قدام التلفاز، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a training in front of the TV, because guests are arriving, and then the boy slept</span> |
 
 

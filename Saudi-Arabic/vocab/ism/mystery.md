@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أُحجِيَّة</span> | <span class="example-en" dir="ltr" lang="en">This is mystery</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أُحجِيَّة</span> | <span class="example-en" dir="ltr" lang="en">I like mystery</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أُحجِيَّة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mystery?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أُحجِيَّة الحين في البقالة، عشان ما يضيع، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a mystery now at the grocery, so it doesn’t get lost, and I also took the long charger</span> |
 
 

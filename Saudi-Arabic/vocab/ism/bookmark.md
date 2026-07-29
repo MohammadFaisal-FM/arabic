@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إشارة مرجعية</span> | <span class="example-en" dir="ltr" lang="en">This is bookmark</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إشارة مرجعية</span> | <span class="example-en" dir="ltr" lang="en">I like bookmark</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إشارة مرجعية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bookmark?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إشارة مرجعية في الدرج مع الدفتر الأزرق، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a bookmark in the drawer with the blue notebook, for studying tomorrow, and then I wrote a note</span> |
 
 

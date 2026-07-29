@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إعادة التأهيل</span> | <span class="example-en" dir="ltr" lang="en">This is rehabilitation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إعادة التأهيل</span> | <span class="example-en" dir="ltr" lang="en">I like rehabilitation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إعادة التأهيل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rehabilitation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إعادة التأهيل الحين في المحطة، لأن الشغل خلص بدري، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a rehabilitation now at the station, because work finished early, and I also took the short cable</span> |
 
 

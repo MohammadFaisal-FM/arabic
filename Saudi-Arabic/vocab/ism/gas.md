@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا غاز</span> | <span class="example-en" dir="ltr" lang="en">This is gas</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب غاز</span> | <span class="example-en" dir="ltr" lang="en">I like gas</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين غاز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the gas?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت غاز قدام المصعد، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a gas in front of the elevator, because guests are arriving, and then the phone rang</span> |
 
 

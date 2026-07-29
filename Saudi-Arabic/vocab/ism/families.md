@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العائلات</span> | <span class="example-en" dir="ltr" lang="en">This is families</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العائلات</span> | <span class="example-en" dir="ltr" lang="en">I like families</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العائلات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the families?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت العائلات تحت السرير مع الوشاح الرمادي، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a families under the bed with the grey scarf, so it doesn’t get lost, and then I replied to the message</span> |
 
 

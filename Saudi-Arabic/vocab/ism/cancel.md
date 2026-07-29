@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يلغي</span> | <span class="example-en" dir="ltr" lang="en">This is cancel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يلغي</span> | <span class="example-en" dir="ltr" lang="en">I like cancel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يلغي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cancel?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يلغي على الشرفة، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a cancel on the balcony, so we are not late, and then I replied to the message</span> |
 
 

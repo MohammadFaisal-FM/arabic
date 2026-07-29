@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شر</span> | <span class="example-en" dir="ltr" lang="en">This is evil</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شر</span> | <span class="example-en" dir="ltr" lang="en">I like evil</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the evil?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شر في المحطة، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an evil at the station, because work finished early, and then the phone rang</span> |
 
 

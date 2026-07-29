@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صندوق</span> | <span class="example-en" dir="ltr" lang="en">This is box</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صندوق</span> | <span class="example-en" dir="ltr" lang="en">I like box</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صندوق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the box?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت صندوق قدام التلفاز مع الجورب الأبيض، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a box in front of the TV with the white sock, because work finished early, and then I turned on the fan</span> |
 
 

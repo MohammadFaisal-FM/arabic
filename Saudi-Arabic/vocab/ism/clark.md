@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كلارك</span> | <span class="example-en" dir="ltr" lang="en">This is clark</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كلارك</span> | <span class="example-en" dir="ltr" lang="en">I like clark</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كلارك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the clark?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كلارك على الشرفة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a clark on the balcony, because the boy is sleepy, and then we laughed a bit</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سمعة</span> | <span class="example-en" dir="ltr" lang="en">This is reputation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سمعة</span> | <span class="example-en" dir="ltr" lang="en">I like reputation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سمعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reputation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سمعة الحين عند الصيدلية، قبل ما يبرد الأكل، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a reputation now at the pharmacy, before the food gets cold, and I also took the clear cover</span> |
 
 

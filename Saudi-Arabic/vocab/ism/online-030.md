@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تم إيصال البضائع بالأمس</span> | <span class="example-en" dir="ltr" lang="en">The goods were delivered yesterday</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا ايصال</span> | <span class="example-en" dir="ltr" lang="en">This is a receipt</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ايصال</span> | <span class="example-en" dir="ltr" lang="en">I like receipt</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ايصال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the receipt?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ايصال تحت السرير مع الوشاح الرمادي، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a receipt under the bed with the grey scarf, before Maghrib prayer, and then I turned off the light</span> |
 
 

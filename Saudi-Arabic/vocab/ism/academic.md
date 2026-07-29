@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أكاديمي</span> | <span class="example-en" dir="ltr" lang="en">This is academic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أكاديمي</span> | <span class="example-en" dir="ltr" lang="en">I like academic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أكاديمي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the academic?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أكاديمي في المحطة مع الكابل القصير، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found an academic at the station with the short cable, because guests are arriving, and then the phone rang</span> |
 
 

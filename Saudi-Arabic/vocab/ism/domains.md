@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المجالات</span> | <span class="example-en" dir="ltr" lang="en">This is domains</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المجالات</span> | <span class="example-en" dir="ltr" lang="en">I like domains</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المجالات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the domains?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المجالات في الحديقة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a domains in the park, because the battery is low, and then I drank some water</span> |
 
 

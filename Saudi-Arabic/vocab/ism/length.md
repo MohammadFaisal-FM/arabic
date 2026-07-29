@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طول</span> | <span class="example-en" dir="ltr" lang="en">This is length</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طول</span> | <span class="example-en" dir="ltr" lang="en">I like length</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the length?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت طول في البقالة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a length at the grocery, before Maghrib prayer, and then I replied to the message</span> |
 
 

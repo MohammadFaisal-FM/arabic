@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">المكان واسع</span> | <span class="example-en" dir="ltr" lang="en">The place is spacious</span> |
+| <span class="example-ar" dir="rtl" lang="ar">المكان واسع، ولقيت المقص الحاد قدام المصعد، إذا احتجته بعدين، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">The place is spacious, and I found the sharp scissors in front of the elevator, if you need it later, and then I replied to the message</span> |
 
 
 ---

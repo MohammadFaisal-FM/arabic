@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العلاقات</span> | <span class="example-en" dir="ltr" lang="en">This is relations</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العلاقات</span> | <span class="example-en" dir="ltr" lang="en">I like relations</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العلاقات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the relations?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج العلاقات الحين في البقالة، عشان ما يضيع، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a relations now at the grocery, so it doesn’t get lost, and I also took the long charger</span> |
 
 

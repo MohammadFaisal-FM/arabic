@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صدى</span> | <span class="example-en" dir="ltr" lang="en">This is echo</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صدى</span> | <span class="example-en" dir="ltr" lang="en">I like echo</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صدى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the echo?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج صدى الحين قدام التلفاز، بس خلّه قريب منك، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need an echo now in front of the TV, but keep it near you, and I also took the white sock</span> |
 
 

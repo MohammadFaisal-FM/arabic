@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عيد الميلاد</span> | <span class="example-en" dir="ltr" lang="en">This is christmas</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عيد الميلاد</span> | <span class="example-en" dir="ltr" lang="en">I like christmas</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عيد الميلاد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the christmas?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عيد الميلاد في الحديقة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a christmas in the park, so the photo comes out clearer, and then we locked the door</span> |
 
 

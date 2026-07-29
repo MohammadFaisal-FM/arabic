@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مصيبة</span> | <span class="example-en" dir="ltr" lang="en">This is crisis</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مصيبة</span> | <span class="example-en" dir="ltr" lang="en">I like crisis</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مصيبة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the crisis?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مصيبة الحين في المكتبة، قبل ما يقفل المكان، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a crisis now in the library, before the place closes, and I also took the small spoon</span> |
 
 

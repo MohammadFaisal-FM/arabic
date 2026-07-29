@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مُرَشَّح</span> | <span class="example-en" dir="ltr" lang="en">This is candidate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مُرَشَّح</span> | <span class="example-en" dir="ltr" lang="en">I like candidate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مُرَشَّح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the candidate?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مُرَشَّح في الصالون، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a candidate in the living room, because work finished early, and then the boy slept</span> |
 
 

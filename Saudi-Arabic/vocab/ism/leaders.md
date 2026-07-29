@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا القادة</span> | <span class="example-en" dir="ltr" lang="en">This is leaders</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب القادة</span> | <span class="example-en" dir="ltr" lang="en">I like leaders</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين القادة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the leaders?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت القادة على الشرفة، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a leaders on the balcony, so we are not late, and then I replied to the message</span> |
 
 

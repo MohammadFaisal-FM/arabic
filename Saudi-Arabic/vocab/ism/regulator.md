@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا منظم</span> | <span class="example-en" dir="ltr" lang="en">This is regulator</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب منظم</span> | <span class="example-en" dir="ltr" lang="en">I like regulator</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين منظم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the regulator?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج منظم الحين جنب البنك، عشان المراجعة أسهل، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a regulator now next to the bank, so revision is easier, and I also took the empty bottle</span> |
 
 

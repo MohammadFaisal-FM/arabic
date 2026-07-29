@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رقبة</span> | <span class="example-en" dir="ltr" lang="en">This is neck</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رقبة</span> | <span class="example-en" dir="ltr" lang="en">I like neck</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رقبة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the neck?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت رقبة عند الباب، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a neck at the door, because guests are arriving, and then the phone rang</span> |
 
 

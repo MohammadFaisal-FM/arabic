@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">فرحت كثير</span> | <span class="example-en" dir="ltr" lang="en">I was very happy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا فرح</span> | <span class="example-en" dir="ltr" lang="en">This is a joy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فرح</span> | <span class="example-en" dir="ltr" lang="en">I like joy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فرح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the joy?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فرح على الشرفة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a joy on the balcony, before Maghrib prayer, and then I turned off the light</span> |
 
 

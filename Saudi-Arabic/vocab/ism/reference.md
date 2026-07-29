@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مرجع</span> | <span class="example-en" dir="ltr" lang="en">This is reference</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مرجع</span> | <span class="example-en" dir="ltr" lang="en">I like reference</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مرجع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reference?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مرجع على المكتب مع البطانية الخفيفة، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a reference on the desk with the light blanket, before the food gets cold, and then I wrote a note</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ميناء</span> | <span class="example-en" dir="ltr" lang="en">This is port</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ميناء</span> | <span class="example-en" dir="ltr" lang="en">I like port</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ميناء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the port?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ميناء في المحطة، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a port at the station, so we make the appointment, and then the phone rang</span> |
 
 

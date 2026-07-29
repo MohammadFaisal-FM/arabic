@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جيف</span> | <span class="example-en" dir="ltr" lang="en">This is jeff</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جيف</span> | <span class="example-en" dir="ltr" lang="en">I like jeff</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جيف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jeff?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جيف الحين في المحطة، عشان الضيوف يوصلون، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a jeff now at the station, because guests are arriving, and I also took the short cable</span> |
 
 

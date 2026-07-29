@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حائط</span> | <span class="example-en" dir="ltr" lang="en">This is wall</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حائط</span> | <span class="example-en" dir="ltr" lang="en">I like wall</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حائط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wall?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حائط الحين جنب المسجد، لأن البطارية ضعيفة، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a wall now next to the mosque, because the battery is low, and I also took the pencil</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أدرس عربي</span> | <span class="example-en" dir="ltr" lang="en">I study Arabic</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أدرس عربي، ولقيت الغطاء الشفاف في الثلاجة، لأن الولد نعسان، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I study Arabic, and I found the clear cover in the fridge, because the boy is sleepy, and then I tidied the table</span> |
 
 
 ---
@@ -35,9 +35,9 @@
 | مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
 | اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
 | اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
-| اسم مكان · ism makān (place) | [مدرسة](#ism/madrasa) | <span class="example-ar" dir="rtl" lang="ar">رحت المدرسة</span><br><span class="example-en" dir="ltr" lang="en">I went to school</span> |
+| اسم مكان · ism makān (place) | [مدرسة](#ism/madrasa) | <span class="example-ar" dir="rtl" lang="ar">حطّيت مدرسة في البقالة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span><br><span class="example-en" dir="ltr" lang="en">I put a school at the grocery, before Maghrib prayer, and then I replied to the message</span> |
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [درس](#ism/dars) | <span class="example-ar" dir="rtl" lang="ar">عندي درس</span><br><span class="example-en" dir="ltr" lang="en">I have a lesson</span> |
+| اسم · ism (noun / other) | [درس](#ism/dars) | <span class="example-ar" dir="rtl" lang="ar">شفت درس في البقالة، عشان ما يضيع، وبعدها طفّيت النور</span><br><span class="example-en" dir="ltr" lang="en">I saw a lesson at the grocery, so it doesn’t get lost, and then I turned off the light</span> |
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سرطان</span> | <span class="example-en" dir="ltr" lang="en">This is cancer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سرطان</span> | <span class="example-en" dir="ltr" lang="en">I like cancer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سرطان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cancer?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سرطان عند الاستقبال، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a cancer at reception, so revision is easier, and then I charged the device</span> |
 
 

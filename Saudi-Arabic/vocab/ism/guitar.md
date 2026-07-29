@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا غيتار</span> | <span class="example-en" dir="ltr" lang="en">This is guitar</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب غيتار</span> | <span class="example-en" dir="ltr" lang="en">I like guitar</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين غيتار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the guitar?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج غيتار الحين قدام الملعب، قبل ما يبرد الأكل، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a guitar now in front of the pitch, before the food gets cold, and I also took the clear tape</span> |
 
 

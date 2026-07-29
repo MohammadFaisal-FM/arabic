@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا البلاغة</span> | <span class="example-en" dir="ltr" lang="en">This is rhetoric</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب البلاغة</span> | <span class="example-en" dir="ltr" lang="en">I like rhetoric</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين البلاغة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rhetoric?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج البلاغة الحين قدام التلفاز، بس خلّه قريب منك، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a rhetoric now in front of the TV, but keep it near you, and I also took the white sock</span> |
 
 

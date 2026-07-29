@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رجل</span> | <span class="example-en" dir="ltr" lang="en">This is a man</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رجل</span> | <span class="example-en" dir="ltr" lang="en">I like man</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رجل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the man?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن رجل شوي، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">We talked about a man a bit, because time is tight, and then we prayed</span> |
 
 

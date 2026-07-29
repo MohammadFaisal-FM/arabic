@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ألاسكا</span> | <span class="example-en" dir="ltr" lang="en">This is alaska</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ألاسكا</span> | <span class="example-en" dir="ltr" lang="en">I like alaska</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ألاسكا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the alaska?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ألاسكا عند الباب، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put an alaska at the door, but keep it near you, and then the boy slept</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مشاة</span> | <span class="example-en" dir="ltr" lang="en">This is pedestrian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مشاة</span> | <span class="example-en" dir="ltr" lang="en">I like pedestrian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مشاة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pedestrian?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مشاة في الغرفة، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a pedestrian in the room, because the weather is a bit hot, and then I washed my hands</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بايت</span> | <span class="example-en" dir="ltr" lang="en">This is bytes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بايت</span> | <span class="example-en" dir="ltr" lang="en">I like bytes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بايت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bytes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بايت الحين في المحطة، بس خلّه قريب منك، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a bytes now at the station, but keep it near you, and I also took the short cable</span> |
 
 

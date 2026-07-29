@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الاختلافات</span> | <span class="example-en" dir="ltr" lang="en">This is differences</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الاختلافات</span> | <span class="example-en" dir="ltr" lang="en">I like differences</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الاختلافات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the differences?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الاختلافات الحين قدام المصعد، عشان نلحق الموعد، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a differences now in front of the elevator, so we make the appointment, and I also took the empty carton</span> |
 
 

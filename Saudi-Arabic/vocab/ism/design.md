@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تصميم</span> | <span class="example-en" dir="ltr" lang="en">This is design</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تصميم</span> | <span class="example-en" dir="ltr" lang="en">I like design</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تصميم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the design?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تصميم في البقالة مع الشاحن الطويل، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a design at the grocery with the long charger, before Maghrib prayer, and then we laughed a bit</span> |
 
 

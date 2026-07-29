@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نداء</span> | <span class="example-en" dir="ltr" lang="en">This is plea</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نداء</span> | <span class="example-en" dir="ltr" lang="en">I like plea</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نداء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the plea?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت نداء عند الباب مع المحفظة البنية، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a plea at the door with the brown wallet, because work finished early, and then the boy slept</span> |
 
 

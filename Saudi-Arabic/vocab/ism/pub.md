@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حانة</span> | <span class="example-en" dir="ltr" lang="en">This is pub</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حانة</span> | <span class="example-en" dir="ltr" lang="en">I like pub</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حانة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pub?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حانة الحين قدام الملعب، عشان الدراسة بكرة، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a pub now in front of the pitch, for studying tomorrow, and I also took the clear tape</span> |
 
 

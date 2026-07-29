@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا درجة حرارة</span> | <span class="example-en" dir="ltr" lang="en">This is temperature</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب درجة حرارة</span> | <span class="example-en" dir="ltr" lang="en">I like temperature</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين درجة حرارة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the temperature?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج درجة حرارة الحين جنب البنك، قبل ما يقفل المكان، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a temperature now next to the bank, before the place closes, and I also took the empty bottle</span> |
 
 

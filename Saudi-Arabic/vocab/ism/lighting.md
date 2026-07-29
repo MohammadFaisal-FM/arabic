@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إضاءة</span> | <span class="example-en" dir="ltr" lang="en">This is lighting</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إضاءة</span> | <span class="example-en" dir="ltr" lang="en">I like lighting</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إضاءة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lighting?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إضاءة الحين في الحقيبة، قبل ما يجي السائق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a lighting now in the bag, before the driver arrives, and I also took the clean shoes</span> |
 
 

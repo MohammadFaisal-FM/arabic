@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا توحيد</span> | <span class="example-en" dir="ltr" lang="en">This is consolidation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب توحيد</span> | <span class="example-en" dir="ltr" lang="en">I like consolidation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين توحيد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the consolidation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج توحيد الحين عند الاستقبال، عشان المراجعة أسهل، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a consolidation now at reception, so revision is easier, and I also took the glass cup</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا امتياز</span> | <span class="example-en" dir="ltr" lang="en">This is privilege</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب امتياز</span> | <span class="example-en" dir="ltr" lang="en">I like privilege</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين امتياز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the privilege?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت امتياز في المكتبة، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a privilege in the library, so revision is easier, and then I wiped the floor</span> |
 
 

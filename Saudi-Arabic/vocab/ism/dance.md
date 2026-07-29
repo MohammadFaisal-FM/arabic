@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رقص</span> | <span class="example-en" dir="ltr" lang="en">This is dance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رقص</span> | <span class="example-en" dir="ltr" lang="en">I like dance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رقص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dance?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رقص تحت السرير مع الوشاح الرمادي، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a dance under the bed with the grey scarf, so we are not late, and then I replied to the message</span> |
 
 

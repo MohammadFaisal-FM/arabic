@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا معاً</span> | <span class="example-en" dir="ltr" lang="en">This is together</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب معاً</span> | <span class="example-en" dir="ltr" lang="en">I like together</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين معاً؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the together?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج معاً الحين في الثلاجة، عشان الصورة تطلع أوضح، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a together now in the fridge, so the photo comes out clearer, and I also took the summer hat</span> |
 
 

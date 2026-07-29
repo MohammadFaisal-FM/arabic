@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الينابيع</span> | <span class="example-en" dir="ltr" lang="en">This is springs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الينابيع</span> | <span class="example-en" dir="ltr" lang="en">I like springs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الينابيع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the springs?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الينابيع الحين في المكتبة، لأن الزحمة قوية، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a springs now in the library, because traffic is heavy, and I also took the small spoon</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أمام</span> | <span class="example-en" dir="ltr" lang="en">This is front</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أمام</span> | <span class="example-en" dir="ltr" lang="en">I like front</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أمام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the front?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أمام الحين عند الباب، عشان نلحق الموعد، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a front now at the door, so we make the appointment, and I also took the brown wallet</span> |
 
 

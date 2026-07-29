@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أخطاء</span> | <span class="example-en" dir="ltr" lang="en">This is errors</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أخطاء</span> | <span class="example-en" dir="ltr" lang="en">I like errors</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أخطاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the errors?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أخطاء عند العيادة مع الدباسة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found an errors at the clinic with the stapler, because the battery is low, and then I drank some water</span> |
 
 

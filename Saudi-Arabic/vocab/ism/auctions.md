@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مزادات</span> | <span class="example-en" dir="ltr" lang="en">This is auctions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مزادات</span> | <span class="example-en" dir="ltr" lang="en">I like auctions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مزادات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the auctions?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مزادات الحين عند الاستقبال، عشان المراجعة أسهل، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need an auctions now at reception, so revision is easier, and I also took the glass cup</span> |
 
 

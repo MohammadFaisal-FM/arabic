@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المالك</span> | <span class="example-en" dir="ltr" lang="en">This is landlord</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المالك</span> | <span class="example-en" dir="ltr" lang="en">I like landlord</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المالك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the landlord?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المالك الحين عند الاستقبال، قبل ما يجي السائق، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a landlord now at reception, before the driver arrives, and I also took the glass cup</span> |
 
 

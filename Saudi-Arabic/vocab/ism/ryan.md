@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ريان</span> | <span class="example-en" dir="ltr" lang="en">This is ryan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ريان</span> | <span class="example-en" dir="ltr" lang="en">I like ryan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ريان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ryan?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ريان في الحقيبة مع الحذاء النظيف، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a ryan in the bag with the clean shoes, because traffic is heavy, and then I charged the device</span> |
 
 

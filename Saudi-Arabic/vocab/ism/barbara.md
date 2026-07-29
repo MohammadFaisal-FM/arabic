@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا باربرا</span> | <span class="example-en" dir="ltr" lang="en">This is barbara</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب باربرا</span> | <span class="example-en" dir="ltr" lang="en">I like barbara</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين باربرا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the barbara?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت باربرا في المدرسة مع المقص الحاد، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a barbara at school with the sharp scissors, before Maghrib prayer, and then I turned off the light</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رفيق السكن</span> | <span class="example-en" dir="ltr" lang="en">This is roommate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رفيق السكن</span> | <span class="example-en" dir="ltr" lang="en">I like roommate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رفيق السكن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the roommate?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رفيق السكن في المدرسة مع المقص الحاد، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a roommate at school with the sharp scissors, before Maghrib prayer, and then I turned off the light</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سبتمبر</span> | <span class="example-en" dir="ltr" lang="en">This is september</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سبتمبر</span> | <span class="example-en" dir="ltr" lang="en">I like september</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سبتمبر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the september?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سبتمبر عند الباب مع المحفظة البنية، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a september at the door with the brown wallet, because work finished early, and then the boy slept</span> |
 
 

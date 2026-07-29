@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عمليات البحث</span> | <span class="example-en" dir="ltr" lang="en">This is searches</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عمليات البحث</span> | <span class="example-en" dir="ltr" lang="en">I like searches</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عمليات البحث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the searches?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عمليات البحث الحين عند الاستقبال، لأن الزحمة قوية، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a searches now at reception, because traffic is heavy, and I also took the glass cup</span> |
 
 

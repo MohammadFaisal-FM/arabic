@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ميل</span> | <span class="example-en" dir="ltr" lang="en">This is mile</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ميل</span> | <span class="example-en" dir="ltr" lang="en">I like mile</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ميل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mile?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ميل في السيارة مع الوسادة الناعمة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a mile in the car with the soft pillow, before Maghrib prayer, and then I replied to the message</span> |
 
 

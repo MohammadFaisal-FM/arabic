@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا احسب</span> | <span class="example-en" dir="ltr" lang="en">This is calculate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب احسب</span> | <span class="example-en" dir="ltr" lang="en">I like calculate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين احسب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the calculate?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت احسب جنب المسجد مع القلم الرصاص، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a calculate next to the mosque with the pencil, because the battery is low, and then we locked the door</span> |
 
 

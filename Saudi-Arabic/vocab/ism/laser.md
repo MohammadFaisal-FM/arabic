@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الليزر</span> | <span class="example-en" dir="ltr" lang="en">This is laser</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الليزر</span> | <span class="example-en" dir="ltr" lang="en">I like laser</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الليزر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the laser?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الليزر عند الصيدلية، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a laser at the pharmacy, because the weather is a bit hot, and then I tidied the table</span> |
 
 

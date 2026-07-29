@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الألبوم</span> | <span class="example-en" dir="ltr" lang="en">This is album</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الألبوم</span> | <span class="example-en" dir="ltr" lang="en">I like album</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الألبوم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the album?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الألبوم الحين على الشرفة، عشان ما يضيع، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need an album now on the balcony, so it doesn’t get lost, and I also took the yellow card</span> |
 
 

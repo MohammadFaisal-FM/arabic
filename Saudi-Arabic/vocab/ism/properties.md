@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملكيات</span> | <span class="example-en" dir="ltr" lang="en">This is properties</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملكيات</span> | <span class="example-en" dir="ltr" lang="en">I like properties</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملكيات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the properties?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ملكيات جنب النافذة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a properties beside the window, if you need it later, and then we prayed</span> |
 
 

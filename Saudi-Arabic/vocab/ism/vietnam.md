@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فيتنام</span> | <span class="example-en" dir="ltr" lang="en">This is vietnam</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فيتنام</span> | <span class="example-en" dir="ltr" lang="en">I like vietnam</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فيتنام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the vietnam?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فيتنام قدام المصعد مع الكرتون الفاضي، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a vietnam in front of the elevator with the empty carton, because work finished early, and then the boy slept</span> |
 
 

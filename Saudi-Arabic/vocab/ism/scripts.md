@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مخطوطات</span> | <span class="example-en" dir="ltr" lang="en">This is scripts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مخطوطات</span> | <span class="example-en" dir="ltr" lang="en">I like scripts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مخطوطات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the scripts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مخطوطات في السيارة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a scripts in the car, before Maghrib prayer, and then I turned off the light</span> |
 
 

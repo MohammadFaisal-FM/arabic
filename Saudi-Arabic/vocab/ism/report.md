@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تقرير</span> | <span class="example-en" dir="ltr" lang="en">This is report</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تقرير</span> | <span class="example-en" dir="ltr" lang="en">I like report</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تقرير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the report?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تقرير في الثلاجة مع القبعة الصيفية، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a report in the fridge with the summer hat, if you need it later, and then we prayed</span> |
 
 

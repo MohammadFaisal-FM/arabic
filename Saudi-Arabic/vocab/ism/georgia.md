@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جورجيا</span> | <span class="example-en" dir="ltr" lang="en">This is georgia</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جورجيا</span> | <span class="example-en" dir="ltr" lang="en">I like georgia</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جورجيا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the georgia?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت جورجيا في المحطة، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a georgia at the station, because guests are arriving, and then the boy slept</span> |
 
 

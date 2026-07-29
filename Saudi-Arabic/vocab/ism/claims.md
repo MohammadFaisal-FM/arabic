@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المطالبات</span> | <span class="example-en" dir="ltr" lang="en">This is claims</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المطالبات</span> | <span class="example-en" dir="ltr" lang="en">I like claims</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المطالبات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the claims?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المطالبات الحين على المكتب، لأن الإضاءة أحسن هناك، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a claims now on the desk, because the light is better there, and I also took the light blanket</span> |
 
 

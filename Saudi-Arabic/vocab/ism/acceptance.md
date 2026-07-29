@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قبول</span> | <span class="example-en" dir="ltr" lang="en">This is acceptance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قبول</span> | <span class="example-en" dir="ltr" lang="en">I like acceptance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قبول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the acceptance?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قبول قدام التلفاز مع الجورب الأبيض، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found an acceptance in front of the TV with the white sock, so we make the appointment, and then I turned on the fan</span> |
 
 

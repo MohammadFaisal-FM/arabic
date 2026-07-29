@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التنسيب</span> | <span class="example-en" dir="ltr" lang="en">This is placement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التنسيب</span> | <span class="example-en" dir="ltr" lang="en">I like placement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التنسيب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the placement?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التنسيب جنب البنك، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a placement next to the bank, because traffic is heavy, and then I wiped the floor</span> |
 
 

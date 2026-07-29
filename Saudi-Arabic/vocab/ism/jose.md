@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خوسيه</span> | <span class="example-en" dir="ltr" lang="en">This is jose</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خوسيه</span> | <span class="example-en" dir="ltr" lang="en">I like jose</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خوسيه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jose?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت خوسيه قدام التلفاز، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a jose in front of the TV, because work finished early, and then the phone rang</span> |
 
 

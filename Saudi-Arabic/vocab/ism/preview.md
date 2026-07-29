@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا معاينة</span> | <span class="example-en" dir="ltr" lang="en">This is preview</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب معاينة</span> | <span class="example-en" dir="ltr" lang="en">I like preview</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين معاينة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the preview?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت معاينة في البقالة مع الشاحن الطويل، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a preview at the grocery with the long charger, before Maghrib prayer, and then we laughed a bit</span> |
 
 

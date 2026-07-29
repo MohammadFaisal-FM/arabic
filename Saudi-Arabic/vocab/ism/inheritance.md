@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الميراث</span> | <span class="example-en" dir="ltr" lang="en">This is inheritance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الميراث</span> | <span class="example-en" dir="ltr" lang="en">I like inheritance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الميراث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the inheritance?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الميراث الحين عند الباب، عشان الضيوف يوصلون، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an inheritance now at the door, because guests are arriving, and I also took the brown wallet</span> |
 
 

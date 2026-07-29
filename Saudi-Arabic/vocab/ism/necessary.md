@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ضروري</span> | <span class="example-en" dir="ltr" lang="en">This is necessary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ضروري</span> | <span class="example-en" dir="ltr" lang="en">I like necessary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ضروري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the necessary?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ضروري عند الاستقبال مع الكوب الزجاج، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a necessary at reception with the glass cup, before the driver arrives, and then I charged the device</span> |
 
 

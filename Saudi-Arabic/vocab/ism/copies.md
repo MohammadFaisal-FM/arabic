@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نسخ</span> | <span class="example-en" dir="ltr" lang="en">This is copies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نسخ</span> | <span class="example-en" dir="ltr" lang="en">I like copies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نسخ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the copies?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نسخ قدام المصعد، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a copies in front of the elevator, because guests are arriving, and then the phone rang</span> |
 
 

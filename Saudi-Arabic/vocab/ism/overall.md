@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إجمالي</span> | <span class="example-en" dir="ltr" lang="en">This is overall</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إجمالي</span> | <span class="example-en" dir="ltr" lang="en">I like overall</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إجمالي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the overall?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إجمالي في المكتبة مع الملعقة الصغيرة، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found an overall in the library with the small spoon, so revision is easier, and then I charged the device</span> |
 
 

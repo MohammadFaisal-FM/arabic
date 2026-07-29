@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لورانس</span> | <span class="example-en" dir="ltr" lang="en">This is lawrence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لورانس</span> | <span class="example-en" dir="ltr" lang="en">I like lawrence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لورانس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lawrence?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لورانس قدام المصعد، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a lawrence in front of the elevator, because work finished early, and then I turned on the fan</span> |
 
 

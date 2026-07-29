@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شركات</span> | <span class="example-en" dir="ltr" lang="en">This is companies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شركات</span> | <span class="example-en" dir="ltr" lang="en">I like companies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شركات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the companies?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شركات الحين في الغرفة، لأن الجو حار شوي، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a companies now in the room, because the weather is a bit hot, and I also took the spare key</span> |
 
 

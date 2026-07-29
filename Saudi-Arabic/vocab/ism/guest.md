@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ضيف</span> | <span class="example-en" dir="ltr" lang="en">This is guest</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ضيف</span> | <span class="example-en" dir="ltr" lang="en">I like guest</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ضيف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the guest?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ضيف كان/كانت عند العيادة، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">a guest was at the clinic, so the photo comes out clearer, and then I drank some water</span> |
 
 

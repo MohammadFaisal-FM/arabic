@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سر</span> | <span class="example-en" dir="ltr" lang="en">This is secret</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سر</span> | <span class="example-en" dir="ltr" lang="en">I like secret</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the secret?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سر في المحطة، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a secret at the station, but keep it near you, and then I turned on the fan</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قطن</span> | <span class="example-en" dir="ltr" lang="en">This is cotton</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قطن</span> | <span class="example-en" dir="ltr" lang="en">I like cotton</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قطن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cotton?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قطن الحين في السيارة، لأن الولد نعسان، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a cotton now in the car, because the boy is sleepy, and I also took the soft pillow</span> |
 
 

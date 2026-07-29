@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موسوعة</span> | <span class="example-en" dir="ltr" lang="en">This is encyclopedia</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موسوعة</span> | <span class="example-en" dir="ltr" lang="en">I like encyclopedia</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موسوعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the encyclopedia?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت موسوعة في الصالون، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an encyclopedia in the living room, but keep it near you, and then the phone rang</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نسخة احتياطية</span> | <span class="example-en" dir="ltr" lang="en">This is backup</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نسخة احتياطية</span> | <span class="example-en" dir="ltr" lang="en">I like backup</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نسخة احتياطية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the backup?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نسخة احتياطية في الحقيبة، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a backup in the bag, so revision is easier, and then I closed the window</span> |
 
 

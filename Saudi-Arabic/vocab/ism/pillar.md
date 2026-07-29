@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عمود</span> | <span class="example-en" dir="ltr" lang="en">This is pillar</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عمود</span> | <span class="example-en" dir="ltr" lang="en">I like pillar</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عمود؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pillar?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عمود جنب المسجد، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a pillar next to the mosque, because time is tight, and then we locked the door</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مَعاش</span> | <span class="example-en" dir="ltr" lang="en">This is pension</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مَعاش</span> | <span class="example-en" dir="ltr" lang="en">I like pension</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مَعاش؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pension?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مَعاش في المحطة، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a pension at the station, because guests are arriving, and then the boy slept</span> |
 
 

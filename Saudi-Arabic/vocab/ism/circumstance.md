@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ظرف</span> | <span class="example-en" dir="ltr" lang="en">This is circumstance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ظرف</span> | <span class="example-en" dir="ltr" lang="en">I like circumstance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ظرف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the circumstance?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ظرف الحين على الشرفة، عشان ما نتأخر، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a circumstance now on the balcony, so we are not late, and I also took the yellow card</span> |
 
 

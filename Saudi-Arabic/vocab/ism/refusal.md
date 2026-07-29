@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رفض</span> | <span class="example-en" dir="ltr" lang="en">This is refusal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رفض</span> | <span class="example-en" dir="ltr" lang="en">I like refusal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رفض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the refusal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رفض الحين في المكتبة، لأن الزحمة قوية، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a refusal now in the library, because traffic is heavy, and I also took the small spoon</span> |
 
 

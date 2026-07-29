@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وحش</span> | <span class="example-en" dir="ltr" lang="en">This is monster</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وحش</span> | <span class="example-en" dir="ltr" lang="en">I like monster</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وحش؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the monster?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت وحش في المحطة، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a monster at the station, because work finished early, and then the phone rang</span> |
 
 

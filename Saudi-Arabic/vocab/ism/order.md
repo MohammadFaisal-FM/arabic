@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طلب</span> | <span class="example-en" dir="ltr" lang="en">This is order</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طلب</span> | <span class="example-en" dir="ltr" lang="en">I like order</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طلب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the order?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت طلب في المكتبة مع الملعقة الصغيرة، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found an order in the library with the small spoon, so revision is easier, and then I charged the device</span> |
 
 

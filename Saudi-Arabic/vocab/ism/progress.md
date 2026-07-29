@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تقدم</span> | <span class="example-en" dir="ltr" lang="en">This is progress</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تقدم</span> | <span class="example-en" dir="ltr" lang="en">I like progress</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تقدم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the progress?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تقدم قدام المصعد، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a progress in front of the elevator, so we make the appointment, and then I turned on the fan</span> |
 
 

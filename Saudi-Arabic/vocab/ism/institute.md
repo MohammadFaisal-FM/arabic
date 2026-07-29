@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا معهد</span> | <span class="example-en" dir="ltr" lang="en">This is institute</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب معهد</span> | <span class="example-en" dir="ltr" lang="en">I like institute</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين معهد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the institute?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت معهد في المطبخ مع الملف الورقي، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found an institute in the kitchen with the paper file, before the place closes, and then I wiped the floor</span> |
 
 

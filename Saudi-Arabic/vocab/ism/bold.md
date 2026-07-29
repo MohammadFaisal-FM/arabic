@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عريض</span> | <span class="example-en" dir="ltr" lang="en">This is bold</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عريض</span> | <span class="example-en" dir="ltr" lang="en">I like bold</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عريض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bold?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عريض على الشرفة، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a bold on the balcony, so we are not late, and then I replied to the message</span> |
 
 

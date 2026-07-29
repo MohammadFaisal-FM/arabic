@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">إنه يعرف أسماء كل زبائنه.</span> | <span class="example-en" dir="ltr" lang="en">He knows the names of all his customers.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اسماء</span> | <span class="example-en" dir="ltr" lang="en">This is a names</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اسماء</span> | <span class="example-en" dir="ltr" lang="en">I like names</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اسماء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the names?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اسماء عند العيادة مع الدباسة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a names at the clinic with the stapler, because the battery is low, and then I drank some water</span> |
 
 

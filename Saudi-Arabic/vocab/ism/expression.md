@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تعبير</span> | <span class="example-en" dir="ltr" lang="en">This is expression</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تعبير</span> | <span class="example-en" dir="ltr" lang="en">I like expression</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تعبير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the expression?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تعبير الحين في الحقيبة، قبل ما يقفل المكان، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an expression now in the bag, before the place closes, and I also took the clean shoes</span> |
 
 

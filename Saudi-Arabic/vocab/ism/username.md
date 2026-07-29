@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اسم المستخدم</span> | <span class="example-en" dir="ltr" lang="en">This is username</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اسم المستخدم</span> | <span class="example-en" dir="ltr" lang="en">I like username</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اسم المستخدم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the username?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اسم المستخدم الحين على الشرفة، عشان ما يضيع، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need an username now on the balcony, so it doesn’t get lost, and I also took the yellow card</span> |
 
 

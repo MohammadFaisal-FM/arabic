@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دخل</span> | <span class="example-en" dir="ltr" lang="en">This is income</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دخل</span> | <span class="example-en" dir="ltr" lang="en">I like income</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دخل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the income?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت دخل في المحطة مع الكابل القصير، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found an income at the station with the short cable, so we make the appointment, and then I turned on the fan</span> |
 
 

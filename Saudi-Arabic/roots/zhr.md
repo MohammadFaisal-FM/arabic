@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ظهر الحل</span> | <span class="example-en" dir="ltr" lang="en">The solution appeared</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ظهر الحل، ولقيت الملف الورقي على الشرفة، عشان الدراسة بكرة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">The solution appeared, and I found the paper file on the balcony, for studying tomorrow, and then I wiped the floor</span> |
 
 
 ---

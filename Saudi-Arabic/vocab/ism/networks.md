@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الشبكات</span> | <span class="example-en" dir="ltr" lang="en">This is networks</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الشبكات</span> | <span class="example-en" dir="ltr" lang="en">I like networks</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الشبكات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the networks?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الشبكات الحين في الغرفة، عشان الدراسة بكرة، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a networks now in the room, for studying tomorrow, and I also took the spare key</span> |
 
 

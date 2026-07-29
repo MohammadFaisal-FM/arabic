@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خطي</span> | <span class="example-en" dir="ltr" lang="en">This is linear</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خطي</span> | <span class="example-en" dir="ltr" lang="en">I like linear</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خطي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the linear?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خطي جنب البنك مع الزجاجة الفارغة، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a linear next to the bank with the empty bottle, because traffic is heavy, and then I charged the device</span> |
 
 

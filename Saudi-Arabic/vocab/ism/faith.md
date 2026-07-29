@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إيمان</span> | <span class="example-en" dir="ltr" lang="en">This is faith</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إيمان</span> | <span class="example-en" dir="ltr" lang="en">I like faith</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إيمان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the faith?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إيمان في البقالة مع الشاحن الطويل، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a faith at the grocery with the long charger, because the boy is sleepy, and then I replied to the message</span> |
 
 

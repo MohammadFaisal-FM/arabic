@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تناوب</span> | <span class="example-en" dir="ltr" lang="en">This is rotation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تناوب</span> | <span class="example-en" dir="ltr" lang="en">I like rotation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تناوب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rotation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تناوب الحين عند الباب، بس خلّه قريب منك، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a rotation now at the door, but keep it near you, and I also took the brown wallet</span> |
 
 

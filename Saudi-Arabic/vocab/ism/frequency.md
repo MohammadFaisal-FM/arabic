@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تكرار</span> | <span class="example-en" dir="ltr" lang="en">This is frequency</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تكرار</span> | <span class="example-en" dir="ltr" lang="en">I like frequency</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تكرار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the frequency?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تكرار في المحطة مع الكابل القصير، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a frequency at the station with the short cable, so we make the appointment, and then I turned on the fan</span> |
 
 

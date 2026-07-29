@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اليابان</span> | <span class="example-en" dir="ltr" lang="en">This is japan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اليابان</span> | <span class="example-en" dir="ltr" lang="en">I like japan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اليابان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the japan?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اليابان في المدرسة مع المقص الحاد، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a japan at school with the sharp scissors, so it doesn’t get lost, and then I replied to the message</span> |
 
 

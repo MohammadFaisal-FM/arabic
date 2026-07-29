@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كوميديا</span> | <span class="example-en" dir="ltr" lang="en">This is comedy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كوميديا</span> | <span class="example-en" dir="ltr" lang="en">I like comedy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كوميديا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the comedy?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كوميديا في الغرفة مع المفتاح الاحتياطي، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a comedy in the room with the spare key, for studying tomorrow, and then I washed my hands</span> |
 
 

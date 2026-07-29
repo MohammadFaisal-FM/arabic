@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تقول أنك تتعمدُ إخفاء مظهرك الحسن؟</span> | <span class="example-en" dir="ltr" lang="en">Are you saying that you deliberately hide your good looks?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اخفاء الحين عند الاستقبال، لأن الزحمة قوية، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a hide now at reception, because traffic is heavy, and I also took the glass cup</span> |
 
 

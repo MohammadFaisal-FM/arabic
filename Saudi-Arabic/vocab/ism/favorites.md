@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المفضلة</span> | <span class="example-en" dir="ltr" lang="en">This is favorites</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المفضلة</span> | <span class="example-en" dir="ltr" lang="en">I like favorites</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المفضلة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the favorites?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المفضلة الحين في البقالة، قبل صلاة المغرب، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a favorites now at the grocery, before Maghrib prayer, and I also took the long charger</span> |
 
 

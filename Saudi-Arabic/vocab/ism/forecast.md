@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تنبؤ بالمناخ</span> | <span class="example-en" dir="ltr" lang="en">This is forecast</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تنبؤ بالمناخ</span> | <span class="example-en" dir="ltr" lang="en">I like forecast</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تنبؤ بالمناخ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the forecast?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تنبؤ بالمناخ الحين في الحقيبة، لأن الزحمة قوية، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a forecast now in the bag, because traffic is heavy, and I also took the clean shoes</span> |
 
 

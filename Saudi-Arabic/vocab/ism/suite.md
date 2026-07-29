@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جناح</span> | <span class="example-en" dir="ltr" lang="en">This is suite</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جناح</span> | <span class="example-en" dir="ltr" lang="en">I like suite</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جناح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the suite?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت جناح عند الباب، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a suite at the door, so we make the appointment, and then I turned on the fan</span> |
 
 

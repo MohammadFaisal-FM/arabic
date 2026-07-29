@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خلية</span> | <span class="example-en" dir="ltr" lang="en">This is cell</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خلية</span> | <span class="example-en" dir="ltr" lang="en">I like cell</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خلية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cell?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت خلية في السيارة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a cell in the car, because the boy is sleepy, and then we laughed a bit</span> |
 
 

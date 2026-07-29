@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سطح</span> | <span class="example-en" dir="ltr" lang="en">This is surface</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سطح</span> | <span class="example-en" dir="ltr" lang="en">I like surface</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سطح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the surface?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سطح عند العيادة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a surface at the clinic, if you need it later, and then I drank some water</span> |
 
 

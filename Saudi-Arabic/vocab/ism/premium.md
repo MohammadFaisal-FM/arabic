@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا غالي</span> | <span class="example-en" dir="ltr" lang="en">This is premium</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب غالي</span> | <span class="example-en" dir="ltr" lang="en">I like premium</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين غالي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the premium?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج غالي الحين عند الباب، عشان الضيوف يوصلون، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a premium now at the door, because guests are arriving, and I also took the brown wallet</span> |
 
 

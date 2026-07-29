@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بالرغم من</span> | <span class="example-en" dir="ltr" lang="en">This is despite</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بالرغم من</span> | <span class="example-en" dir="ltr" lang="en">I like despite</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بالرغم من؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the despite?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بالرغم من قدام المصعد مع الكرتون الفاضي، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a despite in front of the elevator with the empty carton, but keep it near you, and then the phone rang</span> |
 
 

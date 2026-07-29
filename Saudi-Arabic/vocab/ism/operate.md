@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تعمل</span> | <span class="example-en" dir="ltr" lang="en">This is operate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تعمل</span> | <span class="example-en" dir="ltr" lang="en">I like operate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تعمل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the operate?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تعمل قدام المصعد، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put an operate in front of the elevator, so we make the appointment, and then I turned on the fan</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تجربة</span> | <span class="example-en" dir="ltr" lang="en">This is experiment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تجربة</span> | <span class="example-en" dir="ltr" lang="en">I like experiment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تجربة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the experiment?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تجربة الحين جنب النافذة، لأن الوقت ضيق، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need an experiment now beside the window, because time is tight, and I also took the sunglasses</span> |
 
 

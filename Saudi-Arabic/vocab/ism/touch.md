@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يلمس</span> | <span class="example-en" dir="ltr" lang="en">This is touch</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يلمس</span> | <span class="example-en" dir="ltr" lang="en">I like touch</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يلمس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the touch?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يلمس في الدرج مع الدفتر الأزرق، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a touch in the drawer with the blue notebook, because the weather is a bit hot, and then I washed my hands</span> |
 
 

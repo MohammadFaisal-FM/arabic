@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سماء</span> | <span class="example-en" dir="ltr" lang="en">This is heaven</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سماء</span> | <span class="example-en" dir="ltr" lang="en">I like heaven</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سماء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the heaven?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سماء الحين في الحديقة، عشان الصورة تطلع أوضح، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a heaven now in the park, so the photo comes out clearer, and I also took the old alarm</span> |
 
 

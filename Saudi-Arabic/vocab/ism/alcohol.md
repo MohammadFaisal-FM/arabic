@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الكحول</span> | <span class="example-en" dir="ltr" lang="en">This is alcohol</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الكحول</span> | <span class="example-en" dir="ltr" lang="en">I like alcohol</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الكحول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the alcohol?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الكحول في البقالة، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an alcohol at the grocery, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

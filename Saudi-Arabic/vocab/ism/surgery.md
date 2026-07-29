@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جراحة</span> | <span class="example-en" dir="ltr" lang="en">This is surgery</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جراحة</span> | <span class="example-en" dir="ltr" lang="en">I like surgery</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جراحة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the surgery?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جراحة الحين في الغرفة، قبل ما يبرد الأكل، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a surgery now in the room, before the food gets cold, and I also took the spare key</span> |
 
 

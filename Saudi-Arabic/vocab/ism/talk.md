@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يتحدث</span> | <span class="example-en" dir="ltr" lang="en">This is talk</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يتحدث</span> | <span class="example-en" dir="ltr" lang="en">I like talk</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يتحدث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the talk?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يتحدث الحين جنب المسجد، عشان الصورة تطلع أوضح، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a talk now next to the mosque, so the photo comes out clearer, and I also took the pencil</span> |
 
 

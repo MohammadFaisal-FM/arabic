@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا آي بود</span> | <span class="example-en" dir="ltr" lang="en">This is ipod</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب آي بود</span> | <span class="example-en" dir="ltr" lang="en">I like ipod</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين آي بود؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ipod?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج آي بود الحين جنب النافذة، إذا احتجته بعدين، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need an ipod now beside the window, if you need it later, and I also took the sunglasses</span> |
 
 

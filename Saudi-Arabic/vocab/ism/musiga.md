@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحب الموسيقى</span> | <span class="example-en" dir="ltr" lang="en">I love music</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا موسيقى</span> | <span class="example-en" dir="ltr" lang="en">This is a music</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موسيقى</span> | <span class="example-en" dir="ltr" lang="en">I like music</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موسيقى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the music?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت موسيقى على المكتب، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a music on the desk, because the weather is a bit hot, and then I washed my hands</span> |
 
 

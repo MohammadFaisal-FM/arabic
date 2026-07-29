@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نقاط</span> | <span class="example-en" dir="ltr" lang="en">This is points</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نقاط</span> | <span class="example-en" dir="ltr" lang="en">I like points</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نقاط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the points?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نقاط الحين في المطبخ، لأن الزحمة قوية، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a points now in the kitchen, because traffic is heavy, and I also took the paper file</span> |
 
 

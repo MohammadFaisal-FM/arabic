@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وظيفية</span> | <span class="example-en" dir="ltr" lang="en">This is functional</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وظيفية</span> | <span class="example-en" dir="ltr" lang="en">I like functional</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وظيفية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the functional?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج وظيفية الحين قدام المصعد، عشان الضيوف يوصلون، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a functional now in front of the elevator, because guests are arriving, and I also took the empty carton</span> |
 
 

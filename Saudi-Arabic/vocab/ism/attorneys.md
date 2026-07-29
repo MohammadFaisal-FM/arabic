@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المحامين</span> | <span class="example-en" dir="ltr" lang="en">This is attorneys</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المحامين</span> | <span class="example-en" dir="ltr" lang="en">I like attorneys</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المحامين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the attorneys?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المحامين جنب النافذة مع النظارة الشمسية، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an attorneys beside the window with the sunglasses, because the battery is low, and then we prayed</span> |
 
 

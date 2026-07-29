@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سليم</span> | <span class="example-en" dir="ltr" lang="en">This is proper</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سليم</span> | <span class="example-en" dir="ltr" lang="en">I like proper</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سليم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the proper?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سليم في الغرفة مع المفتاح الاحتياطي، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a proper in the room with the spare key, before the food gets cold, and then I wrote a note</span> |
 
 

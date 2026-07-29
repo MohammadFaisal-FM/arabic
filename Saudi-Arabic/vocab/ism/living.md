@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا معيشة</span> | <span class="example-en" dir="ltr" lang="en">This is living</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب معيشة</span> | <span class="example-en" dir="ltr" lang="en">I like living</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين معيشة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the living?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت معيشة عند الاستقبال مع الكوب الزجاج، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a living at reception with the glass cup, before the place closes, and then I charged the device</span> |
 
 

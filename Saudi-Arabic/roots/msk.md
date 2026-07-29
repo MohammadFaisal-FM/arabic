@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">امسك هذي</span> | <span class="example-en" dir="ltr" lang="en">Hold this</span> |
+| <span class="example-ar" dir="rtl" lang="ar">امسك هذي، ولقيت الجورب الأبيض قدام الملعب، قبل ما يجي السائق، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">Hold this, and I found the white sock in front of the pitch, before the driver arrives, and then I turned on the fan</span> |
 
 
 ---

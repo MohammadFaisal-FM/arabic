@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يحتوي</span> | <span class="example-en" dir="ltr" lang="en">This is contain</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يحتوي</span> | <span class="example-en" dir="ltr" lang="en">I like contain</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يحتوي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the contain?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يحتوي الحين تحت السرير، لأن الولد نعسان، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a contain now under the bed, because the boy is sleepy, and I also took the grey scarf</span> |
 
 

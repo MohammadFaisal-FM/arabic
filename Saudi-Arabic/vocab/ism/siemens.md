@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سيمنز</span> | <span class="example-en" dir="ltr" lang="en">This is siemens</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سيمنز</span> | <span class="example-en" dir="ltr" lang="en">I like siemens</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سيمنز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the siemens?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سيمنز في المدرسة، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a siemens at school, because the boy is sleepy, and then I replied to the message</span> |
 
 

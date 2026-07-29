@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المشاهير</span> | <span class="example-en" dir="ltr" lang="en">This is celebrity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المشاهير</span> | <span class="example-en" dir="ltr" lang="en">I like celebrity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المشاهير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the celebrity?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المشاهير الحين عند الصيدلية، لأن الإضاءة أحسن هناك، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a celebrity now at the pharmacy, because the light is better there, and I also took the clear cover</span> |
 
 

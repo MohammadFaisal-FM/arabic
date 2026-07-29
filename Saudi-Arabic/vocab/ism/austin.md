@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أوستن</span> | <span class="example-en" dir="ltr" lang="en">This is austin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أوستن</span> | <span class="example-en" dir="ltr" lang="en">I like austin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أوستن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the austin?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أوستن الحين جنب المسجد، لأن البطارية ضعيفة، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need an austin now next to the mosque, because the battery is low, and I also took the pencil</span> |
 
 

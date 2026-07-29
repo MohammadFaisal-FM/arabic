@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يعامل</span> | <span class="example-en" dir="ltr" lang="en">This is treat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يعامل</span> | <span class="example-en" dir="ltr" lang="en">I like treat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يعامل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the treat?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يعامل الحين في الحقيبة، لأن الزحمة قوية، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a treat now in the bag, because traffic is heavy, and I also took the clean shoes</span> |
 
 

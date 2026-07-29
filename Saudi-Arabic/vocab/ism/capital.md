@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عاصمة</span> | <span class="example-en" dir="ltr" lang="en">This is capital</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عاصمة</span> | <span class="example-en" dir="ltr" lang="en">I like capital</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عاصمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the capital?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عاصمة في المدرسة مع المقص الحاد، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a capital at school with the sharp scissors, before Maghrib prayer, and then I turned off the light</span> |
 
 

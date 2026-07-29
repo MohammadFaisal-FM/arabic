@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قبل</span> | <span class="example-en" dir="ltr" lang="en">This is pre</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قبل</span> | <span class="example-en" dir="ltr" lang="en">I like pre</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قبل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pre?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قبل في المدرسة، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a pre at school, because the boy is sleepy, and then I replied to the message</span> |
 
 

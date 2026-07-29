@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أبريل</span> | <span class="example-en" dir="ltr" lang="en">This is april</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أبريل</span> | <span class="example-en" dir="ltr" lang="en">I like april</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أبريل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the april?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أبريل في الصالون، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put an april in the living room, because guests are arriving, and then I turned on the fan</span> |
 
 

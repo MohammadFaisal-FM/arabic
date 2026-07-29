@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المؤتمرات</span> | <span class="example-en" dir="ltr" lang="en">This is conferences</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المؤتمرات</span> | <span class="example-en" dir="ltr" lang="en">I like conferences</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المؤتمرات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the conferences?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المؤتمرات في الحقيبة مع الحذاء النظيف، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a conferences in the bag with the clean shoes, before the place closes, and then I closed the window</span> |
 
 

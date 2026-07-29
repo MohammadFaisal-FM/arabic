@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عادي</span> | <span class="example-en" dir="ltr" lang="en">This is regular</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عادي</span> | <span class="example-en" dir="ltr" lang="en">I like regular</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عادي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the regular?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عادي في السيارة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a regular in the car, because the boy is sleepy, and then we laughed a bit</span> |
 
 

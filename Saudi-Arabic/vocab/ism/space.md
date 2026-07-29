@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فضاء</span> | <span class="example-en" dir="ltr" lang="en">This is space</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فضاء</span> | <span class="example-en" dir="ltr" lang="en">I like space</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فضاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the space?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فضاء في الدرج، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a space in the drawer, because the weather is a bit hot, and then I wrote a note</span> |
 
 

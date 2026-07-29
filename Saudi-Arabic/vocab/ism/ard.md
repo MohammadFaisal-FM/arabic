@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">في أرض العميان الأعور هو الملك.</span> | <span class="example-en" dir="ltr" lang="en">In the land of the blind, the one-eyed is the king.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أرض عند العيادة مع الدباسة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a ground at the clinic with the stapler, because time is tight, and then we prayed</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فلوريدا</span> | <span class="example-en" dir="ltr" lang="en">This is florida</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فلوريدا</span> | <span class="example-en" dir="ltr" lang="en">I like florida</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فلوريدا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the florida?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فلوريدا قدام المصعد مع الكرتون الفاضي، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a florida in front of the elevator with the empty carton, because guests are arriving, and then I turned on the fan</span> |
 
 

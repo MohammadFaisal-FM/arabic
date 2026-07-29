@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فيغاس</span> | <span class="example-en" dir="ltr" lang="en">This is vegas</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فيغاس</span> | <span class="example-en" dir="ltr" lang="en">I like vegas</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فيغاس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the vegas?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فيغاس جنب النافذة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a vegas beside the window, because time is tight, and then we prayed</span> |
 
 

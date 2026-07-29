@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المستخدمين</span> | <span class="example-en" dir="ltr" lang="en">This is users</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المستخدمين</span> | <span class="example-en" dir="ltr" lang="en">I like users</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المستخدمين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the users?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المستخدمين جنب المسجد، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put an users next to the mosque, because the battery is low, and then we prayed</span> |
 
 

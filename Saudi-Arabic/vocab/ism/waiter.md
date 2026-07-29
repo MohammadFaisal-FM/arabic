@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا النادل</span> | <span class="example-en" dir="ltr" lang="en">This is waiter</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب النادل</span> | <span class="example-en" dir="ltr" lang="en">I like waiter</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين النادل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the waiter?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج النادل الحين عند العيادة، إذا احتجته بعدين، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a waiter now at the clinic, if you need it later, and I also took the stapler</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أحدث</span> | <span class="example-en" dir="ltr" lang="en">This is latest</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أحدث</span> | <span class="example-en" dir="ltr" lang="en">I like latest</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أحدث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the latest?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أحدث في الصالون، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a latest in the living room, but keep it near you, and then the phone rang</span> |
 
 

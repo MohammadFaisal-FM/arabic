@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اتصالات</span> | <span class="example-en" dir="ltr" lang="en">This is contacts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اتصالات</span> | <span class="example-en" dir="ltr" lang="en">I like contacts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اتصالات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the contacts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اتصالات في الصالون مع المنديل النظيف، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a contacts in the living room with the clean tissue, because work finished early, and then the phone rang</span> |
 
 

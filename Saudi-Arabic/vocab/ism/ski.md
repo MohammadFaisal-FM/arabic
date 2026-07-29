@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تزلج</span> | <span class="example-en" dir="ltr" lang="en">This is ski</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تزلج</span> | <span class="example-en" dir="ltr" lang="en">I like ski</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تزلج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ski?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تزلج في المدرسة مع المقص الحاد، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a ski at school with the sharp scissors, because the boy is sleepy, and then we laughed a bit</span> |
 
 

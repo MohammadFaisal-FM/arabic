@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يأتي</span> | <span class="example-en" dir="ltr" lang="en">This is comes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يأتي</span> | <span class="example-en" dir="ltr" lang="en">I like comes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يأتي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the comes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يأتي تحت السرير، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a comes under the bed, because the boy is sleepy, and then I replied to the message</span> |
 
 

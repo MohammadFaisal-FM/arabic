@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أعرف الطريق</span> | <span class="example-en" dir="ltr" lang="en">I know the way</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أعرف الطريق، ولقيت المحفظة البنية في الغرفة، لأن الزحمة قوية، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I know the way, and I found the brown wallet in the room, because traffic is heavy, and then I turned on the fan</span> |
 
 
 ---

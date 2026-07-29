@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تعليمات</span> | <span class="example-en" dir="ltr" lang="en">This is instruction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تعليمات</span> | <span class="example-en" dir="ltr" lang="en">I like instruction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تعليمات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the instruction?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تعليمات الحين تحت السرير، لأن الولد نعسان، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need an instruction now under the bed, because the boy is sleepy, and I also took the grey scarf</span> |
 
 

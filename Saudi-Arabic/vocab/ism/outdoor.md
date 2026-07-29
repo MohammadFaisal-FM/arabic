@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا في الهواء الطلق</span> | <span class="example-en" dir="ltr" lang="en">This is outdoor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب في الهواء الطلق</span> | <span class="example-en" dir="ltr" lang="en">I like outdoor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين في الهواء الطلق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the outdoor?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت في الهواء الطلق جنب المسجد مع القلم الرصاص، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found an outdoor next to the mosque with the pencil, because time is tight, and then I drank some water</span> |
 
 

@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كف عن إزعاج والدك</span> | <span class="example-en" dir="ltr" lang="en">Stop annoying your father</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا ازعاج</span> | <span class="example-en" dir="ltr" lang="en">This is a harassment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ازعاج</span> | <span class="example-en" dir="ltr" lang="en">I like harassment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ازعاج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the harassment?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ازعاج الحين في السيارة، قبل صلاة المغرب، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a harassment now in the car, before Maghrib prayer, and I also took the soft pillow</span> |
 
 

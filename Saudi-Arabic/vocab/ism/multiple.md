@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عديد</span> | <span class="example-en" dir="ltr" lang="en">This is multiple</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عديد</span> | <span class="example-en" dir="ltr" lang="en">I like multiple</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عديد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the multiple?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عديد في الحديقة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a multiple in the park, if you need it later, and then we prayed</span> |
 
 

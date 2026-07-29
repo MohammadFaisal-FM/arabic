@@ -14,9 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فعل</span> | <span class="example-en" dir="ltr" lang="en">This is a verb</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فعل</span> | <span class="example-en" dir="ltr" lang="en">I like verb</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فعل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the verb?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فعل في الغرفة، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a verb in the room, for studying tomorrow, and then I wrote a note</span> |
 
 
 ### Links

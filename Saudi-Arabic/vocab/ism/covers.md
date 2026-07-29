@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يغطي</span> | <span class="example-en" dir="ltr" lang="en">This is covers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يغطي</span> | <span class="example-en" dir="ltr" lang="en">I like covers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يغطي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the covers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يغطي في البقالة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a covers at the grocery, before Maghrib prayer, and then I replied to the message</span> |
 
 

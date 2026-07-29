@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فوائد</span> | <span class="example-en" dir="ltr" lang="en">This is benefits</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فوائد</span> | <span class="example-en" dir="ltr" lang="en">I like benefits</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فوائد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the benefits?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فوائد عند الاستقبال مع الكوب الزجاج، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a benefits at reception with the glass cup, so revision is easier, and then I closed the window</span> |
 
 

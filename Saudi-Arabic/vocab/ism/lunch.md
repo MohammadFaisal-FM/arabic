@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا غداء</span> | <span class="example-en" dir="ltr" lang="en">This is lunch</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب غداء</span> | <span class="example-en" dir="ltr" lang="en">I like lunch</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين غداء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lunch?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت غداء في الغرفة مع المفتاح الاحتياطي، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a lunch in the room with the spare key, before the food gets cold, and then I wrote a note</span> |
 
 

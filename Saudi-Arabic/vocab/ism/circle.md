@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دائرة</span> | <span class="example-en" dir="ltr" lang="en">This is circle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دائرة</span> | <span class="example-en" dir="ltr" lang="en">I like circle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دائرة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the circle?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت دائرة في الصالون مع المنديل النظيف، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a circle in the living room with the clean tissue, so we make the appointment, and then the phone rang</span> |
 
 

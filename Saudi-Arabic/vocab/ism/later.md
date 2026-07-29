@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لاحقاً</span> | <span class="example-en" dir="ltr" lang="en">This is later</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لاحقاً</span> | <span class="example-en" dir="ltr" lang="en">I like later</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لاحقاً؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the later?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت لاحقاً في المدرسة مع المقص الحاد، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a later at school with the sharp scissors, because the boy is sleepy, and then we laughed a bit</span> |
 
 

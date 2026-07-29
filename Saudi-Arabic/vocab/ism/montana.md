@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مونتانا</span> | <span class="example-en" dir="ltr" lang="en">This is montana</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مونتانا</span> | <span class="example-en" dir="ltr" lang="en">I like montana</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مونتانا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the montana?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مونتانا جنب المسجد مع القلم الرصاص، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a montana next to the mosque with the pencil, so the photo comes out clearer, and then we prayed</span> |
 
 

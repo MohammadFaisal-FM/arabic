@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كل شئ</span> | <span class="example-en" dir="ltr" lang="en">This is everything</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كل شئ</span> | <span class="example-en" dir="ltr" lang="en">I like everything</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كل شئ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the everything?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كل شئ في الحديقة مع المنبه القديميم، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an everything in the park with the old alarm, because time is tight, and then we locked the door</span> |
 
 

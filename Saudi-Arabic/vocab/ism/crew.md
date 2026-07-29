@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طاقم</span> | <span class="example-en" dir="ltr" lang="en">This is crew</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طاقم</span> | <span class="example-en" dir="ltr" lang="en">I like crew</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طاقم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the crew?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت طاقم في السيارة مع الوسادة الناعمة، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a crew in the car with the soft pillow, so we are not late, and then we laughed a bit</span> |
 
 

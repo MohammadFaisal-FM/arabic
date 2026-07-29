@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سحر</span> | <span class="example-en" dir="ltr" lang="en">This is magic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سحر</span> | <span class="example-en" dir="ltr" lang="en">I like magic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سحر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the magic?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سحر عند الصيدلية مع الغطاء الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a magic at the pharmacy with the clear cover, for studying tomorrow, and then I tidied the table</span> |
 
 

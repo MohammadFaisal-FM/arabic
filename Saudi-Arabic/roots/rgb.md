@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أرغب في القهوة</span> | <span class="example-en" dir="ltr" lang="en">I’d like coffee</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أرغب في القهوة، ولقيت اللاصق الشفاف في الحديقة، عشان ما نتأخر، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I’d like coffee, and I found the clear tape in the park, so we are not late, and then I washed my hands</span> |
 
 
 ---

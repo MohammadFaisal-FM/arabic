@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الضرائب</span> | <span class="example-en" dir="ltr" lang="en">This is taxes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الضرائب</span> | <span class="example-en" dir="ltr" lang="en">I like taxes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الضرائب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the taxes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الضرائب في المطبخ مع الملف الورقي، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a taxes in the kitchen with the paper file, so revision is easier, and then I charged the device</span> |
 
 

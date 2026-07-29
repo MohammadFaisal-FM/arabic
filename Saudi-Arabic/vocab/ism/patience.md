@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الصبر</span> | <span class="example-en" dir="ltr" lang="en">This is patience</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الصبر</span> | <span class="example-en" dir="ltr" lang="en">I like patience</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الصبر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the patience?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الصبر في البقالة مع الشاحن الطويل، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a patience at the grocery with the long charger, so it doesn’t get lost, and then I turned off the light</span> |
 
 

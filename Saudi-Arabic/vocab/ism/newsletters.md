@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا النشرات الإخبارية</span> | <span class="example-en" dir="ltr" lang="en">This is newsletters</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب النشرات الإخبارية</span> | <span class="example-en" dir="ltr" lang="en">I like newsletters</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين النشرات الإخبارية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the newsletters?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت النشرات الإخبارية في الحديقة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a newsletters in the park, so the photo comes out clearer, and then we locked the door</span> |
 
 

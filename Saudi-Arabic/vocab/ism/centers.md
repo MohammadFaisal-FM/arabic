@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المراكز</span> | <span class="example-en" dir="ltr" lang="en">This is centers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المراكز</span> | <span class="example-en" dir="ltr" lang="en">I like centers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المراكز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the centers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المراكز في الغرفة مع المفتاح الاحتياطي، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a centers in the room with the spare key, because the light is better there, and then I tidied the table</span> |
 
 

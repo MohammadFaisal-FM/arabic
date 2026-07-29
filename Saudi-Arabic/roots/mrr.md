@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">مرّيت من عندك</span> | <span class="example-en" dir="ltr" lang="en">I passed by you</span> |
+| <span class="example-ar" dir="rtl" lang="ar">مرّيت من عندك، ولقيت القبعة الصيفية في المطبخ، عشان نلحق الموعد، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I passed by you, and I found the summer hat in the kitchen, so we make the appointment, and then we prayed</span> |
 
 
 ---

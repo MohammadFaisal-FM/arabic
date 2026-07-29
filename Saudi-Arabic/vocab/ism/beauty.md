@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جمال</span> | <span class="example-en" dir="ltr" lang="en">This is beauty</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جمال</span> | <span class="example-en" dir="ltr" lang="en">I like beauty</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جمال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the beauty?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جمال الحين في الثلاجة، عشان الصورة تطلع أوضح، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a beauty now in the fridge, so the photo comes out clearer, and I also took the summer hat</span> |
 
 

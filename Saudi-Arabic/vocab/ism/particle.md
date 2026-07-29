@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جسيم</span> | <span class="example-en" dir="ltr" lang="en">This is particle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جسيم</span> | <span class="example-en" dir="ltr" lang="en">I like particle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جسيم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the particle?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جسيم في الثلاجة مع القبعة الصيفية، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a particle in the fridge with the summer hat, so the photo comes out clearer, and then we locked the door</span> |
 
 

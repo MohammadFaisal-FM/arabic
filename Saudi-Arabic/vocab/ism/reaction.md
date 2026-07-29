@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رد فعل</span> | <span class="example-en" dir="ltr" lang="en">This is reaction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رد فعل</span> | <span class="example-en" dir="ltr" lang="en">I like reaction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رد فعل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reaction?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رد فعل في المطبخ مع الملف الورقي، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a reaction in the kitchen with the paper file, because traffic is heavy, and then I closed the window</span> |
 
 

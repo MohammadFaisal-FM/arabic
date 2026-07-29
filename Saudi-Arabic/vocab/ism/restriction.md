@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تقييد</span> | <span class="example-en" dir="ltr" lang="en">This is restriction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تقييد</span> | <span class="example-en" dir="ltr" lang="en">I like restriction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تقييد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the restriction?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تقييد الحين قدام الملعب، لأن الجو حار شوي، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a restriction now in front of the pitch, because the weather is a bit hot, and I also took the clear tape</span> |
 
 

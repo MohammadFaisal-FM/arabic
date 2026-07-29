@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أصابه الصلع في شبابه.</span> | <span class="example-en" dir="ltr" lang="en">He became bald in his youth.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اصابه</span> | <span class="example-en" dir="ltr" lang="en">This is a infection</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اصابه</span> | <span class="example-en" dir="ltr" lang="en">I like infection</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اصابه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the infection?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اصابه الحين على المكتب، قبل ما يبرد الأكل، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need an infection now on the desk, before the food gets cold, and I also took the light blanket</span> |
 
 

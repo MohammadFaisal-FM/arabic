@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الطائرات</span> | <span class="example-en" dir="ltr" lang="en">This is aircraft</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الطائرات</span> | <span class="example-en" dir="ltr" lang="en">I like aircraft</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الطائرات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the aircraft?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الطائرات عند الباب، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put an aircraft at the door, but keep it near you, and then the boy slept</span> |
 
 

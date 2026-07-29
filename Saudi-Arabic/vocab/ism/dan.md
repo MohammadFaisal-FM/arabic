@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دان</span> | <span class="example-en" dir="ltr" lang="en">This is dan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دان</span> | <span class="example-en" dir="ltr" lang="en">I like dan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dan?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج دان الحين في الحقيبة، قبل ما يجي السائق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a dan now in the bag, before the driver arrives, and I also took the clean shoes</span> |
 
 

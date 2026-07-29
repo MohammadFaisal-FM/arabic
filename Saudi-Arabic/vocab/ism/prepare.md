@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يحضر</span> | <span class="example-en" dir="ltr" lang="en">This is prepare</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يحضر</span> | <span class="example-en" dir="ltr" lang="en">I like prepare</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يحضر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the prepare?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يحضر في الثلاجة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a prepare in the fridge, because the battery is low, and then we locked the door</span> |
 
 

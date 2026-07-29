@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سبا</span> | <span class="example-en" dir="ltr" lang="en">This is spa</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سبا</span> | <span class="example-en" dir="ltr" lang="en">I like spa</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سبا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the spa?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سبا في الصالون، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a spa in the living room, because work finished early, and then the boy slept</span> |
 
 

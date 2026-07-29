@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صلب</span> | <span class="example-en" dir="ltr" lang="en">This is solid</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صلب</span> | <span class="example-en" dir="ltr" lang="en">I like solid</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صلب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the solid?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت صلب قدام المصعد مع الكرتون الفاضي، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a solid in front of the elevator with the empty carton, because guests are arriving, and then I turned on the fan</span> |
 
 

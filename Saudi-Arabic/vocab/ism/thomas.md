@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا توماس</span> | <span class="example-en" dir="ltr" lang="en">This is thomas</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب توماس</span> | <span class="example-en" dir="ltr" lang="en">I like thomas</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين توماس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the thomas?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت توماس قدام التلفاز، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a thomas in front of the TV, but keep it near you, and then I turned on the fan</span> |
 
 

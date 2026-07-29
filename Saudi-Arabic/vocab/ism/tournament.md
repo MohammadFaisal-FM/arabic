@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا البطولة</span> | <span class="example-en" dir="ltr" lang="en">This is tournament</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب البطولة</span> | <span class="example-en" dir="ltr" lang="en">I like tournament</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين البطولة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tournament?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت البطولة في السيارة مع الوسادة الناعمة، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a tournament in the car with the soft pillow, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

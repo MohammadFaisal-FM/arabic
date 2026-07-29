@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يُقدِّم</span> | <span class="example-en" dir="ltr" lang="en">This is submit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يُقدِّم</span> | <span class="example-en" dir="ltr" lang="en">I like submit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يُقدِّم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the submit?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يُقدِّم الحين في المكتبة، قبل ما يجي السائق، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a submit now in the library, before the driver arrives, and I also took the small spoon</span> |
 
 

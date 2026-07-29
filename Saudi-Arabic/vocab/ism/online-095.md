@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">يتكون الماء من هيدروجين و أكسجين.</span> | <span class="example-en" dir="ltr" lang="en">Water consists of hydrogen and oxygen.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اكسجين الحين عند الباب، لأن الشغل خلص بدري، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an oxygen now at the door, because work finished early, and I also took the brown wallet</span> |
 
 

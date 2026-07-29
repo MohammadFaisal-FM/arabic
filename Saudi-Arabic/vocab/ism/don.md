@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اِتَّشَح</span> | <span class="example-en" dir="ltr" lang="en">This is don</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اِتَّشَح</span> | <span class="example-en" dir="ltr" lang="en">I like don</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اِتَّشَح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the don?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اِتَّشَح في الحقيبة مع الحذاء النظيف، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a don in the bag with the clean shoes, before the driver arrives, and then I closed the window</span> |
 
 

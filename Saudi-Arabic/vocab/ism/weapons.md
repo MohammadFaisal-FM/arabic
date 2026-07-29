@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أسلحة</span> | <span class="example-en" dir="ltr" lang="en">This is weapons</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أسلحة</span> | <span class="example-en" dir="ltr" lang="en">I like weapons</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أسلحة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the weapons?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أسلحة في المحطة، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a weapons at the station, because guests are arriving, and then the boy slept</span> |
 
 

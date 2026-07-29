@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دمار</span> | <span class="example-en" dir="ltr" lang="en">This is destruction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دمار</span> | <span class="example-en" dir="ltr" lang="en">I like destruction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دمار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the destruction?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دمار قدام الملعب، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a destruction in front of the pitch, before the food gets cold, and then I wrote a note</span> |
 
 

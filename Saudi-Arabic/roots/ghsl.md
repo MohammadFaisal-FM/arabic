@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">اغسل يدك</span> | <span class="example-en" dir="ltr" lang="en">Wash your hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">اغسل يدك، ولقيت القبعة الصيفية في المطبخ، لأن الشغل خلص بدري، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">Wash your hands, and I found the summer hat in the kitchen, because work finished early, and then we locked the door</span> |
 
 
 ---

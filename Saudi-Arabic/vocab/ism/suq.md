@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أروح السوق</span> | <span class="example-en" dir="ltr" lang="en">I go to the market</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا سوق</span> | <span class="example-en" dir="ltr" lang="en">This is a market</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سوق</span> | <span class="example-en" dir="ltr" lang="en">I like market</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سوق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the market?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سوق عند الباب مع المحفظة البنية، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a market at the door with the brown wallet, but keep it near you, and then the phone rang</span> |
 
 

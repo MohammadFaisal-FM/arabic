@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موافقة</span> | <span class="example-en" dir="ltr" lang="en">This is approval</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موافقة</span> | <span class="example-en" dir="ltr" lang="en">I like approval</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موافقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the approval?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج موافقة الحين عند العيادة، لأن الوقت ضيق، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need an approval now at the clinic, because time is tight, and I also took the stapler</span> |
 
 

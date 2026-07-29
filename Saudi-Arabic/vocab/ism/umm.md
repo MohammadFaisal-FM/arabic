@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أمي</span> | <span class="example-en" dir="ltr" lang="en">My mom</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا أم</span> | <span class="example-en" dir="ltr" lang="en">This is a mother</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أم</span> | <span class="example-en" dir="ltr" lang="en">I like mother</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mother?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت أم عند الاستقبال، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I saw a mother at reception, before the place closes, and then I charged the device</span> |
 
 

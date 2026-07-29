@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أكسيد</span> | <span class="example-en" dir="ltr" lang="en">This is oxide</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أكسيد</span> | <span class="example-en" dir="ltr" lang="en">I like oxide</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أكسيد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the oxide?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أكسيد قدام المصعد مع الكرتون الفاضي، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an oxide in front of the elevator with the empty carton, because work finished early, and then the boy slept</span> |
 
 

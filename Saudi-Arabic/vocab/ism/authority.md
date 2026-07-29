@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سلطة</span> | <span class="example-en" dir="ltr" lang="en">This is authority</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سلطة</span> | <span class="example-en" dir="ltr" lang="en">I like authority</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سلطة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the authority?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سلطة في السيارة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put an authority in the car, before Maghrib prayer, and then I turned off the light</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نيوزيلندا</span> | <span class="example-en" dir="ltr" lang="en">This is zealand</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نيوزيلندا</span> | <span class="example-en" dir="ltr" lang="en">I like zealand</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نيوزيلندا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the zealand?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نيوزيلندا الحين في الغرفة، عشان الدراسة بكرة، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a zealand now in the room, for studying tomorrow, and I also took the spare key</span> |
 
 

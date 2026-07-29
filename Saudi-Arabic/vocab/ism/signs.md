@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا علامات</span> | <span class="example-en" dir="ltr" lang="en">This is signs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب علامات</span> | <span class="example-en" dir="ltr" lang="en">I like signs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين علامات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the signs?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت علامات في السيارة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a signs in the car, before Maghrib prayer, and then I turned off the light</span> |
 
 

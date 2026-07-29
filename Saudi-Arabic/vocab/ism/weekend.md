@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عطلة نهاية الأسبوع</span> | <span class="example-en" dir="ltr" lang="en">This is weekend</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عطلة نهاية الأسبوع</span> | <span class="example-en" dir="ltr" lang="en">I like weekend</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عطلة نهاية الأسبوع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the weekend?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عطلة نهاية الأسبوع على المكتب مع البطانية الخفيفة، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a weekend on the desk with the light blanket, for studying tomorrow, and then I washed my hands</span> |
 
 

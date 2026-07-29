@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المعلمة</span> | <span class="example-en" dir="ltr" lang="en">This is parameter</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المعلمة</span> | <span class="example-en" dir="ltr" lang="en">I like parameter</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المعلمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the parameter?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المعلمة في المطبخ مع الملف الورقي، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a parameter in the kitchen with the paper file, before the place closes, and then I wiped the floor</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">مات البطارية</span> | <span class="example-en" dir="ltr" lang="en">The battery died</span> |
+| <span class="example-ar" dir="rtl" lang="ar">مات البطارية، ولقيت الوشاح الرمادي عند الباب، لأن الوقت ضيق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">The battery died, and I found the grey scarf at the door, because time is tight, and then I replied to the message</span> |
 
 
 ---

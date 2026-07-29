@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الرحلات البحرية</span> | <span class="example-en" dir="ltr" lang="en">This is cruises</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الرحلات البحرية</span> | <span class="example-en" dir="ltr" lang="en">I like cruises</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الرحلات البحرية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cruises?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الرحلات البحرية عند الاستقبال، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a cruises at reception, because traffic is heavy, and then I closed the window</span> |
 
 

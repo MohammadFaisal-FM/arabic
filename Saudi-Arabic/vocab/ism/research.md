@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بحث</span> | <span class="example-en" dir="ltr" lang="en">This is research</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بحث</span> | <span class="example-en" dir="ltr" lang="en">I like research</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بحث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the research?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بحث تحت السرير مع الوشاح الرمادي، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a research under the bed with the grey scarf, so it doesn’t get lost, and then I replied to the message</span> |
 
 

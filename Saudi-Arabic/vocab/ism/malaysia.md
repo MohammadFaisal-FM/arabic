@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ماليزيا</span> | <span class="example-en" dir="ltr" lang="en">This is malaysia</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ماليزيا</span> | <span class="example-en" dir="ltr" lang="en">I like malaysia</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ماليزيا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the malaysia?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ماليزيا جنب البنك مع الزجاجة الفارغة، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a malaysia next to the bank with the empty bottle, before the driver arrives, and then I closed the window</span> |
 
 

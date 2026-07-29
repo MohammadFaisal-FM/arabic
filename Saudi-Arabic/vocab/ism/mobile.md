@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا متحرك</span> | <span class="example-en" dir="ltr" lang="en">This is mobile</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب متحرك</span> | <span class="example-en" dir="ltr" lang="en">I like mobile</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين متحرك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mobile?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت متحرك في الحديقة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a mobile in the park, so the photo comes out clearer, and then we locked the door</span> |
 
 

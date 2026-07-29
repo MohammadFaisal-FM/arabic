@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جيمس</span> | <span class="example-en" dir="ltr" lang="en">This is james</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جيمس</span> | <span class="example-en" dir="ltr" lang="en">I like james</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جيمس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the james?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جيمس في المحطة مع الكابل القصير، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a james at the station with the short cable, because guests are arriving, and then the phone rang</span> |
 
 

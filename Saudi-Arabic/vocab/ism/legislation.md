@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تشريع</span> | <span class="example-en" dir="ltr" lang="en">This is legislation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تشريع</span> | <span class="example-en" dir="ltr" lang="en">I like legislation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تشريع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the legislation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تشريع في الغرفة مع المفتاح الاحتياطي، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a legislation in the room with the spare key, for studying tomorrow, and then I washed my hands</span> |
 
 

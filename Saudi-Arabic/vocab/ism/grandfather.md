@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جد</span> | <span class="example-en" dir="ltr" lang="en">This is grandfather</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جد</span> | <span class="example-en" dir="ltr" lang="en">I like grandfather</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the grandfather?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">جد كان/كانت قدام التلفاز، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">a grandfather was in front of the TV, so we make the appointment, and then the boy slept</span> |
 
 

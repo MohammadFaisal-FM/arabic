@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صورة</span> | <span class="example-en" dir="ltr" lang="en">This is photo</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صورة</span> | <span class="example-en" dir="ltr" lang="en">I like photo</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صورة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the photo?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صورة في الثلاجة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a photo in the fridge, if you need it later, and then I drank some water</span> |
 
 

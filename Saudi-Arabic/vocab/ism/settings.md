@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إعدادات</span> | <span class="example-en" dir="ltr" lang="en">This is settings</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إعدادات</span> | <span class="example-en" dir="ltr" lang="en">I like settings</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إعدادات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the settings?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت إعدادات عند الاستقبال، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a settings at reception, before the driver arrives, and then I wiped the floor</span> |
 
 

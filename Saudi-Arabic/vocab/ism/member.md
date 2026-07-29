@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عضو</span> | <span class="example-en" dir="ltr" lang="en">This is member</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عضو</span> | <span class="example-en" dir="ltr" lang="en">I like member</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عضو؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the member?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عضو الحين في الصالون، عشان الضيوف يوصلون، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a member now in the living room, because guests are arriving, and I also took the clean tissue</span> |
 
 

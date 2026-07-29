@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مساعد</span> | <span class="example-en" dir="ltr" lang="en">This is assistant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مساعد</span> | <span class="example-en" dir="ltr" lang="en">I like assistant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مساعد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the assistant?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مساعد في المحطة، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put an assistant at the station, because guests are arriving, and then the boy slept</span> |
 
 

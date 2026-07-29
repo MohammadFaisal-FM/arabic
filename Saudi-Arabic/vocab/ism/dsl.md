@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دي إس إل</span> | <span class="example-en" dir="ltr" lang="en">This is dsl</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دي إس إل</span> | <span class="example-en" dir="ltr" lang="en">I like dsl</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دي إس إل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dsl?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دي إس إل عند الصيدلية، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a dsl at the pharmacy, because the weather is a bit hot, and then I tidied the table</span> |
 
 

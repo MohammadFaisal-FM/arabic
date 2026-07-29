@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يعكس</span> | <span class="example-en" dir="ltr" lang="en">This is reflect</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يعكس</span> | <span class="example-en" dir="ltr" lang="en">I like reflect</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يعكس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reflect?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يعكس في الدرج مع الدفتر الأزرق، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a reflect in the drawer with the blue notebook, because the weather is a bit hot, and then I washed my hands</span> |
 
 

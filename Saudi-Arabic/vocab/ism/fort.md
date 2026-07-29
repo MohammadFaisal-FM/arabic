@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حصن</span> | <span class="example-en" dir="ltr" lang="en">This is fort</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حصن</span> | <span class="example-en" dir="ltr" lang="en">I like fort</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حصن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fort?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حصن في الثلاجة مع القبعة الصيفية، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a fort in the fridge with the summer hat, if you need it later, and then we prayed</span> |
 
 

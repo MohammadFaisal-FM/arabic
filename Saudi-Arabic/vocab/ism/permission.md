@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إذن</span> | <span class="example-en" dir="ltr" lang="en">This is permission</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إذن</span> | <span class="example-en" dir="ltr" lang="en">I like permission</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إذن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the permission?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إذن عند الباب مع المحفظة البنية، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a permission at the door with the brown wallet, because guests are arriving, and then I turned on the fan</span> |
 
 

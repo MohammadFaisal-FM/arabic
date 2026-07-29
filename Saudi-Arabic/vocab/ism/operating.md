@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التشغيل</span> | <span class="example-en" dir="ltr" lang="en">This is operating</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التشغيل</span> | <span class="example-en" dir="ltr" lang="en">I like operating</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التشغيل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the operating?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التشغيل عند الصيدلية، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put an operating at the pharmacy, because the light is better there, and then I tidied the table</span> |
 
 

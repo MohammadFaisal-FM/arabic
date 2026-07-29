@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الطابق السفلي</span> | <span class="example-en" dir="ltr" lang="en">This is basement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الطابق السفلي</span> | <span class="example-en" dir="ltr" lang="en">I like basement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الطابق السفلي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the basement?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الطابق السفلي في الحقيبة، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a basement in the bag, because traffic is heavy, and then I wiped the floor</span> |
 
 

@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">يجب أن يتمّ إخلاء العيادة.</span> | <span class="example-en" dir="ltr" lang="en">The clinic must be evacuated.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اخلاء</span> | <span class="example-en" dir="ltr" lang="en">This is a evacuation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اخلاء</span> | <span class="example-en" dir="ltr" lang="en">I like evacuation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اخلاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the evacuation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اخلاء الحين في الصالون، بس خلّه قريب منك، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an evacuation now in the living room, but keep it near you, and I also took the clean tissue</span> |
 
 

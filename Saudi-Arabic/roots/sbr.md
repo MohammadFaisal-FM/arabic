@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">اصبر شوي</span> | <span class="example-en" dir="ltr" lang="en">Be patient a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">اصبر شوي، ولقيت الغطاء الشفاف في الثلاجة، عشان ما يضيع، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">Be patient a bit, and I found the clear cover in the fridge, so it doesn’t get lost, and then I washed my hands</span> |
 
 
 ---

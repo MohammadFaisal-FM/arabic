@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وظيفة</span> | <span class="example-en" dir="ltr" lang="en">This is job</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وظيفة</span> | <span class="example-en" dir="ltr" lang="en">I like job</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وظيفة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the job?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت وظيفة في السيارة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a job in the car, before Maghrib prayer, and then I turned off the light</span> |
 
 

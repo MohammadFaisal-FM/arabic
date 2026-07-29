@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مبيعات</span> | <span class="example-en" dir="ltr" lang="en">This is sales</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مبيعات</span> | <span class="example-en" dir="ltr" lang="en">I like sales</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مبيعات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sales?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مبيعات على المكتب مع البطانية الخفيفة، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a sales on the desk with the light blanket, before the food gets cold, and then I wrote a note</span> |
 
 

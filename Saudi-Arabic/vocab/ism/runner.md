@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عداء</span> | <span class="example-en" dir="ltr" lang="en">This is runner</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عداء</span> | <span class="example-en" dir="ltr" lang="en">I like runner</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عداء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the runner?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عداء في الصالون مع المنديل النظيف، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a runner in the living room with the clean tissue, so we make the appointment, and then the phone rang</span> |
 
 

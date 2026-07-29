@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ممرضة</span> | <span class="example-en" dir="ltr" lang="en">This is nurse</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ممرضة</span> | <span class="example-en" dir="ltr" lang="en">I like nurse</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ممرضة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the nurse?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ممرضة الحين في المدرسة، عشان ما يضيع، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a nurse now at school, so it doesn’t get lost, and I also took the sharp scissors</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطها / ضعها هنا</span> | <span class="example-en" dir="ltr" lang="en">Put it here</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطها / ضعها هنا، ولقيت الزجاجة الفارغة في البقالة، قبل ما يبرد الأكل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">Put it here, and I found the empty bottle at the grocery, before the food gets cold, and then I wiped the floor</span> |
 
 
 ---

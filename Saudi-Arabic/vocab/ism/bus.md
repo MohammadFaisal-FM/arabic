@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">الباص جاي</span> | <span class="example-en" dir="ltr" lang="en">The bus is coming</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا باص</span> | <span class="example-en" dir="ltr" lang="en">This is a bus</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب باص</span> | <span class="example-en" dir="ltr" lang="en">I like bus</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين باص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bus?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت باص جنب المسجد مع القلم الرصاص، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a bus next to the mosque with the pencil, so the photo comes out clearer, and then we prayed</span> |
 
 

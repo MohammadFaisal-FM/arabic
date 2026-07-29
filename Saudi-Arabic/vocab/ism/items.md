@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أغراض</span> | <span class="example-en" dir="ltr" lang="en">This is items</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أغراض</span> | <span class="example-en" dir="ltr" lang="en">I like items</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أغراض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the items?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أغراض الحين على المكتب، لأن الإضاءة أحسن هناك، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need an items now on the desk, because the light is better there, and I also took the light blanket</span> |
 
 

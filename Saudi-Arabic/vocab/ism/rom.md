@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ذاكرة للقراءة فقط</span> | <span class="example-en" dir="ltr" lang="en">This is rom</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ذاكرة للقراءة فقط</span> | <span class="example-en" dir="ltr" lang="en">I like rom</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ذاكرة للقراءة فقط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rom?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ذاكرة للقراءة فقط في الحقيبة مع الحذاء النظيف، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a rom in the bag with the clean shoes, because traffic is heavy, and then I charged the device</span> |
 
 

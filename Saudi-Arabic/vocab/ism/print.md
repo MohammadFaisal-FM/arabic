@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مطبعة</span> | <span class="example-en" dir="ltr" lang="en">This is print</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مطبعة</span> | <span class="example-en" dir="ltr" lang="en">I like print</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مطبعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the print?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مطبعة جنب المسجد، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a print next to the mosque, so the photo comes out clearer, and then I drank some water</span> |
 
 

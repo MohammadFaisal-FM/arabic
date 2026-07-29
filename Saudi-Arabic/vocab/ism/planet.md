@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كوكب</span> | <span class="example-en" dir="ltr" lang="en">This is planet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كوكب</span> | <span class="example-en" dir="ltr" lang="en">I like planet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كوكب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the planet?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كوكب عند العيادة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a planet at the clinic, so the photo comes out clearer, and then we prayed</span> |
 
 

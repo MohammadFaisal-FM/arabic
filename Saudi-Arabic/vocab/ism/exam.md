@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا امتحان</span> | <span class="example-en" dir="ltr" lang="en">This is exam</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب امتحان</span> | <span class="example-en" dir="ltr" lang="en">I like exam</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين امتحان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the exam?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج امتحان الحين في الثلاجة، لأن البطارية ضعيفة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an exam now in the fridge, because the battery is low, and I also took the summer hat</span> |
 
 

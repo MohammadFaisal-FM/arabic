@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طرف</span> | <span class="example-en" dir="ltr" lang="en">This is limb</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طرف</span> | <span class="example-en" dir="ltr" lang="en">I like limb</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طرف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the limb?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت طرف قدام التلفاز مع الجورب الأبيض، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a limb in front of the TV with the white sock, so we make the appointment, and then I turned on the fan</span> |
 
 

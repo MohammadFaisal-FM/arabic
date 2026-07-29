@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جمعة</span> | <span class="example-en" dir="ltr" lang="en">This is friday</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جمعة</span> | <span class="example-en" dir="ltr" lang="en">I like friday</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جمعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the friday?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جمعة جنب البنك مع الزجاجة الفارغة، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a friday next to the bank with the empty bottle, because traffic is heavy, and then I charged the device</span> |
 
 

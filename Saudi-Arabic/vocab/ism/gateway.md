@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بوابة</span> | <span class="example-en" dir="ltr" lang="en">This is gateway</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بوابة</span> | <span class="example-en" dir="ltr" lang="en">I like gateway</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بوابة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the gateway?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بوابة الحين قدام التلفاز، عشان نلحق الموعد، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a gateway now in front of the TV, so we make the appointment, and I also took the white sock</span> |
 
 

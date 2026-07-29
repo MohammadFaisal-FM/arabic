@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قفل</span> | <span class="example-en" dir="ltr" lang="en">This is lock</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قفل</span> | <span class="example-en" dir="ltr" lang="en">I like lock</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قفل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lock?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قفل عند العيادة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a lock at the clinic, because time is tight, and then I drank some water</span> |
 
 

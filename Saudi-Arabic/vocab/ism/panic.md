@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ذعر</span> | <span class="example-en" dir="ltr" lang="en">This is panic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ذعر</span> | <span class="example-en" dir="ltr" lang="en">I like panic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ذعر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the panic?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ذعر عند العيادة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a panic at the clinic, because time is tight, and then I drank some water</span> |
 
 

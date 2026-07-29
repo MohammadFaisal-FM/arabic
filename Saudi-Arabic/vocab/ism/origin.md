@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أصل</span> | <span class="example-en" dir="ltr" lang="en">This is origin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أصل</span> | <span class="example-en" dir="ltr" lang="en">I like origin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أصل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the origin?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أصل عند الصيدلية، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put an origin at the pharmacy, because the light is better there, and then I tidied the table</span> |
 
 

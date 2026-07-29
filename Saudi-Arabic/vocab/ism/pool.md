@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حمام سباحة</span> | <span class="example-en" dir="ltr" lang="en">This is pool</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حمام سباحة</span> | <span class="example-en" dir="ltr" lang="en">I like pool</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حمام سباحة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pool?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حمام سباحة في البقالة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a pool at the grocery, before Maghrib prayer, and then I replied to the message</span> |
 
 

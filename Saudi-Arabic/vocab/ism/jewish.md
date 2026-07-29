@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يهودي</span> | <span class="example-en" dir="ltr" lang="en">This is jewish</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يهودي</span> | <span class="example-en" dir="ltr" lang="en">I like jewish</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يهودي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jewish?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يهودي الحين على المكتب، لأن الإضاءة أحسن هناك، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a jewish now on the desk, because the light is better there, and I also took the light blanket</span> |
 
 

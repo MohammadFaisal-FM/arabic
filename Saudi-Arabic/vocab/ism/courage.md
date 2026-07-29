@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شجاعة</span> | <span class="example-en" dir="ltr" lang="en">This is courage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شجاعة</span> | <span class="example-en" dir="ltr" lang="en">I like courage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شجاعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the courage?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شجاعة الحين جنب المسجد، لأن الوقت ضيق، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a courage now next to the mosque, because time is tight, and I also took the pencil</span> |
 
 

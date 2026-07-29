@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ذهبي</span> | <span class="example-en" dir="ltr" lang="en">This is golden</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ذهبي</span> | <span class="example-en" dir="ltr" lang="en">I like golden</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ذهبي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the golden?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ذهبي في الحقيبة مع الحذاء النظيف، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a golden in the bag with the clean shoes, so revision is easier, and then I wiped the floor</span> |
 
 

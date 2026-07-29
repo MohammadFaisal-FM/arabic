@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صيغة</span> | <span class="example-en" dir="ltr" lang="en">This is formula</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صيغة</span> | <span class="example-en" dir="ltr" lang="en">I like formula</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صيغة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the formula?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صيغة في السيارة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a formula in the car, because the boy is sleepy, and then we laughed a bit</span> |
 
 

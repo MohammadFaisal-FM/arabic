@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قبلة</span> | <span class="example-en" dir="ltr" lang="en">This is kiss</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قبلة</span> | <span class="example-en" dir="ltr" lang="en">I like kiss</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قبلة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the kiss?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قبلة الحين في الحقيبة، عشان المراجعة أسهل، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a kiss now in the bag, so revision is easier, and I also took the clean shoes</span> |
 
 

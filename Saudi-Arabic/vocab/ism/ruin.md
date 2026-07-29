@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يخرب</span> | <span class="example-en" dir="ltr" lang="en">This is ruin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يخرب</span> | <span class="example-en" dir="ltr" lang="en">I like ruin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يخرب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ruin?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يخرب الحين تحت السرير، عشان ما يضيع، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a ruin now under the bed, so it doesn’t get lost, and I also took the grey scarf</span> |
 
 

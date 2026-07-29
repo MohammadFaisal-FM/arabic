@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">نشوف فيلم</span> | <span class="example-en" dir="ltr" lang="en">We watch a movie</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا فيلم</span> | <span class="example-en" dir="ltr" lang="en">This is a film</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فيلم</span> | <span class="example-en" dir="ltr" lang="en">I like film</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فيلم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the film?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فيلم في المدرسة، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a film at school, because the boy is sleepy, and then I replied to the message</span> |
 
 

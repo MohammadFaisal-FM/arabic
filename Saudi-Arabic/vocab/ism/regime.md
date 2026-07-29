@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا النظام</span> | <span class="example-en" dir="ltr" lang="en">This is regime</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب النظام</span> | <span class="example-en" dir="ltr" lang="en">I like regime</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين النظام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the regime?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج النظام الحين في الحديقة، عشان الصورة تطلع أوضح، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a regime now in the park, so the photo comes out clearer, and I also took the old alarm</span> |
 
 

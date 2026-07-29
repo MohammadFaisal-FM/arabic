@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الحمل</span> | <span class="example-en" dir="ltr" lang="en">This is pregnancy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الحمل</span> | <span class="example-en" dir="ltr" lang="en">I like pregnancy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الحمل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pregnancy?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الحمل عند الباب، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a pregnancy at the door, so we make the appointment, and then I turned on the fan</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عتيق</span> | <span class="example-en" dir="ltr" lang="en">This is ancient</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عتيق</span> | <span class="example-en" dir="ltr" lang="en">I like ancient</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عتيق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ancient?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عتيق الحين تحت السرير، عشان ما يضيع، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need an ancient now under the bed, so it doesn’t get lost, and I also took the grey scarf</span> |
 
 

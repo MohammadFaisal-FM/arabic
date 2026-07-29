@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مجموعات</span> | <span class="example-en" dir="ltr" lang="en">This is sets</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مجموعات</span> | <span class="example-en" dir="ltr" lang="en">I like sets</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مجموعات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sets?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مجموعات جنب البنك مع الزجاجة الفارغة، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a sets next to the bank with the empty bottle, so revision is easier, and then I wiped the floor</span> |
 
 

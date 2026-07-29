@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الصوت عبر بروتوكول الإنترنت</span> | <span class="example-en" dir="ltr" lang="en">This is voip</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الصوت عبر بروتوكول الإنترنت</span> | <span class="example-en" dir="ltr" lang="en">I like voip</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الصوت عبر بروتوكول الإنترنت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the voip?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الصوت عبر بروتوكول الإنترنت الحين جنب المسجد، إذا احتجته بعدين، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a voip now next to the mosque, if you need it later, and I also took the pencil</span> |
 
 

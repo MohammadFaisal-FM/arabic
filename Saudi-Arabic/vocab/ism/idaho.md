@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ايداهو</span> | <span class="example-en" dir="ltr" lang="en">This is idaho</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ايداهو</span> | <span class="example-en" dir="ltr" lang="en">I like idaho</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ايداهو؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the idaho?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ايداهو في الدرج مع الدفتر الأزرق، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found an idaho in the drawer with the blue notebook, because the light is better there, and then I washed my hands</span> |
 
 

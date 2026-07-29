@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خيالي</span> | <span class="example-en" dir="ltr" lang="en">This is fiction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خيالي</span> | <span class="example-en" dir="ltr" lang="en">I like fiction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خيالي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fiction?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج خيالي الحين عند الاستقبال، لأن الزحمة قوية، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a fiction now at reception, because traffic is heavy, and I also took the glass cup</span> |
 
 

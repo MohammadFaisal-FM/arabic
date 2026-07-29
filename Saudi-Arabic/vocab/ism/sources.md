@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مصادر</span> | <span class="example-en" dir="ltr" lang="en">This is sources</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مصادر</span> | <span class="example-en" dir="ltr" lang="en">I like sources</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مصادر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sources?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مصادر عند الباب، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a sources at the door, but keep it near you, and then the boy slept</span> |
 
 

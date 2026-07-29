@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا علامة</span> | <span class="example-en" dir="ltr" lang="en">This is mark</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب علامة</span> | <span class="example-en" dir="ltr" lang="en">I like mark</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين علامة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mark?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت علامة عند العيادة مع الدباسة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a mark at the clinic with the stapler, because time is tight, and then we prayed</span> |
 
 

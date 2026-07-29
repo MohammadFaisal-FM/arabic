@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سفارة</span> | <span class="example-en" dir="ltr" lang="en">This is embassy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سفارة</span> | <span class="example-en" dir="ltr" lang="en">I like embassy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سفارة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the embassy?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سفارة الحين في البقالة، قبل صلاة المغرب، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need an embassy now at the grocery, before Maghrib prayer, and I also took the long charger</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الشركة المصنعة</span> | <span class="example-en" dir="ltr" lang="en">This is manufacturer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الشركة المصنعة</span> | <span class="example-en" dir="ltr" lang="en">I like manufacturer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الشركة المصنعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the manufacturer?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">الشركة المصنعة كان/كانت قدام الملعب، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">a manufacturer was in front of the pitch, because the light is better there, and then I washed my hands</span> |
 
 

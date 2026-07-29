@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مصنع</span> | <span class="example-en" dir="ltr" lang="en">This is factory</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مصنع</span> | <span class="example-en" dir="ltr" lang="en">I like factory</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مصنع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the factory?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مصنع الحين في الثلاجة، لأن البطارية ضعيفة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a factory now in the fridge, because the battery is low, and I also took the summer hat</span> |
 
 

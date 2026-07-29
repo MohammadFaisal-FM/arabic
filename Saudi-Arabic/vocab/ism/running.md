@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جري</span> | <span class="example-en" dir="ltr" lang="en">This is running</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جري</span> | <span class="example-en" dir="ltr" lang="en">I like running</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the running?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جري تحت السرير مع الوشاح الرمادي، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a running under the bed with the grey scarf, so it doesn’t get lost, and then I replied to the message</span> |
 
 

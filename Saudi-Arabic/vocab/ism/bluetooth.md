@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بلوتوث</span> | <span class="example-en" dir="ltr" lang="en">This is bluetooth</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بلوتوث</span> | <span class="example-en" dir="ltr" lang="en">I like bluetooth</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بلوتوث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bluetooth?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بلوتوث الحين على المكتب، قبل ما يبرد الأكل، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a bluetooth now on the desk, before the food gets cold, and I also took the light blanket</span> |
 
 

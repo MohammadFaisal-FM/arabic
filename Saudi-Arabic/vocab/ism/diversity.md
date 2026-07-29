@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تنوع</span> | <span class="example-en" dir="ltr" lang="en">This is diversity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تنوع</span> | <span class="example-en" dir="ltr" lang="en">I like diversity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تنوع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the diversity?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تنوع الحين في الدرج، لأن الإضاءة أحسن هناك، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a diversity now in the drawer, because the light is better there, and I also took the blue notebook</span> |
 
 

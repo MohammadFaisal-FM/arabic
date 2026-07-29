@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نظرية</span> | <span class="example-en" dir="ltr" lang="en">This is theory</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نظرية</span> | <span class="example-en" dir="ltr" lang="en">I like theory</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نظرية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the theory?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نظرية في السيارة، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a theory in the car, so we are not late, and then I replied to the message</span> |
 
 

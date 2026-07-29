@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ستضمن جُدُر النار أمان الإنترنت.</span> | <span class="example-en" dir="ltr" lang="en">Firewalls will ensure Internet security.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا امان</span> | <span class="example-en" dir="ltr" lang="en">This is a safety</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب امان</span> | <span class="example-en" dir="ltr" lang="en">I like safety</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين امان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the safety?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت امان عند الصيدلية مع الغطاء الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a safety at the pharmacy with the clear cover, for studying tomorrow, and then I tidied the table</span> |
 
 

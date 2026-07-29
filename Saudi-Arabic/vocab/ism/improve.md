@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يحسن</span> | <span class="example-en" dir="ltr" lang="en">This is improve</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يحسن</span> | <span class="example-en" dir="ltr" lang="en">I like improve</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يحسن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the improve?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يحسن الحين في المكتبة، قبل ما يقفل المكان، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an improve now in the library, before the place closes, and I also took the small spoon</span> |
 
 

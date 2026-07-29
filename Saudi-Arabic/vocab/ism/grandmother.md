@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جدة</span> | <span class="example-en" dir="ltr" lang="en">This is grandmother</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جدة</span> | <span class="example-en" dir="ltr" lang="en">I like grandmother</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جدة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the grandmother?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">جدة كان/كانت في الثلاجة، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">a grandmother was in the fridge, because time is tight, and then we locked the door</span> |
 
 

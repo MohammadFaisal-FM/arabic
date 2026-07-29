@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا آر إس إس</span> | <span class="example-en" dir="ltr" lang="en">This is rss</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب آر إس إس</span> | <span class="example-en" dir="ltr" lang="en">I like rss</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين آر إس إس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rss?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت آر إس إس في البقالة، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a rss at the grocery, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

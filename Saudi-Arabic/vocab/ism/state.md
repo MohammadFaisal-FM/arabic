@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ولاية</span> | <span class="example-en" dir="ltr" lang="en">This is state</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ولاية</span> | <span class="example-en" dir="ltr" lang="en">I like state</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ولاية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the state?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ولاية عند الصيدلية، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a state at the pharmacy, for studying tomorrow, and then I washed my hands</span> |
 
 

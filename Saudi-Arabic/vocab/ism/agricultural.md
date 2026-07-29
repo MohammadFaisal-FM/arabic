@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الزراعية</span> | <span class="example-en" dir="ltr" lang="en">This is agricultural</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الزراعية</span> | <span class="example-en" dir="ltr" lang="en">I like agricultural</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الزراعية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the agricultural?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الزراعية الحين في الصالون، عشان نلحق الموعد، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an agricultural now in the living room, so we make the appointment, and I also took the clean tissue</span> |
 
 

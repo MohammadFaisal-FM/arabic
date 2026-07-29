@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">إنّ إنتاج النّفط في تناقص.</span> | <span class="example-en" dir="ltr" lang="en">Oil production is decreasing.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا انتاج</span> | <span class="example-en" dir="ltr" lang="en">This is a production</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب انتاج</span> | <span class="example-en" dir="ltr" lang="en">I like production</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين انتاج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the production?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت انتاج على الشرفة مع البطاقة الصفراء، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a production on the balcony with the yellow card, because the boy is sleepy, and then I turned off the light</span> |
 
 

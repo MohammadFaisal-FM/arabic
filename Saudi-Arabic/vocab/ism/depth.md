@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عمق</span> | <span class="example-en" dir="ltr" lang="en">This is depth</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عمق</span> | <span class="example-en" dir="ltr" lang="en">I like depth</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عمق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the depth?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عمق في الحقيبة، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a depth in the bag, because traffic is heavy, and then I wiped the floor</span> |
 
 

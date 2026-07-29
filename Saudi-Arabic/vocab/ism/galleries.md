@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المعارض</span> | <span class="example-en" dir="ltr" lang="en">This is galleries</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المعارض</span> | <span class="example-en" dir="ltr" lang="en">I like galleries</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المعارض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the galleries?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المعارض قدام المصعد، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a galleries in front of the elevator, because guests are arriving, and then the phone rang</span> |
 
 

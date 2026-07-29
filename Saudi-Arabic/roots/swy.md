@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وش تسوي؟</span> | <span class="example-en" dir="ltr" lang="en">What are you doing?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وش تسوي؟، ولقيت الوسادة الناعمة في المحطة، لأن البطارية ضعيفة، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">What are you doing?, and I found the soft pillow at the station, because the battery is low, and then we laughed a bit</span> |
 
 
 ---

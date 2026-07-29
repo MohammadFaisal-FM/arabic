@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تصفح</span> | <span class="example-en" dir="ltr" lang="en">This is browse</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تصفح</span> | <span class="example-en" dir="ltr" lang="en">I like browse</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تصفح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the browse?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تصفح في الحديقة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a browse in the park, if you need it later, and then we prayed</span> |
 
 

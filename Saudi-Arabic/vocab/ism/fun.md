@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا هزار</span> | <span class="example-en" dir="ltr" lang="en">This is fun</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب هزار</span> | <span class="example-en" dir="ltr" lang="en">I like fun</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين هزار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fun?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج هزار الحين في المحطة، بس خلّه قريب منك، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a fun now at the station, but keep it near you, and I also took the short cable</span> |
 
 

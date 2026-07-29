@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وقاية</span> | <span class="example-en" dir="ltr" lang="en">This is prevention</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وقاية</span> | <span class="example-en" dir="ltr" lang="en">I like prevention</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وقاية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the prevention?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت وقاية قدام التلفاز، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a prevention in front of the TV, because guests are arriving, and then the boy slept</span> |
 
 

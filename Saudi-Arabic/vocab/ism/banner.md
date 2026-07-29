@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا راية</span> | <span class="example-en" dir="ltr" lang="en">This is banner</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب راية</span> | <span class="example-en" dir="ltr" lang="en">I like banner</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين راية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the banner?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت راية في الغرفة مع المفتاح الاحتياطي، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a banner in the room with the spare key, because the weather is a bit hot, and then I tidied the table</span> |
 
 

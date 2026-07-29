@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ُخمارة</span> | <span class="example-en" dir="ltr" lang="en">This is inn</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ُخمارة</span> | <span class="example-en" dir="ltr" lang="en">I like inn</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ُخمارة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the inn?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ُخمارة جنب البنك، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an inn next to the bank, before the driver arrives, and then I charged the device</span> |
 
 

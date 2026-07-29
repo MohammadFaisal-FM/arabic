@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يضيع</span> | <span class="example-en" dir="ltr" lang="en">This is waste</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يضيع</span> | <span class="example-en" dir="ltr" lang="en">I like waste</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يضيع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the waste?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يضيع على المكتب، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a waste on the desk, because the light is better there, and then I washed my hands</span> |
 
 

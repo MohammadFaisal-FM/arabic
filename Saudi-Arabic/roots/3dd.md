@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">عدّ الفلوس</span> | <span class="example-en" dir="ltr" lang="en">Count the money</span> |
+| <span class="example-ar" dir="rtl" lang="ar">عدّ الفلوس، ولقيت الحذاء النظيف في المدرسة، قبل ما يبرد الأكل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">Count the money, and I found the clean shoes at school, before the food gets cold, and then I charged the device</span> |
 
 
 ---

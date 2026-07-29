@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يحرر</span> | <span class="example-en" dir="ltr" lang="en">This is edit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يحرر</span> | <span class="example-en" dir="ltr" lang="en">I like edit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يحرر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the edit?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يحرر الحين قدام التلفاز، بس خلّه قريب منك، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need an edit now in front of the TV, but keep it near you, and I also took the white sock</span> |
 
 

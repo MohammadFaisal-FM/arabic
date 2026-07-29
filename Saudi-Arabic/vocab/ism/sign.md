@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لافتة</span> | <span class="example-en" dir="ltr" lang="en">This is sign</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لافتة</span> | <span class="example-en" dir="ltr" lang="en">I like sign</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لافتة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sign?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت لافتة في السيارة مع الوسادة الناعمة، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a sign in the car with the soft pillow, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

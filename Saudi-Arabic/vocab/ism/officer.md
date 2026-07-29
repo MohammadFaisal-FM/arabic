@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ضابط</span> | <span class="example-en" dir="ltr" lang="en">This is officer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ضابط</span> | <span class="example-en" dir="ltr" lang="en">I like officer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ضابط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the officer?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ضابط الحين قدام المصعد، بس خلّه قريب منك، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need an officer now in front of the elevator, but keep it near you, and I also took the empty carton</span> |
 
 

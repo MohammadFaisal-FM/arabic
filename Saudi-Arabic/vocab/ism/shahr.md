@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الشهر</span> | <span class="example-en" dir="ltr" lang="en">This month</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا شهر</span> | <span class="example-en" dir="ltr" lang="en">This is a month</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شهر</span> | <span class="example-en" dir="ltr" lang="en">I like month</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شهر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the month?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شهر تحت السرير مع الوشاح الرمادي، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a month under the bed with the grey scarf, so it doesn’t get lost, and then I replied to the message</span> |
 
 

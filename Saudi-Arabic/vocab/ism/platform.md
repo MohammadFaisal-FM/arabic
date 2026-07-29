@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا منصة</span> | <span class="example-en" dir="ltr" lang="en">This is platform</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب منصة</span> | <span class="example-en" dir="ltr" lang="en">I like platform</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين منصة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the platform?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت منصة على المكتب مع البطانية الخفيفة، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a platform on the desk with the light blanket, for studying tomorrow, and then I washed my hands</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نهاية</span> | <span class="example-en" dir="ltr" lang="en">This is end</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نهاية</span> | <span class="example-en" dir="ltr" lang="en">I like end</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نهاية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the end?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت نهاية في الثلاجة مع القبعة الصيفية، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found an end in the fridge with the summer hat, because the battery is low, and then I drank some water</span> |
 
 

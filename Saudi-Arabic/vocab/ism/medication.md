@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دواء</span> | <span class="example-en" dir="ltr" lang="en">This is medication</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دواء</span> | <span class="example-en" dir="ltr" lang="en">I like medication</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دواء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the medication?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت دواء في الدرج مع الدفتر الأزرق، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a medication in the drawer with the blue notebook, for studying tomorrow, and then I wrote a note</span> |
 
 

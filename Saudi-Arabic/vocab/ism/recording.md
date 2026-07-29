@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تسجيل</span> | <span class="example-en" dir="ltr" lang="en">This is recording</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تسجيل</span> | <span class="example-en" dir="ltr" lang="en">I like recording</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تسجيل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the recording?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تسجيل الحين تحت السرير، عشان ما نتأخر، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a recording now under the bed, so we are not late, and I also took the grey scarf</span> |
 
 

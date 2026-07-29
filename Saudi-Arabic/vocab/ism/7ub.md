@@ -14,10 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">من حب</span> | <span class="example-en" dir="ltr" lang="en">From love</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا حب</span> | <span class="example-en" dir="ltr" lang="en">This is a love</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حب</span> | <span class="example-en" dir="ltr" lang="en">I like love</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the love?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حب على المكتب مع البطانية الخفيفة، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a love on the desk with the light blanket, for studying tomorrow, and then I washed my hands</span> |
 
 
 ### Links

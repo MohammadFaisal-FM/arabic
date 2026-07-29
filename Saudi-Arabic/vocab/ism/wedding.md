@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قِرَان</span> | <span class="example-en" dir="ltr" lang="en">This is wedding</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قِرَان</span> | <span class="example-en" dir="ltr" lang="en">I like wedding</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قِرَان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wedding?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قِرَان عند الباب، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a wedding at the door, because work finished early, and then I turned on the fan</span> |
 
 

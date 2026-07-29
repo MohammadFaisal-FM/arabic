@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أصول</span> | <span class="example-en" dir="ltr" lang="en">This is assets</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أصول</span> | <span class="example-en" dir="ltr" lang="en">I like assets</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أصول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the assets?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أصول الحين في المحطة، لأن الشغل خلص بدري، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need an assets now at the station, because work finished early, and I also took the short cable</span> |
 
 

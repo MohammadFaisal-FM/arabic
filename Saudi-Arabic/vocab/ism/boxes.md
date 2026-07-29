@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صناديق</span> | <span class="example-en" dir="ltr" lang="en">This is boxes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صناديق</span> | <span class="example-en" dir="ltr" lang="en">I like boxes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صناديق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the boxes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صناديق عند الصيدلية، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a boxes at the pharmacy, for studying tomorrow, and then I washed my hands</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إليزابيث</span> | <span class="example-en" dir="ltr" lang="en">This is elizabeth</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إليزابيث</span> | <span class="example-en" dir="ltr" lang="en">I like elizabeth</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إليزابيث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the elizabeth?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت إليزابيث عند الاستقبال، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an elizabeth at reception, so revision is easier, and then I charged the device</span> |
 
 

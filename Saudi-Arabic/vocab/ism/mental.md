@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عقلي</span> | <span class="example-en" dir="ltr" lang="en">This is mental</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عقلي</span> | <span class="example-en" dir="ltr" lang="en">I like mental</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عقلي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mental?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عقلي عند الصيدلية مع الغطاء الشفاف، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a mental at the pharmacy with the clear cover, before the food gets cold, and then I washed my hands</span> |
 
 

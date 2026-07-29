@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المديرين</span> | <span class="example-en" dir="ltr" lang="en">This is managers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المديرين</span> | <span class="example-en" dir="ltr" lang="en">I like managers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المديرين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the managers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن المديرين شوي، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">We talked about a managers a bit, because traffic is heavy, and then I charged the device</span> |
 
 

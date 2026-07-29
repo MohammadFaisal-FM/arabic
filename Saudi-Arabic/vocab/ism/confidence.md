@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ثقة</span> | <span class="example-en" dir="ltr" lang="en">This is confidence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ثقة</span> | <span class="example-en" dir="ltr" lang="en">I like confidence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ثقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the confidence?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ثقة في المكتبة مع الملعقة الصغيرة، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a confidence in the library with the small spoon, because traffic is heavy, and then I closed the window</span> |
 
 

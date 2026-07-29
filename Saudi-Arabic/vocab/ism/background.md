@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خلفية</span> | <span class="example-en" dir="ltr" lang="en">This is background</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خلفية</span> | <span class="example-en" dir="ltr" lang="en">I like background</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خلفية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the background?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج خلفية الحين في المطبخ، عشان المراجعة أسهل، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a background now in the kitchen, so revision is easier, and I also took the paper file</span> |
 
 

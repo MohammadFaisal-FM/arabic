@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أوبرا</span> | <span class="example-en" dir="ltr" lang="en">This is opera</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أوبرا</span> | <span class="example-en" dir="ltr" lang="en">I like opera</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أوبرا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the opera?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أوبرا جنب البنك، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an opera next to the bank, before the place closes, and then I charged the device</span> |
 
 

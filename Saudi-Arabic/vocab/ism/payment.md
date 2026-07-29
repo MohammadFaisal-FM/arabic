@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قسط</span> | <span class="example-en" dir="ltr" lang="en">This is payment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قسط</span> | <span class="example-en" dir="ltr" lang="en">I like payment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قسط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the payment?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قسط في المطبخ مع الملف الورقي، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a payment in the kitchen with the paper file, before the place closes, and then I wiped the floor</span> |
 
 

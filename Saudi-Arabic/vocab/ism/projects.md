@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المشاريع</span> | <span class="example-en" dir="ltr" lang="en">This is projects</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المشاريع</span> | <span class="example-en" dir="ltr" lang="en">I like projects</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المشاريع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the projects?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المشاريع الحين جنب المسجد، إذا احتجته بعدين، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a projects now next to the mosque, if you need it later, and I also took the pencil</span> |
 
 

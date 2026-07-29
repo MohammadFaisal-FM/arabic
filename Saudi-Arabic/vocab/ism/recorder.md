@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مسجل</span> | <span class="example-en" dir="ltr" lang="en">This is recorder</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مسجل</span> | <span class="example-en" dir="ltr" lang="en">I like recorder</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مسجل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the recorder?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مسجل الحين في الثلاجة، لأن الوقت ضيق، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a recorder now in the fridge, because time is tight, and I also took the summer hat</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الرابع</span> | <span class="example-en" dir="ltr" lang="en">This is fourth</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الرابع</span> | <span class="example-en" dir="ltr" lang="en">I like fourth</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الرابع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fourth?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الرابع على الشرفة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a fourth on the balcony, because the boy is sleepy, and then we laughed a bit</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خلاف ذلك</span> | <span class="example-en" dir="ltr" lang="en">This is otherwise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خلاف ذلك</span> | <span class="example-en" dir="ltr" lang="en">I like otherwise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خلاف ذلك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the otherwise?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خلاف ذلك عند الصيدلية مع الغطاء الشفاف، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an otherwise at the pharmacy with the clear cover, because the weather is a bit hot, and then I wrote a note</span> |
 
 

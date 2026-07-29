@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نيّة</span> | <span class="example-en" dir="ltr" lang="en">This is intention</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نيّة</span> | <span class="example-en" dir="ltr" lang="en">I like intention</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نيّة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the intention?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نيّة الحين عند الاستقبال، عشان المراجعة أسهل، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need an intention now at reception, so revision is easier, and I also took the glass cup</span> |
 
 

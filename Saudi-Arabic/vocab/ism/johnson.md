@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جونسون</span> | <span class="example-en" dir="ltr" lang="en">This is johnson</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جونسون</span> | <span class="example-en" dir="ltr" lang="en">I like johnson</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جونسون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the johnson?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">جونسون كان/كانت قدام المصعد، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">a johnson was in front of the elevator, but keep it near you, and then I turned on the fan</span> |
 
 

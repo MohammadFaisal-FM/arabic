@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وجهات النظر</span> | <span class="example-en" dir="ltr" lang="en">This is views</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وجهات النظر</span> | <span class="example-en" dir="ltr" lang="en">I like views</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وجهات النظر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the views?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت وجهات النظر عند الباب مع المحفظة البنية، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a views at the door with the brown wallet, because guests are arriving, and then I turned on the fan</span> |
 
 

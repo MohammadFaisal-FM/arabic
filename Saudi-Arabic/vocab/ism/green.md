@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أخضر</span> | <span class="example-en" dir="ltr" lang="en">This is green</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أخضر</span> | <span class="example-en" dir="ltr" lang="en">I like green</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أخضر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the green?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أخضر الحين عند العيادة، عشان الصورة تطلع أوضح، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a green now at the clinic, so the photo comes out clearer, and I also took the stapler</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التسجيل</span> | <span class="example-en" dir="ltr" lang="en">This is registry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التسجيل</span> | <span class="example-en" dir="ltr" lang="en">I like registry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التسجيل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the registry?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج التسجيل الحين عند الباب، عشان الضيوف يوصلون، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a registry now at the door, because guests are arriving, and I also took the brown wallet</span> |
 
 

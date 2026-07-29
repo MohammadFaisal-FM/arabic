@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تحالف</span> | <span class="example-en" dir="ltr" lang="en">This is alliance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تحالف</span> | <span class="example-en" dir="ltr" lang="en">I like alliance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تحالف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the alliance?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تحالف قدام المصعد مع الكرتون الفاضي، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found an alliance in front of the elevator with the empty carton, but keep it near you, and then the phone rang</span> |
 
 

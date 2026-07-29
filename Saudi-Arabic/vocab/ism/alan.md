@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا آلان</span> | <span class="example-en" dir="ltr" lang="en">This is alan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب آلان</span> | <span class="example-en" dir="ltr" lang="en">I like alan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين آلان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the alan?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت آلان في البقالة، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an alan at the grocery, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

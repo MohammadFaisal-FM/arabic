@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خطيئة</span> | <span class="example-en" dir="ltr" lang="en">This is sin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خطيئة</span> | <span class="example-en" dir="ltr" lang="en">I like sin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خطيئة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sin?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت خطيئة في الغرفة، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a sin in the room, for studying tomorrow, and then I wrote a note</span> |
 
 

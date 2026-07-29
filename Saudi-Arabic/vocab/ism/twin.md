@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التوأم</span> | <span class="example-en" dir="ltr" lang="en">This is twin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التوأم</span> | <span class="example-en" dir="ltr" lang="en">I like twin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التوأم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the twin?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التوأم جنب النافذة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a twin beside the window, if you need it later, and then we prayed</span> |
 
 

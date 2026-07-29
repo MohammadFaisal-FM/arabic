@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أعراض</span> | <span class="example-en" dir="ltr" lang="en">This is symptoms</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أعراض</span> | <span class="example-en" dir="ltr" lang="en">I like symptoms</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أعراض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the symptoms?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أعراض قدام الملعب، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a symptoms in front of the pitch, before the food gets cold, and then I wrote a note</span> |
 
 

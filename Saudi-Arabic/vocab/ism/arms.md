@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأسلحة</span> | <span class="example-en" dir="ltr" lang="en">This is arms</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأسلحة</span> | <span class="example-en" dir="ltr" lang="en">I like arms</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأسلحة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the arms?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الأسلحة جنب البنك مع الزجاجة الفارغة، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an arms next to the bank with the empty bottle, before the driver arrives, and then I closed the window</span> |
 
 

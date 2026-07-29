@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بِكر</span> | <span class="example-en" dir="ltr" lang="en">This is virgin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بِكر</span> | <span class="example-en" dir="ltr" lang="en">I like virgin</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بِكر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the virgin?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بِكر الحين على الشرفة، قبل صلاة المغرب، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a virgin now on the balcony, before Maghrib prayer, and I also took the yellow card</span> |
 
 

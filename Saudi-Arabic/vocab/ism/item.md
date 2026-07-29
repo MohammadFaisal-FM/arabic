@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا غرض</span> | <span class="example-en" dir="ltr" lang="en">This is item</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب غرض</span> | <span class="example-en" dir="ltr" lang="en">I like item</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين غرض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the item?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت غرض في الثلاجة مع القبعة الصيفية، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an item in the fridge with the summer hat, because time is tight, and then we prayed</span> |
 
 

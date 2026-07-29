@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يضيف</span> | <span class="example-en" dir="ltr" lang="en">This is add</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يضيف</span> | <span class="example-en" dir="ltr" lang="en">I like add</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يضيف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the add?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يضيف في الغرفة مع المفتاح الاحتياطي، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found an add in the room with the spare key, for studying tomorrow, and then I washed my hands</span> |
 
 

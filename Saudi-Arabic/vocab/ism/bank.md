@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">رحت البنك</span> | <span class="example-en" dir="ltr" lang="en">I went to the bank</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا بنك</span> | <span class="example-en" dir="ltr" lang="en">This is a bank</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بنك</span> | <span class="example-en" dir="ltr" lang="en">I like bank</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بنك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bank?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بنك على الشرفة مع البطاقة الصفراء، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a bank on the balcony with the yellow card, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

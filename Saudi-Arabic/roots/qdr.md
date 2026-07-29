@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أقدر أجي</span> | <span class="example-en" dir="ltr" lang="en">I can come</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أقدر أجي، ولقيت البطاقة الصفراء في الصالون، لأن البطارية ضعيفة، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I can come, and I found the yellow card in the living room, because the battery is low, and then I replied to the message</span> |
 
 
 ---

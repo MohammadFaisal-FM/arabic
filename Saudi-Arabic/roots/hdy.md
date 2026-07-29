@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">اهدأ شوي</span> | <span class="example-en" dir="ltr" lang="en">Calm down a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">اهدأ شوي، ولقيت المنبه القديميم عند الاستقبال، بس خلّه قريب منك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">Calm down a bit, and I found the old alarm at reception, but keep it near you, and then I drank some water</span> |
 
 
 ---

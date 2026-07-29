@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صعب</span> | <span class="example-en" dir="ltr" lang="en">This is difficult</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صعب</span> | <span class="example-en" dir="ltr" lang="en">I like difficult</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صعب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the difficult?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صعب جنب النافذة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a difficult beside the window, so the photo comes out clearer, and then we locked the door</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كرة السلة</span> | <span class="example-en" dir="ltr" lang="en">This is basketball</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كرة السلة</span> | <span class="example-en" dir="ltr" lang="en">I like basketball</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كرة السلة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the basketball?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كرة السلة في المحطة، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a basketball at the station, but keep it near you, and then I turned on the fan</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إلى الأمام</span> | <span class="example-en" dir="ltr" lang="en">This is forward</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إلى الأمام</span> | <span class="example-en" dir="ltr" lang="en">I like forward</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إلى الأمام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the forward?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إلى الأمام الحين عند العيادة، إذا احتجته بعدين، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a forward now at the clinic, if you need it later, and I also took the stapler</span> |
 
 

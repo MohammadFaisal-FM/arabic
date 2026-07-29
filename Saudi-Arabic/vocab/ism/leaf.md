@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ورقة</span> | <span class="example-en" dir="ltr" lang="en">This is leaf</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ورقة</span> | <span class="example-en" dir="ltr" lang="en">I like leaf</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ورقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the leaf?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ورقة في المكتبة مع الملعقة الصغيرة، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a leaf in the library with the small spoon, before the place closes, and then I wiped the floor</span> |
 
 

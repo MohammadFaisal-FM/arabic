@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الرفض</span> | <span class="example-en" dir="ltr" lang="en">This is rejection</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الرفض</span> | <span class="example-en" dir="ltr" lang="en">I like rejection</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الرفض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rejection?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الرفض الحين في المدرسة، عشان ما يضيع، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a rejection now at school, so it doesn’t get lost, and I also took the sharp scissors</span> |
 
 

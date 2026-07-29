@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موت</span> | <span class="example-en" dir="ltr" lang="en">This is death</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موت</span> | <span class="example-en" dir="ltr" lang="en">I like death</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the death?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت موت عند الاستقبال مع الكوب الزجاج، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a death at reception with the glass cup, before the place closes, and then I charged the device</span> |
 
 

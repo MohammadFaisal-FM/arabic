@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صيف</span> | <span class="example-en" dir="ltr" lang="en">This is summer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صيف</span> | <span class="example-en" dir="ltr" lang="en">I like summer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صيف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the summer?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صيف تحت السرير، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a summer under the bed, before Maghrib prayer, and then we laughed a bit</span> |
 
 

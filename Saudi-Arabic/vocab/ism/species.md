@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صِنف</span> | <span class="example-en" dir="ltr" lang="en">This is species</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صِنف</span> | <span class="example-en" dir="ltr" lang="en">I like species</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صِنف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the species?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صِنف في الغرفة، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a species in the room, because the light is better there, and then I washed my hands</span> |
 
 

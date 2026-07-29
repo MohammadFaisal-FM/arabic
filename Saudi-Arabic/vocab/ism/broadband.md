@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا النطاق العريض</span> | <span class="example-en" dir="ltr" lang="en">This is broadband</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب النطاق العريض</span> | <span class="example-en" dir="ltr" lang="en">I like broadband</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين النطاق العريض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the broadband?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت النطاق العريض عند الاستقبال مع الكوب الزجاج، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a broadband at reception with the glass cup, before the driver arrives, and then I charged the device</span> |
 
 

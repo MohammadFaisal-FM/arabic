@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المجلد</span> | <span class="example-en" dir="ltr" lang="en">This is vol</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المجلد</span> | <span class="example-en" dir="ltr" lang="en">I like vol</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المجلد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the vol?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المجلد في المدرسة، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a vol at school, so it doesn’t get lost, and then I turned off the light</span> |
 
 

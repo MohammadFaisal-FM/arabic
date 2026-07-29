@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مجلس الشيوخ</span> | <span class="example-en" dir="ltr" lang="en">This is senate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مجلس الشيوخ</span> | <span class="example-en" dir="ltr" lang="en">I like senate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مجلس الشيوخ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the senate?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مجلس الشيوخ تحت السرير مع الوشاح الرمادي، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a senate under the bed with the grey scarf, so it doesn’t get lost, and then I replied to the message</span> |
 
 

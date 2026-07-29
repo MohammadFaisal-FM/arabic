@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا منذ</span> | <span class="example-en" dir="ltr" lang="en">This is since</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب منذ</span> | <span class="example-en" dir="ltr" lang="en">I like since</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين منذ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the since?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت منذ قدام المصعد مع الكرتون الفاضي، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a since in front of the elevator with the empty carton, because work finished early, and then the boy slept</span> |
 
 

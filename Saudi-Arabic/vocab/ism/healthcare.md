@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الرعاية الصحية</span> | <span class="example-en" dir="ltr" lang="en">This is healthcare</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الرعاية الصحية</span> | <span class="example-en" dir="ltr" lang="en">I like healthcare</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الرعاية الصحية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the healthcare?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الرعاية الصحية الحين في السيارة، عشان ما يضيع، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a healthcare now in the car, so it doesn’t get lost, and I also took the soft pillow</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التقديرات</span> | <span class="example-en" dir="ltr" lang="en">This is estimates</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التقديرات</span> | <span class="example-en" dir="ltr" lang="en">I like estimates</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التقديرات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the estimates?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج التقديرات الحين في الغرفة، قبل ما يبرد الأكل، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an estimates now in the room, before the food gets cold, and I also took the spare key</span> |
 
 

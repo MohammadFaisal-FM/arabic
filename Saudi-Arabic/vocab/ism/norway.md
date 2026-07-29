@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا النرويج</span> | <span class="example-en" dir="ltr" lang="en">This is norway</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب النرويج</span> | <span class="example-en" dir="ltr" lang="en">I like norway</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين النرويج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the norway?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت النرويج في المطبخ، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a norway in the kitchen, before the driver arrives, and then I closed the window</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الذواقة</span> | <span class="example-en" dir="ltr" lang="en">This is gourmet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الذواقة</span> | <span class="example-en" dir="ltr" lang="en">I like gourmet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الذواقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the gourmet?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الذواقة جنب النافذة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a gourmet beside the window, because time is tight, and then we prayed</span> |
 
 

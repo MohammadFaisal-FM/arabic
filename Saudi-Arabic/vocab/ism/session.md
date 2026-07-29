@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حصة</span> | <span class="example-en" dir="ltr" lang="en">This is session</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حصة</span> | <span class="example-en" dir="ltr" lang="en">I like session</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حصة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the session?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حصة في المدرسة، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a session at school, because the boy is sleepy, and then I replied to the message</span> |
 
 

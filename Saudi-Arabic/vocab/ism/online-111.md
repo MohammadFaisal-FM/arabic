@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حرث المزارع أرضه.</span> | <span class="example-en" dir="ltr" lang="en">The farmer plowed his land.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا ارضه</span> | <span class="example-en" dir="ltr" lang="en">This is a his land</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ارضه</span> | <span class="example-en" dir="ltr" lang="en">I like his land</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ارضه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the his land?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ارضه في المدرسة مع المقص الحاد، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a his land at school with the sharp scissors, so we are not late, and then I replied to the message</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملصق</span> | <span class="example-en" dir="ltr" lang="en">This is label</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملصق</span> | <span class="example-en" dir="ltr" lang="en">I like label</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملصق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the label?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ملصق الحين قدام التلفاز، لأن الشغل خلص بدري، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a label now in front of the TV, because work finished early, and I also took the white sock</span> |
 
 

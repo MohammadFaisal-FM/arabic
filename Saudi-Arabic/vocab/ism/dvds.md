@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أقراص DVD</span> | <span class="example-en" dir="ltr" lang="en">This is dvds</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أقراص DVD</span> | <span class="example-en" dir="ltr" lang="en">I like dvds</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أقراص DVD؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dvds?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أقراص DVD قدام الملعب، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a dvds in front of the pitch, because the weather is a bit hot, and then I tidied the table</span> |
 
 

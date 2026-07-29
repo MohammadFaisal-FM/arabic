@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تأمين</span> | <span class="example-en" dir="ltr" lang="en">This is insurance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تأمين</span> | <span class="example-en" dir="ltr" lang="en">I like insurance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تأمين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the insurance?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تأمين الحين في الدرج، قبل ما يبرد الأكل، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need an insurance now in the drawer, before the food gets cold, and I also took the blue notebook</span> |
 
 

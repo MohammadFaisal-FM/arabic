@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حقيقة</span> | <span class="example-en" dir="ltr" lang="en">This is fact</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حقيقة</span> | <span class="example-en" dir="ltr" lang="en">I like fact</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حقيقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fact?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حقيقة في الصالون مع المنديل النظيف، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a fact in the living room with the clean tissue, but keep it near you, and then I turned on the fan</span> |
 
 

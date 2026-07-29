@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مقابل</span> | <span class="example-en" dir="ltr" lang="en">This is equivalent</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مقابل</span> | <span class="example-en" dir="ltr" lang="en">I like equivalent</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مقابل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the equivalent?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مقابل الحين عند الصيدلية، عشان الدراسة بكرة، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an equivalent now at the pharmacy, for studying tomorrow, and I also took the clear cover</span> |
 
 

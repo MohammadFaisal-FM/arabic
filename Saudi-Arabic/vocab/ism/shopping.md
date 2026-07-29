@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التسوق</span> | <span class="example-en" dir="ltr" lang="en">This is shopping</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التسوق</span> | <span class="example-en" dir="ltr" lang="en">I like shopping</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التسوق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the shopping?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التسوق عند الباب مع المحفظة البنية، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a shopping at the door with the brown wallet, because guests are arriving, and then I turned on the fan</span> |
 
 

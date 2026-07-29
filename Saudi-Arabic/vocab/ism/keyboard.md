@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لوحة المفاتيح</span> | <span class="example-en" dir="ltr" lang="en">This is keyboard</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لوحة المفاتيح</span> | <span class="example-en" dir="ltr" lang="en">I like keyboard</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لوحة المفاتيح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the keyboard?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لوحة المفاتيح جنب البنك، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a keyboard next to the bank, before the driver arrives, and then I charged the device</span> |
 
 

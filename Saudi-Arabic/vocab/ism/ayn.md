@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">عيوني</span> | <span class="example-en" dir="ltr" lang="en">my eyes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا عين</span> | <span class="example-en" dir="ltr" lang="en">This is a eye</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عين</span> | <span class="example-en" dir="ltr" lang="en">I like eye</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the eye?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عين قدام المصعد، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an eye in front of the elevator, because guests are arriving, and then the phone rang</span> |
 
 

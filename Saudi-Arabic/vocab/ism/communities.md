@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المجتمعات</span> | <span class="example-en" dir="ltr" lang="en">This is communities</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المجتمعات</span> | <span class="example-en" dir="ltr" lang="en">I like communities</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المجتمعات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the communities?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المجتمعات الحين قدام المصعد، عشان نلحق الموعد، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a communities now in front of the elevator, so we make the appointment, and I also took the empty carton</span> |
 
 

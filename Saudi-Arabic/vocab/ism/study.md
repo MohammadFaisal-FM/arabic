@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يذاكر</span> | <span class="example-en" dir="ltr" lang="en">This is study</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يذاكر</span> | <span class="example-en" dir="ltr" lang="en">I like study</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يذاكر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the study?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يذاكر قدام التلفاز، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a study in front of the TV, so we make the appointment, and then the phone rang</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأسئلة الشائعة</span> | <span class="example-en" dir="ltr" lang="en">This is faqs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأسئلة الشائعة</span> | <span class="example-en" dir="ltr" lang="en">I like faqs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأسئلة الشائعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the faqs?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الأسئلة الشائعة في المحطة، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a faqs at the station, because guests are arriving, and then the boy slept</span> |
 
 

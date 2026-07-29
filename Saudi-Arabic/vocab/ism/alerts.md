@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التنبيهات</span> | <span class="example-en" dir="ltr" lang="en">This is alerts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التنبيهات</span> | <span class="example-en" dir="ltr" lang="en">I like alerts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التنبيهات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the alerts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التنبيهات في البقالة مع الشاحن الطويل، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found an alerts at the grocery with the long charger, before Maghrib prayer, and then we laughed a bit</span> |
 
 

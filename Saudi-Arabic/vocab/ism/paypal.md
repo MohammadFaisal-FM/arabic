@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا باي بال</span> | <span class="example-en" dir="ltr" lang="en">This is paypal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب باي بال</span> | <span class="example-en" dir="ltr" lang="en">I like paypal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين باي بال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the paypal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت باي بال تحت السرير، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a paypal under the bed, so it doesn’t get lost, and then I turned off the light</span> |
 
 

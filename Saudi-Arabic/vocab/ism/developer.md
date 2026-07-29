@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مطور</span> | <span class="example-en" dir="ltr" lang="en">This is developer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مطور</span> | <span class="example-en" dir="ltr" lang="en">I like developer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مطور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the developer?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مطور في الدرج مع الدفتر الأزرق، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a developer in the drawer with the blue notebook, for studying tomorrow, and then I wrote a note</span> |
 
 

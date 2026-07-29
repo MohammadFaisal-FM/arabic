@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تايوان</span> | <span class="example-en" dir="ltr" lang="en">This is taiwan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تايوان</span> | <span class="example-en" dir="ltr" lang="en">I like taiwan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تايوان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the taiwan?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تايوان جنب المسجد، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a taiwan next to the mosque, because the battery is low, and then we prayed</span> |
 
 

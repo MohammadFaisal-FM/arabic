@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كونغ</span> | <span class="example-en" dir="ltr" lang="en">This is kong</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كونغ</span> | <span class="example-en" dir="ltr" lang="en">I like kong</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كونغ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the kong?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كونغ في الثلاجة مع القبعة الصيفية، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a kong in the fridge with the summer hat, because the battery is low, and then I drank some water</span> |
 
 

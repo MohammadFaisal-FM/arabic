@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لاتينا</span> | <span class="example-en" dir="ltr" lang="en">This is latina</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لاتينا</span> | <span class="example-en" dir="ltr" lang="en">I like latina</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لاتينا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the latina?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت لاتينا عند الصيدلية مع الغطاء الشفاف، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a latina at the pharmacy with the clear cover, because the weather is a bit hot, and then I wrote a note</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ذكاء</span> | <span class="example-en" dir="ltr" lang="en">This is intelligence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ذكاء</span> | <span class="example-en" dir="ltr" lang="en">I like intelligence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ذكاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the intelligence?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ذكاء الحين في الغرفة، لأن الجو حار شوي، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an intelligence now in the room, because the weather is a bit hot, and I also took the spare key</span> |
 
 

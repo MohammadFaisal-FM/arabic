@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العقود</span> | <span class="example-en" dir="ltr" lang="en">This is contracts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العقود</span> | <span class="example-en" dir="ltr" lang="en">I like contracts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العقود؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the contracts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج العقود الحين عند الاستقبال، قبل ما يقفل المكان، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a contracts now at reception, before the place closes, and I also took the glass cup</span> |
 
 

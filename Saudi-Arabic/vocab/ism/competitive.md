@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تنافسي</span> | <span class="example-en" dir="ltr" lang="en">This is competitive</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تنافسي</span> | <span class="example-en" dir="ltr" lang="en">I like competitive</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تنافسي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the competitive?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تنافسي على الشرفة، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a competitive on the balcony, so it doesn’t get lost, and then I replied to the message</span> |
 
 

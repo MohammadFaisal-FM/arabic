@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صفيف</span> | <span class="example-en" dir="ltr" lang="en">This is array</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صفيف</span> | <span class="example-en" dir="ltr" lang="en">I like array</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صفيف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the array?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صفيف في الثلاجة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put an array in the fridge, so the photo comes out clearer, and then we prayed</span> |
 
 

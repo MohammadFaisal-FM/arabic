@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يتأكد</span> | <span class="example-en" dir="ltr" lang="en">This is confirm</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يتأكد</span> | <span class="example-en" dir="ltr" lang="en">I like confirm</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يتأكد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the confirm?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يتأكد في الحديقة مع المنبه القديميم، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a confirm in the park with the old alarm, so the photo comes out clearer, and then I drank some water</span> |
 
 

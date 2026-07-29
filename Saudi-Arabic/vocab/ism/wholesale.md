@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بالجملة</span> | <span class="example-en" dir="ltr" lang="en">This is wholesale</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بالجملة</span> | <span class="example-en" dir="ltr" lang="en">I like wholesale</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بالجملة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wholesale?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بالجملة قدام الملعب مع اللاصق الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a wholesale in front of the pitch with the clear tape, for studying tomorrow, and then I tidied the table</span> |
 
 

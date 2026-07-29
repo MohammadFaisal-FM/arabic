@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بطاقات</span> | <span class="example-en" dir="ltr" lang="en">This is cards</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بطاقات</span> | <span class="example-en" dir="ltr" lang="en">I like cards</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بطاقات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cards?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بطاقات عند الاستقبال، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a cards at reception, so revision is easier, and then I charged the device</span> |
 
 

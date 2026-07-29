@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كبش</span> | <span class="example-en" dir="ltr" lang="en">This is ram</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كبش</span> | <span class="example-en" dir="ltr" lang="en">I like ram</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كبش؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ram?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كبش الحين عند الاستقبال، لأن الزحمة قوية، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a ram now at reception, because traffic is heavy, and I also took the glass cup</span> |
 
 

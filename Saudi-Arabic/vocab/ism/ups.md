@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يو بي إس</span> | <span class="example-en" dir="ltr" lang="en">This is ups</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يو بي إس</span> | <span class="example-en" dir="ltr" lang="en">I like ups</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يو بي إس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ups?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يو بي إس الحين عند العيادة، لأن البطارية ضعيفة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need an ups now at the clinic, because the battery is low, and I also took the stapler</span> |
 
 

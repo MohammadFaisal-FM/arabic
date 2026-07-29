@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يتضمن</span> | <span class="example-en" dir="ltr" lang="en">This is contains</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يتضمن</span> | <span class="example-en" dir="ltr" lang="en">I like contains</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يتضمن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the contains?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يتضمن قدام المصعد مع الكرتون الفاضي، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a contains in front of the elevator with the empty carton, so we make the appointment, and then the boy slept</span> |
 
 

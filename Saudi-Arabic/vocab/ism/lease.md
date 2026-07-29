@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إيجار</span> | <span class="example-en" dir="ltr" lang="en">This is lease</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إيجار</span> | <span class="example-en" dir="ltr" lang="en">I like lease</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إيجار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lease?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت إيجار في المطبخ، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a lease in the kitchen, because traffic is heavy, and then I charged the device</span> |
 
 

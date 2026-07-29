@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أنظمة</span> | <span class="example-en" dir="ltr" lang="en">This is regulation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أنظمة</span> | <span class="example-en" dir="ltr" lang="en">I like regulation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أنظمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the regulation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أنظمة الحين في الغرفة، قبل ما يبرد الأكل، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a regulation now in the room, before the food gets cold, and I also took the spare key</span> |
 
 

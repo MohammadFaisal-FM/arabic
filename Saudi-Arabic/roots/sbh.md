@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">صباح الخير</span> | <span class="example-en" dir="ltr" lang="en">Good morning</span> |
+| <span class="example-ar" dir="rtl" lang="ar">صباح الخير، ولقيت الكرتون الفاضي في الدرج، قبل ما يجي السائق، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">Good morning, and I found the empty carton in the drawer, before the driver arrives, and then the boy slept</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [صباح](#ism/sabah) | <span class="example-ar" dir="rtl" lang="ar">صباح الخير</span><br><span class="example-en" dir="ltr" lang="en">Good morning</span> |
+| اسم · ism (noun / other) | [صباح](#ism/sabah) | <span class="example-ar" dir="rtl" lang="ar">لقيت صباح في الدرج مع الدفتر الأزرق، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span><br><span class="example-en" dir="ltr" lang="en">I found a morning in the drawer with the blue notebook, because the light is better there, and then I washed my hands</span> |
 

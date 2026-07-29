@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سيدني</span> | <span class="example-en" dir="ltr" lang="en">This is sydney</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سيدني</span> | <span class="example-en" dir="ltr" lang="en">I like sydney</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سيدني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sydney?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سيدني عند الاستقبال، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a sydney at reception, before the place closes, and then I wiped the floor</span> |
 
 

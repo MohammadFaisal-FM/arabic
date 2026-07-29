@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رسوم البريد</span> | <span class="example-en" dir="ltr" lang="en">This is postage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رسوم البريد</span> | <span class="example-en" dir="ltr" lang="en">I like postage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رسوم البريد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the postage?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت رسوم البريد على الشرفة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a postage on the balcony, because the boy is sleepy, and then we laughed a bit</span> |
 
 

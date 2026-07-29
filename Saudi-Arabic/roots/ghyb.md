@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">غاب عن الدرس</span> | <span class="example-en" dir="ltr" lang="en">He missed the lesson</span> |
+| <span class="example-ar" dir="rtl" lang="ar">غاب عن الدرس، ولقيت الوشاح الرمادي عند الباب، إذا احتجته بعدين، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">He missed the lesson, and I found the grey scarf at the door, if you need it later, and then we laughed a bit</span> |
 
 
 ---

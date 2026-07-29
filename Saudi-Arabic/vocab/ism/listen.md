@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يستمع</span> | <span class="example-en" dir="ltr" lang="en">This is listen</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يستمع</span> | <span class="example-en" dir="ltr" lang="en">I like listen</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يستمع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the listen?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يستمع عند الاستقبال، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a listen at reception, so revision is easier, and then I charged the device</span> |
 
 

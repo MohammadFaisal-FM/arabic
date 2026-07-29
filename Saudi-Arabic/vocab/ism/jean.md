@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جان</span> | <span class="example-en" dir="ltr" lang="en">This is jean</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جان</span> | <span class="example-en" dir="ltr" lang="en">I like jean</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jean?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جان الحين قدام الملعب، قبل ما يبرد الأكل، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a jean now in front of the pitch, before the food gets cold, and I also took the clear tape</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ديفيس</span> | <span class="example-en" dir="ltr" lang="en">This is davis</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ديفيس</span> | <span class="example-en" dir="ltr" lang="en">I like davis</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ديفيس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the davis?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ديفيس الحين جنب النافذة، لأن البطارية ضعيفة، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a davis now beside the window, because the battery is low, and I also took the sunglasses</span> |
 
 

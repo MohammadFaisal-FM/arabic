@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا متكل</span> | <span class="example-en" dir="ltr" lang="en">This is dependent</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب متكل</span> | <span class="example-en" dir="ltr" lang="en">I like dependent</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين متكل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dependent?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج متكل الحين عند الصيدلية، لأن الإضاءة أحسن هناك، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a dependent now at the pharmacy, because the light is better there, and I also took the clear cover</span> |
 
 

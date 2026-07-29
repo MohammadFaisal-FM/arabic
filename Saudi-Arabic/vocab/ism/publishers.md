@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الناشرين</span> | <span class="example-en" dir="ltr" lang="en">This is publishers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الناشرين</span> | <span class="example-en" dir="ltr" lang="en">I like publishers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الناشرين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the publishers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الناشرين جنب البنك، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a publishers next to the bank, so revision is easier, and then I closed the window</span> |
 
 

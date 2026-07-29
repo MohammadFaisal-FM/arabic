@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ذراع</span> | <span class="example-en" dir="ltr" lang="en">This is arm</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ذراع</span> | <span class="example-en" dir="ltr" lang="en">I like arm</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ذراع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the arm?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ذراع الحين جنب البنك، قبل ما يجي السائق، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need an arm now next to the bank, before the driver arrives, and I also took the empty bottle</span> |
 
 

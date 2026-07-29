@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نشيط</span> | <span class="example-en" dir="ltr" lang="en">This is active</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نشيط</span> | <span class="example-en" dir="ltr" lang="en">I like active</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نشيط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the active?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نشيط الحين في الحقيبة، قبل ما يجي السائق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an active now in the bag, before the driver arrives, and I also took the clean shoes</span> |
 
 

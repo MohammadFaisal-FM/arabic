@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تعلّم عربي</span> | <span class="example-en" dir="ltr" lang="en">Learn Arabic</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تعلّم عربي، ولقيت الجورب الأبيض قدام الملعب، عشان المراجعة أسهل، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">Learn Arabic, and I found the white sock in front of the pitch, so revision is easier, and then the boy slept</span> |
 
 
 ---

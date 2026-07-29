@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أنماط</span> | <span class="example-en" dir="ltr" lang="en">This is patterns</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أنماط</span> | <span class="example-en" dir="ltr" lang="en">I like patterns</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أنماط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the patterns?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أنماط في البقالة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a patterns at the grocery, before Maghrib prayer, and then I replied to the message</span> |
 
 

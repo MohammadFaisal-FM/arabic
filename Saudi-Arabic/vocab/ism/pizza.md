@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بيتزا</span> | <span class="example-en" dir="ltr" lang="en">This is pizza</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بيتزا</span> | <span class="example-en" dir="ltr" lang="en">I like pizza</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بيتزا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pizza?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بيتزا في الغرفة، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a pizza in the room, for studying tomorrow, and then I wrote a note</span> |
 
 

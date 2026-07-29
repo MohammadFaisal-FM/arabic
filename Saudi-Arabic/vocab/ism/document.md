@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وثيقة</span> | <span class="example-en" dir="ltr" lang="en">This is document</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وثيقة</span> | <span class="example-en" dir="ltr" lang="en">I like document</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وثيقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the document?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت وثيقة جنب البنك مع الزجاجة الفارغة، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a document next to the bank with the empty bottle, so revision is easier, and then I wiped the floor</span> |
 
 

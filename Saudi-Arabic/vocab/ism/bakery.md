@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مخبز</span> | <span class="example-en" dir="ltr" lang="en">This is bakery</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مخبز</span> | <span class="example-en" dir="ltr" lang="en">I like bakery</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مخبز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bakery?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مخبز الحين على المكتب، عشان الدراسة بكرة، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a bakery now on the desk, for studying tomorrow, and I also took the light blanket</span> |
 
 

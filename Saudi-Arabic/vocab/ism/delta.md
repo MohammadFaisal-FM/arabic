@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دلتا</span> | <span class="example-en" dir="ltr" lang="en">This is delta</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دلتا</span> | <span class="example-en" dir="ltr" lang="en">I like delta</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دلتا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the delta?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت دلتا عند العيادة مع الدباسة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a delta at the clinic with the stapler, if you need it later, and then we prayed</span> |
 
 

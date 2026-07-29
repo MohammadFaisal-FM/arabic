@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تمكنت من إقناع ابن عمي على قبول خطتي.</span> | <span class="example-en" dir="ltr" lang="en">I managed to convince my cousin to accept my plan.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اقناع الحين قدام الملعب، قبل ما يبرد الأكل، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a to convince now in front of the pitch, before the food gets cold, and I also took the clear tape</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نصب تذكاري</span> | <span class="example-en" dir="ltr" lang="en">This is memorial</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نصب تذكاري</span> | <span class="example-en" dir="ltr" lang="en">I like memorial</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نصب تذكاري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the memorial?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نصب تذكاري عند الباب، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a memorial at the door, because work finished early, and then I turned on the fan</span> |
 
 

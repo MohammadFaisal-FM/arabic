@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سارة</span> | <span class="example-en" dir="ltr" lang="en">This is sarah</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سارة</span> | <span class="example-en" dir="ltr" lang="en">I like sarah</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سارة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sarah?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سارة في الحديقة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a sarah in the park, so the photo comes out clearer, and then we locked the door</span> |
 
 

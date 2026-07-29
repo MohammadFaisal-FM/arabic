@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">بطاقتي</span> | <span class="example-en" dir="ltr" lang="en">My card</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا بطاقة</span> | <span class="example-en" dir="ltr" lang="en">This is a card</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بطاقة</span> | <span class="example-en" dir="ltr" lang="en">I like card</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بطاقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the card?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بطاقة عند الصيدلية مع الغطاء الشفاف، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a card at the pharmacy with the clear cover, before the food gets cold, and then I washed my hands</span> |
 
 

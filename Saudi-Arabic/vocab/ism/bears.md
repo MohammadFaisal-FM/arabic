@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الدببة</span> | <span class="example-en" dir="ltr" lang="en">This is bears</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الدببة</span> | <span class="example-en" dir="ltr" lang="en">I like bears</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الدببة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bears?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الدببة في المدرسة مع المقص الحاد، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a bears at school with the sharp scissors, because the boy is sleepy, and then we laughed a bit</span> |
 
 

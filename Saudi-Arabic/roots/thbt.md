@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ثبت الرقم</span> | <span class="example-en" dir="ltr" lang="en">Save / confirm the number</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ثبت الرقم، ولقيت الزجاجة الفارغة في البقالة، قبل ما يبرد الأكل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">Save / confirm the number, and I found the empty bottle at the grocery, before the food gets cold, and then I charged the device</span> |
 
 
 ---

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فجوة</span> | <span class="example-en" dir="ltr" lang="en">This is gap</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فجوة</span> | <span class="example-en" dir="ltr" lang="en">I like gap</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فجوة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the gap?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فجوة عند الصيدلية، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a gap at the pharmacy, because the light is better there, and then I tidied the table</span> |
 
 

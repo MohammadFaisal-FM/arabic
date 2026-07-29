@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الحسابات</span> | <span class="example-en" dir="ltr" lang="en">This is accounts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الحسابات</span> | <span class="example-en" dir="ltr" lang="en">I like accounts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الحسابات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the accounts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الحسابات قدام التلفاز، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an accounts in front of the TV, because work finished early, and then the phone rang</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا معقول</span> | <span class="example-en" dir="ltr" lang="en">This is reasonable</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب معقول</span> | <span class="example-en" dir="ltr" lang="en">I like reasonable</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين معقول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reasonable?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت معقول تحت السرير، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I saw a reasonable under the bed, so it doesn’t get lost, and then I replied to the message</span> |
 
 

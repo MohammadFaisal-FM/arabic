@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأفعال</span> | <span class="example-en" dir="ltr" lang="en">This is acts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأفعال</span> | <span class="example-en" dir="ltr" lang="en">I like acts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأفعال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the acts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأفعال الحين جنب النافذة، لأن البطارية ضعيفة، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need an acts now beside the window, because the battery is low, and I also took the sunglasses</span> |
 
 

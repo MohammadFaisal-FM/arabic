@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا هاري</span> | <span class="example-en" dir="ltr" lang="en">This is harry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب هاري</span> | <span class="example-en" dir="ltr" lang="en">I like harry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين هاري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the harry?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت هاري جنب البنك، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a harry next to the bank, because traffic is heavy, and then I wiped the floor</span> |
 
 

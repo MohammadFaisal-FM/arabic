@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نقاء</span> | <span class="example-en" dir="ltr" lang="en">This is purity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نقاء</span> | <span class="example-en" dir="ltr" lang="en">I like purity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نقاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the purity?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نقاء الحين جنب البنك، قبل ما يقفل المكان، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a purity now next to the bank, before the place closes, and I also took the empty bottle</span> |
 
 

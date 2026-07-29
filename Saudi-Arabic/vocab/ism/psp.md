@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شرطة الأمن العام</span> | <span class="example-en" dir="ltr" lang="en">This is psp</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شرطة الأمن العام</span> | <span class="example-en" dir="ltr" lang="en">I like psp</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شرطة الأمن العام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the psp?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شرطة الأمن العام قدام الملعب مع اللاصق الشفاف، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a psp in front of the pitch with the clear tape, before the food gets cold, and then I washed my hands</span> |
 
 

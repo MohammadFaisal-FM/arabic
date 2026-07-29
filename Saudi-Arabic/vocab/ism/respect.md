@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا احترام</span> | <span class="example-en" dir="ltr" lang="en">This is respect</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب احترام</span> | <span class="example-en" dir="ltr" lang="en">I like respect</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين احترام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the respect?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت احترام في البقالة مع الشاحن الطويل، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a respect at the grocery with the long charger, so it doesn’t get lost, and then I turned off the light</span> |
 
 

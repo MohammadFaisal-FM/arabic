@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حقوق</span> | <span class="example-en" dir="ltr" lang="en">This is rights</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حقوق</span> | <span class="example-en" dir="ltr" lang="en">I like rights</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حقوق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rights?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حقوق الحين في المطبخ، عشان المراجعة أسهل، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a rights now in the kitchen, so revision is easier, and I also took the paper file</span> |
 
 

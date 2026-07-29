@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مين</span> | <span class="example-en" dir="ltr" lang="en">This is maine</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مين</span> | <span class="example-en" dir="ltr" lang="en">I like maine</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the maine?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مين عند الباب مع المحفظة البنية، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a maine at the door with the brown wallet, because work finished early, and then the boy slept</span> |
 
 

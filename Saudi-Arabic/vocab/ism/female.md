@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أنثى</span> | <span class="example-en" dir="ltr" lang="en">This is female</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أنثى</span> | <span class="example-en" dir="ltr" lang="en">I like female</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أنثى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the female?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أنثى في السيارة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a female in the car, before Maghrib prayer, and then I turned off the light</span> |
 
 

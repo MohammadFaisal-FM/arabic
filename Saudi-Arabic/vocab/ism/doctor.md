@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طبيب</span> | <span class="example-en" dir="ltr" lang="en">This is doctor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طبيب</span> | <span class="example-en" dir="ltr" lang="en">I like doctor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طبيب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the doctor?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">طبيب كان/كانت جنب البنك، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">a doctor was next to the bank, before the place closes, and then I wiped the floor</span> |
 
 

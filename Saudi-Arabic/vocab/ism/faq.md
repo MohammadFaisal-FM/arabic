@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التعليمات</span> | <span class="example-en" dir="ltr" lang="en">This is faq</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التعليمات</span> | <span class="example-en" dir="ltr" lang="en">I like faq</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التعليمات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the faq?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج التعليمات الحين عند الصيدلية، لأن الجو حار شوي، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a faq now at the pharmacy, because the weather is a bit hot, and I also took the clear cover</span> |
 
 

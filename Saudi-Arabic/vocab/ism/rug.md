@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بساط</span> | <span class="example-en" dir="ltr" lang="en">This is rug</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بساط</span> | <span class="example-en" dir="ltr" lang="en">I like rug</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بساط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rug?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بساط الحين في الثلاجة، إذا احتجته بعدين، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a rug now in the fridge, if you need it later, and I also took the summer hat</span> |
 
 

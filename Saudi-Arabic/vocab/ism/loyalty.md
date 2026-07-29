@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وفاء</span> | <span class="example-en" dir="ltr" lang="en">This is loyalty</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وفاء</span> | <span class="example-en" dir="ltr" lang="en">I like loyalty</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وفاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the loyalty?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت وفاء في الحديقة مع المنبه القديميم، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a loyalty in the park with the old alarm, so the photo comes out clearer, and then I drank some water</span> |
 
 

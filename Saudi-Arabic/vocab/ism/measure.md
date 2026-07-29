@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يقيس</span> | <span class="example-en" dir="ltr" lang="en">This is measure</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يقيس</span> | <span class="example-en" dir="ltr" lang="en">I like measure</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يقيس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the measure?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يقيس على الشرفة، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a measure on the balcony, so it doesn’t get lost, and then I replied to the message</span> |
 
 

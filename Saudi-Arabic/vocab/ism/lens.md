@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عدسة</span> | <span class="example-en" dir="ltr" lang="en">This is lens</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عدسة</span> | <span class="example-en" dir="ltr" lang="en">I like lens</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عدسة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lens?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عدسة في المدرسة مع المقص الحاد، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a lens at school with the sharp scissors, because the boy is sleepy, and then we laughed a bit</span> |
 
 

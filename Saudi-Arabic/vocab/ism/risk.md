@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مخاطرة</span> | <span class="example-en" dir="ltr" lang="en">This is risk</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مخاطرة</span> | <span class="example-en" dir="ltr" lang="en">I like risk</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مخاطرة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the risk?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مخاطرة في البقالة، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a risk at the grocery, so we are not late, and then we laughed a bit</span> |
 
 

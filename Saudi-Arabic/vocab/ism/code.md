@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شفرة</span> | <span class="example-en" dir="ltr" lang="en">This is code</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شفرة</span> | <span class="example-en" dir="ltr" lang="en">I like code</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شفرة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the code?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شفرة الحين في المحطة، عشان الضيوف يوصلون، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a code now at the station, because guests are arriving, and I also took the short cable</span> |
 
 

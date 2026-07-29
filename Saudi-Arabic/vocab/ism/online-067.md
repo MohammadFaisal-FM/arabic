@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تتويبا أداة يمكن أن يستخدمها الطلاب في الفصل.</span> | <span class="example-en" dir="ltr" lang="en">Tatoeba is a tool that students can use in class.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اداه الحين عند الصيدلية، قبل ما يبرد الأكل، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a tool now at the pharmacy, before the food gets cold, and I also took the clear cover</span> |
 
 

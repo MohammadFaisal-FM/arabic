@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مراهقون</span> | <span class="example-en" dir="ltr" lang="en">This is teens</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مراهقون</span> | <span class="example-en" dir="ltr" lang="en">I like teens</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مراهقون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the teens?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مراهقون عند العيادة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a teens at the clinic, so the photo comes out clearer, and then we prayed</span> |
 
 

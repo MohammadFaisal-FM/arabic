@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">إدمان الإنترنت موجود حقا.</span> | <span class="example-en" dir="ltr" lang="en">Internet addiction really exists.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا ادمان</span> | <span class="example-en" dir="ltr" lang="en">This is a addiction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ادمان</span> | <span class="example-en" dir="ltr" lang="en">I like addiction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ادمان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the addiction?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ادمان الحين قدام المصعد، لأن الشغل خلص بدري، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need an addiction now in front of the elevator, because work finished early, and I also took the empty carton</span> |
 
 

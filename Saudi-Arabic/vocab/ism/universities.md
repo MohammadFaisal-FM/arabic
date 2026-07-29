@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الجامعات</span> | <span class="example-en" dir="ltr" lang="en">This is universities</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الجامعات</span> | <span class="example-en" dir="ltr" lang="en">I like universities</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الجامعات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the universities?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الجامعات قدام التلفاز مع الجورب الأبيض، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found an universities in front of the TV with the white sock, so we make the appointment, and then I turned on the fan</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ترجمة</span> | <span class="example-en" dir="ltr" lang="en">This is translation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ترجمة</span> | <span class="example-en" dir="ltr" lang="en">I like translation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ترجمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the translation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ترجمة الحين على الشرفة، لأن الولد نعسان، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a translation now on the balcony, because the boy is sleepy, and I also took the yellow card</span> |
 
 

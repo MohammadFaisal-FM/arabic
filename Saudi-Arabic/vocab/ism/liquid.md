@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سائل</span> | <span class="example-en" dir="ltr" lang="en">This is liquid</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سائل</span> | <span class="example-en" dir="ltr" lang="en">I like liquid</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سائل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the liquid?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سائل تحت السرير مع الوشاح الرمادي، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a liquid under the bed with the grey scarf, so we are not late, and then I replied to the message</span> |
 
 

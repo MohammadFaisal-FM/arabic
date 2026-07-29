@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خرائط</span> | <span class="example-en" dir="ltr" lang="en">This is maps</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خرائط</span> | <span class="example-en" dir="ltr" lang="en">I like maps</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خرائط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the maps?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج خرائط الحين قدام المصعد، عشان نلحق الموعد، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a maps now in front of the elevator, so we make the appointment, and I also took the empty carton</span> |
 
 

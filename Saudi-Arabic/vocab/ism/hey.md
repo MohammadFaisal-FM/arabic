@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يا</span> | <span class="example-en" dir="ltr" lang="en">This is hey</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يا</span> | <span class="example-en" dir="ltr" lang="en">I like hey</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hey?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يا تحت السرير مع الوشاح الرمادي، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a hey under the bed with the grey scarf, before Maghrib prayer, and then I turned off the light</span> |
 
 

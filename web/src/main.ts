@@ -1,6 +1,6 @@
 import { marked } from 'marked';
 import './style.css';
-import { stopArabicSpeech, wireArabicAudio } from './tts';
+import { stopArabicSpeech, wireArabicAudio, mountTtsVoicePicker } from './tts';
 
 const BASE = import.meta.env.BASE_URL;
 
@@ -1000,6 +1000,7 @@ async function renderWordDetail(main: HTMLElement, kind: WordKind) {
     body.innerHTML = await marked.parse(text);
     wireAppHashLinks(body);
     wireArabicAudio(body);
+    void mountTtsVoicePicker(body);
     main.appendChild(body);
   } catch {
     main.innerHTML = '<p class="loading">Could not load word.</p>';
@@ -1178,6 +1179,7 @@ async function renderRootDetail(main: HTMLElement) {
     body.innerHTML = await marked.parse(text);
     wireAppHashLinks(body);
     wireArabicAudio(body);
+    void mountTtsVoicePicker(body);
     main.appendChild(body);
   } catch {
     main.innerHTML = '<p class="loading">Could not load root.</p>';
@@ -1200,6 +1202,7 @@ async function renderDamair(main: HTMLElement) {
     body.innerHTML = await marked.parse(text);
     wireAppHashLinks(body);
     wireArabicAudio(body);
+    void mountTtsVoicePicker(body);
     main.appendChild(body);
   } catch {
     main.innerHTML = '<p class="loading">Could not load pronouns guide.</p>';
@@ -1296,6 +1299,7 @@ async function renderLyricsSong(main: HTMLElement) {
     }
 
     wireArabicAudio(shell);
+    void mountTtsVoicePicker(shell);
     main.appendChild(shell);
   } catch {
     setLyricsSongMode(false);

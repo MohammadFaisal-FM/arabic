@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المنح</span> | <span class="example-en" dir="ltr" lang="en">This is grants</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المنح</span> | <span class="example-en" dir="ltr" lang="en">I like grants</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المنح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the grants?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المنح الحين على المكتب، لأن الجو حار شوي، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a grants now on the desk, because the weather is a bit hot, and I also took the light blanket</span> |
 
 

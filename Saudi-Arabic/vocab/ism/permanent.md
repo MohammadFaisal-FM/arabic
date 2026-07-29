@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دائم</span> | <span class="example-en" dir="ltr" lang="en">This is permanent</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دائم</span> | <span class="example-en" dir="ltr" lang="en">I like permanent</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دائم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the permanent?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت دائم عند العيادة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I saw a permanent at the clinic, because the battery is low, and then I drank some water</span> |
 
 

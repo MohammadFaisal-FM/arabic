@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ظهر الحل</span> | <span class="example-en" dir="ltr" lang="en">The solution appeared</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا حل</span> | <span class="example-en" dir="ltr" lang="en">This is a solution</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حل</span> | <span class="example-en" dir="ltr" lang="en">I like solution</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the solution?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حل تحت السرير مع الوشاح الرمادي، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a solution under the bed with the grey scarf, because the boy is sleepy, and then we laughed a bit</span> |
 
 

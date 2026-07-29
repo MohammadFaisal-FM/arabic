@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التحديات</span> | <span class="example-en" dir="ltr" lang="en">This is challenges</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التحديات</span> | <span class="example-en" dir="ltr" lang="en">I like challenges</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التحديات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the challenges?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التحديات على المكتب مع البطانية الخفيفة، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a challenges on the desk with the light blanket, for studying tomorrow, and then I washed my hands</span> |
 
 

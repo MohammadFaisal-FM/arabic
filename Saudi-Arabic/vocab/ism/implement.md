@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ينفذ</span> | <span class="example-en" dir="ltr" lang="en">This is implement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ينفذ</span> | <span class="example-en" dir="ltr" lang="en">I like implement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ينفذ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the implement?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ينفذ في السيارة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put an implement in the car, before Maghrib prayer, and then I turned off the light</span> |
 
 

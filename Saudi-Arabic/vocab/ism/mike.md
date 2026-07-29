@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مايك</span> | <span class="example-en" dir="ltr" lang="en">This is mike</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مايك</span> | <span class="example-en" dir="ltr" lang="en">I like mike</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مايك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mike?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مايك في المكتبة مع الملعقة الصغيرة، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a mike in the library with the small spoon, before the driver arrives, and then I wiped the floor</span> |
 
 

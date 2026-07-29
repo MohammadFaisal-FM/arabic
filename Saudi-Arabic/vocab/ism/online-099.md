@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحدهما ياباني و الآخر إيطالي.</span> | <span class="example-en" dir="ltr" lang="en">One is Japanese and the other is Italian.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا ايطالي</span> | <span class="example-en" dir="ltr" lang="en">This is a italian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ايطالي</span> | <span class="example-en" dir="ltr" lang="en">I like italian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ايطالي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the italian?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ايطالي في الدرج مع الدفتر الأزرق، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an italian in the drawer with the blue notebook, for studying tomorrow, and then I wrote a note</span> |
 
 

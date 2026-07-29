@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تدليك</span> | <span class="example-en" dir="ltr" lang="en">This is massage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تدليك</span> | <span class="example-en" dir="ltr" lang="en">I like massage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تدليك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the massage?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تدليك في البقالة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a massage at the grocery, before Maghrib prayer, and then I replied to the message</span> |
 
 

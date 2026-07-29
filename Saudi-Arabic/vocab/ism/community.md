@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مجتمع</span> | <span class="example-en" dir="ltr" lang="en">This is community</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مجتمع</span> | <span class="example-en" dir="ltr" lang="en">I like community</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مجتمع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the community?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مجتمع في المدرسة مع المقص الحاد، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a community at school with the sharp scissors, because the boy is sleepy, and then we laughed a bit</span> |
 
 

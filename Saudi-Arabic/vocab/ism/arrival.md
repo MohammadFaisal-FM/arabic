@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وصول</span> | <span class="example-en" dir="ltr" lang="en">This is arrival</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وصول</span> | <span class="example-en" dir="ltr" lang="en">I like arrival</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وصول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the arrival?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت وصول في المدرسة مع المقص الحاد، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found an arrival at school with the sharp scissors, so we are not late, and then I replied to the message</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مناخ</span> | <span class="example-en" dir="ltr" lang="en">This is climate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مناخ</span> | <span class="example-en" dir="ltr" lang="en">I like climate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مناخ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the climate?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مناخ عند الصيدلية مع الغطاء الشفاف، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a climate at the pharmacy with the clear cover, because the weather is a bit hot, and then I wrote a note</span> |
 
 

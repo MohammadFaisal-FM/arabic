@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تايلور</span> | <span class="example-en" dir="ltr" lang="en">This is taylor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تايلور</span> | <span class="example-en" dir="ltr" lang="en">I like taylor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تايلور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the taylor?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تايلور في المطبخ مع الملف الورقي، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a taylor in the kitchen with the paper file, because traffic is heavy, and then I closed the window</span> |
 
 

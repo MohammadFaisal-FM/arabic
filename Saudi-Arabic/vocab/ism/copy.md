@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ينسخ</span> | <span class="example-en" dir="ltr" lang="en">This is copy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ينسخ</span> | <span class="example-en" dir="ltr" lang="en">I like copy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ينسخ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the copy?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ينسخ في البقالة مع الشاحن الطويل، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a copy at the grocery with the long charger, because the boy is sleepy, and then I replied to the message</span> |
 
 

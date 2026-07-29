@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ائتمان</span> | <span class="example-en" dir="ltr" lang="en">This is credit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ائتمان</span> | <span class="example-en" dir="ltr" lang="en">I like credit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ائتمان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the credit?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ائتمان قدام الملعب مع اللاصق الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a credit in front of the pitch with the clear tape, for studying tomorrow, and then I tidied the table</span> |
 
 

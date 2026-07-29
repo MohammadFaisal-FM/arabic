@@ -14,10 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كلمة جديدة</span> | <span class="example-en" dir="ltr" lang="en">New word</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا كلمة</span> | <span class="example-en" dir="ltr" lang="en">This is a word</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كلمة</span> | <span class="example-en" dir="ltr" lang="en">I like word</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كلمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the word?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كلمة في الثلاجة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a word in the fridge, because time is tight, and then I drank some water</span> |
 
 
 ### Links

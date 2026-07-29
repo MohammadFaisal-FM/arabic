@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خلاصة</span> | <span class="example-en" dir="ltr" lang="en">This is abstract</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خلاصة</span> | <span class="example-en" dir="ltr" lang="en">I like abstract</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خلاصة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the abstract?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج خلاصة الحين قدام التلفاز، بس خلّه قريب منك، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need an abstract now in front of the TV, but keep it near you, and I also took the white sock</span> |
 
 

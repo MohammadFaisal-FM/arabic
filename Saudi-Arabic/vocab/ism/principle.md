@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مبدأ</span> | <span class="example-en" dir="ltr" lang="en">This is principle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مبدأ</span> | <span class="example-en" dir="ltr" lang="en">I like principle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مبدأ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the principle?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مبدأ في الصالون، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a principle in the living room, but keep it near you, and then the phone rang</span> |
 
 

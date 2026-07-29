@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الفرعية</span> | <span class="example-en" dir="ltr" lang="en">This is sub</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الفرعية</span> | <span class="example-en" dir="ltr" lang="en">I like sub</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الفرعية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sub?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الفرعية على المكتب مع البطانية الخفيفة، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a sub on the desk with the light blanket, before the food gets cold, and then I wrote a note</span> |
 
 

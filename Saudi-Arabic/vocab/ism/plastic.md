@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بلاستيك</span> | <span class="example-en" dir="ltr" lang="en">This is plastic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بلاستيك</span> | <span class="example-en" dir="ltr" lang="en">I like plastic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بلاستيك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the plastic?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بلاستيك قدام الملعب مع اللاصق الشفاف، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a plastic in front of the pitch with the clear tape, before the food gets cold, and then I washed my hands</span> |
 
 

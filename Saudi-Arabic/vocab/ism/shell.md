@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صدَفَة</span> | <span class="example-en" dir="ltr" lang="en">This is shell</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صدَفَة</span> | <span class="example-en" dir="ltr" lang="en">I like shell</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صدَفَة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the shell?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج صدَفَة الحين على الشرفة، عشان ما نتأخر، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a shell now on the balcony, so we are not late, and I also took the yellow card</span> |
 
 

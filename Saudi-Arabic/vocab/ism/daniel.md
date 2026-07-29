@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دانيال</span> | <span class="example-en" dir="ltr" lang="en">This is daniel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دانيال</span> | <span class="example-en" dir="ltr" lang="en">I like daniel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دانيال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the daniel?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج دانيال الحين في السيارة، قبل صلاة المغرب، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a daniel now in the car, before Maghrib prayer, and I also took the soft pillow</span> |
 
 

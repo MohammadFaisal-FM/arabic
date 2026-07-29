@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا محركات الأقراص</span> | <span class="example-en" dir="ltr" lang="en">This is drives</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب محركات الأقراص</span> | <span class="example-en" dir="ltr" lang="en">I like drives</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين محركات الأقراص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the drives?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت محركات الأقراص في الغرفة مع المفتاح الاحتياطي، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a drives in the room with the spare key, because the light is better there, and then I tidied the table</span> |
 
 

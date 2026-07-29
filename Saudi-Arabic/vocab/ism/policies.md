@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا السياسات</span> | <span class="example-en" dir="ltr" lang="en">This is policies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب السياسات</span> | <span class="example-en" dir="ltr" lang="en">I like policies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين السياسات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the policies?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج السياسات الحين في الثلاجة، إذا احتجته بعدين، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a policies now in the fridge, if you need it later, and I also took the summer hat</span> |
 
 

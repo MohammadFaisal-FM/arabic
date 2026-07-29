@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خارجي</span> | <span class="example-en" dir="ltr" lang="en">This is external</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خارجي</span> | <span class="example-en" dir="ltr" lang="en">I like external</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خارجي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the external?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خارجي قدام التلفاز مع الجورب الأبيض، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found an external in front of the TV with the white sock, because guests are arriving, and then the phone rang</span> |
 
 

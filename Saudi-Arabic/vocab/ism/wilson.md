@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ويلسون</span> | <span class="example-en" dir="ltr" lang="en">This is wilson</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ويلسون</span> | <span class="example-en" dir="ltr" lang="en">I like wilson</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ويلسون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wilson?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن ويلسون شوي، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">We talked about a wilson a bit, so it doesn’t get lost, and then I turned off the light</span> |
 
 

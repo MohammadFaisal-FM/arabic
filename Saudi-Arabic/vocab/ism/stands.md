@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يقف</span> | <span class="example-en" dir="ltr" lang="en">This is stands</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يقف</span> | <span class="example-en" dir="ltr" lang="en">I like stands</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يقف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the stands?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يقف الحين في الحقيبة، عشان المراجعة أسهل، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a stands now in the bag, so revision is easier, and I also took the clean shoes</span> |
 
 

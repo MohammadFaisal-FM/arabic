@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ديفيد</span> | <span class="example-en" dir="ltr" lang="en">This is david</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ديفيد</span> | <span class="example-en" dir="ltr" lang="en">I like david</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ديفيد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the david?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ديفيد الحين جنب البنك، لأن الزحمة قوية، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a david now next to the bank, because traffic is heavy, and I also took the empty bottle</span> |
 
 

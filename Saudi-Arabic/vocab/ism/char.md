@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شار</span> | <span class="example-en" dir="ltr" lang="en">This is char</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شار</span> | <span class="example-en" dir="ltr" lang="en">I like char</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the char?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شار الحين عند الصيدلية، قبل ما يبرد الأكل، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a char now at the pharmacy, before the food gets cold, and I also took the clear cover</span> |
 
 

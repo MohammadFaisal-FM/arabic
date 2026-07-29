@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عميل</span> | <span class="example-en" dir="ltr" lang="en">This is customer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عميل</span> | <span class="example-en" dir="ltr" lang="en">I like customer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عميل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the customer?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عميل قدام التلفاز مع الجورب الأبيض، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a customer in front of the TV with the white sock, so we make the appointment, and then I turned on the fan</span> |
 
 

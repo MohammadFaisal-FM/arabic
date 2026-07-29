@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كَمن يبحث عن إبرة في كومة قَشّ.</span> | <span class="example-en" dir="ltr" lang="en">Like looking for a needle in a haystack.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ابره الحين قدام التلفاز، لأن الجو حار شوي، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a needle now in front of the TV, because the weather is a bit hot, and I also took the clean tissue</span> |
 
 

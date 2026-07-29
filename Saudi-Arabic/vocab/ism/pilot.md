@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طيار</span> | <span class="example-en" dir="ltr" lang="en">This is pilot</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طيار</span> | <span class="example-en" dir="ltr" lang="en">I like pilot</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طيار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pilot?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت طيار في البقالة، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a pilot at the grocery, so we are not late, and then we laughed a bit</span> |
 
 

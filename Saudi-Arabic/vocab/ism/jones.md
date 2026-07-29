@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جونز</span> | <span class="example-en" dir="ltr" lang="en">This is jones</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جونز</span> | <span class="example-en" dir="ltr" lang="en">I like jones</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جونز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jones?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جونز الحين جنب المسجد، عشان الصورة تطلع أوضح، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a jones now next to the mosque, so the photo comes out clearer, and I also took the pencil</span> |
 
 

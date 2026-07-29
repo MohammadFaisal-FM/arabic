@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الولايات المتحدة الأمريكية</span> | <span class="example-en" dir="ltr" lang="en">This is usa</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الولايات المتحدة الأمريكية</span> | <span class="example-en" dir="ltr" lang="en">I like usa</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الولايات المتحدة الأمريكية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the usa?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الولايات المتحدة الأمريكية قدام الملعب مع اللاصق الشفاف، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an usa in front of the pitch with the clear tape, because the weather is a bit hot, and then I wrote a note</span> |
 
 

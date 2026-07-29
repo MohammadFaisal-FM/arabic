@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملِك</span> | <span class="example-en" dir="ltr" lang="en">This is king</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملِك</span> | <span class="example-en" dir="ltr" lang="en">I like king</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملِك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the king?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ملِك الحين في السيارة، لأن الولد نعسان، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a king now in the car, because the boy is sleepy, and I also took the soft pillow</span> |
 
 

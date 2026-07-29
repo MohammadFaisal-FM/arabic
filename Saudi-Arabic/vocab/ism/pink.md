@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لون القرنفل</span> | <span class="example-en" dir="ltr" lang="en">This is pink</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لون القرنفل</span> | <span class="example-en" dir="ltr" lang="en">I like pink</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لون القرنفل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pink?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج لون القرنفل الحين على الشرفة، قبل صلاة المغرب، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a pink now on the balcony, before Maghrib prayer, and I also took the yellow card</span> |
 
 

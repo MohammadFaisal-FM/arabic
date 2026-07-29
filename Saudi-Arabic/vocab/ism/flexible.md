@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مرن</span> | <span class="example-en" dir="ltr" lang="en">This is flexible</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مرن</span> | <span class="example-en" dir="ltr" lang="en">I like flexible</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مرن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the flexible?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مرن الحين جنب المسجد، عشان الصورة تطلع أوضح، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a flexible now next to the mosque, so the photo comes out clearer, and I also took the pencil</span> |
 
 

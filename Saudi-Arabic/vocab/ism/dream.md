@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حلم</span> | <span class="example-en" dir="ltr" lang="en">This is dream</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حلم</span> | <span class="example-en" dir="ltr" lang="en">I like dream</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حلم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dream?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حلم في المحطة مع الكابل القصير، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a dream at the station with the short cable, because work finished early, and then I turned on the fan</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مستقبل</span> | <span class="example-en" dir="ltr" lang="en">This is future</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مستقبل</span> | <span class="example-en" dir="ltr" lang="en">I like future</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مستقبل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the future?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مستقبل تحت السرير، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a future under the bed, because the boy is sleepy, and then I replied to the message</span> |
 
 

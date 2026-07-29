@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مدَّوِن</span> | <span class="example-en" dir="ltr" lang="en">This is blogger</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مدَّوِن</span> | <span class="example-en" dir="ltr" lang="en">I like blogger</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مدَّوِن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the blogger?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مدَّوِن الحين على المكتب، قبل ما يبرد الأكل، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a blogger now on the desk, before the food gets cold, and I also took the light blanket</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المقيمين</span> | <span class="example-en" dir="ltr" lang="en">This is residents</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المقيمين</span> | <span class="example-en" dir="ltr" lang="en">I like residents</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المقيمين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the residents?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المقيمين الحين قدام الملعب، لأن الجو حار شوي، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a residents now in front of the pitch, because the weather is a bit hot, and I also took the clear tape</span> |
 
 

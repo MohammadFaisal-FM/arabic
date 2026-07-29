@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مستهلك</span> | <span class="example-en" dir="ltr" lang="en">This is consumer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مستهلك</span> | <span class="example-en" dir="ltr" lang="en">I like consumer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مستهلك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the consumer?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مستهلك قدام التلفاز، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a consumer in front of the TV, because work finished early, and then the phone rang</span> |
 
 

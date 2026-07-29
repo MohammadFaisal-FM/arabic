@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملحق</span> | <span class="example-en" dir="ltr" lang="en">This is accessory</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملحق</span> | <span class="example-en" dir="ltr" lang="en">I like accessory</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملحق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the accessory?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ملحق الحين في المطبخ، قبل ما يجي السائق، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an accessory now in the kitchen, before the driver arrives, and I also took the paper file</span> |
 
 

@@ -14,10 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كبر الولد</span> | <span class="example-en" dir="ltr" lang="en">The boy has grown up</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا ولد</span> | <span class="example-en" dir="ltr" lang="en">This is a boy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ولد</span> | <span class="example-en" dir="ltr" lang="en">I like boy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ولد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the boy?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن ولد شوي، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a boy a bit, for studying tomorrow, and then I tidied the table</span> |
 
 
 ### Links

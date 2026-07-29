@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الاخوة</span> | <span class="example-en" dir="ltr" lang="en">This is brothers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الاخوة</span> | <span class="example-en" dir="ltr" lang="en">I like brothers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الاخوة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the brothers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت الاخوة في الدرج، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I saw a brothers in the drawer, before the food gets cold, and then I tidied the table</span> |
 
 

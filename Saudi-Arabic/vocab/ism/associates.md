@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شركاء</span> | <span class="example-en" dir="ltr" lang="en">This is associates</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شركاء</span> | <span class="example-en" dir="ltr" lang="en">I like associates</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شركاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the associates?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شركاء عند العيادة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an associates at the clinic, because time is tight, and then I drank some water</span> |
 
 

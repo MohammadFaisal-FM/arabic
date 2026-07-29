@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اليكس</span> | <span class="example-en" dir="ltr" lang="en">This is alex</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اليكس</span> | <span class="example-en" dir="ltr" lang="en">I like alex</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اليكس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the alex?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اليكس عند العيادة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an alex at the clinic, if you need it later, and then I drank some water</span> |
 
 

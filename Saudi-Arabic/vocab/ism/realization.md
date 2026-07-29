@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تحقيق</span> | <span class="example-en" dir="ltr" lang="en">This is realization</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تحقيق</span> | <span class="example-en" dir="ltr" lang="en">I like realization</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تحقيق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the realization?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تحقيق الحين جنب البنك، لأن الزحمة قوية، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a realization now next to the bank, because traffic is heavy, and I also took the empty bottle</span> |
 
 

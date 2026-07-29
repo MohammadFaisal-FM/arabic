@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأوراق المالية</span> | <span class="example-en" dir="ltr" lang="en">This is securities</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأوراق المالية</span> | <span class="example-en" dir="ltr" lang="en">I like securities</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأوراق المالية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the securities?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الأوراق المالية في الثلاجة مع القبعة الصيفية، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a securities in the fridge with the summer hat, because the battery is low, and then I drank some water</span> |
 
 

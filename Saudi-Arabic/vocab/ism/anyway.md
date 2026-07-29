@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا على أي حال</span> | <span class="example-en" dir="ltr" lang="en">This is anyway</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب على أي حال</span> | <span class="example-en" dir="ltr" lang="en">I like anyway</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين على أي حال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the anyway?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج على أي حال الحين عند العيادة، إذا احتجته بعدين، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need an anyway now at the clinic, if you need it later, and I also took the stapler</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا هندسة</span> | <span class="example-en" dir="ltr" lang="en">This is engineering</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب هندسة</span> | <span class="example-en" dir="ltr" lang="en">I like engineering</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين هندسة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the engineering?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج هندسة الحين في الغرفة، قبل ما يبرد الأكل، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an engineering now in the room, before the food gets cold, and I also took the spare key</span> |
 
 

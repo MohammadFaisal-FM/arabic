@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رياضي</span> | <span class="example-en" dir="ltr" lang="en">This is athlete</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رياضي</span> | <span class="example-en" dir="ltr" lang="en">I like athlete</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رياضي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the athlete?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رياضي الحين في المطبخ، قبل ما يقفل المكان، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an athlete now in the kitchen, before the place closes, and I also took the paper file</span> |
 
 

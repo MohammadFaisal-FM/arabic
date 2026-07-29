@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ديل</span> | <span class="example-en" dir="ltr" lang="en">This is del</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ديل</span> | <span class="example-en" dir="ltr" lang="en">I like del</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ديل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the del?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ديل الحين قدام الملعب، عشان الدراسة بكرة، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a del now in front of the pitch, for studying tomorrow, and I also took the clear tape</span> |
 
 

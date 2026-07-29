@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الناشر</span> | <span class="example-en" dir="ltr" lang="en">This is publisher</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الناشر</span> | <span class="example-en" dir="ltr" lang="en">I like publisher</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الناشر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the publisher?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الناشر في البقالة، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a publisher at the grocery, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تنس</span> | <span class="example-en" dir="ltr" lang="en">This is tennis</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تنس</span> | <span class="example-en" dir="ltr" lang="en">I like tennis</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تنس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tennis?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تنس على الشرفة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a tennis on the balcony, before Maghrib prayer, and then I turned off the light</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يمشي</span> | <span class="example-en" dir="ltr" lang="en">This is march</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يمشي</span> | <span class="example-en" dir="ltr" lang="en">I like march</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يمشي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the march?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يمشي في المطبخ مع الملف الورقي، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a march in the kitchen with the paper file, so revision is easier, and then I charged the device</span> |
 
 

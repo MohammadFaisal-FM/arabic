@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الشركات</span> | <span class="example-en" dir="ltr" lang="en">This is businesses</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الشركات</span> | <span class="example-en" dir="ltr" lang="en">I like businesses</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الشركات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the businesses?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الشركات في الصالون مع المنديل النظيف، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a businesses in the living room with the clean tissue, because work finished early, and then the phone rang</span> |
 
 

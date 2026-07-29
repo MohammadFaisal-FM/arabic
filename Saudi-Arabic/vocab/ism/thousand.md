@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ألف</span> | <span class="example-en" dir="ltr" lang="en">This is thousand</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ألف</span> | <span class="example-en" dir="ltr" lang="en">I like thousand</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ألف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the thousand?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ألف قدام المصعد، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a thousand in front of the elevator, but keep it near you, and then the boy slept</span> |
 
 

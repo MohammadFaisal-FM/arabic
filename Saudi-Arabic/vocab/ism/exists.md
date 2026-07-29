@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موجود</span> | <span class="example-en" dir="ltr" lang="en">This is exists</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موجود</span> | <span class="example-en" dir="ltr" lang="en">I like exists</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موجود؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the exists?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت موجود جنب النافذة مع النظارة الشمسية، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an exists beside the window with the sunglasses, because time is tight, and then we locked the door</span> |
 
 

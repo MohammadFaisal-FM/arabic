@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مُنَاقَصَة</span> | <span class="example-en" dir="ltr" lang="en">This is bid</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مُنَاقَصَة</span> | <span class="example-en" dir="ltr" lang="en">I like bid</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مُنَاقَصَة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bid?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مُنَاقَصَة جنب النافذة مع النظارة الشمسية، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a bid beside the window with the sunglasses, if you need it later, and then we locked the door</span> |
 
 

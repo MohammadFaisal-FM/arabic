@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موظفين</span> | <span class="example-en" dir="ltr" lang="en">This is employees</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موظفين</span> | <span class="example-en" dir="ltr" lang="en">I like employees</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موظفين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the employees?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج موظفين الحين في الدرج، قبل ما يبرد الأكل، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need an employees now in the drawer, before the food gets cold, and I also took the blue notebook</span> |
 
 

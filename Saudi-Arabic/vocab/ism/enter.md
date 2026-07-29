@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يدخل</span> | <span class="example-en" dir="ltr" lang="en">This is enter</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يدخل</span> | <span class="example-en" dir="ltr" lang="en">I like enter</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يدخل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the enter?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يدخل في المكتبة، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put an enter in the library, before the driver arrives, and then I closed the window</span> |
 
 

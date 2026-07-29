@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وصفات</span> | <span class="example-en" dir="ltr" lang="en">This is recipes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وصفات</span> | <span class="example-en" dir="ltr" lang="en">I like recipes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وصفات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the recipes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت وصفات في المدرسة، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a recipes at school, so we are not late, and then I turned off the light</span> |
 
 

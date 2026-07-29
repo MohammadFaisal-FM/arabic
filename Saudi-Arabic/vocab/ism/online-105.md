@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أراد فاضل إخافة ليلى.</span> | <span class="example-en" dir="ltr" lang="en">Fadel wanted to scare Laila.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اخافه</span> | <span class="example-en" dir="ltr" lang="en">This is a scared him</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اخافه</span> | <span class="example-en" dir="ltr" lang="en">I like scared him</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اخافه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the scared him?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اخافه الحين جنب النافذة، لأن الوقت ضيق، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a scared him now beside the window, because time is tight, and I also took the sunglasses</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حذاء</span> | <span class="example-en" dir="ltr" lang="en">This is shoe</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حذاء</span> | <span class="example-en" dir="ltr" lang="en">I like shoe</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حذاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the shoe?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حذاء الحين في الحديقة، لأن الوقت ضيق، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a shoe now in the park, because time is tight, and I also took the old alarm</span> |
 
 

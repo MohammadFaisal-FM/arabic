@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سبورة</span> | <span class="example-en" dir="ltr" lang="en">This is board</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سبورة</span> | <span class="example-en" dir="ltr" lang="en">I like board</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سبورة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the board?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سبورة في الغرفة مع المفتاح الاحتياطي، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a board in the room with the spare key, because the light is better there, and then I tidied the table</span> |
 
 

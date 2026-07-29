@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الجميع</span> | <span class="example-en" dir="ltr" lang="en">This is everyone</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الجميع</span> | <span class="example-en" dir="ltr" lang="en">I like everyone</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الجميع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the everyone?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الجميع في الدرج، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put an everyone in the drawer, before the food gets cold, and then I washed my hands</span> |
 
 

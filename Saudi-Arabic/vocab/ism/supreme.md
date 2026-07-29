@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العليا</span> | <span class="example-en" dir="ltr" lang="en">This is supreme</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العليا</span> | <span class="example-en" dir="ltr" lang="en">I like supreme</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العليا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the supreme?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت العليا تحت السرير مع الوشاح الرمادي، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a supreme under the bed with the grey scarf, because the boy is sleepy, and then we laughed a bit</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأمراض</span> | <span class="example-en" dir="ltr" lang="en">This is diseases</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأمراض</span> | <span class="example-en" dir="ltr" lang="en">I like diseases</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأمراض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the diseases?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأمراض الحين جنب المسجد، لأن البطارية ضعيفة، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a diseases now next to the mosque, because the battery is low, and I also took the pencil</span> |
 
 

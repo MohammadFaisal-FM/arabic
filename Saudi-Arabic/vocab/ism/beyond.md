@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وَرَاءَ</span> | <span class="example-en" dir="ltr" lang="en">This is beyond</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وَرَاءَ</span> | <span class="example-en" dir="ltr" lang="en">I like beyond</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وَرَاءَ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the beyond?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت وَرَاءَ في الثلاجة مع القبعة الصيفية، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a beyond in the fridge with the summer hat, if you need it later, and then we prayed</span> |
 
 

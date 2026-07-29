@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اليوم</span> | <span class="example-en" dir="ltr" lang="en">This is today</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اليوم</span> | <span class="example-en" dir="ltr" lang="en">I like today</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اليوم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the today?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اليوم في المدرسة مع المقص الحاد، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a today at school with the sharp scissors, so it doesn’t get lost, and then I replied to the message</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التمهيد</span> | <span class="example-en" dir="ltr" lang="en">This is boot</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التمهيد</span> | <span class="example-en" dir="ltr" lang="en">I like boot</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التمهيد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the boot?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج التمهيد الحين عند العيادة، لأن الوقت ضيق، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a boot now at the clinic, because time is tight, and I also took the stapler</span> |
 
 

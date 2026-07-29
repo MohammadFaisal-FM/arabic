@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يجرد</span> | <span class="example-en" dir="ltr" lang="en">This is strip</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يجرد</span> | <span class="example-en" dir="ltr" lang="en">I like strip</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يجرد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the strip?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يجرد جنب البنك مع الزجاجة الفارغة، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a strip next to the bank with the empty bottle, so revision is easier, and then I wiped the floor</span> |
 
 

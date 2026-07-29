@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سلام</span> | <span class="example-en" dir="ltr" lang="en">This is peace</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سلام</span> | <span class="example-en" dir="ltr" lang="en">I like peace</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سلام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the peace?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سلام قدام المصعد، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a peace in front of the elevator, so we make the appointment, and then I turned on the fan</span> |
 
 

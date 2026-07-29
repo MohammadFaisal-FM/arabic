@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المناطق</span> | <span class="example-en" dir="ltr" lang="en">This is areas</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المناطق</span> | <span class="example-en" dir="ltr" lang="en">I like areas</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المناطق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the areas?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المناطق في الثلاجة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put an areas in the fridge, so the photo comes out clearer, and then we prayed</span> |
 
 

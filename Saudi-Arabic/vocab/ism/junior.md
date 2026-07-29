@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مبتدئ</span> | <span class="example-en" dir="ltr" lang="en">This is junior</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مبتدئ</span> | <span class="example-en" dir="ltr" lang="en">I like junior</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مبتدئ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the junior?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مبتدئ جنب المسجد مع القلم الرصاص، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a junior next to the mosque with the pencil, because time is tight, and then I drank some water</span> |
 
 

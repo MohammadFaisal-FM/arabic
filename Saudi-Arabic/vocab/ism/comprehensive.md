@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شامل</span> | <span class="example-en" dir="ltr" lang="en">This is comprehensive</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شامل</span> | <span class="example-en" dir="ltr" lang="en">I like comprehensive</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شامل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the comprehensive?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شامل في البقالة مع الشاحن الطويل، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a comprehensive at the grocery with the long charger, so we are not late, and then I turned off the light</span> |
 
 

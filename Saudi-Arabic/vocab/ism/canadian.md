@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الكندية</span> | <span class="example-en" dir="ltr" lang="en">This is canadian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الكندية</span> | <span class="example-en" dir="ltr" lang="en">I like canadian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الكندية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the canadian?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الكندية عند العيادة مع الدباسة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a canadian at the clinic with the stapler, because time is tight, and then we prayed</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مانشستر</span> | <span class="example-en" dir="ltr" lang="en">This is manchester</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مانشستر</span> | <span class="example-en" dir="ltr" lang="en">I like manchester</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مانشستر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the manchester?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن مانشستر شوي، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">We talked about a manchester a bit, before the place closes, and then I charged the device</span> |
 
 

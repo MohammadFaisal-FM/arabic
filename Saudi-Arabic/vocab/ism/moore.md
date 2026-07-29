@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مور</span> | <span class="example-en" dir="ltr" lang="en">This is moore</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مور</span> | <span class="example-en" dir="ltr" lang="en">I like moore</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the moore?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مور الحين جنب البنك، قبل ما يجي السائق، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a moore now next to the bank, before the driver arrives, and I also took the empty bottle</span> |
 
 

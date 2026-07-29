@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كان هنا</span> | <span class="example-en" dir="ltr" lang="en">He was here</span> |
+| <span class="example-ar" dir="rtl" lang="ar">كان هنا، ولقيت الدباسة في المكتبة، بس خلّه قريب منك، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">He was here, and I found the stapler in the library, but keep it near you, and then we locked the door</span> |
 
 
 ---

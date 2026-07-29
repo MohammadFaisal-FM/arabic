@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ترتيب</span> | <span class="example-en" dir="ltr" lang="en">This is arrangement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ترتيب</span> | <span class="example-en" dir="ltr" lang="en">I like arrangement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ترتيب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the arrangement?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ترتيب قدام الملعب، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put an arrangement in front of the pitch, because the weather is a bit hot, and then I tidied the table</span> |
 
 

@@ -14,10 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أدور على عمل</span> | <span class="example-en" dir="ltr" lang="en">I'm looking for work</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا عمل</span> | <span class="example-en" dir="ltr" lang="en">This is a work</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عمل</span> | <span class="example-en" dir="ltr" lang="en">I like work</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عمل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the work?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عمل في المكتبة، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a work in the library, before the place closes, and then I closed the window</span> |
 
 
 ### Links

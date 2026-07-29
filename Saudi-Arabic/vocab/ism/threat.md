@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تهديد</span> | <span class="example-en" dir="ltr" lang="en">This is threat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تهديد</span> | <span class="example-en" dir="ltr" lang="en">I like threat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تهديد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the threat?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تهديد عند الاستقبال مع الكوب الزجاج، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a threat at reception with the glass cup, because traffic is heavy, and then I wiped the floor</span> |
 
 

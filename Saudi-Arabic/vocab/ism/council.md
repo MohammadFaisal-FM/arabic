@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مجلس</span> | <span class="example-en" dir="ltr" lang="en">This is council</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مجلس</span> | <span class="example-en" dir="ltr" lang="en">I like council</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مجلس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the council?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مجلس في الحقيبة، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a council in the bag, so revision is easier, and then I closed the window</span> |
 
 

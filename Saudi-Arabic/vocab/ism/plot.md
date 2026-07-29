@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حبكة</span> | <span class="example-en" dir="ltr" lang="en">This is plot</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حبكة</span> | <span class="example-en" dir="ltr" lang="en">I like plot</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حبكة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the plot?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حبكة في السيارة مع الوسادة الناعمة، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a plot in the car with the soft pillow, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

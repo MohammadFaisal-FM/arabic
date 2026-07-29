@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أنبوب</span> | <span class="example-en" dir="ltr" lang="en">This is tube</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أنبوب</span> | <span class="example-en" dir="ltr" lang="en">I like tube</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أنبوب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tube?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أنبوب الحين قدام المصعد، عشان نلحق الموعد، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a tube now in front of the elevator, so we make the appointment, and I also took the empty carton</span> |
 
 

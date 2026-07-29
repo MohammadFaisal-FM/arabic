@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جرد</span> | <span class="example-en" dir="ltr" lang="en">This is inventory</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جرد</span> | <span class="example-en" dir="ltr" lang="en">I like inventory</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جرد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the inventory?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جرد عند العيادة مع الدباسة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an inventory at the clinic with the stapler, if you need it later, and then we prayed</span> |
 
 

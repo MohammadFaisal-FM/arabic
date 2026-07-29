@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الهاوي</span> | <span class="example-en" dir="ltr" lang="en">This is amateur</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الهاوي</span> | <span class="example-en" dir="ltr" lang="en">I like amateur</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الهاوي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the amateur?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الهاوي في الثلاجة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an amateur in the fridge, if you need it later, and then I drank some water</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دولار</span> | <span class="example-en" dir="ltr" lang="en">This is dollars</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دولار</span> | <span class="example-en" dir="ltr" lang="en">I like dollars</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دولار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dollars?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج دولار الحين في الحديقة، عشان الصورة تطلع أوضح، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a dollars now in the park, so the photo comes out clearer, and I also took the old alarm</span> |
 
 

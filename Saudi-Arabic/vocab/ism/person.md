@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شخص</span> | <span class="example-en" dir="ltr" lang="en">This is person</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شخص</span> | <span class="example-en" dir="ltr" lang="en">I like person</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شخص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the person?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن شخص شوي، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a person a bit, before the food gets cold, and then I wrote a note</span> |
 
 

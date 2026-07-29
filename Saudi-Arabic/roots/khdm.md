@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">يخدم الزباين</span> | <span class="example-en" dir="ltr" lang="en">He serves customers</span> |
+| <span class="example-ar" dir="rtl" lang="ar">يخدم الزباين، ولقيت المنديل النظيف على المكتب، لأن الزحمة قوية، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">He serves customers, and I found the clean tissue on the desk, because traffic is heavy, and then the boy slept</span> |
 
 
 ---

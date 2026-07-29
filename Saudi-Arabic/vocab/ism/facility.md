@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا منشأة</span> | <span class="example-en" dir="ltr" lang="en">This is facility</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب منشأة</span> | <span class="example-en" dir="ltr" lang="en">I like facility</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين منشأة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the facility?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج منشأة الحين عند العيادة، لأن الوقت ضيق، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a facility now at the clinic, because time is tight, and I also took the stapler</span> |
 
 

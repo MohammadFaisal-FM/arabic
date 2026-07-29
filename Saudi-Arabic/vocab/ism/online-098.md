@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تعارك توم مع أخ ماري وكسر أنفه.</span> | <span class="example-en" dir="ltr" lang="en">Tom got into a fight with Mary's brother and broke his nose.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت انفه عند الباب مع المحفظة البنية، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a conceitedness at the door with the brown wallet, so we make the appointment, and then the boy slept</span> |
 
 

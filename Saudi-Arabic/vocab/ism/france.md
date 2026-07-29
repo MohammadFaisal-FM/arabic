@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فرنسا</span> | <span class="example-en" dir="ltr" lang="en">This is france</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فرنسا</span> | <span class="example-en" dir="ltr" lang="en">I like france</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فرنسا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the france?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فرنسا الحين على الشرفة، لأن الولد نعسان، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a france now on the balcony, because the boy is sleepy, and I also took the yellow card</span> |
 
 

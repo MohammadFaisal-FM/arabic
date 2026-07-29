@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خطوات</span> | <span class="example-en" dir="ltr" lang="en">This is steps</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خطوات</span> | <span class="example-en" dir="ltr" lang="en">I like steps</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خطوات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the steps?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خطوات في المحطة مع الكابل القصير، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a steps at the station with the short cable, because guests are arriving, and then the phone rang</span> |
 
 

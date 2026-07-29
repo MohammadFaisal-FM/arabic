@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لي</span> | <span class="example-en" dir="ltr" lang="en">This is lee</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لي</span> | <span class="example-en" dir="ltr" lang="en">I like lee</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lee?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لي عند الاستقبال، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a lee at reception, because traffic is heavy, and then I closed the window</span> |
 
 

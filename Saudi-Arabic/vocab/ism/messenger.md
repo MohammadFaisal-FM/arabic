@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رسول</span> | <span class="example-en" dir="ltr" lang="en">This is messenger</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رسول</span> | <span class="example-en" dir="ltr" lang="en">I like messenger</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رسول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the messenger?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رسول عند الباب مع المحفظة البنية، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a messenger at the door with the brown wallet, because work finished early, and then the boy slept</span> |
 
 

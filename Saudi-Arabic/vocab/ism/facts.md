@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حقائق</span> | <span class="example-en" dir="ltr" lang="en">This is facts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حقائق</span> | <span class="example-en" dir="ltr" lang="en">I like facts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حقائق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the facts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حقائق قدام التلفاز مع الجورب الأبيض، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a facts in front of the TV with the white sock, because guests are arriving, and then the phone rang</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أداء هذه السيارة أفضل من تلك.</span> | <span class="example-en" dir="ltr" lang="en">This car performs better than that one.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">اداء كان/كانت في البقالة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">a performance was at the grocery, because the boy is sleepy, and then we laughed a bit</span> |
 
 

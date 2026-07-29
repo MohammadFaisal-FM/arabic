@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا آلة حاسبة</span> | <span class="example-en" dir="ltr" lang="en">This is calculator</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب آلة حاسبة</span> | <span class="example-en" dir="ltr" lang="en">I like calculator</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين آلة حاسبة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the calculator?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت آلة حاسبة في الدرج، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a calculator in the drawer, before the food gets cold, and then I washed my hands</span> |
 
 

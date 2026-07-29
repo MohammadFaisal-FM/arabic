@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ضريبة</span> | <span class="example-en" dir="ltr" lang="en">This is tax</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ضريبة</span> | <span class="example-en" dir="ltr" lang="en">I like tax</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ضريبة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tax?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ضريبة قدام المصعد، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a tax in front of the elevator, but keep it near you, and then the boy slept</span> |
 
 

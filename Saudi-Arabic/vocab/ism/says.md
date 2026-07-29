@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يقول</span> | <span class="example-en" dir="ltr" lang="en">This is says</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يقول</span> | <span class="example-en" dir="ltr" lang="en">I like says</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يقول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the says?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يقول الحين في البقالة، قبل صلاة المغرب، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a says now at the grocery, before Maghrib prayer, and I also took the long charger</span> |
 
 

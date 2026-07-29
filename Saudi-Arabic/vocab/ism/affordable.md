@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بسعر معقول</span> | <span class="example-en" dir="ltr" lang="en">This is affordable</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بسعر معقول</span> | <span class="example-en" dir="ltr" lang="en">I like affordable</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بسعر معقول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the affordable?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بسعر معقول جنب البنك، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put an affordable next to the bank, because traffic is heavy, and then I wiped the floor</span> |
 
 

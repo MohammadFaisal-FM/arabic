@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طَرد</span> | <span class="example-en" dir="ltr" lang="en">This is package</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طَرد</span> | <span class="example-en" dir="ltr" lang="en">I like package</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طَرد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the package?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت طَرد على الشرفة مع البطاقة الصفراء، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a package on the balcony with the yellow card, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

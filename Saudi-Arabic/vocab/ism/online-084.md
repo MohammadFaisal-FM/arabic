@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هل لديكم أرز؟</span> | <span class="example-en" dir="ltr" lang="en">Do you have rice?</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا ارز</span> | <span class="example-en" dir="ltr" lang="en">This is a rice</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ارز</span> | <span class="example-en" dir="ltr" lang="en">I like rice</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ارز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rice?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ارز الحين جنب البنك، قبل ما يجي السائق، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a rice now next to the bank, before the driver arrives, and I also took the empty bottle</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا زائدة</span> | <span class="example-en" dir="ltr" lang="en">This is appendix</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب زائدة</span> | <span class="example-en" dir="ltr" lang="en">I like appendix</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين زائدة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the appendix?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت زائدة جنب البنك مع الزجاجة الفارغة، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an appendix next to the bank with the empty bottle, before the place closes, and then I closed the window</span> |
 
 

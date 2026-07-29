@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ميكانيكية</span> | <span class="example-en" dir="ltr" lang="en">This is mechanical</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ميكانيكية</span> | <span class="example-en" dir="ltr" lang="en">I like mechanical</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ميكانيكية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mechanical?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ميكانيكية الحين في المكتبة، قبل ما يجي السائق، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a mechanical now in the library, before the driver arrives, and I also took the small spoon</span> |
 
 

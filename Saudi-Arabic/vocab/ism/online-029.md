@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لدى الفيل أنف طويل.</span> | <span class="example-en" dir="ltr" lang="en">The elephant has a long nose.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا انف</span> | <span class="example-en" dir="ltr" lang="en">This is a nose</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب انف</span> | <span class="example-en" dir="ltr" lang="en">I like nose</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين انف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the nose?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج انف الحين في المطبخ، قبل ما يجي السائق، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a nose now in the kitchen, before the driver arrives, and I also took the paper file</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صاحب العمل</span> | <span class="example-en" dir="ltr" lang="en">This is employer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صاحب العمل</span> | <span class="example-en" dir="ltr" lang="en">I like employer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صاحب العمل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the employer?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج صاحب العمل الحين في المكتبة، لأن الزحمة قوية، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an employer now in the library, because traffic is heavy, and I also took the small spoon</span> |
 
 

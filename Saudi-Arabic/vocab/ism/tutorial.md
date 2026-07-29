@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا درس تعليمي</span> | <span class="example-en" dir="ltr" lang="en">This is tutorial</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب درس تعليمي</span> | <span class="example-en" dir="ltr" lang="en">I like tutorial</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين درس تعليمي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tutorial?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت درس تعليمي في الثلاجة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a tutorial in the fridge, because the battery is low, and then we locked the door</span> |
 
 

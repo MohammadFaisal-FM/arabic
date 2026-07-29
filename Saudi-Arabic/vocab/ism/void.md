@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فارغ</span> | <span class="example-en" dir="ltr" lang="en">This is void</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فارغ</span> | <span class="example-en" dir="ltr" lang="en">I like void</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فارغ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the void?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فارغ جنب النافذة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a void beside the window, because time is tight, and then we prayed</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شريك</span> | <span class="example-en" dir="ltr" lang="en">This is partner</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شريك</span> | <span class="example-en" dir="ltr" lang="en">I like partner</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شريك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the partner?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شريك عند العيادة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a partner at the clinic, because time is tight, and then I drank some water</span> |
 
 

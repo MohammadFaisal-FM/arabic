@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا انتقال</span> | <span class="example-en" dir="ltr" lang="en">This is transition</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب انتقال</span> | <span class="example-en" dir="ltr" lang="en">I like transition</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين انتقال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the transition?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت انتقال في الثلاجة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a transition in the fridge, because the battery is low, and then we locked the door</span> |
 
 

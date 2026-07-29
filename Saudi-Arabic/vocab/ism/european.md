@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أوروبية</span> | <span class="example-en" dir="ltr" lang="en">This is european</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أوروبية</span> | <span class="example-en" dir="ltr" lang="en">I like european</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أوروبية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the european?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أوروبية في الصالون مع المنديل النظيف، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found an european in the living room with the clean tissue, but keep it near you, and then I turned on the fan</span> |
 
 

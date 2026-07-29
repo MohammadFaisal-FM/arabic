@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا السيدات</span> | <span class="example-en" dir="ltr" lang="en">This is ladies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب السيدات</span> | <span class="example-en" dir="ltr" lang="en">I like ladies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين السيدات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ladies?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت السيدات جنب البنك مع الزجاجة الفارغة، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a ladies next to the bank with the empty bottle, because traffic is heavy, and then I charged the device</span> |
 
 

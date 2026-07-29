@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الناس</span> | <span class="example-en" dir="ltr" lang="en">This is people</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الناس</span> | <span class="example-en" dir="ltr" lang="en">I like people</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الناس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the people?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن الناس شوي، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">We talked about a people a bit, so revision is easier, and then I wiped the floor</span> |
 
 

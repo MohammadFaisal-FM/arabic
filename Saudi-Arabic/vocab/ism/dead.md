@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ميت</span> | <span class="example-en" dir="ltr" lang="en">This is dead</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ميت</span> | <span class="example-en" dir="ltr" lang="en">I like dead</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ميت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dead?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ميت جنب المسجد مع القلم الرصاص، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a dead next to the mosque with the pencil, if you need it later, and then I drank some water</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شكوى</span> | <span class="example-en" dir="ltr" lang="en">This is complaint</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شكوى</span> | <span class="example-en" dir="ltr" lang="en">I like complaint</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شكوى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the complaint?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شكوى قدام الملعب، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a complaint in front of the pitch, for studying tomorrow, and then I washed my hands</span> |
 
 

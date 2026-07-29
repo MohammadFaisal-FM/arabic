@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا السيارات</span> | <span class="example-en" dir="ltr" lang="en">This is automotive</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب السيارات</span> | <span class="example-en" dir="ltr" lang="en">I like automotive</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين السيارات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the automotive?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت السيارات في البقالة، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an automotive at the grocery, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

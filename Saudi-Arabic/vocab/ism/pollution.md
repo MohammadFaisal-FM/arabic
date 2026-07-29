@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تلوث</span> | <span class="example-en" dir="ltr" lang="en">This is pollution</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تلوث</span> | <span class="example-en" dir="ltr" lang="en">I like pollution</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تلوث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pollution?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تلوث في الصالون، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a pollution in the living room, because guests are arriving, and then I turned on the fan</span> |
 
 

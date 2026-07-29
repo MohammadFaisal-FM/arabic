@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الآسيوية</span> | <span class="example-en" dir="ltr" lang="en">This is asian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الآسيوية</span> | <span class="example-en" dir="ltr" lang="en">I like asian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الآسيوية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the asian?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الآسيوية على الشرفة، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put an asian on the balcony, so it doesn’t get lost, and then I replied to the message</span> |
 
 

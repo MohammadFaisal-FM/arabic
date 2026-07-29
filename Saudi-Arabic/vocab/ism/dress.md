@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فستان</span> | <span class="example-en" dir="ltr" lang="en">This is dress</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فستان</span> | <span class="example-en" dir="ltr" lang="en">I like dress</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فستان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dress?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فستان في المطبخ مع الملف الورقي، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a dress in the kitchen with the paper file, before the place closes, and then I wiped the floor</span> |
 
 

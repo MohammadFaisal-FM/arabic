@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حجر</span> | <span class="example-en" dir="ltr" lang="en">This is stone</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حجر</span> | <span class="example-en" dir="ltr" lang="en">I like stone</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حجر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the stone?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حجر الحين في المدرسة، قبل صلاة المغرب، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a stone now at school, before Maghrib prayer, and I also took the sharp scissors</span> |
 
 

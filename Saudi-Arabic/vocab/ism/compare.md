@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يقارن</span> | <span class="example-en" dir="ltr" lang="en">This is compare</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يقارن</span> | <span class="example-en" dir="ltr" lang="en">I like compare</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يقارن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the compare?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يقارن قدام المصعد، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a compare in front of the elevator, so we make the appointment, and then I turned on the fan</span> |
 
 

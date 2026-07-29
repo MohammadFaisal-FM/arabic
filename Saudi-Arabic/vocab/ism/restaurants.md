@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المطاعم</span> | <span class="example-en" dir="ltr" lang="en">This is restaurants</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المطاعم</span> | <span class="example-en" dir="ltr" lang="en">I like restaurants</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المطاعم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the restaurants?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المطاعم الحين على الشرفة، لأن الولد نعسان، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a restaurants now on the balcony, because the boy is sleepy, and I also took the yellow card</span> |
 
 

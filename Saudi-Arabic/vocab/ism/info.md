@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا معلومات</span> | <span class="example-en" dir="ltr" lang="en">This is info</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب معلومات</span> | <span class="example-en" dir="ltr" lang="en">I like info</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين معلومات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the info?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج معلومات الحين قدام الملعب، قبل ما يبرد الأكل، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an info now in front of the pitch, before the food gets cold, and I also took the clear tape</span> |
 
 

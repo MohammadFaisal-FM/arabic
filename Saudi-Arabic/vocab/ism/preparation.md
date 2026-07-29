@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تحضير</span> | <span class="example-en" dir="ltr" lang="en">This is preparation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تحضير</span> | <span class="example-en" dir="ltr" lang="en">I like preparation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تحضير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the preparation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تحضير جنب النافذة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a preparation beside the window, because time is tight, and then we prayed</span> |
 
 

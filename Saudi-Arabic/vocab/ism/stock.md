@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مخزون</span> | <span class="example-en" dir="ltr" lang="en">This is stock</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مخزون</span> | <span class="example-en" dir="ltr" lang="en">I like stock</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مخزون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the stock?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مخزون في المدرسة، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a stock at school, before Maghrib prayer, and then we laughed a bit</span> |
 
 

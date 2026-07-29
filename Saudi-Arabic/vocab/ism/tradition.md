@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التقليد</span> | <span class="example-en" dir="ltr" lang="en">This is tradition</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التقليد</span> | <span class="example-en" dir="ltr" lang="en">I like tradition</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التقليد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tradition?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التقليد في الحقيبة، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a tradition in the bag, before the place closes, and then I charged the device</span> |
 
 

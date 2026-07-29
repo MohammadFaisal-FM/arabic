@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الهجمات</span> | <span class="example-en" dir="ltr" lang="en">This is attacks</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الهجمات</span> | <span class="example-en" dir="ltr" lang="en">I like attacks</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الهجمات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the attacks?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الهجمات الحين جنب البنك، لأن الزحمة قوية، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need an attacks now next to the bank, because traffic is heavy, and I also took the empty bottle</span> |
 
 

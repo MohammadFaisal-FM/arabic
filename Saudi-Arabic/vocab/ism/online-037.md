@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">علينا ألا ننسى إرسال هذه الرسالة غدا.</span> | <span class="example-en" dir="ltr" lang="en">We must not forget to send this message tomorrow.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ارسال في المحطة مع الكابل القصير، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a send at the station with the short cable, so we make the appointment, and then I turned on the fan</span> |
 
 

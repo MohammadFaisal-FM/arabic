@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بشر</span> | <span class="example-en" dir="ltr" lang="en">This is human</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بشر</span> | <span class="example-en" dir="ltr" lang="en">I like human</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بشر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the human?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن بشر شوي، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a human a bit, but keep it near you, and then I turned on the fan</span> |
 
 

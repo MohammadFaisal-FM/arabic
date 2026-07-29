@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا هامبشاير</span> | <span class="example-en" dir="ltr" lang="en">This is hampshire</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب هامبشاير</span> | <span class="example-en" dir="ltr" lang="en">I like hampshire</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين هامبشاير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hampshire?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج هامبشاير الحين عند الباب، بس خلّه قريب منك، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a hampshire now at the door, but keep it near you, and I also took the brown wallet</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قسم</span> | <span class="example-en" dir="ltr" lang="en">This is department</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قسم</span> | <span class="example-en" dir="ltr" lang="en">I like department</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قسم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the department?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قسم جنب المسجد مع القلم الرصاص، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a department next to the mosque with the pencil, because the battery is low, and then we locked the door</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حديث</span> | <span class="example-en" dir="ltr" lang="en">This is modern</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حديث</span> | <span class="example-en" dir="ltr" lang="en">I like modern</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حديث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the modern?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حديث الحين في المكتبة، عشان المراجعة أسهل، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a modern now in the library, so revision is easier, and I also took the small spoon</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الرياضيات</span> | <span class="example-en" dir="ltr" lang="en">This is math</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الرياضيات</span> | <span class="example-en" dir="ltr" lang="en">I like math</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الرياضيات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the math?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الرياضيات الحين قدام الملعب، قبل ما يبرد الأكل، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a math now in front of the pitch, before the food gets cold, and I also took the clear tape</span> |
 
 

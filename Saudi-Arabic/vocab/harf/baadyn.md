@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">نشوف بعدين</span> | <span class="example-en" dir="ltr" lang="en">we’ll see later</span> |
+| <span class="example-ar" dir="rtl" lang="ar">خلّنا نكمّل بعدين، حط الجورب الأبيض قدام التلفاز الحين</span> | <span class="example-en" dir="ltr" lang="en">Let’s continue later; put the white sock in front of the TV for now</span> |
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تمويل</span> | <span class="example-en" dir="ltr" lang="en">This is finance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تمويل</span> | <span class="example-en" dir="ltr" lang="en">I like finance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تمويل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the finance?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تمويل الحين في الغرفة، لأن الإضاءة أحسن هناك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a finance now in the room, because the light is better there, and I also took the spare key</span> |
 
 

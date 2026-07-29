@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بعيد</span> | <span class="example-en" dir="ltr" lang="en">This is remote</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بعيد</span> | <span class="example-en" dir="ltr" lang="en">I like remote</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بعيد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the remote?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بعيد على المكتب مع البطانية الخفيفة، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a remote on the desk with the light blanket, because the weather is a bit hot, and then I tidied the table</span> |
 
 

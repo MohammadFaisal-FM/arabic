@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تجاري</span> | <span class="example-en" dir="ltr" lang="en">This is commercial</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تجاري</span> | <span class="example-en" dir="ltr" lang="en">I like commercial</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تجاري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the commercial?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تجاري جنب البنك مع الزجاجة الفارغة، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a commercial next to the bank with the empty bottle, before the place closes, and then I closed the window</span> |
 
 

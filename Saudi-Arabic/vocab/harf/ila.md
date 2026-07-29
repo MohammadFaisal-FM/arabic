@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">إلى المطار</span> | <span class="example-en" dir="ltr" lang="en">to the airport</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وديّت القلم الرصاص إلى المكتب، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I took the pencil to the office, because time is tight, and then we prayed</span> |
 

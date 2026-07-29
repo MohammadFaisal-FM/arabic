@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اعتبار</span> | <span class="example-en" dir="ltr" lang="en">This is regard</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اعتبار</span> | <span class="example-en" dir="ltr" lang="en">I like regard</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اعتبار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the regard?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اعتبار الحين قدام المصعد، بس خلّه قريب منك، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a regard now in front of the elevator, but keep it near you, and I also took the empty carton</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أفريقيا</span> | <span class="example-en" dir="ltr" lang="en">This is africa</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أفريقيا</span> | <span class="example-en" dir="ltr" lang="en">I like africa</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أفريقيا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the africa?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أفريقيا على المكتب مع البطانية الخفيفة، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an africa on the desk with the light blanket, because the weather is a bit hot, and then I tidied the table</span> |
 
 

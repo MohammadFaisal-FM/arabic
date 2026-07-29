@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بورتلاند</span> | <span class="example-en" dir="ltr" lang="en">This is portland</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بورتلاند</span> | <span class="example-en" dir="ltr" lang="en">I like portland</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بورتلاند؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the portland?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بورتلاند قدام التلفاز مع الجورب الأبيض، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a portland in front of the TV with the white sock, so we make the appointment, and then I turned on the fan</span> |
 
 

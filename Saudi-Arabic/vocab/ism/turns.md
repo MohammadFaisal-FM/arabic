@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المنعطفات</span> | <span class="example-en" dir="ltr" lang="en">This is turns</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المنعطفات</span> | <span class="example-en" dir="ltr" lang="en">I like turns</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المنعطفات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the turns?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المنعطفات الحين في الحديقة، لأن الوقت ضيق، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a turns now in the park, because time is tight, and I also took the old alarm</span> |
 
 

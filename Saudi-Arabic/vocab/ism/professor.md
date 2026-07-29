@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أستاذ</span> | <span class="example-en" dir="ltr" lang="en">This is professor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أستاذ</span> | <span class="example-en" dir="ltr" lang="en">I like professor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أستاذ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the professor?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أستاذ على الشرفة، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a professor on the balcony, so it doesn’t get lost, and then I replied to the message</span> |
 
 

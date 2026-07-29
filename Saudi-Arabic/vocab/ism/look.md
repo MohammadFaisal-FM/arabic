@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ينظر</span> | <span class="example-en" dir="ltr" lang="en">This is look</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ينظر</span> | <span class="example-en" dir="ltr" lang="en">I like look</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ينظر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the look?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ينظر في الحقيبة مع الحذاء النظيف، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a look in the bag with the clean shoes, so revision is easier, and then I wiped the floor</span> |
 
 

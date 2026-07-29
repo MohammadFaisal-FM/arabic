@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يزور</span> | <span class="example-en" dir="ltr" lang="en">This is visit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يزور</span> | <span class="example-en" dir="ltr" lang="en">I like visit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يزور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the visit?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يزور جنب المسجد مع القلم الرصاص، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a visit next to the mosque with the pencil, if you need it later, and then I drank some water</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رمادي</span> | <span class="example-en" dir="ltr" lang="en">This is gray</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رمادي</span> | <span class="example-en" dir="ltr" lang="en">I like gray</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رمادي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the gray?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت رمادي في الدرج، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a gray in the drawer, because the weather is a bit hot, and then I wrote a note</span> |
 
 

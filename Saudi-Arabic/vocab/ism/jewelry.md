@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مجوهرات</span> | <span class="example-en" dir="ltr" lang="en">This is jewelry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مجوهرات</span> | <span class="example-en" dir="ltr" lang="en">I like jewelry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مجوهرات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jewelry?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مجوهرات في المحطة مع الكابل القصير، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a jewelry at the station with the short cable, because guests are arriving, and then the phone rang</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كولورادو</span> | <span class="example-en" dir="ltr" lang="en">This is colorado</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كولورادو</span> | <span class="example-en" dir="ltr" lang="en">I like colorado</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كولورادو؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the colorado?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كولورادو جنب المسجد، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a colorado next to the mosque, because the battery is low, and then we prayed</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأطراف</span> | <span class="example-en" dir="ltr" lang="en">This is parties</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأطراف</span> | <span class="example-en" dir="ltr" lang="en">I like parties</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأطراف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the parties?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الأطراف في الغرفة مع المفتاح الاحتياطي، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a parties in the room with the spare key, for studying tomorrow, and then I washed my hands</span> |
 
 

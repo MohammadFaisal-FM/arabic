@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إدارة</span> | <span class="example-en" dir="ltr" lang="en">This is administration</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إدارة</span> | <span class="example-en" dir="ltr" lang="en">I like administration</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إدارة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the administration?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت إدارة في المكتبة، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put an administration in the library, so revision is easier, and then I wiped the floor</span> |
 
 

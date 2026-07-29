@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أرقام</span> | <span class="example-en" dir="ltr" lang="en">This is figures</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أرقام</span> | <span class="example-en" dir="ltr" lang="en">I like figures</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أرقام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the figures?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أرقام في المطبخ، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a figures in the kitchen, before the driver arrives, and then I closed the window</span> |
 
 

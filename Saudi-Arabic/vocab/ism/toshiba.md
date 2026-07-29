@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا توشيبا</span> | <span class="example-en" dir="ltr" lang="en">This is toshiba</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب توشيبا</span> | <span class="example-en" dir="ltr" lang="en">I like toshiba</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين توشيبا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the toshiba?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت توشيبا في الحديقة مع المنبه القديميم، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a toshiba in the park with the old alarm, so the photo comes out clearer, and then I drank some water</span> |
 
 

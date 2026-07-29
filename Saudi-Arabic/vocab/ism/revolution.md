@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ثورة</span> | <span class="example-en" dir="ltr" lang="en">This is revolution</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ثورة</span> | <span class="example-en" dir="ltr" lang="en">I like revolution</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ثورة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the revolution?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ثورة الحين في الحقيبة، لأن الزحمة قوية، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a revolution now in the bag, because traffic is heavy, and I also took the clean shoes</span> |
 
 

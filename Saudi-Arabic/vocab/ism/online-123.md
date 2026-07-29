@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لدي ألم في اصبع قدمي الصغير.</span> | <span class="example-en" dir="ltr" lang="en">I have pain in my little toe.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اصبع الحين في الحقيبة، عشان المراجعة أسهل، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a finger now in the bag, so revision is easier, and I also took the clean shoes</span> |
 
 

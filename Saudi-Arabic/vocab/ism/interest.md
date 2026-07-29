@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اهتمام</span> | <span class="example-en" dir="ltr" lang="en">This is interest</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اهتمام</span> | <span class="example-en" dir="ltr" lang="en">I like interest</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اهتمام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the interest?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اهتمام عند الصيدلية، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put an interest at the pharmacy, because the light is better there, and then I tidied the table</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مراجعة</span> | <span class="example-en" dir="ltr" lang="en">This is review</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مراجعة</span> | <span class="example-en" dir="ltr" lang="en">I like review</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مراجعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the review?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مراجعة جنب المسجد، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a review next to the mosque, because time is tight, and then we locked the door</span> |
 
 

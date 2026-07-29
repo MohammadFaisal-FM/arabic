@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ضخم</span> | <span class="example-en" dir="ltr" lang="en">This is huge</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ضخم</span> | <span class="example-en" dir="ltr" lang="en">I like huge</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ضخم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the huge?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ضخم قدام الملعب مع اللاصق الشفاف، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a huge in front of the pitch with the clear tape, before the food gets cold, and then I washed my hands</span> |
 
 

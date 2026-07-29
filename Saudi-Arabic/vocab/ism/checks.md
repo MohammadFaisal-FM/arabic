@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الشيكات</span> | <span class="example-en" dir="ltr" lang="en">This is checks</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الشيكات</span> | <span class="example-en" dir="ltr" lang="en">I like checks</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الشيكات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the checks?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الشيكات الحين قدام الملعب، لأن الإضاءة أحسن هناك، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a checks now in front of the pitch, because the light is better there, and I also took the clear tape</span> |
 
 

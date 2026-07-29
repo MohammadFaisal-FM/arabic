@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مبرمج</span> | <span class="example-en" dir="ltr" lang="en">This is programmer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مبرمج</span> | <span class="example-en" dir="ltr" lang="en">I like programmer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مبرمج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the programmer?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مبرمج الحين عند العيادة، لأن الوقت ضيق، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a programmer now at the clinic, because time is tight, and I also took the stapler</span> |
 
 

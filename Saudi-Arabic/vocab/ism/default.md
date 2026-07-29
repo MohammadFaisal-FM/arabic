@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تقصير</span> | <span class="example-en" dir="ltr" lang="en">This is default</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تقصير</span> | <span class="example-en" dir="ltr" lang="en">I like default</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تقصير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the default?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تقصير الحين في الدرج، لأن الإضاءة أحسن هناك، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a default now in the drawer, because the light is better there, and I also took the blue notebook</span> |
 
 

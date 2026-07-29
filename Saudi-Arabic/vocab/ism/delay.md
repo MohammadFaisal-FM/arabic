@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تأخير</span> | <span class="example-en" dir="ltr" lang="en">This is delay</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تأخير</span> | <span class="example-en" dir="ltr" lang="en">I like delay</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تأخير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the delay?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تأخير في المدرسة، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a delay at school, before Maghrib prayer, and then we laughed a bit</span> |
 
 

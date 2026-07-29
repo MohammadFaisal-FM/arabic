@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ابتكار</span> | <span class="example-en" dir="ltr" lang="en">This is innovation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ابتكار</span> | <span class="example-en" dir="ltr" lang="en">I like innovation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ابتكار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the innovation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ابتكار في الصالون مع المنديل النظيف، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found an innovation in the living room with the clean tissue, because work finished early, and then the phone rang</span> |
 
 

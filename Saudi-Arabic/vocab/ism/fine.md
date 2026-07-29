@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بخير</span> | <span class="example-en" dir="ltr" lang="en">This is fine</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بخير</span> | <span class="example-en" dir="ltr" lang="en">I like fine</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بخير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fine?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بخير في البقالة، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a fine at the grocery, so we are not late, and then we laughed a bit</span> |
 
 

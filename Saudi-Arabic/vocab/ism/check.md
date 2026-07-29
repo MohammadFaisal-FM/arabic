@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يفحص</span> | <span class="example-en" dir="ltr" lang="en">This is check</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يفحص</span> | <span class="example-en" dir="ltr" lang="en">I like check</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يفحص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the check?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يفحص الحين في الثلاجة، إذا احتجته بعدين، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a check now in the fridge, if you need it later, and I also took the summer hat</span> |
 
 

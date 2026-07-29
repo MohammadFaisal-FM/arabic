@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قصص</span> | <span class="example-en" dir="ltr" lang="en">This is stories</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قصص</span> | <span class="example-en" dir="ltr" lang="en">I like stories</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قصص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the stories?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قصص الحين في المحطة، عشان الضيوف يوصلون، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a stories now at the station, because guests are arriving, and I also took the short cable</span> |
 
 

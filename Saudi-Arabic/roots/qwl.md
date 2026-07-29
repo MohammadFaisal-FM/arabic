@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وش قلت؟</span> | <span class="example-en" dir="ltr" lang="en">What did you say?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وش قلت؟، ولقيت الملعقة الصغيرة تحت السرير، لأن الجو حار شوي، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">What did you say?, and I found the small spoon under the bed, because the weather is a bit hot, and then I wiped the floor</span> |
 
 
 ---

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جعة</span> | <span class="example-en" dir="ltr" lang="en">This is beer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جعة</span> | <span class="example-en" dir="ltr" lang="en">I like beer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the beer?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت جعة في المطبخ، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a beer in the kitchen, because traffic is heavy, and then I charged the device</span> |
 
 

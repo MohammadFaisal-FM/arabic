@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لاجئ</span> | <span class="example-en" dir="ltr" lang="en">This is refugee</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لاجئ</span> | <span class="example-en" dir="ltr" lang="en">I like refugee</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لاجئ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the refugee?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج لاجئ الحين عند الصيدلية، عشان الدراسة بكرة، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a refugee now at the pharmacy, for studying tomorrow, and I also took the clear cover</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مبتل</span> | <span class="example-en" dir="ltr" lang="en">This is wet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مبتل</span> | <span class="example-en" dir="ltr" lang="en">I like wet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مبتل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wet?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مبتل الحين في الثلاجة، لأن البطارية ضعيفة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a wet now in the fridge, because the battery is low, and I also took the summer hat</span> |
 
 

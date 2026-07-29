@@ -15,7 +15,5 @@
 | Arabic | English |
 |--------|---------|
 | <span class="example-ar" dir="rtl" lang="ar">هذا الأندية</span> | <span class="example-en" dir="ltr" lang="en">This is clubs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأندية</span> | <span class="example-en" dir="ltr" lang="en">I like clubs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأندية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the clubs?</span> |
 
 

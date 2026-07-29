@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ميامي</span> | <span class="example-en" dir="ltr" lang="en">This is miami</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ميامي</span> | <span class="example-en" dir="ltr" lang="en">I like miami</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ميامي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the miami?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ميامي الحين في البقالة، لأن الولد نعسان، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a miami now at the grocery, because the boy is sleepy, and I also took the long charger</span> |
 
 

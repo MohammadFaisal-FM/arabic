@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إدراج</span> | <span class="example-en" dir="ltr" lang="en">This is insert</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إدراج</span> | <span class="example-en" dir="ltr" lang="en">I like insert</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إدراج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the insert?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت إدراج على المكتب، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put an insert on the desk, because the light is better there, and then I washed my hands</span> |
 
 

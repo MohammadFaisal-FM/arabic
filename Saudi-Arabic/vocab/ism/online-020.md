@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">الأمر متروك للحكومة لاتخاذ إجراء بشأن العنف.</span> | <span class="example-en" dir="ltr" lang="en">It is up to the government to take action on the violence.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اجراء الحين في المكتبة، عشان الصورة تطلع أوضح، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a procedure now in the library, so the photo comes out clearer, and I also took the yellow card</span> |
 
 

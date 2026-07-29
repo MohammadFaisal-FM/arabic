@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شاسِع</span> | <span class="example-en" dir="ltr" lang="en">This is extensive</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شاسِع</span> | <span class="example-en" dir="ltr" lang="en">I like extensive</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شاسِع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the extensive?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شاسِع في الغرفة، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put an extensive in the room, for studying tomorrow, and then I wrote a note</span> |
 
 

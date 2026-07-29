@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جنوبي</span> | <span class="example-en" dir="ltr" lang="en">This is southern</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جنوبي</span> | <span class="example-en" dir="ltr" lang="en">I like southern</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جنوبي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the southern?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جنوبي تحت السرير مع الوشاح الرمادي، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a southern under the bed with the grey scarf, so we are not late, and then I replied to the message</span> |
 
 

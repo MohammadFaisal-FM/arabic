@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأجهزة</span> | <span class="example-en" dir="ltr" lang="en">This is hardware</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأجهزة</span> | <span class="example-en" dir="ltr" lang="en">I like hardware</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأجهزة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hardware?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الأجهزة قدام التلفاز مع الجورب الأبيض، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a hardware in front of the TV with the white sock, so we make the appointment, and then I turned on the fan</span> |
 
 

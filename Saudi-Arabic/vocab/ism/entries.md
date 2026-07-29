@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إدخالات</span> | <span class="example-en" dir="ltr" lang="en">This is entries</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إدخالات</span> | <span class="example-en" dir="ltr" lang="en">I like entries</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إدخالات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the entries?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إدخالات الحين جنب المسجد، إذا احتجته بعدين، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need an entries now next to the mosque, if you need it later, and I also took the pencil</span> |
 
 

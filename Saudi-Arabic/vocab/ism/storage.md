@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تخزين</span> | <span class="example-en" dir="ltr" lang="en">This is storage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تخزين</span> | <span class="example-en" dir="ltr" lang="en">I like storage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تخزين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the storage?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تخزين قدام المصعد، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a storage in front of the elevator, but keep it near you, and then the boy slept</span> |
 
 

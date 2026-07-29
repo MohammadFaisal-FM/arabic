@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الداخلية</span> | <span class="example-en" dir="ltr" lang="en">This is interior</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الداخلية</span> | <span class="example-en" dir="ltr" lang="en">I like interior</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الداخلية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the interior?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الداخلية الحين جنب المسجد، إذا احتجته بعدين، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need an interior now next to the mosque, if you need it later, and I also took the pencil</span> |
 
 

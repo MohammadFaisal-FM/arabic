@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عصا</span> | <span class="example-en" dir="ltr" lang="en">This is rod</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عصا</span> | <span class="example-en" dir="ltr" lang="en">I like rod</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عصا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rod?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عصا في المحطة مع الكابل القصير، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a rod at the station with the short cable, because guests are arriving, and then the phone rang</span> |
 
 

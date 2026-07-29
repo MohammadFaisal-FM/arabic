@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تجارة</span> | <span class="example-en" dir="ltr" lang="en">This is trade</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تجارة</span> | <span class="example-en" dir="ltr" lang="en">I like trade</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تجارة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the trade?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تجارة الحين في المكتبة، قبل ما يقفل المكان، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a trade now in the library, before the place closes, and I also took the small spoon</span> |
 
 

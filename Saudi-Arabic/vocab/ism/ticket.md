@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تذكرة</span> | <span class="example-en" dir="ltr" lang="en">This is ticket</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تذكرة</span> | <span class="example-en" dir="ltr" lang="en">I like ticket</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تذكرة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ticket?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تذكرة قدام التلفاز، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a ticket in front of the TV, but keep it near you, and then I turned on the fan</span> |
 
 

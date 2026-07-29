@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حامل</span> | <span class="example-en" dir="ltr" lang="en">This is pregnant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حامل</span> | <span class="example-en" dir="ltr" lang="en">I like pregnant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حامل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pregnant?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حامل الحين على الشرفة، لأن الولد نعسان، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a pregnant now on the balcony, because the boy is sleepy, and I also took the yellow card</span> |
 
 

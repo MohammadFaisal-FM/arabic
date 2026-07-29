@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إنجليزي</span> | <span class="example-en" dir="ltr" lang="en">This is a english</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إنجليزي</span> | <span class="example-en" dir="ltr" lang="en">I like english</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إنجليزي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the english?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إنجليزي في المحطة مع الكابل القصير، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found an english at the station with the short cable, because work finished early, and then I turned on the fan</span> |
 
 

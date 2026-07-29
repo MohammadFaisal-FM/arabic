@@ -14,10 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">عندي درس</span> | <span class="example-en" dir="ltr" lang="en">I have a lesson</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا درس</span> | <span class="example-en" dir="ltr" lang="en">This is a lesson</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب درس</span> | <span class="example-en" dir="ltr" lang="en">I like lesson</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين درس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lesson?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت درس في البقالة، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I saw a lesson at the grocery, so it doesn’t get lost, and then I turned off the light</span> |
 
 
 ### Links

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صحيح</span> | <span class="example-en" dir="ltr" lang="en">This is correct</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صحيح</span> | <span class="example-en" dir="ltr" lang="en">I like correct</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صحيح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the correct?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صحيح في الصالون، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a correct in the living room, but keep it near you, and then the phone rang</span> |
 
 

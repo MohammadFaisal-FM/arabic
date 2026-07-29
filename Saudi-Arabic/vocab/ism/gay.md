@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مثلي الجنس</span> | <span class="example-en" dir="ltr" lang="en">This is gay</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مثلي الجنس</span> | <span class="example-en" dir="ltr" lang="en">I like gay</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مثلي الجنس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the gay?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مثلي الجنس في الدرج مع الدفتر الأزرق، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a gay in the drawer with the blue notebook, because the light is better there, and then I washed my hands</span> |
 
 

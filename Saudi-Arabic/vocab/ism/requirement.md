@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا متطلبات</span> | <span class="example-en" dir="ltr" lang="en">This is requirement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب متطلبات</span> | <span class="example-en" dir="ltr" lang="en">I like requirement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين متطلبات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the requirement?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج متطلبات الحين في المكتبة، عشان المراجعة أسهل، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a requirement now in the library, so revision is easier, and I also took the small spoon</span> |
 
 

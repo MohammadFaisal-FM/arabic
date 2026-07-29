@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سنت</span> | <span class="example-en" dir="ltr" lang="en">This is cent</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سنت</span> | <span class="example-en" dir="ltr" lang="en">I like cent</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سنت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cent?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سنت الحين عند العيادة، عشان الصورة تطلع أوضح، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a cent now at the clinic, so the photo comes out clearer, and I also took the stapler</span> |
 
 

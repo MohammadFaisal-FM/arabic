@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عربة</span> | <span class="example-en" dir="ltr" lang="en">This is cart</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عربة</span> | <span class="example-en" dir="ltr" lang="en">I like cart</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عربة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cart?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عربة في الثلاجة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a cart in the fridge, because time is tight, and then I drank some water</span> |
 
 

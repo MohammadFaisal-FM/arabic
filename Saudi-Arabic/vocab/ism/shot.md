@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طلقة</span> | <span class="example-en" dir="ltr" lang="en">This is shot</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طلقة</span> | <span class="example-en" dir="ltr" lang="en">I like shot</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طلقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the shot?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج طلقة الحين في المدرسة، لأن الولد نعسان، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a shot now at school, because the boy is sleepy, and I also took the sharp scissors</span> |
 
 

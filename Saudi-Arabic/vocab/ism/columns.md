@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أعمدة</span> | <span class="example-en" dir="ltr" lang="en">This is columns</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أعمدة</span> | <span class="example-en" dir="ltr" lang="en">I like columns</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أعمدة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the columns?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أعمدة في المطبخ مع الملف الورقي، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a columns in the kitchen with the paper file, before the driver arrives, and then I wiped the floor</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يتجنب</span> | <span class="example-en" dir="ltr" lang="en">This is avoid</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يتجنب</span> | <span class="example-en" dir="ltr" lang="en">I like avoid</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يتجنب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the avoid?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يتجنب في الغرفة مع المفتاح الاحتياطي، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an avoid in the room with the spare key, before the food gets cold, and then I wrote a note</span> |
 
 

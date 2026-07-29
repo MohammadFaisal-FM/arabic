@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يبدأ</span> | <span class="example-en" dir="ltr" lang="en">This is start</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يبدأ</span> | <span class="example-en" dir="ltr" lang="en">I like start</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يبدأ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the start?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يبدأ قدام المصعد، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a start in front of the elevator, because guests are arriving, and then the phone rang</span> |
 
 

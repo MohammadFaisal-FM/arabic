@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مراسل</span> | <span class="example-en" dir="ltr" lang="en">This is reporter</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مراسل</span> | <span class="example-en" dir="ltr" lang="en">I like reporter</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مراسل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reporter?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مراسل الحين عند الاستقبال، لأن الزحمة قوية، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a reporter now at reception, because traffic is heavy, and I also took the glass cup</span> |
 
 

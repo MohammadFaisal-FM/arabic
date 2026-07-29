@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ايوا</span> | <span class="example-en" dir="ltr" lang="en">This is iowa</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ايوا</span> | <span class="example-en" dir="ltr" lang="en">I like iowa</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ايوا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the iowa?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ايوا قدام التلفاز، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put an iowa in front of the TV, but keep it near you, and then I turned on the fan</span> |
 
 

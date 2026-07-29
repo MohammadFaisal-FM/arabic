@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لقطات</span> | <span class="example-en" dir="ltr" lang="en">This is shots</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لقطات</span> | <span class="example-en" dir="ltr" lang="en">I like shots</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لقطات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the shots?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج لقطات الحين على الشرفة، عشان ما يضيع، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a shots now on the balcony, so it doesn’t get lost, and I also took the yellow card</span> |
 
 

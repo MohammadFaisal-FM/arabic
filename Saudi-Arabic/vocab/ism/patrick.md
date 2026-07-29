@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا باتريك</span> | <span class="example-en" dir="ltr" lang="en">This is patrick</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب باتريك</span> | <span class="example-en" dir="ltr" lang="en">I like patrick</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين باتريك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the patrick?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج باتريك الحين تحت السرير، لأن الولد نعسان، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a patrick now under the bed, because the boy is sleepy, and I also took the grey scarf</span> |
 
 

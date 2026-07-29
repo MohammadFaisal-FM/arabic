@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اِختِصاص</span> | <span class="example-en" dir="ltr" lang="en">This is domain</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اِختِصاص</span> | <span class="example-en" dir="ltr" lang="en">I like domain</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اِختِصاص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the domain?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اِختِصاص الحين على المكتب، قبل ما يبرد الأكل، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a domain now on the desk, before the food gets cold, and I also took the light blanket</span> |
 
 

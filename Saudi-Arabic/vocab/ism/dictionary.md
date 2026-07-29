@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قاموس</span> | <span class="example-en" dir="ltr" lang="en">This is dictionary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قاموس</span> | <span class="example-en" dir="ltr" lang="en">I like dictionary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قاموس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dictionary?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قاموس الحين قدام التلفاز، عشان نلحق الموعد، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a dictionary now in front of the TV, so we make the appointment, and I also took the white sock</span> |
 
 

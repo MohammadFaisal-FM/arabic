@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كم سعر استئجار الغرفة؟</span> | <span class="example-en" dir="ltr" lang="en">How much does it cost to rent a room?</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا استئجار</span> | <span class="example-en" dir="ltr" lang="en">This is a rent</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب استئجار</span> | <span class="example-en" dir="ltr" lang="en">I like rent</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين استئجار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rent?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج استئجار الحين في الصالون، لأن الشغل خلص بدري، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a rent now in the living room, because work finished early, and I also took the clean tissue</span> |
 
 

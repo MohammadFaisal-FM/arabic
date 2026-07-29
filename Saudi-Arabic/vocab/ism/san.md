@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سان</span> | <span class="example-en" dir="ltr" lang="en">This is san</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سان</span> | <span class="example-en" dir="ltr" lang="en">I like san</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the san?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سان في الدرج، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a san in the drawer, because the weather is a bit hot, and then I wrote a note</span> |
 
 

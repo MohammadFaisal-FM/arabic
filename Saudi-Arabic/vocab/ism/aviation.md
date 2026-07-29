@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الطيران</span> | <span class="example-en" dir="ltr" lang="en">This is aviation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الطيران</span> | <span class="example-en" dir="ltr" lang="en">I like aviation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الطيران؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the aviation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الطيران جنب النافذة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put an aviation beside the window, so the photo comes out clearer, and then we locked the door</span> |
 
 

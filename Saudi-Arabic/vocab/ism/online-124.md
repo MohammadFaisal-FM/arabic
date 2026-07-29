@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حضر اللقاء عدد من أصحاب الإختصاص.</span> | <span class="example-en" dir="ltr" lang="en">The meeting was attended by a number of specialists.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">اصحاب كان/كانت قدام التلفاز، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">a friends was in front of the TV, because work finished early, and then the boy slept</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا واجهة</span> | <span class="example-en" dir="ltr" lang="en">This is interface</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب واجهة</span> | <span class="example-en" dir="ltr" lang="en">I like interface</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين واجهة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the interface?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج واجهة الحين في البقالة، قبل صلاة المغرب، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need an interface now at the grocery, before Maghrib prayer, and I also took the long charger</span> |
 
 

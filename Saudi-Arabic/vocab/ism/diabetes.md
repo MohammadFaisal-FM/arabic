@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا السكري</span> | <span class="example-en" dir="ltr" lang="en">This is diabetes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب السكري</span> | <span class="example-en" dir="ltr" lang="en">I like diabetes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين السكري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the diabetes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج السكري الحين على المكتب، لأن الجو حار شوي، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a diabetes now on the desk, because the weather is a bit hot, and I also took the light blanket</span> |
 
 

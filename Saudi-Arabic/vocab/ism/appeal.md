@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جاذبية</span> | <span class="example-en" dir="ltr" lang="en">This is appeal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جاذبية</span> | <span class="example-en" dir="ltr" lang="en">I like appeal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جاذبية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the appeal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جاذبية في الحقيبة مع الحذاء النظيف، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an appeal in the bag with the clean shoes, before the place closes, and then I closed the window</span> |
 
 

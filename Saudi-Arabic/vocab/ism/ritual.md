@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شعيرة</span> | <span class="example-en" dir="ltr" lang="en">This is ritual</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شعيرة</span> | <span class="example-en" dir="ltr" lang="en">I like ritual</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شعيرة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ritual?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شعيرة قدام المصعد مع الكرتون الفاضي، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a ritual in front of the elevator with the empty carton, so we make the appointment, and then the boy slept</span> |
 
 

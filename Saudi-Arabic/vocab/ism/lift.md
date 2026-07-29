@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يرفع</span> | <span class="example-en" dir="ltr" lang="en">This is lift</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يرفع</span> | <span class="example-en" dir="ltr" lang="en">I like lift</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يرفع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lift?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يرفع الحين على المكتب، لأن الإضاءة أحسن هناك، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a lift now on the desk, because the light is better there, and I also took the light blanket</span> |
 
 

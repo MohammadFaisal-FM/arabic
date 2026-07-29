@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أكبر</span> | <span class="example-en" dir="ltr" lang="en">This is larger</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أكبر</span> | <span class="example-en" dir="ltr" lang="en">I like larger</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أكبر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the larger?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أكبر الحين في الحديقة، لأن البطارية ضعيفة، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a larger now in the park, because the battery is low, and I also took the old alarm</span> |
 
 

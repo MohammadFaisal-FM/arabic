@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يفترض</span> | <span class="example-en" dir="ltr" lang="en">This is assume</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يفترض</span> | <span class="example-en" dir="ltr" lang="en">I like assume</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يفترض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the assume?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يفترض عند الصيدلية مع الغطاء الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an assume at the pharmacy with the clear cover, for studying tomorrow, and then I tidied the table</span> |
 
 

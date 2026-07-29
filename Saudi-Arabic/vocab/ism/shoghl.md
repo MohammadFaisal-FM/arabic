@@ -14,10 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">عندي شغل</span> | <span class="example-en" dir="ltr" lang="en">I have a job</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا شغل</span> | <span class="example-en" dir="ltr" lang="en">This is a work</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شغل</span> | <span class="example-en" dir="ltr" lang="en">I like work</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شغل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the work?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شغل في الحقيبة مع الحذاء النظيف، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a work in the bag with the clean shoes, so revision is easier, and then I wiped the floor</span> |
 
 
 ### Links

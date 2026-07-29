@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ديترويت</span> | <span class="example-en" dir="ltr" lang="en">This is detroit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ديترويت</span> | <span class="example-en" dir="ltr" lang="en">I like detroit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ديترويت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the detroit?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ديترويت في البقالة مع الشاحن الطويل، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a detroit at the grocery with the long charger, before Maghrib prayer, and then we laughed a bit</span> |
 
 

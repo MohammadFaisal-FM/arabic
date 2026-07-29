@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الوزارة</span> | <span class="example-en" dir="ltr" lang="en">This is ministry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الوزارة</span> | <span class="example-en" dir="ltr" lang="en">I like ministry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الوزارة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ministry?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الوزارة الحين في المدرسة، عشان ما يضيع، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a ministry now at school, so it doesn’t get lost, and I also took the sharp scissors</span> |
 
 

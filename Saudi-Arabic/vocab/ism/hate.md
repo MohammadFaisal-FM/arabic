@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يكره</span> | <span class="example-en" dir="ltr" lang="en">This is hate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يكره</span> | <span class="example-en" dir="ltr" lang="en">I like hate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يكره؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hate?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يكره في الغرفة، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a hate in the room, before the food gets cold, and then I tidied the table</span> |
 
 

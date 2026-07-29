@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الجانبين</span> | <span class="example-en" dir="ltr" lang="en">This is sides</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الجانبين</span> | <span class="example-en" dir="ltr" lang="en">I like sides</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الجانبين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sides?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الجانبين في المكتبة، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a sides in the library, before the driver arrives, and then I closed the window</span> |
 
 

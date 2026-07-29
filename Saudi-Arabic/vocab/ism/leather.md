@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جلد</span> | <span class="example-en" dir="ltr" lang="en">This is leather</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جلد</span> | <span class="example-en" dir="ltr" lang="en">I like leather</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جلد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the leather?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جلد على الشرفة مع البطاقة الصفراء، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a leather on the balcony with the yellow card, before Maghrib prayer, and then I replied to the message</span> |
 
 

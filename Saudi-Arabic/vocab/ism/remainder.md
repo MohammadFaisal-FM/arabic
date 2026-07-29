@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الباقي</span> | <span class="example-en" dir="ltr" lang="en">This is remainder</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الباقي</span> | <span class="example-en" dir="ltr" lang="en">I like remainder</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الباقي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the remainder?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الباقي الحين عند الباب، عشان نلحق الموعد، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a remainder now at the door, so we make the appointment, and I also took the brown wallet</span> |
 
 

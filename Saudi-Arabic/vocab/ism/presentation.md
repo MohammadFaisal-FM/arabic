@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عرض تقديمي</span> | <span class="example-en" dir="ltr" lang="en">This is presentation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عرض تقديمي</span> | <span class="example-en" dir="ltr" lang="en">I like presentation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عرض تقديمي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the presentation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عرض تقديمي على المكتب، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a presentation on the desk, because the weather is a bit hot, and then I washed my hands</span> |
 
 

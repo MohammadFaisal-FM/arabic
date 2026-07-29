@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الزوار</span> | <span class="example-en" dir="ltr" lang="en">This is visitors</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الزوار</span> | <span class="example-en" dir="ltr" lang="en">I like visitors</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الزوار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the visitors?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الزوار على المكتب، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a visitors on the desk, for studying tomorrow, and then I wrote a note</span> |
 
 

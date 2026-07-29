@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طريقة</span> | <span class="example-en" dir="ltr" lang="en">This is method</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طريقة</span> | <span class="example-en" dir="ltr" lang="en">I like method</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طريقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the method?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج طريقة الحين في السيارة، عشان ما يضيع، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a method now in the car, so it doesn’t get lost, and I also took the soft pillow</span> |
 
 

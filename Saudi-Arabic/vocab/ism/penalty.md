@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جزاء</span> | <span class="example-en" dir="ltr" lang="en">This is penalty</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جزاء</span> | <span class="example-en" dir="ltr" lang="en">I like penalty</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جزاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the penalty?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت جزاء جنب البنك، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a penalty next to the bank, before the place closes, and then I charged the device</span> |
 
 

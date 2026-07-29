@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الرجال</span> | <span class="example-en" dir="ltr" lang="en">This is men</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الرجال</span> | <span class="example-en" dir="ltr" lang="en">I like men</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الرجال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the men?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الرجال عند الباب مع المحفظة البنية، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a men at the door with the brown wallet, but keep it near you, and then the phone rang</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">الشغل ثقيل</span> | <span class="example-en" dir="ltr" lang="en">The work is heavy</span> |
+| <span class="example-ar" dir="rtl" lang="ar">الشغل ثقيل، ولقيت الكابل القصير عند الصيدلية، عشان المراجعة أسهل، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">The work is heavy, and I found the short cable at the pharmacy, so revision is easier, and then the boy slept</span> |
 
 
 ---

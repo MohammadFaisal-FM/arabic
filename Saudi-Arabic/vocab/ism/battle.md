@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا معركة</span> | <span class="example-en" dir="ltr" lang="en">This is battle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب معركة</span> | <span class="example-en" dir="ltr" lang="en">I like battle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين معركة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the battle?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت معركة قدام التلفاز، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a battle in front of the TV, but keep it near you, and then I turned on the fan</span> |
 
 

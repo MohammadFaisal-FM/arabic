@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا انتباه</span> | <span class="example-en" dir="ltr" lang="en">This is attention</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب انتباه</span> | <span class="example-en" dir="ltr" lang="en">I like attention</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين انتباه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the attention?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج انتباه الحين عند الباب، عشان الضيوف يوصلون، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an attention now at the door, because guests are arriving, and I also took the brown wallet</span> |
 
 

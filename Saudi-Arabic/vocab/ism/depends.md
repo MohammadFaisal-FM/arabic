@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يعتمد على</span> | <span class="example-en" dir="ltr" lang="en">This is depends</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يعتمد على</span> | <span class="example-en" dir="ltr" lang="en">I like depends</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يعتمد على؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the depends?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يعتمد على في المدرسة مع المقص الحاد، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a depends at school with the sharp scissors, because the boy is sleepy, and then we laughed a bit</span> |
 
 

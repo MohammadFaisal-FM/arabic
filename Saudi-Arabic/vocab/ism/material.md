@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مادة</span> | <span class="example-en" dir="ltr" lang="en">This is material</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مادة</span> | <span class="example-en" dir="ltr" lang="en">I like material</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مادة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the material?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مادة الحين عند الاستقبال، لأن الزحمة قوية، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a material now at reception, because traffic is heavy, and I also took the glass cup</span> |
 
 

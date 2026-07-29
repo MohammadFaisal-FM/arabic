@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اللاعبين</span> | <span class="example-en" dir="ltr" lang="en">This is players</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اللاعبين</span> | <span class="example-en" dir="ltr" lang="en">I like players</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اللاعبين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the players?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اللاعبين في الغرفة مع المفتاح الاحتياطي، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a players in the room with the spare key, because the light is better there, and then I tidied the table</span> |
 
 

@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ثوبي جديد</span> | <span class="example-en" dir="ltr" lang="en">My dress is new</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا ثوب</span> | <span class="example-en" dir="ltr" lang="en">This is a thobe</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ثوب</span> | <span class="example-en" dir="ltr" lang="en">I like thobe</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ثوب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the thobe?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ثوب قدام الملعب مع اللاصق الشفاف، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a thobe in front of the pitch with the clear tape, because the weather is a bit hot, and then I wrote a note</span> |
 
 

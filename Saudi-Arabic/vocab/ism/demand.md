@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يطلب</span> | <span class="example-en" dir="ltr" lang="en">This is demand</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يطلب</span> | <span class="example-en" dir="ltr" lang="en">I like demand</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يطلب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the demand?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت يطلب في المطبخ، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I saw a demand in the kitchen, before the driver arrives, and then I wiped the floor</span> |
 
 

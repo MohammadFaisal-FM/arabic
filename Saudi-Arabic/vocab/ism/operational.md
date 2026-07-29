@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التشغيلية</span> | <span class="example-en" dir="ltr" lang="en">This is operational</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التشغيلية</span> | <span class="example-en" dir="ltr" lang="en">I like operational</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التشغيلية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the operational?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التشغيلية في الدرج، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put an operational in the drawer, before the food gets cold, and then I washed my hands</span> |
 
 

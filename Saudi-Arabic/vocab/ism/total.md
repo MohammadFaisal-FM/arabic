@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المجموع</span> | <span class="example-en" dir="ltr" lang="en">This is total</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المجموع</span> | <span class="example-en" dir="ltr" lang="en">I like total</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المجموع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the total?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المجموع قدام التلفاز مع الجورب الأبيض، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a total in front of the TV with the white sock, because guests are arriving, and then the phone rang</span> |
 
 

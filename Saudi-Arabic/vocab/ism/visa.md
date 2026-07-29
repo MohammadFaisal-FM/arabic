@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فيزا</span> | <span class="example-en" dir="ltr" lang="en">This is visa</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فيزا</span> | <span class="example-en" dir="ltr" lang="en">I like visa</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فيزا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the visa?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فيزا الحين جنب النافذة، إذا احتجته بعدين، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a visa now beside the window, if you need it later, and I also took the sunglasses</span> |
 
 

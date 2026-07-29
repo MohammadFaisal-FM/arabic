@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا هندي</span> | <span class="example-en" dir="ltr" lang="en">This is indian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب هندي</span> | <span class="example-en" dir="ltr" lang="en">I like indian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين هندي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the indian?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج هندي الحين قدام الملعب، عشان الدراسة بكرة، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an indian now in front of the pitch, for studying tomorrow, and I also took the clear tape</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لا</span> | <span class="example-en" dir="ltr" lang="en">This is dont</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لا</span> | <span class="example-en" dir="ltr" lang="en">I like dont</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dont?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج لا الحين في الثلاجة، لأن الوقت ضيق، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a dont now in the fridge, because time is tight, and I also took the summer hat</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مدونات</span> | <span class="example-en" dir="ltr" lang="en">This is blogs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مدونات</span> | <span class="example-en" dir="ltr" lang="en">I like blogs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مدونات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the blogs?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مدونات جنب المسجد، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a blogs next to the mosque, because time is tight, and then we locked the door</span> |
 
 

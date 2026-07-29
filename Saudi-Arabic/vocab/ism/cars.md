@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سيارات</span> | <span class="example-en" dir="ltr" lang="en">This is cars</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سيارات</span> | <span class="example-en" dir="ltr" lang="en">I like cars</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سيارات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cars?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سيارات الحين قدام المصعد، عشان الضيوف يوصلون، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a cars now in front of the elevator, because guests are arriving, and I also took the empty carton</span> |
 
 

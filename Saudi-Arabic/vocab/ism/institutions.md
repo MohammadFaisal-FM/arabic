@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المؤسسات</span> | <span class="example-en" dir="ltr" lang="en">This is institutions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المؤسسات</span> | <span class="example-en" dir="ltr" lang="en">I like institutions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المؤسسات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the institutions?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المؤسسات جنب البنك، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an institutions next to the bank, before the place closes, and then I charged the device</span> |
 
 

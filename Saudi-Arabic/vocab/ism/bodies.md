@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الهيئات</span> | <span class="example-en" dir="ltr" lang="en">This is bodies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الهيئات</span> | <span class="example-en" dir="ltr" lang="en">I like bodies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الهيئات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bodies?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الهيئات الحين تحت السرير، قبل صلاة المغرب، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a bodies now under the bed, before Maghrib prayer, and I also took the grey scarf</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تجاه</span> | <span class="example-en" dir="ltr" lang="en">This is towards</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تجاه</span> | <span class="example-en" dir="ltr" lang="en">I like towards</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تجاه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the towards?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تجاه عند الاستقبال مع الكوب الزجاج، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a towards at reception with the glass cup, before the place closes, and then I charged the device</span> |
 
 

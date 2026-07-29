@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ركن</span> | <span class="example-en" dir="ltr" lang="en">This is corner</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ركن</span> | <span class="example-en" dir="ltr" lang="en">I like corner</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ركن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the corner?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ركن الحين في السيارة، عشان ما يضيع، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a corner now in the car, so it doesn’t get lost, and I also took the soft pillow</span> |
 
 

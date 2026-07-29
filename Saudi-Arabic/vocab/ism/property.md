@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملكية</span> | <span class="example-en" dir="ltr" lang="en">This is property</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملكية</span> | <span class="example-en" dir="ltr" lang="en">I like property</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملكية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the property?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ملكية في الحديقة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a property in the park, because time is tight, and then we prayed</span> |
 
 

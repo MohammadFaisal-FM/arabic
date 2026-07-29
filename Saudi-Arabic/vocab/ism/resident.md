@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مقيم</span> | <span class="example-en" dir="ltr" lang="en">This is resident</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مقيم</span> | <span class="example-en" dir="ltr" lang="en">I like resident</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مقيم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the resident?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مقيم الحين في الغرفة، لأن الإضاءة أحسن هناك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a resident now in the room, because the light is better there, and I also took the spare key</span> |
 
 

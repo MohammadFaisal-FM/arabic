@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">فقدت المفتاح</span> | <span class="example-en" dir="ltr" lang="en">I lost the key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">فقدت المفتاح، ولقيت الغطاء الشفاف في الثلاجة، عشان ما نتأخر، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I lost the key, and I found the clear cover in the fridge, so we are not late, and then I wrote a note</span> |
 
 
 ---

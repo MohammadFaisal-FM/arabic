@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قصة</span> | <span class="example-en" dir="ltr" lang="en">This is story</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قصة</span> | <span class="example-en" dir="ltr" lang="en">I like story</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قصة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the story?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قصة في السيارة، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a story in the car, so we are not late, and then I replied to the message</span> |
 
 

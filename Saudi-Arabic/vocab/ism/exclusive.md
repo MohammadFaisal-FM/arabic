@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حصري</span> | <span class="example-en" dir="ltr" lang="en">This is exclusive</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حصري</span> | <span class="example-en" dir="ltr" lang="en">I like exclusive</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حصري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the exclusive?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حصري الحين على المكتب، قبل ما يبرد الأكل، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need an exclusive now on the desk, before the food gets cold, and I also took the light blanket</span> |
 
 

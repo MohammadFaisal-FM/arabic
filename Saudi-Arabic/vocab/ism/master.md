@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يتقن</span> | <span class="example-en" dir="ltr" lang="en">This is master</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يتقن</span> | <span class="example-en" dir="ltr" lang="en">I like master</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يتقن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the master?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يتقن في السيارة مع الوسادة الناعمة، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a master in the car with the soft pillow, so we are not late, and then we laughed a bit</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">مروا بسرعة و بدون إلقاء نظرة.</span> | <span class="example-en" dir="ltr" lang="en">They passed quickly and without a glance.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت القاء قدام التلفاز مع الجورب الأبيض، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a throw in front of the TV with the white sock, so we make the appointment, and then I turned on the fan</span> |
 
 

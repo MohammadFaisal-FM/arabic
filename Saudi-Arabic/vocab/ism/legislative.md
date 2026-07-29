@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تشريعية</span> | <span class="example-en" dir="ltr" lang="en">This is legislative</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تشريعية</span> | <span class="example-en" dir="ltr" lang="en">I like legislative</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تشريعية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the legislative?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تشريعية عند الصيدلية مع الغطاء الشفاف، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a legislative at the pharmacy with the clear cover, before the food gets cold, and then I washed my hands</span> |
 
 

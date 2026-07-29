@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا معايير</span> | <span class="example-en" dir="ltr" lang="en">This is criteria</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب معايير</span> | <span class="example-en" dir="ltr" lang="en">I like criteria</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين معايير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the criteria?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت معايير جنب المسجد، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a criteria next to the mosque, so the photo comes out clearer, and then I drank some water</span> |
 
 

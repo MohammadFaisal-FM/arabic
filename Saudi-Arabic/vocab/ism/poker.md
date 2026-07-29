@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لعبة البوكر</span> | <span class="example-en" dir="ltr" lang="en">This is poker</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لعبة البوكر</span> | <span class="example-en" dir="ltr" lang="en">I like poker</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لعبة البوكر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the poker?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لعبة البوكر قدام المصعد، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a poker in front of the elevator, because work finished early, and then I turned on the fan</span> |
 
 

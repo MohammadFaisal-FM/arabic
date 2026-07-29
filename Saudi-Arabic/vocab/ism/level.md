@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مستوى</span> | <span class="example-en" dir="ltr" lang="en">This is level</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مستوى</span> | <span class="example-en" dir="ltr" lang="en">I like level</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مستوى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the level?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مستوى على المكتب مع البطانية الخفيفة، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a level on the desk with the light blanket, for studying tomorrow, and then I washed my hands</span> |
 
 

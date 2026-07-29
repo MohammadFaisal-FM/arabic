@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا روما</span> | <span class="example-en" dir="ltr" lang="en">This is rome</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب روما</span> | <span class="example-en" dir="ltr" lang="en">I like rome</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين روما؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rome?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت روما عند الصيدلية، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a rome at the pharmacy, before the food gets cold, and then I wrote a note</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ليه</span> | <span class="example-en" dir="ltr" lang="en">This is les</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ليه</span> | <span class="example-en" dir="ltr" lang="en">I like les</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ليه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the les?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ليه في البقالة مع الشاحن الطويل، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a les at the grocery with the long charger, so we are not late, and then I turned off the light</span> |
 
 

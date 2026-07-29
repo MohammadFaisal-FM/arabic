@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الموارد</span> | <span class="example-en" dir="ltr" lang="en">This is resource</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الموارد</span> | <span class="example-en" dir="ltr" lang="en">I like resource</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الموارد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the resource?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الموارد في الدرج مع الدفتر الأزرق، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a resource in the drawer with the blue notebook, because the light is better there, and then I washed my hands</span> |
 
 

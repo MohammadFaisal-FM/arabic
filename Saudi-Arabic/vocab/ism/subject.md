@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موضوع</span> | <span class="example-en" dir="ltr" lang="en">This is subject</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موضوع</span> | <span class="example-en" dir="ltr" lang="en">I like subject</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موضوع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the subject?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت موضوع في الغرفة، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a subject in the room, before the food gets cold, and then I tidied the table</span> |
 
 

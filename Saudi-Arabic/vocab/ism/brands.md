@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العلامات التجارية</span> | <span class="example-en" dir="ltr" lang="en">This is brands</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العلامات التجارية</span> | <span class="example-en" dir="ltr" lang="en">I like brands</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العلامات التجارية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the brands?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج العلامات التجارية الحين في السيارة، عشان ما يضيع، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a brands now in the car, so it doesn’t get lost, and I also took the soft pillow</span> |
 
 

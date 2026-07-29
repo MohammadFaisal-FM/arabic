@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نمط</span> | <span class="example-en" dir="ltr" lang="en">This is pattern</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نمط</span> | <span class="example-en" dir="ltr" lang="en">I like pattern</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نمط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pattern?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت نمط عند الصيدلية مع الغطاء الشفاف، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a pattern at the pharmacy with the clear cover, because the light is better there, and then I wrote a note</span> |
 
 

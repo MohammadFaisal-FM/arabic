@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يوتا</span> | <span class="example-en" dir="ltr" lang="en">This is utah</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يوتا</span> | <span class="example-en" dir="ltr" lang="en">I like utah</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يوتا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the utah?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يوتا في السيارة مع الوسادة الناعمة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found an utah in the car with the soft pillow, before Maghrib prayer, and then I replied to the message</span> |
 
 

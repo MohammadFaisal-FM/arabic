@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حقيبة ظهر</span> | <span class="example-en" dir="ltr" lang="en">This is backpack</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حقيبة ظهر</span> | <span class="example-en" dir="ltr" lang="en">I like backpack</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حقيبة ظهر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the backpack?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حقيبة ظهر الحين في السيارة، قبل صلاة المغرب، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a backpack now in the car, before Maghrib prayer, and I also took the soft pillow</span> |
 
 

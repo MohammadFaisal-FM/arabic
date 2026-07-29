@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اتحاد كرة القدم الأميركي</span> | <span class="example-en" dir="ltr" lang="en">This is nfl</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اتحاد كرة القدم الأميركي</span> | <span class="example-en" dir="ltr" lang="en">I like nfl</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اتحاد كرة القدم الأميركي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the nfl?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اتحاد كرة القدم الأميركي على المكتب، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a nfl on the desk, because the weather is a bit hot, and then I washed my hands</span> |
 
 

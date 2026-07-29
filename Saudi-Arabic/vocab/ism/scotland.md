@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اسكتلندا</span> | <span class="example-en" dir="ltr" lang="en">This is scotland</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اسكتلندا</span> | <span class="example-en" dir="ltr" lang="en">I like scotland</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اسكتلندا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the scotland?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اسكتلندا الحين في الحديقة، لأن الوقت ضيق، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a scotland now in the park, because time is tight, and I also took the old alarm</span> |
 
 

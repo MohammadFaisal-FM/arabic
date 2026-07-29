@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عطوف</span> | <span class="example-en" dir="ltr" lang="en">This is kind</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عطوف</span> | <span class="example-en" dir="ltr" lang="en">I like kind</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عطوف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the kind?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عطوف في السيارة مع الوسادة الناعمة، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a kind in the car with the soft pillow, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

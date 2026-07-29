@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لجنة</span> | <span class="example-en" dir="ltr" lang="en">This is committee</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لجنة</span> | <span class="example-en" dir="ltr" lang="en">I like committee</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لجنة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the committee?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لجنة في الدرج، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a committee in the drawer, before the food gets cold, and then I washed my hands</span> |
 
 

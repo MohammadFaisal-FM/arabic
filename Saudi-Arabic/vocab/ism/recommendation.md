@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا توصية</span> | <span class="example-en" dir="ltr" lang="en">This is recommendation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب توصية</span> | <span class="example-en" dir="ltr" lang="en">I like recommendation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين توصية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the recommendation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت توصية في الحقيبة، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a recommendation in the bag, before the driver arrives, and then I charged the device</span> |
 
 

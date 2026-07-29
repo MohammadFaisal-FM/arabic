@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">مساء الخير</span> | <span class="example-en" dir="ltr" lang="en">Good evening</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا مساء</span> | <span class="example-en" dir="ltr" lang="en">This is a evening</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مساء</span> | <span class="example-en" dir="ltr" lang="en">I like evening</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مساء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the evening?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مساء في الحديقة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put an evening in the park, so the photo comes out clearer, and then we locked the door</span> |
 
 

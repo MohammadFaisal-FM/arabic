@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خبرة</span> | <span class="example-en" dir="ltr" lang="en">This is experience</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خبرة</span> | <span class="example-en" dir="ltr" lang="en">I like experience</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خبرة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the experience?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خبرة في الدرج مع الدفتر الأزرق، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an experience in the drawer with the blue notebook, for studying tomorrow, and then I wrote a note</span> |
 
 

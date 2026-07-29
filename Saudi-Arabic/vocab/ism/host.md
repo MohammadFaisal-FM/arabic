@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يستضيف</span> | <span class="example-en" dir="ltr" lang="en">This is host</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يستضيف</span> | <span class="example-en" dir="ltr" lang="en">I like host</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يستضيف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the host?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يستضيف في الصالون مع المنديل النظيف، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a host in the living room with the clean tissue, but keep it near you, and then I turned on the fan</span> |
 
 

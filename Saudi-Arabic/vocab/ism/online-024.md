@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">توم شاب و أعزب</span> | <span class="example-en" dir="ltr" lang="en">Tom is young and single</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اعزب</span> | <span class="example-en" dir="ltr" lang="en">This is a bachelor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اعزب</span> | <span class="example-en" dir="ltr" lang="en">I like bachelor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اعزب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bachelor?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اعزب جنب المسجد مع القلم الرصاص، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a bachelor next to the mosque with the pencil, because time is tight, and then I drank some water</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لوحات</span> | <span class="example-en" dir="ltr" lang="en">This is boards</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لوحات</span> | <span class="example-en" dir="ltr" lang="en">I like boards</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لوحات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the boards?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت لوحات على الشرفة مع البطاقة الصفراء، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a boards on the balcony with the yellow card, before Maghrib prayer, and then I replied to the message</span> |
 
 

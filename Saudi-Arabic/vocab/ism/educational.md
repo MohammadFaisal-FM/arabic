@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التعليمية</span> | <span class="example-en" dir="ltr" lang="en">This is educational</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التعليمية</span> | <span class="example-en" dir="ltr" lang="en">I like educational</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التعليمية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the educational?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج التعليمية الحين في المطبخ، قبل ما يقفل المكان، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an educational now in the kitchen, before the place closes, and I also took the paper file</span> |
 
 

@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">دارك هو أفضل مسلسل ألماني.</span> | <span class="example-en" dir="ltr" lang="en">Dark is the best German series.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا الماني</span> | <span class="example-en" dir="ltr" lang="en">This is a german</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الماني</span> | <span class="example-en" dir="ltr" lang="en">I like german</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الماني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the german?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت الماني تحت السرير، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I saw a german under the bed, so we are not late, and then I replied to the message</span> |
 
 

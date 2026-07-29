@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مجرم</span> | <span class="example-en" dir="ltr" lang="en">This is criminal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مجرم</span> | <span class="example-en" dir="ltr" lang="en">I like criminal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مجرم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the criminal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مجرم جنب النافذة مع النظارة الشمسية، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a criminal beside the window with the sunglasses, if you need it later, and then we locked the door</span> |
 
 

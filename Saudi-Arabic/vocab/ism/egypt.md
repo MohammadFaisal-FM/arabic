@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مصر</span> | <span class="example-en" dir="ltr" lang="en">This is egypt</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مصر</span> | <span class="example-en" dir="ltr" lang="en">I like egypt</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مصر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the egypt?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مصر الحين جنب البنك، عشان المراجعة أسهل، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need an egypt now next to the bank, so revision is easier, and I also took the empty bottle</span> |
 
 

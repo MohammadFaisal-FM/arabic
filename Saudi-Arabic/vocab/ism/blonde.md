@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شقراء</span> | <span class="example-en" dir="ltr" lang="en">This is blonde</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شقراء</span> | <span class="example-en" dir="ltr" lang="en">I like blonde</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شقراء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the blonde?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شقراء في المطبخ، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a blonde in the kitchen, so revision is easier, and then I wiped the floor</span> |
 
 

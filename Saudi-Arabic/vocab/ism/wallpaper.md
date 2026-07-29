@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ورق الجدران</span> | <span class="example-en" dir="ltr" lang="en">This is wallpaper</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ورق الجدران</span> | <span class="example-en" dir="ltr" lang="en">I like wallpaper</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ورق الجدران؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wallpaper?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ورق الجدران الحين عند العيادة، عشان الصورة تطلع أوضح، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a wallpaper now at the clinic, so the photo comes out clearer, and I also took the stapler</span> |
 
 

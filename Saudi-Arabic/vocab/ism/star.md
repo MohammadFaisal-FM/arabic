@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نجم</span> | <span class="example-en" dir="ltr" lang="en">This is star</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نجم</span> | <span class="example-en" dir="ltr" lang="en">I like star</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نجم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the star?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نجم في السيارة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a star in the car, because the boy is sleepy, and then we laughed a bit</span> |
 
 

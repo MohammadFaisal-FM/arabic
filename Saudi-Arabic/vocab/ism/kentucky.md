@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كنتاكي</span> | <span class="example-en" dir="ltr" lang="en">This is kentucky</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كنتاكي</span> | <span class="example-en" dir="ltr" lang="en">I like kentucky</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كنتاكي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the kentucky?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كنتاكي عند العيادة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a kentucky at the clinic, because the battery is low, and then we locked the door</span> |
 
 

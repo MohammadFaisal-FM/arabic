@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سريع</span> | <span class="example-en" dir="ltr" lang="en">This is rapid</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سريع</span> | <span class="example-en" dir="ltr" lang="en">I like rapid</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سريع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rapid?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سريع الحين في الثلاجة، إذا احتجته بعدين، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a rapid now in the fridge, if you need it later, and I also took the summer hat</span> |
 
 

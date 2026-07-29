@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مشهد</span> | <span class="example-en" dir="ltr" lang="en">This is scene</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مشهد</span> | <span class="example-en" dir="ltr" lang="en">I like scene</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مشهد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the scene?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مشهد الحين في البقالة، عشان ما يضيع، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a scene now at the grocery, so it doesn’t get lost, and I also took the long charger</span> |
 
 

@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أزل الغُبار عن المرآة.</span> | <span class="example-en" dir="ltr" lang="en">Remove dust from the mirror.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا ازل</span> | <span class="example-en" dir="ltr" lang="en">This is a remove</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ازل</span> | <span class="example-en" dir="ltr" lang="en">I like remove</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ازل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the remove?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ازل الحين على المكتب، عشان الدراسة بكرة، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a remove now on the desk, for studying tomorrow, and I also took the light blanket</span> |
 
 

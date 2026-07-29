@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">توم لديه موعد اسنان عند الثانية والنصف</span> | <span class="example-en" dir="ltr" lang="en">Tom has a dental appointment at 2:30</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اسنان في المدرسة مع المقص الحاد، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a teeth at school with the sharp scissors, before Maghrib prayer, and then I turned off the light</span> |
 
 

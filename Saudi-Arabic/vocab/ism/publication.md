@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا النشر</span> | <span class="example-en" dir="ltr" lang="en">This is publication</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب النشر</span> | <span class="example-en" dir="ltr" lang="en">I like publication</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين النشر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the publication?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت النشر جنب المسجد، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a publication next to the mosque, if you need it later, and then we locked the door</span> |
 
 

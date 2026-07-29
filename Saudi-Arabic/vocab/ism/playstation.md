@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بلاي ستيشن</span> | <span class="example-en" dir="ltr" lang="en">This is playstation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بلاي ستيشن</span> | <span class="example-en" dir="ltr" lang="en">I like playstation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بلاي ستيشن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the playstation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بلاي ستيشن جنب المسجد، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a playstation next to the mosque, if you need it later, and then we locked the door</span> |
 
 

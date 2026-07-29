@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التنسيقات</span> | <span class="example-en" dir="ltr" lang="en">This is formats</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التنسيقات</span> | <span class="example-en" dir="ltr" lang="en">I like formats</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التنسيقات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the formats?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التنسيقات في المحطة مع الكابل القصير، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a formats at the station with the short cable, but keep it near you, and then the boy slept</span> |
 
 

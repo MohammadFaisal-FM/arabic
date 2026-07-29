@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شاي</span> | <span class="example-en" dir="ltr" lang="en">This is tea</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شاي</span> | <span class="example-en" dir="ltr" lang="en">I like tea</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شاي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tea?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شاي في الصالون، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a tea in the living room, because work finished early, and then the boy slept</span> |
 
 

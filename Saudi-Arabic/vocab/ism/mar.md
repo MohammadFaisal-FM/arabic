@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مار</span> | <span class="example-en" dir="ltr" lang="en">This is mar</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مار</span> | <span class="example-en" dir="ltr" lang="en">I like mar</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mar?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مار الحين في المكتبة، لأن الزحمة قوية، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a mar now in the library, because traffic is heavy, and I also took the small spoon</span> |
 
 

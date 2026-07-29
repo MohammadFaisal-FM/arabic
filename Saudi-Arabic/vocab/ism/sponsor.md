@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا راعي</span> | <span class="example-en" dir="ltr" lang="en">This is sponsor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب راعي</span> | <span class="example-en" dir="ltr" lang="en">I like sponsor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين راعي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sponsor?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت راعي في الحديقة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a sponsor in the park, because the battery is low, and then I drank some water</span> |
 
 

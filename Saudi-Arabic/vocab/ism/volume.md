@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مقدار</span> | <span class="example-en" dir="ltr" lang="en">This is volume</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مقدار</span> | <span class="example-en" dir="ltr" lang="en">I like volume</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مقدار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the volume?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مقدار عند العيادة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a volume at the clinic, because the battery is low, and then we locked the door</span> |
 
 

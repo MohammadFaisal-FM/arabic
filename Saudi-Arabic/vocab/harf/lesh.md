@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ليش كذا؟</span> | <span class="example-en" dir="ltr" lang="en">Why like that?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ليش القلم الرصاص هنا؟ لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">Why is the pencil here? because the battery is low, and then I drank some water</span> |
 

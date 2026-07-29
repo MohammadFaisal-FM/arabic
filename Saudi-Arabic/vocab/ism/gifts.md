@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الهدايا</span> | <span class="example-en" dir="ltr" lang="en">This is gifts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الهدايا</span> | <span class="example-en" dir="ltr" lang="en">I like gifts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الهدايا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the gifts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الهدايا الحين قدام الملعب، لأن الجو حار شوي، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a gifts now in front of the pitch, because the weather is a bit hot, and I also took the clear tape</span> |
 
 

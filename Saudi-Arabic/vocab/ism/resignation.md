@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا استقالة</span> | <span class="example-en" dir="ltr" lang="en">This is resignation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب استقالة</span> | <span class="example-en" dir="ltr" lang="en">I like resignation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين استقالة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the resignation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج استقالة الحين جنب البنك، قبل ما يجي السائق، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a resignation now next to the bank, before the driver arrives, and I also took the empty bottle</span> |
 
 

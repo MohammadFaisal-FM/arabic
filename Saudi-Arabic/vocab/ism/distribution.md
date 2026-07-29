@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا توزيع</span> | <span class="example-en" dir="ltr" lang="en">This is distribution</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب توزيع</span> | <span class="example-en" dir="ltr" lang="en">I like distribution</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين توزيع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the distribution?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت توزيع في الغرفة، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a distribution in the room, because the light is better there, and then I washed my hands</span> |
 
 

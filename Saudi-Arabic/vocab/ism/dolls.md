@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دمى</span> | <span class="example-en" dir="ltr" lang="en">This is dolls</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دمى</span> | <span class="example-en" dir="ltr" lang="en">I like dolls</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دمى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dolls?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت دمى عند الصيدلية مع الغطاء الشفاف، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a dolls at the pharmacy with the clear cover, because the light is better there, and then I wrote a note</span> |
 
 

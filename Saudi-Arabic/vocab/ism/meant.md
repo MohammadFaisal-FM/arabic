@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عنى</span> | <span class="example-en" dir="ltr" lang="en">This is meant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عنى</span> | <span class="example-en" dir="ltr" lang="en">I like meant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عنى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the meant?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عنى في المطبخ مع الملف الورقي، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a meant in the kitchen with the paper file, so revision is easier, and then I charged the device</span> |
 
 

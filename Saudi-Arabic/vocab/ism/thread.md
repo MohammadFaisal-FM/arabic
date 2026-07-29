@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خيط</span> | <span class="example-en" dir="ltr" lang="en">This is thread</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خيط</span> | <span class="example-en" dir="ltr" lang="en">I like thread</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خيط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the thread?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خيط عند الاستقبال مع الكوب الزجاج، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a thread at reception with the glass cup, before the driver arrives, and then I charged the device</span> |
 
 

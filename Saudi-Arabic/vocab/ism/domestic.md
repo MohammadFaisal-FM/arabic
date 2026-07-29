@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا محلي</span> | <span class="example-en" dir="ltr" lang="en">This is domestic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب محلي</span> | <span class="example-en" dir="ltr" lang="en">I like domestic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين محلي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the domestic?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت محلي عند الاستقبال مع الكوب الزجاج، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a domestic at reception with the glass cup, because traffic is heavy, and then I wiped the floor</span> |
 
 

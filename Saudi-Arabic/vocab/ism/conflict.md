@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صراع</span> | <span class="example-en" dir="ltr" lang="en">This is conflict</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صراع</span> | <span class="example-en" dir="ltr" lang="en">I like conflict</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صراع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the conflict?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صراع في السيارة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a conflict in the car, because the boy is sleepy, and then we laughed a bit</span> |
 
 

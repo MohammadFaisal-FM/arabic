@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يحصل على</span> | <span class="example-en" dir="ltr" lang="en">This is obtain</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يحصل على</span> | <span class="example-en" dir="ltr" lang="en">I like obtain</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يحصل على؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the obtain?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يحصل على في السيارة، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put an obtain in the car, so it doesn’t get lost, and then I replied to the message</span> |
 
 

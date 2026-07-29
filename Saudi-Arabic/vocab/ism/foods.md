@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأطعمة</span> | <span class="example-en" dir="ltr" lang="en">This is foods</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأطعمة</span> | <span class="example-en" dir="ltr" lang="en">I like foods</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأطعمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the foods?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الأطعمة عند الباب، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a foods at the door, so we make the appointment, and then I turned on the fan</span> |
 
 

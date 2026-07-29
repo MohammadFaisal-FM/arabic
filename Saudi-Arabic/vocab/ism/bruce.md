@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بروس</span> | <span class="example-en" dir="ltr" lang="en">This is bruce</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بروس</span> | <span class="example-en" dir="ltr" lang="en">I like bruce</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بروس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bruce?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بروس الحين عند الصيدلية، عشان الدراسة بكرة، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a bruce now at the pharmacy, for studying tomorrow, and I also took the clear cover</span> |
 
 

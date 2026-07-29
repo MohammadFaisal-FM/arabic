@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">الليلة برد</span> | <span class="example-en" dir="ltr" lang="en">Tonight is cold</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا برد</span> | <span class="example-en" dir="ltr" lang="en">This is a cold</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب برد</span> | <span class="example-en" dir="ltr" lang="en">I like cold</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين برد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cold?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت برد في البقالة مع الشاحن الطويل، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a cold at the grocery with the long charger, because the boy is sleepy, and then I replied to the message</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا افتتاح</span> | <span class="example-en" dir="ltr" lang="en">This is opening</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب افتتاح</span> | <span class="example-en" dir="ltr" lang="en">I like opening</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين افتتاح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the opening?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت افتتاح جنب البنك مع الزجاجة الفارغة، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an opening next to the bank with the empty bottle, before the driver arrives, and then I closed the window</span> |
 
 

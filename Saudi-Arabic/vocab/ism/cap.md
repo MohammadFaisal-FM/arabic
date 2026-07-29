@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كاب</span> | <span class="example-en" dir="ltr" lang="en">This is cap</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كاب</span> | <span class="example-en" dir="ltr" lang="en">I like cap</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كاب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cap?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كاب في البقالة، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a cap at the grocery, because the boy is sleepy, and then I turned off the light</span> |
 
 

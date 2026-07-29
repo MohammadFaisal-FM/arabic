@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فُولاَذ</span> | <span class="example-en" dir="ltr" lang="en">This is steel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فُولاَذ</span> | <span class="example-en" dir="ltr" lang="en">I like steel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فُولاَذ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the steel?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فُولاَذ في الغرفة مع المفتاح الاحتياطي، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a steel in the room with the spare key, because the light is better there, and then I tidied the table</span> |
 
 

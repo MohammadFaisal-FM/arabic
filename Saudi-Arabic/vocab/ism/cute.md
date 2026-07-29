@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لطيف</span> | <span class="example-en" dir="ltr" lang="en">This is cute</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لطيف</span> | <span class="example-en" dir="ltr" lang="en">I like cute</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لطيف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cute?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لطيف في المحطة، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a cute at the station, but keep it near you, and then I turned on the fan</span> |
 
 

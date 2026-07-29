@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا معلومة</span> | <span class="example-en" dir="ltr" lang="en">This is information</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب معلومة</span> | <span class="example-en" dir="ltr" lang="en">I like information</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين معلومة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the information?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت معلومة جنب المسجد مع القلم الرصاص، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found an information next to the mosque with the pencil, because time is tight, and then I drank some water</span> |
 
 

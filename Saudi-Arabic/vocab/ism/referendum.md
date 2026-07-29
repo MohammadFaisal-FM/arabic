@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا استفتاء</span> | <span class="example-en" dir="ltr" lang="en">This is referendum</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب استفتاء</span> | <span class="example-en" dir="ltr" lang="en">I like referendum</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين استفتاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the referendum?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج استفتاء الحين في الصالون، عشان الضيوف يوصلون، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a referendum now in the living room, because guests are arriving, and I also took the clean tissue</span> |
 
 

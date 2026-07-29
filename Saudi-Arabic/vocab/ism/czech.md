@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التشيكية</span> | <span class="example-en" dir="ltr" lang="en">This is czech</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التشيكية</span> | <span class="example-en" dir="ltr" lang="en">I like czech</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التشيكية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the czech?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التشيكية عند الباب مع المحفظة البنية، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a czech at the door with the brown wallet, but keep it near you, and then the phone rang</span> |
 
 

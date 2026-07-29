@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بروتين</span> | <span class="example-en" dir="ltr" lang="en">This is protein</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بروتين</span> | <span class="example-en" dir="ltr" lang="en">I like protein</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بروتين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the protein?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بروتين قدام التلفاز، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a protein in front of the TV, but keep it near you, and then I turned on the fan</span> |
 
 

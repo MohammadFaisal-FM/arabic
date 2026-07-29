@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ماضي</span> | <span class="example-en" dir="ltr" lang="en">This is past</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ماضي</span> | <span class="example-en" dir="ltr" lang="en">I like past</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ماضي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the past?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ماضي الحين قدام التلفاز، عشان نلحق الموعد، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a past now in front of the TV, so we make the appointment, and I also took the white sock</span> |
 
 

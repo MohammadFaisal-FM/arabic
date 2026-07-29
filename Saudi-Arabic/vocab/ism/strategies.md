@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الاستراتيجيات</span> | <span class="example-en" dir="ltr" lang="en">This is strategies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الاستراتيجيات</span> | <span class="example-en" dir="ltr" lang="en">I like strategies</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الاستراتيجيات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the strategies?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الاستراتيجيات في الثلاجة مع القبعة الصيفية، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a strategies in the fridge with the summer hat, because time is tight, and then we prayed</span> |
 
 

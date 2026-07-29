@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لبن</span> | <span class="example-en" dir="ltr" lang="en">This is milk</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لبن</span> | <span class="example-en" dir="ltr" lang="en">I like milk</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لبن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the milk?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لبن في الحديقة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a milk in the park, if you need it later, and then we prayed</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خسارة</span> | <span class="example-en" dir="ltr" lang="en">This is loss</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خسارة</span> | <span class="example-en" dir="ltr" lang="en">I like loss</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خسارة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the loss?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خسارة في المكتبة مع الملعقة الصغيرة، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a loss in the library with the small spoon, because traffic is heavy, and then I closed the window</span> |
 
 

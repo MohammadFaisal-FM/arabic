@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سيرة ذاتية</span> | <span class="example-en" dir="ltr" lang="en">This is resume</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سيرة ذاتية</span> | <span class="example-en" dir="ltr" lang="en">I like resume</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سيرة ذاتية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the resume?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سيرة ذاتية في الحقيبة، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a resume in the bag, before the place closes, and then I charged the device</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كثافة</span> | <span class="example-en" dir="ltr" lang="en">This is density</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كثافة</span> | <span class="example-en" dir="ltr" lang="en">I like density</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كثافة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the density?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كثافة على المكتب مع البطانية الخفيفة، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a density on the desk with the light blanket, for studying tomorrow, and then I washed my hands</span> |
 
 

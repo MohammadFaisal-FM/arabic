@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ما عندي فلوس</span> | <span class="example-en" dir="ltr" lang="en">I don't have money</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا فلوس</span> | <span class="example-en" dir="ltr" lang="en">This is a money (colloquial)</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فلوس</span> | <span class="example-en" dir="ltr" lang="en">I like money (colloquial)</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فلوس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the money (colloquial)?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فلوس في المحطة، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a money (colloquial) at the station, but keep it near you, and then I turned on the fan</span> |
 
 

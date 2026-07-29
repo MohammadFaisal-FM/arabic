@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الكتاب المقدس</span> | <span class="example-en" dir="ltr" lang="en">This is bible</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الكتاب المقدس</span> | <span class="example-en" dir="ltr" lang="en">I like bible</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الكتاب المقدس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bible?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الكتاب المقدس جنب البنك، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a bible next to the bank, so revision is easier, and then I closed the window</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إفادة</span> | <span class="example-en" dir="ltr" lang="en">This is statement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إفادة</span> | <span class="example-en" dir="ltr" lang="en">I like statement</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إفادة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the statement?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إفادة الحين جنب النافذة، لأن الوقت ضيق، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a statement now beside the window, because time is tight, and I also took the sunglasses</span> |
 
 

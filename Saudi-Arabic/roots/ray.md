@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفتك أمس</span> | <span class="example-en" dir="ltr" lang="en">I saw you yesterday</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفتك أمس، ولقيت الكابل القصير عند الصيدلية، قبل ما يجي السائق، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I saw you yesterday, and I found the short cable at the pharmacy, before the driver arrives, and then I turned on the fan</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [رأي](#ism/ray-n) | <span class="example-ar" dir="rtl" lang="ar">وش رأيك؟</span><br><span class="example-en" dir="ltr" lang="en">What do you think?</span> |
+| اسم · ism (noun / other) | [رأي](#ism/ray-n) | <span class="example-ar" dir="rtl" lang="ar">حطّيت رأي قدام المصعد، عشان نلحق الموعد، وبعدين فتحت المروحة</span><br><span class="example-en" dir="ltr" lang="en">I put an opinion in front of the elevator, so we make the appointment, and then I turned on the fan</span> |
 

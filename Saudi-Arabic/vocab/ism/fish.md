@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سمكة</span> | <span class="example-en" dir="ltr" lang="en">This is fish</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سمكة</span> | <span class="example-en" dir="ltr" lang="en">I like fish</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سمكة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fish?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سمكة جنب البنك مع الزجاجة الفارغة، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a fish next to the bank with the empty bottle, because traffic is heavy, and then I charged the device</span> |
 
 

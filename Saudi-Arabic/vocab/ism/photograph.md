@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تصوير</span> | <span class="example-en" dir="ltr" lang="en">This is photograph</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تصوير</span> | <span class="example-en" dir="ltr" lang="en">I like photograph</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تصوير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the photograph?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تصوير في الحقيبة مع الحذاء النظيف، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a photograph in the bag with the clean shoes, so revision is easier, and then I wiped the floor</span> |
 
 

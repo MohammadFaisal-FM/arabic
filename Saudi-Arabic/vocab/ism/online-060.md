@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أنا اقترحت لتوم إمكانية العمل مع ماري.</span> | <span class="example-en" dir="ltr" lang="en">I suggested to Tom the possibility of working with Mary.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت امكانيه في الحديقة مع المنبه القديميم، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a possibility in the park with the old alarm, so the photo comes out clearer, and then I drank some water</span> |
 
 

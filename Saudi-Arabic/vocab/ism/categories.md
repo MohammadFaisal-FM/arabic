@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فئات</span> | <span class="example-en" dir="ltr" lang="en">This is categories</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فئات</span> | <span class="example-en" dir="ltr" lang="en">I like categories</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فئات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the categories?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فئات جنب النافذة مع النظارة الشمسية، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a categories beside the window with the sunglasses, so the photo comes out clearer, and then I drank some water</span> |
 
 

@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أكتب رسالة</span> | <span class="example-en" dir="ltr" lang="en">Write a message</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا رسالة</span> | <span class="example-en" dir="ltr" lang="en">This is a message</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رسالة</span> | <span class="example-en" dir="ltr" lang="en">I like message</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رسالة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the message?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت رسالة في الغرفة، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a message in the room, because the weather is a bit hot, and then I washed my hands</span> |
 
 

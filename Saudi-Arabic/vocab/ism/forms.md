@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أشكال</span> | <span class="example-en" dir="ltr" lang="en">This is forms</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أشكال</span> | <span class="example-en" dir="ltr" lang="en">I like forms</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أشكال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the forms?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أشكال الحين جنب البنك، قبل ما يقفل المكان، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a forms now next to the bank, before the place closes, and I also took the empty bottle</span> |
 
 

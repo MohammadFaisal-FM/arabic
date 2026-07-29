@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مبادئ</span> | <span class="example-en" dir="ltr" lang="en">This is principles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مبادئ</span> | <span class="example-en" dir="ltr" lang="en">I like principles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مبادئ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the principles?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مبادئ الحين في البقالة، عشان ما نتأخر، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a principles now at the grocery, so we are not late, and I also took the long charger</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نظافة</span> | <span class="example-en" dir="ltr" lang="en">This is cleaner</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نظافة</span> | <span class="example-en" dir="ltr" lang="en">I like cleaner</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نظافة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cleaner?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت نظافة في البقالة مع الشاحن الطويل، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a cleaner at the grocery with the long charger, so we are not late, and then I turned off the light</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المطورين</span> | <span class="example-en" dir="ltr" lang="en">This is developers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المطورين</span> | <span class="example-en" dir="ltr" lang="en">I like developers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المطورين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the developers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المطورين الحين في البقالة، قبل صلاة المغرب، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a developers now at the grocery, before Maghrib prayer, and I also took the long charger</span> |
 
 

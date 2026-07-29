@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أندرسون</span> | <span class="example-en" dir="ltr" lang="en">This is anderson</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أندرسون</span> | <span class="example-en" dir="ltr" lang="en">I like anderson</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أندرسون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the anderson?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن أندرسون شوي، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">We talked about an anderson a bit, if you need it later, and then we prayed</span> |
 
 

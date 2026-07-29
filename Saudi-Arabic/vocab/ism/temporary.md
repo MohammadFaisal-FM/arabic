@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مؤقت</span> | <span class="example-en" dir="ltr" lang="en">This is temporary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مؤقت</span> | <span class="example-en" dir="ltr" lang="en">I like temporary</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مؤقت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the temporary?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مؤقت في الصالون، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a temporary in the living room, because work finished early, and then the boy slept</span> |
 
 

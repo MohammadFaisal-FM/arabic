@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ابن</span> | <span class="example-en" dir="ltr" lang="en">This is son</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ابن</span> | <span class="example-en" dir="ltr" lang="en">I like son</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ابن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the son?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن ابن شوي، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">We talked about a son a bit, if you need it later, and then we prayed</span> |
 
 

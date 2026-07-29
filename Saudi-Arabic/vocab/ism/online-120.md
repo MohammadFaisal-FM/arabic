@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">يقول توم بأنه على استعداد لعمل أي شيء من أجلي</span> | <span class="example-en" dir="ltr" lang="en">Tom says he'd do anything for me</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج استعداد الحين في المكتبة، قبل ما يجي السائق، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a ready now in the library, before the driver arrives, and I also took the small spoon</span> |
 
 

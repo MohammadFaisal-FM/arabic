@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التشاور</span> | <span class="example-en" dir="ltr" lang="en">This is consultation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التشاور</span> | <span class="example-en" dir="ltr" lang="en">I like consultation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التشاور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the consultation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التشاور عند الاستقبال، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a consultation at reception, before the driver arrives, and then I wiped the floor</span> |
 
 

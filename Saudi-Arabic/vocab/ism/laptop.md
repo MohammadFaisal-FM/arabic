@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كمبيوتر محمول</span> | <span class="example-en" dir="ltr" lang="en">This is laptop</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كمبيوتر محمول</span> | <span class="example-en" dir="ltr" lang="en">I like laptop</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كمبيوتر محمول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the laptop?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كمبيوتر محمول جنب المسجد مع القلم الرصاص، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a laptop next to the mosque with the pencil, because time is tight, and then I drank some water</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقد تم اختراع الطائرة الورقية قبل ألفَيْ عام.</span> | <span class="example-en" dir="ltr" lang="en">The kite was invented two thousand years ago.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اختراع الحين في الحقيبة، قبل ما يقفل المكان، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an invention now in the bag, before the place closes, and I also took the clean shoes</span> |
 
 

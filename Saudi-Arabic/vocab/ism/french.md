@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فرنسي</span> | <span class="example-en" dir="ltr" lang="en">This is french</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فرنسي</span> | <span class="example-en" dir="ltr" lang="en">I like french</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فرنسي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the french?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فرنسي عند العيادة مع الدباسة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a french at the clinic with the stapler, if you need it later, and then we prayed</span> |
 
 

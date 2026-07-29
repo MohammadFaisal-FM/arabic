@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">قلادة من الماس</span> | <span class="example-en" dir="ltr" lang="en">Diamond necklace</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا الماس</span> | <span class="example-en" dir="ltr" lang="en">This is a diamond</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الماس</span> | <span class="example-en" dir="ltr" lang="en">I like diamond</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الماس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the diamond?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الماس في الثلاجة مع القبعة الصيفية، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a diamond in the fridge with the summer hat, because time is tight, and then we prayed</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بقعة</span> | <span class="example-en" dir="ltr" lang="en">This is spot</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بقعة</span> | <span class="example-en" dir="ltr" lang="en">I like spot</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بقعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the spot?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بقعة قدام الملعب مع اللاصق الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a spot in front of the pitch with the clear tape, for studying tomorrow, and then I tidied the table</span> |
 
 

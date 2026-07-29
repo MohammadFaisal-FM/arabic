@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حلاق</span> | <span class="example-en" dir="ltr" lang="en">This is barber</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حلاق</span> | <span class="example-en" dir="ltr" lang="en">I like barber</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حلاق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the barber?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حلاق الحين في الحقيبة، لأن الزحمة قوية، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a barber now in the bag, because traffic is heavy, and I also took the clean shoes</span> |
 
 

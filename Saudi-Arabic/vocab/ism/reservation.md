@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حجز</span> | <span class="example-en" dir="ltr" lang="en">This is reservation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حجز</span> | <span class="example-en" dir="ltr" lang="en">I like reservation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حجز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the reservation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حجز الحين قدام المصعد، لأن الشغل خلص بدري، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a reservation now in front of the elevator, because work finished early, and I also took the empty carton</span> |
 
 

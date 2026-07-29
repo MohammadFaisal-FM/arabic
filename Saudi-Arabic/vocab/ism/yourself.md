@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نفسك</span> | <span class="example-en" dir="ltr" lang="en">This is yourself</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نفسك</span> | <span class="example-en" dir="ltr" lang="en">I like yourself</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نفسك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the yourself?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت نفسك في الدرج مع الدفتر الأزرق، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a yourself in the drawer with the blue notebook, because the weather is a bit hot, and then I washed my hands</span> |
 
 

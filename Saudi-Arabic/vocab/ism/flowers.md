@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا زهور</span> | <span class="example-en" dir="ltr" lang="en">This is flowers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب زهور</span> | <span class="example-en" dir="ltr" lang="en">I like flowers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين زهور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the flowers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج زهور الحين في المدرسة، عشان ما يضيع، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a flowers now at school, so it doesn’t get lost, and I also took the sharp scissors</span> |
 
 

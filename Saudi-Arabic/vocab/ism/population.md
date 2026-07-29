@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سكان</span> | <span class="example-en" dir="ltr" lang="en">This is population</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سكان</span> | <span class="example-en" dir="ltr" lang="en">I like population</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سكان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the population?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سكان تحت السرير مع الوشاح الرمادي، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a population under the bed with the grey scarf, because the boy is sleepy, and then we laughed a bit</span> |
 
 

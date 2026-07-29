@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">السفر يوسع آفاق تفكير المرء.</span> | <span class="example-en" dir="ltr" lang="en">Travel broadens one's horizons of thinking.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا افاق</span> | <span class="example-en" dir="ltr" lang="en">This is a horizons</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب افاق</span> | <span class="example-en" dir="ltr" lang="en">I like horizons</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين افاق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the horizons?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت افاق في الحديقة مع المنبه القديميم، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a horizons in the park with the old alarm, because the battery is low, and then we prayed</span> |
 
 

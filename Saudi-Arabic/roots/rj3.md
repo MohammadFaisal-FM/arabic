@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">برجع بعدين</span> | <span class="example-en" dir="ltr" lang="en">I’ll come back later</span> |
+| <span class="example-ar" dir="rtl" lang="ar">برجع بعدين، ولقيت المفتاح الاحتياطي جنب المسجد، عشان ما يضيع، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I’ll come back later, and I found the spare key next to the mosque, so it doesn’t get lost, and then I wrote a note</span> |
 
 
 ---

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المعالج</span> | <span class="example-en" dir="ltr" lang="en">This is processor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المعالج</span> | <span class="example-en" dir="ltr" lang="en">I like processor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المعالج؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the processor?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المعالج قدام المصعد، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a processor in front of the elevator, because work finished early, and then I turned on the fan</span> |
 
 

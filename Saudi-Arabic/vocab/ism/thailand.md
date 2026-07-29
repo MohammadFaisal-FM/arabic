@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تايلاند</span> | <span class="example-en" dir="ltr" lang="en">This is thailand</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تايلاند</span> | <span class="example-en" dir="ltr" lang="en">I like thailand</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تايلاند؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the thailand?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تايلاند الحين في الغرفة، قبل ما يبرد الأكل، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a thailand now in the room, before the food gets cold, and I also took the spare key</span> |
 
 

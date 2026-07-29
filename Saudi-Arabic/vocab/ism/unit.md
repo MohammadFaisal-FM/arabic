@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وحدة</span> | <span class="example-en" dir="ltr" lang="en">This is unit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وحدة</span> | <span class="example-en" dir="ltr" lang="en">I like unit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وحدة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the unit?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت وحدة عند الاستقبال، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put an unit at reception, because traffic is heavy, and then I closed the window</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">This is remark</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I like remark</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملاحظة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the remark?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ملاحظة الحين جنب النافذة، لأن الوقت ضيق، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a remark now beside the window, because time is tight, and I also took the sunglasses</span> |
 
 

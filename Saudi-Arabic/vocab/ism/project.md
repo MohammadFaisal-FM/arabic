@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مشروع</span> | <span class="example-en" dir="ltr" lang="en">This is project</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مشروع</span> | <span class="example-en" dir="ltr" lang="en">I like project</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مشروع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the project?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مشروع قدام الملعب، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a project in front of the pitch, for studying tomorrow, and then I washed my hands</span> |
 
 

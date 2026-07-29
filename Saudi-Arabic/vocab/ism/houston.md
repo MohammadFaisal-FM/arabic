@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا هيوستن</span> | <span class="example-en" dir="ltr" lang="en">This is houston</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب هيوستن</span> | <span class="example-en" dir="ltr" lang="en">I like houston</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين هيوستن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the houston?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت هيوستن جنب المسجد مع القلم الرصاص، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a houston next to the mosque with the pencil, so the photo comes out clearer, and then we prayed</span> |
 
 

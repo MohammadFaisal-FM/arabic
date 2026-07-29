@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا آي بي إم</span> | <span class="example-en" dir="ltr" lang="en">This is ibm</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب آي بي إم</span> | <span class="example-en" dir="ltr" lang="en">I like ibm</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين آي بي إم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ibm?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج آي بي إم الحين في المكتبة، لأن الزحمة قوية، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an ibm now in the library, because traffic is heavy, and I also took the small spoon</span> |
 
 

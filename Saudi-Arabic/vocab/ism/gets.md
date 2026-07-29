@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يحصل</span> | <span class="example-en" dir="ltr" lang="en">This is gets</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يحصل</span> | <span class="example-en" dir="ltr" lang="en">I like gets</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يحصل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the gets?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يحصل في السيارة مع الوسادة الناعمة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a gets in the car with the soft pillow, before Maghrib prayer, and then I replied to the message</span> |
 
 

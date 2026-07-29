@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الجوائز</span> | <span class="example-en" dir="ltr" lang="en">This is awards</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الجوائز</span> | <span class="example-en" dir="ltr" lang="en">I like awards</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الجوائز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the awards?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الجوائز الحين في المطبخ، قبل ما يجي السائق، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an awards now in the kitchen, before the driver arrives, and I also took the paper file</span> |
 
 

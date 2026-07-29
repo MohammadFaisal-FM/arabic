@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا غير القابل للصدأ</span> | <span class="example-en" dir="ltr" lang="en">This is stainless</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب غير القابل للصدأ</span> | <span class="example-en" dir="ltr" lang="en">I like stainless</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين غير القابل للصدأ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the stainless?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت غير القابل للصدأ على المكتب مع البطانية الخفيفة، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a stainless on the desk with the light blanket, before the food gets cold, and then I wrote a note</span> |
 
 

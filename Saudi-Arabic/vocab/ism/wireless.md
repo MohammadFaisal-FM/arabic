@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لاسلكي</span> | <span class="example-en" dir="ltr" lang="en">This is wireless</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لاسلكي</span> | <span class="example-en" dir="ltr" lang="en">I like wireless</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لاسلكي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wireless?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت لاسلكي على الشرفة مع البطاقة الصفراء، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a wireless on the balcony with the yellow card, before Maghrib prayer, and then I replied to the message</span> |
 
 

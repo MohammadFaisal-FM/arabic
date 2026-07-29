@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">توقّف سامي عن إحداث ذلك الصّوت.</span> | <span class="example-en" dir="ltr" lang="en">Sami stopped making that sound.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت احداث في المحطة، لأن الشغل خلص بدري، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an events at the station, because work finished early, and then we laughed a bit</span> |
 
 

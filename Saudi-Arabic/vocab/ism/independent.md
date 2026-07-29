@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مستقل</span> | <span class="example-en" dir="ltr" lang="en">This is independent</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مستقل</span> | <span class="example-en" dir="ltr" lang="en">I like independent</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مستقل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the independent?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مستقل عند الاستقبال، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an independent at reception, so revision is easier, and then I charged the device</span> |
 
 

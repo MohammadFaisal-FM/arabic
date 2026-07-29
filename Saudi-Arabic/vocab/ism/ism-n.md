@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وش اسمك؟</span> | <span class="example-en" dir="ltr" lang="en">What's your name?</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اسم</span> | <span class="example-en" dir="ltr" lang="en">This is a name</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اسم</span> | <span class="example-en" dir="ltr" lang="en">I like name</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اسم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the name?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اسم في المحطة مع الكابل القصير، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a name at the station with the short cable, because guests are arriving, and then the phone rang</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وجهة</span> | <span class="example-en" dir="ltr" lang="en">This is destination</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وجهة</span> | <span class="example-en" dir="ltr" lang="en">I like destination</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وجهة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the destination?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج وجهة الحين في المدرسة، لأن الولد نعسان، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a destination now at school, because the boy is sleepy, and I also took the sharp scissors</span> |
 
 

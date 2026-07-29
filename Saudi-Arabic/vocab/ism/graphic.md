@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رسم بياني</span> | <span class="example-en" dir="ltr" lang="en">This is graphic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رسم بياني</span> | <span class="example-en" dir="ltr" lang="en">I like graphic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رسم بياني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the graphic?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت رسم بياني في المحطة، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a graphic at the station, because work finished early, and then the phone rang</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قرصان</span> | <span class="example-en" dir="ltr" lang="en">This is pirate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قرصان</span> | <span class="example-en" dir="ltr" lang="en">I like pirate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قرصان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pirate?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قرصان قدام المصعد، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a pirate in front of the elevator, because guests are arriving, and then the phone rang</span> |
 
 

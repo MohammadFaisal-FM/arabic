@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">الخوفُ أكثر ضرراً من أشد السيوف.</span> | <span class="example-en" dir="ltr" lang="en">Fear is more harmful than the sharpest swords.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اشد الحين عند الباب، بس خلّه قريب منك، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a harder now at the door, but keep it near you, and I also took the brown wallet</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العناوين الرئيسية</span> | <span class="example-en" dir="ltr" lang="en">This is headlines</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العناوين الرئيسية</span> | <span class="example-en" dir="ltr" lang="en">I like headlines</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العناوين الرئيسية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the headlines?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت العناوين الرئيسية في المدرسة، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a headlines at school, before Maghrib prayer, and then we laughed a bit</span> |
 
 

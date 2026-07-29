@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قدم</span> | <span class="example-en" dir="ltr" lang="en">This is feet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قدم</span> | <span class="example-en" dir="ltr" lang="en">I like feet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قدم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the feet?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قدم الحين في البقالة، لأن الولد نعسان، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a feet now at the grocery, because the boy is sleepy, and I also took the long charger</span> |
 
 

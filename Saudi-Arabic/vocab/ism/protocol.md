@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بروتوكول</span> | <span class="example-en" dir="ltr" lang="en">This is protocol</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بروتوكول</span> | <span class="example-en" dir="ltr" lang="en">I like protocol</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بروتوكول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the protocol?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بروتوكول في الثلاجة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a protocol in the fridge, if you need it later, and then I drank some water</span> |
 
 

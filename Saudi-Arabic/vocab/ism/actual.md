@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فِعلي</span> | <span class="example-en" dir="ltr" lang="en">This is actual</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فِعلي</span> | <span class="example-en" dir="ltr" lang="en">I like actual</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فِعلي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the actual?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فِعلي الحين في المحطة، عشان الضيوف يوصلون، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need an actual now at the station, because guests are arriving, and I also took the short cable</span> |
 
 

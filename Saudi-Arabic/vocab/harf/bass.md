@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">بس دقيقة</span> | <span class="example-en" dir="ltr" lang="en">just a minute</span> |
+| <span class="example-ar" dir="rtl" lang="ar">بس خلّ البطانية الخفيفة قريب، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">Just keep the light blanket nearby, because the weather is a bit hot, and then I wrote a note</span> |
 

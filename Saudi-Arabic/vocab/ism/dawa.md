@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">خذ الدوا</span> | <span class="example-en" dir="ltr" lang="en">Take the medicine</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا دوا</span> | <span class="example-en" dir="ltr" lang="en">This is a medicine</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دوا</span> | <span class="example-en" dir="ltr" lang="en">I like medicine</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دوا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the medicine?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت دوا عند الصيدلية مع الغطاء الشفاف، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a medicine at the pharmacy with the clear cover, because the light is better there, and then I wrote a note</span> |
 
 

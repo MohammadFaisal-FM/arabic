@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">بدأت الدرس</span> | <span class="example-en" dir="ltr" lang="en">I started the lesson</span> |
+| <span class="example-ar" dir="rtl" lang="ar">بدأت الدرس، ولقيت القلم الرصاص في الحقيبة، قبل ما يقفل المكان، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I started the lesson, and I found the pencil in the bag, before the place closes, and then I drank some water</span> |
 
 
 ---

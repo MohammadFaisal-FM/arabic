@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مصمم</span> | <span class="example-en" dir="ltr" lang="en">This is designer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مصمم</span> | <span class="example-en" dir="ltr" lang="en">I like designer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مصمم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the designer?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مصمم في الحقيبة، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a designer in the bag, before the driver arrives, and then I charged the device</span> |
 
 

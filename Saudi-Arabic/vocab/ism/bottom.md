@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قاع</span> | <span class="example-en" dir="ltr" lang="en">This is bottom</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قاع</span> | <span class="example-en" dir="ltr" lang="en">I like bottom</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قاع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bottom?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قاع في الحقيبة مع الحذاء النظيف، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a bottom in the bag with the clean shoes, before the driver arrives, and then I closed the window</span> |
 
 

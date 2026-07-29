@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يؤدي</span> | <span class="example-en" dir="ltr" lang="en">This is leads</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يؤدي</span> | <span class="example-en" dir="ltr" lang="en">I like leads</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يؤدي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the leads?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يؤدي الحين عند الاستقبال، قبل ما يقفل المكان، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a leads now at reception, before the place closes, and I also took the glass cup</span> |
 
 

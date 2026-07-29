@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حصان</span> | <span class="example-en" dir="ltr" lang="en">This is horse</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حصان</span> | <span class="example-en" dir="ltr" lang="en">I like horse</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حصان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the horse?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حصان الحين جنب البنك، عشان المراجعة أسهل، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a horse now next to the bank, so revision is easier, and I also took the empty bottle</span> |
 
 

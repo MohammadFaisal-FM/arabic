@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا متطوع</span> | <span class="example-en" dir="ltr" lang="en">This is volunteer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب متطوع</span> | <span class="example-en" dir="ltr" lang="en">I like volunteer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين متطوع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the volunteer?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت متطوع في البقالة مع الشاحن الطويل، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a volunteer at the grocery with the long charger, because the boy is sleepy, and then I replied to the message</span> |
 
 

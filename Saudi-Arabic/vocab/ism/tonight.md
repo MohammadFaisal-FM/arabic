@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الليلة</span> | <span class="example-en" dir="ltr" lang="en">This is tonight</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الليلة</span> | <span class="example-en" dir="ltr" lang="en">I like tonight</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الليلة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tonight?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الليلة في المكتبة، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a tonight in the library, before the driver arrives, and then I closed the window</span> |
 
 

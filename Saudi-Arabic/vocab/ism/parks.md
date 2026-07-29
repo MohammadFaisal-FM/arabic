@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الحدائق</span> | <span class="example-en" dir="ltr" lang="en">This is parks</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الحدائق</span> | <span class="example-en" dir="ltr" lang="en">I like parks</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الحدائق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the parks?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الحدائق في الثلاجة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a parks in the fridge, because time is tight, and then I drank some water</span> |
 
 

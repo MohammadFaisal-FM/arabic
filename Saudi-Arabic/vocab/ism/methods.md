@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طُرق</span> | <span class="example-en" dir="ltr" lang="en">This is methods</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طُرق</span> | <span class="example-en" dir="ltr" lang="en">I like methods</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طُرق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the methods?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج طُرق الحين في الحقيبة، عشان المراجعة أسهل، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a methods now in the bag, so revision is easier, and I also took the clean shoes</span> |
 
 

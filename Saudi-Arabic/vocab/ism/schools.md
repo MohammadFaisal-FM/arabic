@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المدارس</span> | <span class="example-en" dir="ltr" lang="en">This is schools</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المدارس</span> | <span class="example-en" dir="ltr" lang="en">I like schools</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المدارس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the schools?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المدارس الحين في الحديقة، لأن الوقت ضيق، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a schools now in the park, because time is tight, and I also took the old alarm</span> |
 
 

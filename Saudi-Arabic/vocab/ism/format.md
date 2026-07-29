@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شكل</span> | <span class="example-en" dir="ltr" lang="en">This is format</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شكل</span> | <span class="example-en" dir="ltr" lang="en">I like format</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شكل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the format?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شكل الحين جنب المسجد، لأن الوقت ضيق، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a format now next to the mosque, because time is tight, and I also took the pencil</span> |
 
 

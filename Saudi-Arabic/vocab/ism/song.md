@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أغنية</span> | <span class="example-en" dir="ltr" lang="en">This is song</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أغنية</span> | <span class="example-en" dir="ltr" lang="en">I like song</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أغنية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the song?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أغنية كان/كانت في المدرسة، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">a song was at school, so we are not late, and then we laughed a bit</span> |
 
 

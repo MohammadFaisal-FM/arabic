@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شقة</span> | <span class="example-en" dir="ltr" lang="en">This is apartment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شقة</span> | <span class="example-en" dir="ltr" lang="en">I like apartment</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the apartment?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شقة قدام الملعب، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put an apartment in front of the pitch, before the food gets cold, and then I wrote a note</span> |
 
 

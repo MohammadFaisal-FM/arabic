@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شوكولاتة</span> | <span class="example-en" dir="ltr" lang="en">This is chocolate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شوكولاتة</span> | <span class="example-en" dir="ltr" lang="en">I like chocolate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شوكولاتة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the chocolate?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شوكولاتة في المدرسة مع المقص الحاد، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a chocolate at school with the sharp scissors, before Maghrib prayer, and then I turned off the light</span> |
 
 

@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تأخّرتُ بسبب إزدحام الطريق.</span> | <span class="example-en" dir="ltr" lang="en">I was delayed due to road congestion.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا ازدحام</span> | <span class="example-en" dir="ltr" lang="en">This is a congestion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ازدحام</span> | <span class="example-en" dir="ltr" lang="en">I like congestion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ازدحام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the congestion?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ازدحام الحين جنب النافذة، لأن البطارية ضعيفة، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a congestion now beside the window, because the battery is low, and I also took the sunglasses</span> |
 
 

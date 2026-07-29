@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قناة</span> | <span class="example-en" dir="ltr" lang="en">This is channel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قناة</span> | <span class="example-en" dir="ltr" lang="en">I like channel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قناة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the channel?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قناة جنب النافذة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a channel beside the window, because time is tight, and then we prayed</span> |
 
 

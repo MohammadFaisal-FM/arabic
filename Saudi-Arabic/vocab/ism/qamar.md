@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">القمر حلو</span> | <span class="example-en" dir="ltr" lang="en">The moon is sweet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا قمر</span> | <span class="example-en" dir="ltr" lang="en">This is a moon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قمر</span> | <span class="example-en" dir="ltr" lang="en">I like moon</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قمر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the moon?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قمر في المطبخ مع الملف الورقي، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a moon in the kitchen with the paper file, so revision is easier, and then I charged the device</span> |
 
 

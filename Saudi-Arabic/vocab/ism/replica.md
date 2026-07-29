@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نسخة طبق الأصل</span> | <span class="example-en" dir="ltr" lang="en">This is replica</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نسخة طبق الأصل</span> | <span class="example-en" dir="ltr" lang="en">I like replica</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نسخة طبق الأصل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the replica?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نسخة طبق الأصل الحين في الدرج، عشان الدراسة بكرة، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a replica now in the drawer, for studying tomorrow, and I also took the blue notebook</span> |
 
 

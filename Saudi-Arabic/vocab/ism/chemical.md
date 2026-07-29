@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كيميائية</span> | <span class="example-en" dir="ltr" lang="en">This is chemical</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كيميائية</span> | <span class="example-en" dir="ltr" lang="en">I like chemical</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كيميائية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the chemical?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كيميائية الحين عند الباب، عشان نلحق الموعد، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a chemical now at the door, so we make the appointment, and I also took the brown wallet</span> |
 
 

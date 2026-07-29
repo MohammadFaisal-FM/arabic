@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التفضيل</span> | <span class="example-en" dir="ltr" lang="en">This is preference</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التفضيل</span> | <span class="example-en" dir="ltr" lang="en">I like preference</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التفضيل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the preference?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التفضيل في المطبخ مع الملف الورقي، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a preference in the kitchen with the paper file, before the driver arrives, and then I wiped the floor</span> |
 
 

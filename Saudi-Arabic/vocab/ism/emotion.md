@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العاطفة</span> | <span class="example-en" dir="ltr" lang="en">This is emotion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العاطفة</span> | <span class="example-en" dir="ltr" lang="en">I like emotion</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العاطفة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the emotion?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت العاطفة جنب النافذة مع النظارة الشمسية، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an emotion beside the window with the sunglasses, because time is tight, and then we locked the door</span> |
 
 

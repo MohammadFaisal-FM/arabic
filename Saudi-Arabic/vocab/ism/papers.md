@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أوراق</span> | <span class="example-en" dir="ltr" lang="en">This is papers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أوراق</span> | <span class="example-en" dir="ltr" lang="en">I like papers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أوراق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the papers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أوراق الحين قدام الملعب، لأن الإضاءة أحسن هناك، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a papers now in front of the pitch, because the light is better there, and I also took the clear tape</span> |
 
 

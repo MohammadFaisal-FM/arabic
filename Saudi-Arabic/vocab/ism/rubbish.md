@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا القمامة</span> | <span class="example-en" dir="ltr" lang="en">This is rubbish</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب القمامة</span> | <span class="example-en" dir="ltr" lang="en">I like rubbish</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين القمامة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rubbish?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج القمامة الحين قدام التلفاز، لأن الشغل خلص بدري، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a rubbish now in front of the TV, because work finished early, and I also took the white sock</span> |
 
 

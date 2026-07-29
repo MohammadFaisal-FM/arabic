@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المشترين</span> | <span class="example-en" dir="ltr" lang="en">This is buyers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المشترين</span> | <span class="example-en" dir="ltr" lang="en">I like buyers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المشترين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the buyers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المشترين تحت السرير، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a buyers under the bed, so we are not late, and then I turned off the light</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملكة</span> | <span class="example-en" dir="ltr" lang="en">This is queen</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملكة</span> | <span class="example-en" dir="ltr" lang="en">I like queen</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملكة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the queen?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ملكة عند الباب، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a queen at the door, but keep it near you, and then the boy slept</span> |
 
 

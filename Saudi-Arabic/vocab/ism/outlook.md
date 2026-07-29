@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التوقعات</span> | <span class="example-en" dir="ltr" lang="en">This is outlook</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التوقعات</span> | <span class="example-en" dir="ltr" lang="en">I like outlook</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التوقعات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the outlook?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج التوقعات الحين جنب النافذة، لأن البطارية ضعيفة، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need an outlook now beside the window, because the battery is low, and I also took the sunglasses</span> |
 
 

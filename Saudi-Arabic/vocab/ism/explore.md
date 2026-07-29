@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يستكشف</span> | <span class="example-en" dir="ltr" lang="en">This is explore</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يستكشف</span> | <span class="example-en" dir="ltr" lang="en">I like explore</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يستكشف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the explore?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يستكشف في الدرج، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put an explore in the drawer, before the food gets cold, and then I washed my hands</span> |
 
 

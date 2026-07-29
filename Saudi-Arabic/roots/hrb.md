@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هرب الكلب</span> | <span class="example-en" dir="ltr" lang="en">The dog ran away</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هرب الكلب، ولقيت الملعقة الصغيرة تحت السرير، عشان الدراسة بكرة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">The dog ran away, and I found the small spoon under the bed, for studying tomorrow, and then I closed the window</span> |
 
 
 ---

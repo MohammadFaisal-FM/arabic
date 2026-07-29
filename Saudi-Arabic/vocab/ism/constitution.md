@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دستور</span> | <span class="example-en" dir="ltr" lang="en">This is constitution</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دستور</span> | <span class="example-en" dir="ltr" lang="en">I like constitution</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دستور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the constitution?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دستور على المكتب، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a constitution on the desk, before the food gets cold, and then I tidied the table</span> |
 
 

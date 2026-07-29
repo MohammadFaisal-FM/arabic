@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تكبير</span> | <span class="example-en" dir="ltr" lang="en">This is enlarge</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تكبير</span> | <span class="example-en" dir="ltr" lang="en">I like enlarge</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تكبير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the enlarge?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تكبير في الحديقة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put an enlarge in the park, if you need it later, and then we prayed</span> |
 
 

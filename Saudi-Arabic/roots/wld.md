@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ولد في الرياض</span> | <span class="example-en" dir="ltr" lang="en">He was born in Riyadh</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ولد في الرياض، ولقيت الدباسة في المكتبة، لأن الشغل خلص بدري، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">He was born in Riyadh, and I found the stapler in the library, because work finished early, and then we prayed</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [ولد](#ism/walad) | <span class="example-ar" dir="rtl" lang="ar">كبر الولد</span><br><span class="example-en" dir="ltr" lang="en">The boy has grown up</span> |
+| اسم · ism (noun / other) | [ولد](#ism/walad) | <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن ولد شوي، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span><br><span class="example-en" dir="ltr" lang="en">We talked about a boy a bit, for studying tomorrow, and then I tidied the table</span> |
 

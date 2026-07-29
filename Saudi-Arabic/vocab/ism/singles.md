@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الفردي</span> | <span class="example-en" dir="ltr" lang="en">This is singles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الفردي</span> | <span class="example-en" dir="ltr" lang="en">I like singles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الفردي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the singles?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الفردي الحين قدام التلفاز، بس خلّه قريب منك، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a singles now in front of the TV, but keep it near you, and I also took the white sock</span> |
 
 

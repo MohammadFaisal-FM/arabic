@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا البرتغال</span> | <span class="example-en" dir="ltr" lang="en">This is portugal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب البرتغال</span> | <span class="example-en" dir="ltr" lang="en">I like portugal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين البرتغال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the portugal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت البرتغال في المكتبة، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a portugal in the library, so revision is easier, and then I wiped the floor</span> |
 
 

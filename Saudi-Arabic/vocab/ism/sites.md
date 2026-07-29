@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المواقع</span> | <span class="example-en" dir="ltr" lang="en">This is sites</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المواقع</span> | <span class="example-en" dir="ltr" lang="en">I like sites</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المواقع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sites?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المواقع في السيارة مع الوسادة الناعمة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a sites in the car with the soft pillow, before Maghrib prayer, and then I replied to the message</span> |
 
 

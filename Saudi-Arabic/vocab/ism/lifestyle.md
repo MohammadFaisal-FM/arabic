@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نمط الحياة</span> | <span class="example-en" dir="ltr" lang="en">This is lifestyle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نمط الحياة</span> | <span class="example-en" dir="ltr" lang="en">I like lifestyle</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نمط الحياة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lifestyle?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نمط الحياة الحين جنب النافذة، إذا احتجته بعدين، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a lifestyle now beside the window, if you need it later, and I also took the sunglasses</span> |
 
 

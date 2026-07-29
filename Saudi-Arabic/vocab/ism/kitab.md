@@ -14,9 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كتاب</span> | <span class="example-en" dir="ltr" lang="en">This is a book</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كتاب</span> | <span class="example-en" dir="ltr" lang="en">I like book</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كتاب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the book?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كتاب في السيارة مع الوسادة الناعمة، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a book in the car with the soft pillow, so it doesn’t get lost, and then we laughed a bit</span> |
 
 
 ### Links

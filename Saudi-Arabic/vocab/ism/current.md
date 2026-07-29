@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حاضِر</span> | <span class="example-en" dir="ltr" lang="en">This is current</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حاضِر</span> | <span class="example-en" dir="ltr" lang="en">I like current</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حاضِر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the current?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حاضِر في الصالون مع المنديل النظيف، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a current in the living room with the clean tissue, but keep it near you, and then I turned on the fan</span> |
 
 

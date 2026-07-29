@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا السمع</span> | <span class="example-en" dir="ltr" lang="en">This is hearing</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب السمع</span> | <span class="example-en" dir="ltr" lang="en">I like hearing</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين السمع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hearing?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج السمع الحين تحت السرير، لأن الولد نعسان، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a hearing now under the bed, because the boy is sleepy, and I also took the grey scarf</span> |
 
 

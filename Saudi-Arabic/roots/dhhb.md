@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وين تروح؟</span> | <span class="example-en" dir="ltr" lang="en">Where are you going?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين تروح؟، ولقيت المنبه القديميم عند الاستقبال، لأن الشغل خلص بدري، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">Where are you going?, and I found the old alarm at reception, because work finished early, and then I drank some water</span> |
 
 
 ---

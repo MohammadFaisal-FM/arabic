@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">توم يواصل استكشاف أفكار أخرى حول المنتج الجديد</span> | <span class="example-en" dir="ltr" lang="en">Tom continues to explore other ideas for the new product</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت استكشاف في الحديقة مع المنبه القديميم، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an exploration in the park with the old alarm, because time is tight, and then we locked the door</span> |
 
 

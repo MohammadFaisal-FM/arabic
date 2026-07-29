@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">نزلت من السيارة</span> | <span class="example-en" dir="ltr" lang="en">I got out of the car</span> |
+| <span class="example-ar" dir="rtl" lang="ar">نزلت من السيارة، ولقيت المنديل النظيف على المكتب، قبل ما يقفل المكان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I got out of the car, and I found the clean tissue on the desk, before the place closes, and then the boy slept</span> |
 
 
 ---

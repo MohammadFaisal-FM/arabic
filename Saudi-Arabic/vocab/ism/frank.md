@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صريح</span> | <span class="example-en" dir="ltr" lang="en">This is frank</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صريح</span> | <span class="example-en" dir="ltr" lang="en">I like frank</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صريح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the frank?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صريح في المطبخ، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a frank in the kitchen, because traffic is heavy, and then I charged the device</span> |
 
 

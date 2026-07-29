@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تمّ احتجاز ليلى من أجل تلقّي العلاج.</span> | <span class="example-en" dir="ltr" lang="en">Laila was detained to receive treatment.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت احتجاز على الشرفة مع الكابل القصير، قبل ما يبرد الأكل، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a detention on the balcony with the short cable, before the food gets cold, and then the boy slept</span> |
 
 

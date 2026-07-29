@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نص</span> | <span class="example-en" dir="ltr" lang="en">This is text</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نص</span> | <span class="example-en" dir="ltr" lang="en">I like text</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the text?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نص في المحطة، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a text at the station, so we make the appointment, and then the phone rang</span> |
 
 

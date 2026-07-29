@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نبض</span> | <span class="example-en" dir="ltr" lang="en">This is pulse</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نبض</span> | <span class="example-en" dir="ltr" lang="en">I like pulse</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نبض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pulse?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نبض عند الصيدلية، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a pulse at the pharmacy, because the light is better there, and then I tidied the table</span> |
 
 

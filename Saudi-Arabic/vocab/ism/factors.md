@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عوامل</span> | <span class="example-en" dir="ltr" lang="en">This is factors</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عوامل</span> | <span class="example-en" dir="ltr" lang="en">I like factors</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عوامل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the factors?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عوامل في الدرج، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a factors in the drawer, because the light is better there, and then I wrote a note</span> |
 
 

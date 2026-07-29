@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وقف هنا</span> | <span class="example-en" dir="ltr" lang="en">Stop here</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وقف هنا، ولقيت المفتاح الاحتياطي جنب المسجد، لأن الولد نعسان، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">Stop here, and I found the spare key next to the mosque, because the boy is sleepy, and then I wrote a note</span> |
 
 
 ---

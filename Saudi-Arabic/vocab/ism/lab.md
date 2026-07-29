@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مختبر</span> | <span class="example-en" dir="ltr" lang="en">This is lab</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مختبر</span> | <span class="example-en" dir="ltr" lang="en">I like lab</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مختبر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lab?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مختبر في المحطة، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a lab at the station, so we make the appointment, and then the phone rang</span> |
 
 

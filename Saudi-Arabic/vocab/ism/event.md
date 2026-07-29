@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حدث</span> | <span class="example-en" dir="ltr" lang="en">This is event</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حدث</span> | <span class="example-en" dir="ltr" lang="en">I like event</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حدث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the event?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حدث في الحقيبة مع الحذاء النظيف، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an event in the bag with the clean shoes, before the place closes, and then I closed the window</span> |
 
 

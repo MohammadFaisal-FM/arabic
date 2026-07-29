@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا منفذ</span> | <span class="example-en" dir="ltr" lang="en">This is portal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب منفذ</span> | <span class="example-en" dir="ltr" lang="en">I like portal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين منفذ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the portal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج منفذ الحين جنب النافذة، لأن الوقت ضيق، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a portal now beside the window, because time is tight, and I also took the sunglasses</span> |
 
 

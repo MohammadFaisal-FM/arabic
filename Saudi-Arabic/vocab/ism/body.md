@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جسم</span> | <span class="example-en" dir="ltr" lang="en">This is body</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جسم</span> | <span class="example-en" dir="ltr" lang="en">I like body</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جسم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the body?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جسم الحين عند الصيدلية، لأن الإضاءة أحسن هناك، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a body now at the pharmacy, because the light is better there, and I also took the clear cover</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الرومانسية</span> | <span class="example-en" dir="ltr" lang="en">This is romance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الرومانسية</span> | <span class="example-en" dir="ltr" lang="en">I like romance</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الرومانسية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the romance?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت الرومانسية عند العيادة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I saw a romance at the clinic, because the battery is low, and then I drank some water</span> |
 
 

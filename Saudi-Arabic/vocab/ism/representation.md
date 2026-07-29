@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التمثيل</span> | <span class="example-en" dir="ltr" lang="en">This is representation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التمثيل</span> | <span class="example-en" dir="ltr" lang="en">I like representation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التمثيل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the representation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج التمثيل الحين في الصالون، بس خلّه قريب منك، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a representation now in the living room, but keep it near you, and I also took the clean tissue</span> |
 
 

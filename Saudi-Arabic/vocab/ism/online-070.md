@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">البيت انهدم في هزة أرضية.</span> | <span class="example-en" dir="ltr" lang="en">The house collapsed in an earthquake.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا ارضيه</span> | <span class="example-en" dir="ltr" lang="en">This is a floor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ارضيه</span> | <span class="example-en" dir="ltr" lang="en">I like floor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ارضيه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the floor?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ارضيه الحين قدام الملعب، لأن الجو حار شوي، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a floor now in front of the pitch, because the weather is a bit hot, and I also took the clear tape</span> |
 
 

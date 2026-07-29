@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا منازل</span> | <span class="example-en" dir="ltr" lang="en">This is homes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب منازل</span> | <span class="example-en" dir="ltr" lang="en">I like homes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين منازل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the homes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت منازل جنب المسجد، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a homes next to the mosque, so the photo comes out clearer, and then I drank some water</span> |
 
 

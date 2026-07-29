@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">جنب المسجد</span> | <span class="example-en" dir="ltr" lang="en">next to the mosque</span> |
+| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «جنب» في الجملة، وحطينا الكوب الزجاج عند الاستقبال، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">We used “جنب” (beside / next to) in the sentence, and put the glass cup at reception, before the place closes, and then I closed the window</span> |
 

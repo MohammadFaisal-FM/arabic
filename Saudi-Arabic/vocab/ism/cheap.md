@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رخيص</span> | <span class="example-en" dir="ltr" lang="en">This is cheap</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رخيص</span> | <span class="example-en" dir="ltr" lang="en">I like cheap</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رخيص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cheap?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رخيص الحين على الشرفة، عشان ما يضيع، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a cheap now on the balcony, so it doesn’t get lost, and I also took the yellow card</span> |
 
 

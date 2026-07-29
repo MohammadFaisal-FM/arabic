@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مرضى</span> | <span class="example-en" dir="ltr" lang="en">This is patients</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مرضى</span> | <span class="example-en" dir="ltr" lang="en">I like patients</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مرضى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the patients?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مرضى الحين في الحديقة، عشان الصورة تطلع أوضح، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a patients now in the park, so the photo comes out clearer, and I also took the old alarm</span> |
 
 

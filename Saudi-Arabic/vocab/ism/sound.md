@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صوت</span> | <span class="example-en" dir="ltr" lang="en">This is sound</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صوت</span> | <span class="example-en" dir="ltr" lang="en">I like sound</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صوت؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sound?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج صوت الحين تحت السرير، قبل صلاة المغرب، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a sound now under the bed, before Maghrib prayer, and I also took the grey scarf</span> |
 
 

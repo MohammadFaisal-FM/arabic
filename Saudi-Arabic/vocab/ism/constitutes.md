@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يشكل</span> | <span class="example-en" dir="ltr" lang="en">This is constitutes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يشكل</span> | <span class="example-en" dir="ltr" lang="en">I like constitutes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يشكل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the constitutes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يشكل الحين في المطبخ، لأن الزحمة قوية، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a constitutes now in the kitchen, because traffic is heavy, and I also took the paper file</span> |
 
 

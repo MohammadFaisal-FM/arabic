@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اللجان</span> | <span class="example-en" dir="ltr" lang="en">This is committees</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اللجان</span> | <span class="example-en" dir="ltr" lang="en">I like committees</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اللجان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the committees?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اللجان في البقالة مع الشاحن الطويل، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a committees at the grocery with the long charger, because the boy is sleepy, and then I replied to the message</span> |
 
 

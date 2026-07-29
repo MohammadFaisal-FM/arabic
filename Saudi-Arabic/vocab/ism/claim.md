@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مطالبة</span> | <span class="example-en" dir="ltr" lang="en">This is claim</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مطالبة</span> | <span class="example-en" dir="ltr" lang="en">I like claim</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مطالبة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the claim?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مطالبة الحين في الغرفة، لأن الجو حار شوي، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a claim now in the room, because the weather is a bit hot, and I also took the spare key</span> |
 
 

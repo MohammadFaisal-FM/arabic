@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شك</span> | <span class="example-en" dir="ltr" lang="en">This is doubt</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شك</span> | <span class="example-en" dir="ltr" lang="en">I like doubt</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the doubt?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شك الحين في البقالة، عشان ما نتأخر، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a doubt now at the grocery, so we are not late, and I also took the long charger</span> |
 
 

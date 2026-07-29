@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يصف</span> | <span class="example-en" dir="ltr" lang="en">This is describe</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يصف</span> | <span class="example-en" dir="ltr" lang="en">I like describe</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يصف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the describe?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يصف على المكتب، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a describe on the desk, before the food gets cold, and then I tidied the table</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نفسي</span> | <span class="example-en" dir="ltr" lang="en">This is myself</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نفسي</span> | <span class="example-en" dir="ltr" lang="en">I like myself</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نفسي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the myself?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نفسي الحين على المكتب، قبل ما يبرد الأكل، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a myself now on the desk, before the food gets cold, and I also took the light blanket</span> |
 
 

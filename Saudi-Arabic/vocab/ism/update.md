@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تحديث</span> | <span class="example-en" dir="ltr" lang="en">This is update</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تحديث</span> | <span class="example-en" dir="ltr" lang="en">I like update</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تحديث؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the update?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تحديث الحين في السيارة، عشان ما نتأخر، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need an update now in the car, so we are not late, and I also took the soft pillow</span> |
 
 

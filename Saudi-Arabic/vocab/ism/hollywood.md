@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا هوليوود</span> | <span class="example-en" dir="ltr" lang="en">This is hollywood</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب هوليوود</span> | <span class="example-en" dir="ltr" lang="en">I like hollywood</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين هوليوود؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hollywood?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج هوليوود الحين في المحطة، لأن الشغل خلص بدري، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a hollywood now at the station, because work finished early, and I also took the short cable</span> |
 
 

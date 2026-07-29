@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مخيم</span> | <span class="example-en" dir="ltr" lang="en">This is camp</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مخيم</span> | <span class="example-en" dir="ltr" lang="en">I like camp</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مخيم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the camp?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مخيم عند العيادة مع الدباسة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a camp at the clinic with the stapler, because the battery is low, and then I drank some water</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حشد</span> | <span class="example-en" dir="ltr" lang="en">This is crowd</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حشد</span> | <span class="example-en" dir="ltr" lang="en">I like crowd</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حشد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the crowd?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حشد الحين قدام المصعد، عشان الضيوف يوصلون، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a crowd now in front of the elevator, because guests are arriving, and I also took the empty carton</span> |
 
 

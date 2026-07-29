@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إجابات</span> | <span class="example-en" dir="ltr" lang="en">This is answers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إجابات</span> | <span class="example-en" dir="ltr" lang="en">I like answers</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إجابات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the answers?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إجابات جنب النافذة مع النظارة الشمسية، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an answers beside the window with the sunglasses, because time is tight, and then we locked the door</span> |
 
 

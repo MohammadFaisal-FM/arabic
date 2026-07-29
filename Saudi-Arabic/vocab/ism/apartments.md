@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شقق</span> | <span class="example-en" dir="ltr" lang="en">This is apartments</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شقق</span> | <span class="example-en" dir="ltr" lang="en">I like apartments</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شقق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the apartments?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شقق الحين في الثلاجة، عشان الصورة تطلع أوضح، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an apartments now in the fridge, so the photo comes out clearer, and I also took the summer hat</span> |
 
 

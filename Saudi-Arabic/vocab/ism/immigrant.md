@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مهاجر</span> | <span class="example-en" dir="ltr" lang="en">This is immigrant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مهاجر</span> | <span class="example-en" dir="ltr" lang="en">I like immigrant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مهاجر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the immigrant?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مهاجر الحين على الشرفة، عشان ما يضيع، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need an immigrant now on the balcony, so it doesn’t get lost, and I also took the yellow card</span> |
 
 

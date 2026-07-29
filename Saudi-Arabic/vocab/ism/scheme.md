@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مخطط</span> | <span class="example-en" dir="ltr" lang="en">This is scheme</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مخطط</span> | <span class="example-en" dir="ltr" lang="en">I like scheme</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مخطط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the scheme?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مخطط في الصالون مع المنديل النظيف، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a scheme in the living room with the clean tissue, because guests are arriving, and then the boy slept</span> |
 
 

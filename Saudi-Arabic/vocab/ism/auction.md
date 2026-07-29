@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مزاد</span> | <span class="example-en" dir="ltr" lang="en">This is auction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مزاد</span> | <span class="example-en" dir="ltr" lang="en">I like auction</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مزاد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the auction?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مزاد تحت السرير، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an auction under the bed, before Maghrib prayer, and then we laughed a bit</span> |
 
 

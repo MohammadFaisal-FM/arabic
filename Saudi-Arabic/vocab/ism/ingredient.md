@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المكون</span> | <span class="example-en" dir="ltr" lang="en">This is ingredient</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المكون</span> | <span class="example-en" dir="ltr" lang="en">I like ingredient</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المكون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ingredient?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المكون الحين في المطبخ، قبل ما يقفل المكان، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an ingredient now in the kitchen, before the place closes, and I also took the paper file</span> |
 
 

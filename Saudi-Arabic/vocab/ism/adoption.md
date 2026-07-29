@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التبني</span> | <span class="example-en" dir="ltr" lang="en">This is adoption</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التبني</span> | <span class="example-en" dir="ltr" lang="en">I like adoption</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التبني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the adoption?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التبني قدام الملعب مع اللاصق الشفاف، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found an adoption in front of the pitch with the clear tape, before the food gets cold, and then I washed my hands</span> |
 
 

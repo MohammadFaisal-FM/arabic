@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يجعل</span> | <span class="example-en" dir="ltr" lang="en">This is makes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يجعل</span> | <span class="example-en" dir="ltr" lang="en">I like makes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يجعل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the makes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يجعل الحين قدام التلفاز، لأن الشغل خلص بدري، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a makes now in front of the TV, because work finished early, and I also took the white sock</span> |
 
 

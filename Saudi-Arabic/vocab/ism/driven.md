@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مدفوعة</span> | <span class="example-en" dir="ltr" lang="en">This is driven</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مدفوعة</span> | <span class="example-en" dir="ltr" lang="en">I like driven</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مدفوعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the driven?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مدفوعة تحت السرير، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a driven under the bed, so we are not late, and then I turned off the light</span> |
 
 

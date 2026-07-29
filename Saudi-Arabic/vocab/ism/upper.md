@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العلوي</span> | <span class="example-en" dir="ltr" lang="en">This is upper</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العلوي</span> | <span class="example-en" dir="ltr" lang="en">I like upper</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العلوي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the upper?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج العلوي الحين عند الصيدلية، لأن الإضاءة أحسن هناك، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an upper now at the pharmacy, because the light is better there, and I also took the clear cover</span> |
 
 

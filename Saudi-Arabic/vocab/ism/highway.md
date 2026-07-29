@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الطريق السريع</span> | <span class="example-en" dir="ltr" lang="en">This is highway</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الطريق السريع</span> | <span class="example-en" dir="ltr" lang="en">I like highway</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الطريق السريع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the highway?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الطريق السريع الحين في الثلاجة، عشان الصورة تطلع أوضح، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a highway now in the fridge, so the photo comes out clearer, and I also took the summer hat</span> |
 
 

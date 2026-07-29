@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الليالي</span> | <span class="example-en" dir="ltr" lang="en">This is nights</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الليالي</span> | <span class="example-en" dir="ltr" lang="en">I like nights</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الليالي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the nights?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الليالي في المحطة، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a nights at the station, because work finished early, and then the phone rang</span> |
 
 

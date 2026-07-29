@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ممثل</span> | <span class="example-en" dir="ltr" lang="en">This is representative</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ممثل</span> | <span class="example-en" dir="ltr" lang="en">I like representative</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ممثل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the representative?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ممثل الحين جنب المسجد، عشان الصورة تطلع أوضح، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a representative now next to the mosque, so the photo comes out clearer, and I also took the pencil</span> |
 
 

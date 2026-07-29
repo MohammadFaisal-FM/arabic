@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ليبرالي</span> | <span class="example-en" dir="ltr" lang="en">This is liberal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ليبرالي</span> | <span class="example-en" dir="ltr" lang="en">I like liberal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ليبرالي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the liberal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ليبرالي في الصالون، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a liberal in the living room, because work finished early, and then the boy slept</span> |
 
 

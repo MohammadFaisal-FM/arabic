@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مقابلة</span> | <span class="example-en" dir="ltr" lang="en">This is meeting</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مقابلة</span> | <span class="example-en" dir="ltr" lang="en">I like meeting</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مقابلة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the meeting?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مقابلة الحين عند العيادة، لأن البطارية ضعيفة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a meeting now at the clinic, because the battery is low, and I also took the stapler</span> |
 
 

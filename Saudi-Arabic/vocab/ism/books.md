@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كتب</span> | <span class="example-en" dir="ltr" lang="en">This is books</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كتب</span> | <span class="example-en" dir="ltr" lang="en">I like books</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كتب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the books?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كتب الحين عند الباب، لأن الشغل خلص بدري، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a books now at the door, because work finished early, and I also took the brown wallet</span> |
 
 

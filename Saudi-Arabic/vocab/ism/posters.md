@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الملصقات</span> | <span class="example-en" dir="ltr" lang="en">This is posters</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الملصقات</span> | <span class="example-en" dir="ltr" lang="en">I like posters</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الملصقات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the posters?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الملصقات في الغرفة، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a posters in the room, because the weather is a bit hot, and then I washed my hands</span> |
 
 

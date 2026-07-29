@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا برمنغهام</span> | <span class="example-en" dir="ltr" lang="en">This is birmingham</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب برمنغهام</span> | <span class="example-en" dir="ltr" lang="en">I like birmingham</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين برمنغهام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the birmingham?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت برمنغهام في الثلاجة مع القبعة الصيفية، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a birmingham in the fridge with the summer hat, because the battery is low, and then I drank some water</span> |
 
 

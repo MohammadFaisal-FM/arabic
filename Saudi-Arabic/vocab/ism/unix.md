@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يونيكس</span> | <span class="example-en" dir="ltr" lang="en">This is unix</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يونيكس</span> | <span class="example-en" dir="ltr" lang="en">I like unix</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يونيكس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the unix?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يونيكس قدام المصعد مع الكرتون الفاضي، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an unix in front of the elevator with the empty carton, so we make the appointment, and then the boy slept</span> |
 
 

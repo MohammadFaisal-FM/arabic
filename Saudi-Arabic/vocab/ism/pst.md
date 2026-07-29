@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا توقيت المحيط الهادئ</span> | <span class="example-en" dir="ltr" lang="en">This is pst</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب توقيت المحيط الهادئ</span> | <span class="example-en" dir="ltr" lang="en">I like pst</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين توقيت المحيط الهادئ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pst?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت توقيت المحيط الهادئ قدام المصعد، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a pst in front of the elevator, so we make the appointment, and then I turned on the fan</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يشير إلى</span> | <span class="example-en" dir="ltr" lang="en">This is refer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يشير إلى</span> | <span class="example-en" dir="ltr" lang="en">I like refer</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يشير إلى؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the refer?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يشير إلى عند الاستقبال مع الكوب الزجاج، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a refer at reception with the glass cup, so revision is easier, and then I closed the window</span> |
 
 

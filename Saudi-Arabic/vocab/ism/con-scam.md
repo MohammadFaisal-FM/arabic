@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا احتيال</span> | <span class="example-en" dir="ltr" lang="en">This is a con (scam)</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب احتيال</span> | <span class="example-en" dir="ltr" lang="en">I like con (scam)</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين احتيال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the con (scam)?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج احتيال الحين في المحطة، عشان الضيوف يوصلون، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a con (scam) now at the station, because guests are arriving, and I also took the short cable</span> |
 
 

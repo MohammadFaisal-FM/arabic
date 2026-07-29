@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التعاريف</span> | <span class="example-en" dir="ltr" lang="en">This is definitions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التعاريف</span> | <span class="example-en" dir="ltr" lang="en">I like definitions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التعاريف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the definitions?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التعاريف في المحطة، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a definitions at the station, because guests are arriving, and then the boy slept</span> |
 
 

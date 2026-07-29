@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الخور</span> | <span class="example-en" dir="ltr" lang="en">This is creek</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الخور</span> | <span class="example-en" dir="ltr" lang="en">I like creek</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الخور؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the creek?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الخور الحين عند الباب، بس خلّه قريب منك، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a creek now at the door, but keep it near you, and I also took the brown wallet</span> |
 
 

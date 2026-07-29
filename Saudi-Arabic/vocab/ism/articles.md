@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مقالات</span> | <span class="example-en" dir="ltr" lang="en">This is articles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مقالات</span> | <span class="example-en" dir="ltr" lang="en">I like articles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مقالات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the articles?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مقالات تحت السرير، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put an articles under the bed, so we are not late, and then I turned off the light</span> |
 
 

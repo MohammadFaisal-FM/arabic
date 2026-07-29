@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا محرر</span> | <span class="example-en" dir="ltr" lang="en">This is editor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب محرر</span> | <span class="example-en" dir="ltr" lang="en">I like editor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين محرر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the editor?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج محرر الحين عند الاستقبال، قبل ما يقفل المكان، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need an editor now at reception, before the place closes, and I also took the glass cup</span> |
 
 

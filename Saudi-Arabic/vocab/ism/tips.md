@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نصائح</span> | <span class="example-en" dir="ltr" lang="en">This is tips</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نصائح</span> | <span class="example-en" dir="ltr" lang="en">I like tips</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نصائح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tips?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نصائح الحين على المكتب، عشان الدراسة بكرة، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a tips now on the desk, for studying tomorrow, and I also took the light blanket</span> |
 
 

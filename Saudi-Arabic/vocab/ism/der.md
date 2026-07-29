@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دير</span> | <span class="example-en" dir="ltr" lang="en">This is der</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دير</span> | <span class="example-en" dir="ltr" lang="en">I like der</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دير؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the der?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دير في الحقيبة، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a der in the bag, before the driver arrives, and then I charged the device</span> |
 
 

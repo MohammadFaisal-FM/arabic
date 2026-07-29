@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دراما</span> | <span class="example-en" dir="ltr" lang="en">This is drama</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دراما</span> | <span class="example-en" dir="ltr" lang="en">I like drama</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دراما؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the drama?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دراما على الشرفة، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a drama on the balcony, so it doesn’t get lost, and then I replied to the message</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يمد</span> | <span class="example-en" dir="ltr" lang="en">This is provide</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يمد</span> | <span class="example-en" dir="ltr" lang="en">I like provide</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يمد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the provide?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يمد جنب البنك، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a provide next to the bank, before the place closes, and then I charged the device</span> |
 
 

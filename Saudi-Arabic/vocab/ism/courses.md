@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الدورات</span> | <span class="example-en" dir="ltr" lang="en">This is courses</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الدورات</span> | <span class="example-en" dir="ltr" lang="en">I like courses</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الدورات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the courses?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الدورات قدام الملعب مع اللاصق الشفاف، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a courses in front of the pitch with the clear tape, because the light is better there, and then I wrote a note</span> |
 
 

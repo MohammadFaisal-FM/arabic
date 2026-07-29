@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يقترب</span> | <span class="example-en" dir="ltr" lang="en">This is approach</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يقترب</span> | <span class="example-en" dir="ltr" lang="en">I like approach</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يقترب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the approach?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يقترب الحين في المحطة، عشان نلحق الموعد، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need an approach now at the station, so we make the appointment, and I also took the short cable</span> |
 
 

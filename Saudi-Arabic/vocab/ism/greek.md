@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اليونانية</span> | <span class="example-en" dir="ltr" lang="en">This is greek</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اليونانية</span> | <span class="example-en" dir="ltr" lang="en">I like greek</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اليونانية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the greek?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اليونانية عند الصيدلية، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a greek at the pharmacy, because the light is better there, and then I tidied the table</span> |
 
 

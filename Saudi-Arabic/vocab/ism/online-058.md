@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">القبائل هم أمازيغ و يتكلمون الأمازيغية.</span> | <span class="example-en" dir="ltr" lang="en">The Kabyles are Berbers and speak Amazigh.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت امازيغ في الصالون مع المنديل النظيف، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an amazigh in the living room with the clean tissue, because guests are arriving, and then the boy slept</span> |
 
 

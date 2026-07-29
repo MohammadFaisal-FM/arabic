@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا للنساء</span> | <span class="example-en" dir="ltr" lang="en">This is womens</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب للنساء</span> | <span class="example-en" dir="ltr" lang="en">I like womens</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين للنساء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the womens?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج للنساء الحين في السيارة، عشان ما يضيع، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a womens now in the car, so it doesn’t get lost, and I also took the soft pillow</span> |
 
 

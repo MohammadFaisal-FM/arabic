@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حزام</span> | <span class="example-en" dir="ltr" lang="en">This is belt</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حزام</span> | <span class="example-en" dir="ltr" lang="en">I like belt</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حزام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the belt?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حزام الحين جنب البنك، قبل ما يقفل المكان، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a belt now next to the bank, before the place closes, and I also took the empty bottle</span> |
 
 

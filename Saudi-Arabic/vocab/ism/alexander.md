@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الكسندر</span> | <span class="example-en" dir="ltr" lang="en">This is alexander</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الكسندر</span> | <span class="example-en" dir="ltr" lang="en">I like alexander</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الكسندر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the alexander?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الكسندر عند الصيدلية مع الغطاء الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an alexander at the pharmacy with the clear cover, for studying tomorrow, and then I tidied the table</span> |
 
 

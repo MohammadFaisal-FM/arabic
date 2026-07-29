@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ويلز</span> | <span class="example-en" dir="ltr" lang="en">This is wales</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ويلز</span> | <span class="example-en" dir="ltr" lang="en">I like wales</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ويلز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the wales?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ويلز الحين جنب البنك، قبل ما يجي السائق، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a wales now next to the bank, before the driver arrives, and I also took the empty bottle</span> |
 
 

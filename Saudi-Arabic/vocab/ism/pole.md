@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا القطب</span> | <span class="example-en" dir="ltr" lang="en">This is pole</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب القطب</span> | <span class="example-en" dir="ltr" lang="en">I like pole</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين القطب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pole?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت القطب في الدرج، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a pole in the drawer, because the weather is a bit hot, and then I wrote a note</span> |
 
 

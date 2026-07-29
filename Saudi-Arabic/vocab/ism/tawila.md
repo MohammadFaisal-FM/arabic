@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">على الطاولة</span> | <span class="example-en" dir="ltr" lang="en">On the table</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا طاولة</span> | <span class="example-en" dir="ltr" lang="en">This is a table</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طاولة</span> | <span class="example-en" dir="ltr" lang="en">I like table</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طاولة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the table?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت طاولة جنب المسجد، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a table next to the mosque, because time is tight, and then we locked the door</span> |
 
 

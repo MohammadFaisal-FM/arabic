@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا خاصرة</span> | <span class="example-en" dir="ltr" lang="en">This is hip</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خاصرة</span> | <span class="example-en" dir="ltr" lang="en">I like hip</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خاصرة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hip?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت خاصرة في الغرفة، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a hip in the room, because the weather is a bit hot, and then I washed my hands</span> |
 
 

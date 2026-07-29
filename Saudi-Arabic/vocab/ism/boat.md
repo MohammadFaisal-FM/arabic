@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قارب</span> | <span class="example-en" dir="ltr" lang="en">This is boat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قارب</span> | <span class="example-en" dir="ltr" lang="en">I like boat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قارب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the boat?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قارب الحين في البقالة، عشان ما يضيع، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a boat now at the grocery, so it doesn’t get lost, and I also took the long charger</span> |
 
 

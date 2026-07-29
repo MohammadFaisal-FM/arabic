@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا محتجز</span> | <span class="example-en" dir="ltr" lang="en">This is held</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب محتجز</span> | <span class="example-en" dir="ltr" lang="en">I like held</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين محتجز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the held?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت محتجز في البقالة مع الشاحن الطويل، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a held at the grocery with the long charger, so it doesn’t get lost, and then I turned off the light</span> |
 
 

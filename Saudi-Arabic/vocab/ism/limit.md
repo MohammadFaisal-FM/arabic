@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حد</span> | <span class="example-en" dir="ltr" lang="en">This is limit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حد</span> | <span class="example-en" dir="ltr" lang="en">I like limit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the limit?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حد في الغرفة مع المفتاح الاحتياطي، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a limit in the room with the spare key, because the weather is a bit hot, and then I tidied the table</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جاك</span> | <span class="example-en" dir="ltr" lang="en">This is jack</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جاك</span> | <span class="example-en" dir="ltr" lang="en">I like jack</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جاك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jack?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت جاك على الشرفة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a jack on the balcony, before Maghrib prayer, and then I turned off the light</span> |
 
 

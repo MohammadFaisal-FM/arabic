@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الدنمارك</span> | <span class="example-en" dir="ltr" lang="en">This is denmark</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الدنمارك</span> | <span class="example-en" dir="ltr" lang="en">I like denmark</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الدنمارك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the denmark?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الدنمارك الحين في السيارة، قبل صلاة المغرب، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a denmark now in the car, before Maghrib prayer, and I also took the soft pillow</span> |
 
 

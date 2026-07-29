@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فم</span> | <span class="example-en" dir="ltr" lang="en">This is mouth</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فم</span> | <span class="example-en" dir="ltr" lang="en">I like mouth</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the mouth?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فم الحين في السيارة، عشان ما يضيع، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a mouth now in the car, so it doesn’t get lost, and I also took the soft pillow</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بريان</span> | <span class="example-en" dir="ltr" lang="en">This is brian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بريان</span> | <span class="example-en" dir="ltr" lang="en">I like brian</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بريان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the brian?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بريان الحين تحت السرير، قبل صلاة المغرب، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a brian now under the bed, before Maghrib prayer, and I also took the grey scarf</span> |
 
 

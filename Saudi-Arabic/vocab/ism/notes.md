@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملحوظات</span> | <span class="example-en" dir="ltr" lang="en">This is notes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملحوظات</span> | <span class="example-en" dir="ltr" lang="en">I like notes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملحوظات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the notes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ملحوظات تحت السرير مع الوشاح الرمادي، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a notes under the bed with the grey scarf, before Maghrib prayer, and then I turned off the light</span> |
 
 

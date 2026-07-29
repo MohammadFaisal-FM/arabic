@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سعة</span> | <span class="example-en" dir="ltr" lang="en">This is capacity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سعة</span> | <span class="example-en" dir="ltr" lang="en">I like capacity</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the capacity?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سعة في الحقيبة مع الحذاء النظيف، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a capacity in the bag with the clean shoes, because traffic is heavy, and then I charged the device</span> |
 
 

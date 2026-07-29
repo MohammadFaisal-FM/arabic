@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قلم</span> | <span class="example-en" dir="ltr" lang="en">This is pen</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قلم</span> | <span class="example-en" dir="ltr" lang="en">I like pen</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قلم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pen?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قلم الحين في الصالون، بس خلّه قريب منك، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a pen now in the living room, but keep it near you, and I also took the clean tissue</span> |
 
 

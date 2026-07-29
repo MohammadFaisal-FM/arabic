@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا زراعة</span> | <span class="example-en" dir="ltr" lang="en">This is agriculture</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب زراعة</span> | <span class="example-en" dir="ltr" lang="en">I like agriculture</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين زراعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the agriculture?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت زراعة في المدرسة مع المقص الحاد، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found an agriculture at school with the sharp scissors, before Maghrib prayer, and then I turned off the light</span> |
 
 

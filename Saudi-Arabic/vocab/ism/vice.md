@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نائب</span> | <span class="example-en" dir="ltr" lang="en">This is vice</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نائب</span> | <span class="example-en" dir="ltr" lang="en">I like vice</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نائب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the vice?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نائب قدام المصعد، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a vice in front of the elevator, because work finished early, and then I turned on the fan</span> |
 
 

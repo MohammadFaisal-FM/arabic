@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جاف</span> | <span class="example-en" dir="ltr" lang="en">This is dry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جاف</span> | <span class="example-en" dir="ltr" lang="en">I like dry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جاف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the dry?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت جاف تحت السرير، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a dry under the bed, because the boy is sleepy, and then I replied to the message</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا عدل</span> | <span class="example-en" dir="ltr" lang="en">This is fair</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب عدل</span> | <span class="example-en" dir="ltr" lang="en">I like fair</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين عدل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fair?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عدل في الحديقة مع المنبه القديميم، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a fair in the park with the old alarm, if you need it later, and then we locked the door</span> |
 
 

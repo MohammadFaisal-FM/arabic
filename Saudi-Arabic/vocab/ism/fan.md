@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا معجب</span> | <span class="example-en" dir="ltr" lang="en">This is fan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب معجب</span> | <span class="example-en" dir="ltr" lang="en">I like fan</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين معجب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fan?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت معجب في الصالون، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a fan in the living room, so we make the appointment, and then the boy slept</span> |
 
 

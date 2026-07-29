@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إيجابي</span> | <span class="example-en" dir="ltr" lang="en">This is positive</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إيجابي</span> | <span class="example-en" dir="ltr" lang="en">I like positive</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إيجابي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the positive?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إيجابي الحين عند الباب، عشان الضيوف يوصلون، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a positive now at the door, because guests are arriving, and I also took the brown wallet</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إعلانات</span> | <span class="example-en" dir="ltr" lang="en">This is ads</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إعلانات</span> | <span class="example-en" dir="ltr" lang="en">I like ads</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إعلانات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ads?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إعلانات الحين عند الباب، بس خلّه قريب منك، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an ads now at the door, but keep it near you, and I also took the brown wallet</span> |
 
 

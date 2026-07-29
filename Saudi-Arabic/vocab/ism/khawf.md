@@ -14,10 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ما في خوف</span> | <span class="example-en" dir="ltr" lang="en">There is no fear</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا خوف</span> | <span class="example-en" dir="ltr" lang="en">This is a fear</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خوف</span> | <span class="example-en" dir="ltr" lang="en">I like fear</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خوف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the fear?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خوف جنب المسجد مع القلم الرصاص، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a fear next to the mosque with the pencil, if you need it later, and then I drank some water</span> |
 
 
 ### Links

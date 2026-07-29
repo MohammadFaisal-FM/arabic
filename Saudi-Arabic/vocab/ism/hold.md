@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يمسك</span> | <span class="example-en" dir="ltr" lang="en">This is hold</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يمسك</span> | <span class="example-en" dir="ltr" lang="en">I like hold</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يمسك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hold?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يمسك الحين في الحديقة، لأن الوقت ضيق، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a hold now in the park, because time is tight, and I also took the old alarm</span> |
 
 

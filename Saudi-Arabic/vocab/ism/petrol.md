@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بنزين</span> | <span class="example-en" dir="ltr" lang="en">This is petrol</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بنزين</span> | <span class="example-en" dir="ltr" lang="en">I like petrol</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بنزين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the petrol?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بنزين جنب النافذة مع النظارة الشمسية، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a petrol beside the window with the sunglasses, so the photo comes out clearer, and then I drank some water</span> |
 
 

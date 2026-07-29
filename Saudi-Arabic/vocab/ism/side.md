@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جانب</span> | <span class="example-en" dir="ltr" lang="en">This is side</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جانب</span> | <span class="example-en" dir="ltr" lang="en">I like side</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جانب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the side?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جانب جنب النافذة مع النظارة الشمسية، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a side beside the window with the sunglasses, if you need it later, and then we locked the door</span> |
 
 

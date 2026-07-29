@@ -14,10 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">دفعت الحساب</span> | <span class="example-en" dir="ltr" lang="en">I paid the account</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا حساب</span> | <span class="example-en" dir="ltr" lang="en">This is a bill</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حساب</span> | <span class="example-en" dir="ltr" lang="en">I like bill</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حساب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bill?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حساب في الثلاجة مع القبعة الصيفية، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a bill in the fridge with the summer hat, so the photo comes out clearer, and then we locked the door</span> |
 
 
 ### Links

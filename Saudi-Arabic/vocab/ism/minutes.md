@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دقائق</span> | <span class="example-en" dir="ltr" lang="en">This is minutes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دقائق</span> | <span class="example-en" dir="ltr" lang="en">I like minutes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دقائق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the minutes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج دقائق الحين جنب البنك، قبل ما يجي السائق، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a minutes now next to the bank, before the driver arrives, and I also took the empty bottle</span> |
 
 

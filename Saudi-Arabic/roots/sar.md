@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">صار الليل</span> | <span class="example-en" dir="ltr" lang="en">It became night</span> |
+| <span class="example-ar" dir="rtl" lang="ar">صار الليل، ولقيت الشاحن الطويل قدام التلفاز، إذا احتجته بعدين، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">It became night, and I found the long charger in front of the TV, if you need it later, and then I replied to the message</span> |
 
 
 ---

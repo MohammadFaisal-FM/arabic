@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الشيف</span> | <span class="example-en" dir="ltr" lang="en">This is chef</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الشيف</span> | <span class="example-en" dir="ltr" lang="en">I like chef</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الشيف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the chef?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الشيف الحين جنب البنك، عشان المراجعة أسهل، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a chef now next to the bank, so revision is easier, and I also took the empty bottle</span> |
 
 

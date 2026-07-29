@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملحوظة</span> | <span class="example-en" dir="ltr" lang="en">This is note</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملحوظة</span> | <span class="example-en" dir="ltr" lang="en">I like note</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملحوظة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the note?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ملحوظة جنب المسجد، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a note next to the mosque, because time is tight, and then we locked the door</span> |
 
 

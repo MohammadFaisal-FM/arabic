@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا و</span> | <span class="example-en" dir="ltr" lang="en">This is und</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب و</span> | <span class="example-en" dir="ltr" lang="en">I like und</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين و؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the und?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت و في البقالة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put an und at the grocery, before Maghrib prayer, and then I replied to the message</span> |
 
 

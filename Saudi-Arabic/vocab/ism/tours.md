@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جولات</span> | <span class="example-en" dir="ltr" lang="en">This is tours</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جولات</span> | <span class="example-en" dir="ltr" lang="en">I like tours</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جولات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tours?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جولات الحين في الحقيبة، عشان المراجعة أسهل، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a tours now in the bag, so revision is easier, and I also took the clean shoes</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جهاز</span> | <span class="example-en" dir="ltr" lang="en">This is device</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جهاز</span> | <span class="example-en" dir="ltr" lang="en">I like device</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جهاز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the device?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جهاز قدام المصعد مع الكرتون الفاضي، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a device in front of the elevator with the empty carton, but keep it near you, and then the phone rang</span> |
 
 

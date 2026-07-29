@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأرباح</span> | <span class="example-en" dir="ltr" lang="en">This is earnings</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأرباح</span> | <span class="example-en" dir="ltr" lang="en">I like earnings</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأرباح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the earnings?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأرباح الحين تحت السرير، عشان ما نتأخر، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need an earnings now under the bed, so we are not late, and I also took the grey scarf</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يوليو</span> | <span class="example-en" dir="ltr" lang="en">This is july</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يوليو</span> | <span class="example-en" dir="ltr" lang="en">I like july</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يوليو؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the july?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يوليو في السيارة مع الوسادة الناعمة، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a july in the car with the soft pillow, so it doesn’t get lost, and then we laughed a bit</span> |
 
 

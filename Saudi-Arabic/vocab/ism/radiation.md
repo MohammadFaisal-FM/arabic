@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إشعاع</span> | <span class="example-en" dir="ltr" lang="en">This is radiation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إشعاع</span> | <span class="example-en" dir="ltr" lang="en">I like radiation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إشعاع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the radiation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت إشعاع تحت السرير، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a radiation under the bed, so it doesn’t get lost, and then I turned off the light</span> |
 
 

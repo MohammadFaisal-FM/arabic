@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا استشاري</span> | <span class="example-en" dir="ltr" lang="en">This is advisory</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب استشاري</span> | <span class="example-en" dir="ltr" lang="en">I like advisory</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين استشاري؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the advisory?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت استشاري في المطبخ، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put an advisory in the kitchen, before the driver arrives, and then I closed the window</span> |
 
 

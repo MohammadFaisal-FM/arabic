@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رسائل إلكترونية مزعجة</span> | <span class="example-en" dir="ltr" lang="en">This is spam</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رسائل إلكترونية مزعجة</span> | <span class="example-en" dir="ltr" lang="en">I like spam</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رسائل إلكترونية مزعجة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the spam?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رسائل إلكترونية مزعجة الحين على الشرفة، قبل صلاة المغرب، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a spam now on the balcony, before Maghrib prayer, and I also took the yellow card</span> |
 
 

@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">في الفندق</span> | <span class="example-en" dir="ltr" lang="en">At the hotel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا فندق</span> | <span class="example-en" dir="ltr" lang="en">This is a hotel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فندق</span> | <span class="example-en" dir="ltr" lang="en">I like hotel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فندق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hotel?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فندق عند العيادة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a hotel at the clinic, so the photo comes out clearer, and then we prayed</span> |
 
 

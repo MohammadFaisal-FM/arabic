@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موارد</span> | <span class="example-en" dir="ltr" lang="en">This is resources</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موارد</span> | <span class="example-en" dir="ltr" lang="en">I like resources</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موارد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the resources?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت موارد عند الاستقبال مع الكوب الزجاج، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a resources at reception with the glass cup, because traffic is heavy, and then I wiped the floor</span> |
 
 

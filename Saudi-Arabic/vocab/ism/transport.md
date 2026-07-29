@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ينقل</span> | <span class="example-en" dir="ltr" lang="en">This is transport</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ينقل</span> | <span class="example-en" dir="ltr" lang="en">I like transport</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ينقل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the transport?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ينقل تحت السرير، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a transport under the bed, before Maghrib prayer, and then we laughed a bit</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مسؤول</span> | <span class="example-en" dir="ltr" lang="en">This is responsible</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مسؤول</span> | <span class="example-en" dir="ltr" lang="en">I like responsible</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مسؤول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the responsible?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مسؤول على المكتب، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a responsible on the desk, for studying tomorrow, and then I wrote a note</span> |
 
 

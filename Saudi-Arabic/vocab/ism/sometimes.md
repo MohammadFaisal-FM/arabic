@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أحيانا</span> | <span class="example-en" dir="ltr" lang="en">This is sometimes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أحيانا</span> | <span class="example-en" dir="ltr" lang="en">I like sometimes</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أحيانا؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sometimes?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أحيانا في الحقيبة مع الحذاء النظيف، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a sometimes in the bag with the clean shoes, so revision is easier, and then I wiped the floor</span> |
 
 

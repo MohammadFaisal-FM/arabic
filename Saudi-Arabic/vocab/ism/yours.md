@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا لك</span> | <span class="example-en" dir="ltr" lang="en">This is yours</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب لك</span> | <span class="example-en" dir="ltr" lang="en">I like yours</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين لك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the yours?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لك قدام التلفاز، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a yours in front of the TV, but keep it near you, and then I turned on the fan</span> |
 
 

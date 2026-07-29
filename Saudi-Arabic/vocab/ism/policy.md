@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سياسة</span> | <span class="example-en" dir="ltr" lang="en">This is policy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سياسة</span> | <span class="example-en" dir="ltr" lang="en">I like policy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سياسة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the policy?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سياسة في الثلاجة مع القبعة الصيفية، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a policy in the fridge with the summer hat, so the photo comes out clearer, and then we locked the door</span> |
 
 

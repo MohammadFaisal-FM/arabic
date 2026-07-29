@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المحررين</span> | <span class="example-en" dir="ltr" lang="en">This is editors</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المحررين</span> | <span class="example-en" dir="ltr" lang="en">I like editors</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المحررين؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the editors?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المحررين في الحقيبة مع الحذاء النظيف، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found an editors in the bag with the clean shoes, because traffic is heavy, and then I charged the device</span> |
 
 

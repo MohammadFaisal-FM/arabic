@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا محتمل</span> | <span class="example-en" dir="ltr" lang="en">This is potential</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب محتمل</span> | <span class="example-en" dir="ltr" lang="en">I like potential</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين محتمل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the potential?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج محتمل الحين عند العيادة، لأن الوقت ضيق، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a potential now at the clinic, because time is tight, and I also took the stapler</span> |
 
 

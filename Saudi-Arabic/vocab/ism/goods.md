@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بضائع</span> | <span class="example-en" dir="ltr" lang="en">This is goods</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بضائع</span> | <span class="example-en" dir="ltr" lang="en">I like goods</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بضائع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the goods?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بضائع عند العيادة مع الدباسة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a goods at the clinic with the stapler, so the photo comes out clearer, and then we locked the door</span> |
 
 

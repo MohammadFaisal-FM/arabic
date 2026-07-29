@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الفيزياء</span> | <span class="example-en" dir="ltr" lang="en">This is physics</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الفيزياء</span> | <span class="example-en" dir="ltr" lang="en">I like physics</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الفيزياء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the physics?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الفيزياء في الثلاجة مع القبعة الصيفية، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a physics in the fridge with the summer hat, if you need it later, and then we prayed</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جيش</span> | <span class="example-en" dir="ltr" lang="en">This is army</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جيش</span> | <span class="example-en" dir="ltr" lang="en">I like army</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جيش؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the army?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جيش عند العيادة مع الدباسة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an army at the clinic with the stapler, because time is tight, and then we prayed</span> |
 
 

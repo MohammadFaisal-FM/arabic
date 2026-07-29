@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا القرص</span> | <span class="example-en" dir="ltr" lang="en">This is disk</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب القرص</span> | <span class="example-en" dir="ltr" lang="en">I like disk</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين القرص؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the disk?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت القرص على المكتب، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a disk on the desk, because the light is better there, and then I washed my hands</span> |
 
 

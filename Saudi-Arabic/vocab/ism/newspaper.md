@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صحيفة</span> | <span class="example-en" dir="ltr" lang="en">This is newspaper</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صحيفة</span> | <span class="example-en" dir="ltr" lang="en">I like newspaper</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صحيفة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the newspaper?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت صحيفة في المكتبة مع الملعقة الصغيرة، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a newspaper in the library with the small spoon, before the driver arrives, and then I wiped the floor</span> |
 
 

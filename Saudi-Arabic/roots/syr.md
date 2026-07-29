@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">سر معي</span> | <span class="example-en" dir="ltr" lang="en">Walk with me</span> |
+| <span class="example-ar" dir="rtl" lang="ar">سر معي، ولقيت الجورب الأبيض قدام الملعب، لأن الزحمة قوية، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">Walk with me, and I found the white sock in front of the pitch, because traffic is heavy, and then the phone rang</span> |
 
 
 ---

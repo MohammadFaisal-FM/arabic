@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا السير الذاتية</span> | <span class="example-en" dir="ltr" lang="en">This is cvs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب السير الذاتية</span> | <span class="example-en" dir="ltr" lang="en">I like cvs</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين السير الذاتية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cvs?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت السير الذاتية قدام الملعب مع اللاصق الشفاف، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a cvs in front of the pitch with the clear tape, because the weather is a bit hot, and then I wrote a note</span> |
 
 

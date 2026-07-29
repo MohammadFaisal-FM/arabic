@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا النجوم</span> | <span class="example-en" dir="ltr" lang="en">This is stars</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب النجوم</span> | <span class="example-en" dir="ltr" lang="en">I like stars</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين النجوم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the stars?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت النجوم قدام الملعب، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a stars in front of the pitch, because the light is better there, and then I tidied the table</span> |
 
 

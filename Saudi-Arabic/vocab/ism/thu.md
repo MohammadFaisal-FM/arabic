@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الخميس</span> | <span class="example-en" dir="ltr" lang="en">This is thu</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الخميس</span> | <span class="example-en" dir="ltr" lang="en">I like thu</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الخميس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the thu?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الخميس الحين في الصالون، عشان نلحق الموعد، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a thu now in the living room, so we make the appointment, and I also took the clean tissue</span> |
 
 

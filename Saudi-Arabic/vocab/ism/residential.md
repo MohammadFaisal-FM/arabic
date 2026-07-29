@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سكني</span> | <span class="example-en" dir="ltr" lang="en">This is residential</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سكني</span> | <span class="example-en" dir="ltr" lang="en">I like residential</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سكني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the residential?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سكني في السيارة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a residential in the car, because the boy is sleepy, and then we laughed a bit</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا منحة</span> | <span class="example-en" dir="ltr" lang="en">This is grant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب منحة</span> | <span class="example-en" dir="ltr" lang="en">I like grant</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين منحة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the grant?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت منحة في السيارة مع الوسادة الناعمة، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a grant in the car with the soft pillow, because the boy is sleepy, and then I turned off the light</span> |
 
 

@@ -14,10 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">عندي فكرة</span> | <span class="example-en" dir="ltr" lang="en">I have an idea</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا فكرة</span> | <span class="example-en" dir="ltr" lang="en">This is a idea</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فكرة</span> | <span class="example-en" dir="ltr" lang="en">I like idea</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فكرة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the idea?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فكرة جنب البنك، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put an idea next to the bank, because traffic is heavy, and then I wiped the floor</span> |
 
 
 ### Links

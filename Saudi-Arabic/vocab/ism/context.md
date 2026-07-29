@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سياق</span> | <span class="example-en" dir="ltr" lang="en">This is context</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سياق</span> | <span class="example-en" dir="ltr" lang="en">I like context</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سياق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the context?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سياق الحين عند الباب، لأن الشغل خلص بدري، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a context now at the door, because work finished early, and I also took the brown wallet</span> |
 
 

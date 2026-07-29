@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الوحي</span> | <span class="example-en" dir="ltr" lang="en">This is revelation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الوحي</span> | <span class="example-en" dir="ltr" lang="en">I like revelation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الوحي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the revelation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الوحي الحين على المكتب، عشان الدراسة بكرة، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a revelation now on the desk, for studying tomorrow, and I also took the light blanket</span> |
 
 

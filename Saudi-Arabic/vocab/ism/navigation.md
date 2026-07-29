@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملاحة</span> | <span class="example-en" dir="ltr" lang="en">This is navigation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملاحة</span> | <span class="example-en" dir="ltr" lang="en">I like navigation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملاحة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the navigation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ملاحة في الحقيبة، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a navigation in the bag, so revision is easier, and then I closed the window</span> |
 
 

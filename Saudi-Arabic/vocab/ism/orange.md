@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا البرتقالي</span> | <span class="example-en" dir="ltr" lang="en">This is orange</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب البرتقالي</span> | <span class="example-en" dir="ltr" lang="en">I like orange</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين البرتقالي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the orange?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت البرتقالي في الغرفة مع المفتاح الاحتياطي، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found an orange in the room with the spare key, for studying tomorrow, and then I washed my hands</span> |
 
 

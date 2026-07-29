@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تحديد</span> | <span class="example-en" dir="ltr" lang="en">This is specifications</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تحديد</span> | <span class="example-en" dir="ltr" lang="en">I like specifications</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تحديد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the specifications?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تحديد قدام الملعب، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a specifications in front of the pitch, for studying tomorrow, and then I washed my hands</span> |
 
 

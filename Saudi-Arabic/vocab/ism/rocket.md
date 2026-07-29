@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صاروخ</span> | <span class="example-en" dir="ltr" lang="en">This is rocket</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صاروخ</span> | <span class="example-en" dir="ltr" lang="en">I like rocket</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صاروخ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rocket?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت صاروخ جنب البنك مع الزجاجة الفارغة، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a rocket next to the bank with the empty bottle, before the place closes, and then I closed the window</span> |
 
 

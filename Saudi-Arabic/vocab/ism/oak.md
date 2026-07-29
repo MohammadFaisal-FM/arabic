@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بلوط</span> | <span class="example-en" dir="ltr" lang="en">This is oak</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بلوط</span> | <span class="example-en" dir="ltr" lang="en">I like oak</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بلوط؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the oak?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بلوط الحين جنب البنك، قبل ما يقفل المكان، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need an oak now next to the bank, before the place closes, and I also took the empty bottle</span> |
 
 

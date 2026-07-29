@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صغير الحجم</span> | <span class="example-en" dir="ltr" lang="en">This is tiny</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صغير الحجم</span> | <span class="example-en" dir="ltr" lang="en">I like tiny</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صغير الحجم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tiny?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صغير الحجم تحت السرير، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a tiny under the bed, because the boy is sleepy, and then I replied to the message</span> |
 
 

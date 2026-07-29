@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يرقي</span> | <span class="example-en" dir="ltr" lang="en">This is upgrade</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يرقي</span> | <span class="example-en" dir="ltr" lang="en">I like upgrade</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يرقي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the upgrade?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يرقي الحين في الحقيبة، لأن الزحمة قوية، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an upgrade now in the bag, because traffic is heavy, and I also took the clean shoes</span> |
 
 

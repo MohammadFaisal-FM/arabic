@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طاقم عمل</span> | <span class="example-en" dir="ltr" lang="en">This is staff</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طاقم عمل</span> | <span class="example-en" dir="ltr" lang="en">I like staff</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طاقم عمل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the staff?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت طاقم عمل جنب المسجد، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a staff next to the mosque, because the battery is low, and then we prayed</span> |
 
 

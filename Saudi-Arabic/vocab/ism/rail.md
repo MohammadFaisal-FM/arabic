@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا السكك الحديدية</span> | <span class="example-en" dir="ltr" lang="en">This is rail</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب السكك الحديدية</span> | <span class="example-en" dir="ltr" lang="en">I like rail</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين السكك الحديدية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rail?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت السكك الحديدية في الدرج، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a rail in the drawer, because the light is better there, and then I wrote a note</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سم</span> | <span class="example-en" dir="ltr" lang="en">This is poison</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سم</span> | <span class="example-en" dir="ltr" lang="en">I like poison</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the poison?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن سم شوي، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">We talked about a poison a bit, so we are not late, and then I turned off the light</span> |
 
 

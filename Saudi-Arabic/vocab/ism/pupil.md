@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تلميذ</span> | <span class="example-en" dir="ltr" lang="en">This is pupil</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تلميذ</span> | <span class="example-en" dir="ltr" lang="en">I like pupil</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تلميذ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pupil?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تلميذ الحين على الشرفة، عشان ما نتأخر، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a pupil now on the balcony, so we are not late, and I also took the yellow card</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا اكس بوكس</span> | <span class="example-en" dir="ltr" lang="en">This is xbox</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اكس بوكس</span> | <span class="example-en" dir="ltr" lang="en">I like xbox</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اكس بوكس؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the xbox?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اكس بوكس تحت السرير، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a xbox under the bed, so it doesn’t get lost, and then I turned off the light</span> |
 
 

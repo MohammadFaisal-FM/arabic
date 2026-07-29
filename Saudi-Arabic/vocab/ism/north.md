@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا شمال</span> | <span class="example-en" dir="ltr" lang="en">This is north</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شمال</span> | <span class="example-en" dir="ltr" lang="en">I like north</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شمال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the north?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شمال في الدرج مع الدفتر الأزرق، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a north in the drawer with the blue notebook, for studying tomorrow, and then I wrote a note</span> |
 
 

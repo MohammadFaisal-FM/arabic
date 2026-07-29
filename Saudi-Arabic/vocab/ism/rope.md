@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا حبل</span> | <span class="example-en" dir="ltr" lang="en">This is rope</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب حبل</span> | <span class="example-en" dir="ltr" lang="en">I like rope</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين حبل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rope?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حبل الحين قدام الملعب، عشان الدراسة بكرة، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a rope now in front of the pitch, for studying tomorrow, and I also took the clear tape</span> |
 
 

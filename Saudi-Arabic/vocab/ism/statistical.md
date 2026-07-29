@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إحصائية</span> | <span class="example-en" dir="ltr" lang="en">This is statistical</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إحصائية</span> | <span class="example-en" dir="ltr" lang="en">I like statistical</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إحصائية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the statistical?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إحصائية في الدرج مع الدفتر الأزرق، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a statistical in the drawer with the blue notebook, before the food gets cold, and then I tidied the table</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مُعَالَجَة</span> | <span class="example-en" dir="ltr" lang="en">This is therapy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مُعَالَجَة</span> | <span class="example-en" dir="ltr" lang="en">I like therapy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مُعَالَجَة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the therapy?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مُعَالَجَة الحين في الصالون، لأن الشغل خلص بدري، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a therapy now in the living room, because work finished early, and I also took the clean tissue</span> |
 
 

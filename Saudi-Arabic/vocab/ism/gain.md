@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يكسب</span> | <span class="example-en" dir="ltr" lang="en">This is gain</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يكسب</span> | <span class="example-en" dir="ltr" lang="en">I like gain</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يكسب؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the gain?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يكسب الحين عند العيادة، لأن الوقت ضيق، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a gain now at the clinic, because time is tight, and I also took the stapler</span> |
 
 

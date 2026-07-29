@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الآراء</span> | <span class="example-en" dir="ltr" lang="en">This is opinions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الآراء</span> | <span class="example-en" dir="ltr" lang="en">I like opinions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الآراء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the opinions?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الآراء في الدرج، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put an opinions in the drawer, because the weather is a bit hot, and then I wrote a note</span> |
 
 

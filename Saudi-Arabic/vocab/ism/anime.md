@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أنيمي</span> | <span class="example-en" dir="ltr" lang="en">This is anime</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أنيمي</span> | <span class="example-en" dir="ltr" lang="en">I like anime</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أنيمي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the anime?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أنيمي على المكتب، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put an anime on the desk, before the food gets cold, and then I tidied the table</span> |
 
 

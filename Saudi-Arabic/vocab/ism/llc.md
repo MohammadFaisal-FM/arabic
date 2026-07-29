@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ذ.م.م</span> | <span class="example-en" dir="ltr" lang="en">This is llc</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ذ.م.م</span> | <span class="example-en" dir="ltr" lang="en">I like llc</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ذ.م.م؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the llc?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ذ.م.م عند الباب، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a llc at the door, because work finished early, and then I turned on the fan</span> |
 
 

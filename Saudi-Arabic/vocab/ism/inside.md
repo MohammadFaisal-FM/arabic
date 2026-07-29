@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا داخل</span> | <span class="example-en" dir="ltr" lang="en">This is inside</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب داخل</span> | <span class="example-en" dir="ltr" lang="en">I like inside</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين داخل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the inside?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج داخل الحين على المكتب، عشان الدراسة بكرة، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need an inside now on the desk, for studying tomorrow, and I also took the light blanket</span> |
 
 

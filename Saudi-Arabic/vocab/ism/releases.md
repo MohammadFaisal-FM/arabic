@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الإصدارات</span> | <span class="example-en" dir="ltr" lang="en">This is releases</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الإصدارات</span> | <span class="example-en" dir="ltr" lang="en">I like releases</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الإصدارات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the releases?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الإصدارات في الصالون، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a releases in the living room, but keep it near you, and then the phone rang</span> |
 
 

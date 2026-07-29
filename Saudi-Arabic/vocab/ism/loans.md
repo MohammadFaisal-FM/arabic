@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا القروض</span> | <span class="example-en" dir="ltr" lang="en">This is loans</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب القروض</span> | <span class="example-en" dir="ltr" lang="en">I like loans</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين القروض؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the loans?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج القروض الحين قدام الملعب، لأن الإضاءة أحسن هناك، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a loans now in front of the pitch, because the light is better there, and I also took the clear tape</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جودة</span> | <span class="example-en" dir="ltr" lang="en">This is quality</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جودة</span> | <span class="example-en" dir="ltr" lang="en">I like quality</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جودة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the quality?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت جودة في المحطة، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a quality at the station, because guests are arriving, and then the boy slept</span> |
 
 

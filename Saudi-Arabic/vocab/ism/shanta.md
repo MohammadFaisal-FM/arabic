@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">احمل الشنطة</span> | <span class="example-en" dir="ltr" lang="en">Carry the bag</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا شنطة</span> | <span class="example-en" dir="ltr" lang="en">This is a bag</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب شنطة</span> | <span class="example-en" dir="ltr" lang="en">I like bag</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين شنطة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the bag?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شنطة في الثلاجة مع القبعة الصيفية، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a bag in the fridge with the summer hat, if you need it later, and then we prayed</span> |
 
 

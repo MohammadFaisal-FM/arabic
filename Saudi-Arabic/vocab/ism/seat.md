@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مقعد</span> | <span class="example-en" dir="ltr" lang="en">This is seat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مقعد</span> | <span class="example-en" dir="ltr" lang="en">I like seat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مقعد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the seat?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مقعد الحين في الحقيبة، عشان المراجعة أسهل، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a seat now in the bag, so revision is easier, and I also took the clean shoes</span> |
 
 

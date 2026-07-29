@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مشاركون</span> | <span class="example-en" dir="ltr" lang="en">This is participants</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مشاركون</span> | <span class="example-en" dir="ltr" lang="en">I like participants</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مشاركون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the participants?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مشاركون الحين في الدرج، لأن الجو حار شوي، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a participants now in the drawer, because the weather is a bit hot, and I also took the blue notebook</span> |
 
 

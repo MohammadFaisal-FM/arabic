@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تصنيف</span> | <span class="example-en" dir="ltr" lang="en">This is rating</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تصنيف</span> | <span class="example-en" dir="ltr" lang="en">I like rating</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تصنيف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the rating?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تصنيف الحين قدام المصعد، عشان الضيوف يوصلون، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a rating now in front of the elevator, because guests are arriving, and I also took the empty carton</span> |
 
 

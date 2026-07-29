@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الدائرة</span> | <span class="example-en" dir="ltr" lang="en">This is circuit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الدائرة</span> | <span class="example-en" dir="ltr" lang="en">I like circuit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الدائرة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the circuit?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الدائرة قدام المصعد، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a circuit in front of the elevator, so we make the appointment, and then I turned on the fan</span> |
 
 

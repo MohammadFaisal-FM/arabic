@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مئات</span> | <span class="example-en" dir="ltr" lang="en">This is hundreds</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مئات</span> | <span class="example-en" dir="ltr" lang="en">I like hundreds</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مئات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hundreds?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مئات في البقالة، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a hundreds at the grocery, because the boy is sleepy, and then I turned off the light</span> |
 
 

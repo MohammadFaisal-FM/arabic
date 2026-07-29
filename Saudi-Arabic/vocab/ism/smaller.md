@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأصغر</span> | <span class="example-en" dir="ltr" lang="en">This is smaller</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأصغر</span> | <span class="example-en" dir="ltr" lang="en">I like smaller</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأصغر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the smaller?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأصغر الحين في الحديقة، لأن الوقت ضيق، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a smaller now in the park, because time is tight, and I also took the old alarm</span> |
 
 

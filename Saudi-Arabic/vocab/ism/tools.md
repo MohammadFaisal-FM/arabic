@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أدوات</span> | <span class="example-en" dir="ltr" lang="en">This is tools</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أدوات</span> | <span class="example-en" dir="ltr" lang="en">I like tools</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أدوات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the tools?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أدوات عند الصيدلية مع الغطاء الشفاف، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a tools at the pharmacy with the clear cover, because the light is better there, and then I wrote a note</span> |
 
 

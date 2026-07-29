@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حضر علي إفطار عند سامي.</span> | <span class="example-en" dir="ltr" lang="en">Ali had breakfast with Sami.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا افطار</span> | <span class="example-en" dir="ltr" lang="en">This is a breakfast</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب افطار</span> | <span class="example-en" dir="ltr" lang="en">I like breakfast</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين افطار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the breakfast?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت افطار على الشرفة مع البطاقة الصفراء، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a breakfast on the balcony with the yellow card, before Maghrib prayer, and then I replied to the message</span> |
 
 

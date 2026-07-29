@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فتيات</span> | <span class="example-en" dir="ltr" lang="en">This is girls</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فتيات</span> | <span class="example-en" dir="ltr" lang="en">I like girls</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فتيات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the girls?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن فتيات شوي، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a girls a bit, for studying tomorrow, and then I tidied the table</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا محاكمة</span> | <span class="example-en" dir="ltr" lang="en">This is trial</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب محاكمة</span> | <span class="example-en" dir="ltr" lang="en">I like trial</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين محاكمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the trial?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج محاكمة الحين في الغرفة، لأن الإضاءة أحسن هناك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a trial now in the room, because the light is better there, and I also took the spare key</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مفكر</span> | <span class="example-en" dir="ltr" lang="en">This is intellectual</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مفكر</span> | <span class="example-en" dir="ltr" lang="en">I like intellectual</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مفكر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the intellectual?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مفكر الحين في الغرفة، لأن الإضاءة أحسن هناك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an intellectual now in the room, because the light is better there, and I also took the spare key</span> |
 
 

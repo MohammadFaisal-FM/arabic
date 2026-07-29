@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا امتداد</span> | <span class="example-en" dir="ltr" lang="en">This is extension</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب امتداد</span> | <span class="example-en" dir="ltr" lang="en">I like extension</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين امتداد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the extension?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج امتداد الحين قدام التلفاز، عشان الضيوف يوصلون، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need an extension now in front of the TV, because guests are arriving, and I also took the white sock</span> |
 
 

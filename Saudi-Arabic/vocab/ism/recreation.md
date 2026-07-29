@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا استجمام</span> | <span class="example-en" dir="ltr" lang="en">This is recreation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب استجمام</span> | <span class="example-en" dir="ltr" lang="en">I like recreation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين استجمام؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the recreation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج استجمام الحين في الدرج، لأن الجو حار شوي، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a recreation now in the drawer, because the weather is a bit hot, and I also took the blue notebook</span> |
 
 

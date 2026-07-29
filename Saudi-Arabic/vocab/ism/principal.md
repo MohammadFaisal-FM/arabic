@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رئيسي</span> | <span class="example-en" dir="ltr" lang="en">This is principal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رئيسي</span> | <span class="example-en" dir="ltr" lang="en">I like principal</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رئيسي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the principal?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رئيسي الحين في المطبخ، قبل ما يجي السائق، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a principal now in the kitchen, before the driver arrives, and I also took the paper file</span> |
 
 

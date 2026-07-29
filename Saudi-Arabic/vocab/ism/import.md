@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يستورد</span> | <span class="example-en" dir="ltr" lang="en">This is import</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يستورد</span> | <span class="example-en" dir="ltr" lang="en">I like import</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يستورد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the import?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يستورد الحين في المطبخ، عشان المراجعة أسهل، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an import now in the kitchen, so revision is easier, and I also took the paper file</span> |
 
 

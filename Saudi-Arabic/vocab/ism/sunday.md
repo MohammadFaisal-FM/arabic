@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الأحد</span> | <span class="example-en" dir="ltr" lang="en">This is sunday</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الأحد</span> | <span class="example-en" dir="ltr" lang="en">I like sunday</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الأحد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sunday?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الأحد في الغرفة، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a sunday in the room, because the weather is a bit hot, and then I washed my hands</span> |
 
 

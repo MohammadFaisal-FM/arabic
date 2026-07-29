@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كيمياء</span> | <span class="example-en" dir="ltr" lang="en">This is chemistry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كيمياء</span> | <span class="example-en" dir="ltr" lang="en">I like chemistry</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كيمياء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the chemistry?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كيمياء الحين في المكتبة، لأن الزحمة قوية، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a chemistry now in the library, because traffic is heavy, and I also took the small spoon</span> |
 
 

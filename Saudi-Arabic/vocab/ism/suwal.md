@@ -14,10 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">عندي سؤال</span> | <span class="example-en" dir="ltr" lang="en">I have a question</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا سؤال</span> | <span class="example-en" dir="ltr" lang="en">This is a question</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سؤال</span> | <span class="example-en" dir="ltr" lang="en">I like question</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سؤال؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the question?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سؤال في المحطة، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a question at the station, because guests are arriving, and then the boy slept</span> |
 
 
 ### Links

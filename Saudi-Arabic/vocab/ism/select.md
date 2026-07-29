@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يختار</span> | <span class="example-en" dir="ltr" lang="en">This is select</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يختار</span> | <span class="example-en" dir="ltr" lang="en">I like select</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يختار؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the select?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يختار في الثلاجة مع القبعة الصيفية، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a select in the fridge with the summer hat, if you need it later, and then we prayed</span> |
 
 

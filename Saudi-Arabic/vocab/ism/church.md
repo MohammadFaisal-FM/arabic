@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا كنيسة</span> | <span class="example-en" dir="ltr" lang="en">This is church</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب كنيسة</span> | <span class="example-en" dir="ltr" lang="en">I like church</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين كنيسة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the church?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كنيسة الحين عند الاستقبال، قبل ما يجي السائق، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a church now at reception, before the driver arrives, and I also took the glass cup</span> |
 
 

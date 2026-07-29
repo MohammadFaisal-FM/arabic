@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مؤلف</span> | <span class="example-en" dir="ltr" lang="en">This is author</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مؤلف</span> | <span class="example-en" dir="ltr" lang="en">I like author</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مؤلف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the author?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مؤلف الحين جنب النافذة، لأن البطارية ضعيفة، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need an author now beside the window, because the battery is low, and I also took the sunglasses</span> |
 
 

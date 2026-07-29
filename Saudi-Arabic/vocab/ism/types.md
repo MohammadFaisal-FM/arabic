@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا أنواع</span> | <span class="example-en" dir="ltr" lang="en">This is types</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب أنواع</span> | <span class="example-en" dir="ltr" lang="en">I like types</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين أنواع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the types?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أنواع قدام التلفاز مع الجورب الأبيض، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a types in front of the TV with the white sock, but keep it near you, and then the boy slept</span> |
 
 

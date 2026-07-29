@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">في الشتاء يجب علينا إطعام الطيور.</span> | <span class="example-en" dir="ltr" lang="en">In winter we must feed the birds.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اطعام الحين في الدرج، لأن الإضاءة أحسن هناك، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a feeding now in the drawer, because the light is better there, and I also took the blue notebook</span> |
 
 

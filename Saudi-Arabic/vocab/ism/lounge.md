@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا صالة</span> | <span class="example-en" dir="ltr" lang="en">This is lounge</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب صالة</span> | <span class="example-en" dir="ltr" lang="en">I like lounge</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين صالة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the lounge?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت صالة قدام المصعد مع الكرتون الفاضي، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a lounge in front of the elevator with the empty carton, but keep it near you, and then the phone rang</span> |
 
 

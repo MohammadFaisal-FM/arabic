@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فخر</span> | <span class="example-en" dir="ltr" lang="en">This is pride</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فخر</span> | <span class="example-en" dir="ltr" lang="en">I like pride</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فخر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the pride?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فخر في الثلاجة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a pride in the fridge, because the battery is low, and then we locked the door</span> |
 
 

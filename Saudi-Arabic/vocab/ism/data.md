@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بيانات</span> | <span class="example-en" dir="ltr" lang="en">This is data</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بيانات</span> | <span class="example-en" dir="ltr" lang="en">I like data</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بيانات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the data?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بيانات على الشرفة مع البطاقة الصفراء، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a data on the balcony with the yellow card, before Maghrib prayer, and then I replied to the message</span> |
 
 

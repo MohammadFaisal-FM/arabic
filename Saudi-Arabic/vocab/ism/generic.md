@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نوعي</span> | <span class="example-en" dir="ltr" lang="en">This is generic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نوعي</span> | <span class="example-en" dir="ltr" lang="en">I like generic</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نوعي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the generic?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نوعي عند الاستقبال، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a generic at reception, because traffic is heavy, and then I closed the window</span> |
 
 

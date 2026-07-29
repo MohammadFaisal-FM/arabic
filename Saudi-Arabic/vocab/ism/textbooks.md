@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الكتب المدرسية</span> | <span class="example-en" dir="ltr" lang="en">This is textbooks</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الكتب المدرسية</span> | <span class="example-en" dir="ltr" lang="en">I like textbooks</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الكتب المدرسية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the textbooks?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الكتب المدرسية الحين قدام التلفاز، لأن الشغل خلص بدري، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a textbooks now in front of the TV, because work finished early, and I also took the white sock</span> |
 
 

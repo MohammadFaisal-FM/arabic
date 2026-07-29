@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وش تلبس؟</span> | <span class="example-en" dir="ltr" lang="en">What are you wearing?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وش تلبس؟، ولقيت الوسادة الناعمة في المحطة، إذا احتجته بعدين، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">What are you wearing?, and I found the soft pillow at the station, if you need it later, and then I turned off the light</span> |
 
 
 ---

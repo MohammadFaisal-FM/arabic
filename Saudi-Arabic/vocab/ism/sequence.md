@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تسلسل</span> | <span class="example-en" dir="ltr" lang="en">This is sequence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تسلسل</span> | <span class="example-en" dir="ltr" lang="en">I like sequence</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تسلسل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sequence?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تسلسل قدام المصعد مع الكرتون الفاضي، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a sequence in front of the elevator with the empty carton, because work finished early, and then the boy slept</span> |
 
 

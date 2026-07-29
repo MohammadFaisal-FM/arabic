@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مقاول</span> | <span class="example-en" dir="ltr" lang="en">This is contractor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مقاول</span> | <span class="example-en" dir="ltr" lang="en">I like contractor</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مقاول؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the contractor?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مقاول عند الاستقبال مع الكوب الزجاج، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a contractor at reception with the glass cup, before the driver arrives, and then I charged the device</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الهياكل</span> | <span class="example-en" dir="ltr" lang="en">This is structures</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الهياكل</span> | <span class="example-en" dir="ltr" lang="en">I like structures</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الهياكل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the structures?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الهياكل في الدرج، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a structures in the drawer, for studying tomorrow, and then I tidied the table</span> |
 
 

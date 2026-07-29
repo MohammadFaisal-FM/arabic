@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طلاء</span> | <span class="example-en" dir="ltr" lang="en">This is paint</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طلاء</span> | <span class="example-en" dir="ltr" lang="en">I like paint</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طلاء؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the paint?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت طلاء عند العيادة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a paint at the clinic, because the battery is low, and then we locked the door</span> |
 
 

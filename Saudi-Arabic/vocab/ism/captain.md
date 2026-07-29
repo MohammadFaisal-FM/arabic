@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قبطان</span> | <span class="example-en" dir="ltr" lang="en">This is captain</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قبطان</span> | <span class="example-en" dir="ltr" lang="en">I like captain</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قبطان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the captain?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قبطان الحين في المدرسة، عشان ما نتأخر، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a captain now at school, so we are not late, and I also took the sharp scissors</span> |
 
 

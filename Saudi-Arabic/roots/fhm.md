@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">فهمت؟</span> | <span class="example-en" dir="ltr" lang="en">Did you understand?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">فهمت؟، ولقيت المنديل النظيف على المكتب، قبل ما يجي السائق، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">Did you understand?, and I found the clean tissue on the desk, before the driver arrives, and then the phone rang</span> |
 
 
 ---

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مشغل</span> | <span class="example-en" dir="ltr" lang="en">This is operator</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مشغل</span> | <span class="example-en" dir="ltr" lang="en">I like operator</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مشغل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the operator?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مشغل تحت السرير، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an operator under the bed, before Maghrib prayer, and then we laughed a bit</span> |
 
 

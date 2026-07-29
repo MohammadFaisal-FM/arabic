@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العشرات</span> | <span class="example-en" dir="ltr" lang="en">This is scores</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العشرات</span> | <span class="example-en" dir="ltr" lang="en">I like scores</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العشرات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the scores?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت العشرات في الحديقة مع المنبه القديميم، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a scores in the park with the old alarm, because the battery is low, and then we prayed</span> |
 
 

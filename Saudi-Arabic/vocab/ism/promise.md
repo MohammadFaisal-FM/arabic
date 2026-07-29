@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يعد</span> | <span class="example-en" dir="ltr" lang="en">This is promise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يعد</span> | <span class="example-en" dir="ltr" lang="en">I like promise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يعد؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the promise?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يعد قدام الملعب، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a promise in front of the pitch, because the weather is a bit hot, and then I tidied the table</span> |
 
 

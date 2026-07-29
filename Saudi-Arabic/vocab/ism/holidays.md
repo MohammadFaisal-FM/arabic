@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا العطل</span> | <span class="example-en" dir="ltr" lang="en">This is holidays</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب العطل</span> | <span class="example-en" dir="ltr" lang="en">I like holidays</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين العطل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the holidays?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج العطل الحين في الحديقة، لأن البطارية ضعيفة، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a holidays now in the park, because the battery is low, and I also took the old alarm</span> |
 
 

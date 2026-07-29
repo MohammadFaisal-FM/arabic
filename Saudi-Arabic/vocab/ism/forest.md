@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا غابة</span> | <span class="example-en" dir="ltr" lang="en">This is forest</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب غابة</span> | <span class="example-en" dir="ltr" lang="en">I like forest</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين غابة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the forest?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج غابة الحين جنب المسجد، لأن الوقت ضيق، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a forest now next to the mosque, because time is tight, and I also took the pencil</span> |
 
 

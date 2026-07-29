@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جلسات</span> | <span class="example-en" dir="ltr" lang="en">This is sessions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جلسات</span> | <span class="example-en" dir="ltr" lang="en">I like sessions</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جلسات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sessions?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جلسات في الحقيبة مع الحذاء النظيف، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a sessions in the bag with the clean shoes, before the driver arrives, and then I closed the window</span> |
 
 

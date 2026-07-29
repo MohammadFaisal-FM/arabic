@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كم السعر؟</span> | <span class="example-en" dir="ltr" lang="en">How much is the price?</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا سعر</span> | <span class="example-en" dir="ltr" lang="en">This is a price</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سعر</span> | <span class="example-en" dir="ltr" lang="en">I like price</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سعر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the price?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سعر في المدرسة، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a price at school, before Maghrib prayer, and then we laughed a bit</span> |
 
 

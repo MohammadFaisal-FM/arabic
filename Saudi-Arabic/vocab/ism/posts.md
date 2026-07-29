@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دعامات</span> | <span class="example-en" dir="ltr" lang="en">This is posts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دعامات</span> | <span class="example-en" dir="ltr" lang="en">I like posts</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دعامات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the posts?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت دعامات جنب المسجد مع القلم الرصاص، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a posts next to the mosque with the pencil, so the photo comes out clearer, and then we prayed</span> |
 
 

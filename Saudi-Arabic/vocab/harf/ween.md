@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وين أنت؟</span> | <span class="example-en" dir="ltr" lang="en">Where are you?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الشاحن الطويل؟ دوّرت في البقالة، قبل صلاة المغرب</span> | <span class="example-en" dir="ltr" lang="en">Where is the long charger? I looked at the grocery, before Maghrib prayer</span> |
 

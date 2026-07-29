@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ما هو ارتفاع ذلك البرج؟</span> | <span class="example-en" dir="ltr" lang="en">How high is that tower?</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا ارتفاع</span> | <span class="example-en" dir="ltr" lang="en">This is a to rise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ارتفاع</span> | <span class="example-en" dir="ltr" lang="en">I like to rise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ارتفاع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the to rise?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ارتفاع الحين في الغرفة، لأن الإضاءة أحسن هناك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a to rise now in the room, because the light is better there, and I also took the spare key</span> |
 
 

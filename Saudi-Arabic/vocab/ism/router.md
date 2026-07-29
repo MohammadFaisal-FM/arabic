@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جهاز التوجيه</span> | <span class="example-en" dir="ltr" lang="en">This is router</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جهاز التوجيه</span> | <span class="example-en" dir="ltr" lang="en">I like router</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جهاز التوجيه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the router?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جهاز التوجيه الحين في المطبخ، عشان المراجعة أسهل، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a router now in the kitchen, so revision is easier, and I also took the paper file</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا وجه</span> | <span class="example-en" dir="ltr" lang="en">This is face</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب وجه</span> | <span class="example-en" dir="ltr" lang="en">I like face</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين وجه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the face?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت وجه جنب المسجد مع القلم الرصاص، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a face next to the mosque with the pencil, because the battery is low, and then we locked the door</span> |
 
 

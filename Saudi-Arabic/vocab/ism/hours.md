@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ساعات</span> | <span class="example-en" dir="ltr" lang="en">This is hours</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ساعات</span> | <span class="example-en" dir="ltr" lang="en">I like hours</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ساعات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the hours?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ساعات عند الاستقبال مع الكوب الزجاج، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a hours at reception with the glass cup, so revision is easier, and then I closed the window</span> |
 
 

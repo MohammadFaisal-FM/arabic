@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قصيدة</span> | <span class="example-en" dir="ltr" lang="en">This is poem</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قصيدة</span> | <span class="example-en" dir="ltr" lang="en">I like poem</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قصيدة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the poem?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قصيدة في الحقيبة مع الحذاء النظيف، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a poem in the bag with the clean shoes, before the driver arrives, and then I closed the window</span> |
 
 

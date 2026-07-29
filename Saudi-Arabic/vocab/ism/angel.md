@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ملاك</span> | <span class="example-en" dir="ltr" lang="en">This is angel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ملاك</span> | <span class="example-en" dir="ltr" lang="en">I like angel</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ملاك؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the angel?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ملاك عند الباب، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an angel at the door, because guests are arriving, and then the phone rang</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا نظام عذائي</span> | <span class="example-en" dir="ltr" lang="en">This is diet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب نظام عذائي</span> | <span class="example-en" dir="ltr" lang="en">I like diet</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين نظام عذائي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the diet?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نظام عذائي في الثلاجة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a diet in the fridge, because the battery is low, and then we locked the door</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا تشكيل</span> | <span class="example-en" dir="ltr" lang="en">This is formation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب تشكيل</span> | <span class="example-en" dir="ltr" lang="en">I like formation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين تشكيل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the formation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تشكيل قدام التلفاز، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a formation in front of the TV, because guests are arriving, and then the boy slept</span> |
 
 

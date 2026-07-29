@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يظهر</span> | <span class="example-en" dir="ltr" lang="en">This is shows</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يظهر</span> | <span class="example-en" dir="ltr" lang="en">I like shows</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يظهر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the shows?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يظهر الحين في المطبخ، عشان المراجعة أسهل، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a shows now in the kitchen, so revision is easier, and I also took the paper file</span> |
 
 

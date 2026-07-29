@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جايسون</span> | <span class="example-en" dir="ltr" lang="en">This is jason</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جايسون</span> | <span class="example-en" dir="ltr" lang="en">I like jason</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جايسون؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jason?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن جايسون شوي، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a jason a bit, because the light is better there, and then I tidied the table</span> |
 
 

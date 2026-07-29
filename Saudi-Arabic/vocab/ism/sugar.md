@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سكر</span> | <span class="example-en" dir="ltr" lang="en">This is sugar</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سكر</span> | <span class="example-en" dir="ltr" lang="en">I like sugar</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سكر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the sugar?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سكر جنب النافذة مع النظارة الشمسية، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a sugar beside the window with the sunglasses, because time is tight, and then we locked the door</span> |
 
 

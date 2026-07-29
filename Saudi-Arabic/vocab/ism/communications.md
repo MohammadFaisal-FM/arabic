@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا الاتصالات</span> | <span class="example-en" dir="ltr" lang="en">This is communications</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب الاتصالات</span> | <span class="example-en" dir="ltr" lang="en">I like communications</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين الاتصالات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the communications?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الاتصالات في الحقيبة، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a communications in the bag, because traffic is heavy, and then I wiped the floor</span> |
 
 

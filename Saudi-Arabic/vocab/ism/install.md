@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ثَبَّتَ</span> | <span class="example-en" dir="ltr" lang="en">This is install</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ثَبَّتَ</span> | <span class="example-en" dir="ltr" lang="en">I like install</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ثَبَّتَ؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the install?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ثَبَّتَ الحين في الصالون، عشان الضيوف يوصلون، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an install now in the living room, because guests are arriving, and I also took the clean tissue</span> |
 
 

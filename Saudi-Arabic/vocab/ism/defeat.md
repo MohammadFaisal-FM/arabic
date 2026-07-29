@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا هزيمة</span> | <span class="example-en" dir="ltr" lang="en">This is defeat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب هزيمة</span> | <span class="example-en" dir="ltr" lang="en">I like defeat</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين هزيمة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the defeat?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج هزيمة الحين في الغرفة، عشان الدراسة بكرة، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a defeat now in the room, for studying tomorrow, and I also took the spare key</span> |
 
 

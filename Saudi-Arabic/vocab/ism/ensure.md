@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يضمن</span> | <span class="example-en" dir="ltr" lang="en">This is ensure</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يضمن</span> | <span class="example-en" dir="ltr" lang="en">I like ensure</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يضمن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the ensure?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يضمن الحين عند الاستقبال، قبل ما يقفل المكان، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need an ensure now at reception, before the place closes, and I also took the glass cup</span> |
 
 

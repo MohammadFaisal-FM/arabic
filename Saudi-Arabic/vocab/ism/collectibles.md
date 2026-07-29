@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا المقتنيات</span> | <span class="example-en" dir="ltr" lang="en">This is collectibles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب المقتنيات</span> | <span class="example-en" dir="ltr" lang="en">I like collectibles</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين المقتنيات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the collectibles?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المقتنيات الحين جنب النافذة، عشان الصورة تطلع أوضح، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a collectibles now beside the window, so the photo comes out clearer, and I also took the sunglasses</span> |
 
 

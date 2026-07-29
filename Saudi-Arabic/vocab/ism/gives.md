@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يعطي</span> | <span class="example-en" dir="ltr" lang="en">This is gives</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يعطي</span> | <span class="example-en" dir="ltr" lang="en">I like gives</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يعطي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the gives?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يعطي على المكتب مع البطانية الخفيفة، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a gives on the desk with the light blanket, because the light is better there, and then I tidied the table</span> |
 
 

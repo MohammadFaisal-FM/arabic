@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">نصحها الطبيب بأخذ إجازة.</span> | <span class="example-en" dir="ltr" lang="en">The doctor advised her to take a vacation.</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا اجازه</span> | <span class="example-en" dir="ltr" lang="en">This is a vacation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب اجازه</span> | <span class="example-en" dir="ltr" lang="en">I like vacation</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين اجازه؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the vacation?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اجازه عند الصيدلية، لأن الزحمة قوية، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a vacation at the pharmacy, because traffic is heavy, and then I replied to the message</span> |
 
 

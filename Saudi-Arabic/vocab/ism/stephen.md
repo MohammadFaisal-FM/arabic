@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا ستيفن</span> | <span class="example-en" dir="ltr" lang="en">This is stephen</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب ستيفن</span> | <span class="example-en" dir="ltr" lang="en">I like stephen</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين ستيفن؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the stephen?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ستيفن في الدرج، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a stephen in the drawer, before the food gets cold, and then I washed my hands</span> |
 
 

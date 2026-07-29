@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا يحمل</span> | <span class="example-en" dir="ltr" lang="en">This is holds</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب يحمل</span> | <span class="example-en" dir="ltr" lang="en">I like holds</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين يحمل؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the holds?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يحمل الحين قدام الملعب، قبل ما يبرد الأكل، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a holds now in front of the pitch, before the food gets cold, and I also took the clear tape</span> |
 
 

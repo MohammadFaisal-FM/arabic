@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موضع</span> | <span class="example-en" dir="ltr" lang="en">This is position</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موضع</span> | <span class="example-en" dir="ltr" lang="en">I like position</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موضع؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the position?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت موضع في الدرج مع الدفتر الأزرق، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a position in the drawer with the blue notebook, before the food gets cold, and then I tidied the table</span> |
 
 

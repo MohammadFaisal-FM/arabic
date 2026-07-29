@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا رحلة بحرية</span> | <span class="example-en" dir="ltr" lang="en">This is cruise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب رحلة بحرية</span> | <span class="example-en" dir="ltr" lang="en">I like cruise</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين رحلة بحرية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cruise?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رحلة بحرية قدام التلفاز مع الجورب الأبيض، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a cruise in front of the TV with the white sock, because guests are arriving, and then the phone rang</span> |
 
 

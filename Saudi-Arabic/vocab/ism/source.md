@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا مصدر</span> | <span class="example-en" dir="ltr" lang="en">This is source</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب مصدر</span> | <span class="example-en" dir="ltr" lang="en">I like source</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين مصدر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the source?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مصدر تحت السرير، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a source under the bed, so we are not late, and then I turned off the light</span> |
 
 

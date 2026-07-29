@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا إطارات</span> | <span class="example-en" dir="ltr" lang="en">This is frames</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب إطارات</span> | <span class="example-en" dir="ltr" lang="en">I like frames</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين إطارات؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the frames?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إطارات عند الصيدلية مع الغطاء الشفاف، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a frames at the pharmacy with the clear cover, because the light is better there, and then I wrote a note</span> |
 
 

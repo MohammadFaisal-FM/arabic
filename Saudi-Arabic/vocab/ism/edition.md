@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا طبعة</span> | <span class="example-en" dir="ltr" lang="en">This is edition</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب طبعة</span> | <span class="example-en" dir="ltr" lang="en">I like edition</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين طبعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the edition?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج طبعة الحين في الدرج، لأن الجو حار شوي، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need an edition now in the drawer, because the weather is a bit hot, and I also took the blue notebook</span> |
 
 

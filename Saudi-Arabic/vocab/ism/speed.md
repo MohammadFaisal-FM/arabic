@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سرعة</span> | <span class="example-en" dir="ltr" lang="en">This is speed</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سرعة</span> | <span class="example-en" dir="ltr" lang="en">I like speed</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سرعة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the speed?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سرعة في الصالون، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a speed in the living room, because guests are arriving, and then I turned on the fan</span> |
 
 

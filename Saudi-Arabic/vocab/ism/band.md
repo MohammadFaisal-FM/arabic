@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فرقة</span> | <span class="example-en" dir="ltr" lang="en">This is band</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فرقة</span> | <span class="example-en" dir="ltr" lang="en">I like band</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فرقة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the band?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فرقة في الغرفة، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a band in the room, before the food gets cold, and then I tidied the table</span> |
 
 

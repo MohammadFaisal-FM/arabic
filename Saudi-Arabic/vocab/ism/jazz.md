@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا موسيقى الجاز</span> | <span class="example-en" dir="ltr" lang="en">This is jazz</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب موسيقى الجاز</span> | <span class="example-en" dir="ltr" lang="en">I like jazz</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين موسيقى الجاز؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the jazz?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج موسيقى الجاز الحين عند الاستقبال، لأن الزحمة قوية، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a jazz now at reception, because traffic is heavy, and I also took the glass cup</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بصيرة</span> | <span class="example-en" dir="ltr" lang="en">This is insight</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بصيرة</span> | <span class="example-en" dir="ltr" lang="en">I like insight</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بصيرة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the insight?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بصيرة الحين في الحقيبة، لأن الزحمة قوية، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an insight now in the bag, because traffic is heavy, and I also took the clean shoes</span> |
 
 

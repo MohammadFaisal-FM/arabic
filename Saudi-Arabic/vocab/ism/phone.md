@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا هاتف</span> | <span class="example-en" dir="ltr" lang="en">This is phone</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب هاتف</span> | <span class="example-en" dir="ltr" lang="en">I like phone</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين هاتف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the phone?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت هاتف في الثلاجة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a phone in the fridge, so the photo comes out clearer, and then we prayed</span> |
 
 

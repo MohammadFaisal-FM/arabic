@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا البرلمان</span> | <span class="example-en" dir="ltr" lang="en">This is parliament</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب البرلمان</span> | <span class="example-en" dir="ltr" lang="en">I like parliament</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين البرلمان؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the parliament?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت البرلمان على المكتب مع البطانية الخفيفة، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a parliament on the desk with the light blanket, for studying tomorrow, and then I washed my hands</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دورة</span> | <span class="example-en" dir="ltr" lang="en">This is course</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دورة</span> | <span class="example-en" dir="ltr" lang="en">I like course</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دورة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the course?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج دورة الحين قدام التلفاز، عشان الضيوف يوصلون، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a course now in front of the TV, because guests are arriving, and I also took the white sock</span> |
 
 

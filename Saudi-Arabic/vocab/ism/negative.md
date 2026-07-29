@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا سلبي</span> | <span class="example-en" dir="ltr" lang="en">This is negative</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب سلبي</span> | <span class="example-en" dir="ltr" lang="en">I like negative</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين سلبي؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the negative?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سلبي الحين في الصالون، عشان الضيوف يوصلون، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a negative now in the living room, because guests are arriving, and I also took the clean tissue</span> |
 
 

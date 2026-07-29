@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا قف</span> | <span class="example-en" dir="ltr" lang="en">This is stop</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب قف</span> | <span class="example-en" dir="ltr" lang="en">I like stop</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين قف؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the stop?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قف الحين على الشرفة، قبل صلاة المغرب، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a stop now on the balcony, before Maghrib prayer, and I also took the yellow card</span> |
 
 

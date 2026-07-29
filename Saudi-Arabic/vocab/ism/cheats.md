@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا غش</span> | <span class="example-en" dir="ltr" lang="en">This is cheats</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب غش</span> | <span class="example-en" dir="ltr" lang="en">I like cheats</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين غش؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the cheats?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج غش الحين في الدرج، لأن الجو حار شوي، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a cheats now in the drawer, because the weather is a bit hot, and I also took the blue notebook</span> |
 
 

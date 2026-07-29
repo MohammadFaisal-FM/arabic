@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا التغطية</span> | <span class="example-en" dir="ltr" lang="en">This is coverage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب التغطية</span> | <span class="example-en" dir="ltr" lang="en">I like coverage</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين التغطية؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the coverage?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التغطية في الثلاجة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a coverage in the fridge, so the photo comes out clearer, and then we prayed</span> |
 
 

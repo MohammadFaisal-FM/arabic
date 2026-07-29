@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا دقيق</span> | <span class="example-en" dir="ltr" lang="en">This is accurate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب دقيق</span> | <span class="example-en" dir="ltr" lang="en">I like accurate</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين دقيق؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the accurate?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دقيق تحت السرير، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put an accurate under the bed, because the boy is sleepy, and then I replied to the message</span> |
 
 

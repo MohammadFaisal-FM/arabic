@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا جلسة</span> | <span class="example-en" dir="ltr" lang="en">This is setting</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب جلسة</span> | <span class="example-en" dir="ltr" lang="en">I like setting</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين جلسة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the setting?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جلسة قدام الملعب مع اللاصق الشفاف، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a setting in front of the pitch with the clear tape, before the food gets cold, and then I washed my hands</span> |
 
 

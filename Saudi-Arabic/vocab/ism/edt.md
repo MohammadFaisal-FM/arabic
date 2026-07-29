@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بتوقيت شرق الولايات المتحدة</span> | <span class="example-en" dir="ltr" lang="en">This is edt</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بتوقيت شرق الولايات المتحدة</span> | <span class="example-en" dir="ltr" lang="en">I like edt</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بتوقيت شرق الولايات المتحدة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the edt?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بتوقيت شرق الولايات المتحدة في المكتبة، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put an edt in the library, before the place closes, and then I closed the window</span> |
 
 

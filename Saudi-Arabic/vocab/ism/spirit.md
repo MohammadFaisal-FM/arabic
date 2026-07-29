@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا روح</span> | <span class="example-en" dir="ltr" lang="en">This is spirit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب روح</span> | <span class="example-en" dir="ltr" lang="en">I like spirit</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين روح؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the spirit?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج روح الحين في السيارة، عشان ما يضيع، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a spirit now in the car, so it doesn’t get lost, and I also took the soft pillow</span> |
 
 

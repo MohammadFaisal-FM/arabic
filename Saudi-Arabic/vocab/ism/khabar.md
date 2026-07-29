@@ -14,9 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وش الخبر؟</span> | <span class="example-en" dir="ltr" lang="en">What's up?</span> |
-| <span class="example-ar" dir="rtl" lang="ar">هذا خبر</span> | <span class="example-en" dir="ltr" lang="en">This is a news</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب خبر</span> | <span class="example-en" dir="ltr" lang="en">I like news</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين خبر؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the news?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خبر عند الاستقبال مع الكوب الزجاج، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a news at reception with the glass cup, so revision is easier, and then I closed the window</span> |
 
 

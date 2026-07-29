@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا فلسفة</span> | <span class="example-en" dir="ltr" lang="en">This is philosophy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب فلسفة</span> | <span class="example-en" dir="ltr" lang="en">I like philosophy</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين فلسفة؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the philosophy?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فلسفة على المكتب مع البطانية الخفيفة، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a philosophy on the desk with the light blanket, before the food gets cold, and then I wrote a note</span> |
 
 

@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا هجوم</span> | <span class="example-en" dir="ltr" lang="en">This is attack</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب هجوم</span> | <span class="example-en" dir="ltr" lang="en">I like attack</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين هجوم؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the attack?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت هجوم عند الباب، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an attack at the door, because guests are arriving, and then the phone rang</span> |
 
 

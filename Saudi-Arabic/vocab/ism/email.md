@@ -14,8 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هذا بريد إلكتروني</span> | <span class="example-en" dir="ltr" lang="en">This is email</span> |
-| <span class="example-ar" dir="rtl" lang="ar">أحب بريد إلكتروني</span> | <span class="example-en" dir="ltr" lang="en">I like email</span> |
-| <span class="example-ar" dir="rtl" lang="ar">وين بريد إلكتروني؟</span> | <span class="example-en" dir="ltr" lang="en">Where is the email?</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بريد إلكتروني تحت السرير، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put an email under the bed, because the boy is sleepy, and then I replied to the message</span> |
 
 

@@ -9,8 +9,9 @@ Songs we share or discover on the Arabic learning journey.
 | 1 | أحلى قدر (A7la Qadar) — sample | via A7la Qadar channel | Levantine / romantic pop | [01-ahla-qadar.md](01-ahla-qadar.md) | 2026-07-27 |
 | 2 | لو تقدر تنساني | Unknown | Gulf / Najdi · romantic | [02-law-teqdar-tansani.md](02-law-teqdar-tansani.md) | 2026-07-27 |
 | 3 | بس وينه (Bas Wenah) | زايد بن سابر · Zayed Bin Saber | Khaliji / Saudi · romantic | [03-bas-wenah.md](03-bas-wenah.md) | 2026-07-27 |
+| 4 | على حسب وداد قلبي (Ala Hesb Wedad) | عبد الحليم حافظ · Abdel Halim Hafez | Egyptian · classic / shaabi | [04-ala-hesb-wedad.md](04-ala-hesb-wedad.md) | 2026-07-29 |
 
-**Total songs:** 3
+**Total songs:** 4
 
 ---
 

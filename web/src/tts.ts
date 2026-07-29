@@ -1,16 +1,20 @@
 /**
- * Free in-browser Arabic TTS via Speech Synthesis.
+ * Arabic TTS with a never-silent cascade (best → fallback):
+ *  1) Saudi / Najdi local voice (Naayf)
+ *  2) Any other Arabic local voice
+ *  3) Free online Arabic
+ *  4) Any local voice at all (accent may be wrong — still plays)
  *
- * True Saudi sound needs a Saudi system voice (free to install), e.g. Windows
- * “Microsoft Naayf — Arabic (Saudi Arabia)”. Without that, browsers often fall
- * back to Egyptian/MSA voices (Hoda, Google ar) that sound Fuṣḥā.
+ * Toasts say what is playing + optional step-by-step upgrade tips.
  */
 
 const VOICE_PREF_KEY = 'arabic-tts-voice-uri';
-const HINT_KEY = 'arabic-tts-saudi-hint-seen';
+const HINT_KEY = 'arabic-tts-quality-hint';
 
 let cachedVoices: SpeechSynthesisVoice[] | null = null;
 let voicesReady: Promise<SpeechSynthesisVoice[]> | null = null;
+
+type PlayTier = 'saudi' | 'arabic' | 'online' | 'any';
 
 function ensureVoices(): Promise<SpeechSynthesisVoice[]> {
   if (voicesReady) return voicesReady;
@@ -56,20 +60,20 @@ function voiceMeta(v: SpeechSynthesisVoice) {
     lang.startsWith('ar-eg') || name.includes('hoda') || name.includes('egypt');
   const isNatural =
     name.includes('natural') || name.includes('online') || name.includes('neural');
-  return { lang, name, isSaudi, isGulf, isEgyptian, isNatural };
+  const isArabic = lang.startsWith('ar') || name.includes('arab');
+  return { lang, name, isSaudi, isGulf, isEgyptian, isNatural, isArabic };
 }
 
-/** Lower = better for our Saudi/Najdi learning goal. */
+/** Lower = better for Saudi/Najdi learning. */
 function voiceRank(v: SpeechSynthesisVoice): number {
   const m = voiceMeta(v);
-  if (!m.lang.startsWith('ar') && !m.name.includes('arab')) return 999;
+  if (!m.isArabic) return 999;
   if (m.isSaudi && m.isNatural) return 0;
   if (m.isSaudi) return 1;
   if (m.isGulf && m.isNatural) return 2;
   if (m.isGulf) return 3;
-  if (m.isEgyptian) return 80; // Fuṣḥā/Egyptian default — last resort
-  if (m.lang.startsWith('ar')) return 40;
-  return 999;
+  if (m.isEgyptian) return 80;
+  return 40;
 }
 
 export function ttsSupported(): boolean {
@@ -79,6 +83,10 @@ export function ttsSupported(): boolean {
 export async function listArabicVoices(): Promise<SpeechSynthesisVoice[]> {
   const voices = await ensureVoices();
   return voices.filter((v) => voiceRank(v) < 900).sort((a, b) => voiceRank(a) - voiceRank(b));
+}
+
+async function listAllVoices(): Promise<SpeechSynthesisVoice[]> {
+  return ensureVoices();
 }
 
 function voiceUri(v: SpeechSynthesisVoice): string {
@@ -107,52 +115,113 @@ export async function hasSaudiVoice(): Promise<boolean> {
   return arabic.some((v) => voiceMeta(v).isSaudi);
 }
 
-function showToast(msg: string) {
+const INSTALL_SAUDI_STEPS =
+  'Want Najdi/Saudi? 1) Windows Settings → Time & language → Language & region → Add Arabic (Saudi Arabia). 2) Speech → Add voices → Microsoft Naayf. 3) Open this app in Edge and refresh.';
+
+function showToast(msg: string, ms = 7000) {
   const toast = document.getElementById('toast');
   if (!toast) return;
   toast.textContent = msg;
   toast.classList.remove('hidden');
-  window.setTimeout(() => toast.classList.add('hidden'), 5200);
+  toast.classList.add('toast-long');
+  window.setTimeout(() => {
+    toast.classList.add('hidden');
+    toast.classList.remove('toast-long');
+  }, ms);
 }
 
-async function maybeHintMissingSaudi(voice: SpeechSynthesisVoice | null) {
+function announcePlaying(tier: PlayTier, voiceName?: string) {
   try {
-    if (localStorage.getItem(HINT_KEY) === '1') return;
+    const key = `${HINT_KEY}:${tier}`;
+    const tipSeen = sessionStorage.getItem(key) === '1';
+    sessionStorage.setItem(key, '1');
+
+    if (tier === 'saudi') {
+      // Best path — quiet after first confirmation this session
+      if (!tipSeen) {
+        showToast(`Playing Saudi voice${voiceName ? ` (${voiceName})` : ''}.`, 3200);
+      }
+      return;
+    }
+    if (tier === 'arabic') {
+      showToast(
+        tipSeen
+          ? `Playing Arabic voice${voiceName ? ` (${voiceName})` : ''} (not Najdi).`
+          : `Playing Arabic voice${voiceName ? ` (${voiceName})` : ''} — not Najdi yet. ${INSTALL_SAUDI_STEPS}`,
+        tipSeen ? 4000 : 10000
+      );
+      return;
+    }
+    if (tier === 'online') {
+      showToast(
+        tipSeen
+          ? 'Playing free online Arabic.'
+          : `Playing free online Arabic (needs internet). ${INSTALL_SAUDI_STEPS}`,
+        tipSeen ? 4000 : 10000
+      );
+      return;
+    }
+    showToast(
+      tipSeen
+        ? 'Playing with a non-Arabic system voice so something still plays.'
+        : `Playing with a non-Arabic system voice so you still hear something. ${INSTALL_SAUDI_STEPS}`,
+      tipSeen ? 4500 : 10000
+    );
   } catch {
-    return;
+    showToast('Playing audio…');
   }
-  const saudi = voice && voiceMeta(voice).isSaudi;
-  if (saudi) return;
-  try {
-    localStorage.setItem(HINT_KEY, '1');
-  } catch {
-    /* ignore */
-  }
-  showToast(
-    'No Saudi voice found — install free “Arabic (Saudi Arabia)” speech (Naayf) in Windows Settings, then refresh. Edge works best.'
-  );
 }
 
 let currentBtn: HTMLButtonElement | null = null;
+let onlineAudio: HTMLAudioElement | null = null;
+let onlineAbort = false;
+let speakGen = 0;
 
 function setPlaying(btn: HTMLButtonElement | null, playing: boolean) {
   if (currentBtn && currentBtn !== btn) {
     currentBtn.classList.remove('is-playing');
     currentBtn.setAttribute('aria-pressed', 'false');
-    currentBtn.title = 'Play Arabic (Saudi voice if installed)';
+    currentBtn.textContent = '▶';
+    currentBtn.title = 'Play Arabic audio';
   }
   currentBtn = playing ? btn : null;
   if (btn) {
     btn.classList.toggle('is-playing', playing);
     btn.setAttribute('aria-pressed', playing ? 'true' : 'false');
-    btn.title = playing ? 'Stop' : 'Play Arabic (Saudi voice if installed)';
+    btn.textContent = playing ? '■' : '▶';
+    btn.title = playing ? 'Stop' : 'Play Arabic audio';
   }
 }
 
+function stopOnlineAudio() {
+  onlineAbort = true;
+  if (onlineAudio) {
+    try {
+      onlineAudio.pause();
+      onlineAudio.removeAttribute('src');
+      onlineAudio.load();
+    } catch {
+      /* ignore */
+    }
+    onlineAudio = null;
+  }
+}
+
+/** Cancel any in-flight utterance / online clip. */
 export function stopArabicSpeech() {
-  if (typeof speechSynthesis === 'undefined') return;
-  speechSynthesis.cancel();
+  speakGen += 1;
+  stopOnlineAudio();
+  try {
+    if (typeof speechSynthesis !== 'undefined') speechSynthesis.cancel();
+  } catch {
+    /* ignore */
+  }
   setPlaying(currentBtn, false);
+  document.querySelectorAll('.tts-btn.is-playing').forEach((b) => {
+    b.classList.remove('is-playing');
+    b.setAttribute('aria-pressed', 'false');
+    b.textContent = '▶';
+  });
 }
 
 /**
@@ -161,9 +230,6 @@ export function stopArabicSpeech() {
  */
 function najdiSpeakHints(text: string): string {
   let t = text;
-  // Common MSA → everyday Gulf/Najdi orthography hints for TTS
-  t = t.replace(/\bإلى\b/g, 'إلى');
-  t = t.replace(/\bهذا\b/g, 'هذا');
   t = t.replace(/\bهذه\b/g, 'هذي');
   t = t.replace(/\bالذي\b/g, 'اللي');
   t = t.replace(/\bالتي\b/g, 'اللي');
@@ -183,8 +249,130 @@ function najdiSpeakHints(text: string): string {
   return t.replace(/\s+/g, ' ').trim();
 }
 
+/** Split long lines so free online TTS (short URL limit) can play them. */
+function chunkForOnlineTts(text: string, max = 160): string[] {
+  const parts = text
+    .split(/(?<=[.!?؟،,؛\n])\s+/)
+    .map((p) => p.trim())
+    .filter(Boolean);
+  const out: string[] = [];
+  let buf = '';
+  for (const p of parts.length ? parts : [text]) {
+    if (!buf) {
+      buf = p;
+    } else if ((buf + ' ' + p).length <= max) {
+      buf = `${buf} ${p}`;
+    } else {
+      out.push(buf);
+      buf = p;
+    }
+    while (buf.length > max) {
+      out.push(buf.slice(0, max));
+      buf = buf.slice(max);
+    }
+  }
+  if (buf) out.push(buf);
+  return out;
+}
+
+function playOnlineChunk(chunk: string): Promise<void> {
+  return new Promise((resolve, reject) => {
+    const url =
+      'https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=ar&q=' +
+      encodeURIComponent(chunk);
+    const audio = new Audio(url);
+    onlineAudio = audio;
+    audio.onended = () => {
+      if (onlineAudio === audio) onlineAudio = null;
+      resolve();
+    };
+    audio.onerror = () => {
+      if (onlineAudio === audio) onlineAudio = null;
+      reject(new Error('online-tts-failed'));
+    };
+    void audio.play().catch(reject);
+  });
+}
+
+/** Speak with speechSynthesis; resolves true if audio actually started. */
+function speakLocal(
+  text: string,
+  voice: SpeechSynthesisVoice | null,
+  lang: string
+): Promise<boolean> {
+  return new Promise((resolve) => {
+    if (typeof speechSynthesis === 'undefined') {
+      resolve(false);
+      return;
+    }
+    try {
+      speechSynthesis.cancel();
+      speechSynthesis.resume();
+    } catch {
+      /* ignore */
+    }
+
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = lang;
+    if (voice) u.voice = voice;
+    u.rate = 0.9;
+    u.pitch = 1;
+    u.volume = 1;
+
+    let settled = false;
+    let started = false;
+    const done = (ok: boolean) => {
+      if (settled) return;
+      settled = true;
+      resolve(ok);
+    };
+
+    u.onstart = () => {
+      started = true;
+    };
+    u.onend = () => done(started);
+    u.onerror = () => done(false);
+
+    window.setTimeout(() => {
+      try {
+        speechSynthesis.resume();
+        speechSynthesis.speak(u);
+      } catch {
+        done(false);
+        return;
+      }
+      // If nothing starts, treat as failure so cascade continues
+      window.setTimeout(() => {
+        if (!started) {
+          try {
+            speechSynthesis.cancel();
+          } catch {
+            /* ignore */
+          }
+          done(false);
+        }
+      }, 1400);
+    }, 40);
+  });
+}
+
+async function speakViaOnline(text: string, gen: number): Promise<boolean> {
+  onlineAbort = false;
+  try {
+    for (const chunk of chunkForOnlineTts(text)) {
+      if (onlineAbort || gen !== speakGen) return false;
+      await playOnlineChunk(chunk);
+    }
+    return !onlineAbort && gen === speakGen;
+  } catch {
+    return false;
+  }
+}
+
+/**
+ * Never-silent cascade. Always tries until something plays.
+ */
 export async function speakArabic(text: string, btn?: HTMLButtonElement | null): Promise<void> {
-  if (!ttsSupported()) return;
   const clean = najdiSpeakHints(text);
   if (!clean) return;
 
@@ -193,23 +381,81 @@ export async function speakArabic(text: string, btn?: HTMLButtonElement | null):
     return;
   }
 
-  stopArabicSpeech();
-  const voice = await pickArabicVoice();
-  await maybeHintMissingSaudi(voice);
-
-  const u = new SpeechSynthesisUtterance(clean);
-  // Always request Saudi locale — helps when OS has ar-SA pack
-  u.lang = 'ar-SA';
-  if (voice) {
-    u.voice = voice;
-    if (voice.lang) u.lang = voice.lang.startsWith('ar') ? voice.lang : 'ar-SA';
-  }
-  u.rate = 0.9;
-  u.pitch = 1;
-  u.onend = () => setPlaying(btn ?? null, false);
-  u.onerror = () => setPlaying(btn ?? null, false);
+  const gen = ++speakGen;
   if (btn) setPlaying(btn, true);
-  speechSynthesis.speak(u);
+
+  const finish = () => {
+    if (gen === speakGen) setPlaying(btn ?? null, false);
+  };
+
+  try {
+    const arabic = ttsSupported() ? await listArabicVoices() : [];
+    const saudi = arabic.filter((v) => voiceMeta(v).isSaudi);
+    const otherAr = arabic.filter((v) => !voiceMeta(v).isSaudi);
+
+    // Prefer user-picked Arabic voice when present
+    let preferred: SpeechSynthesisVoice | null = null;
+    try {
+      const pref = localStorage.getItem(VOICE_PREF_KEY);
+      if (pref) preferred = arabic.find((v) => voiceUri(v) === pref) ?? null;
+    } catch {
+      /* ignore */
+    }
+
+    const stillActive = () => gen === speakGen;
+
+    // 1) Saudi / Najdi
+    const saudiVoice = preferred && voiceMeta(preferred).isSaudi ? preferred : saudi[0] ?? null;
+    if (saudiVoice && stillActive()) {
+      announcePlaying('saudi', saudiVoice.name);
+      const ok = await speakLocal(clean, saudiVoice, saudiVoice.lang || 'ar-SA');
+      if (!stillActive()) return;
+      if (ok) return;
+    }
+
+    // 2) Generic Arabic (Egyptian / MSA / Gulf other)
+    const arabicVoice =
+      preferred && !voiceMeta(preferred).isSaudi
+        ? preferred
+        : otherAr[0] ?? null;
+    if (arabicVoice && stillActive()) {
+      announcePlaying('arabic', arabicVoice.name);
+      const ok = await speakLocal(clean, arabicVoice, arabicVoice.lang || 'ar');
+      if (!stillActive()) return;
+      if (ok) return;
+    }
+
+    // 3) Free online Arabic
+    if (stillActive()) {
+      announcePlaying('online');
+      const ok = await speakViaOnline(clean, gen);
+      if (!stillActive()) return;
+      if (ok) return;
+    }
+
+    // 4) Any local voice at all — still play something
+    if (ttsSupported() && stillActive()) {
+      const all = await listAllVoices();
+      const anyVoice = all[0] ?? null;
+      announcePlaying('any', anyVoice?.name);
+      const ok = await speakLocal(clean, anyVoice, 'ar-SA');
+      if (!stillActive()) return;
+      if (ok) return;
+    }
+
+    // Absolute last resort: online again, then clear install help
+    if (stillActive()) {
+      const retry = await speakViaOnline(clean, gen);
+      if (!stillActive()) return;
+      if (retry) return;
+      showToast(
+        `Could not start audio on this device. ${INSTALL_SAUDI_STEPS} Or open the app on your phone.`,
+        12000
+      );
+    }
+  } finally {
+    finish();
+  }
 }
 
 function voiceLabel(v: SpeechSynthesisVoice): string {
@@ -232,7 +478,7 @@ export async function mountTtsVoicePicker(host: HTMLElement) {
   label.className = 'tts-voice-label';
   label.innerHTML = saudi
     ? 'Voice <span class="tts-voice-ok">Saudi available</span>'
-    : 'Voice <span class="tts-voice-warn">install Saudi (Naayf) for dialect</span>';
+    : 'Voice <span class="tts-voice-warn">▶ always plays — add Naayf for Najdi</span>';
 
   const select = document.createElement('select');
   select.className = 'tts-voice-select';
@@ -240,7 +486,7 @@ export async function mountTtsVoicePicker(host: HTMLElement) {
 
   if (voices.length === 0) {
     const opt = document.createElement('option');
-    opt.textContent = 'No Arabic voices on this device';
+    opt.textContent = 'Auto: online Arabic → any voice';
     select.appendChild(opt);
     select.disabled = true;
   } else {
@@ -258,7 +504,7 @@ export async function mountTtsVoicePicker(host: HTMLElement) {
       } catch {
         /* ignore */
       }
-      showToast('Voice saved — tap ▶ to hear it');
+      showToast('Voice saved — tap ▶ to hear it', 3500);
     });
   }
 
@@ -269,8 +515,6 @@ export async function mountTtsVoicePicker(host: HTMLElement) {
 
 /** Add ▶ buttons next to Arabic example spans / lyric lines. */
 export function wireArabicAudio(container: HTMLElement) {
-  if (!ttsSupported()) return;
-
   const targets = container.querySelectorAll<HTMLElement>(
     '.example-ar, .lyrics-ar, td .example-ar'
   );
@@ -289,7 +533,8 @@ export function wireArabicAudio(container: HTMLElement) {
     btn.className = 'tts-btn';
     btn.setAttribute('aria-label', 'Play Arabic audio');
     btn.setAttribute('aria-pressed', 'false');
-    btn.title = 'Play Arabic (uses Saudi voice if installed on your device)';
+    btn.title =
+      'Play Arabic — uses Saudi if installed, else Arabic, else free online, else any voice';
     btn.textContent = '▶';
 
     btn.addEventListener('click', (ev) => {

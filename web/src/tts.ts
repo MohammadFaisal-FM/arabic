@@ -11,25 +11,60 @@ const VOICE_PREF_KEY = 'arabic-tts-voice-uri';
 
 let cachedVoices: SpeechSynthesisVoice[] | null = null;
 let voicesReady: Promise<SpeechSynthesisVoice[]> | null = null;
+let voicesListenerAttached = false;
+
+function refreshVoiceCache(): SpeechSynthesisVoice[] {
+  if (typeof speechSynthesis === 'undefined') {
+    cachedVoices = [];
+    return cachedVoices;
+  }
+  cachedVoices = speechSynthesis.getVoices();
+  return cachedVoices;
+}
+
+/** Remount any open voice pickers when the browser discovers more OS voices (e.g. Hoda). */
+function remountOpenVoicePickers() {
+  document.querySelectorAll('.tts-voice-bar').forEach((bar) => {
+    const host = bar.parentElement;
+    if (!host) return;
+    bar.remove();
+    void mountTtsVoicePicker(host as HTMLElement);
+  });
+}
 
 function ensureVoices(): Promise<SpeechSynthesisVoice[]> {
+  if (typeof speechSynthesis === 'undefined') {
+    return Promise.resolve([]);
+  }
+
+  // Keep listening — Chrome often loads voices late / after a pack install
+  if (!voicesListenerAttached) {
+    voicesListenerAttached = true;
+    speechSynthesis.addEventListener('voiceschanged', () => {
+      const before = cachedVoices?.length ?? 0;
+      refreshVoiceCache();
+      const after = cachedVoices?.length ?? 0;
+      if (after !== before) remountOpenVoicePickers();
+    });
+  }
+
+  // Prefer a fresh snapshot whenever voices are already present
+  const now = speechSynthesis.getVoices();
+  if (now.length > 0) {
+    cachedVoices = now;
+    if (!voicesReady) voicesReady = Promise.resolve(now);
+    return Promise.resolve([...now]);
+  }
+
   if (voicesReady) return voicesReady;
+
   voicesReady = new Promise((resolve) => {
-    if (typeof speechSynthesis === 'undefined') {
-      resolve([]);
-      return;
-    }
     const finish = () => {
-      cachedVoices = speechSynthesis.getVoices();
-      resolve(cachedVoices);
+      const v = refreshVoiceCache();
+      resolve(v);
     };
-    const voices = speechSynthesis.getVoices();
-    if (voices.length > 0) {
-      finish();
-      return;
-    }
     speechSynthesis.addEventListener('voiceschanged', finish, { once: true });
-    setTimeout(finish, 900);
+    setTimeout(finish, 1500);
   });
   return voicesReady;
 }

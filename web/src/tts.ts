@@ -1,8 +1,10 @@
 /**
  * Device TTS for Arabic learning.
- * Dropdown lists every voice on this device (Arabic / Non-Arabic).
- * Default = best available system voice (prefer Arabic).
- * If the device has no voices at all → "No voice available".
+ * Dropdown:
+ *  - Arabic Voices → all Arabic voices on this device
+ *  - Non-Arabic Voice Default → one best non-Arabic (prefer English; used with romanization)
+ * Default = best Arabic if present, else that single non-Arabic default.
+ * If the device has no voices → "No voice available".
  */
 
 const VOICE_PREF_KEY = 'arabic-tts-voice-uri';
@@ -105,15 +107,48 @@ function findVoiceByUri(
   return voices.find((v) => voiceUri(v) === uri) ?? null;
 }
 
-/** Default: best system voice (Arabic preferred via voiceRank). */
+/** Prefer English, then any other non-Arabic voice (exactly one “default”). */
+function pickBestNonArabicVoice(
+  voices: SpeechSynthesisVoice[]
+): SpeechSynthesisVoice | null {
+  const other = voices.filter((v) => !voiceMeta(v).isArabic);
+  if (!other.length) return null;
+
+  const score = (v: SpeechSynthesisVoice): number => {
+    const lang = (v.lang || '').toLowerCase();
+    const name = (v.name || '').toLowerCase();
+    if (lang.startsWith('en-us') || name.includes('zira') || name.includes('david')) return 0;
+    if (lang.startsWith('en-gb') || name.includes('hazel') || name.includes('george')) return 1;
+    if (lang.startsWith('en')) return 2;
+    return 50;
+  };
+
+  return [...other].sort((a, b) => {
+    const d = score(a) - score(b);
+    if (d !== 0) return d;
+    return (a.name || '').localeCompare(b.name || '');
+  })[0];
+}
+
+/** Voices shown in the dropdown: all Arabic + one non-Arabic default. */
+function selectableVoices(voices: SpeechSynthesisVoice[]): SpeechSynthesisVoice[] {
+  const arabic = voices.filter((v) => voiceMeta(v).isArabic);
+  const nonAr = pickBestNonArabicVoice(voices);
+  return nonAr ? [...arabic, nonAr] : [...arabic];
+}
+
+/** Default: best Arabic if any, else the single non-Arabic default. */
 function defaultVoice(voices: SpeechSynthesisVoice[]): SpeechSynthesisVoice | null {
-  return voices[0] ?? null;
+  const arabic = voices.filter((v) => voiceMeta(v).isArabic);
+  if (arabic.length) return arabic[0];
+  return pickBestNonArabicVoice(voices);
 }
 
 function resolveVoice(voices: SpeechSynthesisVoice[]): SpeechSynthesisVoice | null {
+  const options = selectableVoices(voices);
   const pref = getVoicePref();
   if (pref) {
-    const found = findVoiceByUri(voices, pref);
+    const found = findVoiceByUri(options, pref);
     if (found) return found;
   }
   return defaultVoice(voices);
@@ -399,7 +434,7 @@ export async function speakArabic(text: string, btn?: HTMLButtonElement | null):
   }
 }
 
-/** Dropdown: Arabic Voices / Non-Arabic Voices only. Default = best available. */
+/** Dropdown: all Arabic voices + one Non-Arabic Voice Default (prefer English). */
 export async function mountTtsVoicePicker(host: HTMLElement) {
   if (!ttsSupported()) return;
 
@@ -407,7 +442,8 @@ export async function mountTtsVoicePicker(host: HTMLElement) {
 
   const all = await listAllVoices();
   const arabic = all.filter((v) => voiceMeta(v).isArabic);
-  const other = all.filter((v) => !voiceMeta(v).isArabic);
+  const nonArDefault = pickBestNonArabicVoice(all);
+  const options = selectableVoices(all);
 
   const bar = document.createElement('div');
   bar.className = 'tts-voice-bar';
@@ -427,7 +463,7 @@ export async function mountTtsVoicePicker(host: HTMLElement) {
     (group ?? select).appendChild(opt);
   };
 
-  if (!all.length) {
+  if (!options.length) {
     select.disabled = true;
     addOpt('', 'No voice available');
   } else {
@@ -438,17 +474,16 @@ export async function mountTtsVoicePicker(host: HTMLElement) {
       select.appendChild(g);
     }
 
-    if (other.length) {
+    if (nonArDefault) {
       const g = document.createElement('optgroup');
-      g.label = 'Non-Arabic Voices';
-      for (const v of other) addOpt(voiceUri(v), voiceLabel(v), g);
+      g.label = 'Non-Arabic Voice Default';
+      addOpt(voiceUri(nonArDefault), voiceLabel(nonArDefault), g);
       select.appendChild(g);
     }
 
     const resolved = resolveVoice(all);
-    // Drop stale Auto/Romanized prefs
     const pref = getVoicePref();
-    if (pref && findVoiceByUri(all, pref)) {
+    if (pref && findVoiceByUri(options, pref)) {
       select.value = pref;
     } else if (resolved) {
       select.value = voiceUri(resolved);

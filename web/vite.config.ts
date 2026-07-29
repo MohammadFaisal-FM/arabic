@@ -1,8 +1,11 @@
 import { defineConfig } from 'vite';
 import { VitePWA } from 'vite-plugin-pwa';
 
+/** GitHub Pages serves the app under /arabic/ — PWA start_url must match or install opens 404. */
+const base = process.env.GITHUB_PAGES === 'true' ? '/arabic/' : '/';
+
 export default defineConfig({
-  base: process.env.GITHUB_PAGES === 'true' ? '/arabic/' : '/',
+  base,
   plugins: [
     VitePWA({
       registerType: 'autoUpdate',
@@ -15,7 +18,10 @@ export default defineConfig({
         background_color: '#05060a',
         display: 'standalone',
         orientation: 'portrait',
-        start_url: '/',
+        // Must be under /arabic/ on Pages — '/' hits the repo root and 404s when installed
+        start_url: base,
+        scope: base,
+        id: base,
         icons: [
           {
             src: 'icon.svg',
@@ -27,6 +33,7 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,ico,svg,md,txt,woff2}'],
+        navigateFallback: 'index.html',
         runtimeCaching: [
           {
             urlPattern: /\/lyrics-manifest\.json$/i,

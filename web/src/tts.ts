@@ -373,14 +373,7 @@ function speakLocal(
 }
 
 function voiceLabel(v: SpeechSynthesisVoice): string {
-  const m = voiceMeta(v);
-  let tag = v.lang || 'voice';
-  if (m.isSaudi) tag = 'Saudi';
-  else if (m.isHoda) tag = 'Hoda / Arabic';
-  else if (m.isEgyptian) tag = 'Egyptian';
-  else if (m.isGulf) tag = 'Gulf';
-  else if (m.isArabic) tag = 'Arabic';
-  return `${v.name} · ${tag}`;
+  return v.name || v.lang || 'Voice';
 }
 
 /**
@@ -495,40 +488,26 @@ export async function speakArabic(text: string, btn?: HTMLButtonElement | null):
   }
 }
 
-/** Dropdown lists every voice on this device + Auto / Romanized. */
+/** Clean dropdown: Auto / Romanized + Arabic Voices / Non-Arabic Voices. */
 export async function mountTtsVoicePicker(host: HTMLElement) {
   if (!ttsSupported()) return;
 
-  // Remount so voice list refreshes when OS voices change
   host.querySelector('.tts-voice-bar')?.remove();
 
   const all = await listAllVoices();
   const arabic = all.filter((v) => voiceMeta(v).isArabic);
-  const saudi = arabic.some((v) => voiceMeta(v).isSaudi);
-  const hoda = arabic.some((v) => voiceMeta(v).isHoda);
+  const other = all.filter((v) => !voiceMeta(v).isArabic);
 
   const bar = document.createElement('div');
   bar.className = 'tts-voice-bar';
 
   const label = document.createElement('label');
   label.className = 'tts-voice-label';
-  if (saudi && hoda) {
-    label.innerHTML =
-      'Voice <span class="tts-voice-ok">Naayf + Hoda on this device</span>';
-  } else if (saudi) {
-    label.innerHTML =
-      'Voice <span class="tts-voice-ok">Saudi (Naayf) available</span>';
-  } else if (arabic.length) {
-    label.innerHTML =
-      'Voice <span class="tts-voice-ok">Arabic voice available</span>';
-  } else {
-    label.innerHTML =
-      'Voice <span class="tts-voice-warn">no Arabic — Auto will romanize</span>';
-  }
+  label.textContent = 'Voice';
 
   const select = document.createElement('select');
   select.className = 'tts-voice-select';
-  select.setAttribute('aria-label', 'TTS voice on this device');
+  select.setAttribute('aria-label', 'Voice');
 
   const addOpt = (value: string, text: string, group?: HTMLOptGroupElement) => {
     const opt = document.createElement('option');
@@ -537,27 +516,26 @@ export async function mountTtsVoicePicker(host: HTMLElement) {
     (group ?? select).appendChild(opt);
   };
 
-  addOpt(AUTO_VALUE, 'Auto (Naayf → Hoda/Arabic → romanized)');
-  addOpt(ROMANIZED_VALUE, 'Romanized Arabic (always audible)');
+  addOpt(AUTO_VALUE, 'Auto');
+  addOpt(ROMANIZED_VALUE, 'Romanized');
 
   if (arabic.length) {
     const g = document.createElement('optgroup');
-    g.label = `Arabic on this device (${arabic.length})`;
+    g.label = 'Arabic Voices';
     for (const v of arabic) addOpt(voiceUri(v), voiceLabel(v), g);
     select.appendChild(g);
   }
 
-  const other = all.filter((v) => !voiceMeta(v).isArabic);
   if (other.length) {
     const g = document.createElement('optgroup');
-    g.label = `Other system voices (${other.length})`;
-    for (const v of other) addOpt(voiceUri(v), `${v.name} · ${v.lang || 'other'}`, g);
+    g.label = 'Non-Arabic Voices';
+    for (const v of other) addOpt(voiceUri(v), voiceLabel(v), g);
     select.appendChild(g);
   }
 
   if (!all.length) {
     select.disabled = true;
-    addOpt(AUTO_VALUE, 'No voices found on this device');
+    addOpt(AUTO_VALUE, 'No voices found');
   }
 
   const pref = getVoicePref();
@@ -573,13 +551,7 @@ export async function mountTtsVoicePicker(host: HTMLElement) {
     } catch {
       /* ignore */
     }
-    if (select.value === AUTO_VALUE) {
-      showToast('Auto voice saved — tap ▶', 3000);
-    } else if (select.value === ROMANIZED_VALUE) {
-      showToast('Romanized mode saved — tap ▶', 3000);
-    } else {
-      showToast('Voice saved — tap ▶ to hear it', 3000);
-    }
+    showToast('Voice saved — tap ▶', 2500);
   });
 
   bar.appendChild(label);

@@ -125,21 +125,22 @@ function voiceUri(v: SpeechSynthesisVoice): string {
   return `${v.voiceURI}||${v.name}||${v.lang}`;
 }
 
-/** Chrome on Windows often hides installed OneCore voices (e.g. Hoda). Lang-only options still work. */
-const LANG_HODA_ID = '__lang:ar-EG:hoda__';
-const LANG_NAAYF_ID = '__lang:ar-SA:naayf__';
-
-type VoiceOption =
-  | { id: string; label: string; kind: 'native'; voice: SpeechSynthesisVoice; isArabic: boolean }
-  | { id: string; label: string; kind: 'lang'; lang: string; isArabic: true };
-
-function isWindowsClient(): boolean {
-  return typeof navigator !== 'undefined' && /windows/i.test(navigator.userAgent || '');
-}
+type VoiceOption = {
+  id: string;
+  label: string;
+  voice: SpeechSynthesisVoice;
+  isArabic: boolean;
+};
 
 function getVoicePref(): string | null {
   try {
-    return localStorage.getItem(VOICE_PREF_KEY);
+    const pref = localStorage.getItem(VOICE_PREF_KEY);
+    // Drop old fake Hoda/Naayf lang entries (they sounded like Naayf in Chrome)
+    if (pref && pref.startsWith('__lang:')) {
+      localStorage.removeItem(VOICE_PREF_KEY);
+      return null;
+    }
+    return pref;
   } catch {
     return null;
   }
@@ -168,51 +169,20 @@ function pickBestNonArabicVoice(
   })[0];
 }
 
+/**
+ * Only voices the *browser* can actually use (speechSynthesis.getVoices()).
+ * Windows may have Hoda installed while Chrome still omits it — we cannot fake it.
+ */
 function buildArabicOptions(voices: SpeechSynthesisVoice[]): VoiceOption[] {
-  const native = voices
+  return voices
     .filter((v) => voiceMeta(v).isArabic)
     .sort((a, b) => voiceRank(a) - voiceRank(b))
-    .map(
-      (v): VoiceOption => ({
-        id: voiceUri(v),
-        label: v.name || v.lang || 'Arabic',
-        kind: 'native',
-        voice: v,
-        isArabic: true,
-      })
-    );
-
-  const hasHoda = native.some((o) => {
-    if (o.kind !== 'native') return false;
-    const m = voiceMeta(o.voice);
-    return m.isHoda || m.isEgyptian || (o.voice.lang || '').toLowerCase().startsWith('ar-eg');
-  });
-  const hasNaayf = native.some((o) => {
-    if (o.kind !== 'native') return false;
-    return voiceMeta(o.voice).isSaudi;
-  });
-
-  // Fill gaps Chrome hides even though Windows installed the voice
-  if (isWindowsClient() && !hasHoda) {
-    native.push({
-      id: LANG_HODA_ID,
-      label: 'Microsoft Hoda',
-      kind: 'lang',
-      lang: 'ar-EG',
+    .map((v) => ({
+      id: voiceUri(v),
+      label: v.name || v.lang || 'Arabic',
+      voice: v,
       isArabic: true,
-    });
-  }
-  if (isWindowsClient() && !hasNaayf) {
-    native.push({
-      id: LANG_NAAYF_ID,
-      label: 'Microsoft Naayf',
-      kind: 'lang',
-      lang: 'ar-SA',
-      isArabic: true,
-    });
-  }
-
-  return native;
+    }));
 }
 
 function buildSelectableOptions(voices: SpeechSynthesisVoice[]): VoiceOption[] {
@@ -224,7 +194,6 @@ function buildSelectableOptions(voices: SpeechSynthesisVoice[]): VoiceOption[] {
     {
       id: voiceUri(nonAr),
       label: nonAr.name || nonAr.lang || 'English',
-      kind: 'native',
       voice: nonAr,
       isArabic: false,
     },
@@ -473,7 +442,7 @@ function speakLocal(
 /**
  * Play with the selected/default system voice.
  * Arabic voices speak Arabic script; non-Arabic voices use romanization.
- * Windows lang-only options (Hoda/Naayf) are used when Chrome hides installed voices.
+ * Only voices returned by the browser can play — Windows-installed but Chrome-hidden voices cannot.
  */
 export async function speakArabic(text: string, btn?: HTMLButtonElement | null): Promise<void> {
   const clean = najdiSpeakHints(text);
@@ -510,13 +479,6 @@ export async function speakArabic(text: string, btn?: HTMLButtonElement | null):
       return;
     }
 
-    if (chosen.kind === 'lang') {
-      const ok = await speakLocal(clean, null, chosen.lang);
-      if (gen !== speakGen) return;
-      if (!ok) showToast('No voice available');
-      return;
-    }
-
     if (chosen.isArabic) {
       const ok = await speakLocal(clean, chosen.voice, chosen.voice.lang || 'ar');
       if (gen !== speakGen) return;
@@ -533,7 +495,7 @@ export async function speakArabic(text: string, btn?: HTMLButtonElement | null):
   }
 }
 
-/** Dropdown: Arabic Voices (incl. Windows Hoda/Naayf if Chrome hides them) + one Non-Arabic default. */
+/** Dropdown: only voices the browser can actually use. */
 export async function mountTtsVoicePicker(host: HTMLElement) {
   if (!ttsSupported()) return;
 

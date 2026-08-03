@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وين الشاحن الطويل؟ دوّرت في البقالة، قبل صلاة المغرب</span> | <span class="example-en" dir="ltr" lang="en">Where is the long charger? I looked at the grocery, before Maghrib prayer</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الجورب الأبيض؟ دوّرت قدام التلفاز، عشان ما نتأخر</span> | <span class="example-en" dir="ltr" lang="en">Where is the white sock? I looked in front of the TV, so we are not late</span> |
 

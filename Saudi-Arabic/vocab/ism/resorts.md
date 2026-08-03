@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت المنتجعات في المطبخ، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a resorts in the kitchen, so revision is easier, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المنتجعات في المكتبة، لأن البطارية ضعيفة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a resorts in the library, because the battery is low, and then I charged the device</span> |
 
 

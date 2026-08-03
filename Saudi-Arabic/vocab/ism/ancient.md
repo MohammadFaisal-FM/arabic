@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج عتيق الحين تحت السرير، عشان ما يضيع، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need an ancient now under the bed, so it doesn’t get lost, and I also took the grey scarf</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عتيق الحين في المدرسة، لأن الزحمة قوية، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need an ancient now at school, because traffic is heavy, and I also took the sharp scissors</span> |
 
 

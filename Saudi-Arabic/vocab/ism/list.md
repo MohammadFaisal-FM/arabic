@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت قائمة قدام المصعد مع الكرتون الفاضي، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a list in front of the elevator with the empty carton, because guests are arriving, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قائمة الحين في الصالون، عشان ما نتأخر، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a list now in the living room, so we are not late, and I also took the clean tissue</span> |
 
 

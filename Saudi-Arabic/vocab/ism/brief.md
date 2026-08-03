@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مختصر قدام الملعب مع اللاصق الشفاف، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a brief in front of the pitch with the clear tape, because the light is better there, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مختصر في المكتبة مع الملعقة الصغيرة، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a brief in the library with the small spoon, so the photo comes out clearer, and then I charged the device</span> |
 
 

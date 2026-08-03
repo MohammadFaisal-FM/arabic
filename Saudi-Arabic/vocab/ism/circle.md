@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت دائرة في الصالون مع المنديل النظيف، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a circle in the living room with the clean tissue, so we make the appointment, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دائرة في الثلاجة، لأن الإضاءة أحسن هناك، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a circle in the fridge, because the light is better there, and then we locked the door</span> |
 
 

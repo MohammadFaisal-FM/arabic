@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حزام الحين جنب البنك، قبل ما يقفل المكان، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a belt now next to the bank, before the place closes, and I also took the empty bottle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حزام عند الاستقبال مع الكوب الزجاج، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a belt at reception with the glass cup, if you need it later, and then I charged the device</span> |
 
 

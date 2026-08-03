@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت موسيقى على المكتب، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a music on the desk, because the weather is a bit hot, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت موسيقى عند الباب مع المحفظة البنية، عشان ما نتأخر، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a music at the door with the brown wallet, so we are not late, and then I turned on the fan</span> |
 
 

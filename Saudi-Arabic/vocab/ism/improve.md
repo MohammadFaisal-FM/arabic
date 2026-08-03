@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يحسن الحين في المكتبة، قبل ما يقفل المكان، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an improve now in the library, before the place closes, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يحسن في الثلاجة مع القبعة الصيفية، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found an improve in the fridge with the summer hat, because the light is better there, and then I drank some water</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت شاي في الصالون، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a tea in the living room, because work finished early, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شاي تحت السرير مع الوشاح الرمادي، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a tea under the bed with the grey scarf, so revision is easier, and then I replied to the message</span> |
 
 

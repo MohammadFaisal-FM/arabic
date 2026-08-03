@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت طابعة في البقالة، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a printer at the grocery, because the boy is sleepy, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت طابعة تحت السرير مع الوشاح الرمادي، لأن الزحمة قوية، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a printer under the bed with the grey scarf, because traffic is heavy, and then we laughed a bit</span> |
 
 

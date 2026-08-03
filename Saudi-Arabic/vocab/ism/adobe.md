@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت أدوبي قدام المصعد مع الكرتون الفاضي، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an adobe in front of the elevator with the empty carton, because work finished early, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أدوبي الحين في الثلاجة، عشان الدراسة بكرة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an adobe now in the fridge, for studying tomorrow, and I also took the summer hat</span> |
 
 

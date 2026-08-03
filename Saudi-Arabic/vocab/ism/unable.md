@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج غير قادر الحين في المكتبة، قبل ما يقفل المكان، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an unable now in the library, before the place closes, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت غير قادر في الحقيبة مع الحذاء النظيف، إذا احتجته بعدين، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an unable in the bag with the clean shoes, if you need it later, and then I closed the window</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج نوع الحين عند الاستقبال، قبل ما يجي السائق، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a sort now at reception, before the driver arrives, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نوع جنب النافذة، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a sort beside the window, before the food gets cold, and then we prayed</span> |
 
 

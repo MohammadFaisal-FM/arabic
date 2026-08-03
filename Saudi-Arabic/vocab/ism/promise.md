@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يعد قدام الملعب، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a promise in front of the pitch, because the weather is a bit hot, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يعد في الغرفة، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a promise in the room, so we make the appointment, and then I washed my hands</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت رسالة في الغرفة، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a message in the room, because the weather is a bit hot, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رسالة في الحديقة مع المنبه القديميم، لأن الجو حار شوي، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a message in the park with the old alarm, because the weather is a bit hot, and then we prayed</span> |
 
 

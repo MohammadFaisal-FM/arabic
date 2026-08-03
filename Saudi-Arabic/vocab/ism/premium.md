@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج غالي الحين عند الباب، عشان الضيوف يوصلون، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a premium now at the door, because guests are arriving, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت غالي على الشرفة، قبل ما يجي السائق، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a premium on the balcony, before the driver arrives, and then I turned off the light</span> |
 
 

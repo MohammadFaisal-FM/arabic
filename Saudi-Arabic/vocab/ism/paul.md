@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت بول في الغرفة مع المفتاح الاحتياطي، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a paul in the room with the spare key, for studying tomorrow, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بول الحين في الصالون، عشان ما نتأخر، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a paul now in the living room, so we are not late, and I also took the clean tissue</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت خدمات عند الصيدلية مع الغطاء الشفاف، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a services at the pharmacy with the clear cover, because the weather is a bit hot, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج خدمات الحين في الدرج، عشان نلحق الموعد، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a services now in the drawer, so we make the appointment, and I also took the blue notebook</span> |
 
 

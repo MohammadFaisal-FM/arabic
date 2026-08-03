@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يحصل في السيارة مع الوسادة الناعمة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a gets in the car with the soft pillow, before Maghrib prayer, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يحصل جنب البنك مع الزجاجة الفارغة، لأن الوقت ضيق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a gets next to the bank with the empty bottle, because time is tight, and then I closed the window</span> |
 
 

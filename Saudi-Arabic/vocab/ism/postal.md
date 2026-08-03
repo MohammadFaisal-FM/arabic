@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بريدي الحين قدام المصعد، لأن الشغل خلص بدري، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a postal now in front of the elevator, because work finished early, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بريدي في الثلاجة، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a postal in the fridge, for studying tomorrow, and then we prayed</span> |
 
 

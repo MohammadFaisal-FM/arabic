@@ -14,7 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت كورة في الدرج، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a ball in the drawer, because the weather is a bit hot, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كورة قدام التلفاز مع الجورب الأبيض، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a ball in front of the TV with the white sock, so we are not late, and then the phone rang</span> |
 
 
 ### Links

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج العقارات الحين في المدرسة، عشان ما يضيع، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need an estate now at school, so it doesn’t get lost, and I also took the sharp scissors</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت العقارات على الشرفة، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put an estate on the balcony, so revision is easier, and then I replied to the message</span> |
 
 

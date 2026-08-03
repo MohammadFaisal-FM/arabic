@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت اقام في الغرفة مع المفتاح الاحتياطي، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a stay in the room with the spare key, for studying tomorrow, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اقام الحين في الحديقة، عشان الدراسة بكرة، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a stay now in the park, for studying tomorrow, and I also took the old alarm</span> |
 
 

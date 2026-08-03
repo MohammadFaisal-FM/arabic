@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت دمار قدام الملعب، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a destruction in front of the pitch, before the food gets cold, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دمار في الغرفة، بس خلّه قريب منك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a destruction in the room, but keep it near you, and then I tidied the table</span> |
 
 

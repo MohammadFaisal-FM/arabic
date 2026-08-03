@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج فورد الحين في المكتبة، قبل ما يقفل المكان، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a ford now in the library, before the place closes, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فورد في الثلاجة مع القبعة الصيفية، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a ford in the fridge with the summer hat, because the light is better there, and then I drank some water</span> |
 
 

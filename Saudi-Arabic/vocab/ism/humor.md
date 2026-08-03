@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مزاح تحت السرير مع الوشاح الرمادي، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a humor under the bed with the grey scarf, so it doesn’t get lost, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مزاح في المدرسة مع المقص الحاد، لأن الزحمة قوية، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a humor at school with the sharp scissors, because traffic is heavy, and then we laughed a bit</span> |
 
 

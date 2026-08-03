@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج زواج الحين في المطبخ، قبل ما يجي السائق، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a marriage now in the kitchen, before the driver arrives, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج زواج الحين جنب البنك، إذا احتجته بعدين، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a marriage now next to the bank, if you need it later, and I also took the empty bottle</span> |
 
 

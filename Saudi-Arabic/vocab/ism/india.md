@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الهند الحين في الدرج، لأن الإضاءة أحسن هناك، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need an india now in the drawer, because the light is better there, and I also took the blue notebook</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الهند عند الباب، لأن الولد نعسان، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put an india at the door, because the boy is sleepy, and then I turned on the fan</span> |
 
 

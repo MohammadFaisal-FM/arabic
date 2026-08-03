@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ربح جنب البنك، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a profit next to the bank, before the driver arrives, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ربح في المكتبة مع الملعقة الصغيرة، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a profit in the library with the small spoon, if you need it later, and then I wiped the floor</span> |
 
 

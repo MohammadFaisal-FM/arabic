@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يورو في الحديقة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put an eur in the park, because time is tight, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يورو الحين في الدرج، لأن الشغل خلص بدري، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need an eur now in the drawer, because work finished early, and I also took the blue notebook</span> |
 
 

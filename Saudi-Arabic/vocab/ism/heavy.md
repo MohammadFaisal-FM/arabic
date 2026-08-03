@@ -6,7 +6,7 @@
 | **Subtype** | اسم · ism (noun) |
 | **Arabic** | ثقيل |
 | **Meaning** | heavy |
-| **Root** | — (loan / no everyday root) |
+| **Root** | [ث-ق-ل](#roots/thql) |
 
 ---
 
@@ -14,6 +14,13 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ثقيل في الصالون مع المنديل النظيف، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a heavy in the living room with the clean tissue, so we make the appointment, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">الشغل ثقيل اليوم، خلاص أخلّص بكرة الصبح</span> | <span class="example-en" dir="ltr" lang="en">The work is heavy today, I’ll just finish tomorrow morning.</span> |
 
+
+### Links
+
+| | |
+|-|-|
+| **Root family** | [ث-ق-ل](#roots/thql) — see all word types |
+| **Fiʿl** | N/A — no everyday fiʿl for this root |
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ثَبَّتَ الحين في الصالون، عشان الضيوف يوصلون، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an install now in the living room, because guests are arriving, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ثَبَّتَ في السيارة مع الوسادة الناعمة، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found an install in the car with the soft pillow, before the driver arrives, and then I replied to the message</span> |
 
 

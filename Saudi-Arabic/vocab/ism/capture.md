@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يأسر عند الباب مع المحفظة البنية، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a capture at the door with the brown wallet, because work finished early, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يأسر قدام المصعد مع الكرتون الفاضي، قبل صلاة المغرب، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a capture in front of the elevator with the empty carton, before Maghrib prayer, and then the phone rang</span> |
 
 

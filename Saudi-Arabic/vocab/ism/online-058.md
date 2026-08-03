@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت امازيغ في الصالون مع المنديل النظيف، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an amazigh in the living room with the clean tissue, because guests are arriving, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج امازيغ الحين في الدرج، عشان الضيوف يوصلون، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need an amazigh now in the drawer, because guests are arriving, and I also took the blue notebook</span> |
 
 

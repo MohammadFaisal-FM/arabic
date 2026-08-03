@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت الأولاد في الصالون، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I saw a boys in the living room, so we make the appointment, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن الأولاد شوي، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a boys a bit, so revision is easier, and then I replied to the message</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت شرح في المكتبة، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put an annotation in the library, before the driver arrives, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شرح قدام التلفاز مع الجورب الأبيض، لأن الولد نعسان، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found an annotation in front of the TV with the white sock, because the boy is sleepy, and then I turned on the fan</span> |
 
 

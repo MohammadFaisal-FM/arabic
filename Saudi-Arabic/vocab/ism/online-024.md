@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت اعزب جنب المسجد مع القلم الرصاص، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a bachelor next to the mosque with the pencil, because time is tight, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اعزب الحين عند الاستقبال، لأن الوقت ضيق، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a bachelor now at reception, because time is tight, and I also took the glass cup</span> |
 
 

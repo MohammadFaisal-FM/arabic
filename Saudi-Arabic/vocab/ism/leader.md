@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج قائد الحين جنب المسجد، لأن البطارية ضعيفة، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a leader now next to the mosque, because the battery is low, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قائد تحت السرير، قبل ما يقفل المكان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a leader under the bed, before the place closes, and then we laughed a bit</span> |
 
 

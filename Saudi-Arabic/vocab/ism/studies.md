@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج دراسات الحين في المدرسة، لأن الولد نعسان، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a studies now at school, because the boy is sleepy, and I also took the sharp scissors</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دراسات في الحديقة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a studies in the park, for studying tomorrow, and then we locked the door</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ممثل الحين جنب المسجد، عشان الصورة تطلع أوضح، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a representative now next to the mosque, so the photo comes out clearer, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ممثل في الثلاجة، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a representative in the fridge, for studying tomorrow, and then we prayed</span> |
 
 

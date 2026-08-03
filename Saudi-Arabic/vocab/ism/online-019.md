@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ابتسامه الحين في الحقيبة، عشان ما نتأخر، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a smile now in the bag, so we are not late, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ابتسامه على المكتب، لأن الوقت ضيق، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a smile on the desk, because time is tight, and then I tidied the table</span> |
 
 

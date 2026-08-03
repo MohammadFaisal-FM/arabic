@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت وسائط تحت السرير مع الوشاح الرمادي، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a media under the bed with the grey scarf, before Maghrib prayer, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج وسائط الحين في السيارة، قبل ما يقفل المكان، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a media now in the car, before the place closes, and I also took the soft pillow</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أشرطة الفيديو الحين تحت السرير، لأن الولد نعسان، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a videos now under the bed, because the boy is sleepy, and I also took the grey scarf</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أشرطة الفيديو عند الباب، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a videos at the door, before Maghrib prayer, and then the boy slept</span> |
 
 

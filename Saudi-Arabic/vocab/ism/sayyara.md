@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت سيارة جنب النافذة مع النظارة الشمسية، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a car beside the window with the sunglasses, so the photo comes out clearer, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سيارة الحين في المطبخ، عشان الصورة تطلع أوضح، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a car now in the kitchen, so the photo comes out clearer, and I also took the paper file</span> |
 
 

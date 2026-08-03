@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ماري الحين جنب النافذة، عشان الصورة تطلع أوضح، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a mary now beside the window, so the photo comes out clearer, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ماري الحين في الغرفة، عشان الضيوف يوصلون، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a mary now in the room, because guests are arriving, and I also took the spare key</span> |
 
 

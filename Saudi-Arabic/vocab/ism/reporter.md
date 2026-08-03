@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مراسل الحين عند الاستقبال، لأن الزحمة قوية، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a reporter now at reception, because traffic is heavy, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مراسل في الحقيبة، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a reporter in the bag, because the battery is low, and then I wiped the floor</span> |
 
 

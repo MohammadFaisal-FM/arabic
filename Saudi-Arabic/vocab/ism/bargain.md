@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مساومة الحين عند العيادة، إذا احتجته بعدين، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a bargain now at the clinic, if you need it later, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مساومة جنب المسجد، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a bargain next to the mosque, for studying tomorrow, and then I drank some water</span> |
 
 

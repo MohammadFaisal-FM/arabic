@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت إنجليزي في المحطة مع الكابل القصير، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found an english at the station with the short cable, because work finished early, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إنجليزي الحين في الغرفة، لأن الشغل خلص بدري، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an english now in the room, because work finished early, and I also took the spare key</span> |
 
 

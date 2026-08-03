@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت موقع في الحقيبة مع الحذاء النظيف، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a site in the bag with the clean shoes, before the driver arrives, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج موقع الحين في المطبخ، إذا احتجته بعدين، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a site now in the kitchen, if you need it later, and I also took the paper file</span> |
 
 

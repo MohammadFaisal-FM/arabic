@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت حديد قدام المصعد مع الكرتون الفاضي، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an iron in front of the elevator with the empty carton, so we make the appointment, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حديد في الصالون، عشان ما يضيع، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put an iron in the living room, so it doesn’t get lost, and then I turned on the fan</span> |
 
 

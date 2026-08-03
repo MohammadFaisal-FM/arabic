@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت هاري جنب البنك، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a harry next to the bank, because traffic is heavy, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت هاري في الصالون مع المنديل النظيف، عشان ما نتأخر، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a harry in the living room with the clean tissue, so we are not late, and then the boy slept</span> |
 
 

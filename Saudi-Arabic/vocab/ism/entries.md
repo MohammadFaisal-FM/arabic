@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج إدخالات الحين جنب المسجد، إذا احتجته بعدين، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need an entries now next to the mosque, if you need it later, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت إدخالات على المكتب، بس خلّه قريب منك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put an entries on the desk, but keep it near you, and then I tidied the table</span> |
 
 

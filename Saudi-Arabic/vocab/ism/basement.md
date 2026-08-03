@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الطابق السفلي في الحقيبة، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a basement in the bag, because traffic is heavy, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الطابق السفلي في المطبخ مع الملف الورقي، لأن البطارية ضعيفة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a basement in the kitchen with the paper file, because the battery is low, and then I closed the window</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ألفا على المكتب مع البطانية الخفيفة، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an alpha on the desk with the light blanket, because the weather is a bit hot, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ألفا الحين جنب البنك، إذا احتجته بعدين، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need an alpha now next to the bank, if you need it later, and I also took the empty bottle</span> |
 
 

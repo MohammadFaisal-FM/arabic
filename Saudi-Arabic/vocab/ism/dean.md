@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج عميد الحين عند الاستقبال، عشان المراجعة أسهل، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a dean now at reception, so revision is easier, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عميد في المطبخ، لأن البطارية ضعيفة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a dean in the kitchen, because the battery is low, and then I charged the device</span> |
 
 

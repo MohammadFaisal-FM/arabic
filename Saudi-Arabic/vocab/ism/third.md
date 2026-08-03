@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ثالث في المدرسة مع المقص الحاد، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a third at school with the sharp scissors, so we are not late, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ثالث قدام المصعد، عشان ما يضيع، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a third in front of the elevator, so it doesn’t get lost, and then the phone rang</span> |
 
 

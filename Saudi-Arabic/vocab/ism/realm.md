@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج عالم الحين في المحطة، بس خلّه قريب منك، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a realm now at the station, but keep it near you, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عالم قدام المصعد، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a realm in front of the elevator, before Maghrib prayer, and then the boy slept</span> |
 
 

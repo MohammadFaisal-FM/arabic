@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أموال الحين تحت السرير، لأن الولد نعسان، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a funds now under the bed, because the boy is sleepy, and I also took the grey scarf</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أموال في المطبخ، لأن البطارية ضعيفة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a funds in the kitchen, because the battery is low, and then I charged the device</span> |
 
 

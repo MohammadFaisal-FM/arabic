@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج معرض الحين عند الباب، عشان نلحق الموعد، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an exhibition now at the door, so we make the appointment, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت معرض في المحطة، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put an exhibition at the station, so it doesn’t get lost, and then the boy slept</span> |
 
 

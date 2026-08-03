@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ميزانية في الغرفة مع المفتاح الاحتياطي، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a budget in the room with the spare key, because the weather is a bit hot, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ميزانية الحين في المكتبة، لأن الوقت ضيق، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a budget now in the library, because time is tight, and I also took the small spoon</span> |
 
 

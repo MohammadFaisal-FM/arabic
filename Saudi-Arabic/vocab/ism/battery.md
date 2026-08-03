@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت بطارية في الصالون مع المنديل النظيف، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a battery in the living room with the clean tissue, because guests are arriving, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بطارية في السيارة، قبل ما يجي السائق، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a battery in the car, before the driver arrives, and then I turned off the light</span> |
 
 

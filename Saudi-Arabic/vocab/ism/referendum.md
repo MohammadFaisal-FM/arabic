@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج استفتاء الحين في الصالون، عشان الضيوف يوصلون، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a referendum now in the living room, because guests are arriving, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت استفتاء قدام التلفاز، عشان ما نتأخر، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a referendum in front of the TV, so we are not late, and then the boy slept</span> |
 
 

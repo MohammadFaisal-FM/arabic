@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت توم في المدرسة، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a tom at school, before Maghrib prayer, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت توم في المكتبة مع الملعقة الصغيرة، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a tom in the library with the small spoon, because time is tight, and then I wiped the floor</span> |
 
 

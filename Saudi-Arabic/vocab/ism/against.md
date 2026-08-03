@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ضد في المكتبة، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an against in the library, because traffic is heavy, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ضد عند الاستقبال مع الكوب الزجاج، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found an against at reception with the glass cup, because the battery is low, and then I wiped the floor</span> |
 
 

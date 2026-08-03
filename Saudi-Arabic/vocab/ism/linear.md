@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت خطي جنب البنك مع الزجاجة الفارغة، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a linear next to the bank with the empty bottle, because traffic is heavy, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج خطي الحين عند الاستقبال، لأن الوقت ضيق، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a linear now at reception, because time is tight, and I also took the glass cup</span> |
 
 

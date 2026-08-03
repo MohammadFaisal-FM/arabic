@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج النادل الحين عند العيادة، إذا احتجته بعدين، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a waiter now at the clinic, if you need it later, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت النادل على الشرفة، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a waiter on the balcony, so revision is easier, and then I replied to the message</span> |
 
 

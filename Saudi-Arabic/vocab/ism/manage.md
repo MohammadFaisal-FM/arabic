@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت يدير جنب البنك، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I saw a manage next to the bank, so revision is easier, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">يدير كان/كانت في الصالون، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">a manage was in the living room, before Maghrib prayer, and then the boy slept</span> |
 
 

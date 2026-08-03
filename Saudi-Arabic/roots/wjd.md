@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | و-ج-د |
-| **Meaning** | finding / existing |
+| **Meaning** | finding / existing (MSA وجد; Najdi = لقى / فيه) |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -12,16 +12,14 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت / ما فيه، ولقيت الكابل القصير عند الصيدلية، عشان المراجعة أسهل، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found it / there isn’t, and I found the short cable at the pharmacy, so revision is easier, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المفتاح تحت الشنطة، والحمد لله ما تأخرنا</span> | <span class="example-en" dir="ltr" lang="en">I found the key under the bag, and thank God we weren’t late.</span> |
 
 
 ---
 
 ## Forms Widely Used
 
-| Form | Past / present | Fiʿl |
-|------|----------------|------|
-| I | وجد / يوجد · base meaning: finding / existing | [Open](#fil/wjd) |
+No everyday **fiʿl** (verb) for this root — learn the **ism** (noun) forms instead.
 
 ---
 
@@ -29,7 +27,7 @@
 
 | Type | Word | Notes / Example |
 |------|------|-----------------|
-| فعل · fiʿl (Form I) | [وجد / يوجد · base meaning: finding / existing](#fil/wjd) | <span class="example-ar" dir="rtl" lang="ar">لقيت / ما فيه</span><br><span class="example-en" dir="ltr" lang="en">I found it / there isn’t</span> |
+| فعل · fiʿl (verb) | N/A | ism-only root — no everyday verb |
 | مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
 | اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
 | اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
@@ -37,5 +35,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | [وجود](#ism/wjd-wjwd) | <span class="example-ar" dir="rtl" lang="ar">لقيت وجود عند الباب مع المحفظة البنية، لأن الولد نعسان، وبعدها نام الولد</span><br><span class="example-en" dir="ltr" lang="en">I found an existence at the door with the brown wallet, because the boy is sleepy, and then the boy slept</span> |
 

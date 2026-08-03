@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ترقية في المطبخ، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a promotion in the kitchen, before the place closes, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ترقية جنب البنك، لأن الوقت ضيق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a promotion next to the bank, because time is tight, and then I charged the device</span> |
 
 

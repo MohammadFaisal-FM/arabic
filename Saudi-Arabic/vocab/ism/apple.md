@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت تفاحة في الثلاجة مع القبعة الصيفية، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found an apple in the fridge with the summer hat, because the battery is low, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تفاحة الحين قدام الملعب، عشان نلحق الموعد، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an apple now in front of the pitch, so we make the appointment, and I also took the clear tape</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الملصقات في الغرفة، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a posters in the room, because the weather is a bit hot, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الملصقات الحين عند الاستقبال، إذا احتجته بعدين، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a posters now at reception, if you need it later, and I also took the glass cup</span> |
 
 

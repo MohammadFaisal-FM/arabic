@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مخاطرة في البقالة، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a risk at the grocery, so we are not late, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مخاطرة الحين تحت السرير، قبل ما يجي السائق، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a risk now under the bed, before the driver arrives, and I also took the grey scarf</span> |
 
 

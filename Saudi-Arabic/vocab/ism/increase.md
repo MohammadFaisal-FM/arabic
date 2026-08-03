@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يزيد عند العيادة مع الدباسة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an increase at the clinic with the stapler, because time is tight, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يزيد في الحديقة، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an increase in the park, because the light is better there, and then I drank some water</span> |
 
 

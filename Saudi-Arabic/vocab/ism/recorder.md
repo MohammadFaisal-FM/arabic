@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مسجل الحين في الثلاجة، لأن الوقت ضيق، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a recorder now in the fridge, because time is tight, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مسجل جنب النافذة مع النظارة الشمسية، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a recorder beside the window with the sunglasses, because the light is better there, and then we prayed</span> |
 
 

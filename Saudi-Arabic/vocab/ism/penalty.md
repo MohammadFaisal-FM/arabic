@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت جزاء جنب البنك، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a penalty next to the bank, before the place closes, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جزاء في المكتبة مع الملعقة الصغيرة، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a penalty in the library with the small spoon, because time is tight, and then I wiped the floor</span> |
 
 

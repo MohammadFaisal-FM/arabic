@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج جهود الحين في المطبخ، لأن الزحمة قوية، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an efforts now in the kitchen, because traffic is heavy, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جهود الحين في الحديقة، لأن الجو حار شوي، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need an efforts now in the park, because the weather is a bit hot, and I also took the old alarm</span> |
 
 

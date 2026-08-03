@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اختراع الحين في الحقيبة، قبل ما يقفل المكان، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an invention now in the bag, before the place closes, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اختراع في السيارة، قبل ما يقفل المكان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put an invention in the car, before the place closes, and then I turned off the light</span> |
 
 

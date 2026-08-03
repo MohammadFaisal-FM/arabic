@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج إزالة الحين في الحقيبة، قبل ما يقفل المكان، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a removal now in the bag, before the place closes, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت إزالة في المطبخ، لأن الوقت ضيق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a removal in the kitchen, because time is tight, and then I closed the window</span> |
 
 

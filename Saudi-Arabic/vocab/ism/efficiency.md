@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت كفاءة على الشرفة مع البطاقة الصفراء، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found an efficiency on the balcony with the yellow card, before Maghrib prayer, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كفاءة تحت السرير، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an efficiency under the bed, before the driver arrives, and then we laughed a bit</span> |
 
 

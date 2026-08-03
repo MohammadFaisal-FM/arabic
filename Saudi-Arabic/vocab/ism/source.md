@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مصدر تحت السرير، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a source under the bed, so we are not late, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مصدر الحين في السيارة، قبل ما يجي السائق، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a source now in the car, before the driver arrives, and I also took the soft pillow</span> |
 
 

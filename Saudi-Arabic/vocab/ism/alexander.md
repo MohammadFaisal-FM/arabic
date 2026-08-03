@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الكسندر عند الصيدلية مع الغطاء الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an alexander at the pharmacy with the clear cover, for studying tomorrow, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الكسندر الحين على المكتب، عشان نلحق الموعد، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need an alexander now on the desk, so we make the appointment, and I also took the light blanket</span> |
 
 

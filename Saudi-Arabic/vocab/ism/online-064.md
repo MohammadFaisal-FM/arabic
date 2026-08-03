@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت اتهام عند الاستقبال مع الغطاء الشفاف، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found an accusation at reception with the clear cover, because the battery is low, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اتهام الحين في الثلاجة، قبل ما يقفل المكان، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need an accusation now in the fridge, before the place closes, and I also took the pencil</span> |
 
 

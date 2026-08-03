@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت وجبة في الحقيبة مع الحذاء النظيف، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a meal in the bag with the clean shoes, before the place closes, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج وجبة الحين في المطبخ، لأن الوقت ضيق، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a meal now in the kitchen, because time is tight, and I also took the paper file</span> |
 
 

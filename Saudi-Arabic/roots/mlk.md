@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أملك سيارة، ولقيت الدفتر الأزرق جنب النافذة، عشان ما نتأخر، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I own a car, and I found the blue notebook beside the window, so we are not late, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أملك سيارة، ولقيت الوسادة الناعمة عند العيادة، لأن الإضاءة أحسن هناك، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I own a car, and I found the soft pillow at the clinic, because the light is better there, and then I turned off the light</span> |
 
 
 ---

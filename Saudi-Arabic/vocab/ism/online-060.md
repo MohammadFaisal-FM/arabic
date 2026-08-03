@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت امكانيه في الحديقة مع المنبه القديميم، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a possibility in the park with the old alarm, so the photo comes out clearer, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج امكانيه الحين في المكتبة، عشان الصورة تطلع أوضح، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a possibility now in the library, so the photo comes out clearer, and I also took the small spoon</span> |
 
 

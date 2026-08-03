@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن الشركات المصنعة شوي، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">We talked about a manufacturers a bit, because guests are arriving, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">الشركات المصنعة كان/كانت في الثلاجة، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">a manufacturers was in the fridge, because the light is better there, and then we prayed</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مصادر عند الباب، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a sources at the door, but keep it near you, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مصادر على الشرفة، قبل ما يقفل المكان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a sources on the balcony, before the place closes, and then I turned off the light</span> |
 
 

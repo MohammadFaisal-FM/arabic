@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت بدلاً من في المحطة مع الكابل القصير، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found an instead at the station with the short cable, so we make the appointment, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بدلاً من في البقالة، عشان المراجعة أسهل، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an instead at the grocery, so revision is easier, and then we laughed a bit</span> |
 
 

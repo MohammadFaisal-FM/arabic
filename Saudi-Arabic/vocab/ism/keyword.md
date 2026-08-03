@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الكلمة الرئيسية الحين عند الصيدلية، قبل ما يبرد الأكل، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a keyword now at the pharmacy, before the food gets cold, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الكلمة الرئيسية قدام التلفاز، قبل صلاة المغرب، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a keyword in front of the TV, before Maghrib prayer, and then I turned on the fan</span> |
 
 

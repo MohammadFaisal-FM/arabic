@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت أمريكا قدام التلفاز، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put an america in front of the TV, because guests are arriving, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أمريكا عند الباب مع المحفظة البنية، عشان ما نتأخر، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found an america at the door with the brown wallet, so we are not late, and then I turned on the fan</span> |
 
 

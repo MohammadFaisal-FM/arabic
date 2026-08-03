@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مسؤولية في الصالون، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a responsibility in the living room, so we make the appointment, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مسؤولية الحين قدام التلفاز، عشان ما يضيع، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a responsibility now in front of the TV, so it doesn’t get lost, and I also took the white sock</span> |
 
 

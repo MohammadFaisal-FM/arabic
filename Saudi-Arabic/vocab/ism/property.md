@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ملكية في الحديقة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a property in the park, because time is tight, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ملكية الحين جنب المسجد، لأن الإضاءة أحسن هناك، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a property now next to the mosque, because the light is better there, and I also took the pencil</span> |
 
 

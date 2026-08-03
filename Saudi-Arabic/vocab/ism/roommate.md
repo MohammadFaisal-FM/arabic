@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت رفيق السكن في المدرسة مع المقص الحاد، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a roommate at school with the sharp scissors, before Maghrib prayer, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رفيق السكن الحين على الشرفة، قبل ما يقفل المكان، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a roommate now on the balcony, before the place closes, and I also took the yellow card</span> |
 
 

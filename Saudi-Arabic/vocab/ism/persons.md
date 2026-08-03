@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن الأشخاص شوي، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">We talked about a persons a bit, but keep it near you, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن الأشخاص شوي، قبل ما يقفل المكان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">We talked about a persons a bit, before the place closes, and then I turned off the light</span> |
 
 

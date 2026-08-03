@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت المعلمين في البقالة، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I saw a teachers at the grocery, because the boy is sleepy, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">المعلمين كان/كانت في الحقيبة، لأن البطارية ضعيفة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">a teachers was in the bag, because the battery is low, and then I closed the window</span> |
 
 

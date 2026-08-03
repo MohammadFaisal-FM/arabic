@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت روشتة في السيارة، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a prescription in the car, so we are not late, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت روشتة في المدرسة مع المقص الحاد، قبل ما يجي السائق، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a prescription at school with the sharp scissors, before the driver arrives, and then I turned off the light</span> |
 
 

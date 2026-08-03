@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت السعي جنب النافذة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a quest beside the window, so the photo comes out clearer, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت السعي عند العيادة، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a quest at the clinic, for studying tomorrow, and then we prayed</span> |
 
 

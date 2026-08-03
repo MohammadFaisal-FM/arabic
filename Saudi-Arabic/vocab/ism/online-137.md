@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت انكار في السيارة مع الوسادة الناعمة، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a denial in the car with the soft pillow, so we are not late, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج انكار الحين عند الباب، عشان ما نتأخر، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a denial now at the door, so we are not late, and I also took the brown wallet</span> |
 
 

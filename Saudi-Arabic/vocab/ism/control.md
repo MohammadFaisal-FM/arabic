@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يتحكم الحين جنب النافذة، إذا احتجته بعدين، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a control now beside the window, if you need it later, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يتحكم الحين في المدرسة، عشان المراجعة أسهل، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a control now at school, so revision is easier, and I also took the sharp scissors</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج جميل الحين في الحقيبة، قبل ما يجي السائق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a pretty now in the bag, before the driver arrives, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جميل الحين عند العيادة، قبل ما يبرد الأكل، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a pretty now at the clinic, before the food gets cold, and I also took the stapler</span> |
 
 

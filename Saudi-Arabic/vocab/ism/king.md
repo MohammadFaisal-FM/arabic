@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ملِك الحين في السيارة، لأن الولد نعسان، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a king now in the car, because the boy is sleepy, and I also took the soft pillow</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ملِك الحين في المدرسة، لأن الزحمة قوية، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a king now at school, because traffic is heavy, and I also took the sharp scissors</span> |
 
 

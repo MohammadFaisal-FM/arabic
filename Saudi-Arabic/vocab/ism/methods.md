@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج طُرق الحين في الحقيبة، عشان المراجعة أسهل، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a methods now in the bag, so revision is easier, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج طُرق الحين في المدرسة، لأن الزحمة قوية، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a methods now at school, because traffic is heavy, and I also took the sharp scissors</span> |
 
 

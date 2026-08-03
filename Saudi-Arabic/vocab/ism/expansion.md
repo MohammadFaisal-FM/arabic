@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت توسع جنب المسجد، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an expansion next to the mosque, so the photo comes out clearer, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت توسع جنب النافذة مع النظارة الشمسية، لأن الجو حار شوي، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an expansion beside the window with the sunglasses, because the weather is a bit hot, and then we prayed</span> |
 
 

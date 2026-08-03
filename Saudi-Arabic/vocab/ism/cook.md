@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يطبخ الحين في المحطة، لأن الشغل خلص بدري، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a cook now at the station, because work finished early, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يطبخ في الحديقة، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a cook in the park, before the food gets cold, and then we prayed</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت انفه عند الباب مع المحفظة البنية، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a conceitedness at the door with the brown wallet, so we make the appointment, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج انفه الحين قدام الملعب، عشان نلحق الموعد، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a conceitedness now in front of the pitch, so we make the appointment, and I also took the clear tape</span> |
 
 

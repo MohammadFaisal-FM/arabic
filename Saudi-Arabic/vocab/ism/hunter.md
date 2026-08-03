@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج صياد الحين عند الصيدلية، لأن الإضاءة أحسن هناك، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a hunter now at the pharmacy, because the light is better there, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صياد في الحقيبة، عشان الصورة تطلع أوضح، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a hunter in the bag, so the photo comes out clearer, and then I closed the window</span> |
 
 

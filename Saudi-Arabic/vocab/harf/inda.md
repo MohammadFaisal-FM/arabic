@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">عندي الكرتون الفاضي الحين، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I have the empty carton now, because guests are arriving, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">عندي الدفتر الأزرق الحين، عشان نلحق الموعد، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I have the blue notebook now, so we make the appointment, and then I wrote a note</span> |
 

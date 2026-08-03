@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مجلس الشيوخ تحت السرير مع الوشاح الرمادي، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a senate under the bed with the grey scarf, so it doesn’t get lost, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مجلس الشيوخ الحين قدام الملعب، بس خلّه قريب منك، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a senate now in front of the pitch, but keep it near you, and I also took the clear tape</span> |
 
 

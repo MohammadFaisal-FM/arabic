@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت المدفوعات في المدرسة، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a payments at school, so it doesn’t get lost, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المدفوعات عند الصيدلية مع الغطاء الشفاف، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a payments at the pharmacy with the clear cover, but keep it near you, and then I washed my hands</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت طاقة في السيارة مع الوسادة الناعمة، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found an energy in the car with the soft pillow, so we are not late, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج طاقة الحين في المدرسة، قبل ما يجي السائق، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need an energy now at school, before the driver arrives, and I also took the sharp scissors</span> |
 
 

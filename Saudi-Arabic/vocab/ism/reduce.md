@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يقلل الحين جنب النافذة، لأن الوقت ضيق، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a reduce now beside the window, because time is tight, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يقلل في الغرفة، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a reduce in the room, because work finished early, and then I washed my hands</span> |
 
 

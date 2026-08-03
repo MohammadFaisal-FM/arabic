@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يرد الحين في الحديقة، إذا احتجته بعدين، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a respond now in the park, if you need it later, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يرد تحت السرير، لأن الزحمة قوية، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a respond under the bed, because traffic is heavy, and then I replied to the message</span> |
 
 

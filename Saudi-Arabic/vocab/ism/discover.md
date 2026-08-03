@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يكتشف جنب المسجد، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a discover next to the mosque, because the battery is low, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يكتشف الحين في السيارة، قبل ما يجي السائق، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a discover now in the car, before the driver arrives, and I also took the soft pillow</span> |
 
 

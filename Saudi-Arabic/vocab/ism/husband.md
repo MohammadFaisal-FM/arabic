@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت زوج عند الباب، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a husband at the door, because work finished early, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت زوج في المدرسة، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a husband at school, so revision is easier, and then I turned off the light</span> |
 
 

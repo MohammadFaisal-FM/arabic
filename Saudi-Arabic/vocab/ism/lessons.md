@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت الدروس جنب المسجد، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I saw a lessons next to the mosque, because the battery is low, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن الدروس شوي، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">We talked about a lessons a bit, because the light is better there, and then I drank some water</span> |
 
 

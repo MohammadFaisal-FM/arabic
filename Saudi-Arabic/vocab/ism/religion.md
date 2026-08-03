@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت دِين في المطبخ، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a religion in the kitchen, before the driver arrives, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دِين جنب البنك، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a religion next to the bank, if you need it later, and then I charged the device</span> |
 
 

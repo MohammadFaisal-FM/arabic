@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت فرع على الشرفة مع البطاقة الصفراء، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a branch on the balcony with the yellow card, so we are not late, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فرع الحين عند الصيدلية، عشان نلحق الموعد، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a branch now at the pharmacy, so we make the appointment, and I also took the clear cover</span> |
 
 

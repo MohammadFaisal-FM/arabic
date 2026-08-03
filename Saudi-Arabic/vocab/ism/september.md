@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت سبتمبر عند الباب مع المحفظة البنية، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a september at the door with the brown wallet, because work finished early, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سبتمبر في المحطة مع الكابل القصير، لأن الولد نعسان، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a september at the station with the short cable, because the boy is sleepy, and then I turned on the fan</span> |
 
 

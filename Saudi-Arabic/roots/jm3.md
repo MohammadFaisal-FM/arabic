@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">جمعنا الفلوس، ولقيت اللاصق الشفاف في الحديقة، عشان ما يضيع، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">We collected the money, and I found the clear tape in the park, so it doesn’t get lost, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">جمعنا الفلوس، ولقيت المقص الحاد قدام المصعد، لأن الإضاءة أحسن هناك، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">We collected the money, and I found the sharp scissors in front of the elevator, because the light is better there, and then we laughed a bit</span> |
 
 
 ---

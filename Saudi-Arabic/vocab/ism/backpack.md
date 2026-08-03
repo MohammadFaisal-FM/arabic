@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حقيبة ظهر الحين في السيارة، قبل صلاة المغرب، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a backpack now in the car, before Maghrib prayer, and I also took the soft pillow</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حقيبة ظهر قدام الملعب، عشان الضيوف يوصلون، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a backpack in front of the pitch, because guests are arriving, and then I washed my hands</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مبادئ الحين في البقالة، عشان ما نتأخر، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a principles now at the grocery, so we are not late, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مبادئ على المكتب مع البطانية الخفيفة، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a principles on the desk with the light blanket, because work finished early, and then I tidied the table</span> |
 
 

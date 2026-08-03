@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ايذاء في الثلاجة مع القبعة الصيفية، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a harming in the fridge with the summer hat, because the battery is low, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ايذاء الحين في الحقيبة، لأن البطارية ضعيفة، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a harming now in the bag, because the battery is low, and I also took the clean shoes</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الروسية في المكتبة، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a russian in the library, because traffic is heavy, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الروسية في الثلاجة مع القبعة الصيفية، لأن الجو حار شوي، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a russian in the fridge with the summer hat, because the weather is a bit hot, and then I drank some water</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت إصدار عند الباب مع المحفظة البنية، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a version at the door with the brown wallet, so we make the appointment, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إصدار الحين في المحطة، عشان ما يضيع، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a version now at the station, so it doesn’t get lost, and I also took the short cable</span> |
 
 

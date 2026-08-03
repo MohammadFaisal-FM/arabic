@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت قمة في الحديقة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a peak in the park, because time is tight, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قمة الحين جنب المسجد، لأن الإضاءة أحسن هناك، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a peak now next to the mosque, because the light is better there, and I also took the pencil</span> |
 
 

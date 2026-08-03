@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يلزق قدام التلفاز مع الجورب الأبيض، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a stick in front of the TV with the white sock, because guests are arriving, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يلزق الحين في المحطة، عشان ما يضيع، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a stick now at the station, so it doesn’t get lost, and I also took the short cable</span> |
 
 

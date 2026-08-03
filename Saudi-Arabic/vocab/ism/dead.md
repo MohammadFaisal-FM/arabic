@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ميت جنب المسجد مع القلم الرصاص، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a dead next to the mosque with the pencil, if you need it later, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ميت الحين على المكتب، بس خلّه قريب منك، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a dead now on the desk, but keep it near you, and I also took the light blanket</span> |
 
 

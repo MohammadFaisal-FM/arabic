@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت جامعة في الصالون، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an university in the living room, but keep it near you, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جامعة قدام التلفاز مع الجورب الأبيض، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an university in front of the TV with the white sock, before Maghrib prayer, and then the boy slept</span> |
 
 

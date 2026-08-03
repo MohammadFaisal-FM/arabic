@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت جورج في المحطة، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a george at the station, because work finished early, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جورج في البقالة مع الشاحن الطويل، لأن الزحمة قوية، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a george at the grocery with the long charger, because traffic is heavy, and then I replied to the message</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الغربي عند الصيدلية مع الغطاء الشفاف، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a western at the pharmacy with the clear cover, before the food gets cold, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الغربي الحين قدام التلفاز، قبل صلاة المغرب، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a western now in front of the TV, before Maghrib prayer, and I also took the white sock</span> |
 
 

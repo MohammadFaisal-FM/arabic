@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مستعمرة عند الصيدلية، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a settlement at the pharmacy, before the food gets cold, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مستعمرة على المكتب مع البطانية الخفيفة، عشان الضيوف يوصلون، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a settlement on the desk with the light blanket, because guests are arriving, and then I washed my hands</span> |
 
 

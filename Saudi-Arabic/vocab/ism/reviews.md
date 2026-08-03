@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مراجعات الحين في الحقيبة، قبل ما يجي السائق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a reviews now in the bag, before the driver arrives, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مراجعات في المطبخ، إذا احتجته بعدين، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a reviews in the kitchen, if you need it later, and then I closed the window</span> |
 
 

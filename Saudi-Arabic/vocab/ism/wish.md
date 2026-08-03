@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يتمنى في السيارة مع الوسادة الناعمة، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a wish in the car with the soft pillow, because the boy is sleepy, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يتمنى جنب البنك مع الزجاجة الفارغة، لأن البطارية ضعيفة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a wish next to the bank with the empty bottle, because the battery is low, and then I charged the device</span> |
 
 

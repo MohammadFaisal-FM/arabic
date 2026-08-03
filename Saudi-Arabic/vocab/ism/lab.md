@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مختبر في المحطة، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a lab at the station, so we make the appointment, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مختبر الحين جنب المسجد، قبل ما يبرد الأكل، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a lab now next to the mosque, before the food gets cold, and I also took the pencil</span> |
 
 

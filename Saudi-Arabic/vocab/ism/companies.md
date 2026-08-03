@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج شركات الحين في الغرفة، لأن الجو حار شوي، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a companies now in the room, because the weather is a bit hot, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شركات في البقالة مع الشاحن الطويل، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a companies at the grocery with the long charger, before the driver arrives, and then we laughed a bit</span> |
 
 

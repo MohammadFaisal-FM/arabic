@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يوفر الحين في الغرفة، عشان الدراسة بكرة، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a provides now in the room, for studying tomorrow, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يوفر في البقالة، قبل ما يقفل المكان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a provides at the grocery, before the place closes, and then I replied to the message</span> |
 
 

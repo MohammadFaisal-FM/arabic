@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ورد على المكتب، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a flower on the desk, before the food gets cold, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ورد عند الباب مع المحفظة البنية، لأن الولد نعسان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a flower at the door with the brown wallet, because the boy is sleepy, and then the boy slept</span> |
 
 

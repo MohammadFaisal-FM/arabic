@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج التابعة الحين في الثلاجة، إذا احتجته بعدين، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an affiliate now in the fridge, if you need it later, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التابعة قدام الملعب، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put an affiliate in front of the pitch, but keep it near you, and then I wrote a note</span> |
 
 

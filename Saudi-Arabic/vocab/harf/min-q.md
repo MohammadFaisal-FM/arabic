@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «من؟» في الجملة، وحطينا المنبه القديميم في الحديقة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">We used “من؟” (who?) in the sentence, and put the old alarm in the park, so the photo comes out clearer, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «من؟» في الجملة، وحطينا الكوب الزجاج عند الاستقبال، لأن البطارية ضعيفة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">We used “من؟” (who?) in the sentence, and put the glass cup at reception, because the battery is low, and then I closed the window</span> |
 

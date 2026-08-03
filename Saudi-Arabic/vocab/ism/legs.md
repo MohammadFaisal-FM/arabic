@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الساقين على المكتب مع البطانية الخفيفة، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a legs on the desk with the light blanket, because the weather is a bit hot, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الساقين الحين في الغرفة، لأن الشغل خلص بدري، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a legs now in the room, because work finished early, and I also took the spare key</span> |
 
 

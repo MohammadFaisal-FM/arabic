@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج انتخاب الحين في الصالون، عشان الضيوف يوصلون، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an election now in the living room, because guests are arriving, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت انتخاب قدام التلفاز، عشان ما نتأخر، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put an election in front of the TV, so we are not late, and then the boy slept</span> |
 
 

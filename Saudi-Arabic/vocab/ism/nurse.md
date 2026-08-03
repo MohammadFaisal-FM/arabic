@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ممرضة الحين في المدرسة، عشان ما يضيع، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a nurse now at school, so it doesn’t get lost, and I also took the sharp scissors</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ممرضة في الغرفة، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a nurse in the room, because work finished early, and then I washed my hands</span> |
 
 

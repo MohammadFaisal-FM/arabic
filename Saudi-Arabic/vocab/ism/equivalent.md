@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مقابل الحين عند الصيدلية، عشان الدراسة بكرة، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an equivalent now at the pharmacy, for studying tomorrow, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مقابل في الحقيبة، لأن الوقت ضيق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an equivalent in the bag, because time is tight, and then I charged the device</span> |
 
 

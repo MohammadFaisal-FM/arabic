@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">كلّمت، وبعدين شفت الملف من الرف، عشان ما نتأخر على الموعد، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I did it (speaking), then I saw the file from the shelf, so we are not late for the appointment, and then I charged the device</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نكلّم الحين، وبعدين أحط الظرف من التطبيق، لأن البطارية ضعيفة</span> | <span class="example-en" dir="ltr" lang="en">we do it (speaking) now, then I put the envelope from the app, because the battery is low</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتكلّم بكرة، وآخذ الطابع من الدرج إذا احتجته، قبل ما يبرد الجو أكثر، وبعدين كتبنا الجملة في الدفتر</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (speaking) tomorrow, and I’ll get the stamp from the drawer if I need it, before the weather gets colder, and then we wrote the sentence in the notebook</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">كلّمتي، وبعدين شفت الجواز من الثلاجة، عشان المراجعة بكرة، وبعد كده رنّ الجرس</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (speaking), then I saw the passport from the fridge, for revision tomorrow, and then the doorbell rang</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تكلّمون الحين، وبعدين أحط التأشيرة من الفرن، لأن الضيوف يوصلون بعد شوي</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (speaking) now, then I put the visa from the oven, because the guests arrive soon</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيكلّم بكرة، وآخذ البطاقة البنكية من الاستقبال إذا احتجته، قبل نهاية الدوام، وبعدين قفلنا الشباك</span> | <span class="example-en" dir="ltr" lang="en">he will do it (speaking) tomorrow, and I’ll get the bank card from reception if I need it, before the end of the workday, and then we closed the window</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">كلّمت، وبعدين شفت المحفظة من البقالة، عشان الهضم يكون أخف، وبعدها مسحنا الطاولة</span> | <span class="example-en" dir="ltr" lang="en">she did it (speaking), then I saw the wallet from the grocery, so digestion is lighter, and then we wiped the table</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يكلّمون الحين، وبعدين أحط النظارات من الخزانة، لأن الباص متأخر اليوم</span> | <span class="example-en" dir="ltr" lang="en">they do it (speaking) now, then I put the glasses from the closet, because the bus is late today</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">كلّمت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (speaking) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أكلّم الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (speaking) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بكلّم بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (speaking) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">كلّمنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (speaking) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نكلّم الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (speaking) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنكلّم بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (speaking) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">كلّمت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (speaking) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تكلّم الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (speaking) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتكلّم بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (speaking) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">كلّمتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (speaking) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تكلّمين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (speaking) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتكلّمين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (speaking) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">كلّمتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (speaking) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تكلّمون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (speaking) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتكلّمون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (speaking) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">كلّم أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (speaking) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يكلّم الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (speaking) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيكلّم بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (speaking) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">كلّمت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (speaking) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تكلّم الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (speaking) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتكلّم بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (speaking) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">كلّموا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (speaking) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يكلّمون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (speaking) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيكلّمون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (speaking) tomorrow if the time works</span> |
 

@@ -101,17 +101,32 @@ const filDir = path.join(vocabDir, 'fil');
 ensureDir(filDir);
 clearGeneratedMd(filDir);
 
+/** Skip placeholders like "—" so ism-only roots (أب، ابن) don't get fake Fiʿl pages. */
+function isUsableVerb(verb) {
+  const v = String(verb ?? '').trim();
+  if (!v) return false;
+  if (/^[—–\-]+$/.test(v)) return false;
+  if (/^[—–\-]+\s*\/\s*[—–\-]+$/.test(v)) return false;
+  return true;
+}
+
 function formsForRoot(root) {
+  const mapped = [];
   if (Array.isArray(root.forms) && root.forms.length > 0) {
-    return root.forms.map((f) => ({
-      form: String(f.form),
-      verb: f.verb,
-      note: f.note ?? '',
-      filId: f.filId ?? root.id,
-      example: f.example ?? '',
-      conjExamples: Array.isArray(f.conjExamples) ? f.conjExamples : null,
-    }));
+    for (const f of root.forms) {
+      if (!isUsableVerb(f.verb)) continue;
+      mapped.push({
+        form: String(f.form),
+        verb: f.verb,
+        note: f.note ?? '',
+        filId: f.filId ?? root.id,
+        example: f.example ?? '',
+        conjExamples: Array.isArray(f.conjExamples) ? f.conjExamples : null,
+      });
+    }
+    return mapped;
   }
+  if (!isUsableVerb(root.formI)) return [];
   return [
     {
       form: 'I',
@@ -303,7 +318,7 @@ function ismLinksSection(item, root, fil) {
   if (!item.rootId || !root) return '';
   const filCell = fil
     ? `[${fil.arabic} / ${fil.present}](#fil/${fil.id})`
-    : `[Open](#fil/${item.rootId})`;
+    : 'N/A — no everyday fiʿl for this root';
   return `
 ### Links
 
@@ -314,12 +329,133 @@ function ismLinksSection(item, root, fil) {
 `;
 }
 
+/** Map root.isms[].type → ism subtype */
+function subtypeFromRootIsm(type) {
+  const t = String(type || '').toLowerCase();
+  if (t.includes('masdar')) return 'masdar';
+  if (t.includes('fāʿil') || t.includes('fail') || t.includes('doer')) return 'doer';
+  if (t.includes('mafʿūl') || t.includes('maful')) return 'maful';
+  if (t.includes('place') || t.includes('makān')) return 'place';
+  if (t.includes('time') || t.includes('zamān')) return 'time';
+  if (t.includes('tool') || t.includes('ālah')) return 'tool';
+  if (t.includes('comparative') || t.includes('tafḍīl')) return 'comparative';
+  if (t.includes('loan')) return 'loan';
+  return 'noun';
+}
+
+function normalizeArabicKey(s) {
+  return String(s || '')
+    .trim()
+    .replace(/[ًٌٍَُِّْ]/g, '')
+    .replace(/ى/g, 'ي')
+    .replace(/ة/g, 'ه')
+    .replace(/أ|إ|آ/g, 'ا');
+}
+
+function slugForRootIsm(rootId, word) {
+  const map = {
+    ا: 'a',
+    أ: 'a',
+    إ: 'i',
+    آ: 'a',
+    ب: 'b',
+    ت: 't',
+    ث: 'th',
+    ج: 'j',
+    ح: 'h',
+    خ: 'kh',
+    د: 'd',
+    ذ: 'dh',
+    ر: 'r',
+    ز: 'z',
+    س: 's',
+    ش: 'sh',
+    ص: 's',
+    ض: 'd',
+    ط: 't',
+    ظ: 'z',
+    ع: 'a',
+    غ: 'gh',
+    ف: 'f',
+    ق: 'q',
+    ك: 'k',
+    ل: 'l',
+    م: 'm',
+    ن: 'n',
+    ه: 'h',
+    و: 'w',
+    ي: 'y',
+    ى: 'y',
+    ة: 'h',
+    ء: '',
+    ئ: 'y',
+    ؤ: 'w',
+  };
+  let base = '';
+  for (const ch of String(word || '').replace(/[ًٌٍَُِّْـ]/g, '')) {
+    if (/[a-zA-Z0-9]/.test(ch)) base += ch.toLowerCase();
+    else if (map[ch]) base += map[ch];
+  }
+  base = base.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 24);
+  return `${rootId}-${base || 'ism'}`;
+}
+
+/**
+ * Promote root.isms into the Ism library so Roots pages can link to Ism tabs.
+ * Also attaches rootId to existing ism entries that match the Arabic word.
+ */
+function mergeRootIsmsIntoIsmItems(items, roots) {
+  const byKey = new Map();
+  for (const item of items) {
+    byKey.set(normalizeArabicKey(item.arabic), item);
+  }
+  const merged = items.map((item) => ({ ...item }));
+  // refresh map to point at cloned objects
+  byKey.clear();
+  for (const item of merged) {
+    byKey.set(normalizeArabicKey(item.arabic), item);
+  }
+
+  for (const root of roots) {
+    if (!Array.isArray(root.isms)) continue;
+    for (const ism of root.isms) {
+      const word = (ism.word || '').trim();
+      if (!word) continue;
+      const key = normalizeArabicKey(word);
+      const existing = byKey.get(key);
+      const { ar, en } = splitBilingualLine(ism.example || '');
+      if (existing) {
+        if (!existing.rootId) existing.rootId = root.id;
+        if (ar && (!existing.example || !isRichExample(existing.example))) {
+          existing.example = ar;
+          existing.exampleEn = en || existing.exampleEn;
+        }
+        continue;
+      }
+      const item = {
+        id: slugForRootIsm(root.id, word),
+        arabic: word,
+        meaning: ism.meaning || root.meaning,
+        subtype: subtypeFromRootIsm(ism.type),
+        example: ar || word,
+        exampleEn: en || '',
+        rootId: root.id,
+      };
+      merged.push(item);
+      byKey.set(key, item);
+    }
+  }
+  return merged;
+}
+
 // --- Ism ---
 const ismDir = path.join(vocabDir, 'ism');
 ensureDir(ismDir);
 clearGeneratedMd(ismDir);
 
-const ismItems = ismSource.items.map((item) => {
+const ismSourceItems = mergeRootIsmsIntoIsmItems(ismSource.items, rootsSource.roots);
+
+const ismItems = ismSourceItems.map((item) => {
   const letter = firstLetterFromArabic(item.arabic);
   const root = item.rootId ? rootById.get(item.rootId) : null;
   const fil = item.rootId ? filByRootId.get(item.rootId) : null;
@@ -432,33 +568,55 @@ const ROOT_TYPE_SLOTS = [
 ];
 
 function rootFormsFor(root) {
-  if (Array.isArray(root.forms) && root.forms.length > 0) {
-    return root.forms.map((f) => ({
-      form: String(f.form),
-      verb: f.verb,
-      note: f.note ?? '',
-      filId: f.filId ?? root.id,
-      example: f.example ?? '',
-    }));
-  }
-  return [{ form: 'I', verb: root.formI, note: '', filId: root.id, example: root.example ?? '' }];
+  return formsForRoot(root).map((f) => ({
+    form: f.form,
+    verb: f.verb,
+    note: f.note ?? '',
+    filId: f.filId,
+    example: f.example ?? '',
+  }));
 }
 
 function wordTypesSection(root, relatedIsms) {
   const rows = [];
 
-  for (const f of rootFormsFor(root)) {
-    const label = formDisplayLabel(root, f);
-    const formExampleRaw =
-      (typeof f.example === 'string' && f.example.trim()) ||
-      (typeof root.example === 'string' && root.example.trim()) ||
-      '';
-    const { ar: exAr, en: exEn } = splitBilingualLine(formExampleRaw);
-    const exampleCell =
-      exAr ? formatExampleCell(exAr, exEn) : 'verb — see Fiʿl';
-    rows.push(
-      `| فعل · fiʿl (Form ${f.form}) | [${escapeTableCell(label)}](#fil/${f.filId}) | ${escapeTableCell(exampleCell)} |`
-    );
+  const forms = rootFormsFor(root);
+  if (forms.length === 0) {
+    rows.push('| فعل · fiʿl (verb) | N/A | ism-only root — no everyday verb |');
+  } else {
+    for (const f of forms) {
+      const label = formDisplayLabel(root, f);
+      const raw =
+        typeof f.example === 'string' && f.example.trim() && f.example.trim() !== '—'
+          ? f.example
+          : typeof root.example === 'string' && root.example.trim()
+            ? root.example
+            : '';
+      const { ar: exAr, en: exEn } = splitBilingualLine(raw);
+      const exampleCell =
+        exAr ? formatExampleCell(exAr, exEn) : 'verb — see Fiʿl';
+      rows.push(
+        `| فعل · fiʿl (Form ${f.form}) | [${escapeTableCell(label)}](#fil/${f.filId}) | ${escapeTableCell(exampleCell)} |`
+      );
+    }
+  }
+
+  // Inline root.isms that still have no Ism page (should be rare after merge)
+  let filledNounFromRoot = false;
+  if (Array.isArray(root.isms)) {
+    for (const ism of root.isms) {
+      const word = ism.word || '';
+      if (!word) continue;
+      const match = relatedIsms.find(
+        (i) => normalizeArabicKey(i.arabic) === normalizeArabicKey(word)
+      );
+      if (match) continue;
+      const { ar: exAr, en: exEn } = splitBilingualLine(ism.example || '');
+      rows.push(
+        `| اسم · ism (noun / other) | ${escapeTableCell(word)} | ${escapeTableCell(formatExampleCell(exAr, exEn))} |`
+      );
+      filledNounFromRoot = true;
+    }
   }
 
   const bySubtype = new Map();
@@ -472,6 +630,7 @@ function wordTypesSection(root, relatedIsms) {
   for (const slot of ROOT_TYPE_SLOTS) {
     const matches = bySubtype.get(slot.key) ?? [];
     if (matches.length === 0) {
+      if (slot.key === 'noun' && filledNounFromRoot) continue;
       rows.push(`| ${slot.label} | N/A | not common / not listed yet |`);
       continue;
     }
@@ -515,7 +674,7 @@ if (fs.existsSync(rootsManifestPath)) {
   const rootsManifest = JSON.parse(fs.readFileSync(rootsManifestPath, 'utf8'));
   rootsManifest.roots = rootsManifest.roots.map((r) => ({
     ...r,
-    filId: r.id,
+    filId: filByRootId.has(r.id) ? r.id : undefined,
     ismIds: (ismsByRoot.get(r.id) ?? []).map((i) => i.id),
   }));
   writeManifest('roots-manifest.json', rootsManifest);

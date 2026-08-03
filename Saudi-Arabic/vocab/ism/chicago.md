@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج شيكاغو الحين في الغرفة، لأن الجو حار شوي، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a chicago now in the room, because the weather is a bit hot, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شيكاغو في الصالون مع المنديل النظيف، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a chicago in the living room with the clean tissue, so it doesn’t get lost, and then the boy slept</span> |
 
 

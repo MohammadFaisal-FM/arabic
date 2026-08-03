@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج كاميرا الحين عند الباب، عشان نلحق الموعد، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a cam now at the door, so we make the appointment, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كاميرا في الحديقة، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a cam in the park, before the food gets cold, and then we prayed</span> |
 
 

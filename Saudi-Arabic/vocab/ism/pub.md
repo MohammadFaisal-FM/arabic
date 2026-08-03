@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حانة الحين قدام الملعب، عشان الدراسة بكرة، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a pub now in front of the pitch, for studying tomorrow, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حانة الحين عند الصيدلية، عشان نلحق الموعد، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a pub now at the pharmacy, so we make the appointment, and I also took the clear cover</span> |
 
 

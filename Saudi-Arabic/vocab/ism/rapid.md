@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج سريع الحين في الثلاجة، إذا احتجته بعدين، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a rapid now in the fridge, if you need it later, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سريع الحين عند العيادة، عشان الدراسة بكرة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a rapid now at the clinic, for studying tomorrow, and I also took the stapler</span> |
 
 

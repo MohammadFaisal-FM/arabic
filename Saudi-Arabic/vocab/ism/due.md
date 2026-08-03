@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حق الحين تحت السرير، عشان ما نتأخر، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a due now under the bed, so we are not late, and I also took the grey scarf</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حق جنب النافذة مع النظارة الشمسية، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a due beside the window with the sunglasses, because the light is better there, and then we prayed</span> |
 
 

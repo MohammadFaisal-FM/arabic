@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت حلم في المحطة مع الكابل القصير، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a dream at the station with the short cable, because work finished early, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حلم الحين في الحديقة، قبل ما يبرد الأكل، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a dream now in the park, before the food gets cold, and I also took the old alarm</span> |
 
 

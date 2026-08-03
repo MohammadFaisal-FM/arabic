@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ويكيبيديا الحين في المدرسة، عشان ما يضيع، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a wikipedia now at school, so it doesn’t get lost, and I also took the sharp scissors</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ويكيبيديا في البقالة، لأن الزحمة قوية، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a wikipedia at the grocery, because traffic is heavy, and then I turned off the light</span> |
 
 

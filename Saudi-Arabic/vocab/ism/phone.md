@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت هاتف في الثلاجة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a phone in the fridge, so the photo comes out clearer, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت هاتف على المكتب مع البطانية الخفيفة، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a phone on the desk with the light blanket, but keep it near you, and then I wrote a note</span> |
 
 

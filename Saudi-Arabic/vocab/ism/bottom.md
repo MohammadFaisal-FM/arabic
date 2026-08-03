@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت قاع في الحقيبة مع الحذاء النظيف، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a bottom in the bag with the clean shoes, before the driver arrives, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قاع عند العيادة مع الدباسة، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a bottom at the clinic with the stapler, before the food gets cold, and then we prayed</span> |
 
 

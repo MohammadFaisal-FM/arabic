@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ريان في الحقيبة مع الحذاء النظيف، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a ryan in the bag with the clean shoes, because traffic is heavy, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ريان جنب البنك مع الزجاجة الفارغة، لأن الوقت ضيق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a ryan next to the bank with the empty bottle, because time is tight, and then I closed the window</span> |
 
 

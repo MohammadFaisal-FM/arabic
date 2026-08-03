@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت موضوعي عند الباب مع المحفظة البنية، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an objective at the door with the brown wallet, so we make the appointment, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج موضوعي الحين قدام المصعد، لأن الولد نعسان، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need an objective now in front of the elevator, because the boy is sleepy, and I also took the empty carton</span> |
 
 

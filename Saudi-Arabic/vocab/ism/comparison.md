@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت مقارنة في البقالة، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I saw a comparison at the grocery, because the boy is sleepy, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">مقارنة كان/كانت على المكتب، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">a comparison was on the desk, because guests are arriving, and then I tidied the table</span> |
 
 

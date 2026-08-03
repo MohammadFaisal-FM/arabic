@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت نصف عند الصيدلية مع الغطاء الشفاف، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a half at the pharmacy with the clear cover, because the weather is a bit hot, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نصف قدام التلفاز، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a half in front of the TV, so it doesn’t get lost, and then the boy slept</span> |
 
 

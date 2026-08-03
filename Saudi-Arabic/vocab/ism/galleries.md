@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت المعارض قدام المصعد، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a galleries in front of the elevator, because guests are arriving, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المعارض الحين تحت السرير، قبل ما يجي السائق، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a galleries now under the bed, before the driver arrives, and I also took the grey scarf</span> |
 
 

@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «جنب» في الجملة، وحطينا الكوب الزجاج عند الاستقبال، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">We used “جنب” (beside / next to) in the sentence, and put the glass cup at reception, before the place closes, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «جنب» في الجملة، وحطينا الوسادة الناعمة في السيارة، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">We used “جنب” (beside / next to) in the sentence, and put the soft pillow in the car, before the driver arrives, and then I replied to the message</span> |
 

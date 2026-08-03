@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حرارة الحين جنب البنك، عشان المراجعة أسهل، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a heat now next to the bank, so revision is easier, and I also took the empty bottle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حرارة جنب المسجد، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a heat next to the mosque, for studying tomorrow, and then I drank some water</span> |
 
 

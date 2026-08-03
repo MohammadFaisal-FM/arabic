@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت هبة في الحقيبة، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a donation in the bag, before the driver arrives, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت هبة في المطبخ مع الملف الورقي، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a donation in the kitchen with the paper file, if you need it later, and then I wiped the floor</span> |
 
 

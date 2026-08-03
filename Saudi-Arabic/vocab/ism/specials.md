@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت العروض الخاصة في الصالون مع المنديل النظيف، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a specials in the living room with the clean tissue, but keep it near you, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج العروض الخاصة الحين جنب النافذة، لأن الجو حار شوي، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a specials now beside the window, because the weather is a bit hot, and I also took the sunglasses</span> |
 
 

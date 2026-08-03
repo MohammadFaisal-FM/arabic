@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت المراكز في الغرفة مع المفتاح الاحتياطي، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a centers in the room with the spare key, because the light is better there, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المراكز الحين عند الاستقبال، عشان الصورة تطلع أوضح، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a centers now at reception, so the photo comes out clearer, and I also took the glass cup</span> |
 
 

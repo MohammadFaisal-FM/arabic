@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مايك في المكتبة مع الملعقة الصغيرة، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a mike in the library with the small spoon, before the driver arrives, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مايك الحين في الثلاجة، قبل ما يبرد الأكل، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a mike now in the fridge, before the food gets cold, and I also took the summer hat</span> |
 
 

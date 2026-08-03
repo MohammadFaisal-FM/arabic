@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يمنع عند العيادة مع الدباسة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a prevent at the clinic with the stapler, so the photo comes out clearer, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يمنع الحين في البقالة، قبل ما يقفل المكان، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a prevent now at the grocery, before the place closes, and I also took the long charger</span> |
 
 

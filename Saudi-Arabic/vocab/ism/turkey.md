@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ديك رومى في الحديقة مع المنبه القديميم، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a turkey in the park with the old alarm, so the photo comes out clearer, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ديك رومى الحين تحت السرير، قبل ما يقفل المكان، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a turkey now under the bed, before the place closes, and I also took the grey scarf</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الدائرة قدام المصعد، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a circuit in front of the elevator, so we make the appointment, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الدائرة الحين في الثلاجة، قبل ما يبرد الأكل، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a circuit now in the fridge, before the food gets cold, and I also took the summer hat</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت جيرسي في الثلاجة مع القبعة الصيفية، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a jersey in the fridge with the summer hat, so the photo comes out clearer, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جيرسي الحين قدام الملعب، عشان الضيوف يوصلون، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a jersey now in front of the pitch, because guests are arriving, and I also took the clear tape</span> |
 
 

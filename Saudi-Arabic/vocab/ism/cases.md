@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت حالات في المكتبة مع الملعقة الصغيرة، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a cases in the library with the small spoon, before the place closes, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حالات في الثلاجة، لأن الإضاءة أحسن هناك، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a cases in the fridge, because the light is better there, and then we locked the door</span> |
 
 

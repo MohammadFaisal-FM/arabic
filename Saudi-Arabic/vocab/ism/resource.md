@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الموارد في الدرج مع الدفتر الأزرق، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a resource in the drawer with the blue notebook, because the light is better there, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الموارد الحين على المكتب، لأن الشغل خلص بدري، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a resource now on the desk, because work finished early, and I also took the light blanket</span> |
 
 

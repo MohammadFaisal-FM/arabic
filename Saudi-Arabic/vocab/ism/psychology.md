@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت علم النفس في الصالون، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a psychology in the living room, because work finished early, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت علم النفس قدام التلفاز مع الجورب الأبيض، لأن الولد نعسان، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a psychology in front of the TV with the white sock, because the boy is sleepy, and then I turned on the fan</span> |
 
 

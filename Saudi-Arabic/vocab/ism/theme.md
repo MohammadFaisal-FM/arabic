@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت سمة جنب النافذة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a theme beside the window, because time is tight, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سمة عند العيادة مع الدباسة، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a theme at the clinic with the stapler, because the light is better there, and then I drank some water</span> |
 
 

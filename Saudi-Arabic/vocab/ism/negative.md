@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج سلبي الحين في الصالون، عشان الضيوف يوصلون، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a negative now in the living room, because guests are arriving, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سلبي جنب النافذة مع النظارة الشمسية، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a negative beside the window with the sunglasses, because the light is better there, and then we prayed</span> |
 
 

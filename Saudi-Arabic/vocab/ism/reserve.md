@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت احتياطي عند العيادة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a reserve at the clinic, because time is tight, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج احتياطي الحين في البقالة، عشان المراجعة أسهل، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a reserve now at the grocery, so revision is easier, and I also took the long charger</span> |
 
 

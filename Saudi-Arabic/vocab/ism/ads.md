@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج إعلانات الحين عند الباب، بس خلّه قريب منك، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an ads now at the door, but keep it near you, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إعلانات الحين على الشرفة، قبل ما يقفل المكان، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need an ads now on the balcony, before the place closes, and I also took the yellow card</span> |
 
 

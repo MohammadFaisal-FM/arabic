@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج سماء الحين في الحديقة، عشان الصورة تطلع أوضح، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a heaven now in the park, so the photo comes out clearer, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سماء في الثلاجة، لأن الجو حار شوي، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a heaven in the fridge, because the weather is a bit hot, and then we locked the door</span> |
 
 

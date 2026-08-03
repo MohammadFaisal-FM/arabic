@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت جنس في المحطة مع الكابل القصير، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a gender at the station with the short cable, because guests are arriving, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت جنس جنب المسجد، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a gender next to the mosque, because the light is better there, and then we prayed</span> |
 
 

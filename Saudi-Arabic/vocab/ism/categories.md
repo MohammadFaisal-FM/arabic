@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت فئات جنب النافذة مع النظارة الشمسية، عشان الصورة تطلع أوضح، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a categories beside the window with the sunglasses, so the photo comes out clearer, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فئات عند العيادة مع الدباسة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a categories at the clinic with the stapler, for studying tomorrow, and then we locked the door</span> |
 
 

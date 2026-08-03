@@ -118,6 +118,20 @@
   ],
   "items": [
     {
+      "id": "athr",
+      "arabic": "أثّر",
+      "past": "أثّر",
+      "present": "يؤثر",
+      "meaning": "effect / influence (أثر) · everyday: affect / influence — use على (عليه / عليّ)",
+      "letter": "أ",
+      "rootId": "athr",
+      "root": "أ-ث-ر",
+      "form": "II",
+      "formI": "أثّر / يؤثر",
+      "example": "أثّرت عليه بكلامي، وهو كمان أثّر عليّ بردّه — I affected him with my words, and he also affected me with his reply.",
+      "file": "vocab/fil/athr.md"
+    },
+    {
       "id": "akhd",
       "arabic": "أخذ",
       "past": "أخذ",
@@ -172,20 +186,6 @@
       "formI": "أمر / يأمر",
       "example": "أمرني أسويها — He told me to do it",
       "file": "vocab/fil/amr.md"
-    },
-    {
-      "id": "aty",
-      "arabic": "أتى",
-      "past": "أتى",
-      "present": "ياتي",
-      "meaning": "coming / bringing",
-      "letter": "أ",
-      "rootId": "aty",
-      "root": "أ-ت-ي",
-      "form": "I",
-      "formI": "أتى / ياتي",
-      "example": "متى تجي؟ — When are you coming?",
-      "file": "vocab/fil/aty.md"
     },
     {
       "id": "bda",
@@ -340,20 +340,6 @@
       "formI": "ثبت / يثبت",
       "example": "ثبت الرقم — Save / confirm the number",
       "file": "vocab/fil/thbt.md"
-    },
-    {
-      "id": "thql",
-      "arabic": "ثقل",
-      "past": "ثقل",
-      "present": "يثقل",
-      "meaning": "being heavy",
-      "letter": "ث",
-      "rootId": "thql",
-      "root": "ث-ق-ل",
-      "form": "I",
-      "formI": "ثقل / يثقل",
-      "example": "الشغل ثقيل — The work is heavy",
-      "file": "vocab/fil/thql.md"
     },
     {
       "id": "jls",
@@ -664,20 +650,6 @@
       "file": "vocab/fil/dwr.md"
     },
     {
-      "id": "dhhb",
-      "arabic": "ذهب",
-      "past": "ذهب",
-      "present": "يذهب",
-      "meaning": "going",
-      "letter": "ذ",
-      "rootId": "dhhb",
-      "root": "ذ-ه-ب",
-      "form": "I",
-      "formI": "ذهب / يذهب",
-      "example": "وين تروح؟ — Where are you going?",
-      "file": "vocab/fil/dhhb.md"
-    },
-    {
       "id": "dhkr",
       "arabic": "ذكر",
       "past": "ذكر",
@@ -720,20 +692,6 @@
       "file": "vocab/fil/rah.md"
     },
     {
-      "id": "ray",
-      "arabic": "رأى",
-      "past": "رأى",
-      "present": "يرى",
-      "meaning": "seeing",
-      "letter": "ر",
-      "rootId": "ray",
-      "root": "ر-ا-ي",
-      "form": "I",
-      "formI": "رأى / يرى",
-      "example": "شفتك أمس — I saw you yesterday",
-      "file": "vocab/fil/ray.md"
-    },
-    {
       "id": "rkb",
       "arabic": "ركب",
       "past": "ركب",
@@ -760,20 +718,6 @@
       "formI": "ردّ / يرد",
       "example": "رد عليّ — Reply to me",
       "file": "vocab/fil/rdd.md"
-    },
-    {
-      "id": "rgb",
-      "arabic": "رغب",
-      "past": "رغب",
-      "present": "يرغب",
-      "meaning": "desiring",
-      "letter": "ر",
-      "rootId": "rgb",
-      "root": "ر-غ-ب",
-      "form": "I",
-      "formI": "رغب / يرغب",
-      "example": "أرغب في القهوة — I’d like coffee",
-      "file": "vocab/fil/rgb.md"
     },
     {
       "id": "zwr",
@@ -1012,20 +956,6 @@
       "formI": "صلح / يصلح",
       "example": "يصلح الجوال — He fixes phones",
       "file": "vocab/fil/slh.md"
-    },
-    {
-      "id": "sbh",
-      "arabic": "صبح",
-      "past": "صبح",
-      "present": "يصبح",
-      "meaning": "becoming morning / waking",
-      "letter": "ص",
-      "rootId": "sbh",
-      "root": "ص-ب-ح",
-      "form": "I",
-      "formI": "صبح / يصبح",
-      "example": "صباح الخير — Good morning",
-      "file": "vocab/fil/sbh.md"
     },
     {
       "id": "drb",
@@ -1378,20 +1308,6 @@
       "file": "vocab/fil/fkr.md"
     },
     {
-      "id": "f3l",
-      "arabic": "فعل",
-      "past": "فعل",
-      "present": "يفعل",
-      "meaning": "doing",
-      "letter": "ف",
-      "rootId": "f3l",
-      "root": "ف-ع-ل",
-      "form": "I",
-      "formI": "فعل / يفعل",
-      "example": "وش أسوي؟ — What should I do?",
-      "file": "vocab/fil/f3l.md"
-    },
-    {
       "id": "fqd",
       "arabic": "فقد",
       "past": "فقد",
@@ -1630,20 +1546,6 @@
       "file": "vocab/fil/lbs.md"
     },
     {
-      "id": "lzm",
-      "arabic": "لزم",
-      "past": "لزم",
-      "present": "يلزم",
-      "meaning": "must / sticking",
-      "letter": "ز",
-      "rootId": "lzm",
-      "root": "ل-ز-م",
-      "form": "I",
-      "formI": "لزم / يلزم",
-      "example": "لازم أروح — I must go",
-      "file": "vocab/fil/lzm.md"
-    },
-    {
       "id": "mshy",
       "arabic": "مشى",
       "past": "مشى",
@@ -1816,13 +1718,13 @@
       "arabic": "هدى",
       "past": "هدى",
       "present": "يهدي",
-      "meaning": "calming / guiding",
+      "meaning": "gifting (هدية) / guiding · everyday: gift someone something; also religious “guide”",
       "letter": "ه",
       "rootId": "hdy",
       "root": "ه-د-ي",
       "form": "I",
       "formI": "هدى / يهدي",
-      "example": "اهدأ شوي — Calm down a bit",
+      "example": "أهديك هالكتاب لأنّي أعرف تحب القراءة — I’ll gift you this book because I know you love reading.",
       "file": "vocab/fil/hdy.md"
     },
     {
@@ -1868,34 +1770,6 @@
       "file": "vocab/fil/wqf.md"
     },
     {
-      "id": "wd3",
-      "arabic": "وضع",
-      "past": "وضع",
-      "present": "يوضع",
-      "meaning": "placing",
-      "letter": "و",
-      "rootId": "wd3",
-      "root": "و-ض-ع",
-      "form": "I",
-      "formI": "وضع / يوضع",
-      "example": "حطها / ضعها هنا — Put it here",
-      "file": "vocab/fil/wd3.md"
-    },
-    {
-      "id": "wjd",
-      "arabic": "وجد",
-      "past": "وجد",
-      "present": "يوجد",
-      "meaning": "finding / existing",
-      "letter": "و",
-      "rootId": "wjd",
-      "root": "و-ج-د",
-      "form": "I",
-      "formI": "وجد / يوجد",
-      "example": "لقيت / ما فيه — I found it / there isn’t",
-      "file": "vocab/fil/wjd.md"
-    },
-    {
       "id": "wld",
       "arabic": "ولد",
       "past": "ولد",
@@ -1910,31 +1784,17 @@
       "file": "vocab/fil/wld.md"
     },
     {
-      "id": "ws3",
-      "arabic": "وسع",
-      "past": "وسع",
-      "present": "يوسع",
-      "meaning": "being wide / roomy",
-      "letter": "و",
-      "rootId": "ws3",
-      "root": "و-س-ع",
-      "form": "I",
-      "formI": "وسع / يوسع",
-      "example": "المكان واسع — The place is spacious",
-      "file": "vocab/fil/ws3.md"
-    },
-    {
       "id": "ysr",
-      "arabic": "يسر",
-      "past": "يسر",
-      "present": "ييسر",
-      "meaning": "being easy",
+      "arabic": "ييسّر",
+      "past": "ييسّر",
+      "present": "ييسّر",
+      "meaning": "ease / making easy (يسير / ييسّر) · everyday formula: الله ييسّر (Form I rare as conjugated “be easy”)",
       "letter": "ي",
       "rootId": "ysr",
       "root": "ي-س-ر",
-      "form": "I",
-      "formI": "يسر / ييسر",
-      "example": "الله ييسّر — May God make it easy",
+      "form": "II",
+      "formI": "ييسّر / ييسّر",
+      "example": "الله ييسّر أمرك، وخلّك ما تستعجل الشغلة — May God make your matter easy, and don’t rush the task.",
       "file": "vocab/fil/ysr.md"
     },
     {

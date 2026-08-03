@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وش تسوي؟، ولقيت الوسادة الناعمة في المحطة، لأن البطارية ضعيفة، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">What are you doing?, and I found the soft pillow at the station, because the battery is low, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وش تسوي؟، ولقيت اللاصق الشفاف على الشرفة، قبل ما يقفل المكان، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">What are you doing?, and I found the clear tape on the balcony, before the place closes, and then I washed my hands</span> |
 
 
 ---

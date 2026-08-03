@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت البطاريات في المكتبة مع الملعقة الصغيرة، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a batteries in the library with the small spoon, so revision is easier, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج البطاريات الحين قدام التلفاز، قبل صلاة المغرب، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a batteries now in front of the TV, before Maghrib prayer, and I also took the white sock</span> |
 
 

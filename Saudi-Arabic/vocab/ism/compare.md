@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يقارن قدام المصعد، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a compare in front of the elevator, so we make the appointment, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يقارن الحين في الصالون، عشان ما يضيع، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a compare now in the living room, so it doesn’t get lost, and I also took the clean tissue</span> |
 
 

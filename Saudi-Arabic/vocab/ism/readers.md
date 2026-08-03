@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت القراء في البقالة مع الشاحن الطويل، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a readers at the grocery with the long charger, so it doesn’t get lost, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج القراء الحين على المكتب، بس خلّه قريب منك، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a readers now on the desk, but keep it near you, and I also took the light blanket</span> |
 
 

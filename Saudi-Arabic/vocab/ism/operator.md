@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مشغل تحت السرير، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an operator under the bed, before Maghrib prayer, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مشغل قدام الملعب مع اللاصق الشفاف، عشان نلحق الموعد، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an operator in front of the pitch with the clear tape, so we make the appointment, and then I wrote a note</span> |
 
 

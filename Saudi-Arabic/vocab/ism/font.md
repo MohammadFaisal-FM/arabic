@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الخط الحين جنب البنك، عشان المراجعة أسهل، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a font now next to the bank, so revision is easier, and I also took the empty bottle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الخط في الصالون، قبل صلاة المغرب، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a font in the living room, before Maghrib prayer, and then the phone rang</span> |
 
 

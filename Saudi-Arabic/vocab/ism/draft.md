@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مسودة عند الاستقبال مع الكوب الزجاج، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a draft at reception with the glass cup, so revision is easier, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مسودة الحين عند الباب، قبل صلاة المغرب، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a draft now at the door, before Maghrib prayer, and I also took the brown wallet</span> |
 
 

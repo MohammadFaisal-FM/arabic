@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت غرفة في الحديقة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a room in the park, because the battery is low, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت غرفة عند الصيدلية مع الغطاء الشفاف، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a room at the pharmacy with the clear cover, because guests are arriving, and then I tidied the table</span> |
 
 

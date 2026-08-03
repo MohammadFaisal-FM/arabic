@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت أسلحة في المحطة، عشان الضيوف يوصلون، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a weapons at the station, because guests are arriving, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أسلحة الحين في الصالون، عشان ما يضيع، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a weapons now in the living room, so it doesn’t get lost, and I also took the clean tissue</span> |
 
 

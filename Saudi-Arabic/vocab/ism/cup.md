@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت كوب عند العيادة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a cup at the clinic, if you need it later, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كوب عند الصيدلية مع الغطاء الشفاف، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a cup at the pharmacy with the clear cover, but keep it near you, and then I washed my hands</span> |
 
 

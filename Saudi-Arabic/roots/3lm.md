@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تعلّم عربي، ولقيت الجورب الأبيض قدام الملعب، عشان المراجعة أسهل، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">Learn Arabic, and I found the white sock in front of the pitch, so revision is easier, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تعلّم عربي، ولقيت المحفظة البنية جنب البنك، عشان الصورة تطلع أوضح، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">Learn Arabic, and I found the brown wallet next to the bank, so the photo comes out clearer, and then I turned on the fan</span> |
 
 
 ---

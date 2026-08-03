@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أمازون الحين قدام المصعد، بس خلّه قريب منك، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need an amazon now in front of the elevator, but keep it near you, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أمازون تحت السرير، قبل ما يقفل المكان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an amazon under the bed, before the place closes, and then we laughed a bit</span> |
 
 

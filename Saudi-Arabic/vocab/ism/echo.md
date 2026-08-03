@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج صدى الحين قدام التلفاز، بس خلّه قريب منك، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need an echo now in front of the TV, but keep it near you, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج صدى الحين في المحطة، عشان ما نتأخر، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need an echo now at the station, so we are not late, and I also took the short cable</span> |
 
 

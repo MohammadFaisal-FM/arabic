@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يختار في الثلاجة مع القبعة الصيفية، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a select in the fridge with the summer hat, if you need it later, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يختار الحين جنب النافذة، قبل ما يبرد الأكل، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a select now beside the window, before the food gets cold, and I also took the sunglasses</span> |
 
 

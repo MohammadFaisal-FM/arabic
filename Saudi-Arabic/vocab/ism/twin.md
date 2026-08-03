@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت التوأم جنب النافذة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a twin beside the window, if you need it later, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التوأم في الحديقة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a twin in the park, for studying tomorrow, and then we locked the door</span> |
 
 

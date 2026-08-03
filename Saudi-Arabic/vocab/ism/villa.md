@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت فيلا قدام الملعب مع اللاصق الشفاف، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a villa in front of the pitch with the clear tape, because the light is better there, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فيلا عند الصيدلية مع الغطاء الشفاف، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a villa at the pharmacy with the clear cover, but keep it near you, and then I washed my hands</span> |
 
 

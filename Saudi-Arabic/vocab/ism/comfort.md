@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت راحة جنب البنك مع الزجاجة الفارغة، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a comfort next to the bank with the empty bottle, because traffic is heavy, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج راحة الحين قدام المصعد، قبل صلاة المغرب، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a comfort now in front of the elevator, before Maghrib prayer, and I also took the empty carton</span> |
 
 

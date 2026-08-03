@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت سيرة ذاتية في الحقيبة، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a resume in the bag, before the place closes, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سيرة ذاتية جنب البنك مع الزجاجة الفارغة، إذا احتجته بعدين، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a resume next to the bank with the empty bottle, if you need it later, and then I closed the window</span> |
 
 

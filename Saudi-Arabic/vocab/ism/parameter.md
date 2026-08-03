@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت المعلمة في المطبخ مع الملف الورقي، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a parameter in the kitchen with the paper file, before the place closes, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المعلمة جنب البنك مع الزجاجة الفارغة، لأن الوقت ضيق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a parameter next to the bank with the empty bottle, because time is tight, and then I closed the window</span> |
 
 

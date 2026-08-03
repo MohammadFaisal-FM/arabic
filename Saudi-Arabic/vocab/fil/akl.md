@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">أكلت، وبعدين شفت الملاحظات من الثلاجة، عشان ما نتأخر على الموعد، وبعدها رجعت الغرفة بهدوء</span> | <span class="example-en" dir="ltr" lang="en">I did it (eating / consuming), then I saw the notes from the fridge, so we are not late for the appointment, and then I went back to the room quietly</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">ناكل الحين، وبعدين أحط تذكرة القطار من البقالة، لأن البطارية ضعيفة</span> | <span class="example-en" dir="ltr" lang="en">we do it (eating / consuming) now, then I put the train ticket from the grocery, because the battery is low</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتاكل بكرة، وآخذ الماء البارد من الخزانة إذا احتجته، قبل ما يبرد الجو أكثر، وبعدين قفلنا الشباك</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (eating / consuming) tomorrow, and I’ll get the cold water from the closet if I need it, before the weather gets colder, and then we closed the window</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">أكلتي، وبعدين شفت كتب الأطفال من الإيميل، عشان المراجعة بكرة، وبعدها مسحنا الطاولة</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (eating / consuming), then I saw the children’s books from email, for revision tomorrow, and then we wiped the table</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تاكلون الحين، وبعدين أحط الزيتون واللبنة من الصالون، قبل نهاية الدوام</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (eating / consuming) now, then I put the olives and labneh from the living room, before the end of the workday</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بياكل بكرة، وآخذ الشاي الأخضر من الشرفة إذا احتجته، عشان الهضم يكون أخف، وبعدين رتبنا الكراتين</span> | <span class="example-en" dir="ltr" lang="en">he will do it (eating / consuming) tomorrow, and I’ll get the green tea from the balcony if I need it, so digestion is lighter, and then we arranged the boxes</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">أكلت، وبعدين شفت بطاقة الدخول من الدرج الثاني، قبل ما تطفى الأنوار، وبعدها ردّينا على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">she did it (eating / consuming), then I saw the entry card from the second drawer, before the lights go out, and then we replied to the message</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">ياكلون الحين، وبعدين أحط السماعات من الرف العلوي، عشان الاختبار يوم الأحد</span> | <span class="example-en" dir="ltr" lang="en">they do it (eating / consuming) now, then I put the headphones from the top shelf, because the exam is on Sunday</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">أكلت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (eating / consuming) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أاكل الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (eating / consuming) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">باكل بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (eating / consuming) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">أكلنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (eating / consuming) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">ناكل الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (eating / consuming) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بناكل بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (eating / consuming) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">أكلت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (eating / consuming) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تاكل الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (eating / consuming) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتاكل بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (eating / consuming) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">أكلتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (eating / consuming) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تاكلين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (eating / consuming) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتاكلين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (eating / consuming) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">أكلتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (eating / consuming) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تاكلون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (eating / consuming) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتاكلون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (eating / consuming) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">أكل أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (eating / consuming) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">ياكل الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (eating / consuming) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بياكل بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (eating / consuming) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">أكلت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (eating / consuming) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تاكل الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (eating / consuming) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتاكل بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (eating / consuming) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">أكلوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (eating / consuming) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">ياكلون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (eating / consuming) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بياكلون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (eating / consuming) tomorrow if the time works</span> |
 

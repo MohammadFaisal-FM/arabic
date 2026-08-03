@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت صناديق عند الصيدلية، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a boxes at the pharmacy, for studying tomorrow, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت صناديق في الحقيبة مع الحذاء النظيف، لأن الوقت ضيق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a boxes in the bag with the clean shoes, because time is tight, and then I closed the window</span> |
 
 

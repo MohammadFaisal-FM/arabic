@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت احتجاز على الشرفة مع الكابل القصير، قبل ما يبرد الأكل، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a detention on the balcony with the short cable, before the food gets cold, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج احتجاز الحين في المكتبة، عشان الصورة تطلع أوضح، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a detention now in the library, so the photo comes out clearer, and I also took the yellow card</span> |
 
 

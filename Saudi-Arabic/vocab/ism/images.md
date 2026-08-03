@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الصور عند الباب، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put an images at the door, but keep it near you, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الصور جنب البنك، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put an images next to the bank, because the battery is low, and then I wiped the floor</span> |
 
 

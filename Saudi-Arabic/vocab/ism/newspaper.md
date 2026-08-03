@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت صحيفة في المكتبة مع الملعقة الصغيرة، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a newspaper in the library with the small spoon, before the driver arrives, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج صحيفة الحين قدام التلفاز، لأن الولد نعسان، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a newspaper now in front of the TV, because the boy is sleepy, and I also took the white sock</span> |
 
 

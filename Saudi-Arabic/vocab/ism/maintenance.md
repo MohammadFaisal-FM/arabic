@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت صيانة عند العيادة مع الدباسة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a maintenance at the clinic with the stapler, if you need it later, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج صيانة الحين في الحديقة، قبل ما يبرد الأكل، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a maintenance now in the park, before the food gets cold, and I also took the old alarm</span> |
 
 

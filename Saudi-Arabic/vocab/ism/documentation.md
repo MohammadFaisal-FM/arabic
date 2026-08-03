@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الوثائق في الحقيبة، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a documentation in the bag, because traffic is heavy, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الوثائق عند العيادة، لأن الجو حار شوي، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a documentation at the clinic, because the weather is a bit hot, and then we locked the door</span> |
 
 

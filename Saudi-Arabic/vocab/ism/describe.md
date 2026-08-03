@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يصف على المكتب، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a describe on the desk, before the food gets cold, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يصف جنب البنك، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a describe next to the bank, because the battery is low, and then I wiped the floor</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت اليكس عند العيادة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an alex at the clinic, if you need it later, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اليكس جنب المسجد مع القلم الرصاص، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an alex next to the mosque with the pencil, for studying tomorrow, and then we prayed</span> |
 
 

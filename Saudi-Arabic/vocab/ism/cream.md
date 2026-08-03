@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت كريم في الصالون، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a cream in the living room, because guests are arriving, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كريم الحين جنب النافذة، لأن الإضاءة أحسن هناك، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a cream now beside the window, because the light is better there, and I also took the sunglasses</span> |
 
 

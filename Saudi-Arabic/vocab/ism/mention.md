@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يذكر عند الاستقبال مع الكوب الزجاج، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a mention at reception with the glass cup, so revision is easier, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يذكر الحين في المطبخ، لأن البطارية ضعيفة، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a mention now in the kitchen, because the battery is low, and I also took the paper file</span> |
 
 

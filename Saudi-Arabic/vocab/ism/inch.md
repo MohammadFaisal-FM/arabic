@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت بوصة في الحديقة مع المنبه القديميم، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an inch in the park with the old alarm, if you need it later, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بوصة الحين تحت السرير، لأن الزحمة قوية، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need an inch now under the bed, because traffic is heavy, and I also took the grey scarf</span> |
 
 

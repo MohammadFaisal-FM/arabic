@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت عاصفة قدام الملعب مع اللاصق الشفاف، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a storm in front of the pitch with the clear tape, because the weather is a bit hot, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عاصفة الحين عند الصيدلية، لأن الشغل خلص بدري، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a storm now at the pharmacy, because work finished early, and I also took the clear cover</span> |
 
 

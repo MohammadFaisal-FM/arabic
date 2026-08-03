@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يفحص الحين في الثلاجة، إذا احتجته بعدين، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a check now in the fridge, if you need it later, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يفحص في السيارة، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a check in the car, so revision is easier, and then I replied to the message</span> |
 
 

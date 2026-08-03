@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج التسجيل الحين عند الباب، عشان الضيوف يوصلون، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a registry now at the door, because guests are arriving, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التسجيل قدام المصعد، عشان ما يضيع، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a registry in front of the elevator, so it doesn’t get lost, and then the phone rang</span> |
 
 

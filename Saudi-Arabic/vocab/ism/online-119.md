@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج استرجاع الحين عند الصيدلية، لأن الإضاءة أحسن هناك، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a recovery now at the pharmacy, because the light is better there, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت استرجاع جنب المسجد، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a recovery next to the mosque, because the light is better there, and then we prayed</span> |
 
 

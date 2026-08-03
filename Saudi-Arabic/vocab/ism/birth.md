@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الولادة عند العيادة مع الدباسة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a birth at the clinic with the stapler, if you need it later, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الولادة الحين في البقالة، لأن الزحمة قوية، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a birth now at the grocery, because traffic is heavy, and I also took the long charger</span> |
 
 

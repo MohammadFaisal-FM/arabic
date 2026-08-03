@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بلوط الحين جنب البنك، قبل ما يقفل المكان، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need an oak now next to the bank, before the place closes, and I also took the empty bottle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بلوط عند الاستقبال مع الكوب الزجاج، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found an oak at reception with the glass cup, if you need it later, and then I charged the device</span> |
 
 

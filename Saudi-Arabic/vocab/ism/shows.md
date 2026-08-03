@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يظهر الحين في المطبخ، عشان المراجعة أسهل، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a shows now in the kitchen, so revision is easier, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يظهر الحين في الحديقة، عشان الدراسة بكرة، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a shows now in the park, for studying tomorrow, and I also took the old alarm</span> |
 
 

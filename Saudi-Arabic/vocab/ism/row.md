@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج صف الحين على المكتب، قبل ما يبرد الأكل، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a row now on the desk, before the food gets cold, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صف قدام الملعب، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a row in front of the pitch, but keep it near you, and then I wrote a note</span> |
 
 

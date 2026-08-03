@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يسقط في المكتبة مع الملعقة الصغيرة، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a drop in the library with the small spoon, before the place closes, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يسقط قدام التلفاز، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a drop in front of the TV, so it doesn’t get lost, and then the boy slept</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أسرع الحين على الشرفة، عشان ما نتأخر، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a faster now on the balcony, so we are not late, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أسرع في الدرج مع الدفتر الأزرق، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a faster in the drawer with the blue notebook, because work finished early, and then I washed my hands</span> |
 
 

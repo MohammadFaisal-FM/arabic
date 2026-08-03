@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مسج في الغرفة، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a message (loan) in the room, before the food gets cold, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مسج قدام المصعد مع الكرتون الفاضي، لأن الولد نعسان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a message (loan) in front of the elevator with the empty carton, because the boy is sleepy, and then the boy slept</span> |
 
 

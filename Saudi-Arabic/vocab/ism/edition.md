@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج طبعة الحين في الدرج، لأن الجو حار شوي، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need an edition now in the drawer, because the weather is a bit hot, and I also took the blue notebook</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت طبعة على المكتب، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put an edition on the desk, so we make the appointment, and then I washed my hands</span> |
 
 

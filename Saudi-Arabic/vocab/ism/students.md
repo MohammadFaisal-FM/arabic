@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت طلاب في المطبخ مع الملف الورقي، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a students in the kitchen with the paper file, before the place closes, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت طلاب جنب البنك مع الزجاجة الفارغة، لأن الوقت ضيق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a students next to the bank with the empty bottle, because time is tight, and then I closed the window</span> |
 
 

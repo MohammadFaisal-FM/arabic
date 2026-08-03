@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت قبول قدام التلفاز مع الجورب الأبيض، عشان نلحق الموعد، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found an acceptance in front of the TV with the white sock, so we make the appointment, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قبول الحين عند العيادة، قبل ما يبرد الأكل، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need an acceptance now at the clinic, before the food gets cold, and I also took the stapler</span> |
 
 

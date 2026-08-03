@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اعجاب الحين عند الاستقبال، قبل ما يجي السائق، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a wonder now at reception, before the driver arrives, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اعجاب تحت السرير، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a wonder under the bed, before the driver arrives, and then we laughed a bit</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت فلسفة على المكتب مع البطانية الخفيفة، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a philosophy on the desk with the light blanket, before the food gets cold, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فلسفة الحين قدام الملعب، بس خلّه قريب منك، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a philosophy now in front of the pitch, but keep it near you, and I also took the clear tape</span> |
 
 

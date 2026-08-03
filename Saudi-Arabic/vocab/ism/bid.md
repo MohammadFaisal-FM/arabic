@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مُنَاقَصَة جنب النافذة مع النظارة الشمسية، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a bid beside the window with the sunglasses, if you need it later, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مُنَاقَصَة في الغرفة مع المفتاح الاحتياطي، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a bid in the room with the spare key, but keep it near you, and then I wrote a note</span> |
 
 

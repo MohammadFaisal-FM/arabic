@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج البنوك الحين تحت السرير، عشان ما نتأخر، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a banks now under the bed, so we are not late, and I also took the grey scarf</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت البنوك قدام الملعب مع اللاصق الشفاف، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a banks in front of the pitch with the clear tape, because work finished early, and then I wrote a note</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت التحفظات في الصالون، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a reservations in the living room, because work finished early, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التحفظات جنب النافذة مع النظارة الشمسية، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a reservations beside the window with the sunglasses, for studying tomorrow, and then I drank some water</span> |
 
 

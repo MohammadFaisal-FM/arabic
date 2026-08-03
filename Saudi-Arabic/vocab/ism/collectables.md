@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مقتنيات جنب البنك، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a collectables next to the bank, before the driver arrives, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مقتنيات عند الاستقبال مع الكوب الزجاج، عشان الصورة تطلع أوضح، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a collectables at reception with the glass cup, so the photo comes out clearer, and then I closed the window</span> |
 
 

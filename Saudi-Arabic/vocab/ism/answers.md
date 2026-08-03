@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت إجابات جنب النافذة مع النظارة الشمسية، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an answers beside the window with the sunglasses, because time is tight, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إجابات الحين في الغرفة، لأن الشغل خلص بدري، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an answers now in the room, because work finished early, and I also took the spare key</span> |
 
 

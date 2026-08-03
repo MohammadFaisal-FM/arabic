@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج جوجل الحين جنب النافذة، إذا احتجته بعدين، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a google now beside the window, if you need it later, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جوجل الحين في الغرفة، بس خلّه قريب منك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a google now in the room, but keep it near you, and I also took the spare key</span> |
 
 

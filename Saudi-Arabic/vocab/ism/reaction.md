@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت رد فعل في المطبخ مع الملف الورقي، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a reaction in the kitchen with the paper file, because traffic is heavy, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رد فعل جنب البنك مع الزجاجة الفارغة، لأن البطارية ضعيفة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a reaction next to the bank with the empty bottle, because the battery is low, and then I charged the device</span> |
 
 

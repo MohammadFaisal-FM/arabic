@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت تلك قدام المصعد مع الكرتون الفاضي، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found an ones in front of the elevator with the empty carton, but keep it near you, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تلك الحين في الثلاجة، لأن الجو حار شوي، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an ones now in the fridge, because the weather is a bit hot, and I also took the summer hat</span> |
 
 

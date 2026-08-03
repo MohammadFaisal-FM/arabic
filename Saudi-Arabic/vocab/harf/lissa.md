@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «لسه» في الجملة، وحطينا الوسادة الناعمة في السيارة، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">We used “لسه” (still / not yet) in the sentence, and put the soft pillow in the car, so we are not late, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «لسه» في الجملة، وحطينا الكابل القصير في المحطة، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">We used “لسه” (still / not yet) in the sentence, and put the short cable at the station, so it doesn’t get lost, and then the boy slept</span> |
 

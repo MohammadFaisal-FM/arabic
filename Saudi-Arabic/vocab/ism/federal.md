@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الفيدرالية الحين في البقالة، لأن الولد نعسان، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a federal now at the grocery, because the boy is sleepy, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الفيدرالية قدام التلفاز، قبل صلاة المغرب، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a federal in front of the TV, before Maghrib prayer, and then I turned on the fan</span> |
 
 

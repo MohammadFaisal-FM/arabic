@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج نصائح الحين على المكتب، عشان الدراسة بكرة، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a tips now on the desk, for studying tomorrow, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نصائح الحين عند العيادة، لأن الجو حار شوي، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a tips now at the clinic, because the weather is a bit hot, and I also took the stapler</span> |
 
 

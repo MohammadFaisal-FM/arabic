@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج عامل الحين عند الصيدلية، عشان الدراسة بكرة، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a worker now at the pharmacy, for studying tomorrow, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عامل عند الاستقبال، لأن البطارية ضعيفة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a worker at reception, because the battery is low, and then I closed the window</span> |
 
 

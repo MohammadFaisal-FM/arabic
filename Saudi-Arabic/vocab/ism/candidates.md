@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مرشحين الحين في الدرج، لأن الجو حار شوي، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a candidates now in the drawer, because the weather is a bit hot, and I also took the blue notebook</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مرشحين قدام الملعب مع اللاصق الشفاف، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a candidates in front of the pitch with the clear tape, because work finished early, and then I wrote a note</span> |
 
 

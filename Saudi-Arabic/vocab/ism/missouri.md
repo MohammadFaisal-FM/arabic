@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ميسوري الحين قدام المصعد، بس خلّه قريب منك، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a missouri now in front of the elevator, but keep it near you, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ميسوري في الثلاجة، لأن الجو حار شوي، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a missouri in the fridge, because the weather is a bit hot, and then we locked the door</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الرابط الثابت في الدرج مع الدفتر الأزرق، قبل ما يبرد الأكل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a permalink in the drawer with the blue notebook, before the food gets cold, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الرابط الثابت الحين في المطبخ، لأن البطارية ضعيفة، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a permalink now in the kitchen, because the battery is low, and I also took the paper file</span> |
 
 

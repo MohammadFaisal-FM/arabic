@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأماكن الحين على المكتب، لأن الإضاءة أحسن هناك، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a places now on the desk, because the light is better there, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأماكن الحين في المحطة، لأن الولد نعسان، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a places now at the station, because the boy is sleepy, and I also took the short cable</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج المالك الحين عند الاستقبال، قبل ما يجي السائق، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a landlord now at reception, before the driver arrives, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المالك في الحقيبة، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a landlord in the bag, if you need it later, and then I charged the device</span> |
 
 

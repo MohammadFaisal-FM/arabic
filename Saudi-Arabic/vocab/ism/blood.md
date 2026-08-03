@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج دم الحين جنب المسجد، إذا احتجته بعدين، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a blood now next to the mosque, if you need it later, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دم تحت السرير، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a blood under the bed, so revision is easier, and then I turned off the light</span> |
 
 

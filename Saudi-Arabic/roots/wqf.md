@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وقف هنا، ولقيت المفتاح الاحتياطي جنب المسجد، لأن الولد نعسان، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">Stop here, and I found the spare key next to the mosque, because the boy is sleepy, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وقف هنا، ولقيت القلم الرصاص قدام التلفاز، قبل صلاة المغرب، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">Stop here, and I found the pencil in front of the TV, before Maghrib prayer, and then we locked the door</span> |
 
 
 ---

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت سائل تحت السرير مع الوشاح الرمادي، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a liquid under the bed with the grey scarf, so we are not late, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سائل في السيارة، قبل ما يجي السائق، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a liquid in the car, before the driver arrives, and then I turned off the light</span> |
 
 

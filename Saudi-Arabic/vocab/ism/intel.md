@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج إنتل الحين في الثلاجة، إذا احتجته بعدين، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an intel now in the fridge, if you need it later, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إنتل الحين في المدرسة، لأن الزحمة قوية، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need an intel now at school, because traffic is heavy, and I also took the sharp scissors</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يا تحت السرير مع الوشاح الرمادي، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a hey under the bed with the grey scarf, before Maghrib prayer, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يا الحين قدام الملعب، عشان نلحق الموعد، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a hey now in front of the pitch, so we make the appointment, and I also took the clear tape</span> |
 
 

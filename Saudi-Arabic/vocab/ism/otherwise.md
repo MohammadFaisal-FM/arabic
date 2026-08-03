@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت خلاف ذلك عند الصيدلية مع الغطاء الشفاف، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an otherwise at the pharmacy with the clear cover, because the weather is a bit hot, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت خلاف ذلك قدام التلفاز، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put an otherwise in front of the TV, so it doesn’t get lost, and then the boy slept</span> |
 
 

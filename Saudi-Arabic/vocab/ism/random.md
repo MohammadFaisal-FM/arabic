@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج عشوائي الحين في المدرسة، عشان ما نتأخر، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a random now at school, so we are not late, and I also took the sharp scissors</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عشوائي في المكتبة مع الملعقة الصغيرة، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a random in the library with the small spoon, if you need it later, and then I wiped the floor</span> |
 
 

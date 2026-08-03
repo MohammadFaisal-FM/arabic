@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يتصور قدام الملعب، لأن الجو حار شوي، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put an imagine in front of the pitch, because the weather is a bit hot, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يتصور عند الصيدلية مع الغطاء الشفاف، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an imagine at the pharmacy with the clear cover, because work finished early, and then I wrote a note</span> |
 
 

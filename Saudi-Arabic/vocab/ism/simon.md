@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج سيمون الحين عند الاستقبال، لأن الزحمة قوية، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a simon now at reception, because traffic is heavy, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سيمون في المطبخ، لأن الوقت ضيق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a simon in the kitchen, because time is tight, and then I closed the window</span> |
 
 

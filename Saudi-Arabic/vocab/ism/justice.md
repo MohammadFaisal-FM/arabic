@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج عدالة الحين عند الباب، بس خلّه قريب منك، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a justice now at the door, but keep it near you, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عدالة الحين في المحطة، قبل صلاة المغرب، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a justice now at the station, before Maghrib prayer, and I also took the short cable</span> |
 
 

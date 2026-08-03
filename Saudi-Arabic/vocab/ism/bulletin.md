@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت نشرة في المكتبة، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a bulletin in the library, before the place closes, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نشرة الحين في الحقيبة، إذا احتجته بعدين، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a bulletin now in the bag, if you need it later, and I also took the clean shoes</span> |
 
 

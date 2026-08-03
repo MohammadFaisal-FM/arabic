@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يعترض في الثلاجة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a protest in the fridge, so the photo comes out clearer, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يعترض جنب النافذة مع النظارة الشمسية، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a protest beside the window with the sunglasses, for studying tomorrow, and then I drank some water</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت بحث تحت السرير مع الوشاح الرمادي، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a research under the bed with the grey scarf, so it doesn’t get lost, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بحث الحين في السيارة، عشان المراجعة أسهل، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a research now in the car, so revision is easier, and I also took the soft pillow</span> |
 
 

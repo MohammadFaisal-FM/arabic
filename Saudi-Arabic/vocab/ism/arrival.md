@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت وصول في المدرسة مع المقص الحاد، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found an arrival at school with the sharp scissors, so we are not late, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج وصول الحين في الغرفة، عشان نلحق الموعد، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an arrival now in the room, so we make the appointment, and I also took the spare key</span> |
 
 

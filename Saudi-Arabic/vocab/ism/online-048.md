@@ -6,7 +6,7 @@
 | **Subtype** | اسم · ism (noun) |
 | **Arabic** | ابره |
 | **Meaning** | needle |
-| **Root** | — (loan / no everyday root) |
+| **Root** | [أ-ب-ر](#roots/abr) |
 
 ---
 
@@ -14,6 +14,13 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ابره الحين قدام التلفاز، لأن الجو حار شوي، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a needle now in front of the TV, because the weather is a bit hot, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">الإبرة وجعتني شوي، بس خلصت بسرعة</span> | <span class="example-en" dir="ltr" lang="en">The injection hurt a bit, but it was over quickly.</span> |
 
+
+### Links
+
+| | |
+|-|-|
+| **Root family** | [أ-ب-ر](#roots/abr) — see all word types |
+| **Fiʿl** | N/A — no everyday fiʿl for this root |
 

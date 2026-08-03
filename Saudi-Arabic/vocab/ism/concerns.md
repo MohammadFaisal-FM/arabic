@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مخاوف الحين قدام التلفاز، لأن الشغل خلص بدري، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a concerns now in front of the TV, because work finished early, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مخاوف الحين عند العيادة، عشان الدراسة بكرة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a concerns now at the clinic, for studying tomorrow, and I also took the stapler</span> |
 
 

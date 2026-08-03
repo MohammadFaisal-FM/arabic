@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج استراتيجي الحين قدام المصعد، عشان الضيوف يوصلون، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a strategic now in front of the elevator, because guests are arriving, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت استراتيجي في الثلاجة مع القبعة الصيفية، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a strategic in the fridge with the summer hat, because the light is better there, and then I drank some water</span> |
 
 

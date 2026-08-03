@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مدخل الحين جنب البنك، عشان المراجعة أسهل، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need an entrance now next to the bank, so revision is easier, and I also took the empty bottle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مدخل في المكتبة، عشان الصورة تطلع أوضح، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put an entrance in the library, so the photo comes out clearer, and then I wiped the floor</span> |
 
 

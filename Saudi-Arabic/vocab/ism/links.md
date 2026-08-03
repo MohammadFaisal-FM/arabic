@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الروابط الحين جنب النافذة، إذا احتجته بعدين، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a links now beside the window, if you need it later, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الروابط الحين عند العيادة، قبل ما يبرد الأكل، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a links now at the clinic, before the food gets cold, and I also took the stapler</span> |
 
 

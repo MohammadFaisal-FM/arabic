@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يقف الحين في الحقيبة، عشان المراجعة أسهل، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a stands now in the bag, so revision is easier, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يقف الحين جنب البنك، لأن البطارية ضعيفة، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a stands now next to the bank, because the battery is low, and I also took the empty bottle</span> |
 
 

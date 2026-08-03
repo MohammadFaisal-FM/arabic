@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج إلى الأمام الحين عند العيادة، إذا احتجته بعدين، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a forward now at the clinic, if you need it later, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت إلى الأمام عند الصيدلية، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a forward at the pharmacy, but keep it near you, and then I wrote a note</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج دائري الحين جنب النافذة، عشان الصورة تطلع أوضح، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a round now beside the window, so the photo comes out clearer, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج دائري الحين عند العيادة، عشان الدراسة بكرة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a round now at the clinic, for studying tomorrow, and I also took the stapler</span> |
 
 

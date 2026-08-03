@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يشمل قدام التلفاز، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an includes in front of the TV, because work finished early, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يشمل في المطبخ مع الملف الورقي، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found an includes in the kitchen with the paper file, so the photo comes out clearer, and then I charged the device</span> |
 
 

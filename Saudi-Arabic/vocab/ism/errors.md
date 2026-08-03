@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت أخطاء عند العيادة مع الدباسة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found an errors at the clinic with the stapler, because the battery is low, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أخطاء الحين عند الصيدلية، عشان نلحق الموعد، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an errors now at the pharmacy, so we make the appointment, and I also took the clear cover</span> |
 
 

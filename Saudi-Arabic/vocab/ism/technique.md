@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت تقنية في الثلاجة مع القبعة الصيفية، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a technique in the fridge with the summer hat, because time is tight, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تقنية الحين عند العيادة، قبل ما يبرد الأكل، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a technique now at the clinic, before the food gets cold, and I also took the stapler</span> |
 
 

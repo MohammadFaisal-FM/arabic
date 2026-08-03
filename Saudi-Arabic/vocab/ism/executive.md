@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت تنفيذي في الثلاجة مع القبعة الصيفية، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an executive in the fridge with the summer hat, if you need it later, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تنفيذي الحين قدام الملعب، بس خلّه قريب منك، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an executive now in front of the pitch, but keep it near you, and I also took the clear tape</span> |
 
 

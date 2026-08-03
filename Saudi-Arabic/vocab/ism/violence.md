@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت عنف في الحديقة مع المنبه القديميم، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a violence in the park with the old alarm, because time is tight, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عنف تحت السرير، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a violence under the bed, so revision is easier, and then I turned off the light</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج تمويل الحين في الغرفة، لأن الإضاءة أحسن هناك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a finance now in the room, because the light is better there, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تمويل جنب المسجد، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a finance next to the mosque, before the food gets cold, and then we locked the door</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت أكسيد قدام المصعد مع الكرتون الفاضي، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an oxide in front of the elevator with the empty carton, because work finished early, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أكسيد الحين في الصالون، لأن الولد نعسان، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an oxide now in the living room, because the boy is sleepy, and I also took the clean tissue</span> |
 
 

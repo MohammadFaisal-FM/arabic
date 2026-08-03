@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت المفتاح، ولقيت النظارة الشمسية جنب البنك، لأن الشغل خلص بدري، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found the key, and I found the sunglasses next to the bank, because work finished early, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المفتاح، ولقيت الدباسة قدام المصعد، لأن الولد نعسان، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found the key, and I found the stapler in front of the elevator, because the boy is sleepy, and then we locked the door</span> |
 
 
 ---

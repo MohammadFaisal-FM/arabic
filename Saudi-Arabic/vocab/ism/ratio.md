@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج نسبة الحين في الحديقة، لأن البطارية ضعيفة، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a ratio now in the park, because the battery is low, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نسبة جنب المسجد، لأن الجو حار شوي، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a ratio next to the mosque, because the weather is a bit hot, and then we prayed</span> |
 
 

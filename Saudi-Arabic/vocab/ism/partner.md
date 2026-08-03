@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت شريك عند العيادة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a partner at the clinic, because time is tight, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شريك الحين في الحديقة، لأن الإضاءة أحسن هناك، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a partner now in the park, because the light is better there, and I also took the old alarm</span> |
 
 

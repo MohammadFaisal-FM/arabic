@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت جائزة على المكتب، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put an award on the desk, for studying tomorrow, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جائزة قدام الملعب مع اللاصق الشفاف، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an award in front of the pitch with the clear tape, because guests are arriving, and then I tidied the table</span> |
 
 

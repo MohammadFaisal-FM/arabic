@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حشد الحين قدام المصعد، عشان الضيوف يوصلون، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a crowd now in front of the elevator, because guests are arriving, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حشد في الصالون، عشان ما نتأخر، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a crowd in the living room, so we are not late, and then I turned on the fan</span> |
 
 

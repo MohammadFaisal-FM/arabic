@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج روحي الحين في السيارة، عشان ما نتأخر، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a spiritual now in the car, so we are not late, and I also took the soft pillow</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت روحي على الشرفة، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a spiritual on the balcony, so revision is easier, and then I replied to the message</span> |
 
 

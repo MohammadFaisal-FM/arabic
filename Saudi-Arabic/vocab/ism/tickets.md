@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج تذاكر الحين قدام المصعد، لأن الشغل خلص بدري، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a tickets now in front of the elevator, because work finished early, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تذاكر في الدرج، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a tickets in the drawer, but keep it near you, and then I washed my hands</span> |
 
 

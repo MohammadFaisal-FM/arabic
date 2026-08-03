@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مدة عند الاستقبال مع الكوب الزجاج، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a duration at reception with the glass cup, before the driver arrives, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مدة الحين في المطبخ، عشان الصورة تطلع أوضح، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a duration now in the kitchen, so the photo comes out clearer, and I also took the paper file</span> |
 
 

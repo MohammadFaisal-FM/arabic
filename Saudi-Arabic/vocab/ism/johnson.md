@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">جونسون كان/كانت قدام المصعد، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">a johnson was in front of the elevator, but keep it near you, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن جونسون شوي، قبل ما يقفل المكان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">We talked about a johnson a bit, before the place closes, and then we laughed a bit</span> |
 
 

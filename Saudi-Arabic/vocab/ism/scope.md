@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج نِطَاق الحين في المطبخ، لأن الزحمة قوية، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a scope now in the kitchen, because traffic is heavy, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نِطَاق الحين في المكتبة، لأن الوقت ضيق، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a scope now in the library, because time is tight, and I also took the small spoon</span> |
 
 

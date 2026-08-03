@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت التشغيلية في الدرج، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put an operational in the drawer, before the food gets cold, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التشغيلية قدام الملعب مع اللاصق الشفاف، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an operational in front of the pitch with the clear tape, because guests are arriving, and then I tidied the table</span> |
 
 

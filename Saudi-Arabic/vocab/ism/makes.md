@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يجعل الحين قدام التلفاز، لأن الشغل خلص بدري، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a makes now in front of the TV, because work finished early, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يجعل قدام الملعب، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a makes in front of the pitch, but keep it near you, and then I wrote a note</span> |
 
 

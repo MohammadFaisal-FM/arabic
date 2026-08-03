@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج كيو الحين في الثلاجة، عشان الصورة تطلع أوضح، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a que now in the fridge, so the photo comes out clearer, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كيو الحين عند العيادة، لأن الجو حار شوي، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a que now at the clinic, because the weather is a bit hot, and I also took the stapler</span> |
 
 

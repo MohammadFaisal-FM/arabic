@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">بزور أهلي، ولقيت الملف الورقي على الشرفة، لأن الجو حار شوي، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I’ll visit my family, and I found the paper file on the balcony, because the weather is a bit hot, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">بزور أهلي، ولقيت الكابل القصير في المكتبة، لأن الوقت ضيق، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I’ll visit my family, and I found the short cable in the library, because time is tight, and then I turned on the fan</span> |
 
 
 ---

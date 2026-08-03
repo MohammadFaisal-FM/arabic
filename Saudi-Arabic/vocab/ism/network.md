@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت شبكة في الحقيبة مع الحذاء النظيف، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a network in the bag with the clean shoes, before the place closes, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شبكة الحين في المطبخ، لأن الوقت ضيق، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a network now in the kitchen, because time is tight, and I also took the paper file</span> |
 
 

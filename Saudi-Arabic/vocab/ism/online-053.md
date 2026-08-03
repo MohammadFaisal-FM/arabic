@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت اسفل جنب البنك مع الزجاجة الفارغة، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a lowest next to the bank with the empty bottle, before the place closes, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اسفل الحين على الشرفة، قبل ما يقفل المكان، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a lowest now on the balcony, before the place closes, and I also took the yellow card</span> |
 
 

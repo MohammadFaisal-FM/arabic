@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الألبوم الحين على الشرفة، عشان ما يضيع، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need an album now on the balcony, so it doesn’t get lost, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الألبوم عند الصيدلية، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put an album at the pharmacy, because work finished early, and then I tidied the table</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت انتاج على الشرفة مع البطاقة الصفراء، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a production on the balcony with the yellow card, because the boy is sleepy, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج انتاج الحين قدام المصعد، لأن الولد نعسان، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a production now in front of the elevator, because the boy is sleepy, and I also took the empty carton</span> |
 
 

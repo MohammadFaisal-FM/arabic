@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت طلب في المكتبة مع الملعقة الصغيرة، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found an order in the library with the small spoon, so revision is easier, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج طلب الحين عند الاستقبال، عشان الصورة تطلع أوضح، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need an order now at reception, so the photo comes out clearer, and I also took the glass cup</span> |
 
 

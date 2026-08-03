@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت موقع ئي باي تحت السرير مع الوشاح الرمادي، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found an ebay under the bed with the grey scarf, so we are not late, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت موقع ئي باي في السيارة، قبل ما يجي السائق، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put an ebay in the car, before the driver arrives, and then I turned off the light</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أنام بدري، ولقيت الكوب الزجاج في السيارة، لأن الجو حار شوي، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I sleep early, and I found the glass cup in the car, because the weather is a bit hot, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أنام بدري، ولقيت البطانية الخفيفة في المدرسة، قبل ما يجي السائق، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I sleep early, and I found the light blanket at school, before the driver arrives, and then I wrote a note</span> |
 
 
 ---

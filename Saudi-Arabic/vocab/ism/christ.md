@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج المسيح الحين على المكتب، لأن الإضاءة أحسن هناك، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a christ now on the desk, because the light is better there, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المسيح الحين جنب البنك، عشان الصورة تطلع أوضح، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a christ now next to the bank, so the photo comes out clearer, and I also took the empty bottle</span> |
 
 

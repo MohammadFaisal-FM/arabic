@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الوالدين الحين تحت السرير، عشان ما نتأخر، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a parent now under the bed, so we are not late, and I also took the grey scarf</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الوالدين على المكتب، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a parent on the desk, so we make the appointment, and then I washed my hands</span> |
 
 

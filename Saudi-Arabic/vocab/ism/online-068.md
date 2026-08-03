@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ادم الحين في المكتبة، عشان المراجعة أسهل، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an adam now in the library, so revision is easier, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ادم في البقالة، عشان المراجعة أسهل، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an adam at the grocery, so revision is easier, and then we laughed a bit</span> |
 
 

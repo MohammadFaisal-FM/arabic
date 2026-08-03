@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مصنع الحين في الثلاجة، لأن البطارية ضعيفة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a factory now in the fridge, because the battery is low, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مصنع جنب النافذة، لأن الجو حار شوي، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a factory beside the window, because the weather is a bit hot, and then I drank some water</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت إفراط في الحقيبة، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put an excess in the bag, so revision is easier, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت إفراط جنب البنك، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put an excess next to the bank, because the battery is low, and then I wiped the floor</span> |
 
 

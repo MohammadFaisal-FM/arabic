@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ردهة جنب المسجد مع القلم الرصاص، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a lobby next to the mosque with the pencil, because the battery is low, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ردهة الحين في الثلاجة، لأن الجو حار شوي، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a lobby now in the fridge, because the weather is a bit hot, and I also took the summer hat</span> |
 
 

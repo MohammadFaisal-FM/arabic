@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يوقف في المكتبة مع الملعقة الصغيرة، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a pause in the library with the small spoon, before the driver arrives, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يوقف الحين عند الاستقبال، إذا احتجته بعدين، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a pause now at reception, if you need it later, and I also took the glass cup</span> |
 
 

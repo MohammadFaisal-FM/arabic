@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت جدا في الثلاجة مع القبعة الصيفية، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an ultra in the fridge with the summer hat, if you need it later, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جدا عند العيادة مع الدباسة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an ultra at the clinic with the stapler, for studying tomorrow, and then we locked the door</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت افتتاحية عند الاستقبال، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put an editorial at reception, before the driver arrives, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت افتتاحية عند الباب مع المحفظة البنية، لأن الولد نعسان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an editorial at the door with the brown wallet, because the boy is sleepy, and then the boy slept</span> |
 
 

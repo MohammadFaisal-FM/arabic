@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت اقفال عند العيادة مع الدباسة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a closing at the clinic with the stapler, so the photo comes out clearer, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اقفال الحين جنب البنك، عشان الصورة تطلع أوضح، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a closing now next to the bank, so the photo comes out clearer, and I also took the empty bottle</span> |
 
 

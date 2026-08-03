@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الإقراض عند العيادة مع الدباسة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a lending at the clinic with the stapler, so the photo comes out clearer, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الإقراض الحين في الحديقة، عشان الدراسة بكرة، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a lending now in the park, for studying tomorrow, and I also took the old alarm</span> |
 
 

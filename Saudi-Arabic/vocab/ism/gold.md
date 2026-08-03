@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ذهب في المطبخ، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a gold in the kitchen, so revision is easier, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ذهب في الغرفة، بس خلّه قريب منك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a gold in the room, but keep it near you, and then I tidied the table</span> |
 
 

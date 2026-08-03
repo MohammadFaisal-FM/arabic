@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">افتح الباب، ولقيت الكوب الزجاج في السيارة، لأن الإضاءة أحسن هناك، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">Open the door, and I found the glass cup in the car, because the light is better there, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">افتح الباب، ولقيت الحذاء النظيف قدام الملعب، لأن الشغل خلص بدري، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">Open the door, and I found the clean shoes in front of the pitch, because work finished early, and then I charged the device</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [مفتاح](#ism/miftah) | <span class="example-ar" dir="rtl" lang="ar">لقيت مفتاح في المطبخ مع الملف الورقي، قبل ما يجي السائق، وبعدها مسحت الأرض</span><br><span class="example-en" dir="ltr" lang="en">I found a key in the kitchen with the paper file, before the driver arrives, and then I wiped the floor</span> |
+| اسم · ism (noun / other) | [مفتاح](#ism/miftah) | <span class="example-ar" dir="rtl" lang="ar">لقيت مفتاح عند العيادة مع الدباسة، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span><br><span class="example-en" dir="ltr" lang="en">I found a key at the clinic with the stapler, because the light is better there, and then I drank some water</span> |
 

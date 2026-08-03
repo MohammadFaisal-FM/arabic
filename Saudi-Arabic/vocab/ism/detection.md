@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت كشف على المكتب، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a detection on the desk, because the weather is a bit hot, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كشف في الغرفة مع المفتاح الاحتياطي، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a detection in the room with the spare key, because work finished early, and then I tidied the table</span> |
 
 

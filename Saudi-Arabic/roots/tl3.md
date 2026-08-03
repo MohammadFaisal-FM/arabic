@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">طلعت برا، ولقيت الزجاجة الفارغة في البقالة، لأن الجو حار شوي، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I went outside, and I found the empty bottle at the grocery, because the weather is a bit hot, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">طلعت برا، ولقيت الملعقة الصغيرة في الدرج، عشان نلحق الموعد، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I went outside, and I found the small spoon in the drawer, so we make the appointment, and then I charged the device</span> |
 
 
 ---

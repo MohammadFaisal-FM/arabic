@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وش تشتغل؟، ولقيت النظارة الشمسية جنب البنك، بس خلّه قريب منك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">What do you do?, and I found the sunglasses next to the bank, but keep it near you, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وش تشتغل؟، ولقيت الدباسة قدام المصعد، قبل صلاة المغرب، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">What do you do?, and I found the stapler in front of the elevator, before Maghrib prayer, and then I drank some water</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [عمل](#ism/amal) | <span class="example-ar" dir="rtl" lang="ar">حطّيت عمل في المكتبة، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span><br><span class="example-en" dir="ltr" lang="en">I put a work in the library, before the place closes, and then I closed the window</span> |
+| اسم · ism (noun / other) | [عمل](#ism/amal) | <span class="example-ar" dir="rtl" lang="ar">لقيت عمل جنب المسجد مع القلم الرصاص، لأن الجو حار شوي، وبعدين قفلنا الباب</span><br><span class="example-en" dir="ltr" lang="en">I found a work next to the mosque with the pencil, because the weather is a bit hot, and then we locked the door</span> |
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت خاتمة عند الصيدلية، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a conclusion at the pharmacy, for studying tomorrow, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خاتمة على المكتب مع البطانية الخفيفة، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a conclusion on the desk with the light blanket, so we make the appointment, and then I tidied the table</span> |
 
 

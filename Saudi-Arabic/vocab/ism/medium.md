@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت واسطة في المكتبة مع الملعقة الصغيرة، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a medium in the library with the small spoon, because traffic is heavy, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج واسطة الحين في الثلاجة، لأن الجو حار شوي، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a medium now in the fridge, because the weather is a bit hot, and I also took the summer hat</span> |
 
 

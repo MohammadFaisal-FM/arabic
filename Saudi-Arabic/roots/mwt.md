@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">مات البطارية، ولقيت الوشاح الرمادي عند الباب، لأن الوقت ضيق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">The battery died, and I found the grey scarf at the door, because time is tight, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">مات البطارية، ولقيت النظارة الشمسية في المحطة، عشان ما يضيع، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">The battery died, and I found the sunglasses at the station, so it doesn’t get lost, and then I drank some water</span> |
 
 
 ---

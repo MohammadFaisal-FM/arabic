@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت التفاصيل عند الصيدلية مع الغطاء الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a detail at the pharmacy with the clear cover, for studying tomorrow, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج التفاصيل الحين عند الاستقبال، لأن البطارية ضعيفة، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a detail now at reception, because the battery is low, and I also took the glass cup</span> |
 
 

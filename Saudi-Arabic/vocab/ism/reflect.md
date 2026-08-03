@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يعكس في الدرج مع الدفتر الأزرق، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a reflect in the drawer with the blue notebook, because the weather is a bit hot, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يعكس قدام الملعب، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a reflect in front of the pitch, because work finished early, and then I tidied the table</span> |
 
 

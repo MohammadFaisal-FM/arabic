@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ساطع الحين على المكتب، عشان الدراسة بكرة، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a bright now on the desk, for studying tomorrow, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ساطع الحين في الغرفة، عشان نلحق الموعد، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a bright now in the room, so we make the appointment, and I also took the spare key</span> |
 
 

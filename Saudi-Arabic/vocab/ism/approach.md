@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يقترب الحين في المحطة، عشان نلحق الموعد، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need an approach now at the station, so we make the appointment, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يقترب قدام المصعد مع الكرتون الفاضي، عشان ما يضيع، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found an approach in front of the elevator with the empty carton, so it doesn’t get lost, and then I turned on the fan</span> |
 
 

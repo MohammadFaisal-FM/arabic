@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت عداد جنب النافذة مع النظارة الشمسية، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a counter beside the window with the sunglasses, because the battery is low, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عداد الحين على الشرفة، قبل ما يجي السائق، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a counter now on the balcony, before the driver arrives, and I also took the yellow card</span> |
 
 

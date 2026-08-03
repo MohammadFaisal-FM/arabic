@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج البلاغة الحين قدام التلفاز، بس خلّه قريب منك، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a rhetoric now in front of the TV, but keep it near you, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت البلاغة عند الباب، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a rhetoric at the door, before Maghrib prayer, and then the boy slept</span> |
 
 

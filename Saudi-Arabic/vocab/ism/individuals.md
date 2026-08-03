@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت فرادى في الصالون، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put an individuals in the living room, because guests are arriving, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فرادى الحين في السيارة، قبل ما يجي السائق، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need an individuals now in the car, before the driver arrives, and I also took the soft pillow</span> |
 
 

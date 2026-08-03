@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ازل الحين على المكتب، عشان الدراسة بكرة، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a remove now on the desk, for studying tomorrow, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ازل جنب النافذة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a remove beside the window, for studying tomorrow, and then we locked the door</span> |
 
 

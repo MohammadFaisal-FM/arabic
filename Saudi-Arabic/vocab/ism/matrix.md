@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مصفوفة عند الصيدلية مع الغطاء الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a matrix at the pharmacy with the clear cover, for studying tomorrow, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مصفوفة الحين في الحقيبة، لأن الوقت ضيق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a matrix now in the bag, because time is tight, and I also took the clean shoes</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج المكون الحين في المطبخ، قبل ما يقفل المكان، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an ingredient now in the kitchen, before the place closes, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المكون الحين جنب البنك، لأن الوقت ضيق، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need an ingredient now next to the bank, because time is tight, and I also took the empty bottle</span> |
 
 

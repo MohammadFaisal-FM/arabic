@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اسباني الحين في الدرج، قبل ما يبرد الأكل، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a spanish now in the drawer, before the food gets cold, and I also took the blue notebook</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اسباني في الثلاجة، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a spanish in the fridge, before the food gets cold, and then I drank some water</span> |
 
 

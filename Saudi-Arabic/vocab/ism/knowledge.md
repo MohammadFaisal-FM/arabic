@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج معرفة الحين عند الباب، بس خلّه قريب منك، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a knowledge now at the door, but keep it near you, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج معرفة الحين في الغرفة، عشان الضيوف يوصلون، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a knowledge now in the room, because guests are arriving, and I also took the spare key</span> |
 
 

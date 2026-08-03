@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">بحثت، وبعدين شفت المعطف من الغرفة، عشان ما نتأخر على الموعد، وبعدين قفلنا الشباك</span> | <span class="example-en" dir="ltr" lang="en">I did it (searching), then I saw the coat from the room, so we are not late for the appointment, and then we closed the window</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نبحث الحين، وبعدين أحط المظلة المطريّة من الشرفة، لأن البطارية ضعيفة</span> | <span class="example-en" dir="ltr" lang="en">we do it (searching) now, then I put the rain umbrella from the balcony, because the battery is low</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتبحث بكرة، وآخذ الخوذة من السطح إذا احتجته، قبل ما يبرد الجو أكثر، وبعد كده طفينا النور</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (searching) tomorrow, and I’ll get the helmet from the rooftop if I need it, before the weather gets colder, and then we turned off the light</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">بحثتي، وبعدين شفت المضرب من الصندوق، عشان المراجعة بكرة، وبعدين رتبنا الكراتين</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (searching), then I saw the racket from the box, for revision tomorrow, and then we arranged the boxes</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تبحثون الحين، وبعدين أحط المصباح من الدرج الثاني، لأن الضيوف يوصلون بعد شوي</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (searching) now, then I put the lamp from the second drawer, because the guests arrive soon</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيبحث بكرة، وآخذ المطرقة من الرف العلوي إذا احتجته، قبل نهاية الدوام، وبعدين غنّينا شوي بصوت واطي</span> | <span class="example-en" dir="ltr" lang="en">he will do it (searching) tomorrow, and I’ll get the hammer from the top shelf if I need it, before the end of the workday, and then we sang a bit quietly</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">بحثت، وبعدين شفت المسمار من الجيب، عشان الهضم يكون أخف، وبعدها ضحكنا من الموقف</span> | <span class="example-en" dir="ltr" lang="en">she did it (searching), then I saw the nail from the pocket, so digestion is lighter, and then we laughed at the situation</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يبحثون الحين، وبعدين أحط المقص من الطاولة، لأن الباص متأخر اليوم</span> | <span class="example-en" dir="ltr" lang="en">they do it (searching) now, then I put the scissors from the table, because the bus is late today</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">بحثت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (searching) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أبحث الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (searching) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">ببحث بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (searching) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">بحثنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (searching) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نبحث الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (searching) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنبحث بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (searching) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">بحثت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (searching) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تبحث الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (searching) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتبحث بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (searching) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">بحثتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (searching) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تبحثين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (searching) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتبحثين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (searching) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">بحثتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (searching) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تبحثون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (searching) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتبحثون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (searching) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">بحث أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (searching) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يبحث الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (searching) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيبحث بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (searching) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">بحثت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (searching) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تبحث الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (searching) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتبحث بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (searching) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">بحثوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (searching) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يبحثون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (searching) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيبحثون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (searching) tomorrow if the time works</span> |
 

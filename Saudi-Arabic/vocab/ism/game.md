@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج لعبة الحين في السيارة، عشان ما نتأخر، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a game now in the car, so we are not late, and I also took the soft pillow</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لعبة قدام الملعب، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a game in front of the pitch, so we make the appointment, and then I tidied the table</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت القوانين في الدرج، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a laws in the drawer, because the weather is a bit hot, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج القوانين الحين عند الباب، عشان ما يضيع، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a laws now at the door, so it doesn’t get lost, and I also took the brown wallet</span> |
 
 

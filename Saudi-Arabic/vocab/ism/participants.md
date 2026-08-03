@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مشاركون الحين في الدرج، لأن الجو حار شوي، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a participants now in the drawer, because the weather is a bit hot, and I also took the blue notebook</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مشاركون في المطبخ مع الملف الورقي، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a participants in the kitchen with the paper file, if you need it later, and then I wiped the floor</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج السياسات الحين في الثلاجة، إذا احتجته بعدين، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a policies now in the fridge, if you need it later, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت السياسات في المطبخ، عشان الصورة تطلع أوضح، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a policies in the kitchen, so the photo comes out clearer, and then I wiped the floor</span> |
 
 

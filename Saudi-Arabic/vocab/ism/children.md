@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن أطفال شوي، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">We talked about a children a bit, so we are not late, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أطفال كان/كانت على الشرفة، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">a children was on the balcony, before the driver arrives, and then we laughed a bit</span> |
 
 

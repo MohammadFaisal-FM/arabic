@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت تهديد عند الاستقبال مع الكوب الزجاج، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a threat at reception with the glass cup, because traffic is heavy, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تهديد الحين في المطبخ، لأن الوقت ضيق، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a threat now in the kitchen, because time is tight, and I also took the paper file</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج غابة الحين جنب المسجد، لأن الوقت ضيق، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a forest now next to the mosque, because time is tight, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت غابة في الدرج، عشان نلحق الموعد، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a forest in the drawer, so we make the appointment, and then I wrote a note</span> |
 
 

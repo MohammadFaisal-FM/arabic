@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت افتتاح جنب البنك مع الزجاجة الفارغة، قبل ما يجي السائق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an opening next to the bank with the empty bottle, before the driver arrives, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج افتتاح الحين في الصالون، لأن الولد نعسان، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an opening now in the living room, because the boy is sleepy, and I also took the clean tissue</span> |
 
 

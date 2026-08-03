@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بالمائة الحين في الدرج، قبل ما يبرد الأكل، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a percent now in the drawer, before the food gets cold, and I also took the blue notebook</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بالمائة جنب النافذة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a percent beside the window, for studying tomorrow, and then we locked the door</span> |
 
 

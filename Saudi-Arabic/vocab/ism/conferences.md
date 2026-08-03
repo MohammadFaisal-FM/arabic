@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت المؤتمرات في الحقيبة مع الحذاء النظيف، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a conferences in the bag with the clean shoes, before the place closes, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المؤتمرات الحين جنب البنك، إذا احتجته بعدين، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a conferences now next to the bank, if you need it later, and I also took the empty bottle</span> |
 
 

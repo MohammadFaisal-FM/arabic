@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت فترة قدام الملعب مع اللاصق الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a period in front of the pitch with the clear tape, for studying tomorrow, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فترة في الغرفة مع المفتاح الاحتياطي، عشان الضيوف يوصلون، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a period in the room with the spare key, because guests are arriving, and then I washed my hands</span> |
 
 

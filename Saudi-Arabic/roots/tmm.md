@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تمّ الشغل، ولقيت المفتاح الاحتياطي جنب المسجد، لأن الولد نعسان، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">The work is done, and I found the spare key next to the mosque, because the boy is sleepy, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تمّ الشغل، ولقيت المفتاح الاحتياطي جنب المسجد، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">The work is done, and I found the spare key next to the mosque, before the food gets cold, and then I washed my hands</span> |
 
 
 ---

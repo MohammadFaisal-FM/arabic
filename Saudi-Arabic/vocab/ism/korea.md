@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج كوريا الحين في الثلاجة، لأن الوقت ضيق، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a korea now in the fridge, because time is tight, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كوريا في المدرسة، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a korea at school, so revision is easier, and then I turned off the light</span> |
 
 

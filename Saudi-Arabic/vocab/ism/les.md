@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ليه في البقالة مع الشاحن الطويل، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a les at the grocery with the long charger, so we are not late, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ليه على المكتب، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a les on the desk, because work finished early, and then I washed my hands</span> |
 
 

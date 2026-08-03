@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت المقترحات في الصالون، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a proposals in the living room, but keep it near you, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المقترحات عند الباب مع المحفظة البنية، عشان ما نتأخر، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a proposals at the door with the brown wallet, so we are not late, and then I turned on the fan</span> |
 
 

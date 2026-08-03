@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت محاولة جنب النافذة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an attempt beside the window, because the battery is low, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت محاولة عند العيادة، لأن الجو حار شوي، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put an attempt at the clinic, because the weather is a bit hot, and then we locked the door</span> |
 
 

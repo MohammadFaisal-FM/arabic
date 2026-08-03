@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مؤلف الحين جنب النافذة، لأن البطارية ضعيفة، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need an author now beside the window, because the battery is low, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مؤلف الحين في المدرسة، قبل ما يقفل المكان، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need an author now at school, before the place closes, and I also took the sharp scissors</span> |
 
 

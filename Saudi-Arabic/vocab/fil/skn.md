@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">سكنت، وبعدين شفت المطهر من الكرسي، قبل ما تطفى الأنوار، وبعدين صلّينا المغرب</span> | <span class="example-en" dir="ltr" lang="en">I did it (living / residing), then I saw the disinfectant from the chair, before the lights go out, and then we prayed Maghrib</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نسكن الحين، وبعدين أحط الضمادة من السيارة، عشان الاختبار يوم الأحد</span> | <span class="example-en" dir="ltr" lang="en">we do it (living / residing) now, then I put the bandage from the car, because the exam is on Sunday</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتسكن بكرة، وآخذ المرهم من الرف إذا احتجته، لأن الشمس قوية برا، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (living / residing) tomorrow, and I’ll get the ointment from the shelf if I need it, because the sun is strong outside, and then I charged the device</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">سكنتي، وبعدين شفت الحرارة من التطبيق، قبل ما يقفل الباب، وبعدها رجعت الغرفة بهدوء</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (living / residing), then I saw the thermometer from the app, before the door closes, and then I went back to the room quietly</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تسكنون الحين، وبعدين أحط الفلاش من الدرج، عشان ما يضيع شيء</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (living / residing) now, then I put the flashlight from the drawer, so nothing gets lost</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيسكن بكرة، وآخذ الولّاعة من الثلاجة إذا احتجته، لأن الوقت ضيق شوي، وبعد كده رنّ الجرس</span> | <span class="example-en" dir="ltr" lang="en">he will do it (living / residing) tomorrow, and I’ll get the lighter from the fridge if I need it, because time is a bit tight, and then the doorbell rang</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">سكنت، وبعدين شفت الشمع من الفرن، قبل ما يبدأ الاجتماع، وبعدها شربت شوية ميّ</span> | <span class="example-en" dir="ltr" lang="en">she did it (living / residing), then I saw the candle from the oven, before the meeting starts, and then I drank a bit of water</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يسكنون الحين، وبعدين أحط الكبريت من الاستقبال، عشان نلحق الصلاة</span> | <span class="example-en" dir="ltr" lang="en">they do it (living / residing) now, then I put the matches from reception, so we make prayer on time</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">سكنت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (living / residing) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أسكن الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (living / residing) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بسكن بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (living / residing) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">سكننا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (living / residing) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نسكن الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (living / residing) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنسكن بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (living / residing) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">سكنت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (living / residing) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تسكن الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (living / residing) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتسكن بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (living / residing) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">سكنتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (living / residing) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تسكنين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (living / residing) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتسكنين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (living / residing) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">سكنتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (living / residing) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تسكنون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (living / residing) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتسكنون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (living / residing) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">سكن أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (living / residing) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يسكن الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (living / residing) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيسكن بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (living / residing) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">سكنت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (living / residing) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تسكن الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (living / residing) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتسكن بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (living / residing) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">سكنوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (living / residing) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يسكنون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (living / residing) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيسكنون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (living / residing) tomorrow if the time works</span> |
 

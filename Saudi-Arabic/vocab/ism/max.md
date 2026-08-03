@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأعلى الحين في الصالون، بس خلّه قريب منك، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a max now in the living room, but keep it near you, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الأعلى في السيارة، قبل ما يقفل المكان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a max in the car, before the place closes, and then I turned off the light</span> |
 
 

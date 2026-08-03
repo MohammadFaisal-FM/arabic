@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت إجمالي في المكتبة مع الملعقة الصغيرة، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found an overall in the library with the small spoon, so revision is easier, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إجمالي الحين في الثلاجة، عشان الدراسة بكرة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an overall now in the fridge, for studying tomorrow, and I also took the summer hat</span> |
 
 

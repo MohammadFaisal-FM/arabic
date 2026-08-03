@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بويرتو الحين في الدرج، قبل ما يبرد الأكل، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a puerto now in the drawer, before the food gets cold, and I also took the blue notebook</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بويرتو قدام الملعب، عشان الضيوف يوصلون، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a puerto in front of the pitch, because guests are arriving, and then I washed my hands</span> |
 
 

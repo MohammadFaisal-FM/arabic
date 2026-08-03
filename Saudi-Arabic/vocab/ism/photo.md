@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت صورة في الثلاجة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a photo in the fridge, if you need it later, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت صورة على المكتب مع البطانية الخفيفة، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a photo on the desk with the light blanket, because work finished early, and then I tidied the table</span> |
 
 

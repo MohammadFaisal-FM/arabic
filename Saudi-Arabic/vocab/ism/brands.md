@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج العلامات التجارية الحين في السيارة، عشان ما يضيع، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a brands now in the car, so it doesn’t get lost, and I also took the soft pillow</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج العلامات التجارية الحين جنب البنك، عشان الصورة تطلع أوضح، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a brands now next to the bank, so the photo comes out clearer, and I also took the empty bottle</span> |
 
 

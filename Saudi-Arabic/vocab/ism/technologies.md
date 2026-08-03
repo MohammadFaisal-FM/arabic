@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج التقنيات الحين عند الباب، عشان نلحق الموعد، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a technologies now at the door, so we make the appointment, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التقنيات على الشرفة، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a technologies on the balcony, so revision is easier, and then I replied to the message</span> |
 
 

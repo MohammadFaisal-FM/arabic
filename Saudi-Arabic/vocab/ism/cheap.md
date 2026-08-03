@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج رخيص الحين على الشرفة، عشان ما يضيع، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a cheap now on the balcony, so it doesn’t get lost, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت رخيص في الصالون، لأن الولد نعسان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a cheap in the living room, because the boy is sleepy, and then the boy slept</span> |
 
 

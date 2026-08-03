@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت تقييم في البقالة، عشان ما نتأخر، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an evaluation at the grocery, so we are not late, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تقييم الحين في الحقيبة، إذا احتجته بعدين، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an evaluation now in the bag, if you need it later, and I also took the clean shoes</span> |
 
 

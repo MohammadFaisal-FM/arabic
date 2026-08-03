@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت اليابان في المدرسة مع المقص الحاد، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a japan at school with the sharp scissors, so it doesn’t get lost, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اليابان الحين في المكتبة، عشان الصورة تطلع أوضح، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a japan now in the library, so the photo comes out clearer, and I also took the small spoon</span> |
 
 

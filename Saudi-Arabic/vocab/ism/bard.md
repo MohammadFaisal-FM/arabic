@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت برد في البقالة مع الشاحن الطويل، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a cold at the grocery with the long charger, because the boy is sleepy, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج برد الحين في الصالون، لأن الولد نعسان، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a cold now in the living room, because the boy is sleepy, and I also took the clean tissue</span> |
 
 

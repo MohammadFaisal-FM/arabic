@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت كنتاكي عند العيادة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a kentucky at the clinic, because the battery is low, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كنتاكي الحين في البقالة، قبل ما يجي السائق، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a kentucky now at the grocery, before the driver arrives, and I also took the long charger</span> |
 
 

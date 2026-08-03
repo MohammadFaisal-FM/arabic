@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج البرازيل الحين في الصالون، لأن الشغل خلص بدري، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a brazil now in the living room, because work finished early, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت البرازيل جنب النافذة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a brazil beside the window, for studying tomorrow, and then we locked the door</span> |
 
 

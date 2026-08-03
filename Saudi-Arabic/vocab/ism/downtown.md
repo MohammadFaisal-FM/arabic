@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت وسط البلد في الغرفة، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a downtown in the room, because the light is better there, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت وسط البلد في الدرج مع الدفتر الأزرق، بس خلّه قريب منك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a downtown in the drawer with the blue notebook, but keep it near you, and then I tidied the table</span> |
 
 

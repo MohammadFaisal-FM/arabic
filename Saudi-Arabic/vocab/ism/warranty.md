@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ضمان على الشرفة، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a warranty on the balcony, before Maghrib prayer, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ضمان في الدرج مع الدفتر الأزرق، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a warranty in the drawer with the blue notebook, so we make the appointment, and then I washed my hands</span> |
 
 

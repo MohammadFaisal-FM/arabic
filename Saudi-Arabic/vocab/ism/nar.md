@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت نار في الحقيبة، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a fire in the bag, before the place closes, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت نار جنب النافذة مع النظارة الشمسية، لأن الجو حار شوي، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a fire beside the window with the sunglasses, because the weather is a bit hot, and then we prayed</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت سياتل في السيارة مع الوسادة الناعمة، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a seattle in the car with the soft pillow, because the boy is sleepy, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سياتل في الغرفة مع المفتاح الاحتياطي، عشان الضيوف يوصلون، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a seattle in the room with the spare key, because guests are arriving, and then I washed my hands</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج جولات الحين في الحقيبة، عشان المراجعة أسهل، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a tours now in the bag, so revision is easier, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جولات الحين عند العيادة، عشان الدراسة بكرة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a tours now at the clinic, for studying tomorrow, and I also took the stapler</span> |
 
 

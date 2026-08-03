@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت المحامين جنب النافذة مع النظارة الشمسية، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an attorneys beside the window with the sunglasses, because the battery is low, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المحامين الحين في الحديقة، لأن الإضاءة أحسن هناك، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need an attorneys now in the park, because the light is better there, and I also took the old alarm</span> |
 
 

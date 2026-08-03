@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت أرض عند العيادة مع الدباسة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a ground at the clinic with the stapler, because time is tight, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أرض الحين جنب البنك، لأن الوقت ضيق، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a ground now next to the bank, because time is tight, and I also took the empty bottle</span> |
 
 

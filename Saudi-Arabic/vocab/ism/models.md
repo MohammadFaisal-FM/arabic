@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت نماذج جنب المسجد مع القلم الرصاص، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a models next to the mosque with the pencil, because time is tight, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نماذج على المكتب، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a models on the desk, because work finished early, and then I washed my hands</span> |
 
 

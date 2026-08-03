@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مور الحين جنب البنك، قبل ما يجي السائق، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a moore now next to the bank, before the driver arrives, and I also took the empty bottle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مور عند الاستقبال، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a moore at reception, so the photo comes out clearer, and then I charged the device</span> |
 
 

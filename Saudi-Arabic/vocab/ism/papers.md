@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أوراق الحين قدام الملعب، لأن الإضاءة أحسن هناك، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a papers now in front of the pitch, because the light is better there, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أوراق الحين قدام المصعد، لأن الولد نعسان، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a papers now in front of the elevator, because the boy is sleepy, and I also took the empty carton</span> |
 
 

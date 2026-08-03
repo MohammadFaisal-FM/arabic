@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مشهد الحين في البقالة، عشان ما يضيع، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a scene now at the grocery, so it doesn’t get lost, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مشهد على المكتب، بس خلّه قريب منك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a scene on the desk, but keep it near you, and then I tidied the table</span> |
 
 

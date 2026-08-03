@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يستبدل جنب البنك مع الزجاجة الفارغة، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a replace next to the bank with the empty bottle, so revision is easier, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يستبدل الحين عند الاستقبال، لأن البطارية ضعيفة، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a replace now at reception, because the battery is low, and I also took the glass cup</span> |
 
 

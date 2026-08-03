@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">تغيّرت، وبعدين شفت الممحاة من السطح، عشان ما يضيع شيء، وبعد كده طفينا النور</span> | <span class="example-en" dir="ltr" lang="en">I did it (changing), then I saw the eraser from the rooftop, so nothing gets lost, and then we turned off the light</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نتغيّر الحين، وبعدين أحط المسطرة من الصندوق، لأن الوقت ضيق شوي</span> | <span class="example-en" dir="ltr" lang="en">we do it (changing) now, then I put the ruler from the box, because time is a bit tight</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتتغيّر بكرة، وآخذ البوصلة من الدرج الثاني إذا احتجته، قبل ما يبدأ الاجتماع، وبعدها ردّينا على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (changing) tomorrow, and I’ll get the compass from the second drawer if I need it, before the meeting starts, and then we replied to the message</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">تغيّرتي، وبعدين شفت العدسة المكبرة من الرف العلوي، عشان نلحق الصلاة، وبعدين غنّينا شوي بصوت واطي</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (changing), then I saw the magnifying glass from the top shelf, so we make prayer on time, and then we sang a bit quietly</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تتغيّرون الحين، وبعدين أحط المنظار من الجيب، لأن الطريق مزدحم</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (changing) now, then I put the binoculars from the pocket, because the road is crowded</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيتغيّر بكرة، وآخذ الكاميرا من الطاولة إذا احتجته، قبل ما يخلص العرض، وبعد كده نام الولد</span> | <span class="example-en" dir="ltr" lang="en">he will do it (changing) tomorrow, and I’ll get the camera from the table if I need it, before the offer ends, and then the boy fell asleep</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">تغيّرت، وبعدين شفت البطارية الاحتياطية من الكرسي، عشان الصورة تطلع أوضح، وبعدين صلّينا المغرب</span> | <span class="example-en" dir="ltr" lang="en">she did it (changing), then I saw the spare battery from the chair, so the picture comes out clearer, and then we prayed Maghrib</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يتغيّرون الحين، وبعدين أحط الكابل من السيارة، لأن المطر قرب يجي</span> | <span class="example-en" dir="ltr" lang="en">they do it (changing) now, then I put the cable from the car, because rain is about to come</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">تغيّرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (changing) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أتغيّر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (changing) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بتغيّر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (changing) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">تغيّرنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (changing) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نتغيّر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (changing) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنتغيّر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (changing) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">تغيّرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (changing) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تتغيّر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (changing) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتتغيّر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (changing) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">تغيّرتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (changing) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تتغيّرين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (changing) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتتغيّرين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (changing) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">تغيّرتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (changing) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تتغيّرون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (changing) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتتغيّرون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (changing) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">تغيّر أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (changing) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يتغيّر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (changing) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيتغيّر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (changing) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">تغيّرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (changing) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تتغيّر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (changing) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتتغيّر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (changing) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">تغيّروا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (changing) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يتغيّرون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (changing) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيتغيّرون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (changing) tomorrow if the time works</span> |
 

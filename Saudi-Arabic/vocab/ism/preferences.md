@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج التفضيلات الحين جنب المسجد، لأن البطارية ضعيفة، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a preferences now next to the mosque, because the battery is low, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التفضيلات جنب النافذة مع النظارة الشمسية، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a preferences beside the window with the sunglasses, because the light is better there, and then we prayed</span> |
 
 

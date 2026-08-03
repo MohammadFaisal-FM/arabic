@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج قاعدة البيانات الحين جنب المسجد، لأن البطارية ضعيفة، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a database now next to the mosque, because the battery is low, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قاعدة البيانات قدام التلفاز، عشان ما نتأخر، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a database in front of the TV, so we are not late, and then the boy slept</span> |
 
 

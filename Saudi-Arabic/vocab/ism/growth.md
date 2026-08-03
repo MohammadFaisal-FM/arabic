@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت نمو في الثلاجة مع القبعة الصيفية، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a growth in the fridge with the summer hat, because the battery is low, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نمو الحين قدام الملعب، عشان نلحق الموعد، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a growth now in front of the pitch, so we make the appointment, and I also took the clear tape</span> |
 
 

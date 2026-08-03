@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الاختلافات الحين قدام المصعد، عشان نلحق الموعد، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a differences now in front of the elevator, so we make the appointment, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الاختلافات في الثلاجة مع القبعة الصيفية، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a differences in the fridge with the summer hat, before the food gets cold, and then we prayed</span> |
 
 

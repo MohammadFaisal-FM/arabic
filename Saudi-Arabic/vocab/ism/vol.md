@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت المجلد في المدرسة، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a vol at school, so it doesn’t get lost, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المجلد في المكتبة مع الملعقة الصغيرة، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a vol in the library with the small spoon, so the photo comes out clearer, and then I charged the device</span> |
 
 

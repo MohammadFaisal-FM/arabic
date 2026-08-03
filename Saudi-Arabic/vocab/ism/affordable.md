@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت بسعر معقول جنب البنك، لأن الزحمة قوية، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put an affordable next to the bank, because traffic is heavy, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بسعر معقول عند الاستقبال مع الكوب الزجاج، لأن الوقت ضيق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found an affordable at reception with the glass cup, because time is tight, and then I charged the device</span> |
 
 

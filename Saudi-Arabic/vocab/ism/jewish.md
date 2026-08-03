@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يهودي الحين على المكتب، لأن الإضاءة أحسن هناك، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a jewish now on the desk, because the light is better there, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يهودي الحين في الغرفة، بس خلّه قريب منك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a jewish now in the room, but keep it near you, and I also took the spare key</span> |
 
 

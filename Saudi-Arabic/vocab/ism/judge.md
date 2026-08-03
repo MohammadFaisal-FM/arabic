@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يحكم على الحين في الحديقة، لأن البطارية ضعيفة، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a judge now in the park, because the battery is low, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يحكم على تحت السرير مع الوشاح الرمادي، قبل ما يجي السائق، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a judge under the bed with the grey scarf, before the driver arrives, and then I turned off the light</span> |
 
 

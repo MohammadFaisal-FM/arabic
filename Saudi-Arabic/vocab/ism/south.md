@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج جنوب الحين قدام الملعب، لأن الإضاءة أحسن هناك، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a south now in front of the pitch, because the light is better there, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جنوب الحين في الغرفة، لأن الشغل خلص بدري، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a south now in the room, because work finished early, and I also took the spare key</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت شمس قدام التلفاز مع الجورب الأبيض، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a sun in front of the TV with the white sock, because work finished early, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شمس الحين على المكتب، لأن الشغل خلص بدري، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a sun now on the desk, because work finished early, and I also took the light blanket</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت حقائق قدام التلفاز مع الجورب الأبيض، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a facts in front of the TV with the white sock, because guests are arriving, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حقائق الحين عند العيادة، لأن الإضاءة أحسن هناك، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a facts now at the clinic, because the light is better there, and I also took the stapler</span> |
 
 

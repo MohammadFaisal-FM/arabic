@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت القوائم في الصالون مع المنديل النظيف، عشان نلحق الموعد، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a listings in the living room with the clean tissue, so we make the appointment, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت القوائم في السيارة، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a listings in the car, so revision is easier, and then I replied to the message</span> |
 
 

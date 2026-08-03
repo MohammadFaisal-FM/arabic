@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ثورة الحين في الحقيبة، لأن الزحمة قوية، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a revolution now in the bag, because traffic is heavy, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ثورة في المطبخ، لأن البطارية ضعيفة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a revolution in the kitchen, because the battery is low, and then I charged the device</span> |
 
 

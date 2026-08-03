@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الآلاف الحين قدام التلفاز، بس خلّه قريب منك، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a thousands now in front of the TV, but keep it near you, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الآلاف الحين في المدرسة، قبل ما يقفل المكان، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a thousands now at school, before the place closes, and I also took the sharp scissors</span> |
 
 

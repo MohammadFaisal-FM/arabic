@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مجموع في الثلاجة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a sum in the fridge, so the photo comes out clearer, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مجموع عند العيادة، لأن الجو حار شوي، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a sum at the clinic, because the weather is a bit hot, and then we locked the door</span> |
 
 

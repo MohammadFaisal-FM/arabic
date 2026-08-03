@@ -6,16 +6,22 @@ Searchable A–Z index in the app (**Roots** tab). Grouped by first letter of th
 
 High-frequency everyday Arabic roots for learners (Saudi/Najdi focus). Not a complete dictionary — classical Arabic has thousands of roots.
 
-**Total roots:** 118
+**Total roots:** 124
 
 ### أ · ألف
 
 | Root | Meaning | File |
 |------|---------|------|
+| أ-ب-د | eternity / never (أبداً) | [abd.md](abd.md) |
+| أ-ب-ر | needle / injection (إبرة) | [abr.md](abr.md) |
+| أ-ب-ل | camels (إبل) | [abl.md](abl.md) |
+| أ-ب-ن | son (ابن) | [abn.md](abn.md) |
+| أ-ب-و | father (أب / أبو) | [abw.md](abw.md) |
+| أ-ث-ر | effect / influence (أثر) | [athr.md](athr.md) |
 | أ-خ-ذ | taking / getting | [akhd.md](akhd.md) |
 | أ-ك-ل | eating / consuming | [akl.md](akl.md) |
 | أ-م-ر | ordering / commanding | [amr.md](amr.md) |
-| أ-ت-ي | coming / bringing | [aty.md](aty.md) |
+| أ-ت-ي | coming (MSA أتى; Najdi = جا / يجي) | [aty.md](aty.md) |
 
 ### ب · باء
 
@@ -40,7 +46,7 @@ High-frequency everyday Arabic roots for learners (Saudi/Najdi focus). Not a com
 | Root | Meaning | File |
 |------|---------|------|
 | ث-ب-ت | staying firm / proving | [thbt.md](thbt.md) |
-| ث-ق-ل | being heavy | [thql.md](thql.md) |
+| ث-ق-ل | heavy (ثقيل) | [thql.md](thql.md) |
 
 ### ج · جيم
 
@@ -86,7 +92,7 @@ High-frequency everyday Arabic roots for learners (Saudi/Najdi focus). Not a com
 
 | Root | Meaning | File |
 |------|---------|------|
-| ذ-ه-ب | going | [dhhb.md](dhhb.md) |
+| ذ-ه-ب | going (MSA ذهب; Najdi = راح / يروح) | [dhhb.md](dhhb.md) |
 | ذ-ك-ر | mentioning / remembering | [dhkr.md](dhkr.md) |
 
 ### ر · راء
@@ -95,10 +101,10 @@ High-frequency everyday Arabic roots for learners (Saudi/Najdi focus). Not a com
 |------|---------|------|
 | ر-ج-ع | returning | [rj3.md](rj3.md) |
 | ر-و-ح | going (Najdi) | [rah.md](rah.md) |
-| ر-ا-ي | seeing | [ray.md](ray.md) |
+| ر-ا-ي | seeing / opinion (MSA رأى; Najdi see = شاف) | [ray.md](ray.md) |
 | ر-ك-ب | riding / boarding | [rkb.md](rkb.md) |
 | ر-د-د | replying / returning | [rdd.md](rdd.md) |
-| ر-غ-ب | desiring | [rgb.md](rgb.md) |
+| ر-غ-ب | desire (MSA رغب; Najdi = بغى) | [rgb.md](rgb.md) |
 
 ### ز · زاي
 
@@ -135,7 +141,7 @@ High-frequency everyday Arabic roots for learners (Saudi/Najdi focus). Not a com
 | ص-ي-ر | becoming | [sar.md](sar.md) |
 | ص-ب-ر | being patient | [sbr.md](sbr.md) |
 | ص-ل-ح | fixing / being suitable | [slh.md](slh.md) |
-| ص-ب-ح | becoming morning / waking | [sbh.md](sbh.md) |
+| ص-ب-ح | morning (صباح) | [sbh.md](sbh.md) |
 
 ### ض · ضاد
 
@@ -187,7 +193,7 @@ High-frequency everyday Arabic roots for learners (Saudi/Najdi focus). Not a com
 | ف-ت-ح | opening | [fth.md](fth.md) |
 | ف-ه-م | understanding | [fhm.md](fhm.md) |
 | ف-ك-ر | thinking | [fkr.md](fkr.md) |
-| ف-ع-ل | doing | [f3l.md](f3l.md) |
+| ف-ع-ل | doing (grammar root; everyday = سوى) | [f3l.md](f3l.md) |
 | ف-ق-د | losing | [fqd.md](fqd.md) |
 
 ### ق · قاف
@@ -218,7 +224,7 @@ High-frequency everyday Arabic roots for learners (Saudi/Najdi focus). Not a com
 | ل-ع-ب | playing | [l3b.md](l3b.md) |
 | ل-ق-ي | finding | [lqy.md](lqy.md) |
 | ل-ب-س | wearing / dressing | [lbs.md](lbs.md) |
-| ل-ز-م | must / sticking | [lzm.md](lzm.md) |
+| ل-ز-م | must / necessary (لازم) | [lzm.md](lzm.md) |
 
 ### م · ميم
 
@@ -246,7 +252,7 @@ High-frequency everyday Arabic roots for learners (Saudi/Najdi focus). Not a com
 |------|---------|------|
 | ه-ر-ب | escaping / running away | [hrb.md](hrb.md) |
 | ه-م-م | being concerned | [hmm.md](hmm.md) |
-| ه-د-ي | calming / guiding | [hdy.md](hdy.md) |
+| ه-د-ي | gifting (هدية) / guiding | [hdy.md](hdy.md) |
 
 ### و · واو
 
@@ -254,16 +260,16 @@ High-frequency everyday Arabic roots for learners (Saudi/Najdi focus). Not a com
 |------|---------|------|
 | و-ص-ل | arriving / connecting | [wsl.md](wsl.md) |
 | و-ق-ف | stopping / standing | [wqf.md](wqf.md) |
-| و-ض-ع | placing | [wd3.md](wd3.md) |
-| و-ج-د | finding / existing | [wjd.md](wjd.md) |
+| و-ض-ع | placing / situation (MSA وضع; Najdi put = حطّ) | [wd3.md](wd3.md) |
+| و-ج-د | finding / existing (MSA وجد; Najdi = لقى / فيه) | [wjd.md](wjd.md) |
 | و-ل-د | being born / giving birth | [wld.md](wld.md) |
-| و-س-ع | being wide / roomy | [ws3.md](ws3.md) |
+| و-س-ع | wide / spacious (واسع) | [ws3.md](ws3.md) |
 
 ### ي · ياء
 
 | Root | Meaning | File |
 |------|---------|------|
-| ي-س-ر | being easy | [ysr.md](ysr.md) |
+| ي-س-ر | ease / making easy (يسير / ييسّر) | [ysr.md](ysr.md) |
 | ي-ب-س | drying | [ybs.md](ybs.md) |
 
 

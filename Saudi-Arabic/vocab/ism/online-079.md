@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اتجاه الحين في الثلاجة، قبل ما يقفل المكان، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a direction now in the fridge, before the place closes, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اتجاه الحين في الحقيبة، عشان ما نتأخر، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a direction now in the bag, so we are not late, and I also took the glass cup</span> |
 
 

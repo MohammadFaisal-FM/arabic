@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">بغىت، وبعدين شفت الزمزمية من البقالة، لأن الطريق مزدحم، وبعدها مسحنا الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I did it (wanting (Najdi)), then I saw the water bottle from the grocery, because the road is crowded, and then we wiped the table</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نبغى الحين، وبعدين أحط السندويتش من الخزانة، قبل ما يخلص العرض</span> | <span class="example-en" dir="ltr" lang="en">we do it (wanting (Najdi)) now, then I put the sandwich from the closet, before the offer ends</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتبغى بكرة، وآخذ الطماط من الإيميل إذا احتجته، عشان الصورة تطلع أوضح، وبعدين رتبنا الكراتين</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (wanting (Najdi)) tomorrow, and I’ll get the tomatoes from email if I need it, so the picture comes out clearer, and then we arranged the boxes</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">بغىتي، وبعدين شفت الأرز البسمتي من الأمن، لأن المطر قرب يجي، وبعدها ردّينا على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (wanting (Najdi)), then I saw the basmati rice from security, because rain is about to come, and then we replied to the message</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تبغىون الحين، وبعدين أحط الحمص من الحقيبة، عشان ما نتأخر على الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (wanting (Najdi)) now, then I put the chickpeas from the bag, so we are not late for the appointment</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيبغى بكرة، وآخذ العسل من المحطة إذا احتجته، لأن البطارية ضعيفة، وبعدها ضحكنا من الموقف</span> | <span class="example-en" dir="ltr" lang="en">he will do it (wanting (Najdi)) tomorrow, and I’ll get the honey from the station if I need it, because the battery is low, and then we laughed at the situation</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">بغىت، وبعدين شفت الحليب من الصيدلية، قبل ما يبرد الجو أكثر، وبعد كده نام الولد</span> | <span class="example-en" dir="ltr" lang="en">she did it (wanting (Najdi)), then I saw the milk from the pharmacy, before the weather gets colder, and then the boy fell asleep</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يبغىون الحين، وبعدين أحط الجبنة من المكتبة، عشان المراجعة بكرة</span> | <span class="example-en" dir="ltr" lang="en">they do it (wanting (Najdi)) now, then I put the cheese from the library, for revision tomorrow</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">بغىت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (wanting (Najdi)) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أبغى الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (wanting (Najdi)) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">ببغى بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (wanting (Najdi)) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">بغىنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (wanting (Najdi)) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نبغى الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (wanting (Najdi)) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنبغى بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (wanting (Najdi)) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">بغىت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (wanting (Najdi)) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تبغى الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (wanting (Najdi)) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتبغى بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (wanting (Najdi)) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">بغىتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (wanting (Najdi)) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تبغىين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (wanting (Najdi)) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتبغىين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (wanting (Najdi)) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">بغىتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (wanting (Najdi)) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تبغىون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (wanting (Najdi)) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتبغىون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (wanting (Najdi)) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">بغى أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (wanting (Najdi)) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يبغى الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (wanting (Najdi)) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيبغى بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (wanting (Najdi)) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">بغىت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (wanting (Najdi)) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تبغى الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (wanting (Najdi)) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتبغى بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (wanting (Najdi)) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">بغىوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (wanting (Najdi)) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يبغىون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (wanting (Najdi)) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيبغىون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (wanting (Najdi)) tomorrow if the time works</span> |
 

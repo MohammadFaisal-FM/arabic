@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت وزن عند العيادة مع الدباسة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a weight at the clinic with the stapler, because the battery is low, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج وزن الحين في المكتبة، لأن الوقت ضيق، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a weight now in the library, because time is tight, and I also took the small spoon</span> |
 
 

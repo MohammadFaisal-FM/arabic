@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ينقل تحت السرير، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a transport under the bed, before Maghrib prayer, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ينقل في السيارة مع الوسادة الناعمة، قبل ما يقفل المكان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a transport in the car with the soft pillow, before the place closes, and then I replied to the message</span> |
 
 

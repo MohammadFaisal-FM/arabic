@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج النظام الحين في الحديقة، عشان الصورة تطلع أوضح، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a regime now in the park, so the photo comes out clearer, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت النظام جنب المسجد، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a regime next to the mosque, for studying tomorrow, and then I drank some water</span> |
 
 

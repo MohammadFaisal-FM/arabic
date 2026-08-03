@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الضوابط الحين على الشرفة، عشان ما يضيع، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a controls now on the balcony, so it doesn’t get lost, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الضوابط في الدرج، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a controls in the drawer, but keep it near you, and then I washed my hands</span> |
 
 

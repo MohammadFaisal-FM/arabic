@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت رؤية تحت السرير، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a vision under the bed, because the boy is sleepy, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رؤية في المطبخ مع الملف الورقي، لأن البطارية ضعيفة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a vision in the kitchen with the paper file, because the battery is low, and then I closed the window</span> |
 
 

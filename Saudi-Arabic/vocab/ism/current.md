@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت حاضِر في الصالون مع المنديل النظيف، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a current in the living room with the clean tissue, but keep it near you, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حاضِر الحين قدام التلفاز، قبل صلاة المغرب، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a current now in front of the TV, before Maghrib prayer, and I also took the white sock</span> |
 
 

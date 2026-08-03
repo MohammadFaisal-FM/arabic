@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت جمعة جنب البنك مع الزجاجة الفارغة، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a friday next to the bank with the empty bottle, because traffic is heavy, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جمعة الحين جنب المسجد، لأن الجو حار شوي، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a friday now next to the mosque, because the weather is a bit hot, and I also took the pencil</span> |
 
 

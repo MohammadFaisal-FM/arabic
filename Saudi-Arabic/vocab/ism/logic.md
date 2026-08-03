@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت منطق في البقالة مع الشاحن الطويل، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a logic at the grocery with the long charger, before Maghrib prayer, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج منطق الحين تحت السرير، قبل ما يقفل المكان، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a logic now under the bed, before the place closes, and I also took the grey scarf</span> |
 
 

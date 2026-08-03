@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت هوارد على الشرفة مع البطاقة الصفراء، لأن الولد نعسان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a howard on the balcony with the yellow card, because the boy is sleepy, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج هوارد الحين تحت السرير، قبل ما يقفل المكان، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a howard now under the bed, before the place closes, and I also took the grey scarf</span> |
 
 

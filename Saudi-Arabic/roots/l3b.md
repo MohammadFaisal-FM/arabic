@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">يلعب كورة، ولقيت المحفظة البنية في الغرفة، عشان المراجعة أسهل، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">He plays football, and I found the brown wallet in the room, so revision is easier, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">يلعب كورة، ولقيت الكابل القصير في المكتبة، عشان الصورة تطلع أوضح، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">He plays football, and I found the short cable in the library, so the photo comes out clearer, and then the boy slept</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [كورة](#ism/koora) | <span class="example-ar" dir="rtl" lang="ar">حطّيت كورة في الدرج، لأن الجو حار شوي، وبعدين كتبت ملاحظة</span><br><span class="example-en" dir="ltr" lang="en">I put a ball in the drawer, because the weather is a bit hot, and then I wrote a note</span> |
+| اسم · ism (noun / other) | [كورة](#ism/koora) | <span class="example-ar" dir="rtl" lang="ar">لقيت كورة قدام التلفاز مع الجورب الأبيض، عشان ما نتأخر، وبعد كده رنّ الجوال</span><br><span class="example-en" dir="ltr" lang="en">I found a ball in front of the TV with the white sock, so we are not late, and then the phone rang</span> |
 

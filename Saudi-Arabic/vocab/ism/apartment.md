@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت شقة قدام الملعب، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put an apartment in front of the pitch, before the food gets cold, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شقة في المكتبة، لأن البطارية ضعيفة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an apartment in the library, because the battery is low, and then I charged the device</span> |
 
 

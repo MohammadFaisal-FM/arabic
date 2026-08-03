@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت اعلان في البقالة مع الشاحن الطويل، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found an advertisement at the grocery with the long charger, so we are not late, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اعلان الحين في الصالون، عشان ما نتأخر، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an advertisement now in the living room, so we are not late, and I also took the clean tissue</span> |
 
 

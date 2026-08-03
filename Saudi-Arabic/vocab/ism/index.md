@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت فِهرِس جنب البنك مع الزجاجة الفارغة، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found an index next to the bank with the empty bottle, so revision is easier, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فِهرِس الحين في المكتبة، عشان الصورة تطلع أوضح، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an index now in the library, so the photo comes out clearer, and I also took the small spoon</span> |
 
 

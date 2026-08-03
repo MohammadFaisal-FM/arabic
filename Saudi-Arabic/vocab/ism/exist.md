@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يخرج في الغرفة، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put an exist in the room, because the light is better there, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يخرج عند الاستقبال مع الكوب الزجاج، عشان الصورة تطلع أوضح، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an exist at reception with the glass cup, so the photo comes out clearer, and then I closed the window</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج قارب الحين في البقالة، عشان ما يضيع، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a boat now at the grocery, so it doesn’t get lost, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قارب في الدرج، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a boat in the drawer, because work finished early, and then I wrote a note</span> |
 
 

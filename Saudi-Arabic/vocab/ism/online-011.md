@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت احتمال جنب البنك، عشان المراجعة أسهل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a probability next to the bank, so revision is easier, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت احتمال قدام المصعد مع المفتاح الاحتياطي، قبل ما يبرد الأكل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a probability in front of the elevator with the spare key, before the food gets cold, and then I charged the device</span> |
 
 

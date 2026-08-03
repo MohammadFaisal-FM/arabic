@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حديث الحين في المكتبة، عشان المراجعة أسهل، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a modern now in the library, so revision is easier, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حديث في الثلاجة، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a modern in the fridge, for studying tomorrow, and then we prayed</span> |
 
 

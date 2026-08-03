@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يضيف في الغرفة مع المفتاح الاحتياطي، عشان الدراسة بكرة، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found an add in the room with the spare key, for studying tomorrow, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يضيف الحين عند الصيدلية، عشان الضيوف يوصلون، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an add now at the pharmacy, because guests are arriving, and I also took the clear cover</span> |
 
 

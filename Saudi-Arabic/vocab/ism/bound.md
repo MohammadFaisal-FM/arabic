@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مرتبط ب على الشرفة مع البطاقة الصفراء، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a bound on the balcony with the yellow card, so it doesn’t get lost, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مرتبط ب الحين تحت السرير، لأن الزحمة قوية، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a bound now under the bed, because traffic is heavy, and I also took the grey scarf</span> |
 
 

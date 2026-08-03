@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت اغراء في المكتبة مع الملعقة الصغيرة، قبل ما يقفل المكان، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a temptation in the library with the small spoon, before the place closes, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اغراء الحين في البقالة، قبل ما يقفل المكان، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a temptation now at the grocery, before the place closes, and I also took the long charger</span> |
 
 

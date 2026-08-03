@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الإسكان الحين في الحقيبة، قبل ما يقفل المكان، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a housing now in the bag, before the place closes, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الإسكان عند العيادة، لأن الإضاءة أحسن هناك، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a housing at the clinic, because the light is better there, and then we locked the door</span> |
 
 

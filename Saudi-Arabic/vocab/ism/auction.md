@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مزاد تحت السرير، قبل صلاة المغرب، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an auction under the bed, before Maghrib prayer, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مزاد في المطبخ مع الملف الورقي، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found an auction in the kitchen with the paper file, because time is tight, and then I wiped the floor</span> |
 
 

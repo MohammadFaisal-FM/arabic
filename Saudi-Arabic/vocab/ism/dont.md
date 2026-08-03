@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج لا الحين في الثلاجة، لأن الوقت ضيق، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a dont now in the fridge, because time is tight, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لا عند العيادة، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a dont at the clinic, before the food gets cold, and then I drank some water</span> |
 
 

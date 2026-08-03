@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حرب الحين عند العيادة، لأن الوقت ضيق، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a war now at the clinic, because time is tight, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حرب قدام المصعد مع الكرتون الفاضي، عشان ما يضيع، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a war in front of the elevator with the empty carton, so it doesn’t get lost, and then I turned on the fan</span> |
 
 

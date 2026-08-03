@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أسمنت الحين عند الباب، لأن الشغل خلص بدري، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a concrete now at the door, because work finished early, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أسمنت الحين قدام المصعد، قبل صلاة المغرب، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a concrete now in front of the elevator, before Maghrib prayer, and I also took the empty carton</span> |
 
 

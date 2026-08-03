@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">قوم، ولقيت المنبه القديميم عند الاستقبال، عشان الضيوف يوصلون، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">Get up, and I found the old alarm at reception, because guests are arriving, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">قوم، ولقيت القلم الرصاص قدام التلفاز، عشان ما نتأخر، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">Get up, and I found the pencil in front of the TV, so we are not late, and then I drank some water</span> |
 
 
 ---

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت البطولة في السيارة مع الوسادة الناعمة، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a tournament in the car with the soft pillow, so it doesn’t get lost, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت البطولة على الشرفة مع البطاقة الصفراء، لأن الزحمة قوية، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a tournament on the balcony with the yellow card, because traffic is heavy, and then I turned off the light</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ضريبة القيمة المضافة الحين في المحطة، عشان الضيوف يوصلون، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a vat now at the station, because guests are arriving, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ضريبة القيمة المضافة في الصالون مع المنديل النظيف، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a vat in the living room with the clean tissue, so it doesn’t get lost, and then the boy slept</span> |
 
 

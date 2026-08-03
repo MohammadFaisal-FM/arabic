@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مباشر الحين جنب البنك، عشان المراجعة أسهل، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a direct now next to the bank, so revision is easier, and I also took the empty bottle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مباشر عند الصيدلية، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a direct at the pharmacy, but keep it near you, and then I wrote a note</span> |
 
 

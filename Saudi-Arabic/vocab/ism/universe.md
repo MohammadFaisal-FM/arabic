@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الكون في المحطة، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put an universe at the station, but keep it near you, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الكون في الصالون مع المنديل النظيف، عشان ما نتأخر، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an universe in the living room with the clean tissue, so we are not late, and then the boy slept</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت نقص على المكتب، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a lack on the desk, for studying tomorrow, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نقص جنب البنك، لأن الوقت ضيق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a lack next to the bank, because time is tight, and then I charged the device</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ضاق صدري، ولقيت البطاقة الصفراء في الصالون، لأن الوقت ضيق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I feel upset, and I found the yellow card in the living room, because time is tight, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ضاق صدري، ولقيت الشاحن الطويل في الثلاجة، لأن الإضاءة أحسن هناك، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I feel upset, and I found the long charger in the fridge, because the light is better there, and then I replied to the message</span> |
 
 
 ---

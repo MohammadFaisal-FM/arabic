@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الهاوي في الثلاجة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an amateur in the fridge, if you need it later, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الهاوي قدام الملعب مع اللاصق الشفاف، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found an amateur in front of the pitch with the clear tape, but keep it near you, and then I washed my hands</span> |
 
 

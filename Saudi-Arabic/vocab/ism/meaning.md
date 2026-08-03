@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت معنى في الحديقة مع المنبه القديميم، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a meaning in the park with the old alarm, because the battery is low, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت معنى تحت السرير، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a meaning under the bed, before the driver arrives, and then we laughed a bit</span> |
 
 

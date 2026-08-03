@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت بروتوكول في الثلاجة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a protocol in the fridge, if you need it later, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بروتوكول في المدرسة، لأن الزحمة قوية، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a protocol at school, because traffic is heavy, and then I replied to the message</span> |
 
 

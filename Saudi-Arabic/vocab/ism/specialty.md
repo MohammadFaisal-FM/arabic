@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت التخصص عند العيادة مع الدباسة، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a specialty at the clinic with the stapler, so the photo comes out clearer, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج التخصص الحين جنب المسجد، لأن الجو حار شوي، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a specialty now next to the mosque, because the weather is a bit hot, and I also took the pencil</span> |
 
 

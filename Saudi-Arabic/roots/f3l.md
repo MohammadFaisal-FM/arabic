@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ف-ع-ل |
-| **Meaning** | doing |
+| **Meaning** | doing (grammar root; everyday = سوى) |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -12,16 +12,14 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وش أسوي؟، ولقيت الشاحن الطويل قدام التلفاز، لأن الوقت ضيق، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">What should I do?, and I found the long charger in front of the TV, because time is tight, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وش أسوي الحين؟ خلّني أفكّر شوي قبل لا أرد، ولقيت الوشاح الرمادي جنب النافذة، لأن الإضاءة أحسن هناك، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">What should I do now? Let me think a bit before I reply., and I found the grey scarf beside the window, because the light is better there, and then we laughed a bit</span> |
 
 
 ---
 
 ## Forms Widely Used
 
-| Form | Past / present | Fiʿl |
-|------|----------------|------|
-| I | فعل / يفعل · base meaning: doing | [Open](#fil/f3l) |
+No everyday **fiʿl** (verb) for this root — learn the **ism** (noun) forms instead.
 
 ---
 
@@ -29,7 +27,7 @@
 
 | Type | Word | Notes / Example |
 |------|------|-----------------|
-| فعل · fiʿl (Form I) | [فعل / يفعل · base meaning: doing](#fil/f3l) | <span class="example-ar" dir="rtl" lang="ar">وش أسوي؟</span><br><span class="example-en" dir="ltr" lang="en">What should I do?</span> |
+| فعل · fiʿl (verb) | N/A | ism-only root — no everyday verb |
 | مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
 | اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
 | اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
@@ -37,5 +35,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [فعل](#ism/fil-n) | <span class="example-ar" dir="rtl" lang="ar">حطّيت فعل في الغرفة، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span><br><span class="example-en" dir="ltr" lang="en">I put a verb in the room, for studying tomorrow, and then I wrote a note</span> |
+| اسم · ism (noun / other) | [فعل](#ism/fil-n) | <span class="example-ar" dir="rtl" lang="ar">لقيت فعل قدام المصعد مع الكرتون الفاضي، قبل صلاة المغرب، وبعد كده رنّ الجوال</span><br><span class="example-en" dir="ltr" lang="en">I found a verb in front of the elevator with the empty carton, before Maghrib prayer, and then the phone rang</span> |
 

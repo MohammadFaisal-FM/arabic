@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ابتدائي الحين في البقالة، لأن الولد نعسان، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need an elementary now at the grocery, because the boy is sleepy, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ابتدائي على المكتب، عشان الضيوف يوصلون، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put an elementary on the desk, because guests are arriving, and then I wrote a note</span> |
 
 

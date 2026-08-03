@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الفصل الحين قدام المصعد، عشان نلحق الموعد، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a chapter now in front of the elevator, so we make the appointment, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الفصل في الصالون مع المنديل النظيف، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a chapter in the living room with the clean tissue, so it doesn’t get lost, and then the boy slept</span> |
 
 

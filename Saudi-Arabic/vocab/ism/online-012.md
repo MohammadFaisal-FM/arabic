@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اختيار الحين تحت السرير، قبل صلاة المغرب، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a to choose now under the bed, before Maghrib prayer, and I also took the grey scarf</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اختيار قدام التلفاز، قبل صلاة المغرب، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a to choose in front of the TV, before Maghrib prayer, and then I turned on the fan</span> |
 
 

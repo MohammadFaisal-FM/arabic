@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مسكن الحين على الشرفة، عشان ما يضيع، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a residence now on the balcony, so it doesn’t get lost, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مسكن في البقالة، عشان المراجعة أسهل، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a residence at the grocery, so revision is easier, and then we laughed a bit</span> |
 
 

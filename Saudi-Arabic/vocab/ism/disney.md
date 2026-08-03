@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ديزني في البقالة مع الشاحن الطويل، لأن الولد نعسان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a disney at the grocery with the long charger, because the boy is sleepy, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ديزني الحين على المكتب، عشان الضيوف يوصلون، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a disney now on the desk, because guests are arriving, and I also took the light blanket</span> |
 
 

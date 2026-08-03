@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الأشجار عند العيادة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a trees at the clinic, because time is tight, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأشجار الحين في البقالة، عشان المراجعة أسهل، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a trees now at the grocery, so revision is easier, and I also took the long charger</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت غير في الصالون مع المنديل النظيف، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a non in the living room with the clean tissue, because work finished early, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج غير الحين قدام التلفاز، لأن الولد نعسان، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a non now in front of the TV, because the boy is sleepy, and I also took the white sock</span> |
 
 

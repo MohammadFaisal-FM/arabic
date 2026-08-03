@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت خبر عند الاستقبال مع الكوب الزجاج، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a news at reception with the glass cup, so revision is easier, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج خبر الحين تحت السرير، عشان المراجعة أسهل، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a news now under the bed, so revision is easier, and I also took the grey scarf</span> |
 
 

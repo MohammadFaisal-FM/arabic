@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الكابلات الحين جنب النافذة، عشان الصورة تطلع أوضح، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a cables now beside the window, so the photo comes out clearer, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الكابلات الحين في الحديقة، لأن الجو حار شوي، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a cables now in the park, because the weather is a bit hot, and I also took the old alarm</span> |
 
 

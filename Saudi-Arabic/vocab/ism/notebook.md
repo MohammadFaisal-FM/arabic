@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج دفتر الحين في البقالة، لأن الولد نعسان، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a notebook now at the grocery, because the boy is sleepy, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دفتر في الدرج، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a notebook in the drawer, but keep it near you, and then I washed my hands</span> |
 
 

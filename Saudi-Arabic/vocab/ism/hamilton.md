@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت هاملتون في السيارة، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a hamilton in the car, so we are not late, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت هاملتون على الشرفة مع البطاقة الصفراء، عشان المراجعة أسهل، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a hamilton on the balcony with the yellow card, so revision is easier, and then we laughed a bit</span> |
 
 

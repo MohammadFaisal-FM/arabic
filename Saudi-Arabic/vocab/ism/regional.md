@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت إقليمي عند العيادة، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a regional at the clinic, because time is tight, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إقليمي الحين عند الصيدلية، لأن الشغل خلص بدري، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a regional now at the pharmacy, because work finished early, and I also took the clear cover</span> |
 
 

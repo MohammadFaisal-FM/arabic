@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج سرير الحين في المحطة، عشان نلحق الموعد، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a bed now at the station, so we make the appointment, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سرير على الشرفة مع البطاقة الصفراء، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a bed on the balcony with the yellow card, before the driver arrives, and then I replied to the message</span> |
 
 

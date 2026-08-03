@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج لفافة الحين قدام التلفاز، عشان نلحق الموعد، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a roll now in front of the TV, so we make the appointment, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لفافة عند العيادة، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a roll at the clinic, before the food gets cold, and then I drank some water</span> |
 
 

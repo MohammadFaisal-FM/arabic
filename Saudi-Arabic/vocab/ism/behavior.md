@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج سلوك الحين تحت السرير، لأن الولد نعسان، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a behavior now under the bed, because the boy is sleepy, and I also took the grey scarf</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سلوك على المكتب، بس خلّه قريب منك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a behavior on the desk, but keep it near you, and then I tidied the table</span> |
 
 

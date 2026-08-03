@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج شمال غرب الحين في الصالون، عشان نلحق الموعد، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a northwest now in the living room, so we make the appointment, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شمال غرب عند الباب مع المحفظة البنية، لأن الولد نعسان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a northwest at the door with the brown wallet, because the boy is sleepy, and then the boy slept</span> |
 
 

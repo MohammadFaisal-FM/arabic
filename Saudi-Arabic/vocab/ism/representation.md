@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج التمثيل الحين في الصالون، بس خلّه قريب منك، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a representation now in the living room, but keep it near you, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التمثيل قدام التلفاز، قبل صلاة المغرب، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a representation in front of the TV, before Maghrib prayer, and then I turned on the fan</span> |
 
 

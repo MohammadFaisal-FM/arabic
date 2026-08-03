@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بندقية الحين جنب المسجد، إذا احتجته بعدين، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a rifle now next to the mosque, if you need it later, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بندقية في الثلاجة، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a rifle in the fridge, before the food gets cold, and then I drank some water</span> |
 
 

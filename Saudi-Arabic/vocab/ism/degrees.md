@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت درجات جنب البنك مع الزجاجة الفارغة، عشان المراجعة أسهل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a degrees next to the bank with the empty bottle, so revision is easier, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج درجات الحين في الصالون، قبل صلاة المغرب، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a degrees now in the living room, before Maghrib prayer, and I also took the clean tissue</span> |
 
 

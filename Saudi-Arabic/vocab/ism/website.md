@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت موقع إلكتروني في الغرفة مع المفتاح الاحتياطي، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a website in the room with the spare key, before the food gets cold, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج موقع إلكتروني الحين عند الصيدلية، بس خلّه قريب منك، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a website now at the pharmacy, but keep it near you, and I also took the clear cover</span> |
 
 

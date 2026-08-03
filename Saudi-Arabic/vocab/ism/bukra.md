@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت بكرة في المكتبة مع الملعقة الصغيرة، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a tomorrow (najdi) in the library with the small spoon, so revision is easier, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بكرة الحين في البقالة، عشان المراجعة أسهل، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a tomorrow (najdi) now at the grocery, so revision is easier, and I also took the long charger</span> |
 
 

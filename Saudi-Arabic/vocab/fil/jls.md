@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">جلست، وبعدين شفت الجريدة من المطبخ، قبل ما تطفى الأنوار، وبعد كده رنّ الجرس</span> | <span class="example-en" dir="ltr" lang="en">I did it (sitting), then I saw the newspaper from the kitchen, before the lights go out, and then the doorbell rang</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نجلس الحين، وبعدين أحط المظلة الشمسية من الحمام، عشان الاختبار يوم الأحد</span> | <span class="example-en" dir="ltr" lang="en">we do it (sitting) now, then I put the parasol from the bathroom, because the exam is on Sunday</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتجلس بكرة، وآخذ الوسادة من الغرفة إذا احتجته، لأن الشمس قوية برا، وبعدين قفلنا الشباك</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (sitting) tomorrow, and I’ll get the pillow from the room if I need it, because the sun is strong outside, and then we closed the window</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">جلستي، وبعدين شفت البطانية من الشرفة، قبل ما يقفل الباب، وبعدها مسحنا الطاولة</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (sitting), then I saw the blanket from the balcony, before the door closes, and then we wiped the table</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تجلسون الحين، وبعدين أحط الصحن من السطح، عشان ما يضيع شيء</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (sitting) now, then I put the plate from the rooftop, so nothing gets lost</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيجلس بكرة، وآخذ الكوب من الصندوق إذا احتجته، لأن الوقت ضيق شوي، وبعدين رتبنا الكراتين</span> | <span class="example-en" dir="ltr" lang="en">he will do it (sitting) tomorrow, and I’ll get the cup from the box if I need it, because time is a bit tight, and then we arranged the boxes</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">جلست، وبعدين شفت الملعقة من الدرج الثاني، قبل ما يبدأ الاجتماع، وبعدها ردّينا على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">she did it (sitting), then I saw the spoon from the second drawer, before the meeting starts, and then we replied to the message</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يجلسون الحين، وبعدين أحط السكينة من الرف العلوي، عشان نلحق الصلاة</span> | <span class="example-en" dir="ltr" lang="en">they do it (sitting) now, then I put the knife from the top shelf, so we make prayer on time</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">جلست أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (sitting) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أجلس الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (sitting) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بجلس بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (sitting) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">جلسنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (sitting) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نجلس الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (sitting) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنجلس بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (sitting) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">جلست أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (sitting) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تجلس الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (sitting) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتجلس بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (sitting) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">جلستي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (sitting) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تجلسين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (sitting) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتجلسين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (sitting) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">جلستوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (sitting) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تجلسون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (sitting) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتجلسون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (sitting) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">جلس أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (sitting) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يجلس الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (sitting) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيجلس بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (sitting) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">جلست أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (sitting) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تجلس الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (sitting) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتجلس بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (sitting) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">جلسوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (sitting) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يجلسون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (sitting) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيجلسون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (sitting) tomorrow if the time works</span> |
 

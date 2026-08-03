@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ارتفاع الحين في الغرفة، لأن الإضاءة أحسن هناك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a to rise now in the room, because the light is better there, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ارتفاع في الحديقة، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a to rise in the park, because the light is better there, and then I drank some water</span> |
 
 

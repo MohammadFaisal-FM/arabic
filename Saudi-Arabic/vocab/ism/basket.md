@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج سلة الحين قدام التلفاز، بس خلّه قريب منك، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a basket now in front of the TV, but keep it near you, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سلة جنب النافذة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a basket beside the window, for studying tomorrow, and then we locked the door</span> |
 
 

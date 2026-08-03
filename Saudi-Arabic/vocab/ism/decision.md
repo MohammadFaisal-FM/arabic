@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت قرار عند الاستقبال مع الكوب الزجاج، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a decision at reception with the glass cup, before the place closes, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قرار الحين قدام التلفاز، عشان ما نتأخر، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a decision now in front of the TV, so we are not late, and I also took the white sock</span> |
 
 

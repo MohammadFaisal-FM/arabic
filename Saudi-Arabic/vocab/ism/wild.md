@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بري الحين في المحطة، لأن الشغل خلص بدري، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a wild now at the station, because work finished early, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بري في البقالة، لأن الزحمة قوية، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a wild at the grocery, because traffic is heavy, and then I turned off the light</span> |
 
 

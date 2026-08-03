@@ -14,7 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مطعم قدام الملعب مع اللاصق الشفاف، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a restaurant in front of the pitch with the clear tape, because the light is better there, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مطعم في المحطة مع الكابل القصير، عشان ما يضيع، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a restaurant at the station with the short cable, so it doesn’t get lost, and then the phone rang</span> |
 
 
 ### Links

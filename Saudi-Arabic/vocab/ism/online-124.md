@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">اصحاب كان/كانت قدام التلفاز، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">a friends was in front of the TV, because work finished early, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن اصحاب شوي، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">We talked about a friends a bit, because work finished early, and then I washed my hands</span> |
 
 

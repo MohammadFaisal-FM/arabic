@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج التوقعات الحين جنب النافذة، لأن البطارية ضعيفة، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need an outlook now beside the window, because the battery is low, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التوقعات في الحديقة، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an outlook in the park, because the light is better there, and then I drank some water</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج التكنولوجيا الحين في الصالون، لأن الشغل خلص بدري، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a tech now in the living room, because work finished early, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التكنولوجيا على المكتب، بس خلّه قريب منك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a tech on the desk, but keep it near you, and then I tidied the table</span> |
 
 

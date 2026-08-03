@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت أعلى عند الصيدلية مع الغطاء الشفاف، عشان الدراسة بكرة، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a higher at the pharmacy with the clear cover, for studying tomorrow, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أعلى الحين قدام التلفاز، عشان ما نتأخر، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a higher now in front of the TV, so we are not late, and I also took the white sock</span> |
 
 

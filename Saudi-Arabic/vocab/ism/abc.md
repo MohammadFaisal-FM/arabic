@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت اي بي سي على المكتب، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put an abc on the desk, for studying tomorrow, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اي بي سي في الغرفة، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put an abc in the room, so we make the appointment, and then I washed my hands</span> |
 
 

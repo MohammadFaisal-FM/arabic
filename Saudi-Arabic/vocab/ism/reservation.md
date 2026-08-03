@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حجز الحين قدام المصعد، لأن الشغل خلص بدري، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a reservation now in front of the elevator, because work finished early, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حجز في الصالون، لأن الولد نعسان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a reservation in the living room, because the boy is sleepy, and then the boy slept</span> |
 
 

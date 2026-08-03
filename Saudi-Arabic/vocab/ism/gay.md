@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مثلي الجنس في الدرج مع الدفتر الأزرق، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a gay in the drawer with the blue notebook, because the light is better there, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مثلي الجنس الحين على المكتب، لأن الشغل خلص بدري، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a gay now on the desk, because work finished early, and I also took the light blanket</span> |
 
 

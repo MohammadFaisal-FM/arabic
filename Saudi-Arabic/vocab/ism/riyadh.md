@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الرياض الحين على المكتب، لأن الإضاءة أحسن هناك، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a riyadh now on the desk, because the light is better there, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الرياض جنب النافذة، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a riyadh beside the window, because the light is better there, and then I drank some water</span> |
 
 

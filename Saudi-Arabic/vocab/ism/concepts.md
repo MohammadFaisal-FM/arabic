@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت المفاهيم تحت السرير مع الوشاح الرمادي، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a concepts under the bed with the grey scarf, so we are not late, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المفاهيم الحين في المدرسة، عشان المراجعة أسهل، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a concepts now at school, so revision is easier, and I also took the sharp scissors</span> |
 
 

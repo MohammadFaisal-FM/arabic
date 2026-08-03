@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت عم في السيارة، عشان ما يضيع، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put an uncle in the car, so it doesn’t get lost, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عم قدام الملعب مع اللاصق الشفاف، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an uncle in front of the pitch with the clear tape, because work finished early, and then I wrote a note</span> |
 
 

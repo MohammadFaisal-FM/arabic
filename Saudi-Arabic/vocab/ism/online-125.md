@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت افاق في الحديقة مع المنبه القديميم، لأن البطارية ضعيفة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a horizons in the park with the old alarm, because the battery is low, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج افاق الحين في المكتبة، لأن البطارية ضعيفة، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a horizons now in the library, because the battery is low, and I also took the small spoon</span> |
 
 

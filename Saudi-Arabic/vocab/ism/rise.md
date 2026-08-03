@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يعلو الحين في المكتبة، قبل ما يجي السائق، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a rise now in the library, before the driver arrives, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يعلو عند الاستقبال، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a rise at reception, if you need it later, and then I wiped the floor</span> |
 
 

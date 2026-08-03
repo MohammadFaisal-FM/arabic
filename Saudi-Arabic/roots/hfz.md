@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حفظت الدرس، ولقيت البطانية الخفيفة عند العيادة، عشان ما نتأخر، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I memorized the lesson, and I found the light blanket at the clinic, so we are not late, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حفظت الدرس، ولقيت الوسادة الناعمة في المحطة، لأن الجو حار شوي، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I memorized the lesson, and I found the soft pillow at the station, because the weather is a bit hot, and then I turned off the light</span> |
 
 
 ---

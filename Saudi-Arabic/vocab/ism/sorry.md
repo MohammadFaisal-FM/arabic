@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت آسف على الشرفة مع البطاقة الصفراء، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a sorry on the balcony with the yellow card, so it doesn’t get lost, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج آسف الحين في الدرج، بس خلّه قريب منك، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a sorry now in the drawer, but keep it near you, and I also took the blue notebook</span> |
 
 

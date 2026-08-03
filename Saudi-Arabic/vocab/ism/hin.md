@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الحين الحين في السيارة، عشان ما يضيع، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a now (najdi) now in the car, so it doesn’t get lost, and I also took the soft pillow</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الحين عند الباب، عشان ما يضيع، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a now (najdi) at the door, so it doesn’t get lost, and then the phone rang</span> |
 
 

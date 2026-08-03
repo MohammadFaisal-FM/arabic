@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">يضحك كثير، ولقيت المفتاح الاحتياطي جنب المسجد، عشان ما نتأخر، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">He laughs a lot, and I found the spare key next to the mosque, so we are not late, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">يضحك كثير، ولقيت الغطاء الشفاف تحت السرير، قبل ما يجي السائق، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">He laughs a lot, and I found the clear cover under the bed, before the driver arrives, and then I washed my hands</span> |
 
 
 ---

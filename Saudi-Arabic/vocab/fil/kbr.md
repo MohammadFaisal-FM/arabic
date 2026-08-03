@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">كبرت، وبعدين شفت الحبل من الدرج الثاني، لأن الضيوف يوصلون بعد شوي، وبعدها ردّينا على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I did it (growing / being big), then I saw the rope from the second drawer, because the guests arrive soon, and then we replied to the message</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نكبر الحين، وبعدين أحط المصباح من الرف العلوي، قبل نهاية الدوام</span> | <span class="example-en" dir="ltr" lang="en">we do it (growing / being big) now, then I put the lamp from the top shelf, before the end of the workday</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتكبر بكرة، وآخذ الشاحنة الصغيرة من الجيب إذا احتجته، عشان الهضم يكون أخف، وبعدها ضحكنا من الموقف</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (growing / being big) tomorrow, and I’ll get the small truck from the pocket if I need it, so digestion is lighter, and then we laughed at the situation</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">كبرتي، وبعدين شفت السلم من الطاولة، لأن الباص متأخر اليوم، وبعد كده نام الولد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (growing / being big), then I saw the ladder from the table, because the bus is late today, and then the boy fell asleep</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تكبرون الحين، وبعدين أحط المطرقة من الكرسي، قبل ما تطفى الأنوار</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (growing / being big) now, then I put the hammer from the chair, before the lights go out</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيكبر بكرة، وآخذ المسمار من السيارة إذا احتجته، عشان الاختبار يوم الأحد، وبعدها فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">he will do it (growing / being big) tomorrow, and I’ll get the nail from the car if I need it, because the exam is on Sunday, and then I turned on the fan</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">كبرت، وبعدين شفت المفك من الرف، لأن الشمس قوية برا، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">she did it (growing / being big), then I saw the screwdriver from the shelf, because the sun is strong outside, and then I charged the device</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يكبرون الحين، وبعدين أحط الشريط اللاصق من التطبيق، قبل ما يقفل الباب</span> | <span class="example-en" dir="ltr" lang="en">they do it (growing / being big) now, then I put the tape from the app, before the door closes</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">كبرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (growing / being big) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أكبر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (growing / being big) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بكبر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (growing / being big) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">كبرنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (growing / being big) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نكبر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (growing / being big) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنكبر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (growing / being big) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">كبرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (growing / being big) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تكبر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (growing / being big) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتكبر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (growing / being big) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">كبرتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (growing / being big) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تكبرين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (growing / being big) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتكبرين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (growing / being big) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">كبرتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (growing / being big) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تكبرون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (growing / being big) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتكبرون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (growing / being big) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">كبر أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (growing / being big) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يكبر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (growing / being big) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيكبر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (growing / being big) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">كبرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (growing / being big) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تكبر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (growing / being big) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتكبر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (growing / being big) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">كبروا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (growing / being big) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يكبرون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (growing / being big) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيكبرون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (growing / being big) tomorrow if the time works</span> |
 

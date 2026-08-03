@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت صديق عند الاستقبال، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I saw a friend at reception, before the driver arrives, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">صديق كان/كانت في الثلاجة، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">a friend was in the fridge, because the light is better there, and then we prayed</span> |
 
 

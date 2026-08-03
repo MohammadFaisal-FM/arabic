@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت جنسي في السيارة مع الوسادة الناعمة، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a sexual in the car with the soft pillow, so it doesn’t get lost, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جنسي في الغرفة مع المفتاح الاحتياطي، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a sexual in the room with the spare key, but keep it near you, and then I wrote a note</span> |
 
 

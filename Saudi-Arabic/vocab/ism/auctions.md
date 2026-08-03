@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مزادات الحين عند الاستقبال، عشان المراجعة أسهل، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need an auctions now at reception, so revision is easier, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مزادات جنب النافذة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put an auctions beside the window, for studying tomorrow, and then we locked the door</span> |
 
 

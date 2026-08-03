@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت شنطة في الثلاجة مع القبعة الصيفية، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a bag in the fridge with the summer hat, if you need it later, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شنطة الحين في الحقيبة، إذا احتجته بعدين، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a bag now in the bag, if you need it later, and I also took the clean shoes</span> |
 
 

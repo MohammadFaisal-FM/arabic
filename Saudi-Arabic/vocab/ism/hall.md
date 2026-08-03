@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت حل تحت السرير مع الوشاح الرمادي، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a solution under the bed with the grey scarf, because the boy is sleepy, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حل الحين قدام التلفاز، لأن الولد نعسان، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a solution now in front of the TV, because the boy is sleepy, and I also took the white sock</span> |
 
 

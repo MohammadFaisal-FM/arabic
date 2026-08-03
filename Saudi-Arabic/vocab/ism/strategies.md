@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الاستراتيجيات في الثلاجة مع القبعة الصيفية، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a strategies in the fridge with the summer hat, because time is tight, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الاستراتيجيات الحين في المدرسة، عشان المراجعة أسهل، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a strategies now at school, so revision is easier, and I also took the sharp scissors</span> |
 
 

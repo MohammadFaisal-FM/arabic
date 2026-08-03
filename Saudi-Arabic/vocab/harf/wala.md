@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «ولا» في الجملة، وحطينا اللاصق الشفاف قدام الملعب، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">We used “ولا” (and not / or not) in the sentence, and put the clear tape in front of the pitch, before the food gets cold, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «ولا» في الجملة، وحطينا المنبه القديميم في الحديقة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">We used “ولا” (and not / or not) in the sentence, and put the old alarm in the park, for studying tomorrow, and then we locked the door</span> |
 

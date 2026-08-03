@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">دفعت الحساب، ولقيت الملعقة الصغيرة تحت السرير، قبل ما يبرد الأكل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I paid the bill, and I found the small spoon under the bed, before the food gets cold, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">دفعت الحساب، ولقيت الغطاء الشفاف تحت السرير، عشان المراجعة أسهل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I paid the bill, and I found the clear cover under the bed, so revision is easier, and then I tidied the table</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [حساب](#ism/hisab) | <span class="example-ar" dir="rtl" lang="ar">لقيت حساب في الثلاجة مع القبعة الصيفية، عشان الصورة تطلع أوضح، وبعدين قفلنا الباب</span><br><span class="example-en" dir="ltr" lang="en">I found a bill in the fridge with the summer hat, so the photo comes out clearer, and then we locked the door</span> |
+| اسم · ism (noun / other) | [حساب](#ism/hisab) | <span class="example-ar" dir="rtl" lang="ar">أحتاج حساب الحين في الحقيبة، عشان الصورة تطلع أوضح، وخذيت كمان الحذاء النظيف</span><br><span class="example-en" dir="ltr" lang="en">I need a bill now in the bag, so the photo comes out clearer, and I also took the clean shoes</span> |
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن بشر شوي، بس خلّه قريب منك، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a human a bit, but keep it near you, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت بشر قدام المصعد، قبل صلاة المغرب، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I saw a human in front of the elevator, before Maghrib prayer, and then the phone rang</span> |
 
 

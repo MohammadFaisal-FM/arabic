@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حبل الحين قدام الملعب، عشان الدراسة بكرة، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a rope now in front of the pitch, for studying tomorrow, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حبل الحين في الغرفة، عشان الضيوف يوصلون، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a rope now in the room, because guests are arriving, and I also took the spare key</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">قرب مني، ولقيت الزجاجة الفارغة في البقالة، عشان الدراسة بكرة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">Come closer, and I found the empty bottle at the grocery, for studying tomorrow, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">قرب مني، ولقيت الملعقة الصغيرة في الدرج، عشان الضيوف يوصلون، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">Come closer, and I found the small spoon in the drawer, because guests are arriving, and then I wiped the floor</span> |
 
 
 ---

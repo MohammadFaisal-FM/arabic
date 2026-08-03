@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج صدر الحين عند الصيدلية، عشان الدراسة بكرة، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a breast now at the pharmacy, for studying tomorrow, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صدر قدام التلفاز، عشان ما نتأخر، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a breast in front of the TV, so we are not late, and then the boy slept</span> |
 
 

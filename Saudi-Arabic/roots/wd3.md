@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | و-ض-ع |
-| **Meaning** | placing |
+| **Meaning** | placing / situation (MSA وضع; Najdi put = حطّ) |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -12,16 +12,14 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطها / ضعها هنا، ولقيت الزجاجة الفارغة في البقالة، قبل ما يبرد الأكل، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">Put it here, and I found the empty bottle at the grocery, before the food gets cold, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطها هنا على الطاولة، عشان ما تضيع</span> | <span class="example-en" dir="ltr" lang="en">Put it here on the table so it doesn’t get lost.</span> |
 
 
 ---
 
 ## Forms Widely Used
 
-| Form | Past / present | Fiʿl |
-|------|----------------|------|
-| I | وضع / يوضع · base meaning: placing | [Open](#fil/wd3) |
+No everyday **fiʿl** (verb) for this root — learn the **ism** (noun) forms instead.
 
 ---
 
@@ -29,7 +27,7 @@
 
 | Type | Word | Notes / Example |
 |------|------|-----------------|
-| فعل · fiʿl (Form I) | [وضع / يوضع · base meaning: placing](#fil/wd3) | <span class="example-ar" dir="rtl" lang="ar">حطها / ضعها هنا</span><br><span class="example-en" dir="ltr" lang="en">Put it here</span> |
+| فعل · fiʿl (verb) | N/A | ism-only root — no everyday verb |
 | مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
 | اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
 | اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
@@ -37,5 +35,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | [وضع](#ism/mode) | <span class="example-ar" dir="rtl" lang="ar">لقيت وضع في المحطة مع الكابل القصير، عشان ما يضيع، وبعد كده رنّ الجوال</span><br><span class="example-en" dir="ltr" lang="en">I found a mode at the station with the short cable, so it doesn’t get lost, and then the phone rang</span> |
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت شرطة الأمن العام قدام الملعب مع اللاصق الشفاف، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a psp in front of the pitch with the clear tape, before the food gets cold, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شرطة الأمن العام عند الصيدلية مع الغطاء الشفاف، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a psp at the pharmacy with the clear cover, because guests are arriving, and then I tidied the table</span> |
 
 

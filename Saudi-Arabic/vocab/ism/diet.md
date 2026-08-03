@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت نظام عذائي في الثلاجة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a diet in the fridge, because the battery is low, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت نظام عذائي قدام الملعب مع اللاصق الشفاف، عشان نلحق الموعد، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a diet in front of the pitch with the clear tape, so we make the appointment, and then I wrote a note</span> |
 
 

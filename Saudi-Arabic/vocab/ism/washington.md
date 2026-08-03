@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت واشنطن جنب المسجد، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a washington next to the mosque, if you need it later, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت واشنطن قدام التلفاز مع الجورب الأبيض، لأن الولد نعسان، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a washington in front of the TV with the white sock, because the boy is sleepy, and then I turned on the fan</span> |
 
 

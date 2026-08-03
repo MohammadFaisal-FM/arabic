@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الفقرة عند العيادة، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a para at the clinic, so the photo comes out clearer, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الفقرة جنب المسجد مع القلم الرصاص، لأن الجو حار شوي، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a para next to the mosque with the pencil, because the weather is a bit hot, and then we locked the door</span> |
 
 

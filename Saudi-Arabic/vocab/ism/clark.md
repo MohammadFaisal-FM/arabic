@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت كلارك على الشرفة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a clark on the balcony, because the boy is sleepy, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كلارك تحت السرير مع الوشاح الرمادي، قبل ما يقفل المكان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a clark under the bed with the grey scarf, before the place closes, and then I turned off the light</span> |
 
 

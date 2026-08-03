@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج شهور الحين في البقالة، عشان ما نتأخر، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a months now at the grocery, so we are not late, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شهور في الثلاجة مع القبعة الصيفية، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a months in the fridge with the summer hat, because the light is better there, and then I drank some water</span> |
 
 

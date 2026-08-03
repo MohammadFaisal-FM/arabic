@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اصابه الحين على المكتب، قبل ما يبرد الأكل، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need an infection now on the desk, before the food gets cold, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اصابه جنب النافذة، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put an infection beside the window, before the food gets cold, and then we prayed</span> |
 
 

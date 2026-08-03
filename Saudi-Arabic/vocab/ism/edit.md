@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يحرر الحين قدام التلفاز، بس خلّه قريب منك، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need an edit now in front of the TV, but keep it near you, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يحرر قدام الملعب، عشان الضيوف يوصلون، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put an edit in front of the pitch, because guests are arriving, and then I washed my hands</span> |
 
 

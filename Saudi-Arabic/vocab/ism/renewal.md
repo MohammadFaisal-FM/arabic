@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج تجديد الحين قدام التلفاز، عشان الضيوف يوصلون، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a renewal now in front of the TV, because guests are arriving, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تجديد عند الباب، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a renewal at the door, so we are not late, and then the phone rang</span> |
 
 

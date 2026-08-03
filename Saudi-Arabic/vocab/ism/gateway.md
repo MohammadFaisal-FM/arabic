@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بوابة الحين قدام التلفاز، عشان نلحق الموعد، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a gateway now in front of the TV, so we make the appointment, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بوابة في المحطة، لأن الولد نعسان، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a gateway at the station, because the boy is sleepy, and then the phone rang</span> |
 
 

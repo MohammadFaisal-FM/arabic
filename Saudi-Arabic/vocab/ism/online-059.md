@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت امازيغي جنب المسجد مع القلم الرصاص، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a berber next to the mosque with the pencil, because the battery is low, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج امازيغي الحين عند الاستقبال، لأن البطارية ضعيفة، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a berber now at reception, because the battery is low, and I also took the glass cup</span> |
 
 

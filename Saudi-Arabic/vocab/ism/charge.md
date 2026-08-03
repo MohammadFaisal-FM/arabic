@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج تكلفة الحين في الحديقة، لأن الوقت ضيق، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a charge now in the park, because time is tight, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تكلفة جنب المسجد مع القلم الرصاص، لأن الإضاءة أحسن هناك، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a charge next to the mosque with the pencil, because the light is better there, and then we locked the door</span> |
 
 

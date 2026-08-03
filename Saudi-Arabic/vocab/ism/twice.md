@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مرتين الحين في الغرفة، قبل ما يبرد الأكل، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a twice now in the room, before the food gets cold, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مرتين في الدرج، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a twice in the drawer, because guests are arriving, and then I tidied the table</span> |
 
 

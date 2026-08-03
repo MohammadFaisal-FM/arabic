@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج شيء الحين في الحديقة، إذا احتجته بعدين، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a thing now in the park, if you need it later, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شيء عند الاستقبال، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a thing at reception, so the photo comes out clearer, and then I charged the device</span> |
 
 

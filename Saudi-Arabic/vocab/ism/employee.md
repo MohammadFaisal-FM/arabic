@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج موظف الحين قدام المصعد، بس خلّه قريب منك، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need an employee now in front of the elevator, but keep it near you, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت موظف في الصالون، قبل صلاة المغرب، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an employee in the living room, before Maghrib prayer, and then the phone rang</span> |
 
 

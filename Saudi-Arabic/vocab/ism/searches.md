@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج عمليات البحث الحين عند الاستقبال، لأن الزحمة قوية، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a searches now at reception, because traffic is heavy, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عمليات البحث جنب النافذة، لأن الجو حار شوي، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a searches beside the window, because the weather is a bit hot, and then I drank some water</span> |
 
 

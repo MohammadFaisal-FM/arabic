@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يوتا في السيارة مع الوسادة الناعمة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found an utah in the car with the soft pillow, before Maghrib prayer, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يوتا في الغرفة مع المفتاح الاحتياطي، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an utah in the room with the spare key, so we make the appointment, and then I tidied the table</span> |
 
 

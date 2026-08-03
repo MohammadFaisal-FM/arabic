@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يتغير الحين على المكتب، قبل ما يبرد الأكل، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a change now on the desk, before the food gets cold, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يتغير في المطبخ، عشان الصورة تطلع أوضح، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a change in the kitchen, so the photo comes out clearer, and then I wiped the floor</span> |
 
 

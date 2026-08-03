@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الرعاة الحين في المكتبة، عشان المراجعة أسهل، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a sponsors now in the library, so revision is easier, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الرعاة قدام التلفاز، قبل صلاة المغرب، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a sponsors in front of the TV, before Maghrib prayer, and then I turned on the fan</span> |
 
 

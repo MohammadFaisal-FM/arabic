@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الدقة الحين في الثلاجة، لأن البطارية ضعيفة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a res now in the fridge, because the battery is low, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الدقة عند العيادة، لأن الإضاءة أحسن هناك، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a res at the clinic, because the light is better there, and then we locked the door</span> |
 
 

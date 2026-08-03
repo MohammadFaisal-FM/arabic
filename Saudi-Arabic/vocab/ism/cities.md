@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج المدن الحين في الثلاجة، لأن الوقت ضيق، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a cities now in the fridge, because time is tight, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المدن قدام الملعب مع اللاصق الشفاف، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a cities in front of the pitch with the clear tape, because work finished early, and then I wrote a note</span> |
 
 

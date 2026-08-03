@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج المشتري الحين في الصالون، عشان نلحق الموعد، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a buyer now in the living room, so we make the appointment, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المشتري في السيارة مع الوسادة الناعمة، عشان المراجعة أسهل، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a buyer in the car with the soft pillow, so revision is easier, and then we laughed a bit</span> |
 
 

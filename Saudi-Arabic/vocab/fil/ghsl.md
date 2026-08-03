@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">غسلت، وبعدين شفت الحزام من الكرسي، قبل ما تطفى الأنوار، وبعدين صلّينا المغرب</span> | <span class="example-en" dir="ltr" lang="en">I did it (washing), then I saw the belt from the chair, before the lights go out, and then we prayed Maghrib</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نغسل الحين، وبعدين أحط الجوارب من السيارة، عشان الاختبار يوم الأحد</span> | <span class="example-en" dir="ltr" lang="en">we do it (washing) now, then I put the socks from the car, because the exam is on Sunday</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتغسل بكرة، وآخذ الفانيلا من الرف إذا احتجته، لأن الشمس قوية برا، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (washing) tomorrow, and I’ll get the undershirt from the shelf if I need it, because the sun is strong outside, and then I charged the device</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">غسلتي، وبعدين شفت البلوزة من التطبيق، قبل ما يقفل الباب، وبعدها رجعت الغرفة بهدوء</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (washing), then I saw the blouse from the app, before the door closes, and then I went back to the room quietly</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تغسلون الحين، وبعدين أحط البنطلون من الدرج، عشان ما يضيع شيء</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (washing) now, then I put the pants from the drawer, so nothing gets lost</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيغسل بكرة، وآخذ الفستان من الثلاجة إذا احتجته، لأن الوقت ضيق شوي، وبعد كده رنّ الجرس</span> | <span class="example-en" dir="ltr" lang="en">he will do it (washing) tomorrow, and I’ll get the dress from the fridge if I need it, because time is a bit tight, and then the doorbell rang</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">غسلت، وبعدين شفت المعطف من الفرن، قبل ما يبدأ الاجتماع، وبعدها شربت شوية ميّ</span> | <span class="example-en" dir="ltr" lang="en">she did it (washing), then I saw the coat from the oven, before the meeting starts, and then I drank a bit of water</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يغسلون الحين، وبعدين أحط المظلة المطريّة من الاستقبال، عشان نلحق الصلاة</span> | <span class="example-en" dir="ltr" lang="en">they do it (washing) now, then I put the rain umbrella from reception, so we make prayer on time</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">غسلت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (washing) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أغسل الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (washing) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بغسل بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (washing) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">غسلنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (washing) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نغسل الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (washing) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنغسل بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (washing) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">غسلت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (washing) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تغسل الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (washing) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتغسل بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (washing) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">غسلتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (washing) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تغسلين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (washing) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتغسلين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (washing) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">غسلتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (washing) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تغسلون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (washing) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتغسلون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (washing) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">غسل أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (washing) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يغسل الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (washing) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيغسل بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (washing) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">غسلت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (washing) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تغسل الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (washing) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتغسل بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (washing) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">غسلوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (washing) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يغسلون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (washing) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيغسلون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (washing) tomorrow if the time works</span> |
 

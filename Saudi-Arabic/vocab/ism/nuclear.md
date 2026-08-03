@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت النووية قدام الملعب مع اللاصق الشفاف، قبل ما يبرد الأكل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a nuclear in front of the pitch with the clear tape, before the food gets cold, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت النووية في المكتبة مع الملعقة الصغيرة، لأن البطارية ضعيفة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a nuclear in the library with the small spoon, because the battery is low, and then I closed the window</span> |
 
 

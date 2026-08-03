@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ديمقراطي في المكتبة مع الملعقة الصغيرة، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a democratic in the library with the small spoon, so revision is easier, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ديمقراطي الحين في الحقيبة، لأن البطارية ضعيفة، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a democratic now in the bag, because the battery is low, and I also took the clean shoes</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ايزو جنب النافذة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an iso beside the window, because the battery is low, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ايزو في الحديقة مع المنبه القديميم، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an iso in the park with the old alarm, because the light is better there, and then we prayed</span> |
 
 

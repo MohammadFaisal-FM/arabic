@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج النشرة الإخبارية الحين قدام الملعب، عشان الدراسة بكرة، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a newsletter now in front of the pitch, for studying tomorrow, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج النشرة الإخبارية الحين في الحديقة، لأن الجو حار شوي، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a newsletter now in the park, because the weather is a bit hot, and I also took the old alarm</span> |
 
 

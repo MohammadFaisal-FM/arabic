@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يتمتع تحت السرير مع الوشاح الرمادي، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found an enjoy under the bed with the grey scarf, before Maghrib prayer, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يتمتع الحين في المطبخ، لأن الوقت ضيق، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an enjoy now in the kitchen, because time is tight, and I also took the paper file</span> |
 
 

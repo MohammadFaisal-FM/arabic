@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الحقول الحين عند الاستقبال، قبل ما يقفل المكان، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a fields now at reception, before the place closes, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الحقول جنب النافذة مع النظارة الشمسية، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a fields beside the window with the sunglasses, because the light is better there, and then we prayed</span> |
 
 

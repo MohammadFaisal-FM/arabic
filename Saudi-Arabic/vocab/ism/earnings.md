@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأرباح الحين تحت السرير، عشان ما نتأخر، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need an earnings now under the bed, so we are not late, and I also took the grey scarf</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الأرباح في السيارة مع الوسادة الناعمة، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found an earnings in the car with the soft pillow, before the driver arrives, and then I replied to the message</span> |
 
 

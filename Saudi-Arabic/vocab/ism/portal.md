@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج منفذ الحين جنب النافذة، لأن الوقت ضيق، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a portal now beside the window, because time is tight, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت منفذ على الشرفة، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a portal on the balcony, so revision is easier, and then I replied to the message</span> |
 
 

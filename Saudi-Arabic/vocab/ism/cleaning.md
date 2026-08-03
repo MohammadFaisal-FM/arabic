@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج تنظيف الحين قدام الملعب، عشان الدراسة بكرة، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a cleaning now in front of the pitch, for studying tomorrow, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تنظيف الحين في المكتبة، لأن الوقت ضيق، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a cleaning now in the library, because time is tight, and I also took the small spoon</span> |
 
 

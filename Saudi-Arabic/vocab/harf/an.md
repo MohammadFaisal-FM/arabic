@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن الموضوع بهدوء، وحطينا الشاحن الطويل في البقالة، عشان ما نتأخر</span> | <span class="example-en" dir="ltr" lang="en">We talked about the topic calmly, and put the long charger at the grocery, so we are not late</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن الموضوع بهدوء، وحطينا الجورب الأبيض قدام التلفاز، عشان ما يضيع</span> | <span class="example-en" dir="ltr" lang="en">We talked about the topic calmly, and put the white sock in front of the TV, so it doesn’t get lost</span> |
 

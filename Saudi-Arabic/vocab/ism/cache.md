@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مخبأ الحين في الغرفة، لأن الجو حار شوي، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a cache now in the room, because the weather is a bit hot, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مخبأ في الدرج مع الدفتر الأزرق، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a cache in the drawer with the blue notebook, because work finished early, and then I washed my hands</span> |
 
 

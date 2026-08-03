@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت أصل عند الصيدلية، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put an origin at the pharmacy, because the light is better there, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أصل في الحقيبة مع الحذاء النظيف، عشان الصورة تطلع أوضح، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found an origin in the bag with the clean shoes, so the photo comes out clearer, and then I wiped the floor</span> |
 
 

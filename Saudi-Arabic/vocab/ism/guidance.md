@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج إرشاد الحين في السيارة، قبل صلاة المغرب، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a guidance now in the car, before Maghrib prayer, and I also took the soft pillow</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إرشاد الحين في الغرفة، عشان نلحق الموعد، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a guidance now in the room, so we make the appointment, and I also took the spare key</span> |
 
 

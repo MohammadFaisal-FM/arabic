@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يستثني الحين عند الباب، لأن الشغل خلص بدري، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an except now at the door, because work finished early, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يستثني الحين على الشرفة، لأن الزحمة قوية، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need an except now on the balcony, because traffic is heavy, and I also took the yellow card</span> |
 
 

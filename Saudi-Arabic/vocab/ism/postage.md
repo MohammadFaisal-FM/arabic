@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت رسوم البريد على الشرفة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a postage on the balcony, because the boy is sleepy, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رسوم البريد في البقالة مع الشاحن الطويل، لأن الزحمة قوية، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a postage at the grocery with the long charger, because traffic is heavy, and then I replied to the message</span> |
 
 

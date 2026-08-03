@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت جهاز قدام المصعد مع الكرتون الفاضي، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a device in front of the elevator with the empty carton, but keep it near you, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جهاز الحين جنب المسجد، عشان الدراسة بكرة، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a device now next to the mosque, for studying tomorrow, and I also took the pencil</span> |
 
 

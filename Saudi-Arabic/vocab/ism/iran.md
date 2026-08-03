@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج إيران الحين في الغرفة، لأن الإضاءة أحسن هناك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an iran now in the room, because the light is better there, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت إيران عند الاستقبال، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an iran at reception, so the photo comes out clearer, and then I charged the device</span> |
 
 

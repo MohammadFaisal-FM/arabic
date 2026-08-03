@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يغطي في البقالة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a covers at the grocery, before Maghrib prayer, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يغطي على المكتب مع البطانية الخفيفة، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a covers on the desk with the light blanket, so we make the appointment, and then I tidied the table</span> |
 
 

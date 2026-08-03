@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج سنت الحين عند العيادة، عشان الصورة تطلع أوضح، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a cent now at the clinic, so the photo comes out clearer, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سنت في البقالة، قبل ما يقفل المكان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a cent at the grocery, before the place closes, and then I replied to the message</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مبادرة الحين جنب النافذة، لأن البطارية ضعيفة، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need an initiative now beside the window, because the battery is low, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مبادرة الحين عند العيادة، لأن الجو حار شوي، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need an initiative now at the clinic, because the weather is a bit hot, and I also took the stapler</span> |
 
 

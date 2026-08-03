@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت العروض عند العيادة، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an offers at the clinic, if you need it later, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت العروض في الحديقة مع المنبه القديميم، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an offers in the park with the old alarm, before the food gets cold, and then we locked the door</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">رد عليّ، ولقيت المقص الحاد قدام المصعد، لأن الوقت ضيق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">Reply to me, and I found the sharp scissors in front of the elevator, because time is tight, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">رد عليّ، ولقيت الزجاجة الفارغة عند الصيدلية، عشان نلحق الموعد، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">Reply to me, and I found the empty bottle at the pharmacy, so we make the appointment, and then I wiped the floor</span> |
 
 
 ---

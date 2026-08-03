@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج المطورين الحين في البقالة، قبل صلاة المغرب، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a developers now at the grocery, before Maghrib prayer, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المطورين على المكتب، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a developers on the desk, so we make the appointment, and then I washed my hands</span> |
 
 

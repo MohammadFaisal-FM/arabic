@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">ثبتت، وبعدين شفت الخبز الطازج من الدرج، عشان ما يضيع شيء، وبعدين كتبنا الجملة في الدفتر</span> | <span class="example-en" dir="ltr" lang="en">I did it (staying firm / proving), then I saw the fresh bread from the drawer, so nothing gets lost, and then we wrote the sentence in the notebook</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نثبت الحين، وبعدين أحط الرسالة من الثلاجة، لأن الوقت ضيق شوي</span> | <span class="example-en" dir="ltr" lang="en">we do it (staying firm / proving) now, then I put the message from the fridge, because time is a bit tight</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتثبت بكرة، وآخذ الخريطة من الفرن إذا احتجته، قبل ما يبدأ الاجتماع، وبعدها شربت شوية ميّ</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (staying firm / proving) tomorrow, and I’ll get the map from the oven if I need it, before the meeting starts, and then I drank a bit of water</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">ثبتتي، وبعدين شفت الشمسية من الاستقبال، عشان نلحق الصلاة، وبعدين قفلنا الشباك</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (staying firm / proving), then I saw the sunshade from reception, so we make prayer on time, and then we closed the window</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تثبتون الحين، وبعدين أحط كتب الأطفال من البقالة، لأن الطريق مزدحم</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (staying firm / proving) now, then I put the children’s books from the grocery, because the road is crowded</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيثبت بكرة، وآخذ الزيتون واللبنة من الخزانة إذا احتجته، قبل ما يخلص العرض، وبعد كده طفينا النور</span> | <span class="example-en" dir="ltr" lang="en">he will do it (staying firm / proving) tomorrow, and I’ll get the olives and labneh from the closet if I need it, before the offer ends, and then we turned off the light</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">ثبتت، وبعدين شفت الشاي الأخضر من الإيميل، عشان الصورة تطلع أوضح، وبعدين رتبنا الكراتين</span> | <span class="example-en" dir="ltr" lang="en">she did it (staying firm / proving), then I saw the green tea from email, so the picture comes out clearer, and then we arranged the boxes</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يثبتون الحين، وبعدين أحط الحذاء الرياضي من الأمن، لأن المطر قرب يجي</span> | <span class="example-en" dir="ltr" lang="en">they do it (staying firm / proving) now, then I put the running shoes from security, because rain is about to come</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">ثبتت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (staying firm / proving) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أثبت الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (staying firm / proving) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بثبت بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (staying firm / proving) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">ثبتنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (staying firm / proving) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نثبت الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (staying firm / proving) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنثبت بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (staying firm / proving) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">ثبتت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (staying firm / proving) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تثبت الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (staying firm / proving) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتثبت بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (staying firm / proving) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">ثبتتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (staying firm / proving) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تثبتين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (staying firm / proving) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتثبتين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (staying firm / proving) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">ثبتتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (staying firm / proving) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تثبتون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (staying firm / proving) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتثبتون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (staying firm / proving) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">ثبت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (staying firm / proving) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يثبت الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (staying firm / proving) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيثبت بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (staying firm / proving) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">ثبتت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (staying firm / proving) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تثبت الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (staying firm / proving) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتثبت بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (staying firm / proving) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">ثبتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (staying firm / proving) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يثبتون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (staying firm / proving) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيثبتون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (staying firm / proving) tomorrow if the time works</span> |
 

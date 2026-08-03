@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن الأوامر شوي، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">We talked about a commands a bit, so it doesn’t get lost, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن الأوامر شوي، لأن الزحمة قوية، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a commands a bit, because traffic is heavy, and then I replied to the message</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج دورة الحين قدام التلفاز، عشان الضيوف يوصلون، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a course now in front of the TV, because guests are arriving, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دورة جنب النافذة، لأن الجو حار شوي، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a course beside the window, because the weather is a bit hot, and then I drank some water</span> |
 
 

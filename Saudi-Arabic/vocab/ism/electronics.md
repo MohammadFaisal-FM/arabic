@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج إلكترونيات الحين في الدرج، لأن الجو حار شوي، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need an electronics now in the drawer, because the weather is a bit hot, and I also took the blue notebook</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إلكترونيات في السيارة مع الوسادة الناعمة، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found an electronics in the car with the soft pillow, before the driver arrives, and then I replied to the message</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الجليد الحين في المكتبة، عشان المراجعة أسهل، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an ice now in the library, so revision is easier, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الجليد عند الاستقبال، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an ice at reception, so the photo comes out clearer, and then I charged the device</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حضرت الاجتماع، ولقيت الجورب الأبيض قدام الملعب، قبل ما يقفل المكان، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I attended the meeting, and I found the white sock in front of the pitch, before the place closes, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حضرت الاجتماع، ولقيت الحذاء النظيف قدام الملعب، عشان الضيوف يوصلون، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I attended the meeting, and I found the clean shoes in front of the pitch, because guests are arriving, and then I wiped the floor</span> |
 
 
 ---

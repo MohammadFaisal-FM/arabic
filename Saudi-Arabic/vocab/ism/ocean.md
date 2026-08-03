@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت محيط في المطبخ، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put an ocean in the kitchen, before the place closes, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت محيط قدام المصعد مع الكرتون الفاضي، عشان ما يضيع، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found an ocean in front of the elevator with the empty carton, so it doesn’t get lost, and then I turned on the fan</span> |
 
 

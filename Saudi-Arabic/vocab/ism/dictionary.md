@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج قاموس الحين قدام التلفاز، عشان نلحق الموعد، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a dictionary now in front of the TV, so we make the appointment, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قاموس في المدرسة، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a dictionary at school, so revision is easier, and then I turned off the light</span> |
 
 

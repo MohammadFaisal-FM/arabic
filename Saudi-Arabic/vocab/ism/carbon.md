@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الكربون عند العيادة مع الدباسة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a carbon at the clinic with the stapler, because time is tight, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الكربون جنب المسجد، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a carbon next to the mosque, before the food gets cold, and then we locked the door</span> |
 
 

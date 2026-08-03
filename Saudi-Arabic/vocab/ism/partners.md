@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الشركاء الحين عند الصيدلية، عشان الدراسة بكرة، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a partners now at the pharmacy, for studying tomorrow, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الشركاء قدام التلفاز، عشان ما نتأخر، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a partners in front of the TV, so we are not late, and then the boy slept</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الأحد في الغرفة، لأن الجو حار شوي، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a sunday in the room, because the weather is a bit hot, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأحد الحين في الصالون، عشان ما يضيع، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a sunday now in the living room, so it doesn’t get lost, and I also took the clean tissue</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج دُبٌّ الحين في المحطة، عشان نلحق الموعد، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a bear now at the station, so we make the appointment, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت دُبٌّ جنب المسجد مع القلم الرصاص، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a bear next to the mosque with the pencil, before the food gets cold, and then I drank some water</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اخافه الحين جنب النافذة، لأن الوقت ضيق، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a scared him now beside the window, because time is tight, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اخافه في المطبخ، لأن الوقت ضيق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a scared him in the kitchen, because time is tight, and then I closed the window</span> |
 
 

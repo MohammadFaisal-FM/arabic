@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت إطارات عند الصيدلية مع الغطاء الشفاف، لأن الإضاءة أحسن هناك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a frames at the pharmacy with the clear cover, because the light is better there, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إطارات الحين في الحقيبة، عشان الصورة تطلع أوضح، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a frames now in the bag, so the photo comes out clearer, and I also took the clean shoes</span> |
 
 

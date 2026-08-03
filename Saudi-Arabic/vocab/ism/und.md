@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت و في البقالة، قبل صلاة المغرب، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put an und at the grocery, before Maghrib prayer, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج و الحين في السيارة، قبل ما يجي السائق، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need an und now in the car, before the driver arrives, and I also took the soft pillow</span> |
 
 

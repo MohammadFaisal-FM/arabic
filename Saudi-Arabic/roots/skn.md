@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أسكن في الرياض، ولقيت الحذاء النظيف في المدرسة، عشان الدراسة بكرة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I live in Riyadh, and I found the clean shoes at school, for studying tomorrow, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أسكن في الرياض، ولقيت المحفظة البنية جنب البنك، لأن البطارية ضعيفة، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I live in Riyadh, and I found the brown wallet next to the bank, because the battery is low, and then the boy slept</span> |
 
 
 ---

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت انتقال في الثلاجة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a transition in the fridge, because the battery is low, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت انتقال جنب النافذة مع النظارة الشمسية، لأن الجو حار شوي، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a transition beside the window with the sunglasses, because the weather is a bit hot, and then we prayed</span> |
 
 

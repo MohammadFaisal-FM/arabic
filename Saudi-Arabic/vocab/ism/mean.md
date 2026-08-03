@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يقصد قدام التلفاز مع الجورب الأبيض، عشان الضيوف يوصلون، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a mean in front of the TV with the white sock, because guests are arriving, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يقصد الحين في المدرسة، قبل ما يجي السائق، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a mean now at school, before the driver arrives, and I also took the sharp scissors</span> |
 
 

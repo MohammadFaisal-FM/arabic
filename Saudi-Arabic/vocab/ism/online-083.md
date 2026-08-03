@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اختطاف الحين قدام التلفاز، عشان الضيوف يوصلون، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need an abduction now in front of the TV, because guests are arriving, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اختطاف على المكتب، عشان الضيوف يوصلون، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put an abduction on the desk, because guests are arriving, and then I wrote a note</span> |
 
 

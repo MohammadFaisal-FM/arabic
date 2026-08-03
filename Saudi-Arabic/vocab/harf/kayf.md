@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كيف أوصّل الملعقة الصغيرة في المكتبة بدون ما يتضرر؟ لأن الزحمة قوية</span> | <span class="example-en" dir="ltr" lang="en">How do I get the small spoon in the library without it getting damaged? because traffic is heavy</span> |
+| <span class="example-ar" dir="rtl" lang="ar">كيف أوصّل الوشاح الرمادي تحت السرير بدون ما يتضرر؟ قبل ما يقفل المكان</span> | <span class="example-en" dir="ltr" lang="en">How do I get the grey scarf under the bed without it getting damaged? before the place closes</span> |
 

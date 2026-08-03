@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج موافقة الحين عند العيادة، لأن الوقت ضيق، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need an approval now at the clinic, because time is tight, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت موافقة في الحديقة مع المنبه القديميم، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an approval in the park with the old alarm, because the light is better there, and then we prayed</span> |
 
 

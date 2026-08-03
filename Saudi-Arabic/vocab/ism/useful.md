@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مفيد الحين في السيارة، عشان ما نتأخر، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need an useful now in the car, so we are not late, and I also took the soft pillow</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مفيد جنب البنك، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an useful next to the bank, if you need it later, and then I charged the device</span> |
 
 

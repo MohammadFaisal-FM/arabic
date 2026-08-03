@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت لوس في المطبخ، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a los in the kitchen, before the place closes, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت لوس في الحديقة مع المنبه القديميم، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a los in the park with the old alarm, because the light is better there, and then we prayed</span> |
 
 

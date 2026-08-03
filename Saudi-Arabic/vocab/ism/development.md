@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت تطوير في المكتبة مع الملعقة الصغيرة، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a development in the library with the small spoon, because traffic is heavy, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تطوير الحين في الصالون، قبل صلاة المغرب، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a development now in the living room, before Maghrib prayer, and I also took the clean tissue</span> |
 
 

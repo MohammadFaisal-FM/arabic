@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بنية تحتية الحين في السيارة، لأن الولد نعسان، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need an infrastructure now in the car, because the boy is sleepy, and I also took the soft pillow</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بنية تحتية الحين في الغرفة، عشان الضيوف يوصلون، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an infrastructure now in the room, because guests are arriving, and I also took the spare key</span> |
 
 

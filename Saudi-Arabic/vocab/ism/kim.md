@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج كيم الحين في المحطة، بس خلّه قريب منك، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a kim now at the station, but keep it near you, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كيم في الصالون، عشان ما نتأخر، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a kim in the living room, so we are not late, and then I turned on the fan</span> |
 
 

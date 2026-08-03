@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت وكلاء قدام المصعد مع الكرتون الفاضي، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an agents in front of the elevator with the empty carton, because work finished early, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج وكلاء الحين تحت السرير، لأن الزحمة قوية، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need an agents now under the bed, because traffic is heavy, and I also took the grey scarf</span> |
 
 

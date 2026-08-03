@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الهوكي في المدرسة، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a hockey at school, so we are not late, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الهوكي الحين في البقالة، عشان المراجعة أسهل، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a hockey now at the grocery, so revision is easier, and I also took the long charger</span> |
 
 

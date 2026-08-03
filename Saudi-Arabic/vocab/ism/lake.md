@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بحيرة الحين في الصالون، عشان نلحق الموعد، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a lake now in the living room, so we make the appointment, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بحيرة تحت السرير مع الوشاح الرمادي، قبل ما يجي السائق، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a lake under the bed with the grey scarf, before the driver arrives, and then I turned off the light</span> |
 
 

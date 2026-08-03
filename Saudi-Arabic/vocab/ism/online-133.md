@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت امراض في المكتبة مع الملعقة الصغيرة، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an illnesses in the library with the small spoon, because traffic is heavy, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج امراض الحين في البقالة، لأن الزحمة قوية، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need an illnesses now at the grocery, because traffic is heavy, and I also took the long charger</span> |
 
 

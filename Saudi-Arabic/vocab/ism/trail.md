@@ -6,7 +6,7 @@
 | **Subtype** | اسم · ism (noun) |
 | **Arabic** | أثر |
 | **Meaning** | trail |
-| **Root** | — (loan / no everyday root) |
+| **Root** | [أ-ث-ر](#roots/athr) |
 
 ---
 
@@ -14,6 +14,13 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أثر الحين على المكتب، عشان الدراسة بكرة، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a trail now on the desk, for studying tomorrow, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">للمشكلة أثر كبير على الشغل، وصار الفريق متأخر</span> | <span class="example-en" dir="ltr" lang="en">The problem has a big effect on work, and the team fell behind.</span> |
 
+
+### Links
+
+| | |
+|-|-|
+| **Root family** | [أ-ث-ر](#roots/athr) — see all word types |
+| **Fiʿl** | [أثّر / يؤثر](#fil/athr) |
 

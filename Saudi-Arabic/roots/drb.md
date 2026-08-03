@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لا تضرب، ولقيت المنبه القديميم عند الاستقبال، عشان نلحق الموعد، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">Don’t hit, and I found the old alarm at reception, so we make the appointment, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لا تضرب، ولقيت القلم الرصاص قدام التلفاز، عشان ما يضيع، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">Don’t hit, and I found the pencil in front of the TV, so it doesn’t get lost, and then we prayed</span> |
 
 
 ---

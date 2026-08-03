@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">رتّبت الغرفة عشان الضيوف، وحطيت الملف الورقي في المطبخ</span> | <span class="example-en" dir="ltr" lang="en">I tidied the room for the guests, and put the paper file in the kitchen</span> |
+| <span class="example-ar" dir="rtl" lang="ar">رتّبت الغرفة عشان الضيوف، وحطيت البطاقة الصفراء على الشرفة</span> | <span class="example-en" dir="ltr" lang="en">I tidied the room for the guests, and put the yellow card on the balcony</span> |
 

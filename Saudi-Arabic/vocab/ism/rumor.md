@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج شائعة الحين عند الاستقبال، قبل ما يجي السائق، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a rumor now at reception, before the driver arrives, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شائعة في الحقيبة، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a rumor in the bag, if you need it later, and then I charged the device</span> |
 
 

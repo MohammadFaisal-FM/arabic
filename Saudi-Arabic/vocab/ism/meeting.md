@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مقابلة الحين عند العيادة، لأن البطارية ضعيفة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a meeting now at the clinic, because the battery is low, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مقابلة في الغرفة، عشان الضيوف يوصلون، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a meeting in the room, because guests are arriving, and then I wrote a note</span> |
 
 

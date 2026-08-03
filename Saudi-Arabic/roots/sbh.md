@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ص-ب-ح |
-| **Meaning** | becoming morning / waking |
+| **Meaning** | morning (صباح) |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -12,16 +12,14 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">صباح الخير، ولقيت الكرتون الفاضي في الدرج، قبل ما يجي السائق، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">Good morning, and I found the empty carton in the drawer, before the driver arrives, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">صباح الخير، نورت البيت من بدري اليوم</span> | <span class="example-en" dir="ltr" lang="en">Good morning, you brightened the house early today.</span> |
 
 
 ---
 
 ## Forms Widely Used
 
-| Form | Past / present | Fiʿl |
-|------|----------------|------|
-| I | صبح / يصبح · base meaning: becoming morning / waking | [Open](#fil/sbh) |
+No everyday **fiʿl** (verb) for this root — learn the **ism** (noun) forms instead.
 
 ---
 
@@ -29,7 +27,7 @@
 
 | Type | Word | Notes / Example |
 |------|------|-----------------|
-| فعل · fiʿl (Form I) | [صبح / يصبح · base meaning: becoming morning / waking](#fil/sbh) | <span class="example-ar" dir="rtl" lang="ar">صباح الخير</span><br><span class="example-en" dir="ltr" lang="en">Good morning</span> |
+| فعل · fiʿl (verb) | N/A | ism-only root — no everyday verb |
 | مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
 | اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
 | اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
@@ -37,5 +35,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [صباح](#ism/sabah) | <span class="example-ar" dir="rtl" lang="ar">لقيت صباح في الدرج مع الدفتر الأزرق، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span><br><span class="example-en" dir="ltr" lang="en">I found a morning in the drawer with the blue notebook, because the light is better there, and then I washed my hands</span> |
+| اسم · ism (noun / other) | [صباح](#ism/sabah) | <span class="example-ar" dir="rtl" lang="ar">صباح الخير، نورت البيت من بدري اليوم</span><br><span class="example-en" dir="ltr" lang="en">Good morning, you brightened the house early today.</span> |
 

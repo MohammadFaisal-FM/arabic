@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">انظر هنا، ولقيت القلم الرصاص في الحقيبة، عشان الضيوف يوصلون، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">Look here, and I found the pencil in the bag, because guests are arriving, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">انظر هنا، ولقيت الجورب الأبيض في المطبخ، لأن الوقت ضيق، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">Look here, and I found the white sock in the kitchen, because time is tight, and then I turned on the fan</span> |
 
 
 ---

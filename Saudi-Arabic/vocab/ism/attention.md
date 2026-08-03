@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج انتباه الحين عند الباب، عشان الضيوف يوصلون، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an attention now at the door, because guests are arriving, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج انتباه الحين عند العيادة، لأن الجو حار شوي، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need an attention now at the clinic, because the weather is a bit hot, and I also took the stapler</span> |
 
 

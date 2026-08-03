@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت صهريج جنب المسجد مع القلم الرصاص، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a tank next to the mosque with the pencil, if you need it later, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج صهريج الحين جنب النافذة، عشان الدراسة بكرة، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a tank now beside the window, for studying tomorrow, and I also took the sunglasses</span> |
 
 

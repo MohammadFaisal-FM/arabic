@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج نيّة الحين عند الاستقبال، عشان المراجعة أسهل، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need an intention now at reception, so revision is easier, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نيّة في الحقيبة، عشان الصورة تطلع أوضح، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put an intention in the bag, so the photo comes out clearer, and then I closed the window</span> |
 
 

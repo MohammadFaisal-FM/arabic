@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">احمل الشنطة، ولقيت الوشاح الرمادي عند الباب، لأن البطارية ضعيفة، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">Carry the bag, and I found the grey scarf at the door, because the battery is low, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">احمل الشنطة، ولقيت القبعة الصيفية عند الباب، قبل صلاة المغرب، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">Carry the bag, and I found the summer hat at the door, before Maghrib prayer, and then we prayed</span> |
 
 
 ---

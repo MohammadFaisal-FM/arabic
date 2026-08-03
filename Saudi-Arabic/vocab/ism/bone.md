@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج عظم الحين في المكتبة، قبل ما يجي السائق، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a bone now in the library, before the driver arrives, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عظم في الصالون، عشان ما يضيع، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a bone in the living room, so it doesn’t get lost, and then I turned on the fan</span> |
 
 

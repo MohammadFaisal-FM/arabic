@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حياة مهنية الحين قدام الملعب، عشان الدراسة بكرة، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a career now in front of the pitch, for studying tomorrow, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حياة مهنية الحين جنب البنك، لأن البطارية ضعيفة، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a career now next to the bank, because the battery is low, and I also took the empty bottle</span> |
 
 

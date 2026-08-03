@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مناقشة جنب النافذة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a discussion beside the window, if you need it later, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مناقشة عند العيادة، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a discussion at the clinic, before the food gets cold, and then I drank some water</span> |
 
 

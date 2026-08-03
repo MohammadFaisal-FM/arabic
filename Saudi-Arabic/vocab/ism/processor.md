@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت المعالج قدام المصعد، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a processor in front of the elevator, because work finished early, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المعالج في الصالون مع المنديل النظيف، لأن الولد نعسان، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a processor in the living room with the clean tissue, because the boy is sleepy, and then the phone rang</span> |
 
 

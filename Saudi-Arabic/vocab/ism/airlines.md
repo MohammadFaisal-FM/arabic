@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت شركات الطيران عند الاستقبال، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an airlines at reception, so revision is easier, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شركات الطيران في المطبخ مع الملف الورقي، لأن البطارية ضعيفة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an airlines in the kitchen with the paper file, because the battery is low, and then I closed the window</span> |
 
 

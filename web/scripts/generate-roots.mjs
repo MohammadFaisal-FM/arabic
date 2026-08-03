@@ -54,16 +54,31 @@ function firstLetter(root) {
   return normalizeLetter(first);
 }
 
+/** Skip placeholders like "—" so ism-only roots don't list fake Form I verbs. */
+function isUsableVerb(verb) {
+  const v = String(verb ?? '').trim();
+  if (!v) return false;
+  if (/^[—–\-]+$/.test(v)) return false;
+  if (/^[—–\-]+\s*\/\s*[—–\-]+$/.test(v)) return false;
+  return true;
+}
+
 /** Main everyday forms only (skip rare / classical awzan). */
 function mainForms(root) {
+  const mapped = [];
   if (Array.isArray(root.forms) && root.forms.length > 0) {
-    return root.forms.map((f) => ({
-      form: String(f.form),
-      verb: f.verb,
-      note: f.note ?? '',
-      filId: f.filId ?? root.id,
-    }));
+    for (const f of root.forms) {
+      if (!isUsableVerb(f.verb)) continue;
+      mapped.push({
+        form: String(f.form),
+        verb: f.verb,
+        note: f.note ?? '',
+        filId: f.filId ?? root.id,
+      });
+    }
+    return mapped;
   }
+  if (!isUsableVerb(root.formI)) return [];
   return [
     {
       form: 'I',
@@ -83,6 +98,12 @@ function formDifferenceNote(root, form) {
 
 function howToUseSection(root) {
   const forms = mainForms(root);
+  if (forms.length === 0) {
+    return `## Forms Widely Used
+
+No everyday **fiʿl** (verb) for this root — learn the **ism** (noun) forms instead.
+`;
+  }
   const rows = forms
     .map((f) => {
       const label = `${f.verb} · ${formDifferenceNote(root, f)}`;

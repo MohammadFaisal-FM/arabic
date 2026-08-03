@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت إشعاع تحت السرير، عشان ما يضيع، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a radiation under the bed, so it doesn’t get lost, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إشعاع في السيارة مع الوسادة الناعمة، عشان المراجعة أسهل، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a radiation in the car with the soft pillow, so revision is easier, and then we laughed a bit</span> |
 
 

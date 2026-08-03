@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أرجواني الحين في المحطة، عشان الضيوف يوصلون، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a purple now at the station, because guests are arriving, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أرجواني قدام المصعد، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a purple in front of the elevator, so we are not late, and then the phone rang</span> |
 
 

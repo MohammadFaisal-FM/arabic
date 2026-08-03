@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ذكاء الحين في الغرفة، لأن الجو حار شوي، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an intelligence now in the room, because the weather is a bit hot, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ذكاء عند الاستقبال مع الكوب الزجاج، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found an intelligence at reception with the glass cup, if you need it later, and then I charged the device</span> |
 
 

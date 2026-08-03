@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حشرة الحين في السيارة، قبل صلاة المغرب، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need an insect now in the car, before Maghrib prayer, and I also took the soft pillow</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حشرة الحين في المدرسة، قبل ما يقفل المكان، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need an insect now at school, before the place closes, and I also took the sharp scissors</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت رفاهية جنب المسجد مع القلم الرصاص، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a luxury next to the mosque with the pencil, if you need it later, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رفاهية الحين في السيارة، لأن الزحمة قوية، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a luxury now in the car, because traffic is heavy, and I also took the soft pillow</span> |
 
 

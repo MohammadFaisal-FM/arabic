@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت نقطة قدام التلفاز مع الجورب الأبيض، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a point in front of the TV with the white sock, but keep it near you, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نقطة الحين عند الباب، قبل صلاة المغرب، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a point now at the door, before Maghrib prayer, and I also took the brown wallet</span> |
 
 

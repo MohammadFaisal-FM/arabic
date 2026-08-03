@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الخلايا الحين في المحطة، عشان نلحق الموعد، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a cells now at the station, so we make the appointment, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الخلايا في البقالة مع الشاحن الطويل، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a cells at the grocery with the long charger, so revision is easier, and then I turned off the light</span> |
 
 

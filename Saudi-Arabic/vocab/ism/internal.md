@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت داخلي في المحطة مع الكابل القصير، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an internal at the station with the short cable, but keep it near you, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج داخلي الحين في البقالة، قبل ما يقفل المكان، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need an internal now at the grocery, before the place closes, and I also took the long charger</span> |
 
 

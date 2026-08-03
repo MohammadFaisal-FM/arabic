@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الدفع جنب المسجد، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a checkout next to the mosque, if you need it later, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الدفع في السيارة مع الوسادة الناعمة، لأن الزحمة قوية، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a checkout in the car with the soft pillow, because traffic is heavy, and then I turned off the light</span> |
 
 

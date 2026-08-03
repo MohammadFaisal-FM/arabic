@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">نظرت، وبعدين شفت التذكرة من الرف، عشان ما نتأخر على الموعد، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I did it (looking), then I saw the ticket from the shelf, so we are not late for the appointment, and then I charged the device</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">ننظر الحين، وبعدين أحط الشنطة من التطبيق، لأن البطارية ضعيفة</span> | <span class="example-en" dir="ltr" lang="en">we do it (looking) now, then I put the bag from the app, because the battery is low</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتنظر بكرة، وآخذ الدواء من الدرج إذا احتجته، قبل ما يبرد الجو أكثر، وبعدين كتبنا الجملة في الدفتر</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (looking) tomorrow, and I’ll get the medicine from the drawer if I need it, before the weather gets colder, and then we wrote the sentence in the notebook</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">نظرتي، وبعدين شفت القائمة من الثلاجة، عشان المراجعة بكرة، وبعد كده رنّ الجرس</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (looking), then I saw the menu from the fridge, for revision tomorrow, and then the doorbell rang</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تنظرون الحين، وبعدين أحط الموعد من الفرن، لأن الضيوف يوصلون بعد شوي</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (looking) now, then I put the appointment from the oven, because the guests arrive soon</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بينظر بكرة، وآخذ الصور من الاستقبال إذا احتجته، قبل نهاية الدوام، وبعدين قفلنا الشباك</span> | <span class="example-en" dir="ltr" lang="en">he will do it (looking) tomorrow, and I’ll get the photos from reception if I need it, before the end of the workday, and then we closed the window</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">نظرت، وبعدين شفت القهوة من البقالة، عشان الهضم يكون أخف، وبعدها مسحنا الطاولة</span> | <span class="example-en" dir="ltr" lang="en">she did it (looking), then I saw the coffee from the grocery, so digestion is lighter, and then we wiped the table</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">ينظرون الحين، وبعدين أحط الهدايا من الخزانة، لأن الباص متأخر اليوم</span> | <span class="example-en" dir="ltr" lang="en">they do it (looking) now, then I put the gifts from the closet, because the bus is late today</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">نظرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (looking) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أنظر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (looking) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنظر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (looking) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">نظرنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (looking) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">ننظر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (looking) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بننظر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (looking) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">نظرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (looking) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تنظر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (looking) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتنظر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (looking) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">نظرتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (looking) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تنظرين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (looking) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتنظرين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (looking) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">نظرتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (looking) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تنظرون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (looking) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتنظرون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (looking) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">نظر أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (looking) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">ينظر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (looking) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بينظر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (looking) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">نظرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (looking) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تنظر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (looking) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتنظر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (looking) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">نظروا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (looking) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">ينظرون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (looking) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بينظرون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (looking) tomorrow if the time works</span> |
 

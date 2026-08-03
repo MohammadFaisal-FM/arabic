@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ضيق تحت السرير مع الوشاح الرمادي، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a narrow under the bed with the grey scarf, before Maghrib prayer, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ضيق الحين في المدرسة، قبل ما يجي السائق، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a narrow now at school, before the driver arrives, and I also took the sharp scissors</span> |
 
 

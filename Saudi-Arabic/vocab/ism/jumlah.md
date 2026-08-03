@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت جملة عند الباب مع المحفظة البنية، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a sentence at the door with the brown wallet, because guests are arriving, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جملة الحين قدام الملعب، عشان الضيوف يوصلون، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a sentence now in front of the pitch, because guests are arriving, and I also took the clear tape</span> |
 
 

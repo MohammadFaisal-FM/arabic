@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج رسوم متحركة الحين في الحديقة، إذا احتجته بعدين، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a cartoon now in the park, if you need it later, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت رسوم متحركة في الثلاجة، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a cartoon in the fridge, for studying tomorrow, and then we prayed</span> |
 
 

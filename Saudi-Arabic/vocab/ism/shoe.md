@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حذاء الحين في الحديقة، لأن الوقت ضيق، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a shoe now in the park, because time is tight, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حذاء عند الصيدلية، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a shoe at the pharmacy, so we make the appointment, and then I tidied the table</span> |
 
 

@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">سمعت، وبعدين شفت السمoothie من الغرفة، عشان ما نتأخر على الموعد، وبعدين قفلنا الشباك</span> | <span class="example-en" dir="ltr" lang="en">I did it (hearing), then I saw the smoothie from the room, so we are not late for the appointment, and then we closed the window</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نسمع الحين، وبعدين أحط الماء الغازي من الشرفة، لأن البطارية ضعيفة</span> | <span class="example-en" dir="ltr" lang="en">we do it (hearing) now, then I put the sparkling water from the balcony, because the battery is low</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتسمع بكرة، وآخذ المشروب الغازي من السطح إذا احتجته، قبل ما يبرد الجو أكثر، وبعد كده طفينا النور</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (hearing) tomorrow, and I’ll get the soft drink from the rooftop if I need it, before the weather gets colder, and then we turned off the light</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">سمعتي، وبعدين شفت الثلج من الصندوق، عشان المراجعة بكرة، وبعدين رتبنا الكراتين</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (hearing), then I saw the ice from the box, for revision tomorrow, and then we arranged the boxes</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تسمعون الحين، وبعدين أحط المناديل المبللة من الدرج الثاني، لأن الضيوف يوصلون بعد شوي</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (hearing) now, then I put the wet wipes from the second drawer, because the guests arrive soon</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيسمع بكرة، وآخذ المعقم من الرف العلوي إذا احتجته، قبل نهاية الدوام، وبعدين غنّينا شوي بصوت واطي</span> | <span class="example-en" dir="ltr" lang="en">he will do it (hearing) tomorrow, and I’ll get the sanitizer from the top shelf if I need it, before the end of the workday, and then we sang a bit quietly</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">سمعت، وبعدين شفت الكمامة من الجيب، عشان الهضم يكون أخف، وبعدها ضحكنا من الموقف</span> | <span class="example-en" dir="ltr" lang="en">she did it (hearing), then I saw the mask from the pocket, so digestion is lighter, and then we laughed at the situation</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يسمعون الحين، وبعدين أحط القفاز الطبي من الطاولة، لأن الباص متأخر اليوم</span> | <span class="example-en" dir="ltr" lang="en">they do it (hearing) now, then I put the medical glove from the table, because the bus is late today</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">سمعت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (hearing) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أسمع الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (hearing) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بسمع بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (hearing) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">سمعنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (hearing) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نسمع الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (hearing) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنسمع بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (hearing) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">سمعت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (hearing) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تسمع الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (hearing) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتسمع بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (hearing) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">سمعتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (hearing) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تسمعين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (hearing) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتسمعين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (hearing) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">سمعتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (hearing) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تسمعون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (hearing) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتسمعون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (hearing) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">سمع أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (hearing) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يسمع الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (hearing) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيسمع بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (hearing) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">سمعت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (hearing) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تسمع الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (hearing) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتسمع بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (hearing) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">سمعوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (hearing) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يسمعون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (hearing) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيسمعون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (hearing) tomorrow if the time works</span> |
 

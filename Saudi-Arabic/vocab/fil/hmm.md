@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">همّت، وبعدين شفت الصحن من الدرج، عشان ما يضيع شيء، وبعدين كتبنا الجملة في الدفتر</span> | <span class="example-en" dir="ltr" lang="en">I did it (being concerned), then I saw the plate from the drawer, so nothing gets lost, and then we wrote the sentence in the notebook</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نهم الحين، وبعدين أحط الكوب من الثلاجة، لأن الوقت ضيق شوي</span> | <span class="example-en" dir="ltr" lang="en">we do it (being concerned) now, then I put the cup from the fridge, because time is a bit tight</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتهم بكرة، وآخذ الملعقة من الفرن إذا احتجته، قبل ما يبدأ الاجتماع، وبعدها شربت شوية ميّ</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (being concerned) tomorrow, and I’ll get the spoon from the oven if I need it, before the meeting starts, and then I drank a bit of water</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">همّتي، وبعدين شفت السكينة من الاستقبال، عشان نلحق الصلاة، وبعدين قفلنا الشباك</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (being concerned), then I saw the knife from reception, so we make prayer on time, and then we closed the window</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تهمون الحين، وبعدين أحط المنشفة من البقالة، لأن الطريق مزدحم</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (being concerned) now, then I put the towel from the grocery, because the road is crowded</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيهم بكرة، وآخذ الصابون من الخزانة إذا احتجته، قبل ما يخلص العرض، وبعد كده طفينا النور</span> | <span class="example-en" dir="ltr" lang="en">he will do it (being concerned) tomorrow, and I’ll get the soap from the closet if I need it, before the offer ends, and then we turned off the light</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">همّت، وبعدين شفت المعجون من الإيميل، عشان الصورة تطلع أوضح، وبعدين رتبنا الكراتين</span> | <span class="example-en" dir="ltr" lang="en">she did it (being concerned), then I saw the toothpaste from email, so the picture comes out clearer, and then we arranged the boxes</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يهمون الحين، وبعدين أحط الفرشاة من الأمن، لأن المطر قرب يجي</span> | <span class="example-en" dir="ltr" lang="en">they do it (being concerned) now, then I put the brush from security, because rain is about to come</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">همّت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (being concerned) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أهم الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (being concerned) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بهم بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (being concerned) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">همّنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (being concerned) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نهم الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (being concerned) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنهم بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (being concerned) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">همّت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (being concerned) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تهم الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (being concerned) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتهم بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (being concerned) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">همّتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (being concerned) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تهمين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (being concerned) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتهمين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (being concerned) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">همّتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (being concerned) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تهمون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (being concerned) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتهمون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (being concerned) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">همّ أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (being concerned) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يهم الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (being concerned) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيهم بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (being concerned) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">همّت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (being concerned) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تهم الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (being concerned) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتهم بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (being concerned) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">همّوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (being concerned) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يهمون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (being concerned) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيهمون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (being concerned) tomorrow if the time works</span> |
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت محمول جنب المسجد، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a portable next to the mosque, because time is tight, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج محمول الحين في السيارة، عشان المراجعة أسهل، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a portable now in the car, so revision is easier, and I also took the soft pillow</span> |
 
 

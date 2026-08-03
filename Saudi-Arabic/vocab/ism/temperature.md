@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج درجة حرارة الحين جنب البنك، قبل ما يقفل المكان، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a temperature now next to the bank, before the place closes, and I also took the empty bottle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت درجة حرارة جنب المسجد مع القلم الرصاص، لأن الإضاءة أحسن هناك، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a temperature next to the mosque with the pencil, because the light is better there, and then we locked the door</span> |
 
 

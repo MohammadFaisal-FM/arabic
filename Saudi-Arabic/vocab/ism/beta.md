@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بيتا الحين على المكتب، لأن الجو حار شوي، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a beta now on the desk, because the weather is a bit hot, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بيتا جنب البنك، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a beta next to the bank, if you need it later, and then I charged the device</span> |
 
 

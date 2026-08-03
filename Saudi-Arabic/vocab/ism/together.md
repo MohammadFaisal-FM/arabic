@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج معاً الحين في الثلاجة، عشان الصورة تطلع أوضح، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a together now in the fridge, so the photo comes out clearer, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت معاً في المطبخ، لأن البطارية ضعيفة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a together in the kitchen, because the battery is low, and then I charged the device</span> |
 
 

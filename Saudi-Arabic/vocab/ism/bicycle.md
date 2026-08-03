@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج دراجة الحين عند الاستقبال، عشان المراجعة أسهل، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a bicycle now at reception, so revision is easier, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دراجة قدام التلفاز، لأن الولد نعسان، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a bicycle in front of the TV, because the boy is sleepy, and then the phone rang</span> |
 
 

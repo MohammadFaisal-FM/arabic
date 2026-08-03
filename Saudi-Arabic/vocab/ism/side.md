@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت جانب جنب النافذة مع النظارة الشمسية، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a side beside the window with the sunglasses, if you need it later, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جانب عند العيادة مع الدباسة، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a side at the clinic with the stapler, before the food gets cold, and then we prayed</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج العقوبة الحين في الحديقة، لأن الوقت ضيق، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a punishment now in the park, because time is tight, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت العقوبة جنب المسجد مع القلم الرصاص، لأن الإضاءة أحسن هناك، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a punishment next to the mosque with the pencil, because the light is better there, and then we locked the door</span> |
 
 

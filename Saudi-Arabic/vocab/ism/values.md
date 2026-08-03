@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت قيم تحت السرير، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a values under the bed, so we are not late, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قيم الحين في المطبخ، إذا احتجته بعدين، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a values now in the kitchen, if you need it later, and I also took the paper file</span> |
 
 

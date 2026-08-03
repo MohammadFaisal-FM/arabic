@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأردن الحين عند الصيدلية، لأن الجو حار شوي، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a jordan now at the pharmacy, because the weather is a bit hot, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الأردن في الحقيبة مع الحذاء النظيف، إذا احتجته بعدين، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a jordan in the bag with the clean shoes, if you need it later, and then I closed the window</span> |
 
 

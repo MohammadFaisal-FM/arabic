@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج علم الأحياء الحين قدام التلفاز، لأن الشغل خلص بدري، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a biology now in front of the TV, because work finished early, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج علم الأحياء الحين في المحطة، قبل صلاة المغرب، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a biology now at the station, before Maghrib prayer, and I also took the short cable</span> |
 
 

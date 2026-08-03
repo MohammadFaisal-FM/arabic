@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج رحلة الحين في الغرفة، عشان الدراسة بكرة، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a trip now in the room, for studying tomorrow, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت رحلة قدام المصعد، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a trip in front of the elevator, before Maghrib prayer, and then the boy slept</span> |
 
 

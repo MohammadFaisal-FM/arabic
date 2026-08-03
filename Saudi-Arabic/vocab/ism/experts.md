@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت خبراء جنب النافذة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an experts beside the window, because the battery is low, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خبراء على الشرفة مع البطاقة الصفراء، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found an experts on the balcony with the yellow card, before the driver arrives, and then I replied to the message</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت أصفر في الغرفة مع المفتاح الاحتياطي، قبل ما يبرد الأكل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a yellow in the room with the spare key, before the food gets cold, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أصفر الحين في الصالون، قبل صلاة المغرب، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a yellow now in the living room, before Maghrib prayer, and I also took the clean tissue</span> |
 
 

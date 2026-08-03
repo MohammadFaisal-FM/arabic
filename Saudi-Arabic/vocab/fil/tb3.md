@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">تبعت، وبعدين شفت العصير الطبيعي من الرف، عشان ما نتأخر على الموعد، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I did it (following), then I saw the fresh juice from the shelf, so we are not late for the appointment, and then I charged the device</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نتبع الحين، وبعدين أحط السمoothie من التطبيق، لأن البطارية ضعيفة</span> | <span class="example-en" dir="ltr" lang="en">we do it (following) now, then I put the smoothie from the app, because the battery is low</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتتبع بكرة، وآخذ الماء الغازي من الدرج إذا احتجته، قبل ما يبرد الجو أكثر، وبعدين كتبنا الجملة في الدفتر</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (following) tomorrow, and I’ll get the sparkling water from the drawer if I need it, before the weather gets colder, and then we wrote the sentence in the notebook</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">تبعتي، وبعدين شفت المشروب الغازي من الثلاجة، عشان المراجعة بكرة، وبعد كده رنّ الجرس</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (following), then I saw the soft drink from the fridge, for revision tomorrow, and then the doorbell rang</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تتبعون الحين، وبعدين أحط المناديل المبللة من الفرن، لأن الضيوف يوصلون بعد شوي</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (following) now, then I put the wet wipes from the oven, because the guests arrive soon</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيتبع بكرة، وآخذ المعقم من الاستقبال إذا احتجته، قبل نهاية الدوام، وبعدين قفلنا الشباك</span> | <span class="example-en" dir="ltr" lang="en">he will do it (following) tomorrow, and I’ll get the sanitizer from reception if I need it, before the end of the workday, and then we closed the window</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">تبعت، وبعدين شفت الكمامة من البقالة، عشان الهضم يكون أخف، وبعدها مسحنا الطاولة</span> | <span class="example-en" dir="ltr" lang="en">she did it (following), then I saw the mask from the grocery, so digestion is lighter, and then we wiped the table</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يتبعون الحين، وبعدين أحط القفاز الطبي من الخزانة، لأن الباص متأخر اليوم</span> | <span class="example-en" dir="ltr" lang="en">they do it (following) now, then I put the medical glove from the closet, because the bus is late today</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">تبعت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (following) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أتبع الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (following) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بتبع بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (following) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">تبعنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (following) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نتبع الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (following) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنتبع بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (following) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">تبعت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (following) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تتبع الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (following) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتتبع بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (following) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">تبعتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (following) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تتبعين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (following) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتتبعين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (following) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">تبعتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (following) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تتبعون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (following) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتتبعون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (following) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">تبع أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (following) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يتبع الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (following) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيتبع بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (following) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">تبعت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (following) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تتبع الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (following) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتتبع بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (following) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">تبعوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (following) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يتبعون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (following) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيتبعون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (following) tomorrow if the time works</span> |
 

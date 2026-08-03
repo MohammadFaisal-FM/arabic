@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج تحويل الحين عند العيادة، عشان الصورة تطلع أوضح، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a transfer now at the clinic, so the photo comes out clearer, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تحويل عند الصيدلية، عشان الضيوف يوصلون، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a transfer at the pharmacy, because guests are arriving, and then I washed my hands</span> |
 
 

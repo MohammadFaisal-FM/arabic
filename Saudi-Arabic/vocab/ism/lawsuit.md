@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت دعوى قضائية في البقالة مع الشاحن الطويل، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a lawsuit at the grocery with the long charger, so we are not late, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دعوى قضائية تحت السرير، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a lawsuit under the bed, before the driver arrives, and then we laughed a bit</span> |
 
 

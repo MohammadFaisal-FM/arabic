@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت كمبيوتر تحت السرير، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a computer under the bed, so we are not late, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كمبيوتر في الحقيبة مع الحذاء النظيف، لأن الوقت ضيق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a computer in the bag with the clean shoes, because time is tight, and then I closed the window</span> |
 
 

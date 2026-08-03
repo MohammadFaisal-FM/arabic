@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج التقاعد الحين عند الباب، عشان الضيوف يوصلون، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a retirement now at the door, because guests are arriving, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج التقاعد الحين في المحطة، عشان ما نتأخر، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a retirement now at the station, so we are not late, and I also took the short cable</span> |
 
 

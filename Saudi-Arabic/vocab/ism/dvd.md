@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت دي في دي في المكتبة مع الملعقة الصغيرة، لأن الزحمة قوية، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a dvd in the library with the small spoon, because traffic is heavy, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج دي في دي الحين عند الاستقبال، لأن البطارية ضعيفة، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a dvd now at reception, because the battery is low, and I also took the glass cup</span> |
 
 

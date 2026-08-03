@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت اقصي في المحطة مع الكابل القصير، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a maximum at the station with the short cable, but keep it near you, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اقصي الحين في الغرفة، بس خلّه قريب منك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a maximum now in the room, but keep it near you, and I also took the spare key</span> |
 
 

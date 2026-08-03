@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت خلية في السيارة، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a cell in the car, because the boy is sleepy, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت خلية عند العيادة، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a cell at the clinic, for studying tomorrow, and then we prayed</span> |
 
 

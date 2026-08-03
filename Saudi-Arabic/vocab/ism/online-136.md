@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج انشاء الحين قدام الملعب، لأن الإضاءة أحسن هناك، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a construction now in front of the pitch, because the light is better there, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج انشاء الحين عند العيادة، لأن الإضاءة أحسن هناك، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a construction now at the clinic, because the light is better there, and I also took the stapler</span> |
 
 

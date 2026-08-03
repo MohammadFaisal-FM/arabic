@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ظرف الحين على الشرفة، عشان ما نتأخر، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a circumstance now on the balcony, so we are not late, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ظرف في البقالة مع الشاحن الطويل، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a circumstance at the grocery with the long charger, before the driver arrives, and then we laughed a bit</span> |
 
 

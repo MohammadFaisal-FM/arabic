@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">يهمني الأمر، ولقيت الكرتون الفاضي في الدرج، لأن الزحمة قوية، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">This matters to me, and I found the empty carton in the drawer, because traffic is heavy, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">يهمني الأمر، ولقيت الكوب الزجاج على المكتب، عشان الضيوف يوصلون، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">This matters to me, and I found the glass cup on the desk, because guests are arriving, and then I charged the device</span> |
 
 
 ---

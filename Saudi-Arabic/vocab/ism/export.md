@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يصدّر الحين على المكتب، لأن الجو حار شوي، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need an export now on the desk, because the weather is a bit hot, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يصدّر قدام الملعب، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put an export in front of the pitch, so we make the appointment, and then I tidied the table</span> |
 
 

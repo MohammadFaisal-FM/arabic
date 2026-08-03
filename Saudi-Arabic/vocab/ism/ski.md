@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت تزلج في المدرسة مع المقص الحاد، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a ski at school with the sharp scissors, because the boy is sleepy, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تزلج الحين عند الصيدلية، عشان الضيوف يوصلون، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a ski now at the pharmacy, because guests are arriving, and I also took the clear cover</span> |
 
 

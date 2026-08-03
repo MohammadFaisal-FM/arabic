@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ساعة عند العيادة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a hour at the clinic, because the battery is low, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ساعة جنب البنك مع الزجاجة الفارغة، لأن البطارية ضعيفة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a hour next to the bank with the empty bottle, because the battery is low, and then I charged the device</span> |
 
 

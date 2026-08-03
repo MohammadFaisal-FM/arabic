@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت هنري في المحطة مع الكابل القصير، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a henry at the station with the short cable, but keep it near you, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج هنري الحين جنب المسجد، لأن الجو حار شوي، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a henry now next to the mosque, because the weather is a bit hot, and I also took the pencil</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج معدل الحين في المكتبة، قبل ما يقفل المكان، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a rate now in the library, before the place closes, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت معدل عند الاستقبال، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a rate at reception, because time is tight, and then I wiped the floor</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أعرف الطريق، ولقيت المحفظة البنية في الغرفة، لأن الزحمة قوية، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I know the way, and I found the brown wallet in the room, because traffic is heavy, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أعرف الطريق، ولقيت الكابل القصير في المكتبة، لأن البطارية ضعيفة، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I know the way, and I found the short cable in the library, because the battery is low, and then the phone rang</span> |
 
 
 ---

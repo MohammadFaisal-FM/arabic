@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أحكام الحين في الصالون، عشان نلحق الموعد، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a provisions now in the living room, so we make the appointment, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أحكام جنب النافذة مع النظارة الشمسية، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a provisions beside the window with the sunglasses, before the food gets cold, and then we locked the door</span> |
 
 

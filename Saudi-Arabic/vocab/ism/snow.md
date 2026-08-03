@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ثلج عند الباب مع المحفظة البنية، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a snow at the door with the brown wallet, because guests are arriving, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ثلج الحين في الحديقة، لأن الإضاءة أحسن هناك، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a snow now in the park, because the light is better there, and I also took the old alarm</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حيّ الحين في الحديقة، عشان الصورة تطلع أوضح، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a neighborhood now in the park, so the photo comes out clearer, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حيّ تحت السرير، قبل ما يقفل المكان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a neighborhood under the bed, before the place closes, and then we laughed a bit</span> |
 
 

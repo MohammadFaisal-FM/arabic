@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «لـ» في الجملة، وحطينا المنبه القديميم في الحديقة، لأن البطارية ضعيفة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">We used “لـ” (for / to (belonging)) in the sentence, and put the old alarm in the park, because the battery is low, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «لـ» في الجملة، وحطينا الكوب الزجاج عند الاستقبال، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">We used “لـ” (for / to (belonging)) in the sentence, and put the glass cup at reception, because time is tight, and then I wiped the floor</span> |
 

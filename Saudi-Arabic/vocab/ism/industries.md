@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الصناعات قدام التلفاز، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an industries in front of the TV, because work finished early, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الصناعات عند العيادة، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put an industries at the clinic, for studying tomorrow, and then we prayed</span> |
 
 

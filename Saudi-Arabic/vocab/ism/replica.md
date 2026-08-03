@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج نسخة طبق الأصل الحين في الدرج، عشان الدراسة بكرة، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a replica now in the drawer, for studying tomorrow, and I also took the blue notebook</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نسخة طبق الأصل على المكتب، عشان الضيوف يوصلون، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a replica on the desk, because guests are arriving, and then I wrote a note</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أخضر الحين عند العيادة، عشان الصورة تطلع أوضح، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a green now at the clinic, so the photo comes out clearer, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أخضر قدام المصعد، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a green in front of the elevator, before Maghrib prayer, and then the boy slept</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أزرق الحين في المدرسة، عشان ما نتأخر، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a blue now at school, so we are not late, and I also took the sharp scissors</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أزرق في الحديقة مع المنبه القديميم، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a blue in the park with the old alarm, because the light is better there, and then we prayed</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الرياضيات الحين قدام الملعب، قبل ما يبرد الأكل، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a math now in front of the pitch, before the food gets cold, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الرياضيات الحين في المكتبة، لأن البطارية ضعيفة، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a math now in the library, because the battery is low, and I also took the small spoon</span> |
 
 

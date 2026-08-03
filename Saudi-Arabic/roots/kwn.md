@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كان هنا، ولقيت الدباسة في المكتبة، بس خلّه قريب منك، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">He was here, and I found the stapler in the library, but keep it near you, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">كان هنا، ولقيت المنبه القديميم في الصالون، قبل صلاة المغرب، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">He was here, and I found the old alarm in the living room, before Maghrib prayer, and then we prayed</span> |
 
 
 ---

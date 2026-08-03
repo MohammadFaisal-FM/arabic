@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت اقلاع في المدرسة مع المقص الحاد، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a take off at school with the sharp scissors, because the boy is sleepy, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اقلاع الحين في المحطة، لأن الولد نعسان، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a take off now at the station, because the boy is sleepy, and I also took the short cable</span> |
 
 

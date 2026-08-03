@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت دقة عند العيادة مع الدباسة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a resolution at the clinic with the stapler, because time is tight, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دقة في الحديقة، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a resolution in the park, because the light is better there, and then I drank some water</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت فجوة عند الصيدلية، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a gap at the pharmacy, because the light is better there, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فجوة على المكتب مع البطانية الخفيفة، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a gap on the desk with the light blanket, but keep it near you, and then I wrote a note</span> |
 
 

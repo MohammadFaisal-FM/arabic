@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج خطأ الحين عند العيادة، إذا احتجته بعدين، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need an error now at the clinic, if you need it later, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت خطأ في الحديقة، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put an error in the park, before the food gets cold, and then we prayed</span> |
 
 

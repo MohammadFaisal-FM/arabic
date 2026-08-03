@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج وليام الحين تحت السرير، عشان ما نتأخر، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a william now under the bed, so we are not late, and I also took the grey scarf</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت وليام في المطبخ مع الملف الورقي، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a william in the kitchen with the paper file, if you need it later, and then I wiped the floor</span> |
 
 

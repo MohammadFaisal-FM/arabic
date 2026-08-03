@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت فيكتوريا في الدرج مع الدفتر الأزرق، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a victoria in the drawer with the blue notebook, because the light is better there, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فيكتوريا الحين في المطبخ، عشان الصورة تطلع أوضح، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a victoria now in the kitchen, so the photo comes out clearer, and I also took the paper file</span> |
 
 

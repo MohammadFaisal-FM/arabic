@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مبتدئ جنب المسجد مع القلم الرصاص، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a junior next to the mosque with the pencil, because time is tight, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مبتدئ في السيارة، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a junior in the car, so revision is easier, and then I replied to the message</span> |
 
 

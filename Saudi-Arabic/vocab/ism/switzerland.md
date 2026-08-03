@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت سويسرا قدام المصعد مع الكرتون الفاضي، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a switzerland in front of the elevator with the empty carton, because work finished early, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سويسرا الحين قدام التلفاز، قبل صلاة المغرب، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a switzerland now in front of the TV, before Maghrib prayer, and I also took the white sock</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مضحك عند الاستقبال مع الكوب الزجاج، قبل ما يجي السائق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a funny at reception with the glass cup, before the driver arrives, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مضحك الحين عند الباب، لأن الولد نعسان، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a funny now at the door, because the boy is sleepy, and I also took the brown wallet</span> |
 
 

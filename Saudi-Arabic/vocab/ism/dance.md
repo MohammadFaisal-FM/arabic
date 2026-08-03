@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت رقص تحت السرير مع الوشاح الرمادي، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a dance under the bed with the grey scarf, so we are not late, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رقص الحين على المكتب، عشان نلحق الموعد، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a dance now on the desk, so we make the appointment, and I also took the light blanket</span> |
 
 

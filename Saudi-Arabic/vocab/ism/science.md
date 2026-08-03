@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت علوم في الغرفة، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a science in the room, for studying tomorrow, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت علوم عند الصيدلية مع الغطاء الشفاف، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a science at the pharmacy with the clear cover, because guests are arriving, and then I tidied the table</span> |
 
 

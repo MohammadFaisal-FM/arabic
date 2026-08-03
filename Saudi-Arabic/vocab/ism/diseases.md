@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأمراض الحين جنب المسجد، لأن البطارية ضعيفة، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a diseases now next to the mosque, because the battery is low, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الأمراض في السيارة مع الوسادة الناعمة، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a diseases in the car with the soft pillow, before the driver arrives, and then I replied to the message</span> |
 
 

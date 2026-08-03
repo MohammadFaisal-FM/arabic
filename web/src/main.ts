@@ -455,7 +455,13 @@ function parseHashParts(): { segment: string; itemId: string; q: string } | null
   const qIndex = raw.indexOf('?');
   const path = qIndex >= 0 ? raw.slice(0, qIndex) : raw;
   const query = qIndex >= 0 ? raw.slice(qIndex + 1) : '';
-  const [segment, itemId = ''] = path.split('/');
+  const [segment, rawId = ''] = path.split('/');
+  let itemId = rawId;
+  try {
+    itemId = decodeURIComponent(rawId);
+  } catch {
+    itemId = rawId;
+  }
   const q = new URLSearchParams(query).get('q') ?? '';
   return { segment, itemId, q };
 }

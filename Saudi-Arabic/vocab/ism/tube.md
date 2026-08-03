@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أنبوب الحين قدام المصعد، عشان نلحق الموعد، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a tube now in front of the elevator, so we make the appointment, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أنبوب قدام التلفاز مع الجورب الأبيض، لأن الولد نعسان، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a tube in front of the TV with the white sock, because the boy is sleepy, and then I turned on the fan</span> |
 
 

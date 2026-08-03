@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج العدو الحين على الشرفة، لأن الولد نعسان، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need an enemy now on the balcony, because the boy is sleepy, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت العدو في البقالة، لأن الزحمة قوية، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put an enemy at the grocery, because traffic is heavy, and then I turned off the light</span> |
 
 

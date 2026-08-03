@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">خلصت، وبعدين شفت كلمة السر من الجيب، لأن الطريق مزدحم، وبعدها ضحكنا من الموقف</span> | <span class="example-en" dir="ltr" lang="en">I did it (finishing), then I saw the password from the pocket, because the road is crowded, and then we laughed at the situation</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نخلص الحين، وبعدين أحط الرمز من الطاولة، قبل ما يخلص العرض</span> | <span class="example-en" dir="ltr" lang="en">we do it (finishing) now, then I put the code from the table, before the offer ends</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتخلص بكرة، وآخذ الإيصال من الكرسي إذا احتجته، عشان الصورة تطلع أوضح، وبعدين صلّينا المغرب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (finishing) tomorrow, and I’ll get the receipt from the chair if I need it, so the picture comes out clearer, and then we prayed Maghrib</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">خلصتي، وبعدين شفت الفاتورة الورقية من السيارة، لأن المطر قرب يجي، وبعدها فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (finishing), then I saw the paper invoice from the car, because rain is about to come, and then I turned on the fan</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تخلصون الحين، وبعدين أحط العقد من الرف، عشان ما نتأخر على الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (finishing) now, then I put the contract from the shelf, so we are not late for the appointment</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيخلص بكرة، وآخذ الاستمارة من التطبيق إذا احتجته، لأن البطارية ضعيفة، وبعدها رجعت الغرفة بهدوء</span> | <span class="example-en" dir="ltr" lang="en">he will do it (finishing) tomorrow, and I’ll get the form from the app if I need it, because the battery is low, and then I went back to the room quietly</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">خلصت، وبعدين شفت الطابع الزمني من الدرج، قبل ما يبرد الجو أكثر، وبعدين كتبنا الجملة في الدفتر</span> | <span class="example-en" dir="ltr" lang="en">she did it (finishing), then I saw the timestamp from the drawer, before the weather gets colder, and then we wrote the sentence in the notebook</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يخلصون الحين، وبعدين أحط المظلة من الثلاجة، عشان المراجعة بكرة</span> | <span class="example-en" dir="ltr" lang="en">they do it (finishing) now, then I put the umbrella from the fridge, for revision tomorrow</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">خلصت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (finishing) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أخلص الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (finishing) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بخلص بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (finishing) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">خلصنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (finishing) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نخلص الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (finishing) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنخلص بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (finishing) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">خلصت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (finishing) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تخلص الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (finishing) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتخلص بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (finishing) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">خلصتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (finishing) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تخلصين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (finishing) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتخلصين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (finishing) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">خلصتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (finishing) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تخلصون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (finishing) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتخلصون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (finishing) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">خلص أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (finishing) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يخلص الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (finishing) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيخلص بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (finishing) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">خلصت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (finishing) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تخلص الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (finishing) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتخلص بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (finishing) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">خلصوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (finishing) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يخلصون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (finishing) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيخلصون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (finishing) tomorrow if the time works</span> |
 

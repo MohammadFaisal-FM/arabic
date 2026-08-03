@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">قطع الخط، ولقيت المفتاح الاحتياطي جنب المسجد، قبل صلاة المغرب، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">The line cut off, and I found the spare key next to the mosque, before Maghrib prayer, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">قطع الخط، ولقيت الغطاء الشفاف تحت السرير، قبل ما يقفل المكان، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">The line cut off, and I found the clear cover under the bed, before the place closes, and then I wrote a note</span> |
 
 
 ---

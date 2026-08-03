@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مظلم في الحقيبة مع الحذاء النظيف، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a dark in the bag with the clean shoes, before the place closes, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مظلم الحين عند العيادة، لأن الإضاءة أحسن هناك، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a dark now at the clinic, because the light is better there, and I also took the stapler</span> |
 
 

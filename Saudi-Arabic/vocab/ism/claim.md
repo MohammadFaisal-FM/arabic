@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مطالبة الحين في الغرفة، لأن الجو حار شوي، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a claim now in the room, because the weather is a bit hot, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مطالبة عند الصيدلية، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a claim at the pharmacy, so we make the appointment, and then I tidied the table</span> |
 
 

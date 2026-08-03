@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بلوتوث الحين على المكتب، قبل ما يبرد الأكل، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a bluetooth now on the desk, before the food gets cold, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بلوتوث الحين في الغرفة، عشان الضيوف يوصلون، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a bluetooth now in the room, because guests are arriving, and I also took the spare key</span> |
 
 

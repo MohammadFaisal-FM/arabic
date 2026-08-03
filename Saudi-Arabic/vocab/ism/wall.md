@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حائط الحين جنب المسجد، لأن البطارية ضعيفة، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a wall now next to the mosque, because the battery is low, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حائط على المكتب، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a wall on the desk, so we make the appointment, and then I washed my hands</span> |
 
 

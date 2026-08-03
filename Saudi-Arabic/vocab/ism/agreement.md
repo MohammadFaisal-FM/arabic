@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اتفاق الحين قدام المصعد، لأن الشغل خلص بدري، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need an agreement now in front of the elevator, because work finished early, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اتفاق جنب المسجد، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put an agreement next to the mosque, before the food gets cold, and then we locked the door</span> |
 
 

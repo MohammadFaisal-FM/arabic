@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">خلصت الشغل، ولقيت القلم الرصاص في الحقيبة، بس خلّه قريب منك، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I finished the work, and I found the pencil in the bag, but keep it near you, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">خلصت الشغل، ولقيت المنديل النظيف في الحقيبة، عشان الصورة تطلع أوضح، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I finished the work, and I found the clean tissue in the bag, so the photo comes out clearer, and then the boy slept</span> |
 
 
 ---

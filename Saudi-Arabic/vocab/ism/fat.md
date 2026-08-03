@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت سمين تحت السرير مع الوشاح الرمادي، لأن الولد نعسان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a fat under the bed with the grey scarf, because the boy is sleepy, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سمين الحين في المطبخ، لأن البطارية ضعيفة، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a fat now in the kitchen, because the battery is low, and I also took the paper file</span> |
 
 

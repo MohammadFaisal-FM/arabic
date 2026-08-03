@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج رسم الحين قدام التلفاز، عشان نلحق الموعد، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a drawing now in front of the TV, so we make the appointment, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رسم عند الباب مع المحفظة البنية، عشان ما يضيع، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a drawing at the door with the brown wallet, so it doesn’t get lost, and then I turned on the fan</span> |
 
 

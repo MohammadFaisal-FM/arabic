@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج قواعد الحين عند الصيدلية، قبل ما يبرد الأكل، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a rules now at the pharmacy, before the food gets cold, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قواعد في الثلاجة، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a rules in the fridge, for studying tomorrow, and then we prayed</span> |
 
 

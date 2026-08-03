@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج جاسوس الحين في البقالة، قبل صلاة المغرب، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a spy now at the grocery, before Maghrib prayer, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جاسوس في السيارة مع الوسادة الناعمة، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a spy in the car with the soft pillow, before the driver arrives, and then I replied to the message</span> |
 
 

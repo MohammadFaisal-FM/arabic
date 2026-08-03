@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الاستخدامات الحين في الثلاجة، عشان الصورة تطلع أوضح، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an uses now in the fridge, so the photo comes out clearer, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الاستخدامات قدام الملعب، عشان الضيوف يوصلون، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put an uses in front of the pitch, because guests are arriving, and then I washed my hands</span> |
 
 

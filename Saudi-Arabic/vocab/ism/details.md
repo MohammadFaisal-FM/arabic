@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت تفاصيل عند الاستقبال مع الكوب الزجاج، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a details at reception with the glass cup, before the place closes, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تفاصيل الحين في الحقيبة، لأن الوقت ضيق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a details now in the bag, because time is tight, and I also took the clean shoes</span> |
 
 

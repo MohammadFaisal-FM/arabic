@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يزور جنب المسجد مع القلم الرصاص، إذا احتجته بعدين، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a visit next to the mosque with the pencil, if you need it later, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يزور الحين في الثلاجة، قبل ما يبرد الأكل، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a visit now in the fridge, before the food gets cold, and I also took the summer hat</span> |
 
 

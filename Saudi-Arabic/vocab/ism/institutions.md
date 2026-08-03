@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت المؤسسات جنب البنك، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an institutions next to the bank, before the place closes, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المؤسسات الحين في الصالون، عشان ما يضيع، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an institutions now in the living room, so it doesn’t get lost, and I also took the clean tissue</span> |
 
 

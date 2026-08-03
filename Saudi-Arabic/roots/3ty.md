@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أعطني جوالك، ولقيت البطانية الخفيفة عند العيادة، لأن الولد نعسان، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">Give me your phone, and I found the light blanket at the clinic, because the boy is sleepy, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أعطني جوالك، ولقيت اللاصق الشفاف على الشرفة، لأن الزحمة قوية، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">Give me your phone, and I found the clear tape on the balcony, because traffic is heavy, and then I wrote a note</span> |
 
 
 ---

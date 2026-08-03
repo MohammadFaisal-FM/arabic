@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت سبورة في الغرفة مع المفتاح الاحتياطي، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a board in the room with the spare key, because the light is better there, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سبورة الحين عند الصيدلية، لأن الشغل خلص بدري، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a board now at the pharmacy, because work finished early, and I also took the clear cover</span> |
 
 

@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">ضاقت، وبعدين شفت الحامل من الغرفة، عشان ما نتأخر على الموعد، وبعدين قفلنا الشباك</span> | <span class="example-en" dir="ltr" lang="en">I did it (being tight / annoyed), then I saw the stand from the room, so we are not late for the appointment, and then we closed the window</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نضيق الحين، وبعدين أحط الحقيبة المدرسية من الشرفة، لأن البطارية ضعيفة</span> | <span class="example-en" dir="ltr" lang="en">we do it (being tight / annoyed) now, then I put the school bag from the balcony, because the battery is low</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتضيق بكرة، وآخذ الزمزمية من السطح إذا احتجته، قبل ما يبرد الجو أكثر، وبعد كده طفينا النور</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (being tight / annoyed) tomorrow, and I’ll get the water bottle from the rooftop if I need it, before the weather gets colder, and then we turned off the light</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">ضاقتي، وبعدين شفت السندويتش من الصندوق، عشان المراجعة بكرة، وبعدين رتبنا الكراتين</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (being tight / annoyed), then I saw the sandwich from the box, for revision tomorrow, and then we arranged the boxes</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تضيقون الحين، وبعدين أحط التفاحة من الدرج الثاني، لأن الضيوف يوصلون بعد شوي</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (being tight / annoyed) now, then I put the apple from the second drawer, because the guests arrive soon</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيضيق بكرة، وآخذ الموز من الرف العلوي إذا احتجته، قبل نهاية الدوام، وبعدين غنّينا شوي بصوت واطي</span> | <span class="example-en" dir="ltr" lang="en">he will do it (being tight / annoyed) tomorrow, and I’ll get the bananas from the top shelf if I need it, before the end of the workday, and then we sang a bit quietly</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">ضاقت، وبعدين شفت الجزر من الجيب، عشان الهضم يكون أخف، وبعدها ضحكنا من الموقف</span> | <span class="example-en" dir="ltr" lang="en">she did it (being tight / annoyed), then I saw the carrots from the pocket, so digestion is lighter, and then we laughed at the situation</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يضيقون الحين، وبعدين أحط الخيار من الطاولة، لأن الباص متأخر اليوم</span> | <span class="example-en" dir="ltr" lang="en">they do it (being tight / annoyed) now, then I put the cucumber from the table, because the bus is late today</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">ضاقت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (being tight / annoyed) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أضيق الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (being tight / annoyed) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بضيق بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (being tight / annoyed) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">ضاقنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (being tight / annoyed) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نضيق الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (being tight / annoyed) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنضيق بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (being tight / annoyed) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">ضاقت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (being tight / annoyed) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تضيق الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (being tight / annoyed) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتضيق بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (being tight / annoyed) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">ضاقتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (being tight / annoyed) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تضيقين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (being tight / annoyed) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتضيقين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (being tight / annoyed) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">ضاقتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (being tight / annoyed) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تضيقون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (being tight / annoyed) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتضيقون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (being tight / annoyed) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">ضاق أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (being tight / annoyed) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يضيق الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (being tight / annoyed) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيضيق بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (being tight / annoyed) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">ضاقت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (being tight / annoyed) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تضيق الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (being tight / annoyed) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتضيق بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (being tight / annoyed) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">ضاقوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (being tight / annoyed) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يضيقون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (being tight / annoyed) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيضيقون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (being tight / annoyed) tomorrow if the time works</span> |
 

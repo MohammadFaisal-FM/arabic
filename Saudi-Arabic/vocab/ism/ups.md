@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يو بي إس الحين عند العيادة، لأن البطارية ضعيفة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need an ups now at the clinic, because the battery is low, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يو بي إس في البقالة مع الشاحن الطويل، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found an ups at the grocery with the long charger, before the driver arrives, and then we laughed a bit</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ارضيه الحين قدام الملعب، لأن الجو حار شوي، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a floor now in front of the pitch, because the weather is a bit hot, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ارضيه الحين عند العيادة، لأن الجو حار شوي، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a floor now at the clinic, because the weather is a bit hot, and I also took the stapler</span> |
 
 

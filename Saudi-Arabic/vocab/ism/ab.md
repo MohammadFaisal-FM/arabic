@@ -6,7 +6,7 @@
 | **Subtype** | اسم · ism (noun) |
 | **Arabic** | أب |
 | **Meaning** | father |
-| **Root** | — (loan / no everyday root) |
+| **Root** | [أ-ب-و](#roots/abw) |
 
 ---
 
@@ -14,6 +14,13 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن أب شوي، لأن الوقت ضيق، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a father a bit, because time is tight, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أبوي يشتغل في الرياض أيام الدوام، عشان كذا أمّي في البيت مع العيال</span> | <span class="example-en" dir="ltr" lang="en">My dad works in Riyadh on workdays, so my mum is at home with the kids.</span> |
 
+
+### Links
+
+| | |
+|-|-|
+| **Root family** | [أ-ب-و](#roots/abw) — see all word types |
+| **Fiʿl** | N/A — no everyday fiʿl for this root |
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ينقسم الحين في المكتبة، لأن الزحمة قوية، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a split now in the library, because traffic is heavy, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ينقسم في الحقيبة، لأن الوقت ضيق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a split in the bag, because time is tight, and then I charged the device</span> |
 
 

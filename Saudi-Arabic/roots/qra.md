@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أقرأ كتاب، ولقيت الكرتون الفاضي في الدرج، قبل ما يقفل المكان، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I’m reading a book, and I found the empty carton in the drawer, before the place closes, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أقرأ كتاب، ولقيت المنديل النظيف في الحقيبة، لأن الوقت ضيق، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I’m reading a book, and I found the clean tissue in the bag, because time is tight, and then the phone rang</span> |
 
 
 ---

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ندوة جنب المسجد مع القلم الرصاص، لأن الوقت ضيق، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a seminar next to the mosque with the pencil, because time is tight, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ندوة جنب النافذة، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a seminar beside the window, before the food gets cold, and then we prayed</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأعمار الحين في المكتبة، قبل ما يقفل المكان، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an ages now in the library, before the place closes, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الأعمار قدام التلفاز مع الجورب الأبيض، عشان ما يضيع، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found an ages in front of the TV with the white sock, so it doesn’t get lost, and then the phone rang</span> |
 
 

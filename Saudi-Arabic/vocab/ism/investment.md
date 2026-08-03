@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج استثمار الحين في البقالة، عشان ما يضيع، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need an investment now at the grocery, so it doesn’t get lost, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت استثمار تحت السرير، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put an investment under the bed, so revision is easier, and then I turned off the light</span> |
 
 

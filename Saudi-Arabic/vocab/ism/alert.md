@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يُحذًِر في السيارة، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put an alert in the car, so we are not late, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يُحذًِر في الغرفة مع المفتاح الاحتياطي، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an alert in the room with the spare key, because work finished early, and then I tidied the table</span> |
 
 

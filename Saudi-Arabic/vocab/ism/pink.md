@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج لون القرنفل الحين على الشرفة، قبل صلاة المغرب، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a pink now on the balcony, before Maghrib prayer, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لون القرنفل عند الاستقبال، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a pink at reception, because time is tight, and then I wiped the floor</span> |
 
 

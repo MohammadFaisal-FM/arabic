@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اكراميه الحين في المطبخ، عشان المراجعة أسهل، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a tip now in the kitchen, so revision is easier, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اكراميه الحين في المدرسة، عشان المراجعة أسهل، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a tip now at school, so revision is easier, and I also took the sharp scissors</span> |
 
 

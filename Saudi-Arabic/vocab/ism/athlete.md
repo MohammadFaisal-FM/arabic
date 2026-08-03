@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج رياضي الحين في المطبخ، قبل ما يقفل المكان، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an athlete now in the kitchen, before the place closes, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رياضي الحين في المحطة، عشان ما نتأخر، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need an athlete now at the station, so we are not late, and I also took the short cable</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج كثافة العمليات الحين قدام التلفاز، لأن الشغل خلص بدري، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need an int now in front of the TV, because work finished early, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كثافة العمليات الحين في المدرسة، لأن الزحمة قوية، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need an int now at school, because traffic is heavy, and I also took the sharp scissors</span> |
 
 

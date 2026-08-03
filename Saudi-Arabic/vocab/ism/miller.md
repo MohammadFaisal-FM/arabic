@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ميلر في الصالون مع المنديل النظيف، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a miller in the living room with the clean tissue, because work finished early, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ميلر الحين جنب النافذة، عشان الدراسة بكرة، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a miller now beside the window, for studying tomorrow, and I also took the sunglasses</span> |
 
 

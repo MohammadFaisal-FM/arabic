@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت فشل جنب المسجد مع القلم الرصاص، عشان الصورة تطلع أوضح، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a failure next to the mosque with the pencil, so the photo comes out clearer, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فشل الحين في الثلاجة، عشان الدراسة بكرة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a failure now in the fridge, for studying tomorrow, and I also took the summer hat</span> |
 
 

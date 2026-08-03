@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اسم المستخدم الحين على الشرفة، عشان ما يضيع، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need an username now on the balcony, so it doesn’t get lost, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اسم المستخدم عند الاستقبال، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an username at reception, so the photo comes out clearer, and then I charged the device</span> |
 
 

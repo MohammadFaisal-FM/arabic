@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مكبرات الصوت جنب البنك مع الزجاجة الفارغة، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a speakers next to the bank with the empty bottle, before the place closes, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مكبرات الصوت في الصالون، عشان ما يضيع، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a speakers in the living room, so it doesn’t get lost, and then I turned on the fan</span> |
 
 

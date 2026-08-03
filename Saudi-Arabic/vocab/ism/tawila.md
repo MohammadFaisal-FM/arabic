@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت طاولة جنب المسجد، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a table next to the mosque, because time is tight, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت طاولة في الدرج مع الدفتر الأزرق، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a table in the drawer with the blue notebook, so we make the appointment, and then I washed my hands</span> |
 
 

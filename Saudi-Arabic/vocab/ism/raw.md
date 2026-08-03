@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج خام الحين على الشرفة، قبل صلاة المغرب، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a raw now on the balcony, before Maghrib prayer, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت خام في البقالة، قبل ما يقفل المكان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a raw at the grocery, before the place closes, and then I replied to the message</span> |
 
 

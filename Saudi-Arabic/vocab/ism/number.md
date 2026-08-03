@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت رقم جنب البنك، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a number next to the bank, before the place closes, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رقم على الشرفة مع البطاقة الصفراء، قبل ما يقفل المكان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a number on the balcony with the yellow card, before the place closes, and then I replied to the message</span> |
 
 

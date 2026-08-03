@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يشترك الحين عند الصيدلية، لأن الإضاءة أحسن هناك، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a subscribe now at the pharmacy, because the light is better there, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يشترك في الثلاجة، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a subscribe in the fridge, before the food gets cold, and then I drank some water</span> |
 
 

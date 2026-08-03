@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">سمعتك، ولقيت البطانية الخفيفة عند العيادة، قبل صلاة المغرب، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I heard you, and I found the light blanket at the clinic, before Maghrib prayer, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">سمعتك، ولقيت الملف الورقي في الغرفة، عشان الضيوف يوصلون، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I heard you, and I found the paper file in the room, because guests are arriving, and then I charged the device</span> |
 
 
 ---

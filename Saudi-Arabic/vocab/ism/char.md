@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج شار الحين عند الصيدلية، قبل ما يبرد الأكل، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a char now at the pharmacy, before the food gets cold, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شار على المكتب، عشان الضيوف يوصلون، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a char on the desk, because guests are arriving, and then I wrote a note</span> |
 
 

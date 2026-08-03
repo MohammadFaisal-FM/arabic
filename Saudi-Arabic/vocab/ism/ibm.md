@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج آي بي إم الحين في المكتبة، لأن الزحمة قوية، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need an ibm now in the library, because traffic is heavy, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت آي بي إم في الثلاجة، لأن الجو حار شوي، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put an ibm in the fridge, because the weather is a bit hot, and then we locked the door</span> |
 
 

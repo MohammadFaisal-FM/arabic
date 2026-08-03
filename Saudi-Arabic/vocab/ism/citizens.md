@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت المواطنين قدام التلفاز، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a citizens in front of the TV, because work finished early, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المواطنين عند العيادة، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a citizens at the clinic, for studying tomorrow, and then we prayed</span> |
 
 

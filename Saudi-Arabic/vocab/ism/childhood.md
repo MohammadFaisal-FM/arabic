@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">طفولة كان/كانت تحت السرير، عشان ما يضيع، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">a childhood was under the bed, so it doesn’t get lost, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن طفولة شوي، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">We talked about a childhood a bit, because work finished early, and then I washed my hands</span> |
 
 

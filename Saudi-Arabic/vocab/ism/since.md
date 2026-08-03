@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت منذ قدام المصعد مع الكرتون الفاضي، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a since in front of the elevator with the empty carton, because work finished early, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج منذ الحين في الصالون، لأن الولد نعسان، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a since now in the living room, because the boy is sleepy, and I also took the clean tissue</span> |
 
 

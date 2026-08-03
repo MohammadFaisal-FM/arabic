@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مرور الحين جنب المسجد، عشان الصورة تطلع أوضح، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a traffic now next to the mosque, so the photo comes out clearer, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مرور على المكتب، عشان الضيوف يوصلون، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a traffic on the desk, because guests are arriving, and then I wrote a note</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت التنسيقات في المحطة مع الكابل القصير، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a formats at the station with the short cable, but keep it near you, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج التنسيقات الحين في الصالون، عشان ما نتأخر، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a formats now in the living room, so we are not late, and I also took the clean tissue</span> |
 
 

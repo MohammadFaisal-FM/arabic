@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أدور على مفتاح، ولقيت الكرتون الفاضي في الدرج، عشان المراجعة أسهل، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I’m looking for a key, and I found the empty carton in the drawer, so revision is easier, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أدور على مفتاح، ولقيت الملعقة الصغيرة في الدرج، لأن الشغل خلص بدري، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I’m looking for a key, and I found the small spoon in the drawer, because work finished early, and then I closed the window</span> |
 
 
 ---

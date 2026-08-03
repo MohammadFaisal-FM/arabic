@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مينيسوتا قدام التلفاز مع الجورب الأبيض، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a minnesota in front of the TV with the white sock, but keep it near you, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مينيسوتا عند العيادة مع الدباسة، لأن الجو حار شوي، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a minnesota at the clinic with the stapler, because the weather is a bit hot, and then I drank some water</span> |
 
 

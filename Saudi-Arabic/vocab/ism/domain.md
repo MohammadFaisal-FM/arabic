@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اِختِصاص الحين على المكتب، قبل ما يبرد الأكل، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a domain now on the desk, before the food gets cold, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اِختِصاص الحين عند العيادة، عشان الدراسة بكرة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a domain now at the clinic, for studying tomorrow, and I also took the stapler</span> |
 
 

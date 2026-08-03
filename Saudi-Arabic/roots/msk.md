@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">امسك هذي، ولقيت الجورب الأبيض قدام الملعب، قبل ما يجي السائق، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">Hold this, and I found the white sock in front of the pitch, before the driver arrives, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">امسك هذي، ولقيت الملف الورقي في الغرفة، لأن الشغل خلص بدري، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">Hold this, and I found the paper file in the room, because work finished early, and then I closed the window</span> |
 
 
 ---

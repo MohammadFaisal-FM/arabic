@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مجموعة الحين عند الاستقبال، قبل ما يقفل المكان، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a group now at reception, before the place closes, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مجموعة قدام التلفاز، عشان ما نتأخر، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a group in front of the TV, so we are not late, and then the boy slept</span> |
 
 

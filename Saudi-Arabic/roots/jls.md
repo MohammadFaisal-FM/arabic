@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">اجلس هنا، ولقيت الدباسة في المكتبة، لأن الشغل خلص بدري، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">Sit here, and I found the stapler in the library, because work finished early, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">اجلس هنا، ولقيت الكابل القصير عند الصيدلية، لأن الشغل خلص بدري، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">Sit here, and I found the short cable at the pharmacy, because work finished early, and then the boy slept</span> |
 
 
 ---

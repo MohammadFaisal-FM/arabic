@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يؤدي الحين عند الاستقبال، قبل ما يقفل المكان، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a leads now at reception, before the place closes, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يؤدي عند الباب مع المحفظة البنية، عشان ما يضيع، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a leads at the door with the brown wallet, so it doesn’t get lost, and then I turned on the fan</span> |
 
 

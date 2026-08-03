@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج محاسبة الحين في الثلاجة، لأن الوقت ضيق، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an accounting now in the fridge, because time is tight, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت محاسبة قدام الملعب مع اللاصق الشفاف، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an accounting in front of the pitch with the clear tape, because work finished early, and then I wrote a note</span> |
 
 

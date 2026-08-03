@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت سباحة عند الباب، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a swimming at the door, but keep it near you, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سباحة قدام المصعد، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a swimming in front of the elevator, so we are not late, and then the phone rang</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يثق الحين عند الصيدلية، لأن الإضاءة أحسن هناك، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a trust now at the pharmacy, because the light is better there, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يثق قدام التلفاز، لأن الولد نعسان، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a trust in front of the TV, because the boy is sleepy, and then the phone rang</span> |
 
 

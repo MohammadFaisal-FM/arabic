@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ايطالي في الدرج مع الدفتر الأزرق، عشان الدراسة بكرة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an italian in the drawer with the blue notebook, for studying tomorrow, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ايطالي الحين في الثلاجة، عشان الدراسة بكرة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an italian now in the fridge, for studying tomorrow, and I also took the summer hat</span> |
 
 

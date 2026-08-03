@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ذروة الحين في الغرفة، لأن الإضاءة أحسن هناك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an ultimate now in the room, because the light is better there, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ذروة عند الاستقبال، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an ultimate at reception, so the photo comes out clearer, and then I charged the device</span> |
 
 

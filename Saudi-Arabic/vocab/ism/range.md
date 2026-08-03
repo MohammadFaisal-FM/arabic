@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يتراوح الحين في الصالون، عشان نلحق الموعد، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a range now in the living room, so we make the appointment, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يتراوح قدام التلفاز مع الجورب الأبيض، عشان ما يضيع، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a range in front of the TV with the white sock, so it doesn’t get lost, and then the phone rang</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج واجهة الحين في البقالة، قبل صلاة المغرب، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need an interface now at the grocery, before Maghrib prayer, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت واجهة في الحقيبة، لأن الوقت ضيق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an interface in the bag, because time is tight, and then I charged the device</span> |
 
 

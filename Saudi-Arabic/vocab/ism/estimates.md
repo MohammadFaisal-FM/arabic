@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج التقديرات الحين في الغرفة، قبل ما يبرد الأكل، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an estimates now in the room, before the food gets cold, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التقديرات عند الاستقبال، لأن البطارية ضعيفة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put an estimates at reception, because the battery is low, and then I closed the window</span> |
 
 

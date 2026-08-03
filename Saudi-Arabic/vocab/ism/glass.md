@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج زجاج الحين في المحطة، عشان الضيوف يوصلون، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a glass now at the station, because guests are arriving, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت زجاج في البقالة مع الشاحن الطويل، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a glass at the grocery with the long charger, before the driver arrives, and then we laughed a bit</span> |
 
 

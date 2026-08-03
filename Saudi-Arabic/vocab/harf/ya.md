@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «يا» في الجملة، وحطينا الدباسة عند العيادة، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">We used “يا” (O… (calling)) in the sentence, and put the stapler at the clinic, if you need it later, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «يا» في الجملة، وحطينا الملعقة الصغيرة في المكتبة، عشان الصورة تطلع أوضح، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">We used “يا” (O… (calling)) in the sentence, and put the small spoon in the library, so the photo comes out clearer, and then I wiped the floor</span> |
 

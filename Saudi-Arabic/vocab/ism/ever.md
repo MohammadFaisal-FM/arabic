@@ -6,7 +6,7 @@
 | **Subtype** | اسم · ism (noun) |
 | **Arabic** | أبدًا |
 | **Meaning** | ever |
-| **Root** | — (loan / no everyday root) |
+| **Root** | [أ-ب-د](#roots/abd) |
 
 ---
 
@@ -14,6 +14,13 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أبدًا الحين في الحقيبة، قبل ما يقفل المكان، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an ever now in the bag, before the place closes, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أبدا ما راح أسوي كذا، لأنّي أعرف إنه بيطلع بنتائج سيئة</span> | <span class="example-en" dir="ltr" lang="en">I will never do this, because I know it will have bad results.</span> |
 
+
+### Links
+
+| | |
+|-|-|
+| **Root family** | [أ-ب-د](#roots/abd) — see all word types |
+| **Fiʿl** | N/A — no everyday fiʿl for this root |
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت لحظة في المكتبة، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I saw a moment in the library, so revision is easier, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لحظة كان/كانت قدام التلفاز، قبل صلاة المغرب، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">a moment was in front of the TV, before Maghrib prayer, and then the phone rang</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت تلفزيون قدام المصعد مع الكرتون الفاضي، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a television in front of the elevator with the empty carton, but keep it near you, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تلفزيون الحين تحت السرير، قبل ما يقفل المكان، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a television now under the bed, before the place closes, and I also took the grey scarf</span> |
 
 

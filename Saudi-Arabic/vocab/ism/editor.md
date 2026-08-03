@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج محرر الحين عند الاستقبال، قبل ما يقفل المكان، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need an editor now at reception, before the place closes, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت محرر في الحقيبة، لأن الوقت ضيق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an editor in the bag, because time is tight, and then I charged the device</span> |
 
 

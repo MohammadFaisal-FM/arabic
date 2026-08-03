@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ألين تحت السرير مع الوشاح الرمادي، قبل صلاة المغرب، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found an allen under the bed with the grey scarf, before Maghrib prayer, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ألين الحين في المدرسة، قبل ما يجي السائق، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need an allen now at school, before the driver arrives, and I also took the sharp scissors</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج التعليمية الحين في المطبخ، قبل ما يقفل المكان، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an educational now in the kitchen, before the place closes, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التعليمية في الحديقة، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an educational in the park, because the light is better there, and then I drank some water</span> |
 
 

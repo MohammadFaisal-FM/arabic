@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج احتيال الحين في المحطة، عشان الضيوف يوصلون، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a con (scam) now at the station, because guests are arriving, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت احتيال جنب المسجد مع القلم الرصاص، لأن الإضاءة أحسن هناك، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a con (scam) next to the mosque with the pencil, because the light is better there, and then we locked the door</span> |
 
 

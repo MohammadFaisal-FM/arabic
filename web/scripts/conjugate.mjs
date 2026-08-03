@@ -344,6 +344,9 @@ function nextCombo() {
 function extractPresentStem(present) {
   const p = (present || '').trim();
   if (!p) return '';
+  // Form II like يؤثر / يؤكد: dialect writing uses أثر / أكد as the stem
+  // (ي + ؤ… → أ…), so أنا أأثر not أؤثر.
+  if (/^ي[ؤو]/.test(p) && p.length > 2) return `أ${p.slice(2)}`;
   if (/^[يتأنا]/.test(p) && p.length > 2) return p.slice(1);
   return p;
 }
@@ -414,23 +417,23 @@ function buildExampleSentence(pronoun, form, tense, gloss, curated) {
     return { ar: curated.ar.trim(), en: (curated.en || '').trim() };
   }
 
-  const { object, place, reason, follow } = nextCombo();
-  const followAr = follow.ar.replace(/^و/, '');
-  const followEn = follow.en.replace(/^and\s+/i, '');
-
-  let ar;
-  let en;
+  // Compact everyday frames (no random object soup). Prefer curated 24-lines per verb when teaching.
   if (tense === 'past') {
-    ar = `${form}، وبعدين شفت ${object.ar} ${place.ar}، ${reason.ar}، و${followAr}`;
-    en = `${tenseLeadEn(tense, pronoun.en, gloss)}, then I saw ${object.en} ${place.en}, ${reason.en}, and ${followEn}`;
-  } else if (tense === 'present') {
-    ar = `${form} الحين، وبعدين أحط ${object.ar} ${place.ar}، ${reason.ar}`;
-    en = `${tenseLeadEn(tense, pronoun.en, gloss)} now, then I put ${object.en} ${place.en}, ${reason.en}`;
-  } else {
-    ar = `${form} بكرة، وآخذ ${object.ar} ${place.ar} إذا احتجته، ${reason.ar}، و${followAr}`;
-    en = `${tenseLeadEn(tense, pronoun.en, gloss)} tomorrow, and I’ll get ${object.en} ${place.en} if I need it, ${reason.en}, and ${followEn}`;
+    return {
+      ar: `${form} أمس عشان خلّصنا الشغلة بدري`,
+      en: `${tenseLeadEn(tense, pronoun.en, gloss)} yesterday so we finished the task early`,
+    };
   }
-  return { ar, en };
+  if (tense === 'present') {
+    return {
+      ar: `${form} الحين عشان ما يتأخر الموعد`,
+      en: `${tenseLeadEn(tense, pronoun.en, gloss)} now so the appointment isn’t late`,
+    };
+  }
+  return {
+    ar: `${form} بكرة إذا صار الوقت مناسب`,
+    en: `${tenseLeadEn(tense, pronoun.en, gloss)} tomorrow if the time works`,
+  };
 }
 
 /**
@@ -438,6 +441,9 @@ function buildExampleSentence(pronoun, form, tense, gloss, curated) {
  * @param {string} present
  * @param {string} meaning
  * @param {{ ar: string, en: string }[] | null | undefined} curatedExamples
+ *   Optional curated lines. Prefer 24 = 8 pronouns × past/present/future
+ *   (أنا past, أنا present, أنا future, إحنا past, …).
+ *   Legacy length 8 = one line per pronoun (used for past only; present/future auto).
  */
 export function conjugationSection(past, present, meaning, curatedExamples) {
   const pastBase = (past || '').trim();
@@ -446,31 +452,38 @@ export function conjugationSection(past, present, meaning, curatedExamples) {
   const presentMap = presentForms(stem);
   const futureMap = futureForms(stem);
   const gloss = glossFromMeaning(meaning);
+  const curated = Array.isArray(curatedExamples) ? curatedExamples : [];
 
   const conjRows = PRONOUNS.map(
     (p) =>
       `| ${p.ar} | ${pastMap[p.ar]} | ${presentMap[p.ar]} | ${futureMap[p.ar]} |`
   ).join('\n');
 
-  const tenseCycle = ['past', 'present', 'future'];
-  const exampleRows = PRONOUNS.map((p, i) => {
-    const tense = tenseCycle[i % 3];
-    const form =
-      tense === 'past'
-        ? pastMap[p.ar]
-        : tense === 'present'
-          ? presentMap[p.ar]
-          : futureMap[p.ar];
-    const curated = Array.isArray(curatedExamples) ? curatedExamples[i] : null;
-    const { ar, en } = buildExampleSentence(p, form, tense, gloss, curated);
-    const arCell = escapeTableCell(
-      `<span class="example-ar" dir="rtl" lang="ar">${escapeHtml(ar)}</span>`
-    );
-    const enCell = escapeTableCell(
-      `<span class="example-en" dir="ltr" lang="en">${escapeHtml(en)}</span>`
-    );
-    return `| ${p.ar} | ${arCell} | ${enCell} |`;
-  }).join('\n');
+  const tenseOrder = [
+    { key: 'past', label: 'Past', map: pastMap },
+    { key: 'present', label: 'Present', map: presentMap },
+    { key: 'future', label: 'Future', map: futureMap },
+  ];
+
+  const exampleRows = PRONOUNS.flatMap((p, pi) =>
+    tenseOrder.map((t, ti) => {
+      const form = t.map[p.ar];
+      let curatedLine = null;
+      if (curated.length >= 24) {
+        curatedLine = curated[pi * 3 + ti];
+      } else if (curated.length >= 8 && t.key === 'past') {
+        curatedLine = curated[pi];
+      }
+      const { ar, en } = buildExampleSentence(p, form, t.key, gloss, curatedLine);
+      const arCell = escapeTableCell(
+        `<span class="example-ar" dir="rtl" lang="ar">${escapeHtml(ar)}</span>`
+      );
+      const enCell = escapeTableCell(
+        `<span class="example-en" dir="ltr" lang="en">${escapeHtml(en)}</span>`
+      );
+      return `| ${p.ar} | ${t.label} | ${arCell} | ${enCell} |`;
+    })
+  ).join('\n');
 
   return `## Conjugation
 
@@ -482,10 +495,10 @@ ${conjRows}
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
 ${exampleRows}
 `;
 }

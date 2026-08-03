@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت المشترين تحت السرير، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a buyers under the bed, so we are not late, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المشترين في المدرسة مع المقص الحاد، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a buyers at school with the sharp scissors, so revision is easier, and then I replied to the message</span> |
 
 

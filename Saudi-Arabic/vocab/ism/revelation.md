@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الوحي الحين على المكتب، عشان الدراسة بكرة، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a revelation now on the desk, for studying tomorrow, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الوحي قدام الملعب، عشان الضيوف يوصلون، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a revelation in front of the pitch, because guests are arriving, and then I washed my hands</span> |
 
 

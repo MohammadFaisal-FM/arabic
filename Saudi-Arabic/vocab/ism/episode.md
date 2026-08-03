@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت حلقة في الصالون، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put an episode in the living room, so we make the appointment, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حلقة الحين عند الباب، لأن الولد نعسان، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an episode now at the door, because the boy is sleepy, and I also took the brown wallet</span> |
 
 

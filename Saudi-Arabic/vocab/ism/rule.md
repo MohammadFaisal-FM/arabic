@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت قاعدة في المكتبة، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a rule in the library, before the place closes, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قاعدة عند الاستقبال مع الكوب الزجاج، لأن الوقت ضيق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a rule at reception with the glass cup, because time is tight, and then I charged the device</span> |
 
 

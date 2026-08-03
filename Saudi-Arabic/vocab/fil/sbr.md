@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">صبرت، وبعدين شفت البنطلون من المطبخ، قبل ما تطفى الأنوار، وبعد كده رنّ الجرس</span> | <span class="example-en" dir="ltr" lang="en">I did it (being patient), then I saw the pants from the kitchen, before the lights go out, and then the doorbell rang</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نصبر الحين، وبعدين أحط الفستان من الحمام، عشان الاختبار يوم الأحد</span> | <span class="example-en" dir="ltr" lang="en">we do it (being patient) now, then I put the dress from the bathroom, because the exam is on Sunday</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتصبر بكرة، وآخذ المعطف من الغرفة إذا احتجته، لأن الشمس قوية برا، وبعدين قفلنا الشباك</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (being patient) tomorrow, and I’ll get the coat from the room if I need it, because the sun is strong outside, and then we closed the window</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">صبرتي، وبعدين شفت المظلة المطريّة من الشرفة، قبل ما يقفل الباب، وبعدها مسحنا الطاولة</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (being patient), then I saw the rain umbrella from the balcony, before the door closes, and then we wiped the table</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تصبرون الحين، وبعدين أحط الدراجة من السطح، عشان ما يضيع شيء</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (being patient) now, then I put the bicycle from the rooftop, so nothing gets lost</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيصبر بكرة، وآخذ الخوذة من الصندوق إذا احتجته، لأن الوقت ضيق شوي، وبعدين رتبنا الكراتين</span> | <span class="example-en" dir="ltr" lang="en">he will do it (being patient) tomorrow, and I’ll get the helmet from the box if I need it, because time is a bit tight, and then we arranged the boxes</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">صبرت، وبعدين شفت الكرة من الدرج الثاني، قبل ما يبدأ الاجتماع، وبعدها ردّينا على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">she did it (being patient), then I saw the ball from the second drawer, before the meeting starts, and then we replied to the message</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يصبرون الحين، وبعدين أحط المضرب من الرف العلوي، عشان نلحق الصلاة</span> | <span class="example-en" dir="ltr" lang="en">they do it (being patient) now, then I put the racket from the top shelf, so we make prayer on time</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">صبرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (being patient) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أصبر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (being patient) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بصبر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (being patient) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">صبرنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (being patient) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نصبر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (being patient) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنصبر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (being patient) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">صبرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (being patient) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تصبر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (being patient) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتصبر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (being patient) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">صبرتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (being patient) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تصبرين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (being patient) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتصبرين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (being patient) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">صبرتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (being patient) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تصبرون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (being patient) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتصبرون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (being patient) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">صبر أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (being patient) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يصبر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (being patient) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيصبر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (being patient) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">صبرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (being patient) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تصبر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (being patient) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتصبر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (being patient) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">صبروا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (being patient) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يصبرون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (being patient) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيصبرون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (being patient) tomorrow if the time works</span> |
 

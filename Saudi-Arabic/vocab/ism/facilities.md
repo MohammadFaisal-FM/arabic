@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مرافق في المطبخ مع الملف الورقي، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a facilities in the kitchen with the paper file, so revision is easier, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مرافق في الحديقة مع المنبه القديميم، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a facilities in the park with the old alarm, for studying tomorrow, and then I drank some water</span> |
 
 

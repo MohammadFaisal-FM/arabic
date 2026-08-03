@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت خصومات على المكتب مع البطانية الخفيفة، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a discounts on the desk with the light blanket, because the light is better there, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت خصومات في الغرفة مع المفتاح الاحتياطي، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a discounts in the room with the spare key, but keep it near you, and then I wrote a note</span> |
 
 

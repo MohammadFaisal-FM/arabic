@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت لاعب في الحقيبة مع الحذاء النظيف، لأن الزحمة قوية، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a player in the bag with the clean shoes, because traffic is heavy, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج لاعب الحين في المطبخ، لأن البطارية ضعيفة، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a player now in the kitchen, because the battery is low, and I also took the paper file</span> |
 
 

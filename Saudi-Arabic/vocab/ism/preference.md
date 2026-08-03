@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت التفضيل في المطبخ مع الملف الورقي، قبل ما يجي السائق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a preference in the kitchen with the paper file, before the driver arrives, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التفضيل جنب البنك مع الزجاجة الفارغة، إذا احتجته بعدين، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a preference next to the bank with the empty bottle, if you need it later, and then I closed the window</span> |
 
 

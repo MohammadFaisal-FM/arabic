@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج كرة القدم الحين في الحقيبة، لأن الزحمة قوية، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a football now in the bag, because traffic is heavy, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كرة القدم الحين عند العيادة، لأن الجو حار شوي، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a football now at the clinic, because the weather is a bit hot, and I also took the stapler</span> |
 
 

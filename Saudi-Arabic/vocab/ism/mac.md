@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ماك الحين على المكتب، لأن الجو حار شوي، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a mac now on the desk, because the weather is a bit hot, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ماك في المحطة، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a mac at the station, so it doesn’t get lost, and then the boy slept</span> |
 
 

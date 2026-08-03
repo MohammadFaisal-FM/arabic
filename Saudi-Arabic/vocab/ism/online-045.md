@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت الماني تحت السرير، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I saw a german under the bed, so we are not late, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">الماني كان/كانت قدام التلفاز، عشان ما نتأخر، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">a german was in front of the TV, so we are not late, and then I turned on the fan</span> |
 
 

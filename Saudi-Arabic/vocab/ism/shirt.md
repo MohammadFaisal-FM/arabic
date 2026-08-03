@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج قميص الحين قدام المصعد، عشان نلحق الموعد، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a shirt now in front of the elevator, so we make the appointment, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قميص في البقالة مع الشاحن الطويل، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a shirt at the grocery with the long charger, before the driver arrives, and then we laughed a bit</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مقيم الحين في الغرفة، لأن الإضاءة أحسن هناك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a resident now in the room, because the light is better there, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مقيم عند الصيدلية، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a resident at the pharmacy, because work finished early, and then I tidied the table</span> |
 
 

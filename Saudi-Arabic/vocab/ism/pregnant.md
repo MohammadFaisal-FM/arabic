@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حامل الحين على الشرفة، لأن الولد نعسان، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a pregnant now on the balcony, because the boy is sleepy, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حامل تحت السرير، قبل ما يقفل المكان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a pregnant under the bed, before the place closes, and then we laughed a bit</span> |
 
 

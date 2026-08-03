@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت جبل قدام التلفاز، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a mountain in front of the TV, because work finished early, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جبل في السيارة مع الوسادة الناعمة، عشان المراجعة أسهل، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a mountain in the car with the soft pillow, so revision is easier, and then we laughed a bit</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ضابط الحين قدام المصعد، بس خلّه قريب منك، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need an officer now in front of the elevator, but keep it near you, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ضابط جنب المسجد، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an officer next to the mosque, for studying tomorrow, and then I drank some water</span> |
 
 

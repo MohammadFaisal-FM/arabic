@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الثلاثاء الحين عند العيادة، لأن البطارية ضعيفة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a tue now at the clinic, because the battery is low, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الثلاثاء عند الصيدلية، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a tue at the pharmacy, so we make the appointment, and then I tidied the table</span> |
 
 

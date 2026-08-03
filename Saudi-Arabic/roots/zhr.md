@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ظهر الحل، ولقيت الملف الورقي على الشرفة، عشان الدراسة بكرة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">The solution appeared, and I found the paper file on the balcony, for studying tomorrow, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ظهر الحل، ولقيت الزجاجة الفارغة عند الصيدلية، عشان الضيوف يوصلون، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">The solution appeared, and I found the empty bottle at the pharmacy, because guests are arriving, and then I closed the window</span> |
 
 
 ---

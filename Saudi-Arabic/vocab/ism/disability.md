@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الإعاقة قدام التلفاز مع الجورب الأبيض، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a disability in front of the TV with the white sock, because work finished early, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الإعاقة في المحطة مع الكابل القصير، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a disability at the station with the short cable, before Maghrib prayer, and then the boy slept</span> |
 
 

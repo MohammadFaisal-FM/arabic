@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج سفاري الحين في المطبخ، قبل ما يجي السائق، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a safari now in the kitchen, before the driver arrives, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سفاري الحين في المكتبة، عشان الصورة تطلع أوضح، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a safari now in the library, so the photo comes out clearer, and I also took the small spoon</span> |
 
 

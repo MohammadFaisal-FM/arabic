@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت عميق في البقالة مع الشاحن الطويل، عشان ما نتأخر، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a deep at the grocery with the long charger, so we are not late, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عميق في الحقيبة، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a deep in the bag, if you need it later, and then I charged the device</span> |
 
 

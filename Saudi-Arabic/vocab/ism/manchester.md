@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن مانشستر شوي، قبل ما يقفل المكان، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">We talked about a manchester a bit, before the place closes, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">مانشستر كان/كانت عند الاستقبال، إذا احتجته بعدين، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">a manchester was at reception, if you need it later, and then I closed the window</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مترو قدام المصعد مع الكرتون الفاضي، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a metro in front of the elevator with the empty carton, but keep it near you, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مترو الحين قدام التلفاز، عشان ما نتأخر، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a metro now in front of the TV, so we are not late, and I also took the white sock</span> |
 
 

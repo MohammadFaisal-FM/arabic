@@ -6,7 +6,7 @@
 | **Subtype** | اسم · ism (noun) |
 | **Arabic** | ابن |
 | **Meaning** | son |
-| **Root** | — (loan / no everyday root) |
+| **Root** | [أ-ب-ن](#roots/abn) |
 
 ---
 
@@ -14,6 +14,13 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن ابن شوي، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">We talked about a son a bit, if you need it later, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">عندي ابن صغير في الابتدائي، ويحب كرة القدم</span> | <span class="example-en" dir="ltr" lang="en">I have a young son in primary school, and he loves football.</span> |
 
+
+### Links
+
+| | |
+|-|-|
+| **Root family** | [أ-ب-ن](#roots/abn) — see all word types |
+| **Fiʿl** | N/A — no everyday fiʿl for this root |
 

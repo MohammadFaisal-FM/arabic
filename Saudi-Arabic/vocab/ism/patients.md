@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مرضى الحين في الحديقة، عشان الصورة تطلع أوضح، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a patients now in the park, so the photo comes out clearer, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مرضى في الدرج، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a patients in the drawer, because guests are arriving, and then I tidied the table</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت كوستا في المدرسة مع المقص الحاد، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a costa at school with the sharp scissors, so we are not late, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كوستا عند الصيدلية، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a costa at the pharmacy, because work finished early, and then I tidied the table</span> |
 
 

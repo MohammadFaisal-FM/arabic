@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وصلت بالسيارة، وحطيت البطاقة الصفراء على الشرفة، قبل صلاة المغرب</span> | <span class="example-en" dir="ltr" lang="en">I arrived by car, and put the yellow card on the balcony, before Maghrib prayer</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وصلت بالسيارة، وحطيت المنديل النظيف في الصالون، عشان ما نتأخر</span> | <span class="example-en" dir="ltr" lang="en">I arrived by car, and put the clean tissue in the living room, so we are not late</span> |
 

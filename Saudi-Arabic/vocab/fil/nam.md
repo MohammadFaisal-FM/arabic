@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">نامت، وبعدين شفت الفلاش من المكتب، لأن الضيوف يوصلون بعد شوي، وبعدها فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I did it (sleeping), then I saw the flashlight from the office, because the guests arrive soon, and then I turned on the fan</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">ننام الحين، وبعدين أحط الولّاعة من الحديقة، قبل نهاية الدوام</span> | <span class="example-en" dir="ltr" lang="en">we do it (sleeping) now, then I put the lighter from the park, before the end of the workday</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتنام بكرة، وآخذ الشمع من المسبح إذا احتجته، عشان الهضم يكون أخف، وبعدها رجعت الغرفة بهدوء</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (sleeping) tomorrow, and I’ll get the candle from the pool if I need it, so digestion is lighter, and then I went back to the room quietly</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">نامتي، وبعدين شفت الكبريت من الصالون، لأن الباص متأخر اليوم، وبعدين كتبنا الجملة في الدفتر</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (sleeping), then I saw the matches from the living room, because the bus is late today, and then we wrote the sentence in the notebook</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تنامون الحين، وبعدين أحط البطارية الصغيرة من المطبخ، قبل ما تطفى الأنوار</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (sleeping) now, then I put the small battery from the kitchen, before the lights go out</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بينام بكرة، وآخذ السلك من الحمام إذا احتجته، عشان الاختبار يوم الأحد، وبعدها شربت شوية ميّ</span> | <span class="example-en" dir="ltr" lang="en">he will do it (sleeping) tomorrow, and I’ll get the wire from the bathroom if I need it, because the exam is on Sunday, and then I drank a bit of water</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">نامت، وبعدين شفت المحول من الغرفة، لأن الشمس قوية برا، وبعدين قفلنا الشباك</span> | <span class="example-en" dir="ltr" lang="en">she did it (sleeping), then I saw the adapter from the room, because the sun is strong outside, and then we closed the window</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">ينامون الحين، وبعدين أحط الراوتر من الشرفة، قبل ما يقفل الباب</span> | <span class="example-en" dir="ltr" lang="en">they do it (sleeping) now, then I put the router from the balcony, before the door closes</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">نامت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (sleeping) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أنام الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (sleeping) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنام بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (sleeping) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">نامنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (sleeping) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">ننام الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (sleeping) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بننام بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (sleeping) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">نامت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (sleeping) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تنام الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (sleeping) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتنام بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (sleeping) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">نامتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (sleeping) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تنامين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (sleeping) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتنامين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (sleeping) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">نامتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (sleeping) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تنامون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (sleeping) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتنامون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (sleeping) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">نام أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (sleeping) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">ينام الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (sleeping) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بينام بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (sleeping) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">نامت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (sleeping) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تنام الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (sleeping) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتنام بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (sleeping) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">ناموا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (sleeping) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">ينامون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (sleeping) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بينامون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (sleeping) tomorrow if the time works</span> |
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج انف الحين في المطبخ، قبل ما يجي السائق، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a nose now in the kitchen, before the driver arrives, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج انف الحين في المدرسة، قبل ما يجي السائق، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a nose now at school, before the driver arrives, and I also took the sharp scissors</span> |
 
 

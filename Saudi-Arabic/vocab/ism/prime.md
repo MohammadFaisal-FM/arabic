@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت رئيس الوزراء في الحديقة مع المنبه القديميم، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a prime in the park with the old alarm, because time is tight, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت رئيس الوزراء في الدرج، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a prime in the drawer, because work finished early, and then I wrote a note</span> |
 
 

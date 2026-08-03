@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت صالة قدام المصعد مع الكرتون الفاضي، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a lounge in front of the elevator with the empty carton, but keep it near you, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج صالة الحين في الصالون، قبل صلاة المغرب، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a lounge now in the living room, before Maghrib prayer, and I also took the clean tissue</span> |
 
 

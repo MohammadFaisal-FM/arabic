@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الأوراق المالية في الثلاجة مع القبعة الصيفية، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a securities in the fridge with the summer hat, because the battery is low, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الأوراق المالية الحين عند العيادة، لأن الإضاءة أحسن هناك، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a securities now at the clinic, because the light is better there, and I also took the stapler</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت البلوز عند العيادة مع الدباسة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a blues at the clinic with the stapler, because the battery is low, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت البلوز جنب المسجد، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a blues next to the mosque, because the light is better there, and then we prayed</span> |
 
 

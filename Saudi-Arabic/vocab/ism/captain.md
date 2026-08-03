@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج قبطان الحين في المدرسة، عشان ما نتأخر، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a captain now at school, so we are not late, and I also took the sharp scissors</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قبطان في البقالة مع الشاحن الطويل، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a captain at the grocery with the long charger, so revision is easier, and then I turned off the light</span> |
 
 

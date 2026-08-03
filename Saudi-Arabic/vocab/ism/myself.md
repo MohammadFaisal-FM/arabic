@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج نفسي الحين على المكتب، قبل ما يبرد الأكل، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a myself now on the desk, before the food gets cold, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نفسي الحين في المحطة، قبل صلاة المغرب، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a myself now at the station, before Maghrib prayer, and I also took the short cable</span> |
 
 

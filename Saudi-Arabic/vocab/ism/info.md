@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج معلومات الحين قدام الملعب، قبل ما يبرد الأكل، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an info now in front of the pitch, before the food gets cold, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج معلومات الحين في الغرفة، بس خلّه قريب منك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an info now in the room, but keep it near you, and I also took the spare key</span> |
 
 

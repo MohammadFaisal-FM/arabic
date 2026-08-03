@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت نيويورك على الشرفة، عشان ما نتأخر، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a york on the balcony, so we are not late, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نيويورك الحين في البقالة، قبل ما يجي السائق، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a york now at the grocery, before the driver arrives, and I also took the long charger</span> |
 
 

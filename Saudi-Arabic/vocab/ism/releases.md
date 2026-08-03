@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الإصدارات في الصالون، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a releases in the living room, but keep it near you, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الإصدارات في السيارة مع الوسادة الناعمة، قبل ما يقفل المكان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a releases in the car with the soft pillow, before the place closes, and then I replied to the message</span> |
 
 

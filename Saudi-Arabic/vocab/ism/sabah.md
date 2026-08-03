@@ -14,7 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت صباح في الدرج مع الدفتر الأزرق، لأن الإضاءة أحسن هناك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a morning in the drawer with the blue notebook, because the light is better there, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">صباح الخير، نورت البيت من بدري اليوم</span> | <span class="example-en" dir="ltr" lang="en">Good morning, you brightened the house early today.</span> |
 
 
 ### Links
@@ -22,5 +22,5 @@
 | | |
 |-|-|
 | **Root family** | [ص-ب-ح](#roots/sbh) — see all word types |
-| **Fiʿl** | [صبح / يصبح](#fil/sbh) |
+| **Fiʿl** | N/A — no everyday fiʿl for this root |
 

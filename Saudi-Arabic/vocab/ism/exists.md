@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت موجود جنب النافذة مع النظارة الشمسية، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an exists beside the window with the sunglasses, because time is tight, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج موجود الحين في الحديقة، قبل ما يبرد الأكل، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need an exists now in the park, before the food gets cold, and I also took the old alarm</span> |
 
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ث-ق-ل |
-| **Meaning** | being heavy |
+| **Meaning** | heavy (ثقيل) |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -12,16 +12,14 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">الشغل ثقيل، ولقيت الكابل القصير عند الصيدلية، عشان المراجعة أسهل، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">The work is heavy, and I found the short cable at the pharmacy, so revision is easier, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">الشغل ثقيل اليوم، خلاص أخلّص بكرة الصبح</span> | <span class="example-en" dir="ltr" lang="en">The work is heavy today, I’ll just finish tomorrow morning.</span> |
 
 
 ---
 
 ## Forms Widely Used
 
-| Form | Past / present | Fiʿl |
-|------|----------------|------|
-| I | ثقل / يثقل · base meaning: being heavy | [Open](#fil/thql) |
+No everyday **fiʿl** (verb) for this root — learn the **ism** (noun) forms instead.
 
 ---
 
@@ -29,7 +27,7 @@
 
 | Type | Word | Notes / Example |
 |------|------|-----------------|
-| فعل · fiʿl (Form I) | [ثقل / يثقل · base meaning: being heavy](#fil/thql) | <span class="example-ar" dir="rtl" lang="ar">الشغل ثقيل</span><br><span class="example-en" dir="ltr" lang="en">The work is heavy</span> |
+| فعل · fiʿl (verb) | N/A | ism-only root — no everyday verb |
 | مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
 | اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
 | اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
@@ -37,5 +35,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | [ثقيل](#ism/heavy) | <span class="example-ar" dir="rtl" lang="ar">الشغل ثقيل اليوم، خلاص أخلّص بكرة الصبح</span><br><span class="example-en" dir="ltr" lang="en">The work is heavy today, I’ll just finish tomorrow morning.</span> |
 

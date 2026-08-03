@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مفتش الحين في الثلاجة، عشان الصورة تطلع أوضح، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an inspector now in the fridge, so the photo comes out clearer, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مفتش جنب النافذة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put an inspector beside the window, for studying tomorrow, and then we locked the door</span> |
 
 

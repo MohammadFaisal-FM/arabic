@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مستهلك قدام التلفاز، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a consumer in front of the TV, because work finished early, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مستهلك عند الباب مع المحفظة البنية، لأن الولد نعسان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a consumer at the door with the brown wallet, because the boy is sleepy, and then the boy slept</span> |
 
 

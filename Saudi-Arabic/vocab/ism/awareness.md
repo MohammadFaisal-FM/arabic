@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج وعي الحين عند العيادة، لأن البطارية ضعيفة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need an awareness now at the clinic, because the battery is low, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت وعي جنب المسجد مع القلم الرصاص، لأن الإضاءة أحسن هناك، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an awareness next to the mosque with the pencil, because the light is better there, and then we locked the door</span> |
 
 

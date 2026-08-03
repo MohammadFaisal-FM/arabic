@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">انكسر الجوال، ولقيت اللاصق الشفاف في الحديقة، لأن الولد نعسان، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">The phone broke, and I found the clear tape in the park, because the boy is sleepy, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">انكسر الجوال، ولقيت المفتاح الاحتياطي في البقالة، لأن الزحمة قوية، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">The phone broke, and I found the spare key at the grocery, because traffic is heavy, and then I washed my hands</span> |
 
 
 ---

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت إليزابيث عند الاستقبال، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an elizabeth at reception, so revision is easier, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إليزابيث عند الباب مع المحفظة البنية، قبل صلاة المغرب، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found an elizabeth at the door with the brown wallet, before Maghrib prayer, and then the phone rang</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج استراحه الحين في البقالة، عشان ما يضيع، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a reposing now at the grocery, so it doesn’t get lost, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت استراحه في الصالون، عشان ما يضيع، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a reposing in the living room, so it doesn’t get lost, and then I turned on the fan</span> |
 
 

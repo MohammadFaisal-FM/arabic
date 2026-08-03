@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يأخذ الحين قدام التلفاز، عشان الضيوف يوصلون، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a takes now in front of the TV, because guests are arriving, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يأخذ في المدرسة، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a takes at school, before the driver arrives, and then we laughed a bit</span> |
 
 

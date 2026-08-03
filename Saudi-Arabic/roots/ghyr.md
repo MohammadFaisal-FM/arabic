@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">غيّر رأيك، ولقيت الدفتر الأزرق جنب النافذة، عشان ما يضيع، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">Change your mind, and I found the blue notebook beside the window, so it doesn’t get lost, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">غيّر رأيك، ولقيت البطانية الخفيفة في المدرسة، عشان المراجعة أسهل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">Change your mind, and I found the light blanket at school, so revision is easier, and then I washed my hands</span> |
 
 
 ---

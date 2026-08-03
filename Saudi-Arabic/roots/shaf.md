@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أشوفك بكرة، ولقيت الوشاح الرمادي عند الباب، عشان الصورة تطلع أوضح، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I’ll see you tomorrow, and I found the grey scarf at the door, so the photo comes out clearer, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أشوفك بكرة، ولقيت البطانية الخفيفة في المدرسة، لأن الزحمة قوية، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I’ll see you tomorrow, and I found the light blanket at school, because traffic is heavy, and then I tidied the table</span> |
 
 
 ---

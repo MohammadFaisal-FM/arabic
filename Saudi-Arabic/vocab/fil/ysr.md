@@ -1,13 +1,13 @@
-# يسر
+# ييسّر
 
 | Field | Value |
 |-------|-------|
 | **Type** | فعل · fiʿl (verb) |
-| **Arabic** | يسر |
-| **Present** | ييسر |
-| **Meaning** | being easy |
+| **Arabic** | ييسّر |
+| **Present** | ييسّر |
+| **Meaning** | ease / making easy (يسير / ييسّر) · everyday formula: الله ييسّر (Form I rare as conjugated “be easy”) |
 | **Root** | [ي-س-ر](#roots/ysr) |
-| **Form** | I · يسر / ييسر · base meaning: being easy |
+| **Form** | II · ييسّر / ييسّر · everyday formula: الله ييسّر (Form I rare as conjugated “be easy”) |
 
 ---
 
@@ -15,7 +15,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">الله ييسّر</span> | <span class="example-en" dir="ltr" lang="en">May God make it easy</span> |
+| <span class="example-ar" dir="rtl" lang="ar">الله ييسّر أمرك، وخلّك ما تستعجل الشغلة</span> | <span class="example-en" dir="ltr" lang="en">May God make your matter easy, and don’t rush the task.</span> |
 
 
 ---
@@ -26,27 +26,43 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 | Pronoun | Past | Present | Future |
 |---------|------|---------|--------|
-| أنا | يسرت | أيسر | بيسر |
-| إحنا | يسرنا | نيسر | بنيسر |
-| أنت | يسرت | تيسر | بتيسر |
-| أنتِ | يسرتي | تيسرين | بتيسرين |
-| أنتم | يسرتوا | تيسرون | بتيسرون |
-| هو | يسر | ييسر | بييسر |
-| هي | يسرت | تيسر | بتيسر |
-| هم | يسروا | ييسرون | بييسرون |
+| أنا | ييسّرت | أيسّر | بيسّر |
+| إحنا | ييسّرنا | نيسّر | بنيسّر |
+| أنت | ييسّرت | تيسّر | بتيسّر |
+| أنتِ | ييسّرتي | تيسّرين | بتيسّرين |
+| أنتم | ييسّرتوا | تيسّرون | بتيسّرون |
+| هو | ييسّر | ييسّر | بييسّر |
+| هي | ييسّرت | تيسّر | بتيسّر |
+| هم | ييسّروا | ييسّرون | بييسّرون |
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">يسرت، وبعدين شفت الحمص من المكتب، لأن الضيوف يوصلون بعد شوي، وبعدها فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I did it (being easy), then I saw the chickpeas from the office, because the guests arrive soon, and then I turned on the fan</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نيسر الحين، وبعدين أحط التمر من الحديقة، قبل نهاية الدوام</span> | <span class="example-en" dir="ltr" lang="en">we do it (being easy) now, then I put the dates from the park, before the end of the workday</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتيسر بكرة، وآخذ العسل من المسبح إذا احتجته، عشان الهضم يكون أخف، وبعدها رجعت الغرفة بهدوء</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (being easy) tomorrow, and I’ll get the honey from the pool if I need it, so digestion is lighter, and then I went back to the room quietly</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">يسرتي، وبعدين شفت اللبن من الصالون، لأن الباص متأخر اليوم، وبعدين كتبنا الجملة في الدفتر</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (being easy), then I saw the yogurt drink from the living room, because the bus is late today, and then we wrote the sentence in the notebook</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تيسرون الحين، وبعدين أحط الحليب من المطبخ، قبل ما تطفى الأنوار</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (being easy) now, then I put the milk from the kitchen, before the lights go out</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بييسر بكرة، وآخذ الجبنة من الحمام إذا احتجته، عشان الاختبار يوم الأحد، وبعدها شربت شوية ميّ</span> | <span class="example-en" dir="ltr" lang="en">he will do it (being easy) tomorrow, and I’ll get the cheese from the bathroom if I need it, because the exam is on Sunday, and then I drank a bit of water</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">يسرت، وبعدين شفت البيض من الغرفة، لأن الشمس قوية برا، وبعدين قفلنا الشباك</span> | <span class="example-en" dir="ltr" lang="en">she did it (being easy), then I saw the eggs from the room, because the sun is strong outside, and then we closed the window</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">ييسرون الحين، وبعدين أحط الزيت من الشرفة، قبل ما يقفل الباب</span> | <span class="example-en" dir="ltr" lang="en">they do it (being easy) now, then I put the oil from the balcony, before the door closes</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">ييسّرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (ease / making easy (يسير / ييسّر)) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أيسّر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (ease / making easy (يسير / ييسّر)) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بيسّر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (ease / making easy (يسير / ييسّر)) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">ييسّرنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (ease / making easy (يسير / ييسّر)) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نيسّر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (ease / making easy (يسير / ييسّر)) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنيسّر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (ease / making easy (يسير / ييسّر)) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">ييسّرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (ease / making easy (يسير / ييسّر)) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تيسّر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (ease / making easy (يسير / ييسّر)) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتيسّر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (ease / making easy (يسير / ييسّر)) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">ييسّرتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (ease / making easy (يسير / ييسّر)) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تيسّرين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (ease / making easy (يسير / ييسّر)) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتيسّرين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (ease / making easy (يسير / ييسّر)) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">ييسّرتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (ease / making easy (يسير / ييسّر)) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تيسّرون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (ease / making easy (يسير / ييسّر)) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتيسّرون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (ease / making easy (يسير / ييسّر)) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">ييسّر أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (ease / making easy (يسير / ييسّر)) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">ييسّر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (ease / making easy (يسير / ييسّر)) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بييسّر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (ease / making easy (يسير / ييسّر)) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">ييسّرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (ease / making easy (يسير / ييسّر)) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تيسّر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (ease / making easy (يسير / ييسّر)) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتيسّر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (ease / making easy (يسير / ييسّر)) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">ييسّروا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (ease / making easy (يسير / ييسّر)) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">ييسّرون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (ease / making easy (يسير / ييسّر)) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بييسّرون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (ease / making easy (يسير / ييسّر)) tomorrow if the time works</span> |
 

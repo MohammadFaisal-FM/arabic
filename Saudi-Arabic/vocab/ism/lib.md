@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ليب الحين عند العيادة، عشان الصورة تطلع أوضح، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a lib now at the clinic, so the photo comes out clearer, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ليب في البقالة، قبل ما يقفل المكان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a lib at the grocery, before the place closes, and then I replied to the message</span> |
 
 

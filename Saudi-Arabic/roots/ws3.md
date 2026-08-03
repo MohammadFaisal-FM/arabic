@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | و-س-ع |
-| **Meaning** | being wide / roomy |
+| **Meaning** | wide / spacious (واسع) |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -12,16 +12,14 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">المكان واسع، ولقيت المقص الحاد قدام المصعد، إذا احتجته بعدين، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">The place is spacious, and I found the sharp scissors in front of the elevator, if you need it later, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">المكان واسع ومريح، نقدر نجتمع كلنا فيه</span> | <span class="example-en" dir="ltr" lang="en">The place is spacious and comfortable, we can all meet there.</span> |
 
 
 ---
 
 ## Forms Widely Used
 
-| Form | Past / present | Fiʿl |
-|------|----------------|------|
-| I | وسع / يوسع · base meaning: being wide / roomy | [Open](#fil/ws3) |
+No everyday **fiʿl** (verb) for this root — learn the **ism** (noun) forms instead.
 
 ---
 
@@ -29,7 +27,7 @@
 
 | Type | Word | Notes / Example |
 |------|------|-----------------|
-| فعل · fiʿl (Form I) | [وسع / يوسع · base meaning: being wide / roomy](#fil/ws3) | <span class="example-ar" dir="rtl" lang="ar">المكان واسع</span><br><span class="example-en" dir="ltr" lang="en">The place is spacious</span> |
+| فعل · fiʿl (verb) | N/A | ism-only root — no everyday verb |
 | مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
 | اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
 | اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
@@ -37,5 +35,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | [واسع](#ism/wide) | <span class="example-ar" dir="rtl" lang="ar">المكان واسع ومريح، نقدر نجتمع كلنا فيه</span><br><span class="example-en" dir="ltr" lang="en">The place is spacious and comfortable, we can all meet there.</span> |
 

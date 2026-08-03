@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج تضخم اقتصادي الحين قدام الملعب، لأن الجو حار شوي، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an inflation now in front of the pitch, because the weather is a bit hot, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تضخم اقتصادي الحين في الغرفة، عشان نلحق الموعد، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an inflation now in the room, so we make the appointment, and I also took the spare key</span> |
 
 

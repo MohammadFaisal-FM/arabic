@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت فارغ جنب النافذة، لأن الوقت ضيق، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a void beside the window, because time is tight, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فارغ على الشرفة مع البطاقة الصفراء، عشان المراجعة أسهل، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a void on the balcony with the yellow card, so revision is easier, and then we laughed a bit</span> |
 
 

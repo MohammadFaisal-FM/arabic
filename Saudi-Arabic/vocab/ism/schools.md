@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج المدارس الحين في الحديقة، لأن الوقت ضيق، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a schools now in the park, because time is tight, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المدارس في الصالون مع المنديل النظيف، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a schools in the living room with the clean tissue, so it doesn’t get lost, and then the boy slept</span> |
 
 

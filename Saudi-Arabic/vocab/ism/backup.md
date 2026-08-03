@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت نسخة احتياطية في الحقيبة، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a backup in the bag, so revision is easier, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نسخة احتياطية في المحطة، قبل صلاة المغرب، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a backup at the station, before Maghrib prayer, and then I turned on the fan</span> |
 
 

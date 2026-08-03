@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت جَرَّار في الحديقة مع المنبه القديميم، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a trailer in the park with the old alarm, if you need it later, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جَرَّار الحين في الثلاجة، عشان الدراسة بكرة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a trailer now in the fridge, for studying tomorrow, and I also took the summer hat</span> |
 
 

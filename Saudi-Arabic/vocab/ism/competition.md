@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مسابقة الحين قدام الملعب، قبل ما يبرد الأكل، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a competition now in front of the pitch, before the food gets cold, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مسابقة الحين جنب البنك، عشان الصورة تطلع أوضح، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a competition now next to the bank, so the photo comes out clearer, and I also took the empty bottle</span> |
 
 

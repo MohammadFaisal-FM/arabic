@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">حكىت، وبعدين شفت القرفة من المسبح، لأن الطريق مزدحم، وبعدها رجعت الغرفة بهدوء</span> | <span class="example-en" dir="ltr" lang="en">I did it (speaking / telling), then I saw the cinnamon from the pool, because the road is crowded, and then I went back to the room quietly</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نحكي الحين، وبعدين أحط الهيل من الصالون، قبل ما يخلص العرض</span> | <span class="example-en" dir="ltr" lang="en">we do it (speaking / telling) now, then I put the cardamom from the living room, before the offer ends</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتحكي بكرة، وآخذ النعناع من المطبخ إذا احتجته، عشان الصورة تطلع أوضح، وبعد كده رنّ الجرس</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (speaking / telling) tomorrow, and I’ll get the mint from the kitchen if I need it, so the picture comes out clearer, and then the doorbell rang</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">حكىتي، وبعدين شفت الريحان من الحمام، لأن المطر قرب يجي، وبعدها شربت شوية ميّ</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (speaking / telling), then I saw the basil from the bathroom, because rain is about to come, and then I drank a bit of water</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تحكيون الحين، وبعدين أحط الكزبرة من الغرفة، عشان ما نتأخر على الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (speaking / telling) now, then I put the cilantro from the room, so we are not late for the appointment</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيحكي بكرة، وآخذ البقدونس من الشرفة إذا احتجته، لأن البطارية ضعيفة، وبعدها مسحنا الطاولة</span> | <span class="example-en" dir="ltr" lang="en">he will do it (speaking / telling) tomorrow, and I’ll get the parsley from the balcony if I need it, because the battery is low, and then we wiped the table</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">حكىت، وبعدين شفت الثوم من السطح، قبل ما يبرد الجو أكثر، وبعد كده طفينا النور</span> | <span class="example-en" dir="ltr" lang="en">she did it (speaking / telling), then I saw the garlic from the rooftop, before the weather gets colder, and then we turned off the light</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يحكيون الحين، وبعدين أحط البصل من الصندوق، عشان المراجعة بكرة</span> | <span class="example-en" dir="ltr" lang="en">they do it (speaking / telling) now, then I put the onion from the box, for revision tomorrow</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">حكىت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (speaking / telling) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أحكي الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (speaking / telling) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بحكي بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (speaking / telling) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">حكىنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (speaking / telling) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نحكي الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (speaking / telling) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنحكي بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (speaking / telling) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">حكىت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (speaking / telling) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تحكي الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (speaking / telling) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتحكي بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (speaking / telling) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">حكىتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (speaking / telling) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تحكيين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (speaking / telling) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتحكيين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (speaking / telling) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">حكىتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (speaking / telling) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تحكيون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (speaking / telling) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتحكيون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (speaking / telling) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">حكى أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (speaking / telling) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يحكي الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (speaking / telling) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيحكي بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (speaking / telling) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">حكىت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (speaking / telling) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تحكي الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (speaking / telling) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتحكي بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (speaking / telling) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">حكىوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (speaking / telling) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يحكيون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (speaking / telling) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيحكيون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (speaking / telling) tomorrow if the time works</span> |
 

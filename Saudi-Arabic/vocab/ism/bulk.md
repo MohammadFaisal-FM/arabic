@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت حجم كبير في الصالون، عشان نلحق الموعد، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a bulk in the living room, so we make the appointment, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حجم كبير الحين عند الباب، لأن الولد نعسان، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a bulk now at the door, because the boy is sleepy, and I also took the brown wallet</span> |
 
 

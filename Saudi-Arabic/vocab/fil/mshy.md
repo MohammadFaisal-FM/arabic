@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">مشىت، وبعدين شفت الحليب من الفرن، لأن الضيوف يوصلون بعد شوي، وبعدها شربت شوية ميّ</span> | <span class="example-en" dir="ltr" lang="en">I did it (walking), then I saw the milk from the oven, because the guests arrive soon, and then I drank a bit of water</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نمشي الحين، وبعدين أحط الجبنة من الاستقبال، قبل نهاية الدوام</span> | <span class="example-en" dir="ltr" lang="en">we do it (walking) now, then I put the cheese from reception, before the end of the workday</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتمشي بكرة، وآخذ البيض من البقالة إذا احتجته، عشان الهضم يكون أخف، وبعدها مسحنا الطاولة</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (walking) tomorrow, and I’ll get the eggs from the grocery if I need it, so digestion is lighter, and then we wiped the table</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">مشىتي، وبعدين شفت الزيت من الخزانة، لأن الباص متأخر اليوم، وبعد كده طفينا النور</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (walking), then I saw the oil from the closet, because the bus is late today, and then we turned off the light</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تمشيون الحين، وبعدين أحط الملح من الإيميل، قبل ما تطفى الأنوار</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (walking) now, then I put the salt from email, before the lights go out</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيمشي بكرة، وآخذ الفلفل من الأمن إذا احتجته، عشان الاختبار يوم الأحد، وبعدها ردّينا على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">he will do it (walking) tomorrow, and I’ll get the pepper from security if I need it, because the exam is on Sunday, and then we replied to the message</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">مشىت، وبعدين شفت الكمون من الحقيبة، لأن الشمس قوية برا، وبعدين غنّينا شوي بصوت واطي</span> | <span class="example-en" dir="ltr" lang="en">she did it (walking), then I saw the cumin from the bag, because the sun is strong outside, and then we sang a bit quietly</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يمشيون الحين، وبعدين أحط الزعفران من المحطة، قبل ما يقفل الباب</span> | <span class="example-en" dir="ltr" lang="en">they do it (walking) now, then I put the saffron from the station, before the door closes</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">مشىت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (walking) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أمشي الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (walking) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بمشي بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (walking) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">مشىنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (walking) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نمشي الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (walking) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنمشي بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (walking) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">مشىت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (walking) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تمشي الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (walking) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتمشي بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (walking) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">مشىتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (walking) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تمشيين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (walking) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتمشيين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (walking) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">مشىتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (walking) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تمشيون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (walking) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتمشيون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (walking) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">مشى أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (walking) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يمشي الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (walking) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيمشي بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (walking) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">مشىت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (walking) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تمشي الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (walking) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتمشي بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (walking) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">مشىوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (walking) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يمشيون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (walking) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيمشيون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (walking) tomorrow if the time works</span> |
 

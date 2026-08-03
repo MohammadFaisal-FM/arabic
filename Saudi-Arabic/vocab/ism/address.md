@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج عنوان الحين عند الصيدلية، قبل ما يبرد الأكل، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an address now at the pharmacy, before the food gets cold, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عنوان عند الاستقبال، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put an address at reception, so the photo comes out clearer, and then I charged the device</span> |
 
 

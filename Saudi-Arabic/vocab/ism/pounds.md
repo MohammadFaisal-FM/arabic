@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت جنيه جنب النافذة مع النظارة الشمسية، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a pounds beside the window with the sunglasses, if you need it later, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جنيه في الحديقة مع المنبه القديميم، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a pounds in the park with the old alarm, for studying tomorrow, and then I drank some water</span> |
 
 

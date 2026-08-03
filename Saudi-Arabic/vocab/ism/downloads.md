@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج التنزيلات الحين قدام التلفاز، عشان الضيوف يوصلون، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a downloads now in front of the TV, because guests are arriving, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التنزيلات قدام الملعب، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a downloads in front of the pitch, so we make the appointment, and then I tidied the table</span> |
 
 

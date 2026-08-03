@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بنسلفانيا الحين في المطبخ، عشان المراجعة أسهل، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a pennsylvania now in the kitchen, so revision is easier, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بنسلفانيا الحين قدام المصعد، قبل صلاة المغرب، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a pennsylvania now in front of the elevator, before Maghrib prayer, and I also took the empty carton</span> |
 
 

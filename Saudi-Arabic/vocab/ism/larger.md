@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أكبر الحين في الحديقة، لأن البطارية ضعيفة، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a larger now in the park, because the battery is low, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أكبر في الدرج، عشان نلحق الموعد، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a larger in the drawer, so we make the appointment, and then I wrote a note</span> |
 
 

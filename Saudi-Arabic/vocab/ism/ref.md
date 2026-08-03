@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت المرجع في الصالون مع المنديل النظيف، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a ref in the living room with the clean tissue, because work finished early, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج المرجع الحين عند الباب، قبل صلاة المغرب، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a ref now at the door, before Maghrib prayer, and I also took the brown wallet</span> |
 
 

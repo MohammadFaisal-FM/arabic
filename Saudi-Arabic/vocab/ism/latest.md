@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت أحدث في الصالون، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a latest in the living room, but keep it near you, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أحدث قدام التلفاز مع الجورب الأبيض، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a latest in front of the TV with the white sock, before Maghrib prayer, and then the boy slept</span> |
 
 

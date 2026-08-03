@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ارم الحين في المطبخ، قبل ما يقفل المكان، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a toss now in the kitchen, before the place closes, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ارم الحين في المدرسة، قبل ما يقفل المكان، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a toss now at school, before the place closes, and I also took the sharp scissors</span> |
 
 

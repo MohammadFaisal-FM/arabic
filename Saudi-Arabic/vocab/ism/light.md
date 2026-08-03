@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ضوء الحين في المحطة، عشان نلحق الموعد، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a light now at the station, so we make the appointment, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ضوء في المكتبة مع الملعقة الصغيرة، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a light in the library with the small spoon, if you need it later, and then I wiped the floor</span> |
 
 

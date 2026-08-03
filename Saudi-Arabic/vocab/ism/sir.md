@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج سيد الحين جنب المسجد، لأن الوقت ضيق، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a sir now next to the mosque, because time is tight, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سيد جنب النافذة مع النظارة الشمسية، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a sir beside the window with the sunglasses, before the food gets cold, and then we locked the door</span> |
 
 

@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «فـ» في الجملة، وحطينا الكابل القصير في المحطة، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">We used “فـ” (so / then) in the sentence, and put the short cable at the station, but keep it near you, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «فـ» في الجملة، وحطينا الغطاء الشفاف عند الصيدلية، عشان الضيوف يوصلون، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">We used “فـ” (so / then) in the sentence, and put the clear cover at the pharmacy, because guests are arriving, and then I washed my hands</span> |
 

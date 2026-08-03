@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت فحص جنب المسجد، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put an examination next to the mosque, because time is tight, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فحص الحين جنب النافذة، قبل ما يبرد الأكل، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need an examination now beside the window, before the food gets cold, and I also took the sunglasses</span> |
 
 

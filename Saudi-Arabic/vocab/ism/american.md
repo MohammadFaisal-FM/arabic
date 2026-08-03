@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت أمريكي جنب النافذة مع النظارة الشمسية، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an american beside the window with the sunglasses, because time is tight, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أمريكي الحين عند العيادة، لأن الإضاءة أحسن هناك، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need an american now at the clinic, because the light is better there, and I also took the stapler</span> |
 
 

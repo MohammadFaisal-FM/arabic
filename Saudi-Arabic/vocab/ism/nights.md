@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الليالي في المحطة، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a nights at the station, because work finished early, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الليالي في الصالون مع المنديل النظيف، قبل صلاة المغرب، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a nights in the living room with the clean tissue, before Maghrib prayer, and then I turned on the fan</span> |
 
 

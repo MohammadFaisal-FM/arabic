@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج المشاريع الحين جنب المسجد، إذا احتجته بعدين، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a projects now next to the mosque, if you need it later, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت المشاريع في الحقيبة، عشان الصورة تطلع أوضح، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a projects in the bag, so the photo comes out clearer, and then I closed the window</span> |
 
 

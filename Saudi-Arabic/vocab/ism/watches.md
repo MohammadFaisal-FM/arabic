@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الساعات قدام التلفاز مع الجورب الأبيض، لأن الشغل خلص بدري، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a watches in front of the TV with the white sock, because work finished early, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الساعات في المدرسة مع المقص الحاد، لأن الزحمة قوية، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a watches at school with the sharp scissors, because traffic is heavy, and then we laughed a bit</span> |
 
 

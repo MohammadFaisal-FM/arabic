@@ -14,7 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت كتابة على المكتب مع البطانية الخفيفة، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a writing on the desk with the light blanket, because the light is better there, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كتابة الحين عند الباب، عشان ما يضيع، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a writing now at the door, so it doesn’t get lost, and I also took the brown wallet</span> |
 
 
 ### Links

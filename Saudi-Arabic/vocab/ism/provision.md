@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت رزق عند الاستقبال، عشان المراجعة أسهل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a provision at reception, so revision is easier, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رزق في الحقيبة مع الحذاء النظيف، عشان الصورة تطلع أوضح، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a provision in the bag with the clean shoes, so the photo comes out clearer, and then I wiped the floor</span> |
 
 

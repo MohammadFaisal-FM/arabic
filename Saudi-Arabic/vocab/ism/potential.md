@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج محتمل الحين عند العيادة، لأن الوقت ضيق، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a potential now at the clinic, because time is tight, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت محتمل عند الصيدلية مع الغطاء الشفاف، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a potential at the pharmacy with the clear cover, because work finished early, and then I wrote a note</span> |
 
 

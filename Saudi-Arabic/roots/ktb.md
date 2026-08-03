@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أكتب رسالة، ولقيت الكابل القصير عند الصيدلية، لأن الزحمة قوية، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I’m writing a letter, and I found the short cable at the pharmacy, because traffic is heavy, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أكتب رسالة، ولقيت الكرتون الفاضي عند الاستقبال، لأن البطارية ضعيفة، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I’m writing a letter, and I found the empty carton at reception, because the battery is low, and then I turned on the fan</span> |
 
 
 ---
@@ -32,13 +32,13 @@
 |------|------|-----------------|
 | فعل · fiʿl (Form I) | [كتب / يكتب · base meaning: writing](#fil/ktb) | <span class="example-ar" dir="rtl" lang="ar">أكتب رسالة</span><br><span class="example-en" dir="ltr" lang="en">I’m writing a letter</span> |
 | فعل · fiʿl (Form II) | [كتّب / يكتّب · make write / dictate](#fil/ktb-ii) | <span class="example-ar" dir="rtl" lang="ar">أكتب رسالة</span><br><span class="example-en" dir="ltr" lang="en">I’m writing a letter</span> |
-| مصدر · masdar (verbal noun) | [كتابة](#ism/kitaba) | <span class="example-ar" dir="rtl" lang="ar">لقيت كتابة على المكتب مع البطانية الخفيفة، لأن الإضاءة أحسن هناك، وبعدين رتّبت الطاولة</span><br><span class="example-en" dir="ltr" lang="en">I found a writing on the desk with the light blanket, because the light is better there, and then I tidied the table</span> |
-| اسم فاعل · ism fāʿil (doer) | [كاتب](#ism/katib) | <span class="example-ar" dir="rtl" lang="ar">لقيت كاتب جنب النافذة مع النظارة الشمسية، إذا احتجته بعدين، وبعدين قفلنا الباب</span><br><span class="example-en" dir="ltr" lang="en">I found a writer beside the window with the sunglasses, if you need it later, and then we locked the door</span> |
+| مصدر · masdar (verbal noun) | [كتابة](#ism/kitaba) | <span class="example-ar" dir="rtl" lang="ar">أحتاج كتابة الحين عند الباب، عشان ما يضيع، وخذيت كمان المحفظة البنية</span><br><span class="example-en" dir="ltr" lang="en">I need a writing now at the door, so it doesn’t get lost, and I also took the brown wallet</span> |
+| اسم فاعل · ism fāʿil (doer) | [كاتب](#ism/katib) | <span class="example-ar" dir="rtl" lang="ar">أحتاج كاتب الحين قدام الملعب، لأن الشغل خلص بدري، وخذيت كمان اللاصق الشفاف</span><br><span class="example-en" dir="ltr" lang="en">I need a writer now in front of the pitch, because work finished early, and I also took the clear tape</span> |
 | اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
-| اسم مكان · ism makān (place) | [مكتب](#ism/maktab) | <span class="example-ar" dir="rtl" lang="ar">حطّيت مكتب عند الباب، عشان نلحق الموعد، وبعدين فتحت المروحة</span><br><span class="example-en" dir="ltr" lang="en">I put an office at the door, so we make the appointment, and then I turned on the fan</span> |
-| اسم مكان · ism makān (place) | [مكتبة](#ism/maktaba) | <span class="example-ar" dir="rtl" lang="ar">حطّيت مكتبة جنب النافذة، لأن الوقت ضيق، وبعد كده صلّينا</span><br><span class="example-en" dir="ltr" lang="en">I put a library beside the window, because time is tight, and then we prayed</span> |
+| اسم مكان · ism makān (place) | [مكتب](#ism/maktab) | <span class="example-ar" dir="rtl" lang="ar">لقيت مكتب في المدرسة مع المقص الحاد، قبل ما يجي السائق، وبعدها طفّيت النور</span><br><span class="example-en" dir="ltr" lang="en">I found an office at school with the sharp scissors, before the driver arrives, and then I turned off the light</span> |
+| اسم مكان · ism makān (place) | [مكتبة](#ism/maktaba) | <span class="example-ar" dir="rtl" lang="ar">لقيت مكتبة قدام الملعب مع اللاصق الشفاف، عشان نلحق الموعد، وبعدين كتبت ملاحظة</span><br><span class="example-en" dir="ltr" lang="en">I found a library in front of the pitch with the clear tape, so we make the appointment, and then I wrote a note</span> |
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [كتاب](#ism/kitab) | <span class="example-ar" dir="rtl" lang="ar">لقيت كتاب في السيارة مع الوسادة الناعمة، عشان ما يضيع، وبعد كده ضحكنا شوي</span><br><span class="example-en" dir="ltr" lang="en">I found a book in the car with the soft pillow, so it doesn’t get lost, and then we laughed a bit</span> |
+| اسم · ism (noun / other) | [كتاب](#ism/kitab) | <span class="example-ar" dir="rtl" lang="ar">أحتاج كتاب الحين في المطبخ، إذا احتجته بعدين، وخذيت كمان الملف الورقي</span><br><span class="example-en" dir="ltr" lang="en">I need a book now in the kitchen, if you need it later, and I also took the paper file</span> |
 

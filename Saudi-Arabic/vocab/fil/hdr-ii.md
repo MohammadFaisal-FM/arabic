@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">حضّرت، وبعدين شفت الحليب من الإيميل، قبل ما تطفى الأنوار، وبعدين رتبنا الكراتين</span> | <span class="example-en" dir="ltr" lang="en">I did it (attending / preparing), then I saw the milk from email, before the lights go out, and then we arranged the boxes</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نحضّر الحين، وبعدين أحط الجبنة من الأمن، عشان الاختبار يوم الأحد</span> | <span class="example-en" dir="ltr" lang="en">we do it (attending / preparing) now, then I put the cheese from security, because the exam is on Sunday</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتحضّر بكرة، وآخذ البيض من الحقيبة إذا احتجته، لأن الشمس قوية برا، وبعدين غنّينا شوي بصوت واطي</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (attending / preparing) tomorrow, and I’ll get the eggs from the bag if I need it, because the sun is strong outside, and then we sang a bit quietly</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">حضّرتي، وبعدين شفت الزيت من المحطة، قبل ما يقفل الباب، وبعدها ضحكنا من الموقف</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (attending / preparing), then I saw the oil from the station, before the door closes, and then we laughed at the situation</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تحضّرون الحين، وبعدين أحط الملح من الصيدلية، عشان ما يضيع شيء</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (attending / preparing) now, then I put the salt from the pharmacy, so nothing gets lost</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيحضّر بكرة، وآخذ الفلفل من المكتبة إذا احتجته، لأن الوقت ضيق شوي، وبعدين صلّينا المغرب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (attending / preparing) tomorrow, and I’ll get the pepper from the library if I need it, because time is a bit tight, and then we prayed Maghrib</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">حضّرت، وبعدين شفت الكمون من المكتب، قبل ما يبدأ الاجتماع، وبعدها فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">she did it (attending / preparing), then I saw the cumin from the office, before the meeting starts, and then I turned on the fan</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يحضّرون الحين، وبعدين أحط الزعفران من الحديقة، عشان نلحق الصلاة</span> | <span class="example-en" dir="ltr" lang="en">they do it (attending / preparing) now, then I put the saffron from the park, so we make prayer on time</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">حضّرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (attending / preparing) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أحضّر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (attending / preparing) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بحضّر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (attending / preparing) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">حضّرنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (attending / preparing) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نحضّر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (attending / preparing) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنحضّر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (attending / preparing) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">حضّرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (attending / preparing) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تحضّر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (attending / preparing) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتحضّر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (attending / preparing) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">حضّرتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (attending / preparing) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تحضّرين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (attending / preparing) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتحضّرين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (attending / preparing) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">حضّرتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (attending / preparing) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تحضّرون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (attending / preparing) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتحضّرون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (attending / preparing) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">حضّر أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (attending / preparing) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يحضّر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (attending / preparing) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيحضّر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (attending / preparing) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">حضّرت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (attending / preparing) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تحضّر الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (attending / preparing) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتحضّر بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (attending / preparing) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">حضّروا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (attending / preparing) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يحضّرون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (attending / preparing) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيحضّرون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (attending / preparing) tomorrow if the time works</span> |
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج موسيقى الجاز الحين عند الاستقبال، لأن الزحمة قوية، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a jazz now at reception, because traffic is heavy, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت موسيقى الجاز عند الباب، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a jazz at the door, so we are not late, and then the phone rang</span> |
 
 

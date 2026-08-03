@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مار الحين في المكتبة، لأن الزحمة قوية، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a mar now in the library, because traffic is heavy, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مار في الدرج، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a mar in the drawer, because guests are arriving, and then I tidied the table</span> |
 
 

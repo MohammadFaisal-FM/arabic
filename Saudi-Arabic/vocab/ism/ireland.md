@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أيرلندا الحين في الحديقة، إذا احتجته بعدين، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need an ireland now in the park, if you need it later, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أيرلندا في الدرج، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put an ireland in the drawer, but keep it near you, and then I washed my hands</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت أنطونيو في الصالون، عشان الضيوف يوصلون، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put an antonio in the living room, because guests are arriving, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أنطونيو الحين عند الباب، عشان ما يضيع، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an antonio now at the door, so it doesn’t get lost, and I also took the brown wallet</span> |
 
 

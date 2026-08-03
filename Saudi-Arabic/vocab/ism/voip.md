@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الصوت عبر بروتوكول الإنترنت الحين جنب المسجد، إذا احتجته بعدين، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a voip now next to the mosque, if you need it later, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الصوت عبر بروتوكول الإنترنت جنب النافذة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a voip beside the window, for studying tomorrow, and then we locked the door</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أصول الحين في المحطة، لأن الشغل خلص بدري، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need an assets now at the station, because work finished early, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أصول جنب المسجد، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an assets next to the mosque, for studying tomorrow, and then I drank some water</span> |
 
 

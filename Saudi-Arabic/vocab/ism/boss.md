@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج رئيس الحين في البقالة، قبل صلاة المغرب، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a boss now at the grocery, before Maghrib prayer, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت رئيس في الدرج، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a boss in the drawer, because guests are arriving, and then I tidied the table</span> |
 
 

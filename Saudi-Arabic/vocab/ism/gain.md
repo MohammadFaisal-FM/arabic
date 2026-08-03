@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يكسب الحين عند العيادة، لأن الوقت ضيق، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a gain now at the clinic, because time is tight, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يكسب في البقالة مع الشاحن الطويل، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a gain at the grocery with the long charger, so revision is easier, and then I turned off the light</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت كل شئ في الحديقة مع المنبه القديميم، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an everything in the park with the old alarm, because time is tight, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كل شئ عند الاستقبال، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put an everything at reception, if you need it later, and then I wiped the floor</span> |
 
 

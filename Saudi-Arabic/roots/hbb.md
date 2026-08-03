@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحب القهوة، ولقيت النظارة الشمسية جنب البنك، عشان نلحق الموعد، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I love coffee, and I found the sunglasses next to the bank, so we make the appointment, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحب القهوة، ولقيت المحفظة البنية في الغرفة، لأن الوقت ضيق، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I love coffee, and I found the brown wallet in the room, because time is tight, and then the phone rang</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [حب](#ism/7ub) | <span class="example-ar" dir="rtl" lang="ar">لقيت حب على المكتب مع البطانية الخفيفة، عشان الدراسة بكرة، وبعدها غسّلت يديني</span><br><span class="example-en" dir="ltr" lang="en">I found a love on the desk with the light blanket, for studying tomorrow, and then I washed my hands</span> |
+| اسم · ism (noun / other) | [حب](#ism/7ub) | <span class="example-ar" dir="rtl" lang="ar">أحتاج حب الحين جنب النافذة، عشان الدراسة بكرة، وخذيت كمان النظارة الشمسية</span><br><span class="example-en" dir="ltr" lang="en">I need a love now beside the window, for studying tomorrow, and I also took the sunglasses</span> |
 

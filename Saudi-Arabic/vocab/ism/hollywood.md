@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج هوليوود الحين في المحطة، لأن الشغل خلص بدري، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a hollywood now at the station, because work finished early, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت هوليوود في الصالون، قبل صلاة المغرب، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a hollywood in the living room, before Maghrib prayer, and then the phone rang</span> |
 
 

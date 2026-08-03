@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج قضية الحين في المطبخ، لأن الزحمة قوية، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a case now in the kitchen, because traffic is heavy, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قضية الحين في المحطة، قبل صلاة المغرب، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a case now at the station, before Maghrib prayer, and I also took the short cable</span> |
 
 

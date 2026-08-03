@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت منافسة في الحديقة مع المنبه القديميم، لأن الوقت ضيق، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a rival in the park with the old alarm, because time is tight, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت منافسة جنب المسجد، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a rival next to the mosque, because the light is better there, and then we prayed</span> |
 
 

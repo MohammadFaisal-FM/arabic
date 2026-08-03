@@ -5,9 +5,9 @@
 | **Type** | فعل · fiʿl (verb) |
 | **Arabic** | هدى |
 | **Present** | يهدي |
-| **Meaning** | calming / guiding |
+| **Meaning** | gifting (هدية) / guiding · everyday: gift someone something; also religious “guide” |
 | **Root** | [ه-د-ي](#roots/hdy) |
-| **Form** | I · هدى / يهدي · base meaning: calming / guiding |
+| **Form** | I · هدى / يهدي · everyday: gift someone something; also religious “guide” |
 
 ---
 
@@ -15,7 +15,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">اهدأ شوي</span> | <span class="example-en" dir="ltr" lang="en">Calm down a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أهديك هالكتاب لأنّي أعرف تحب القراءة</span> | <span class="example-en" dir="ltr" lang="en">I’ll gift you this book because I know you love reading.</span> |
 
 
 ---
@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">هدىت، وبعدين شفت المرآة من الحقيبة، عشان ما نتأخر على الموعد، وبعدين غنّينا شوي بصوت واطي</span> | <span class="example-en" dir="ltr" lang="en">I did it (calming / guiding), then I saw the mirror from the bag, so we are not late for the appointment, and then we sang a bit quietly</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نهدي الحين، وبعدين أحط المنبه من المحطة، لأن البطارية ضعيفة</span> | <span class="example-en" dir="ltr" lang="en">we do it (calming / guiding) now, then I put the alarm clock from the station, because the battery is low</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتهدي بكرة، وآخذ التقويم من الصيدلية إذا احتجته، قبل ما يبرد الجو أكثر، وبعد كده نام الولد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (calming / guiding) tomorrow, and I’ll get the calendar from the pharmacy if I need it, before the weather gets colder, and then the boy fell asleep</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">هدىتي، وبعدين شفت الدبوس من المكتبة، عشان المراجعة بكرة، وبعدين صلّينا المغرب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (calming / guiding), then I saw the pin from the library, for revision tomorrow, and then we prayed Maghrib</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تهديون الحين، وبعدين أحط الملف من المكتب، لأن الضيوف يوصلون بعد شوي</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (calming / guiding) now, then I put the file from the office, because the guests arrive soon</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيهدي بكرة، وآخذ الظرف من الحديقة إذا احتجته، قبل نهاية الدوام، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">he will do it (calming / guiding) tomorrow, and I’ll get the envelope from the park if I need it, before the end of the workday, and then I charged the device</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">هدىت، وبعدين شفت الطابع من المسبح، عشان الهضم يكون أخف، وبعدها رجعت الغرفة بهدوء</span> | <span class="example-en" dir="ltr" lang="en">she did it (calming / guiding), then I saw the stamp from the pool, so digestion is lighter, and then I went back to the room quietly</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يهديون الحين، وبعدين أحط الجواز من الصالون، لأن الباص متأخر اليوم</span> | <span class="example-en" dir="ltr" lang="en">they do it (calming / guiding) now, then I put the passport from the living room, because the bus is late today</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">هدىت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (gifting (هدية) / guiding) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أهدي الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (gifting (هدية) / guiding) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بهدي بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (gifting (هدية) / guiding) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">هدىنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (gifting (هدية) / guiding) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نهدي الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (gifting (هدية) / guiding) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنهدي بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (gifting (هدية) / guiding) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">هدىت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (gifting (هدية) / guiding) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تهدي الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (gifting (هدية) / guiding) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتهدي بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (gifting (هدية) / guiding) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">هدىتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (gifting (هدية) / guiding) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تهديين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (gifting (هدية) / guiding) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتهديين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (gifting (هدية) / guiding) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">هدىتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (gifting (هدية) / guiding) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تهديون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (gifting (هدية) / guiding) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتهديون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (gifting (هدية) / guiding) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">هدى أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (gifting (هدية) / guiding) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يهدي الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (gifting (هدية) / guiding) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيهدي بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (gifting (هدية) / guiding) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">هدىت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (gifting (هدية) / guiding) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تهدي الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (gifting (هدية) / guiding) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتهدي بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (gifting (هدية) / guiding) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">هدىوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (gifting (هدية) / guiding) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يهديون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (gifting (هدية) / guiding) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيهديون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (gifting (هدية) / guiding) tomorrow if the time works</span> |
 

@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ه-د-ي |
-| **Meaning** | calming / guiding |
+| **Meaning** | gifting (هدية) / guiding |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">اهدأ شوي، ولقيت المنبه القديميم عند الاستقبال، بس خلّه قريب منك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">Calm down a bit, and I found the old alarm at reception, but keep it near you, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أهديك هالكتاب لأنّي أعرف تحب القراءة</span> | <span class="example-en" dir="ltr" lang="en">I’ll gift you this book because I know you love reading.</span> |
 
 
 ---
@@ -21,7 +21,7 @@
 
 | Form | Past / present | Fiʿl |
 |------|----------------|------|
-| I | هدى / يهدي · base meaning: calming / guiding | [Open](#fil/hdy) |
+| I | هدى / يهدي · everyday: gift someone something; also religious “guide” | [Open](#fil/hdy) |
 
 ---
 
@@ -29,7 +29,7 @@
 
 | Type | Word | Notes / Example |
 |------|------|-----------------|
-| فعل · fiʿl (Form I) | [هدى / يهدي · base meaning: calming / guiding](#fil/hdy) | <span class="example-ar" dir="rtl" lang="ar">اهدأ شوي</span><br><span class="example-en" dir="ltr" lang="en">Calm down a bit</span> |
+| فعل · fiʿl (Form I) | [هدى / يهدي · everyday: gift someone something; also religious “guide”](#fil/hdy) | <span class="example-ar" dir="rtl" lang="ar">أهديك هالكتاب لأنّي أعرف تحب القراءة</span><br><span class="example-en" dir="ltr" lang="en">I’ll gift you this book because I know you love reading.</span> |
 | مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
 | اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
 | اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | [هدية](#ism/gift) | <span class="example-ar" dir="rtl" lang="ar">جاب لي هدية بسيطة من السفر، وبسطتني مرّة</span><br><span class="example-en" dir="ltr" lang="en">He brought me a small gift from the trip, and it made me really happy.</span> |
 

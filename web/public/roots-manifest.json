@@ -117,6 +117,194 @@
   ],
   "roots": [
     {
+      "id": "abd",
+      "root": "أ-ب-د",
+      "letter": "أ",
+      "meaning": "eternity / never (أبداً)",
+      "formI": "—",
+      "example": "أبدا ما راح أسوي كذا، لأنّي أعرف إنه بيطلع بنتائج سيئة — I will never do this, because I know it will have bad results.",
+      "file": "roots/abd.md",
+      "forms": [],
+      "ismIds": [
+        "ever",
+        "abd-abdy"
+      ]
+    },
+    {
+      "id": "abr",
+      "root": "أ-ب-ر",
+      "letter": "أ",
+      "meaning": "needle / injection (إبرة)",
+      "formI": "—",
+      "example": "خذيت إبرة في العيادة أمس لأنّي كنت مريض، والحين أحسن — I got a shot at the clinic yesterday because I was sick, and now I feel better.",
+      "file": "roots/abr.md",
+      "forms": [],
+      "ismIds": [
+        "online-048"
+      ]
+    },
+    {
+      "id": "abl",
+      "root": "أ-ب-ل",
+      "letter": "أ",
+      "meaning": "camels (إبل)",
+      "formI": "—",
+      "example": "شفت قطيع إبل في الطريق للقصيم، وكان المنظر رهيب — I saw a herd of camels on the way to Qassim, and the view was amazing.",
+      "file": "roots/abl.md",
+      "forms": [],
+      "ismIds": [
+        "abl-ibl"
+      ]
+    },
+    {
+      "id": "abn",
+      "root": "أ-ب-ن",
+      "letter": "أ",
+      "meaning": "son (ابن)",
+      "formI": "—",
+      "example": "هذا محمد بن عبدالله، وهو جاري من زمان — This is Mohammad bin Abdullah, and he’s been my neighbor for a long time.",
+      "file": "roots/abn.md",
+      "forms": [],
+      "ismIds": [
+        "son"
+      ]
+    },
+    {
+      "id": "abw",
+      "root": "أ-ب-و",
+      "letter": "أ",
+      "meaning": "father (أب / أبو)",
+      "formI": "—",
+      "example": "أبوي يشتغل في الرياض أيام الدوام، عشان كذا أمّي في البيت مع العيال — My dad works in Riyadh on workdays, so my mum is at home with the kids.",
+      "file": "roots/abw.md",
+      "forms": [],
+      "ismIds": [
+        "ab",
+        "abw-abw"
+      ]
+    },
+    {
+      "id": "athr",
+      "root": "أ-ث-ر",
+      "letter": "أ",
+      "meaning": "effect / influence (أثر)",
+      "formI": "أثّر / يؤثر",
+      "example": "أثّرت عليه بكلامي، وهو كمان أثّر عليّ بردّه — I affected him with my words, and he also affected me with his reply.",
+      "file": "roots/athr.md",
+      "forms": [
+        {
+          "form": "II",
+          "verb": "أثّر / يؤثر",
+          "note": "everyday: affect / influence — use على (عليه / عليّ)",
+          "example": "أثّرت عليه بكلامي، وهو كمان أثّر عليّ بردّه — I affected him with my words, and he also affected me with his reply.",
+          "conjExamples": [
+            {
+              "ar": "أثّرت عليه أمس، وصار يفكّر بالموضوع طول الليل",
+              "en": "I affected him yesterday, and he kept thinking about the topic all night"
+            },
+            {
+              "ar": "أأثر على قراره الحين إذا تكلّمت بهدوء",
+              "en": "I affect / influence his decision now if I speak calmly"
+            },
+            {
+              "ar": "بأثر عليه بكرة لما أقوله رأيي بصراحة",
+              "en": "I will affect him tomorrow when I tell him my opinion frankly"
+            },
+            {
+              "ar": "أثّرنا عليهم بالمثال، وصاروا يطبّقون الفكرة",
+              "en": "We affected them with the example, and they started applying the idea"
+            },
+            {
+              "ar": "نأثر على الفريق إذا اشتغلنا بجد كل يوم",
+              "en": "We influence the team if we work hard every day"
+            },
+            {
+              "ar": "بنأثر عليهم بكرة في الاجتماع بكلام واضح",
+              "en": "We will influence them tomorrow in the meeting with clear talk"
+            },
+            {
+              "ar": "أثّرت على قراره لما نصحته بدون ضغط",
+              "en": "You (m.) influenced his decision when you advised him without pressure"
+            },
+            {
+              "ar": "تأثر عليه الحين إذا كنت صادق معه",
+              "en": "You (m.) affect him now if you are honest with him"
+            },
+            {
+              "ar": "بتأثر على قراره بكرة إذا جبت له أرقام واضحة",
+              "en": "You (m.) will influence his decision tomorrow if you bring him clear numbers"
+            },
+            {
+              "ar": "أثّرتي عليّ بكلمتك، وصرت أشوف الموضوع بشكل ثاني",
+              "en": "You (f.) affected me with your word, and I started seeing the topic differently"
+            },
+            {
+              "ar": "تأثرين على إخوتك إذا كنتي قدوة حلوة",
+              "en": "You (f.) influence your siblings if you are a good example"
+            },
+            {
+              "ar": "بتأثرين عليه بكرة إذا حكيتي معه بهدوء",
+              "en": "You (f.) will affect him tomorrow if you talk with him calmly"
+            },
+            {
+              "ar": "أثّرتوا على الصف كله بحماسكم أمس",
+              "en": "You (pl.) affected the whole class with your enthusiasm yesterday"
+            },
+            {
+              "ar": "تؤثرون عليّ إذا كنتم صادقين، لأنّي أثق في كلامكم",
+              "en": "You (pl.) affect me if you are honest, because I trust what you say"
+            },
+            {
+              "ar": "بتأثرون على القرار بكرة إذا حضرتوا الاجتماع",
+              "en": "You (pl.) will influence the decision tomorrow if you attend the meeting"
+            },
+            {
+              "ar": "أثّر عليّ كلام أخوي، وصرت أهدى من أول",
+              "en": "My brother’s words affected me, and I became calmer than before"
+            },
+            {
+              "ar": "يأثر على الناس بأسلوبه الهادئ كل مرة يتكلم",
+              "en": "He influences people with his calm style every time he speaks"
+            },
+            {
+              "ar": "بيأثر على قرار المدير بكرة إذا قدّم خطة قوية",
+              "en": "He will influence the manager’s decision tomorrow if he presents a strong plan"
+            },
+            {
+              "ar": "أثّرت عليه الأخبار، وصار قلقان طول الطريق",
+              "en": "The news affected him, and he became worried the whole way"
+            },
+            {
+              "ar": "تأثر على تركيزي إذا كانت الغرفة فيها ضوضاء",
+              "en": "It (she) affects my focus if the room is noisy"
+            },
+            {
+              "ar": "بتأثر عليه القصة بكرة لما يسمعها كامل",
+              "en": "The story will affect him tomorrow when he hears it fully"
+            },
+            {
+              "ar": "أثّروا عليّ بتصرفاتهم، بس حاولت ما آخذها على محمل شخصي",
+              "en": "They affected me with their behavior, but I tried not to take it personally"
+            },
+            {
+              "ar": "يأثرون على الجو العام إذا كانوا إيجابيين",
+              "en": "They influence the overall mood if they are positive"
+            },
+            {
+              "ar": "بيأثرون على النتيجة بكرة إذا اشتغلوا سوا",
+              "en": "They will affect the result tomorrow if they work together"
+            }
+          ]
+        }
+      ],
+      "filId": "athr",
+      "ismIds": [
+        "effect",
+        "trail",
+        "athr-mwthr"
+      ]
+    },
+    {
       "id": "akhd",
       "root": "أ-خ-ذ",
       "letter": "أ",
@@ -246,13 +434,14 @@
       "id": "aty",
       "root": "أ-ت-ي",
       "letter": "أ",
-      "meaning": "coming / bringing",
-      "formI": "أتى / ياتي",
-      "example": "متى تجي؟ — When are you coming?",
+      "meaning": "coming (MSA أتى; Najdi = جا / يجي)",
+      "formI": "—",
+      "example": "متى تجي؟ خلّني أرتّب الغرفة قبل لا توصل — When are you coming? Let me tidy the room before you arrive.",
       "file": "roots/aty.md",
-      "forms": null,
-      "filId": "aty",
-      "ismIds": []
+      "forms": [],
+      "ismIds": [
+        "aty-mjy"
+      ]
     },
     {
       "id": "bda",
@@ -388,13 +577,14 @@
       "id": "thql",
       "root": "ث-ق-ل",
       "letter": "ث",
-      "meaning": "being heavy",
-      "formI": "ثقل / يثقل",
-      "example": "الشغل ثقيل — The work is heavy",
+      "meaning": "heavy (ثقيل)",
+      "formI": "—",
+      "example": "الشغل ثقيل اليوم، خلاص أخلّص بكرة الصبح — The work is heavy today, I’ll just finish tomorrow morning.",
       "file": "roots/thql.md",
-      "forms": null,
-      "filId": "thql",
-      "ismIds": []
+      "forms": [],
+      "ismIds": [
+        "heavy"
+      ]
     },
     {
       "id": "jls",
@@ -686,13 +876,14 @@
       "id": "dhhb",
       "root": "ذ-ه-ب",
       "letter": "ذ",
-      "meaning": "going",
-      "formI": "ذهب / يذهب",
-      "example": "وين تروح؟ — Where are you going?",
+      "meaning": "going (MSA ذهب; Najdi = راح / يروح)",
+      "formI": "—",
+      "example": "وين تروح؟ أنا باخذ معك إذا تبغى — Where are you going? I’ll come with you if you want.",
       "file": "roots/dhhb.md",
-      "forms": null,
-      "filId": "dhhb",
-      "ismIds": []
+      "forms": [],
+      "ismIds": [
+        "dhhb-dhhab"
+      ]
     },
     {
       "id": "dhkr",
@@ -734,12 +925,11 @@
       "id": "ray",
       "root": "ر-ا-ي",
       "letter": "ر",
-      "meaning": "seeing",
-      "formI": "رأى / يرى",
-      "example": "شفتك أمس — I saw you yesterday",
+      "meaning": "seeing / opinion (MSA رأى; Najdi see = شاف)",
+      "formI": "—",
+      "example": "شفتك أمس في السوق، بس ما قدرت أسلم عليك — I saw you yesterday at the market, but I couldn’t say salaam.",
       "file": "roots/ray.md",
-      "forms": null,
-      "filId": "ray",
+      "forms": [],
       "ismIds": [
         "ray-n"
       ]
@@ -777,13 +967,14 @@
       "id": "rgb",
       "root": "ر-غ-ب",
       "letter": "ر",
-      "meaning": "desiring",
-      "formI": "رغب / يرغب",
-      "example": "أرغب في القهوة — I’d like coffee",
+      "meaning": "desire (MSA رغب; Najdi = بغى)",
+      "formI": "—",
+      "example": "أبغى قهوة الحين، لأنّي نعسان شوي — I want coffee now, because I’m a bit sleepy.",
       "file": "roots/rgb.md",
-      "forms": null,
-      "filId": "rgb",
-      "ismIds": []
+      "forms": [],
+      "ismIds": [
+        "rgb-rghbh"
+      ]
     },
     {
       "id": "zwr",
@@ -1004,12 +1195,11 @@
       "id": "sbh",
       "root": "ص-ب-ح",
       "letter": "ص",
-      "meaning": "becoming morning / waking",
-      "formI": "صبح / يصبح",
-      "example": "صباح الخير — Good morning",
+      "meaning": "morning (صباح)",
+      "formI": "—",
+      "example": "صباح الخير، نورت البيت من بدري اليوم — Good morning, you brightened the house early today.",
       "file": "roots/sbh.md",
-      "forms": null,
-      "filId": "sbh",
+      "forms": [],
       "ismIds": [
         "sabah"
       ]
@@ -1331,12 +1521,11 @@
       "id": "f3l",
       "root": "ف-ع-ل",
       "letter": "ف",
-      "meaning": "doing",
-      "formI": "فعل / يفعل",
-      "example": "وش أسوي؟ — What should I do?",
+      "meaning": "doing (grammar root; everyday = سوى)",
+      "formI": "—",
+      "example": "وش أسوي الحين؟ خلّني أفكّر شوي قبل لا أرد — What should I do now? Let me think a bit before I reply.",
       "file": "roots/f3l.md",
-      "forms": null,
-      "filId": "f3l",
+      "forms": [],
       "ismIds": [
         "fil-n"
       ]
@@ -1565,13 +1754,14 @@
       "id": "lzm",
       "root": "ل-ز-م",
       "letter": "ل",
-      "meaning": "must / sticking",
-      "formI": "لزم / يلزم",
-      "example": "لازم أروح — I must go",
+      "meaning": "must / necessary (لازم)",
+      "formI": "—",
+      "example": "لازم أروح بدري عشان ما أفوت الموعد — I must go early so I don’t miss the appointment.",
       "file": "roots/lzm.md",
-      "forms": null,
-      "filId": "lzm",
-      "ismIds": []
+      "forms": [],
+      "ismIds": [
+        "lzm-lazm"
+      ]
     },
     {
       "id": "mshy",
@@ -1726,13 +1916,22 @@
       "id": "hdy",
       "root": "ه-د-ي",
       "letter": "ه",
-      "meaning": "calming / guiding",
+      "meaning": "gifting (هدية) / guiding",
       "formI": "هدى / يهدي",
-      "example": "اهدأ شوي — Calm down a bit",
+      "example": "أهديك هالكتاب لأنّي أعرف تحب القراءة — I’ll gift you this book because I know you love reading.",
       "file": "roots/hdy.md",
-      "forms": null,
+      "forms": [
+        {
+          "form": "I",
+          "verb": "هدى / يهدي",
+          "note": "everyday: gift someone something; also religious “guide”",
+          "example": "أهديك هالكتاب لأنّي أعرف تحب القراءة — I’ll gift you this book because I know you love reading."
+        }
+      ],
       "filId": "hdy",
-      "ismIds": []
+      "ismIds": [
+        "gift"
+      ]
     },
     {
       "id": "wsl",
@@ -1773,25 +1972,27 @@
       "id": "wd3",
       "root": "و-ض-ع",
       "letter": "و",
-      "meaning": "placing",
-      "formI": "وضع / يوضع",
-      "example": "حطها / ضعها هنا — Put it here",
+      "meaning": "placing / situation (MSA وضع; Najdi put = حطّ)",
+      "formI": "—",
+      "example": "حطها هنا على الطاولة، عشان ما تضيع — Put it here on the table so it doesn’t get lost.",
       "file": "roots/wd3.md",
-      "forms": null,
-      "filId": "wd3",
-      "ismIds": []
+      "forms": [],
+      "ismIds": [
+        "mode"
+      ]
     },
     {
       "id": "wjd",
       "root": "و-ج-د",
       "letter": "و",
-      "meaning": "finding / existing",
-      "formI": "وجد / يوجد",
-      "example": "لقيت / ما فيه — I found it / there isn’t",
+      "meaning": "finding / existing (MSA وجد; Najdi = لقى / فيه)",
+      "formI": "—",
+      "example": "لقيت المفتاح تحت الشنطة، والحمد لله ما تأخرنا — I found the key under the bag, and thank God we weren’t late.",
       "file": "roots/wjd.md",
-      "forms": null,
-      "filId": "wjd",
-      "ismIds": []
+      "forms": [],
+      "ismIds": [
+        "wjd-wjwd"
+      ]
     },
     {
       "id": "wld",
@@ -1811,25 +2012,35 @@
       "id": "ws3",
       "root": "و-س-ع",
       "letter": "و",
-      "meaning": "being wide / roomy",
-      "formI": "وسع / يوسع",
-      "example": "المكان واسع — The place is spacious",
+      "meaning": "wide / spacious (واسع)",
+      "formI": "—",
+      "example": "المكان واسع ومريح، نقدر نجتمع كلنا فيه — The place is spacious and comfortable, we can all meet there.",
       "file": "roots/ws3.md",
-      "forms": null,
-      "filId": "ws3",
-      "ismIds": []
+      "forms": [],
+      "ismIds": [
+        "wide"
+      ]
     },
     {
       "id": "ysr",
       "root": "ي-س-ر",
       "letter": "ي",
-      "meaning": "being easy",
-      "formI": "يسر / ييسر",
-      "example": "الله ييسّر — May God make it easy",
+      "meaning": "ease / making easy (يسير / ييسّر)",
+      "formI": "ييسّر / ييسّر",
+      "example": "الله ييسّر أمرك، وخلّك ما تستعجل الشغلة — May God make your matter easy, and don’t rush the task.",
       "file": "roots/ysr.md",
-      "forms": null,
+      "forms": [
+        {
+          "form": "II",
+          "verb": "ييسّر / ييسّر",
+          "note": "everyday formula: الله ييسّر (Form I rare as conjugated “be easy”)",
+          "example": "الله ييسّر أمرك، وخلّك ما تستعجل الشغلة — May God make your matter easy, and don’t rush the task."
+        }
+      ],
       "filId": "ysr",
-      "ismIds": []
+      "ismIds": [
+        "ysr-ysyr"
+      ]
     },
     {
       "id": "ybs",

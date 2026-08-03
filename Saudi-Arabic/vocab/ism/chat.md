@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج محادثة الحين قدام التلفاز، لأن الشغل خلص بدري، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a chat now in front of the TV, because work finished early, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت محادثة جنب النافذة، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a chat beside the window, before the food gets cold, and then we prayed</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مسلسل في الحديقة، لأن البطارية ضعيفة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a series in the park, because the battery is low, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مسلسل جنب المسجد مع القلم الرصاص، لأن الجو حار شوي، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a series next to the mosque with the pencil, because the weather is a bit hot, and then we locked the door</span> |
 
 

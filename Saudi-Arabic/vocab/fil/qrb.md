@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">قربت، وبعدين شفت الخبز الطازج من الكرسي، قبل ما تطفى الأنوار، وبعدين صلّينا المغرب</span> | <span class="example-en" dir="ltr" lang="en">I did it (approaching), then I saw the fresh bread from the chair, before the lights go out, and then we prayed Maghrib</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نقرب الحين، وبعدين أحط الرسالة من السيارة، عشان الاختبار يوم الأحد</span> | <span class="example-en" dir="ltr" lang="en">we do it (approaching) now, then I put the message from the car, because the exam is on Sunday</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتقرب بكرة، وآخذ الخريطة من الرف إذا احتجته، لأن الشمس قوية برا، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (approaching) tomorrow, and I’ll get the map from the shelf if I need it, because the sun is strong outside, and then I charged the device</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">قربتي، وبعدين شفت الشمسية من التطبيق، قبل ما يقفل الباب، وبعدها رجعت الغرفة بهدوء</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (approaching), then I saw the sunshade from the app, before the door closes, and then I went back to the room quietly</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تقربون الحين، وبعدين أحط كتب الأطفال من الدرج، عشان ما يضيع شيء</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (approaching) now, then I put the children’s books from the drawer, so nothing gets lost</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيقرب بكرة، وآخذ الزيتون واللبنة من الثلاجة إذا احتجته، لأن الوقت ضيق شوي، وبعد كده رنّ الجرس</span> | <span class="example-en" dir="ltr" lang="en">he will do it (approaching) tomorrow, and I’ll get the olives and labneh from the fridge if I need it, because time is a bit tight, and then the doorbell rang</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">قربت، وبعدين شفت الشاي الأخضر من الفرن، قبل ما يبدأ الاجتماع، وبعدها شربت شوية ميّ</span> | <span class="example-en" dir="ltr" lang="en">she did it (approaching), then I saw the green tea from the oven, before the meeting starts, and then I drank a bit of water</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يقربون الحين، وبعدين أحط الحذاء الرياضي من الاستقبال، عشان نلحق الصلاة</span> | <span class="example-en" dir="ltr" lang="en">they do it (approaching) now, then I put the running shoes from reception, so we make prayer on time</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">قربت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (approaching) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أقرب الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (approaching) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بقرب بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (approaching) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">قربنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (approaching) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نقرب الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (approaching) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنقرب بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (approaching) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">قربت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (approaching) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تقرب الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (approaching) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتقرب بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (approaching) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">قربتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (approaching) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تقربين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (approaching) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتقربين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (approaching) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">قربتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (approaching) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تقربون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (approaching) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتقربون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (approaching) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">قرب أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (approaching) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يقرب الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (approaching) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيقرب بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (approaching) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">قربت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (approaching) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تقرب الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (approaching) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتقرب بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (approaching) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">قربوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (approaching) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يقربون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (approaching) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيقربون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (approaching) tomorrow if the time works</span> |
 

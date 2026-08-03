@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت زائدة جنب البنك مع الزجاجة الفارغة، قبل ما يقفل المكان، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an appendix next to the bank with the empty bottle, before the place closes, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت زائدة عند الاستقبال، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put an appendix at reception, if you need it later, and then I wiped the floor</span> |
 
 

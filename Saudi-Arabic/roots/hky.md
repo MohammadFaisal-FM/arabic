@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">احكي لي، ولقيت القبعة الصيفية في المطبخ، عشان الضيوف يوصلون، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">Tell me, and I found the summer hat in the kitchen, because guests are arriving, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">احكي لي، ولقيت الجورب الأبيض في المطبخ، لأن البطارية ضعيفة، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">Tell me, and I found the white sock in the kitchen, because the battery is low, and then I turned on the fan</span> |
 
 
 ---

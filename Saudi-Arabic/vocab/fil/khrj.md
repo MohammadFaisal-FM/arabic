@@ -37,16 +37,32 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 ### Examples
 
-Multi-clause sentences with new everyday words. Arabic and English stay in separate columns.
+One example for each **pronoun × tense** (past / present / future). Arabic and English stay in separate columns.
 
-| Pronoun | Arabic | English |
-|---------|--------|---------|
-| أنا | <span class="example-ar" dir="rtl" lang="ar">خرجت، وبعدين شفت البسكويت من الدرج، عشان ما يضيع شيء، وبعدين كتبنا الجملة في الدفتر</span> | <span class="example-en" dir="ltr" lang="en">I did it (going out), then I saw the biscuits from the drawer, so nothing gets lost, and then we wrote the sentence in the notebook</span> |
-| إحنا | <span class="example-ar" dir="rtl" lang="ar">نخرج الحين، وبعدين أحط الشوكولاتة من الثلاجة، لأن الوقت ضيق شوي</span> | <span class="example-en" dir="ltr" lang="en">we do it (going out) now, then I put the chocolate from the fridge, because time is a bit tight</span> |
-| أنت | <span class="example-ar" dir="rtl" lang="ar">بتخرج بكرة، وآخذ الآيسكريم من الفرن إذا احتجته، قبل ما يبدأ الاجتماع، وبعدها شربت شوية ميّ</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (going out) tomorrow, and I’ll get the ice cream from the oven if I need it, before the meeting starts, and then I drank a bit of water</span> |
-| أنتِ | <span class="example-ar" dir="rtl" lang="ar">خرجتي، وبعدين شفت العصير الطبيعي من الاستقبال، عشان نلحق الصلاة، وبعدين قفلنا الشباك</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (going out), then I saw the fresh juice from reception, so we make prayer on time, and then we closed the window</span> |
-| أنتم | <span class="example-ar" dir="rtl" lang="ar">تخرجون الحين، وبعدين أحط السمoothie من البقالة، لأن الطريق مزدحم</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (going out) now, then I put the smoothie from the grocery, because the road is crowded</span> |
-| هو | <span class="example-ar" dir="rtl" lang="ar">بيخرج بكرة، وآخذ الماء الغازي من الخزانة إذا احتجته، قبل ما يخلص العرض، وبعد كده طفينا النور</span> | <span class="example-en" dir="ltr" lang="en">he will do it (going out) tomorrow, and I’ll get the sparkling water from the closet if I need it, before the offer ends, and then we turned off the light</span> |
-| هي | <span class="example-ar" dir="rtl" lang="ar">خرجت، وبعدين شفت المشروب الغازي من الإيميل، عشان الصورة تطلع أوضح، وبعدين رتبنا الكراتين</span> | <span class="example-en" dir="ltr" lang="en">she did it (going out), then I saw the soft drink from email, so the picture comes out clearer, and then we arranged the boxes</span> |
-| هم | <span class="example-ar" dir="rtl" lang="ar">يخرجون الحين، وبعدين أحط الثلج من الأمن، لأن المطر قرب يجي</span> | <span class="example-en" dir="ltr" lang="en">they do it (going out) now, then I put the ice from security, because rain is about to come</span> |
+| Pronoun | Tense | Arabic | English |
+|---------|-------|--------|---------|
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">خرجت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">I did it (going out) yesterday so we finished the task early</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أخرج الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">I do it (going out) now so the appointment isn’t late</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بخرج بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">I will do it (going out) tomorrow if the time works</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">خرجنا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">we did it (going out) yesterday so we finished the task early</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نخرج الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">we do it (going out) now so the appointment isn’t late</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنخرج بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">we will do it (going out) tomorrow if the time works</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">خرجت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (m.) did it (going out) yesterday so we finished the task early</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تخرج الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (m.) do it (going out) now so the appointment isn’t late</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتخرج بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (m.) will do it (going out) tomorrow if the time works</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">خرجتي أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (f.) did it (going out) yesterday so we finished the task early</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تخرجين الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (f.) do it (going out) now so the appointment isn’t late</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتخرجين بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (f.) will do it (going out) tomorrow if the time works</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">خرجتوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) did it (going out) yesterday so we finished the task early</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تخرجون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) do it (going out) now so the appointment isn’t late</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتخرجون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">you (pl.) will do it (going out) tomorrow if the time works</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">خرج أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">he did it (going out) yesterday so we finished the task early</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يخرج الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">he do it (going out) now so the appointment isn’t late</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيخرج بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">he will do it (going out) tomorrow if the time works</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">خرجت أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">she did it (going out) yesterday so we finished the task early</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تخرج الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">she do it (going out) now so the appointment isn’t late</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتخرج بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">she will do it (going out) tomorrow if the time works</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">خرجوا أمس عشان خلّصنا الشغلة بدري</span> | <span class="example-en" dir="ltr" lang="en">they did it (going out) yesterday so we finished the task early</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يخرجون الحين عشان ما يتأخر الموعد</span> | <span class="example-en" dir="ltr" lang="en">they do it (going out) now so the appointment isn’t late</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيخرجون بكرة إذا صار الوقت مناسب</span> | <span class="example-en" dir="ltr" lang="en">they will do it (going out) tomorrow if the time works</span> |
 

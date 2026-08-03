@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج استعداد الحين في المكتبة، قبل ما يجي السائق، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a ready now in the library, before the driver arrives, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت استعداد في البقالة، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a ready at the grocery, before the driver arrives, and then I replied to the message</span> |
 
 

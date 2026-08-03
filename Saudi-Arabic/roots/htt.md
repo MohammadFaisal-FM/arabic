@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطها هنا، ولقيت الحذاء النظيف في المدرسة، لأن الجو حار شوي، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">Put it here, and I found the clean shoes at school, because the weather is a bit hot, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطها هنا، ولقيت البطانية الخفيفة في المدرسة، قبل ما يقفل المكان، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">Put it here, and I found the light blanket at school, before the place closes, and then I wrote a note</span> |
 
 
 ---

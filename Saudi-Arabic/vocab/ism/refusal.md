@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج رفض الحين في المكتبة، لأن الزحمة قوية، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a refusal now in the library, because traffic is heavy, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت رفض عند الاستقبال، لأن البطارية ضعيفة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a refusal at reception, because the battery is low, and then I closed the window</span> |
 
 

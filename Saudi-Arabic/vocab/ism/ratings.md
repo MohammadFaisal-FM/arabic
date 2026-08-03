@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج التقييمات الحين على الشرفة، عشان ما نتأخر، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a ratings now on the balcony, so we are not late, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التقييمات عند الاستقبال مع الكوب الزجاج، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a ratings at reception with the glass cup, if you need it later, and then I charged the device</span> |
 
 

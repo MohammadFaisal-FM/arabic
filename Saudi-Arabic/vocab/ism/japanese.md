@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اليابانية الحين قدام الملعب، قبل ما يبرد الأكل، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a japanese now in front of the pitch, before the food gets cold, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اليابانية الحين قدام المصعد، قبل صلاة المغرب، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a japanese now in front of the elevator, before Maghrib prayer, and I also took the empty carton</span> |
 
 

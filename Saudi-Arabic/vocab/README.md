@@ -4,8 +4,8 @@ Three word-type libraries used by the app tabs. They **overlap** with Roots for 
 
 | Tab | Folder | Count | Notes |
 |-----|--------|------:|-------|
-| **Ism** | [ism/](ism/) | 3005 | Nouns + loanwords |
-| **Fiʿl** | [fil/](fil/) | 131 | Verbs (from roots) |
+| **Ism** | [ism/](ism/) | 3015 | Nouns + loanwords |
+| **Fiʿl** | [fil/](fil/) | 121 | Verbs (from roots) |
 | **Ḥarf** | [harf/](harf/) | 48 | Particles (no roots) |
 
 Edit sources:

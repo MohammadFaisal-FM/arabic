@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">فقدت المفتاح، ولقيت الغطاء الشفاف في الثلاجة، عشان ما نتأخر، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I lost the key, and I found the clear cover in the fridge, so we are not late, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">فقدت المفتاح، ولقيت الدفتر الأزرق في السيارة، قبل ما يجي السائق، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I lost the key, and I found the blue notebook in the car, before the driver arrives, and then I tidied the table</span> |
 
 
 ---

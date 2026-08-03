@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن طفل شوي، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">We talked about a child a bit, if you need it later, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت طفل عند الصيدلية، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I saw a child at the pharmacy, because work finished early, and then I wrote a note</span> |
 
 

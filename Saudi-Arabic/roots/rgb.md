@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Root** | ر-غ-ب |
-| **Meaning** | desiring |
+| **Meaning** | desire (MSA رغب; Najdi = بغى) |
 | **Dialect** | Everyday Saudi / Najdi + MSA where common |
 
 ---
@@ -12,16 +12,14 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أرغب في القهوة، ولقيت اللاصق الشفاف في الحديقة، عشان ما نتأخر، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I’d like coffee, and I found the clear tape in the park, so we are not late, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أبغى قهوة الحين، لأنّي نعسان شوي</span> | <span class="example-en" dir="ltr" lang="en">I want coffee now, because I’m a bit sleepy.</span> |
 
 
 ---
 
 ## Forms Widely Used
 
-| Form | Past / present | Fiʿl |
-|------|----------------|------|
-| I | رغب / يرغب · base meaning: desiring | [Open](#fil/rgb) |
+No everyday **fiʿl** (verb) for this root — learn the **ism** (noun) forms instead.
 
 ---
 
@@ -29,7 +27,7 @@
 
 | Type | Word | Notes / Example |
 |------|------|-----------------|
-| فعل · fiʿl (Form I) | [رغب / يرغب · base meaning: desiring](#fil/rgb) | <span class="example-ar" dir="rtl" lang="ar">أرغب في القهوة</span><br><span class="example-en" dir="ltr" lang="en">I’d like coffee</span> |
+| فعل · fiʿl (verb) | N/A | ism-only root — no everyday verb |
 | مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
 | اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
 | اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
@@ -37,5 +35,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | N/A | not common / not listed yet |
+| اسم · ism (noun / other) | [رغبة](#ism/rgb-rghbh) | <span class="example-ar" dir="rtl" lang="ar">لقيت رغبة في المطبخ مع الملف الورقي، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span><br><span class="example-en" dir="ltr" lang="en">I found a desire in the kitchen with the paper file, so the photo comes out clearer, and then I charged the device</span> |
 

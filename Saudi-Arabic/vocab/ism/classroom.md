@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الفصول الدراسية الحين في الحديقة، لأن البطارية ضعيفة، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a classroom now in the park, because the battery is low, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الفصول الدراسية في الثلاجة مع القبعة الصيفية، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a classroom in the fridge with the summer hat, because the light is better there, and then I drank some water</span> |
 
 

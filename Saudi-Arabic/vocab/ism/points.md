@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج نقاط الحين في المطبخ، لأن الزحمة قوية، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a points now in the kitchen, because traffic is heavy, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نقاط الحين على الشرفة، قبل ما يقفل المكان، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a points now on the balcony, before the place closes, and I also took the yellow card</span> |
 
 

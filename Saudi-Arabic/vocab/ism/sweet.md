@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت حلو في الصالون، بس خلّه قريب منك، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a sweet in the living room, but keep it near you, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حلو جنب النافذة مع النظارة الشمسية، لأن الجو حار شوي، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a sweet beside the window with the sunglasses, because the weather is a bit hot, and then we prayed</span> |
 
 

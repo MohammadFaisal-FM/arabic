@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت اتصالات في الصالون مع المنديل النظيف، لأن الشغل خلص بدري، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a contacts in the living room with the clean tissue, because work finished early, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اتصالات الحين جنب النافذة، عشان الدراسة بكرة، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a contacts now beside the window, for studying tomorrow, and I also took the sunglasses</span> |
 
 

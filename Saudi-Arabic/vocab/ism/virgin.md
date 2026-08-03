@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بِكر الحين على الشرفة، قبل صلاة المغرب، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a virgin now on the balcony, before Maghrib prayer, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بِكر في الدرج، عشان نلحق الموعد، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a virgin in the drawer, so we make the appointment, and then I wrote a note</span> |
 
 

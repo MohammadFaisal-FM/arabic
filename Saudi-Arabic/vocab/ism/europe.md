@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أوروبا الحين في المطبخ، قبل ما يقفل المكان، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an europe now in the kitchen, before the place closes, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أوروبا على الشرفة، قبل ما يجي السائق، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put an europe on the balcony, before the driver arrives, and then I turned off the light</span> |
 
 

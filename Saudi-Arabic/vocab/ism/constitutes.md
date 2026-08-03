@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يشكل الحين في المطبخ، لأن الزحمة قوية، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a constitutes now in the kitchen, because traffic is heavy, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يشكل الحين قدام المصعد، عشان ما نتأخر، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a constitutes now in front of the elevator, so we are not late, and I also took the empty carton</span> |
 
 

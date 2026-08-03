@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ساعات عند الاستقبال مع الكوب الزجاج، عشان المراجعة أسهل، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a hours at reception with the glass cup, so revision is easier, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ساعات الحين في الحقيبة، عشان الصورة تطلع أوضح، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a hours now in the bag, so the photo comes out clearer, and I also took the clean shoes</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج إعادة التأهيل الحين في المحطة، لأن الشغل خلص بدري، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a rehabilitation now at the station, because work finished early, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت إعادة التأهيل قدام المصعد، لأن الولد نعسان، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a rehabilitation in front of the elevator, because the boy is sleepy, and then I turned on the fan</span> |
 
 

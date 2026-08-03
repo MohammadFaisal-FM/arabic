@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مِلك الرجال قدام التلفاز مع الجورب الأبيض، بس خلّه قريب منك، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a mens in front of the TV with the white sock, but keep it near you, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مِلك الرجال في المحطة مع الكابل القصير، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a mens at the station with the short cable, so we are not late, and then the phone rang</span> |
 
 

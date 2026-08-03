@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «حتى» في الجملة، وحطينا النظارة الشمسية جنب النافذة، إذا احتجته بعدين، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">We used “حتى” (until / even) in the sentence, and put the sunglasses beside the window, if you need it later, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «حتى» في الجملة، وحطينا الزجاجة الفارغة جنب البنك، عشان الصورة تطلع أوضح، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">We used “حتى” (until / even) in the sentence, and put the empty bottle next to the bank, so the photo comes out clearer, and then I closed the window</span> |
 

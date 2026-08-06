@@ -10,8 +10,9 @@ Songs we share or discover on the Arabic learning journey.
 | 2 | لو تقدر تنساني | Unknown | Gulf / Najdi · romantic | [02-law-teqdar-tansani.md](02-law-teqdar-tansani.md) | 2026-07-27 |
 | 3 | بس وينه (Bas Wenah) | زايد بن سابر · Zayed Bin Saber | Khaliji / Saudi · romantic | [03-bas-wenah.md](03-bas-wenah.md) | 2026-07-27 |
 | 4 | على حسب وداد قلبي (Ala Hesb Wedad) | عبد الحليم حافظ · Abdel Halim Hafez | Egyptian · classic / shaabi | [04-ala-hesb-wedad.md](04-ala-hesb-wedad.md) | 2026-07-29 |
+| 5 | قلبي مجروح · طب وين أروح (Qalbi Majrooh) | محمد البصيلي · Mohamed Elbosely | Egyptian · shaabi / heartbreak | [05-qalbi-majrooh.md](05-qalbi-majrooh.md) | 2026-08-06 |
 
-**Total songs:** 4
+**Total songs:** 5
 
 ---
 

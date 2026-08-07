@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج جولات الحين عند العيادة، عشان الدراسة بكرة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a tours now at the clinic, for studying tomorrow, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جولات في المدرسة مع الدباسة، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a tours at school with the stapler, for studying tomorrow, and then I drank some water</span> |
 
 

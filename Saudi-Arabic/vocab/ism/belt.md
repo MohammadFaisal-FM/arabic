@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت حزام عند الاستقبال مع الكوب الزجاج، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a belt at reception with the glass cup, if you need it later, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حزام في الصالون، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a belt in the living room, if you need it later, and then I charged the device</span> |
 
 

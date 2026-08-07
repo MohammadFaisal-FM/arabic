@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج انجاز الحين على الشرفة، عشان المراجعة أسهل، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a completion now on the balcony, so revision is easier, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت انجاز في الغرفة مع البطاقة الصفراء، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a completion in the room with the yellow card, so revision is easier, and then I turned off the light</span> |
 
 

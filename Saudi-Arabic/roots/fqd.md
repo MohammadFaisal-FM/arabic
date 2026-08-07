@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">فقدت المفتاح، ولقيت الدفتر الأزرق في السيارة، قبل ما يجي السائق، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I lost the key, and I found the blue notebook in the car, before the driver arrives, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">فقدت المفتاح، ولقيت الدفتر الأزرق على المكتب، قبل ما يجي السائق، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I lost the key, and I found the blue notebook on the desk, before the driver arrives, and then I tidied the table</span> |
 
 
 ---

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت غرفة نوم في الصالون مع المنديل النظيف، عشان ما نتأخر، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a bedroom in the living room with the clean tissue, so we are not late, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت غرفة نوم جنب المسجد، عشان ما نتأخر، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a bedroom next to the mosque, so we are not late, and then the boy slept</span> |
 
 

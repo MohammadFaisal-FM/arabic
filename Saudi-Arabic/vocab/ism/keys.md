@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مفاتيح جنب المسجد، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a keys next to the mosque, before the food gets cold, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مفاتيح الحين في البقالة، قبل ما يبرد الأكل، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a keys now at the grocery, before the food gets cold, and I also took the pencil</span> |
 
 

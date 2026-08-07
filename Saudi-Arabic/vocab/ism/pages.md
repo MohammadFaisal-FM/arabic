@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الصفحات الحين جنب البنك، إذا احتجته بعدين، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a pages now next to the bank, if you need it later, and I also took the empty bottle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الصفحات في المحطة مع الزجاجة الفارغة، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a pages at the station with the empty bottle, if you need it later, and then I wiped the floor</span> |
 
 

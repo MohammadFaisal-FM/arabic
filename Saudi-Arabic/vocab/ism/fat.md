@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج سمين الحين في المطبخ، لأن البطارية ضعيفة، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a fat now in the kitchen, because the battery is low, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سمين عند الباب مع الملف الورقي، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a fat at the door with the paper file, because the battery is low, and then I wiped the floor</span> |
 
 

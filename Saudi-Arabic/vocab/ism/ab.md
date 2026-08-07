@@ -14,7 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أبوي يشتغل في الرياض أيام الدوام، عشان كذا أمّي في البيت مع العيال</span> | <span class="example-en" dir="ltr" lang="en">My dad works in Riyadh on workdays, so my mum is at home with the kids.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أبوي يداوم في الرياض، عشان كذا أمّي تقعد في البيت مع العيال</span> | <span class="example-en" dir="ltr" lang="en">My dad works (commutes/jobs) in Riyadh, so my mum stays at home with the kids.</span> |
 
 
 ### Links

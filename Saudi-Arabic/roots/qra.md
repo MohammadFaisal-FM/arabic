@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أقرأ كتاب، ولقيت المنديل النظيف في الحقيبة، لأن الوقت ضيق، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I’m reading a book, and I found the clean tissue in the bag, because time is tight, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أقرأ كتاب، ولقيت المنديل النظيف قدام التلفاز، لأن الوقت ضيق، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I’m reading a book, and I found the clean tissue in front of the TV, because time is tight, and then the phone rang</span> |
 
 
 ---

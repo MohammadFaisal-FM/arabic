@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت نفقات عند الصيدلية، عشان الضيوف يوصلون، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put an expenses at the pharmacy, because guests are arriving, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نفقات الحين في المكتبة، عشان الضيوف يوصلون، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an expenses now in the library, because guests are arriving, and I also took the clear cover</span> |
 
 

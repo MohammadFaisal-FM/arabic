@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت جسم عند الاستقبال، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a body at reception, if you need it later, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جسم الحين في الصالون، إذا احتجته بعدين، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a body now in the living room, if you need it later, and I also took the glass cup</span> |
 
 

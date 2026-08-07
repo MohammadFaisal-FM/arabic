@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت بندقية في الثلاجة، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a rifle in the fridge, before the food gets cold, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج بندقية الحين تحت السرير، قبل ما يبرد الأكل، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a rifle now under the bed, before the food gets cold, and I also took the summer hat</span> |
 
 

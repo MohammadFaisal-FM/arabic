@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ما أخاف، ولقيت الدفتر الأزرق في السيارة، لأن الزحمة قوية، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I’m not afraid, and I found the blue notebook in the car, because traffic is heavy, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ما أخاف، ولقيت الدفتر الأزرق على المكتب، لأن الزحمة قوية، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I’m not afraid, and I found the blue notebook on the desk, because traffic is heavy, and then I washed my hands</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [خوف](#ism/khawf) | <span class="example-ar" dir="rtl" lang="ar">أحتاج خوف الحين عند الاستقبال، إذا احتجته بعدين، وخذيت كمان الكوب الزجاج</span><br><span class="example-en" dir="ltr" lang="en">I need a fear now at reception, if you need it later, and I also took the glass cup</span> |
+| اسم · ism (noun / other) | [خوف](#ism/khawf) | <span class="example-ar" dir="rtl" lang="ar">لقيت خوف في الصالون مع الكوب الزجاج، إذا احتجته بعدين، وبعدها سكّرت الشباك</span><br><span class="example-en" dir="ltr" lang="en">I found a fear in the living room with the glass cup, if you need it later, and then I closed the window</span> |
 

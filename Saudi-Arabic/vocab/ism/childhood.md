@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن طفولة شوي، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">We talked about a childhood a bit, because work finished early, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">طفولة كان/كانت في الحقيبة، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">a childhood was in the bag, because work finished early, and then I washed my hands</span> |
 
 

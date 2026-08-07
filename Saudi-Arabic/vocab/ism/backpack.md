@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت حقيبة ظهر قدام الملعب، عشان الضيوف يوصلون، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a backpack in front of the pitch, because guests are arriving, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حقيبة ظهر الحين في المطبخ، عشان الضيوف يوصلون، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a backpack now in the kitchen, because guests are arriving, and I also took the clear tape</span> |
 
 

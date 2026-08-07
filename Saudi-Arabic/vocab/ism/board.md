@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج سبورة الحين عند الصيدلية، لأن الشغل خلص بدري، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a board now at the pharmacy, because work finished early, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سبورة في المكتبة مع الغطاء الشفاف، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a board in the library with the clear cover, because work finished early, and then I washed my hands</span> |
 
 

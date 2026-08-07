@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج عقل الحين عند الاستقبال، إذا احتجته بعدين، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a mind now at reception, if you need it later, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عقل في الصالون مع الكوب الزجاج، إذا احتجته بعدين، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a mind in the living room with the glass cup, if you need it later, and then I closed the window</span> |
 
 

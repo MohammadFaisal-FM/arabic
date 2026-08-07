@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت حاد في البقالة مع الشاحن الطويل، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a sharp at the grocery with the long charger, before the driver arrives, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت حاد عند الصيدلية، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a sharp at the pharmacy, before the driver arrives, and then we laughed a bit</span> |
 
 

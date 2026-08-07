@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج المقابلات الحين عند العيادة، قبل ما يبرد الأكل، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need an interviews now at the clinic, before the food gets cold, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المقابلات في المدرسة مع الدباسة، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an interviews at school with the stapler, before the food gets cold, and then we locked the door</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مطر الحين على المكتب، لأن الشغل خلص بدري، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a rain now on the desk, because work finished early, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مطر في الحقيبة مع البطانية الخفيفة، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a rain in the bag with the light blanket, because work finished early, and then I wrote a note</span> |
 
 

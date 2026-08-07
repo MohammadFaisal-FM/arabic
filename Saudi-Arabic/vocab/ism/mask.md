@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج قناع الحين في المحطة، عشان ما يضيع، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a mask now at the station, so it doesn’t get lost, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قناع عند العيادة مع الكابل القصير، عشان ما يضيع، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a mask at the clinic with the short cable, so it doesn’t get lost, and then I turned on the fan</span> |
 
 

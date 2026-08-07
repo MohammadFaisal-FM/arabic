@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مين في الحديقة مع المنبه القديميم، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a maine in the park with the old alarm, for studying tomorrow, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مين على الشرفة، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a maine on the balcony, for studying tomorrow, and then I drank some water</span> |
 
 

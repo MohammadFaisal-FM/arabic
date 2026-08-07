@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت أبريل قدام التلفاز مع الجورب الأبيض، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found an april in front of the TV with the white sock, so we are not late, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أبريل في الثلاجة، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an april in the fridge, so we are not late, and then the phone rang</span> |
 
 

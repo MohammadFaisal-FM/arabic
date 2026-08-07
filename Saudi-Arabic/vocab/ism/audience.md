@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت جمهور على المكتب مع البطانية الخفيفة، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an audience on the desk with the light blanket, because work finished early, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت جمهور في الحقيبة، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put an audience in the bag, because work finished early, and then I tidied the table</span> |
 
 

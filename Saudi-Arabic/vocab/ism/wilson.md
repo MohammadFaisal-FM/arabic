@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت ويلسون عند الصيدلية، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I saw a wilson at the pharmacy, but keep it near you, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن ويلسون شوي، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">We talked about a wilson a bit, but keep it near you, and then I washed my hands</span> |
 
 

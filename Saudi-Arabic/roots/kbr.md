@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كبر الولد، ولقيت الزجاجة الفارغة عند الصيدلية، بس خلّه قريب منك، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">The boy grew up, and I found the empty bottle at the pharmacy, but keep it near you, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">كبر الولد، ولقيت الزجاجة الفارغة في المكتبة، بس خلّه قريب منك، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">The boy grew up, and I found the empty bottle in the library, but keep it near you, and then I charged the device</span> |
 
 
 ---

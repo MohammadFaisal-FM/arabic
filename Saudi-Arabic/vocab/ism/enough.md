@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت كافٍ عند الباب، عشان ما يضيع، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an enough at the door, so it doesn’t get lost, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كافٍ الحين جنب النافذة، عشان ما يضيع، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an enough now beside the window, so it doesn’t get lost, and I also took the brown wallet</span> |
 
 

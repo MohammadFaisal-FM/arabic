@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت غرض جنب النافذة، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an item beside the window, because the light is better there, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج غرض الحين في السيارة، لأن الإضاءة أحسن هناك، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need an item now in the car, because the light is better there, and I also took the sunglasses</span> |
 
 

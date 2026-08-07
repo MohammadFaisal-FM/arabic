@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">خرجت من البيت، ولقيت الوشاح الرمادي جنب النافذة، عشان الدراسة بكرة، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I left the house, and I found the grey scarf beside the window, for studying tomorrow, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">خرجت من البيت، ولقيت الوشاح الرمادي في السيارة، عشان الدراسة بكرة، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I left the house, and I found the grey scarf in the car, for studying tomorrow, and then I replied to the message</span> |
 
 
 ---

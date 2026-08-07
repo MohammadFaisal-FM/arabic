@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت باكستان في المدرسة، لأن الزحمة قوية، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a pakistan at school, because traffic is heavy, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت باكستان قدام الملعب، لأن الزحمة قوية، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a pakistan in front of the pitch, because traffic is heavy, and then I replied to the message</span> |
 
 

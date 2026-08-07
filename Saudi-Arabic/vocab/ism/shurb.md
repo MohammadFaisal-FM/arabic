@@ -14,7 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج شرب الحين جنب النافذة، قبل ما يبرد الأكل، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a drinking now beside the window, before the food gets cold, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شرب في السيارة مع النظارة الشمسية، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a drinking in the car with the sunglasses, before the food gets cold, and then I drank some water</span> |
 
 
 ### Links

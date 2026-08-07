@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت وادي جنب النافذة مع النظارة الشمسية، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a valley beside the window with the sunglasses, before the food gets cold, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت وادي في السيارة، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a valley in the car, before the food gets cold, and then we locked the door</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اغلبيه الحين عند الصيدلية، عشان الضيوف يوصلون، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a majority now at the pharmacy, because guests are arriving, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اغلبيه في المكتبة مع الغطاء الشفاف، عشان الضيوف يوصلون، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a majority in the library with the clear cover, because guests are arriving, and then I wrote a note</span> |
 
 

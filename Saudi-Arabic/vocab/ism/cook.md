@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يطبخ في الحديقة، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a cook in the park, before the food gets cold, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يطبخ الحين على الشرفة، قبل ما يبرد الأكل، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a cook now on the balcony, before the food gets cold, and I also took the old alarm</span> |
 
 

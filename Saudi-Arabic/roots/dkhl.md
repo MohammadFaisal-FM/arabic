@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ادخل، ولقيت القلم الرصاص قدام التلفاز، لأن الولد نعسان، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">Come in, and I found the pencil in front of the TV, because the boy is sleepy, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ادخل، ولقيت القلم الرصاص في الثلاجة، لأن الولد نعسان، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">Come in, and I found the pencil in the fridge, because the boy is sleepy, and then we locked the door</span> |
 
 
 ---

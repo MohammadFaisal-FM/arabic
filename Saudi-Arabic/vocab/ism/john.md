@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج جون الحين في السيارة، لأن الزحمة قوية، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a john now in the car, because traffic is heavy, and I also took the soft pillow</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جون على المكتب مع الوسادة الناعمة، لأن الزحمة قوية، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a john on the desk with the soft pillow, because traffic is heavy, and then I replied to the message</span> |
 
 

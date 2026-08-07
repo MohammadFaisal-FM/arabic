@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج درجات الحين في الصالون، قبل صلاة المغرب، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a degrees now in the living room, before Maghrib prayer, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت درجات جنب المسجد مع المنديل النظيف، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a degrees next to the mosque with the clean tissue, before Maghrib prayer, and then the boy slept</span> |
 
 

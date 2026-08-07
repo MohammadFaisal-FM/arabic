@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت استراتيجيه عند الاستقبال، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a strategy at reception, if you need it later, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج استراتيجيه الحين في الصالون، إذا احتجته بعدين، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a strategy now in the living room, if you need it later, and I also took the glass cup</span> |
 
 

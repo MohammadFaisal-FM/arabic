@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج قمة الحين جنب المسجد، لأن الإضاءة أحسن هناك، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a peak now next to the mosque, because the light is better there, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قمة في البقالة مع القلم الرصاص، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a peak at the grocery with the pencil, because the light is better there, and then I drank some water</span> |
 
 

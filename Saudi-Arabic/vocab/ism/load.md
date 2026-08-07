@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حمولة الحين في المدرسة، لأن الزحمة قوية، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a load now at school, because traffic is heavy, and I also took the sharp scissors</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج حمولة الحين قدام الملعب، لأن الزحمة قوية، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a load now in front of the pitch, because traffic is heavy, and I also took the sharp scissors</span> |
 
 

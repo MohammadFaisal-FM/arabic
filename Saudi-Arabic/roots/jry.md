@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">يجري بسرعة، ولقيت الملف الورقي على الشرفة، عشان نلحق الموعد، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">He runs fast, and I found the paper file on the balcony, so we make the appointment, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">يجري بسرعة، ولقيت الملف الورقي في الغرفة، عشان نلحق الموعد، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">He runs fast, and I found the paper file in the room, so we make the appointment, and then I closed the window</span> |
 
 
 ---

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت عزيزي قدام التلفاز مع الجورب الأبيض، لأن الولد نعسان، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a dear in front of the TV with the white sock, because the boy is sleepy, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عزيزي في الثلاجة، لأن الولد نعسان، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a dear in the fridge, because the boy is sleepy, and then I turned on the fan</span> |
 
 

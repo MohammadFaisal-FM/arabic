@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت طائرة جنب النافذة مع النظارة الشمسية، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a plane beside the window with the sunglasses, for studying tomorrow, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت طائرة في السيارة، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a plane in the car, for studying tomorrow, and then I drank some water</span> |
 
 

@@ -14,7 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">درس كان/كانت في الصالون، عشان ما يضيع، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">a lesson was in the living room, so it doesn’t get lost, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت درس جنب المسجد، عشان ما يضيع، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I saw a lesson next to the mosque, so it doesn’t get lost, and then the phone rang</span> |
 
 
 ### Links

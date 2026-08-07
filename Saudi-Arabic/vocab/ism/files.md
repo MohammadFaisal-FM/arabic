@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ملفات في الغرفة، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a files in the room, so we make the appointment, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ملفات الحين جنب البنك، عشان نلحق الموعد، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a files now next to the bank, so we make the appointment, and I also took the spare key</span> |
 
 

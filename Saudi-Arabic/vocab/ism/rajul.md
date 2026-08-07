@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت رجل في المكتبة، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I saw a man in the library, because time is tight, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن رجل شوي، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">We talked about a man a bit, because time is tight, and then I wiped the floor</span> |
 
 

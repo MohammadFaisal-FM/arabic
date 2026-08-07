@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت رسوم في السيارة، قبل ما يجي السائق، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a charges in the car, before the driver arrives, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رسوم الحين على المكتب، قبل ما يجي السائق، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a charges now on the desk, before the driver arrives, and I also took the soft pillow</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت فيلا عند الصيدلية مع الغطاء الشفاف، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a villa at the pharmacy with the clear cover, but keep it near you, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت فيلا في المكتبة، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a villa in the library, but keep it near you, and then I washed my hands</span> |
 
 

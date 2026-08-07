@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ماركة الحين في الحقيبة، لأن الوقت ضيق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a brand now in the bag, because time is tight, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ماركة قدام التلفاز مع الحذاء النظيف، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a brand in front of the TV with the clean shoes, because time is tight, and then I wiped the floor</span> |
 
 

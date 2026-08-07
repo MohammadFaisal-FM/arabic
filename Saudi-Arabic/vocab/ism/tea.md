@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت شاي تحت السرير مع الوشاح الرمادي، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a tea under the bed with the grey scarf, so revision is easier, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شاي في الدرج، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a tea in the drawer, so revision is easier, and then I replied to the message</span> |
 
 

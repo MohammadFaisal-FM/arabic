@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يحدث عند العيادة مع الدباسة، لأن الجو حار شوي، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a happen at the clinic with the stapler, because the weather is a bit hot, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يحدث في المدرسة، لأن الجو حار شوي، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a happen at school, because the weather is a bit hot, and then I drank some water</span> |
 
 

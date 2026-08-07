@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الإجراءات عند الباب مع المحفظة البنية، قبل صلاة المغرب، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found an actions at the door with the brown wallet, before Maghrib prayer, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الإجراءات جنب النافذة، قبل صلاة المغرب، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an actions beside the window, before Maghrib prayer, and then the phone rang</span> |
 
 

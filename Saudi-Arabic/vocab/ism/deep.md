@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت عميق في الحقيبة، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a deep in the bag, if you need it later, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج عميق الحين قدام التلفاز، إذا احتجته بعدين، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a deep now in front of the TV, if you need it later, and I also took the clean shoes</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت هزار في المكتبة، لأن البطارية ضعيفة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a fun in the library, because the battery is low, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج هزار الحين قدام المصعد، لأن البطارية ضعيفة، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a fun now in front of the elevator, because the battery is low, and I also took the small spoon</span> |
 
 

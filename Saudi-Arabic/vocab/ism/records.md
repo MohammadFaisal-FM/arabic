@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت السجلات في الحديقة، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a records in the park, before the food gets cold, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج السجلات الحين على الشرفة، قبل ما يبرد الأكل، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a records now on the balcony, before the food gets cold, and I also took the old alarm</span> |
 
 

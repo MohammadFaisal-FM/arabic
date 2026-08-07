@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت صور فوتوغرافية قدام الملعب، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a photographs in front of the pitch, so we make the appointment, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج صور فوتوغرافية الحين في المطبخ، عشان نلحق الموعد، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a photographs now in the kitchen, so we make the appointment, and I also took the clear tape</span> |
 
 

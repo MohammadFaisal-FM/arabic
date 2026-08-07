@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت سمات عند الصيدلية مع الغطاء الشفاف، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a features at the pharmacy with the clear cover, because guests are arriving, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سمات في المكتبة، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a features in the library, because guests are arriving, and then I tidied the table</span> |
 
 

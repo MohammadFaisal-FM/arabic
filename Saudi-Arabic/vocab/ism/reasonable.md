@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">معقول كان/كانت قدام الملعب، بس خلّه قريب منك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">a reasonable was in front of the pitch, but keep it near you, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت معقول في المطبخ، بس خلّه قريب منك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I saw a reasonable in the kitchen, but keep it near you, and then I tidied the table</span> |
 
 

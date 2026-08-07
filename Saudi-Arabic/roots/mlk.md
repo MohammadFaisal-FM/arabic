@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أملك سيارة، ولقيت الوسادة الناعمة عند العيادة، لأن الإضاءة أحسن هناك، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I own a car, and I found the soft pillow at the clinic, because the light is better there, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أملك سيارة، ولقيت الوسادة الناعمة في المدرسة، لأن الإضاءة أحسن هناك، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I own a car, and I found the soft pillow at school, because the light is better there, and then I turned off the light</span> |
 
 
 ---

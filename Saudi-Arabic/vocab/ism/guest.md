@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن ضيف شوي، بس خلّه قريب منك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a guest a bit, but keep it near you, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ضيف كان/كانت جنب البنك، بس خلّه قريب منك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">a guest was next to the bank, but keep it near you, and then I tidied the table</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الكلمات الرئيسية الحين قدام التلفاز، عشان ما نتأخر، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a keywords now in front of the TV, so we are not late, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الكلمات الرئيسية في الثلاجة مع الجورب الأبيض، عشان ما نتأخر، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a keywords in the fridge with the white sock, so we are not late, and then I turned on the fan</span> |
 
 

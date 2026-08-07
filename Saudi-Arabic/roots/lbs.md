@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وش تلبس؟، ولقيت المقص الحاد في الحديقة، قبل ما يبرد الأكل، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">What are you wearing?, and I found the sharp scissors in the park, before the food gets cold, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وش تلبس؟، ولقيت المقص الحاد على الشرفة، قبل ما يبرد الأكل، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">What are you wearing?, and I found the sharp scissors on the balcony, before the food gets cold, and then we laughed a bit</span> |
 
 
 ---

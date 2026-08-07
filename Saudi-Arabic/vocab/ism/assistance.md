@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مساعدة الحين عند الصيدلية، عشان نلحق الموعد، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an assistance now at the pharmacy, so we make the appointment, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مساعدة في المكتبة مع الغطاء الشفاف، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found an assistance in the library with the clear cover, so we make the appointment, and then I washed my hands</span> |
 
 

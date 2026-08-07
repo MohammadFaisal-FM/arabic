@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت النمسا في المطبخ، إذا احتجته بعدين، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put an austria in the kitchen, if you need it later, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج النمسا الحين عند الباب، إذا احتجته بعدين، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an austria now at the door, if you need it later, and I also took the paper file</span> |
 
 

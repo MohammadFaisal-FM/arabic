@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اقفال الحين جنب البنك، عشان الصورة تطلع أوضح، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a closing now next to the bank, so the photo comes out clearer, and I also took the empty bottle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اقفال في المحطة مع الزجاجة الفارغة، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a closing at the station with the empty bottle, so the photo comes out clearer, and then I charged the device</span> |
 
 

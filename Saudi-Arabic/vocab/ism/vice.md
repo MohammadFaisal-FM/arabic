@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت نائب في الثلاجة مع القبعة الصيفية، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a vice in the fridge with the summer hat, for studying tomorrow, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نائب تحت السرير، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a vice under the bed, for studying tomorrow, and then we locked the door</span> |
 
 

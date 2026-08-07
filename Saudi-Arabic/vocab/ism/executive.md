@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج تنفيذي الحين قدام الملعب، بس خلّه قريب منك، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an executive now in front of the pitch, but keep it near you, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تنفيذي في المطبخ مع اللاصق الشفاف، بس خلّه قريب منك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found an executive in the kitchen with the clear tape, but keep it near you, and then I tidied the table</span> |
 
 

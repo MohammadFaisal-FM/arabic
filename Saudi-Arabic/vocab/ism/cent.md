@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت سنت في البقالة، قبل ما يقفل المكان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a cent at the grocery, before the place closes, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سنت الحين عند الصيدلية، قبل ما يقفل المكان، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a cent now at the pharmacy, before the place closes, and I also took the long charger</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">مرّيت من عندك، ولقيت المحفظة البنية جنب البنك، إذا احتجته بعدين، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I passed by you, and I found the brown wallet next to the bank, if you need it later, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">مرّيت من عندك، ولقيت المحفظة البنية في المحطة، إذا احتجته بعدين، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I passed by you, and I found the brown wallet at the station, if you need it later, and then the phone rang</span> |
 
 
 ---

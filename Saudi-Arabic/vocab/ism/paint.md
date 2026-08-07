@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج طلاء الحين جنب المسجد، لأن الإضاءة أحسن هناك، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a paint now next to the mosque, because the light is better there, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت طلاء في البقالة مع القلم الرصاص، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a paint at the grocery with the pencil, because the light is better there, and then I drank some water</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ضلع في السيارة، لأن الزحمة قوية، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a rib in the car, because traffic is heavy, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ضلع الحين على المكتب، لأن الزحمة قوية، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a rib now on the desk, because traffic is heavy, and I also took the soft pillow</span> |
 
 

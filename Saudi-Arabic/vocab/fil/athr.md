@@ -4,10 +4,10 @@
 |-------|-------|
 | **Type** | فعل · fiʿl (verb) |
 | **Arabic** | أثّر |
-| **Present** | يؤثر |
+| **Present** | يؤثّر |
 | **Meaning** | effect / influence (أثر) · everyday: affect / influence — use على (عليه / عليّ) |
 | **Root** | [أ-ث-ر](#roots/athr) |
-| **Form** | II · أثّر / يؤثر · everyday: affect / influence — use على (عليه / عليّ) |
+| **Form** | II · أثّر / يؤثّر · everyday: affect / influence — use على (عليه / عليّ) |
 
 ---
 
@@ -26,14 +26,14 @@ Everyday Saudi / Najdi. Future uses **بـ**.
 
 | Pronoun | Past | Present | Future |
 |---------|------|---------|--------|
-| أنا | أثّرت | أأثر | بأثر |
-| إحنا | أثّرنا | نأثر | بنأثر |
-| أنت | أثّرت | تأثر | بتأثر |
-| أنتِ | أثّرتي | تأثرين | بتأثرين |
-| أنتم | أثّرتوا | تأثرون | بتأثرون |
-| هو | أثّر | يأثر | بيأثر |
-| هي | أثّرت | تأثر | بتأثر |
-| هم | أثّروا | يأثرون | بيأثرون |
+| أنا | أثّرت | أؤثّر | بأثّر |
+| إحنا | أثّرنا | نؤثّر | بنؤثّر |
+| أنت | أثّرت | تؤثّر | بتؤثّر |
+| أنتِ | أثّرتي | تؤثّرين | بتؤثّرين |
+| أنتم | أثّرتوا | تؤثّرون | بتؤثّرون |
+| هو | أثّر | يؤثّر | بيؤثّر |
+| هي | أثّرت | تؤثّر | بتؤثّر |
+| هم | أثّروا | يؤثّرون | بيؤثّرون |
 
 ### Examples
 
@@ -41,28 +41,28 @@ One example for each **pronoun × tense** (past / present / future). Arabic and 
 
 | Pronoun | Tense | Arabic | English |
 |---------|-------|--------|---------|
-| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">أثّرت عليه أمس، وصار يفكّر بالموضوع طول الليل</span> | <span class="example-en" dir="ltr" lang="en">I affected him yesterday, and he kept thinking about the topic all night</span> |
-| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أأثر على قراره الحين إذا تكلّمت بهدوء</span> | <span class="example-en" dir="ltr" lang="en">I affect / influence his decision now if I speak calmly</span> |
-| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بأثر عليه بكرة لما أقوله رأيي بصراحة</span> | <span class="example-en" dir="ltr" lang="en">I will affect him tomorrow when I tell him my opinion frankly</span> |
-| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">أثّرنا عليهم بالمثال، وصاروا يطبّقون الفكرة</span> | <span class="example-en" dir="ltr" lang="en">We affected them with the example, and they started applying the idea</span> |
-| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نأثر على الفريق إذا اشتغلنا بجد كل يوم</span> | <span class="example-en" dir="ltr" lang="en">We influence the team if we work hard every day</span> |
-| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنأثر عليهم بكرة في الاجتماع بكلام واضح</span> | <span class="example-en" dir="ltr" lang="en">We will influence them tomorrow in the meeting with clear talk</span> |
-| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">أثّرت على قراره لما نصحته بدون ضغط</span> | <span class="example-en" dir="ltr" lang="en">You (m.) influenced his decision when you advised him without pressure</span> |
-| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تأثر عليه الحين إذا كنت صادق معه</span> | <span class="example-en" dir="ltr" lang="en">You (m.) affect him now if you are honest with him</span> |
-| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتأثر على قراره بكرة إذا جبت له أرقام واضحة</span> | <span class="example-en" dir="ltr" lang="en">You (m.) will influence his decision tomorrow if you bring him clear numbers</span> |
-| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">أثّرتي عليّ بكلمتك، وصرت أشوف الموضوع بشكل ثاني</span> | <span class="example-en" dir="ltr" lang="en">You (f.) affected me with your word, and I started seeing the topic differently</span> |
-| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تأثرين على إخوتك إذا كنتي قدوة حلوة</span> | <span class="example-en" dir="ltr" lang="en">You (f.) influence your siblings if you are a good example</span> |
-| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتأثرين عليه بكرة إذا حكيتي معه بهدوء</span> | <span class="example-en" dir="ltr" lang="en">You (f.) will affect him tomorrow if you talk with him calmly</span> |
-| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">أثّرتوا على الصف كله بحماسكم أمس</span> | <span class="example-en" dir="ltr" lang="en">You (pl.) affected the whole class with your enthusiasm yesterday</span> |
-| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تؤثرون عليّ إذا كنتم صادقين، لأنّي أثق في كلامكم</span> | <span class="example-en" dir="ltr" lang="en">You (pl.) affect me if you are honest, because I trust what you say</span> |
-| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتأثرون على القرار بكرة إذا حضرتوا الاجتماع</span> | <span class="example-en" dir="ltr" lang="en">You (pl.) will influence the decision tomorrow if you attend the meeting</span> |
-| هو | Past | <span class="example-ar" dir="rtl" lang="ar">أثّر عليّ كلام أخوي، وصرت أهدى من أول</span> | <span class="example-en" dir="ltr" lang="en">My brother’s words affected me, and I became calmer than before</span> |
-| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يأثر على الناس بأسلوبه الهادئ كل مرة يتكلم</span> | <span class="example-en" dir="ltr" lang="en">He influences people with his calm style every time he speaks</span> |
-| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيأثر على قرار المدير بكرة إذا قدّم خطة قوية</span> | <span class="example-en" dir="ltr" lang="en">He will influence the manager’s decision tomorrow if he presents a strong plan</span> |
-| هي | Past | <span class="example-ar" dir="rtl" lang="ar">أثّرت عليه الأخبار، وصار قلقان طول الطريق</span> | <span class="example-en" dir="ltr" lang="en">The news affected him, and he became worried the whole way</span> |
-| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تأثر على تركيزي إذا كانت الغرفة فيها ضوضاء</span> | <span class="example-en" dir="ltr" lang="en">It (she) affects my focus if the room is noisy</span> |
-| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتأثر عليه القصة بكرة لما يسمعها كامل</span> | <span class="example-en" dir="ltr" lang="en">The story will affect him tomorrow when he hears it fully</span> |
-| هم | Past | <span class="example-ar" dir="rtl" lang="ar">أثّروا عليّ بتصرفاتهم، بس حاولت ما آخذها على محمل شخصي</span> | <span class="example-en" dir="ltr" lang="en">They affected me with their behavior, but I tried not to take it personally</span> |
-| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يأثرون على الجو العام إذا كانوا إيجابيين</span> | <span class="example-en" dir="ltr" lang="en">They influence the overall mood if they are positive</span> |
-| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيأثرون على النتيجة بكرة إذا اشتغلوا سوا</span> | <span class="example-en" dir="ltr" lang="en">They will affect the result tomorrow if they work together</span> |
+| أنا | Past | <span class="example-ar" dir="rtl" lang="ar">أثّرت على أخوي أمس، وصار يفكّر يغيّر شغله</span> | <span class="example-en" dir="ltr" lang="en">I influenced my brother yesterday, and he started thinking about changing his job</span> |
+| أنا | Present | <span class="example-ar" dir="rtl" lang="ar">أؤثّر على جو البيت إذا جيت من الشغل وأنا متوتر</span> | <span class="example-en" dir="ltr" lang="en">I affect the mood at home if I come from work tense</span> |
+| أنا | Future | <span class="example-ar" dir="rtl" lang="ar">بأثّر على قراره بكرة لما أوريه الأسعار من التطبيق</span> | <span class="example-en" dir="ltr" lang="en">I’ll influence his decision tomorrow when I show him the prices from the app</span> |
+| إحنا | Past | <span class="example-ar" dir="rtl" lang="ar">أثّرنا على العيال لما قلّلنا استخدام الجوال وقت العشا</span> | <span class="example-en" dir="ltr" lang="en">We affected the kids when we cut down phone use at dinner</span> |
+| إحنا | Present | <span class="example-ar" dir="rtl" lang="ar">نؤثّر على بعض إذا تكلّمنا بصوت عالي قدام الضيوف</span> | <span class="example-en" dir="ltr" lang="en">We affect each other if we speak loudly in front of the guests</span> |
+| إحنا | Future | <span class="example-ar" dir="rtl" lang="ar">بنؤثّر على النتيجة بكرة إذا جهّزنا العرض بدري</span> | <span class="example-en" dir="ltr" lang="en">We’ll affect the outcome tomorrow if we prep the presentation early</span> |
+| أنت | Past | <span class="example-ar" dir="rtl" lang="ar">أثّرت على أبوك بكلمتك، وصار يوافق على الفكرة</span> | <span class="example-en" dir="ltr" lang="en">You (m.) influenced your dad with what you said, and he ended up agreeing</span> |
+| أنت | Present | <span class="example-ar" dir="rtl" lang="ar">تؤثّر عليّ إذا نصحتني بهدوء، مو إذا صرخت</span> | <span class="example-en" dir="ltr" lang="en">You (m.) influence me if you advise me calmly, not if you yell</span> |
+| أنت | Future | <span class="example-ar" dir="rtl" lang="ar">بتؤثّر على المدير بكرة إذا جبت أرقام واضحة من الشهر اللي راح</span> | <span class="example-en" dir="ltr" lang="en">You’ll influence the manager tomorrow if you bring clear numbers from last month</span> |
+| أنتِ | Past | <span class="example-ar" dir="rtl" lang="ar">أثّرتي عليّ بكلامك، وصرت أرتّب نومي أحسن</span> | <span class="example-en" dir="ltr" lang="en">You (f.) affected me with what you said, and I started fixing my sleep</span> |
+| أنتِ | Present | <span class="example-ar" dir="rtl" lang="ar">تؤثّرين على إخوانك إذا خلّصتي واجباتك بدري كل يوم</span> | <span class="example-en" dir="ltr" lang="en">You (f.) influence your brothers if you finish your homework early every day</span> |
+| أنتِ | Future | <span class="example-ar" dir="rtl" lang="ar">بتؤثّرين على قرار أمّك بكرة إذا شرحتي لها بهدوء ليش تبغين التخصص</span> | <span class="example-en" dir="ltr" lang="en">You’ll influence your mum’s decision tomorrow if you calmly explain why you want that major</span> |
+| أنتم | Past | <span class="example-ar" dir="rtl" lang="ar">أثّرتوا على الصف كله لما جيتوا متحمّسين للمشروع</span> | <span class="example-en" dir="ltr" lang="en">You (pl.) affected the whole class when you came excited about the project</span> |
+| أنتم | Present | <span class="example-ar" dir="rtl" lang="ar">تؤثّرون عليّ إذا كنتم صادقين، لأنّي أثق في كلامكم</span> | <span class="example-en" dir="ltr" lang="en">You (pl.) affect me when you’re honest, because I trust what you say</span> |
+| أنتم | Future | <span class="example-ar" dir="rtl" lang="ar">بتؤثّرون على اختيار المطعم بكرة إذا صوّتّم كلكم سوا</span> | <span class="example-en" dir="ltr" lang="en">You’ll influence the restaurant choice tomorrow if you all vote together</span> |
+| هو | Past | <span class="example-ar" dir="rtl" lang="ar">أثّر عليّ كلام أخوي، وصرت أهدى مع العيال</span> | <span class="example-en" dir="ltr" lang="en">My brother’s words affected me, and I got calmer with the kids</span> |
+| هو | Present | <span class="example-ar" dir="rtl" lang="ar">يؤثّر على الناس بأسلوبه، حتى لو ما رفع صوته</span> | <span class="example-en" dir="ltr" lang="en">He influences people with his manner, even when he doesn’t raise his voice</span> |
+| هو | Future | <span class="example-ar" dir="rtl" lang="ar">بيؤثّر على قرار المدير بكرة إذا قدّم الخطة قبل الاجتماع</span> | <span class="example-en" dir="ltr" lang="en">He’ll influence the manager’s decision tomorrow if he submits the plan before the meeting</span> |
+| هي | Past | <span class="example-ar" dir="rtl" lang="ar">أثّرت عليه الأخبار، وصار قلقان طول الطريق للبيت</span> | <span class="example-en" dir="ltr" lang="en">The news affected him, and he stayed worried the whole way home</span> |
+| هي | Present | <span class="example-ar" dir="rtl" lang="ar">تؤثّر على تركيزي إذا شغّلت التلفاز وأنا أذاكر</span> | <span class="example-en" dir="ltr" lang="en">It affects my focus if the TV is on while I’m studying</span> |
+| هي | Future | <span class="example-ar" dir="rtl" lang="ar">بتؤثّر عليه القصة بكرة لما يسمعها للنهاية</span> | <span class="example-en" dir="ltr" lang="en">The story will affect him tomorrow when he hears it to the end</span> |
+| هم | Past | <span class="example-ar" dir="rtl" lang="ar">أثّروا عليّ بتصرفاتهم، بس ما خليت الموضوع يفسد يومي</span> | <span class="example-en" dir="ltr" lang="en">They affected me with how they acted, but I didn’t let it ruin my day</span> |
+| هم | Present | <span class="example-ar" dir="rtl" lang="ar">يؤثّرون على جو الجلسة إذا دخلوا يمزحون من أول دقيقة</span> | <span class="example-en" dir="ltr" lang="en">They affect the vibe of the gathering if they come in joking from the first minute</span> |
+| هم | Future | <span class="example-ar" dir="rtl" lang="ar">بيؤثّرون على النتيجة بكرة إذا اشتغلوا كفريق مو كل واحد لحاله</span> | <span class="example-en" dir="ltr" lang="en">They’ll affect the result tomorrow if they work as a team, not each on his own</span> |
 

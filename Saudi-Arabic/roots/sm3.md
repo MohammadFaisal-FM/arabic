@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">سمعتك، ولقيت الملف الورقي في الغرفة، عشان الضيوف يوصلون، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I heard you, and I found the paper file in the room, because guests are arriving, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">سمعتك، ولقيت الملف الورقي جنب البنك، عشان الضيوف يوصلون، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I heard you, and I found the paper file next to the bank, because guests are arriving, and then I charged the device</span> |
 
 
 ---

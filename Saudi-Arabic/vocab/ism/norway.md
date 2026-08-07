@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت النرويج في المكتبة، عشان الصورة تطلع أوضح، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a norway in the library, so the photo comes out clearer, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج النرويج الحين قدام المصعد، عشان الصورة تطلع أوضح، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a norway now in front of the elevator, so the photo comes out clearer, and I also took the small spoon</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت أونتاريو في المحطة مع الكابل القصير، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found an ontario at the station with the short cable, so we are not late, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أونتاريو عند العيادة، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an ontario at the clinic, so we are not late, and then the phone rang</span> |
 
 

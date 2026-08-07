@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت قريب جنب البنك مع الزجاجة الفارغة، لأن الوقت ضيق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a nearby next to the bank with the empty bottle, because time is tight, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قريب في المحطة، لأن الوقت ضيق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a nearby at the station, because time is tight, and then I closed the window</span> |
 
 

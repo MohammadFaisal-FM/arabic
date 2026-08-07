@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت جايسون على المكتب، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I saw a jason on the desk, but keep it near you, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن جايسون شوي، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a jason a bit, but keep it near you, and then I wrote a note</span> |
 
 

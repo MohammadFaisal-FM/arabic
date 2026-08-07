@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج آلة الحين في المكتبة، عشان الصورة تطلع أوضح، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a machine now in the library, so the photo comes out clearer, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت آلة قدام المصعد مع الملعقة الصغيرة، عشان الصورة تطلع أوضح، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a machine in front of the elevator with the small spoon, so the photo comes out clearer, and then I closed the window</span> |
 
 

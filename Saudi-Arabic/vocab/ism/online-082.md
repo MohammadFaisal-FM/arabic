@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج احساس الحين جنب البنك، لأن الشغل خلص بدري، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a sense now next to the bank, because work finished early, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت احساس في المحطة مع الدباسة، لأن الشغل خلص بدري، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a sense at the station with the stapler, because work finished early, and then we locked the door</span> |
 
 

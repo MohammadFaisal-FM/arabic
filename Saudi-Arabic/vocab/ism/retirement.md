@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج التقاعد الحين في المحطة، عشان ما نتأخر، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a retirement now at the station, so we are not late, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التقاعد عند العيادة مع الكابل القصير، عشان ما نتأخر، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a retirement at the clinic with the short cable, so we are not late, and then I turned on the fan</span> |
 
 

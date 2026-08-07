@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت وصف في الحديقة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a description in the park, for studying tomorrow, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج وصف الحين على الشرفة، عشان الدراسة بكرة، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a description now on the balcony, for studying tomorrow, and I also took the old alarm</span> |
 
 

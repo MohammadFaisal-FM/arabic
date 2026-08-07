@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مرض جنب المسجد مع القلم الرصاص، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an illness next to the mosque with the pencil, for studying tomorrow, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مرض في البقالة، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put an illness at the grocery, for studying tomorrow, and then we prayed</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج عيون الحين في الصالون، عشان ما يضيع، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an eyes now in the living room, so it doesn’t get lost, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عيون جنب المسجد مع المنديل النظيف، عشان ما يضيع، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found an eyes next to the mosque with the clean tissue, so it doesn’t get lost, and then the phone rang</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت تذاكر في الدرج، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a tickets in the drawer, but keep it near you, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تذاكر الحين عند الاستقبال، بس خلّه قريب منك، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a tickets now at reception, but keep it near you, and I also took the blue notebook</span> |
 
 

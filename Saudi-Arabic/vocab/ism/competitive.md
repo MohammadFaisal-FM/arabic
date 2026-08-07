@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت تنافسي في الدرج مع الدفتر الأزرق، بس خلّه قريب منك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a competitive in the drawer with the blue notebook, but keep it near you, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تنافسي عند الاستقبال، بس خلّه قريب منك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a competitive at reception, but keep it near you, and then I tidied the table</span> |
 
 

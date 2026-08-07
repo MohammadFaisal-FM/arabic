@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت عائلة في المكتبة، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I saw a family in the library, if you need it later, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن عائلة شوي، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">We talked about a family a bit, if you need it later, and then I wiped the floor</span> |
 
 

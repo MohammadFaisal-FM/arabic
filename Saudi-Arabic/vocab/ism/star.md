@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت نجم في المطبخ مع الملف الورقي، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a star in the kitchen with the paper file, so the photo comes out clearer, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت نجم عند الباب، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a star at the door, so the photo comes out clearer, and then I charged the device</span> |
 
 

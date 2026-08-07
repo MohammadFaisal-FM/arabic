@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الموردين في البقالة مع الشاحن الطويل، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a suppliers at the grocery with the long charger, so revision is easier, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الموردين عند الصيدلية، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a suppliers at the pharmacy, so revision is easier, and then I turned off the light</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تعلّم عربي، ولقيت المحفظة البنية جنب البنك، عشان الصورة تطلع أوضح، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">Learn Arabic, and I found the brown wallet next to the bank, so the photo comes out clearer, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تعلّم عربي، ولقيت المحفظة البنية في المحطة، عشان الصورة تطلع أوضح، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">Learn Arabic, and I found the brown wallet at the station, so the photo comes out clearer, and then I turned on the fan</span> |
 
 
 ---

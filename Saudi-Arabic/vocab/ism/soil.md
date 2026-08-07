@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت تربة في الغرفة، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a soil in the room, because work finished early, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تربة الحين جنب البنك، لأن الشغل خلص بدري، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a soil now next to the bank, because work finished early, and I also took the spare key</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت جاك عند الاستقبال مع الكوب الزجاج، لأن الوقت ضيق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a jack at reception with the glass cup, because time is tight, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت جاك في الصالون، لأن الوقت ضيق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a jack in the living room, because time is tight, and then I charged the device</span> |
 
 

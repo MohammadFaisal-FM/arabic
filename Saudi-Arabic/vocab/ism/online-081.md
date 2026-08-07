@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت احداث على الشرفة، عشان المراجعة أسهل، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put an events on the balcony, so revision is easier, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت احداث جنب البنك مع الكابل القصير، عشان المراجعة أسهل، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an events next to the bank with the short cable, so revision is easier, and then the boy slept</span> |
 
 

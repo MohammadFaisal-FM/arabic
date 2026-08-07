@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كان هنا، ولقيت المنبه القديميم في الصالون، قبل صلاة المغرب، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">He was here, and I found the old alarm in the living room, before Maghrib prayer, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">كان هنا، ولقيت المنبه القديميم جنب المسجد، قبل صلاة المغرب، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">He was here, and I found the old alarm next to the mosque, before Maghrib prayer, and then we prayed</span> |
 
 
 ---

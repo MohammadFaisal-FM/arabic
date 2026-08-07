@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ديلوكس عند العيادة مع الدباسة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a deluxe at the clinic with the stapler, for studying tomorrow, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ديلوكس في المدرسة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a deluxe at school, for studying tomorrow, and then we locked the door</span> |
 
 

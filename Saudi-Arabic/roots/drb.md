@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لا تضرب، ولقيت القلم الرصاص قدام التلفاز، عشان ما يضيع، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">Don’t hit, and I found the pencil in front of the TV, so it doesn’t get lost, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لا تضرب، ولقيت القلم الرصاص في الثلاجة، عشان ما يضيع، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">Don’t hit, and I found the pencil in the fridge, so it doesn’t get lost, and then we prayed</span> |
 
 
 ---

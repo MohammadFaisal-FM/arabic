@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">يصلح الجوال، ولقيت المنديل النظيف في الحقيبة، إذا احتجته بعدين، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">He fixes phones, and I found the clean tissue in the bag, if you need it later, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">يصلح الجوال، ولقيت المنديل النظيف قدام التلفاز، إذا احتجته بعدين، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">He fixes phones, and I found the clean tissue in front of the TV, if you need it later, and then I turned on the fan</span> |
 
 
 ---

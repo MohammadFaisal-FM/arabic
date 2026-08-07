@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مشغلي في المحطة مع الكابل القصير، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found an operators at the station with the short cable, so we are not late, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مشغلي عند العيادة، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an operators at the clinic, so we are not late, and then the phone rang</span> |
 
 

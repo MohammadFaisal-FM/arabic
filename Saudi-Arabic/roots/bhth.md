@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أبحث عن عمل، ولقيت الشاحن الطويل قدام التلفاز، عشان الضيوف يوصلون، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I’m looking for work, and I found the long charger in front of the TV, because guests are arriving, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أبحث عن عمل، ولقيت الشاحن الطويل في الثلاجة، عشان الضيوف يوصلون، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I’m looking for work, and I found the long charger in the fridge, because guests are arriving, and then I turned off the light</span> |
 
 
 ---

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">كلّمني بعدين، ولقيت البطاقة الصفراء جنب المسجد، عشان الدراسة بكرة، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">Call / talk to me later, and I found the yellow card next to the mosque, for studying tomorrow, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">كلّمني بعدين، ولقيت البطاقة الصفراء في البقالة، عشان الدراسة بكرة، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">Call / talk to me later, and I found the yellow card at the grocery, for studying tomorrow, and then I replied to the message</span> |
 
 
 ---
@@ -39,6 +39,6 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [كلام](#ism/kalam) | <span class="example-ar" dir="rtl" lang="ar">أحتاج كلام الحين في السيارة، قبل ما يجي السائق، وخذيت كمان الوسادة الناعمة</span><br><span class="example-en" dir="ltr" lang="en">I need a talk now in the car, before the driver arrives, and I also took the soft pillow</span> |
-| اسم · ism (noun / other) | [كلمة](#ism/kalima) | <span class="example-ar" dir="rtl" lang="ar">لقيت كلمة على المكتب مع البطانية الخفيفة، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span><br><span class="example-en" dir="ltr" lang="en">I found a word on the desk with the light blanket, so we make the appointment, and then I tidied the table</span> |
+| اسم · ism (noun / other) | [كلام](#ism/kalam) | <span class="example-ar" dir="rtl" lang="ar">لقيت كلام على المكتب مع الوسادة الناعمة، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span><br><span class="example-en" dir="ltr" lang="en">I found a talk on the desk with the soft pillow, before the driver arrives, and then we laughed a bit</span> |
+| اسم · ism (noun / other) | [كلمة](#ism/kalima) | <span class="example-ar" dir="rtl" lang="ar">حطّيت كلمة في الحقيبة، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span><br><span class="example-en" dir="ltr" lang="en">I put a word in the bag, so we make the appointment, and then I tidied the table</span> |
 

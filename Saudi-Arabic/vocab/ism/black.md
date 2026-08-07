@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أسود الحين جنب المسجد، عشان الدراسة بكرة، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a black now next to the mosque, for studying tomorrow, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أسود في البقالة مع القلم الرصاص، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a black at the grocery with the pencil, for studying tomorrow, and then we locked the door</span> |
 
 

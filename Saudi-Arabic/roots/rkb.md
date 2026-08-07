@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ركب السيارة، ولقيت المفتاح الاحتياطي في البقالة، قبل ما يجي السائق، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">He got in the car, and I found the spare key at the grocery, before the driver arrives, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ركب السيارة، ولقيت المفتاح الاحتياطي عند الصيدلية، قبل ما يجي السائق، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">He got in the car, and I found the spare key at the pharmacy, before the driver arrives, and then I wrote a note</span> |
 
 
 ---

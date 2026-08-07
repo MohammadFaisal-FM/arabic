@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج شركة كبرى الحين على الشرفة، لأن الزحمة قوية، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a corporate now on the balcony, because traffic is heavy, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت شركة كبرى في الغرفة مع البطاقة الصفراء، لأن الزحمة قوية، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a corporate in the room with the yellow card, because traffic is heavy, and then I replied to the message</span> |
 
 

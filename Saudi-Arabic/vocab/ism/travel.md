@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يسافر في الحديقة، عشان الدراسة بكرة، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a travel in the park, for studying tomorrow, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يسافر الحين على الشرفة، عشان الدراسة بكرة، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a travel now on the balcony, for studying tomorrow, and I also took the old alarm</span> |
 
 

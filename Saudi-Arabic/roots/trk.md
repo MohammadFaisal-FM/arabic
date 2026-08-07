@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تركت الجوال، ولقيت المنبه القديميم عند الاستقبال، لأن الزحمة قوية، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I left the phone, and I found the old alarm at reception, because traffic is heavy, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تركت الجوال، ولقيت المنبه القديميم في الصالون، لأن الزحمة قوية، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I left the phone, and I found the old alarm in the living room, because traffic is heavy, and then we prayed</span> |
 
 
 ---

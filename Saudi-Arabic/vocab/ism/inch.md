@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بوصة الحين تحت السرير، لأن الزحمة قوية، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need an inch now under the bed, because traffic is heavy, and I also took the grey scarf</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بوصة في الدرج مع الوشاح الرمادي، لأن الزحمة قوية، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found an inch in the drawer with the grey scarf, because traffic is heavy, and then I turned off the light</span> |
 
 

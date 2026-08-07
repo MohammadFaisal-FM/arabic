@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج تقييم الحين في الحقيبة، إذا احتجته بعدين، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an evaluation now in the bag, if you need it later, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تقييم قدام التلفاز مع الحذاء النظيف، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found an evaluation in front of the TV with the clean shoes, if you need it later, and then I wiped the floor</span> |
 
 

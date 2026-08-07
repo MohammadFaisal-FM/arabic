@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أقدر أجي، ولقيت الشاحن الطويل في الثلاجة، لأن الجو حار شوي، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I can come, and I found the long charger in the fridge, because the weather is a bit hot, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أقدر أجي، ولقيت الشاحن الطويل تحت السرير، لأن الجو حار شوي، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I can come, and I found the long charger under the bed, because the weather is a bit hot, and then I turned off the light</span> |
 
 
 ---

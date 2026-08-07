@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">زاد السعر، ولقيت الدباسة قدام المصعد، عشان ما نتأخر، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">The price went up, and I found the stapler in front of the elevator, so we are not late, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">زاد السعر، ولقيت الدباسة في الحديقة، عشان ما نتأخر، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">The price went up, and I found the stapler in the park, so we are not late, and then we prayed</span> |
 
 
 ---

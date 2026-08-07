@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لا تطول، ولقيت البطاقة الصفراء جنب المسجد، لأن الجو حار شوي، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">Don’t take long, and I found the yellow card next to the mosque, because the weather is a bit hot, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لا تطول، ولقيت البطاقة الصفراء في البقالة، لأن الجو حار شوي، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">Don’t take long, and I found the yellow card at the grocery, because the weather is a bit hot, and then we laughed a bit</span> |
 
 
 ---

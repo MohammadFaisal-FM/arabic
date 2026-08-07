@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">سويت القهوة بدون سكر، وخليت القبعة الصيفية في الثلاجة، لأن الإضاءة أحسن هناك</span> | <span class="example-en" dir="ltr" lang="en">I made coffee without sugar, and left the summer hat in the fridge, because the light is better there</span> |
+| <span class="example-ar" dir="rtl" lang="ar">سويت القهوة بدون سكر، وخليت القبعة الصيفية تحت السرير، لأن الإضاءة أحسن هناك</span> | <span class="example-en" dir="ltr" lang="en">I made coffee without sugar, and left the summer hat under the bed, because the light is better there</span> |
 

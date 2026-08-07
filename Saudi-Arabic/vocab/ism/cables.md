@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الكابلات الحين في الحديقة، لأن الجو حار شوي، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a cables now in the park, because the weather is a bit hot, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الكابلات على الشرفة مع المنبه القديميم، لأن الجو حار شوي، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a cables on the balcony with the old alarm, because the weather is a bit hot, and then we locked the door</span> |
 
 

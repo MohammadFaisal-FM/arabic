@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مساء عند الصيدلية مع الغطاء الشفاف، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found an evening at the pharmacy with the clear cover, but keep it near you, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مساء في المكتبة، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put an evening in the library, but keep it near you, and then I washed my hands</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">موسم كان/كانت في السيارة، لأن الزحمة قوية، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">a season was in the car, because traffic is heavy, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت موسم على المكتب، لأن الزحمة قوية، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I saw a season on the desk, because traffic is heavy, and then I replied to the message</span> |
 
 

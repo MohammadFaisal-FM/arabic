@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت وحدة التحكم عند العيادة، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a console at the clinic, for studying tomorrow, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج وحدة التحكم الحين في المدرسة، عشان الدراسة بكرة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a console now at school, for studying tomorrow, and I also took the stapler</span> |
 
 

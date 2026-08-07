@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت وثائق قدام الملعب مع اللاصق الشفاف، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a documents in front of the pitch with the clear tape, because guests are arriving, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت وثائق في المطبخ، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a documents in the kitchen, because guests are arriving, and then I tidied the table</span> |
 
 

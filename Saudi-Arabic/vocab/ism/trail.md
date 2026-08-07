@@ -22,5 +22,5 @@
 | | |
 |-|-|
 | **Root family** | [أ-ث-ر](#roots/athr) — see all word types |
-| **Fiʿl** | [أثّر / يؤثر](#fil/athr) |
+| **Fiʿl** | [أثّر / يؤثّر](#fil/athr) |
 

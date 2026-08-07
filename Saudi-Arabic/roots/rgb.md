@@ -35,5 +35,5 @@ No everyday **fiʿl** (verb) for this root — learn the **ism** (noun) forms in
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [رغبة](#ism/rgb-rghbh) | <span class="example-ar" dir="rtl" lang="ar">لقيت رغبة في المطبخ مع الملف الورقي، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span><br><span class="example-en" dir="ltr" lang="en">I found a desire in the kitchen with the paper file, so the photo comes out clearer, and then I charged the device</span> |
+| اسم · ism (noun / other) | [رغبة](#ism/rgb-rghbh) | <span class="example-ar" dir="rtl" lang="ar">حطّيت رغبة عند الباب، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span><br><span class="example-en" dir="ltr" lang="en">I put a desire at the door, so the photo comes out clearer, and then I charged the device</span> |
 

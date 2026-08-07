@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">غيّر رأيك، ولقيت البطانية الخفيفة في المدرسة، عشان المراجعة أسهل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">Change your mind, and I found the light blanket at school, so revision is easier, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">غيّر رأيك، ولقيت البطانية الخفيفة قدام الملعب، عشان المراجعة أسهل، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">Change your mind, and I found the light blanket in front of the pitch, so revision is easier, and then I washed my hands</span> |
 
 
 ---

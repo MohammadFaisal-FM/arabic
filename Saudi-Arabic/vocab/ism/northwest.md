@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت شمال غرب عند الباب مع المحفظة البنية، لأن الولد نعسان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a northwest at the door with the brown wallet, because the boy is sleepy, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شمال غرب جنب النافذة، لأن الولد نعسان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a northwest beside the window, because the boy is sleepy, and then the boy slept</span> |
 
 

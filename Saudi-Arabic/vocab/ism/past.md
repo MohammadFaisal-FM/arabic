@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ماضي في المطبخ مع الملف الورقي، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a past in the kitchen with the paper file, if you need it later, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ماضي عند الباب، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a past at the door, if you need it later, and then I wiped the floor</span> |
 
 

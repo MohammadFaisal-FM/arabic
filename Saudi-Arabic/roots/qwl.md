@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وش قلت؟، ولقيت الكوب الزجاج على المكتب، عشان نلحق الموعد، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">What did you say?, and I found the glass cup on the desk, so we make the appointment, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وش قلت؟، ولقيت الكوب الزجاج في الحقيبة، عشان نلحق الموعد، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">What did you say?, and I found the glass cup in the bag, so we make the appointment, and then I closed the window</span> |
 
 
 ---

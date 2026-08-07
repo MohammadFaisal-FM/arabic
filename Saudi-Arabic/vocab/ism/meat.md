@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت لحمة في الدرج مع الدفتر الأزرق، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a meat in the drawer with the blue notebook, because work finished early, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لحمة عند الاستقبال، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a meat at reception, because work finished early, and then I washed my hands</span> |
 
 

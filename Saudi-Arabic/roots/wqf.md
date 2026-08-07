@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وقف هنا، ولقيت القلم الرصاص قدام التلفاز، قبل صلاة المغرب، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">Stop here, and I found the pencil in front of the TV, before Maghrib prayer, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وقف هنا، ولقيت القلم الرصاص في الثلاجة، قبل صلاة المغرب، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">Stop here, and I found the pencil in the fridge, before Maghrib prayer, and then we locked the door</span> |
 
 
 ---

@@ -35,5 +35,5 @@ No everyday **fiʿl** (verb) for this root — learn the **ism** (noun) forms in
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [وجود](#ism/wjd-wjwd) | <span class="example-ar" dir="rtl" lang="ar">لقيت وجود عند الباب مع المحفظة البنية، لأن الولد نعسان، وبعدها نام الولد</span><br><span class="example-en" dir="ltr" lang="en">I found an existence at the door with the brown wallet, because the boy is sleepy, and then the boy slept</span> |
+| اسم · ism (noun / other) | [وجود](#ism/wjd-wjwd) | <span class="example-ar" dir="rtl" lang="ar">حطّيت وجود جنب النافذة، لأن الولد نعسان، وبعدها نام الولد</span><br><span class="example-en" dir="ltr" lang="en">I put an existence beside the window, because the boy is sleepy, and then the boy slept</span> |
 

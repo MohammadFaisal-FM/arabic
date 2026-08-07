@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مخ في البقالة، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a brain at the grocery, before the driver arrives, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مخ الحين عند الصيدلية، قبل ما يجي السائق، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a brain now at the pharmacy, before the driver arrives, and I also took the long charger</span> |
 
 

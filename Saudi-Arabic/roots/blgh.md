@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">بلغني الخبر، ولقيت الكرتون الفاضي في الدرج، عشان الدراسة بكرة، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">The news reached me, and I found the empty carton in the drawer, for studying tomorrow, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">بلغني الخبر، ولقيت الكرتون الفاضي عند الاستقبال، عشان الدراسة بكرة، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">The news reached me, and I found the empty carton at reception, for studying tomorrow, and then I turned on the fan</span> |
 
 
 ---

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت اصبع في السيارة، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a finger in the car, so revision is easier, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اصبع الحين على المكتب، عشان المراجعة أسهل، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a finger now on the desk, so revision is easier, and I also took the soft pillow</span> |
 
 

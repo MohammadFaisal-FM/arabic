@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">بعت السيارة، ولقيت الغطاء الشفاف في الثلاجة، لأن البطارية ضعيفة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I sold the car, and I found the clear cover in the fridge, because the battery is low, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">بعت السيارة، ولقيت الغطاء الشفاف تحت السرير، لأن البطارية ضعيفة، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I sold the car, and I found the clear cover under the bed, because the battery is low, and then I wrote a note</span> |
 
 
 ---

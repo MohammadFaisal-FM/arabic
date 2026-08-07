@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ملحوظات الحين في المطبخ، لأن الوقت ضيق، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a notes now in the kitchen, because time is tight, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ملحوظات عند الباب مع الملف الورقي، لأن الوقت ضيق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a notes at the door with the paper file, because time is tight, and then I charged the device</span> |
 
 

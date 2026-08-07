@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت دعوى على الشرفة مع البطاقة الصفراء، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found an argument on the balcony with the yellow card, before the driver arrives, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دعوى في الغرفة، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put an argument in the room, before the driver arrives, and then I replied to the message</span> |
 
 

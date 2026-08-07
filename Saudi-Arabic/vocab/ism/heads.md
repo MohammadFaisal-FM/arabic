@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج رؤساء الحين في المكتبة، إذا احتجته بعدين، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a heads now in the library, if you need it later, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رؤساء قدام المصعد مع الملعقة الصغيرة، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a heads in front of the elevator with the small spoon, if you need it later, and then I charged the device</span> |
 
 

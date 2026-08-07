@@ -35,5 +35,5 @@ No everyday **fiʿl** (verb) for this root — learn the **ism** (noun) forms in
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [وضع](#ism/mode) | <span class="example-ar" dir="rtl" lang="ar">لقيت وضع في المحطة مع الكابل القصير، عشان ما يضيع، وبعد كده رنّ الجوال</span><br><span class="example-en" dir="ltr" lang="en">I found a mode at the station with the short cable, so it doesn’t get lost, and then the phone rang</span> |
+| اسم · ism (noun / other) | [وضع](#ism/mode) | <span class="example-ar" dir="rtl" lang="ar">حطّيت وضع عند العيادة، عشان ما يضيع، وبعد كده رنّ الجوال</span><br><span class="example-en" dir="ltr" lang="en">I put a mode at the clinic, so it doesn’t get lost, and then the phone rang</span> |
 

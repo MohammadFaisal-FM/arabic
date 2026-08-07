@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت أبواب في البقالة، قبل ما يقفل المكان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a doors at the grocery, before the place closes, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أبواب الحين عند الصيدلية، قبل ما يقفل المكان، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a doors now at the pharmacy, before the place closes, and I also took the long charger</span> |
 
 

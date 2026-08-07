@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مجتمع الحين في الغرفة، بس خلّه قريب منك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a community now in the room, but keep it near you, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مجتمع جنب البنك مع المفتاح الاحتياطي، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a community next to the bank with the spare key, but keep it near you, and then I washed my hands</span> |
 
 

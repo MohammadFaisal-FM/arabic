@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الاختلافات في الثلاجة مع القبعة الصيفية، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a differences in the fridge with the summer hat, before the food gets cold, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الاختلافات تحت السرير، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a differences under the bed, before the food gets cold, and then we prayed</span> |
 
 

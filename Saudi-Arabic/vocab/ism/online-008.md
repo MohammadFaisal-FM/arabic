@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت اساس على المكتب، بس خلّه قريب منك، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a foundation on the desk, but keep it near you, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اساس الحين في الحقيبة، بس خلّه قريب منك، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a foundation now in the bag, but keep it near you, and I also took the light blanket</span> |
 
 

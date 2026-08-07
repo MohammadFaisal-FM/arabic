@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أظن كذا، ولقيت المفتاح الاحتياطي في البقالة، قبل ما يقفل المكان، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I think so, and I found the spare key at the grocery, before the place closes, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أظن كذا، ولقيت المفتاح الاحتياطي عند الصيدلية، قبل ما يقفل المكان، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I think so, and I found the spare key at the pharmacy, before the place closes, and then I tidied the table</span> |
 
 
 ---

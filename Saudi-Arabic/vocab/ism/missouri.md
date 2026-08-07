@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ميسوري في الثلاجة، لأن الجو حار شوي، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a missouri in the fridge, because the weather is a bit hot, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ميسوري الحين تحت السرير، لأن الجو حار شوي، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a missouri now under the bed, because the weather is a bit hot, and I also took the summer hat</span> |
 
 

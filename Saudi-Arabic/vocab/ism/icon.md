@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت رمز في الصالون، لأن الولد نعسان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put an icon in the living room, because the boy is sleepy, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج رمز الحين جنب المسجد، لأن الولد نعسان، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need an icon now next to the mosque, because the boy is sleepy, and I also took the clean tissue</span> |
 
 

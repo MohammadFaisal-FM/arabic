@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج نص الحين قدام المصعد، عشان ما يضيع، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a text now in front of the elevator, so it doesn’t get lost, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت نص في الحديقة مع الكرتون الفاضي، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a text in the park with the empty carton, so it doesn’t get lost, and then the boy slept</span> |
 
 

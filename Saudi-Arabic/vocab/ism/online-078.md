@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ايذاء الحين في الحقيبة، لأن البطارية ضعيفة، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a harming now in the bag, because the battery is low, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ايذاء قدام التلفاز مع الحذاء النظيف، لأن البطارية ضعيفة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a harming in front of the TV with the clean shoes, because the battery is low, and then I closed the window</span> |
 
 

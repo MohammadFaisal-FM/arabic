@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت طارئ في الدرج، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put an emergency in the drawer, because guests are arriving, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج طارئ الحين عند الاستقبال، عشان الضيوف يوصلون، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need an emergency now at reception, because guests are arriving, and I also took the blue notebook</span> |
 
 

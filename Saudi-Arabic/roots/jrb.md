@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">جربت الأكل، ولقيت اللاصق الشفاف في الحديقة، قبل ما يجي السائق، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I tried the food, and I found the clear tape in the park, before the driver arrives, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">جربت الأكل، ولقيت اللاصق الشفاف على الشرفة، قبل ما يجي السائق، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I tried the food, and I found the clear tape on the balcony, before the driver arrives, and then I tidied the table</span> |
 
 
 ---

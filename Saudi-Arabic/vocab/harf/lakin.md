@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أبي أطلع، لكن الجو مو زين، فخلّيت الكرتون الفاضي قدام المصعد</span> | <span class="example-en" dir="ltr" lang="en">I want to go out, but the weather isn’t good, so I left the empty carton in front of the elevator</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أبي أطلع، لكن الجو مو زين، فخلّيت الكرتون الفاضي في الحديقة</span> | <span class="example-en" dir="ltr" lang="en">I want to go out, but the weather isn’t good, so I left the empty carton in the park</span> |
 

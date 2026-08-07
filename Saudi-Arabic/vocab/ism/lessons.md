@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن الدروس شوي، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">We talked about a lessons a bit, because the light is better there, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">الدروس كان/كانت في السيارة، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">a lessons was in the car, because the light is better there, and then I drank some water</span> |
 
 

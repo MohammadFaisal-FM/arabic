@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أسألك سؤال، ولقيت المقص الحاد في الحديقة، لأن الجو حار شوي، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">Can I ask you something?, and I found the sharp scissors in the park, because the weather is a bit hot, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أسألك سؤال، ولقيت المقص الحاد على الشرفة، لأن الجو حار شوي، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">Can I ask you something?, and I found the sharp scissors on the balcony, because the weather is a bit hot, and then I replied to the message</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [سؤال](#ism/suwal) | <span class="example-ar" dir="rtl" lang="ar">لقيت سؤال في الغرفة مع المفتاح الاحتياطي، عشان الضيوف يوصلون، وبعدها غسّلت يديني</span><br><span class="example-en" dir="ltr" lang="en">I found a question in the room with the spare key, because guests are arriving, and then I washed my hands</span> |
+| اسم · ism (noun / other) | [سؤال](#ism/suwal) | <span class="example-ar" dir="rtl" lang="ar">حطّيت سؤال جنب البنك، عشان الضيوف يوصلون، وبعدها غسّلت يديني</span><br><span class="example-en" dir="ltr" lang="en">I put a question next to the bank, because guests are arriving, and then I washed my hands</span> |
 

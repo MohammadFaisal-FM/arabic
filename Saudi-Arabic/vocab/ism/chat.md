@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت محادثة جنب النافذة، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a chat beside the window, before the food gets cold, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج محادثة الحين في السيارة، قبل ما يبرد الأكل، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a chat now in the car, before the food gets cold, and I also took the sunglasses</span> |
 
 

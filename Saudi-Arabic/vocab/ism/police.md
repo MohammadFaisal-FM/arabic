@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت شرطة في الصالون، قبل صلاة المغرب، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a police in the living room, before Maghrib prayer, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شرطة الحين جنب المسجد، قبل صلاة المغرب، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a police now next to the mosque, before Maghrib prayer, and I also took the clean tissue</span> |
 
 

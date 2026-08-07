@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يزيد في الحديقة، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an increase in the park, because the light is better there, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يزيد الحين على الشرفة، لأن الإضاءة أحسن هناك، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need an increase now on the balcony, because the light is better there, and I also took the old alarm</span> |
 
 

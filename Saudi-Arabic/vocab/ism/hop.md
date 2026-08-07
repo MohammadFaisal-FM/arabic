@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج قفز الحين في المكتبة، لأن البطارية ضعيفة، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a hop now in the library, because the battery is low, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت قفز قدام المصعد مع الملعقة الصغيرة، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a hop in front of the elevator with the small spoon, because the battery is low, and then I wiped the floor</span> |
 
 

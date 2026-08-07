@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت يطلب في الحديقة، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I saw a demand in the park, before the food gets cold, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن يطلب شوي، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">We talked about a demand a bit, before the food gets cold, and then we locked the door</span> |
 
 

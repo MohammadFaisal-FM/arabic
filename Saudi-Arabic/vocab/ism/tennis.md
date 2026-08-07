@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت تنس في الدرج مع الدفتر الأزرق، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a tennis in the drawer with the blue notebook, so we make the appointment, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تنس عند الاستقبال، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a tennis at reception, so we make the appointment, and then I washed my hands</span> |
 
 

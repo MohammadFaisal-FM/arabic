@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أمشي كل يوم، ولقيت اللاصق الشفاف على الشرفة، عشان المراجعة أسهل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I walk every day, and I found the clear tape on the balcony, so revision is easier, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أمشي كل يوم، ولقيت اللاصق الشفاف في الغرفة، عشان المراجعة أسهل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I walk every day, and I found the clear tape in the room, so revision is easier, and then I tidied the table</span> |
 
 
 ---

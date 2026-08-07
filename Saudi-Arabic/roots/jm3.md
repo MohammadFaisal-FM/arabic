@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">جمعنا الفلوس، ولقيت المقص الحاد قدام المصعد، لأن الإضاءة أحسن هناك، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">We collected the money, and I found the sharp scissors in front of the elevator, because the light is better there, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">جمعنا الفلوس، ولقيت المقص الحاد في الحديقة، لأن الإضاءة أحسن هناك، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">We collected the money, and I found the sharp scissors in the park, because the light is better there, and then we laughed a bit</span> |
 
 
 ---

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الإنفاق في البقالة، عشان المراجعة أسهل، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a spending at the grocery, so revision is easier, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الإنفاق الحين عند الصيدلية، عشان المراجعة أسهل، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a spending now at the pharmacy, so revision is easier, and I also took the long charger</span> |
 
 

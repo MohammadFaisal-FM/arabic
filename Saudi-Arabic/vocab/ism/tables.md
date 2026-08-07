@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الجداول الحين في الغرفة، لأن الشغل خلص بدري، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a tables now in the room, because work finished early, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الجداول جنب البنك مع المفتاح الاحتياطي، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a tables next to the bank with the spare key, because work finished early, and then I wrote a note</span> |
 
 

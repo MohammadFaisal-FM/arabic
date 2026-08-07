@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت اثبات عند الاستقبال مع الغطاء الشفاف، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a proof at reception with the clear cover, because the battery is low, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اثبات في الصالون، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a proof in the living room, because the battery is low, and then I wiped the floor</span> |
 
 

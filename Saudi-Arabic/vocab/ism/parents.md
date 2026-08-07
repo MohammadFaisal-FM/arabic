@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت آباء جنب المسجد، لأن الجو حار شوي، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a parents next to the mosque, because the weather is a bit hot, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج آباء الحين في البقالة، لأن الجو حار شوي، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a parents now at the grocery, because the weather is a bit hot, and I also took the pencil</span> |
 
 

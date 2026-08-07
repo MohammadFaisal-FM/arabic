@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت العناوين في الدرج مع الدفتر الأزرق، عشان الضيوف يوصلون، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a titles in the drawer with the blue notebook, because guests are arriving, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت العناوين عند الاستقبال، عشان الضيوف يوصلون، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a titles at reception, because guests are arriving, and then I wrote a note</span> |
 
 

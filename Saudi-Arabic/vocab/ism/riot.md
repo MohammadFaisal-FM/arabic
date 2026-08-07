@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت أعمال شغب في الدرج، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a riot in the drawer, because work finished early, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج أعمال شغب الحين عند الاستقبال، لأن الشغل خلص بدري، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a riot now at reception, because work finished early, and I also took the blue notebook</span> |
 
 

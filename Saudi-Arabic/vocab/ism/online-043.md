@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اقصي الحين في الغرفة، بس خلّه قريب منك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a maximum now in the room, but keep it near you, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اقصي جنب البنك مع المفتاح الاحتياطي، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a maximum next to the bank with the spare key, but keep it near you, and then I washed my hands</span> |
 
 

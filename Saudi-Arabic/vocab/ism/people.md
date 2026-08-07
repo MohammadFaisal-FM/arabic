@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت الناس جنب المسجد، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I saw a people next to the mosque, before the food gets cold, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن الناس شوي، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">We talked about a people a bit, before the food gets cold, and then I drank some water</span> |
 
 

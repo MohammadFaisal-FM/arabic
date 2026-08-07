@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج فوري الحين في الحديقة، عشان الدراسة بكرة، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need an instant now in the park, for studying tomorrow, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فوري على الشرفة مع المنبه القديميم، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an instant on the balcony with the old alarm, for studying tomorrow, and then we prayed</span> |
 
 

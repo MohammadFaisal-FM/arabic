@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">عدّ الفلوس، ولقيت الملف الورقي في الغرفة، بس خلّه قريب منك، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">Count the money, and I found the paper file in the room, but keep it near you, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">عدّ الفلوس، ولقيت الملف الورقي جنب البنك، بس خلّه قريب منك، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">Count the money, and I found the paper file next to the bank, but keep it near you, and then I wiped the floor</span> |
 
 
 ---

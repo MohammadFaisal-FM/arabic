@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وين الجورب الأبيض؟ دوّرت قدام التلفاز، عشان ما نتأخر</span> | <span class="example-en" dir="ltr" lang="en">Where is the white sock? I looked in front of the TV, so we are not late</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين الجورب الأبيض؟ دوّرت في الثلاجة، عشان ما نتأخر</span> | <span class="example-en" dir="ltr" lang="en">Where is the white sock? I looked in the fridge, so we are not late</span> |
 

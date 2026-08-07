@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت سمعة في الدرج، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a reputation in the drawer, but keep it near you, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سمعة الحين عند الاستقبال، بس خلّه قريب منك، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a reputation now at reception, but keep it near you, and I also took the blue notebook</span> |
 
 

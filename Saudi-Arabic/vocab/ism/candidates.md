@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مرشحين قدام الملعب مع اللاصق الشفاف، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a candidates in front of the pitch with the clear tape, because work finished early, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مرشحين في المطبخ، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a candidates in the kitchen, because work finished early, and then I wrote a note</span> |
 
 

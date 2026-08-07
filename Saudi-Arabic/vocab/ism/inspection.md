@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت تقتيش عند الباب، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put an inspection at the door, before Maghrib prayer, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تقتيش الحين جنب النافذة، قبل صلاة المغرب، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need an inspection now beside the window, before Maghrib prayer, and I also took the brown wallet</span> |
 
 

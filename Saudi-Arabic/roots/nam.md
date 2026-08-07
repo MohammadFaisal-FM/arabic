@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أنام بدري، ولقيت البطانية الخفيفة في المدرسة، قبل ما يجي السائق، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I sleep early, and I found the light blanket at school, before the driver arrives, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أنام بدري، ولقيت البطانية الخفيفة قدام الملعب، قبل ما يجي السائق، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I sleep early, and I found the light blanket in front of the pitch, before the driver arrives, and then I wrote a note</span> |
 
 
 ---

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت معمل في المكتبة مع الملعقة الصغيرة، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a laboratory in the library with the small spoon, if you need it later, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت معمل قدام المصعد، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a laboratory in front of the elevator, if you need it later, and then I wiped the floor</span> |
 
 

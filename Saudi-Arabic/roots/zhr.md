@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ظهر الحل، ولقيت الزجاجة الفارغة عند الصيدلية، عشان الضيوف يوصلون، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">The solution appeared, and I found the empty bottle at the pharmacy, because guests are arriving, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ظهر الحل، ولقيت الزجاجة الفارغة في المكتبة، عشان الضيوف يوصلون، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">The solution appeared, and I found the empty bottle in the library, because guests are arriving, and then I closed the window</span> |
 
 
 ---

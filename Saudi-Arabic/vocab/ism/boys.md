@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن الأولاد شوي، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a boys a bit, so revision is easier, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">الأولاد كان/كانت على المكتب، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">a boys was on the desk, so revision is easier, and then I replied to the message</span> |
 
 

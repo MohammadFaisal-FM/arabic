@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت تأجير جنب النافذة، لأن الجو حار شوي، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a rental beside the window, because the weather is a bit hot, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تأجير الحين في السيارة، لأن الجو حار شوي، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a rental now in the car, because the weather is a bit hot, and I also took the sunglasses</span> |
 
 

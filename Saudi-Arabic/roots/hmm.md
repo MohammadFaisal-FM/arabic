@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">يهمني الأمر، ولقيت الكوب الزجاج على المكتب، عشان الضيوف يوصلون، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">This matters to me, and I found the glass cup on the desk, because guests are arriving, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">يهمني الأمر، ولقيت الكوب الزجاج في الحقيبة، عشان الضيوف يوصلون، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">This matters to me, and I found the glass cup in the bag, because guests are arriving, and then I charged the device</span> |
 
 
 ---

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ألاباما الحين جنب المسجد، قبل ما يبرد الأكل، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need an alabama now next to the mosque, before the food gets cold, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ألاباما في البقالة مع القلم الرصاص، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an alabama at the grocery with the pencil, before the food gets cold, and then we prayed</span> |
 
 

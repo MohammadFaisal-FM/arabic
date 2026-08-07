@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج برد الحين في الصالون، لأن الولد نعسان، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a cold now in the living room, because the boy is sleepy, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت برد جنب المسجد مع المنديل النظيف، لأن الولد نعسان، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a cold next to the mosque with the clean tissue, because the boy is sleepy, and then I turned on the fan</span> |
 
 

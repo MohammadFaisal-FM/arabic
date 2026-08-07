@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج جمعة الحين جنب المسجد، لأن الجو حار شوي، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a friday now next to the mosque, because the weather is a bit hot, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جمعة في البقالة مع القلم الرصاص، لأن الجو حار شوي، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a friday at the grocery with the pencil, because the weather is a bit hot, and then I drank some water</span> |
 
 

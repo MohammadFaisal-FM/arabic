@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت انتخاب قدام التلفاز، عشان ما نتأخر، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put an election in front of the TV, so we are not late, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج انتخاب الحين في الثلاجة، عشان ما نتأخر، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need an election now in the fridge, so we are not late, and I also took the white sock</span> |
 
 

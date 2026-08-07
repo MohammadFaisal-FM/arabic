@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الموقف الحين عند الباب، عشان ما يضيع، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a situation now at the door, so it doesn’t get lost, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الموقف جنب النافذة مع المحفظة البنية، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a situation beside the window with the brown wallet, so it doesn’t get lost, and then the boy slept</span> |
 
 

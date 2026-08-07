@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت أشياء في الدرج مع الدفتر الأزرق، عشان الضيوف يوصلون، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a things in the drawer with the blue notebook, because guests are arriving, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت أشياء عند الاستقبال، عشان الضيوف يوصلون، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a things at reception, because guests are arriving, and then I wrote a note</span> |
 
 

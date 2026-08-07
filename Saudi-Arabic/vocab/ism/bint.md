@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">بنت كان/كانت في المكتبة، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">a girl was in the library, if you need it later, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت بنت قدام المصعد، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I saw a girl in front of the elevator, if you need it later, and then I charged the device</span> |
 
 

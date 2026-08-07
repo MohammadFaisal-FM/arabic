@@ -21,7 +21,7 @@
 
 | Form | Past / present | Fiʿl |
 |------|----------------|------|
-| II | أثّر / يؤثر · everyday: affect / influence — use على (عليه / عليّ) | [Open](#fil/athr) |
+| II | أثّر / يؤثّر · everyday: affect / influence — use على (عليه / عليّ) | [Open](#fil/athr) |
 
 ---
 
@@ -29,7 +29,7 @@
 
 | Type | Word | Notes / Example |
 |------|------|-----------------|
-| فعل · fiʿl (Form II) | [أثّر / يؤثر · everyday: affect / influence — use على (عليه / عليّ)](#fil/athr) | <span class="example-ar" dir="rtl" lang="ar">أثّرت عليه بكلامي، وهو كمان أثّر عليّ بردّه</span><br><span class="example-en" dir="ltr" lang="en">I affected him with my words, and he also affected me with his reply.</span> |
+| فعل · fiʿl (Form II) | [أثّر / يؤثّر · everyday: affect / influence — use على (عليه / عليّ)](#fil/athr) | <span class="example-ar" dir="rtl" lang="ar">أثّرت عليه بكلامي، وهو كمان أثّر عليّ بردّه</span><br><span class="example-en" dir="ltr" lang="en">I affected him with my words, and he also affected me with his reply.</span> |
 | مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
 | اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
 | اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |

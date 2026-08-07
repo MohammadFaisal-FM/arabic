@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج معلومات الحين في الغرفة، بس خلّه قريب منك، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need an info now in the room, but keep it near you, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت معلومات جنب البنك مع المفتاح الاحتياطي، بس خلّه قريب منك، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found an info next to the bank with the spare key, but keep it near you, and then I washed my hands</span> |
 
 

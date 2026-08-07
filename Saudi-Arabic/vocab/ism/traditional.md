@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت تقليدي عند الصيدلية مع الغطاء الشفاف، عشان نلحق الموعد، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a traditional at the pharmacy with the clear cover, so we make the appointment, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تقليدي في المكتبة، عشان نلحق الموعد، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a traditional in the library, so we make the appointment, and then I wrote a note</span> |
 
 

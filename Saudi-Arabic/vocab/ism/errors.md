@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أخطاء الحين عند الصيدلية، عشان نلحق الموعد، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an errors now at the pharmacy, so we make the appointment, and I also took the clear cover</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أخطاء في المكتبة مع الغطاء الشفاف، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found an errors in the library with the clear cover, so we make the appointment, and then I washed my hands</span> |
 
 

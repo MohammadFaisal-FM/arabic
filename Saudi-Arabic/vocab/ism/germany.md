@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن ألمانيا شوي، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a germany a bit, because work finished early, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ألمانيا كان/كانت عند الاستقبال، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">a germany was at reception, because work finished early, and then I wrote a note</span> |
 
 

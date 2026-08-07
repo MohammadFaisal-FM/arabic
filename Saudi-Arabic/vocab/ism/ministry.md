@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الوزارة عند الصيدلية، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a ministry at the pharmacy, but keep it near you, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الوزارة الحين في المكتبة، بس خلّه قريب منك، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a ministry now in the library, but keep it near you, and I also took the clear cover</span> |
 
 

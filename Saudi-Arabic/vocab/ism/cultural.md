@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ثقافية على المكتب مع البطانية الخفيفة، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a cultural on the desk with the light blanket, because work finished early, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ثقافية في الحقيبة، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a cultural in the bag, because work finished early, and then I tidied the table</span> |
 
 

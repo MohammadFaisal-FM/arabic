@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج دواء الحين على المكتب، عشان الضيوف يوصلون، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a medication now on the desk, because guests are arriving, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت دواء في الحقيبة مع البطانية الخفيفة، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a medication in the bag with the light blanket, because guests are arriving, and then I tidied the table</span> |
 
 

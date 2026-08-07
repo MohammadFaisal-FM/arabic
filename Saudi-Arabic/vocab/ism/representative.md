@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ممثل في الثلاجة، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a representative in the fridge, for studying tomorrow, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ممثل الحين تحت السرير، عشان الدراسة بكرة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a representative now under the bed, for studying tomorrow, and I also took the summer hat</span> |
 
 

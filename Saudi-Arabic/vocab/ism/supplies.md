@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج لوازم الحين في المكتبة، إذا احتجته بعدين، وخذيت كمان الملعقة الصغيرة</span> | <span class="example-en" dir="ltr" lang="en">I need a supplies now in the library, if you need it later, and I also took the small spoon</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت لوازم قدام المصعد مع الملعقة الصغيرة، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a supplies in front of the elevator with the small spoon, if you need it later, and then I charged the device</span> |
 
 

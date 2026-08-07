@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">نزلت من السيارة، ولقيت الحذاء النظيف قدام الملعب، عشان نلحق الموعد، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I got out of the car, and I found the clean shoes in front of the pitch, so we make the appointment, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">نزلت من السيارة، ولقيت الحذاء النظيف في المطبخ، عشان نلحق الموعد، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I got out of the car, and I found the clean shoes in the kitchen, so we make the appointment, and then I wiped the floor</span> |
 
 
 ---

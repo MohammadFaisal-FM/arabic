@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الحد الأدنى الحين عند الباب، عشان ما نتأخر، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a minimum now at the door, so we are not late, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الحد الأدنى جنب النافذة مع المحفظة البنية، عشان ما نتأخر، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a minimum beside the window with the brown wallet, so we are not late, and then the boy slept</span> |
 
 

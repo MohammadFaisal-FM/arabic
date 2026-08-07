@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مُكَمِّلات على الشرفة مع البطاقة الصفراء، لأن الزحمة قوية، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found an accessories on the balcony with the yellow card, because traffic is heavy, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مُكَمِّلات في الغرفة، لأن الزحمة قوية، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put an accessories in the room, because traffic is heavy, and then I turned off the light</span> |
 
 

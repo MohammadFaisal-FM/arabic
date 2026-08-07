@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الزيارات الحين قدام التلفاز، عشان ما يضيع، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a visits now in front of the TV, so it doesn’t get lost, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الزيارات في الثلاجة مع الجورب الأبيض، عشان ما يضيع، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a visits in the fridge with the white sock, so it doesn’t get lost, and then I turned on the fan</span> |
 
 

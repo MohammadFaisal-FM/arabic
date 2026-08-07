@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن دائم شوي، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">We talked about a permanent a bit, before the driver arrives, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">دائم كان/كانت عند الصيدلية، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">a permanent was at the pharmacy, before the driver arrives, and then I replied to the message</span> |
 
 

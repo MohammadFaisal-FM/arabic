@@ -344,9 +344,7 @@ function nextCombo() {
 function extractPresentStem(present) {
   const p = (present || '').trim();
   if (!p) return '';
-  // Form II like يؤثر / يؤكد: dialect writing uses أثر / أكد as the stem
-  // (ي + ؤ… → أ…), so أنا أأثر not أؤثر.
-  if (/^ي[ؤو]/.test(p) && p.length > 2) return `أ${p.slice(2)}`;
+  // Keep hamza stems like ؤثّر from يؤثّر → أؤثّر / نؤثّر / تؤثّر (not أأثّر).
   if (/^[يتأنا]/.test(p) && p.length > 2) return p.slice(1);
   return p;
 }
@@ -381,8 +379,10 @@ function presentForms(stem) {
 
 function futureForms(stem) {
   const s = stem.trim();
+  // أنا future: ب + stem (بؤثّر). If stem starts with ؤ, prefer ب + أ… for Najdi feel (بأثّر).
+  const anaFuture = s.startsWith('ؤ') ? `ب${'أ' + s.slice(1)}` : `ب${s}`;
   return {
-    أنا: `ب${s}`,
+    أنا: anaFuture,
     إحنا: `بن${s}`,
     أنت: `بت${s}`,
     أنتِ: `بت${s}ين`,

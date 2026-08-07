@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الليلة في الحقيبة مع الحذاء النظيف، عشان الصورة تطلع أوضح، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a tonight in the bag with the clean shoes, so the photo comes out clearer, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الليلة قدام التلفاز، عشان الصورة تطلع أوضح، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a tonight in front of the TV, so the photo comes out clearer, and then I wiped the floor</span> |
 
 

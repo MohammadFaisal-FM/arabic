@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مزرعة في الصالون، عشان ما نتأخر، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a farm in the living room, so we are not late, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مزرعة الحين جنب المسجد، عشان ما نتأخر، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a farm now next to the mosque, so we are not late, and I also took the clean tissue</span> |
 
 

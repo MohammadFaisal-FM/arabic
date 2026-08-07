@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج جيرسي الحين قدام الملعب، عشان الضيوف يوصلون، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a jersey now in front of the pitch, because guests are arriving, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جيرسي في المطبخ مع اللاصق الشفاف، عشان الضيوف يوصلون، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a jersey in the kitchen with the clear tape, because guests are arriving, and then I wrote a note</span> |
 
 

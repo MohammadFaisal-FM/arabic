@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">مقارنة كان/كانت على المكتب، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">a comparison was on the desk, because guests are arriving, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت مقارنة في الحقيبة، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I saw a comparison in the bag, because guests are arriving, and then I tidied the table</span> |
 
 

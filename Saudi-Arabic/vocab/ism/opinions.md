@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الآراء الحين في المطبخ، إذا احتجته بعدين، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need an opinions now in the kitchen, if you need it later, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الآراء عند الباب مع الملف الورقي، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found an opinions at the door with the paper file, if you need it later, and then I charged the device</span> |
 
 

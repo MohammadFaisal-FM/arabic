@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">دفعت الحساب، ولقيت الغطاء الشفاف تحت السرير، عشان المراجعة أسهل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I paid the bill, and I found the clear cover under the bed, so revision is easier, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">دفعت الحساب، ولقيت الغطاء الشفاف في الدرج، عشان المراجعة أسهل، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I paid the bill, and I found the clear cover in the drawer, so revision is easier, and then I tidied the table</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [حساب](#ism/hisab) | <span class="example-ar" dir="rtl" lang="ar">أحتاج حساب الحين في الحقيبة، عشان الصورة تطلع أوضح، وخذيت كمان الحذاء النظيف</span><br><span class="example-en" dir="ltr" lang="en">I need a bill now in the bag, so the photo comes out clearer, and I also took the clean shoes</span> |
+| اسم · ism (noun / other) | [حساب](#ism/hisab) | <span class="example-ar" dir="rtl" lang="ar">لقيت حساب قدام التلفاز مع الحذاء النظيف، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span><br><span class="example-en" dir="ltr" lang="en">I found a bill in front of the TV with the clean shoes, so the photo comes out clearer, and then I charged the device</span> |
 

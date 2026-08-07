@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج تسلسل الحين في الثلاجة، عشان الدراسة بكرة، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a sequence now in the fridge, for studying tomorrow, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تسلسل تحت السرير مع القبعة الصيفية، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a sequence under the bed with the summer hat, for studying tomorrow, and then I drank some water</span> |
 
 

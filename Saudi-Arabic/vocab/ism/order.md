@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج طلب الحين عند الاستقبال، عشان الصورة تطلع أوضح، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need an order now at reception, so the photo comes out clearer, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت طلب في الصالون مع الكوب الزجاج، عشان الصورة تطلع أوضح، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found an order in the living room with the glass cup, so the photo comes out clearer, and then I wiped the floor</span> |
 
 

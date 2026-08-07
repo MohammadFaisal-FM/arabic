@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت شركة طيران في البقالة مع الشاحن الطويل، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found an airline at the grocery with the long charger, so revision is easier, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت شركة طيران عند الصيدلية، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put an airline at the pharmacy, so revision is easier, and then I turned off the light</span> |
 
 

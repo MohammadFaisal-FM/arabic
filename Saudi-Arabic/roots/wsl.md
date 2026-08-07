@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وصلت البيت، ولقيت المنديل النظيف في الحقيبة، لأن البطارية ضعيفة، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I arrived home, and I found the clean tissue in the bag, because the battery is low, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وصلت البيت، ولقيت المنديل النظيف قدام التلفاز، لأن البطارية ضعيفة، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I arrived home, and I found the clean tissue in front of the TV, because the battery is low, and then the boy slept</span> |
 
 
 ---

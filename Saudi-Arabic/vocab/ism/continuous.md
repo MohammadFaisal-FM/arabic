@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مستمر في المكتبة مع الملعقة الصغيرة، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a continuous in the library with the small spoon, because time is tight, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مستمر قدام المصعد، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a continuous in front of the elevator, because time is tight, and then I wiped the floor</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج تلك الحين في الثلاجة، لأن الجو حار شوي، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need an ones now in the fridge, because the weather is a bit hot, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تلك تحت السرير مع القبعة الصيفية، لأن الجو حار شوي، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an ones under the bed with the summer hat, because the weather is a bit hot, and then we prayed</span> |
 
 

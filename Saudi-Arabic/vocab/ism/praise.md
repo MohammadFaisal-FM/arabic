@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مدح في الحديقة مع المنبه القديميم، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a praise in the park with the old alarm, before the food gets cold, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مدح على الشرفة، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a praise on the balcony, before the food gets cold, and then we locked the door</span> |
 
 

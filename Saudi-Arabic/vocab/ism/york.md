@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج نيويورك الحين في البقالة، قبل ما يجي السائق، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a york now at the grocery, before the driver arrives, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت نيويورك عند الصيدلية مع الشاحن الطويل، قبل ما يجي السائق، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a york at the pharmacy with the long charger, before the driver arrives, and then I turned off the light</span> |
 
 

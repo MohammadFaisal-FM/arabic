@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت رحلات في السيارة مع الوسادة الناعمة، لأن الزحمة قوية، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a trips in the car with the soft pillow, because traffic is heavy, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت رحلات على المكتب، لأن الزحمة قوية، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a trips on the desk, because traffic is heavy, and then I turned off the light</span> |
 
 

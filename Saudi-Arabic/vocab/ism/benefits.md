@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج فوائد الحين جنب النافذة، عشان الدراسة بكرة، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a benefits now beside the window, for studying tomorrow, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فوائد في السيارة مع النظارة الشمسية، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a benefits in the car with the sunglasses, for studying tomorrow, and then we prayed</span> |
 
 

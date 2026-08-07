@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج إعلانات الحين على الشرفة، قبل ما يقفل المكان، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need an ads now on the balcony, before the place closes, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إعلانات في الغرفة مع البطاقة الصفراء، قبل ما يقفل المكان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found an ads in the room with the yellow card, before the place closes, and then we laughed a bit</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الهياكل في المطبخ مع الملف الورقي، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a structures in the kitchen with the paper file, because time is tight, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الهياكل عند الباب، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a structures at the door, because time is tight, and then I wiped the floor</span> |
 
 

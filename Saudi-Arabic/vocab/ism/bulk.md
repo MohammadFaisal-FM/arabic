@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حجم كبير الحين عند الباب، لأن الولد نعسان، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a bulk now at the door, because the boy is sleepy, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حجم كبير جنب النافذة مع المحفظة البنية، لأن الولد نعسان، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a bulk beside the window with the brown wallet, because the boy is sleepy, and then the phone rang</span> |
 
 

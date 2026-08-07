@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الناقل الحين قدام المصعد، قبل صلاة المغرب، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a carrier now in front of the elevator, before Maghrib prayer, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الناقل في الحديقة مع الكرتون الفاضي، قبل صلاة المغرب، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a carrier in the park with the empty carton, before Maghrib prayer, and then I turned on the fan</span> |
 
 

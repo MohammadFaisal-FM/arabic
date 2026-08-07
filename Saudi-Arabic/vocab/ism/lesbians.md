@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مثليات عند الصيدلية، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a lesbians at the pharmacy, so we make the appointment, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مثليات الحين في المكتبة، عشان نلحق الموعد، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a lesbians now in the library, so we make the appointment, and I also took the clear cover</span> |
 
 

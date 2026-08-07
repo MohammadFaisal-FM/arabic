@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت بقعة في المكتبة مع الملعقة الصغيرة، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a spot in the library with the small spoon, because time is tight, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بقعة قدام المصعد، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a spot in front of the elevator, because time is tight, and then I wiped the floor</span> |
 
 

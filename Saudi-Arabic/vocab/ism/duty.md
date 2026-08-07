@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت واجب جنب النافذة مع النظارة الشمسية، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a duty beside the window with the sunglasses, because the light is better there, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت واجب في السيارة، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a duty in the car, because the light is better there, and then we prayed</span> |
 
 

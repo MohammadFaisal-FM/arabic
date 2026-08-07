@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">يخدم الزباين، ولقيت الكوب الزجاج على المكتب، بس خلّه قريب منك، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">He serves customers, and I found the glass cup on the desk, but keep it near you, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">يخدم الزباين، ولقيت الكوب الزجاج في الحقيبة، بس خلّه قريب منك، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">He serves customers, and I found the glass cup in the bag, but keep it near you, and then I charged the device</span> |
 
 
 ---

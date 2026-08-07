@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت كتالوج عند الباب، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a catalog at the door, so we are not late, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كتالوج الحين جنب النافذة، عشان ما نتأخر، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a catalog now beside the window, so we are not late, and I also took the brown wallet</span> |
 
 

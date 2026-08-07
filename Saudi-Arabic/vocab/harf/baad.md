@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «بعد» في الجملة، وحطينا الدباسة عند العيادة، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">We used “بعد” (after) in the sentence, and put the stapler at the clinic, before the food gets cold, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «بعد» في الجملة، وحطينا الدباسة في المدرسة، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">We used “بعد” (after) in the sentence, and put the stapler at school, before the food gets cold, and then I drank some water</span> |
 

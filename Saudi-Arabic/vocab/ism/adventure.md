@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مفامرة جنب المسجد مع القلم الرصاص، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found an adventure next to the mosque with the pencil, before the food gets cold, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مفامرة في البقالة، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an adventure at the grocery, before the food gets cold, and then I drank some water</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت اشد قدام الملعب، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a harder in front of the pitch, but keep it near you, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اشد الحين في المطبخ، بس خلّه قريب منك، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a harder now in the kitchen, but keep it near you, and I also took the clear tape</span> |
 
 

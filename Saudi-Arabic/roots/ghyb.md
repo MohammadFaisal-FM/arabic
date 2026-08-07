@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">غاب عن الدرس، ولقيت الوسادة الناعمة عند العيادة، قبل ما يبرد الأكل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">He missed the lesson, and I found the soft pillow at the clinic, before the food gets cold, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">غاب عن الدرس، ولقيت الوسادة الناعمة في المدرسة، قبل ما يبرد الأكل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">He missed the lesson, and I found the soft pillow at school, before the food gets cold, and then I replied to the message</span> |
 
 
 ---

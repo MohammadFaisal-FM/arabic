@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">الشركة المصنعة كان/كانت في الغرفة، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">a manufacturer was in the room, because work finished early, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت الشركة المصنعة جنب البنك، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I saw a manufacturer next to the bank, because work finished early, and then I wrote a note</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الغربي الحين قدام التلفاز، قبل صلاة المغرب، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a western now in front of the TV, before Maghrib prayer, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الغربي في الثلاجة مع الجورب الأبيض، قبل صلاة المغرب، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a western in the fridge with the white sock, before Maghrib prayer, and then the phone rang</span> |
 
 

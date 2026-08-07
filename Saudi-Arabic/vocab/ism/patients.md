@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت مرضى في الدرج، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a patients in the drawer, because guests are arriving, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج مرضى الحين عند الاستقبال، عشان الضيوف يوصلون، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a patients now at reception, because guests are arriving, and I also took the blue notebook</span> |
 
 

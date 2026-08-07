@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج احياء الحين في المحطة، إذا احتجته بعدين، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a revival now at the station, if you need it later, and I also took the sharp scissors</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت احياء قدام الملعب، إذا احتجته بعدين، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a revival in front of the pitch, if you need it later, and then we laughed a bit</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ساعات الحين في الحقيبة، عشان الصورة تطلع أوضح، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a hours now in the bag, so the photo comes out clearer, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ساعات قدام التلفاز مع الحذاء النظيف، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a hours in front of the TV with the clean shoes, so the photo comes out clearer, and then I charged the device</span> |
 
 

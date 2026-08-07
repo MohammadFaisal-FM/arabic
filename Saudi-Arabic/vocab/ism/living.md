@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج معيشة الحين في الحقيبة، لأن الوقت ضيق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a living now in the bag, because time is tight, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت معيشة قدام التلفاز مع الحذاء النظيف، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a living in front of the TV with the clean shoes, because time is tight, and then I wiped the floor</span> |
 
 

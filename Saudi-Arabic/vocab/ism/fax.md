@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت فاكس في المحطة، عشان ما نتأخر، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a fax at the station, so we are not late, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فاكس الحين عند العيادة، عشان ما نتأخر، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a fax now at the clinic, so we are not late, and I also took the short cable</span> |
 
 

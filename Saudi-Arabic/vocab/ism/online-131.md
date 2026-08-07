@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الماس الحين في الحقيبة، لأن الوقت ضيق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a diamond now in the bag, because time is tight, and I also took the clean shoes</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الماس قدام التلفاز مع الحذاء النظيف، لأن الوقت ضيق، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a diamond in front of the TV with the clean shoes, because time is tight, and then I wiped the floor</span> |
 
 

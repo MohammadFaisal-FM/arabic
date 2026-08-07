@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج رقعة الحين في الثلاجة، قبل ما يبرد الأكل، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a patch now in the fridge, before the food gets cold, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رقعة تحت السرير مع القبعة الصيفية، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a patch under the bed with the summer hat, before the food gets cold, and then we locked the door</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت إيداع عند الباب، لأن الولد نعسان، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a deposit at the door, because the boy is sleepy, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج إيداع الحين جنب النافذة، لأن الولد نعسان، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a deposit now beside the window, because the boy is sleepy, and I also took the brown wallet</span> |
 
 

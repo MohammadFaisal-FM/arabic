@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت دروس في السيارة مع الوسادة الناعمة، قبل ما يقفل المكان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a tutorials in the car with the soft pillow, before the place closes, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت دروس على المكتب، قبل ما يقفل المكان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a tutorials on the desk, before the place closes, and then I replied to the message</span> |
 
 

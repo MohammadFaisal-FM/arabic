@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت نفسه جنب البنك، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a himself next to the bank, if you need it later, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج نفسه الحين في المحطة، إذا احتجته بعدين، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a himself now at the station, if you need it later, and I also took the empty bottle</span> |
 
 

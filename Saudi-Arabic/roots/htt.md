@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطها هنا، ولقيت البطانية الخفيفة في المدرسة، قبل ما يقفل المكان، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">Put it here, and I found the light blanket at school, before the place closes, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطها هنا، ولقيت البطانية الخفيفة قدام الملعب، قبل ما يقفل المكان، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">Put it here, and I found the light blanket in front of the pitch, before the place closes, and then I wrote a note</span> |
 
 
 ---

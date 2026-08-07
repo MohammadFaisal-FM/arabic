@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت منفذ على الشرفة، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a portal on the balcony, so revision is easier, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج منفذ الحين في الغرفة، عشان المراجعة أسهل، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a portal now in the room, so revision is easier, and I also took the yellow card</span> |
 
 

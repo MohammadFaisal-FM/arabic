@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">يضحك كثير، ولقيت الغطاء الشفاف تحت السرير، قبل ما يجي السائق، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">He laughs a lot, and I found the clear cover under the bed, before the driver arrives, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">يضحك كثير، ولقيت الغطاء الشفاف في الدرج، قبل ما يجي السائق، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">He laughs a lot, and I found the clear cover in the drawer, before the driver arrives, and then I washed my hands</span> |
 
 
 ---

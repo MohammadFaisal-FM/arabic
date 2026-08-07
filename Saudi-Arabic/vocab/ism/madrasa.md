@@ -14,7 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مدرسة عند الاستقبال مع الكوب الزجاج، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a school at reception with the glass cup, because the battery is low, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مدرسة في الصالون، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a school in the living room, because the battery is low, and then I wiped the floor</span> |
 
 
 ### Links

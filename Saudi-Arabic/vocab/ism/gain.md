@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يكسب في البقالة مع الشاحن الطويل، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a gain at the grocery with the long charger, so revision is easier, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يكسب عند الصيدلية، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a gain at the pharmacy, so revision is easier, and then I turned off the light</span> |
 
 

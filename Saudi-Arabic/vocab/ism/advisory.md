@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت استشاري قدام المصعد، لأن الولد نعسان، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put an advisory in front of the elevator, because the boy is sleepy, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج استشاري الحين في الحديقة، لأن الولد نعسان، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need an advisory now in the park, because the boy is sleepy, and I also took the empty carton</span> |
 
 

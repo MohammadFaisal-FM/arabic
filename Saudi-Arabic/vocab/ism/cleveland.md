@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت كليفلاند في المطبخ، عشان الصورة تطلع أوضح، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a cleveland in the kitchen, so the photo comes out clearer, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كليفلاند الحين عند الباب، عشان الصورة تطلع أوضح، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a cleveland now at the door, so the photo comes out clearer, and I also took the paper file</span> |
 
 

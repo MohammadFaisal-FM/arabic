@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت فأر في الدرج، عشان نلحق الموعد، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a rat in the drawer, so we make the appointment, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج فأر الحين عند الاستقبال، عشان نلحق الموعد، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a rat now at reception, so we make the appointment, and I also took the blue notebook</span> |
 
 

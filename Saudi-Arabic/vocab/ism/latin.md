@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اللاتينية الحين تحت السرير، قبل ما يقفل المكان، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a latin now under the bed, before the place closes, and I also took the grey scarf</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اللاتينية في الدرج مع الوشاح الرمادي، قبل ما يقفل المكان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a latin in the drawer with the grey scarf, before the place closes, and then I replied to the message</span> |
 
 

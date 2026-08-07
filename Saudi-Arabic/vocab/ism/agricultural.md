@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الزراعية جنب النافذة مع النظارة الشمسية، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an agricultural beside the window with the sunglasses, before the food gets cold, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الزراعية في السيارة، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put an agricultural in the car, before the food gets cold, and then we locked the door</span> |
 
 

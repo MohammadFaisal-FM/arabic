@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">برجع بعدين، ولقيت المنبه القديميم في الصالون، عشان ما يضيع، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I’ll come back later, and I found the old alarm in the living room, so it doesn’t get lost, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">برجع بعدين، ولقيت المنبه القديميم جنب المسجد، عشان ما يضيع، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I’ll come back later, and I found the old alarm next to the mosque, so it doesn’t get lost, and then I drank some water</span> |
 
 
 ---

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت جد جنب النافذة، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I saw a grandfather beside the window, because the light is better there, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن جد شوي، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">We talked about a grandfather a bit, because the light is better there, and then we prayed</span> |
 
 

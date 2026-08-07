@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">ما أشك، ولقيت الوشاح الرمادي جنب النافذة، قبل ما يبرد الأكل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I don’t doubt, and I found the grey scarf beside the window, before the food gets cold, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">ما أشك، ولقيت الوشاح الرمادي في السيارة، قبل ما يبرد الأكل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I don’t doubt, and I found the grey scarf in the car, before the food gets cold, and then I turned off the light</span> |
 
 
 ---

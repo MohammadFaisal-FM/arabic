@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت اختلاف في الحقيبة، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a difference in the bag, because the battery is low, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اختلاف الحين قدام التلفاز، لأن البطارية ضعيفة، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a difference now in front of the TV, because the battery is low, and I also took the clean shoes</span> |
 
 

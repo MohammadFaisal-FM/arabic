@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت سرعة قدام التلفاز مع الجورب الأبيض، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a speed in front of the TV with the white sock, so we are not late, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت سرعة في الثلاجة، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a speed in the fridge, so we are not late, and then the phone rang</span> |
 
 

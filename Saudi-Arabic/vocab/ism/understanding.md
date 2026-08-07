@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج فهم الحين جنب المسجد، قبل ما يبرد الأكل، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need an understanding now next to the mosque, before the food gets cold, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت فهم في البقالة مع القلم الرصاص، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found an understanding at the grocery with the pencil, before the food gets cold, and then we prayed</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت سور على المكتب، عشان الضيوف يوصلون، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a fence on the desk, because guests are arriving, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج سور الحين في الحقيبة، عشان الضيوف يوصلون، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a fence now in the bag, because guests are arriving, and I also took the light blanket</span> |
 
 

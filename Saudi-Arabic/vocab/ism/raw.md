@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت خام في البقالة، قبل ما يقفل المكان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a raw at the grocery, before the place closes, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج خام الحين عند الصيدلية، قبل ما يقفل المكان، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a raw now at the pharmacy, before the place closes, and I also took the long charger</span> |
 
 

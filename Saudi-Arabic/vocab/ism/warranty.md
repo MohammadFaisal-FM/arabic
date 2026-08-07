@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ضمان في الدرج مع الدفتر الأزرق، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a warranty in the drawer with the blue notebook, so we make the appointment, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ضمان عند الاستقبال، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a warranty at reception, so we make the appointment, and then I washed my hands</span> |
 
 

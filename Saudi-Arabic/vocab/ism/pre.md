@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت قبل في المكتبة مع الملعقة الصغيرة، لأن البطارية ضعيفة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a pre in the library with the small spoon, because the battery is low, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قبل قدام المصعد، لأن البطارية ضعيفة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a pre in front of the elevator, because the battery is low, and then I closed the window</span> |
 
 

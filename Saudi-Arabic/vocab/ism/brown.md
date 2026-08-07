@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت بني على المكتب مع البطانية الخفيفة، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a brown on the desk with the light blanket, but keep it near you, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت بني في الحقيبة، بس خلّه قريب منك، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put a brown in the bag, but keep it near you, and then I wrote a note</span> |
 
 

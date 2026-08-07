@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ملفات تعريف الارتباط جنب البنك مع الزجاجة الفارغة، إذا احتجته بعدين، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a cookies next to the bank with the empty bottle, if you need it later, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ملفات تعريف الارتباط في المحطة، إذا احتجته بعدين، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a cookies at the station, if you need it later, and then I closed the window</span> |
 
 

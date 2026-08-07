@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت عين في البقالة مع الشاحن الطويل، قبل ما يقفل المكان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found an eye at the grocery with the long charger, before the place closes, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت عين عند الصيدلية، قبل ما يقفل المكان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an eye at the pharmacy, before the place closes, and then we laughed a bit</span> |
 
 

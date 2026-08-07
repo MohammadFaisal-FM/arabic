@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج وجه الحين على المكتب، عشان نلحق الموعد، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a face now on the desk, so we make the appointment, and I also took the light blanket</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت وجه في الحقيبة مع البطانية الخفيفة، عشان نلحق الموعد، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found a face in the bag with the light blanket, so we make the appointment, and then I wrote a note</span> |
 
 

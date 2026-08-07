@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج رئيسي الحين قدام المصعد، لأن الولد نعسان، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a principal now in front of the elevator, because the boy is sleepy, and I also took the empty carton</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت رئيسي في الحديقة مع الكرتون الفاضي، لأن الولد نعسان، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a principal in the park with the empty carton, because the boy is sleepy, and then the phone rang</span> |
 
 

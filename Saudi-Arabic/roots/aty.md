@@ -35,5 +35,5 @@ No everyday **fiʿl** (verb) for this root — learn the **ism** (noun) forms in
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [مجيء](#ism/aty-mjy) | <span class="example-ar" dir="rtl" lang="ar">لقيت مجيء قدام الملعب مع اللاصق الشفاف، بس خلّه قريب منك، وبعدها غسّلت يديني</span><br><span class="example-en" dir="ltr" lang="en">I found a coming in front of the pitch with the clear tape, but keep it near you, and then I washed my hands</span> |
+| اسم · ism (noun / other) | [مجيء](#ism/aty-mjy) | <span class="example-ar" dir="rtl" lang="ar">حطّيت مجيء في المطبخ، بس خلّه قريب منك، وبعدها غسّلت يديني</span><br><span class="example-en" dir="ltr" lang="en">I put a coming in the kitchen, but keep it near you, and then I washed my hands</span> |
 

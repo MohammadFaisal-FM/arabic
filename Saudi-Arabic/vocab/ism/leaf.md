@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ورقة الحين عند الاستقبال، لأن الوقت ضيق، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a leaf now at reception, because time is tight, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ورقة في الصالون مع الكوب الزجاج، لأن الوقت ضيق، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a leaf in the living room with the glass cup, because time is tight, and then I closed the window</span> |
 
 

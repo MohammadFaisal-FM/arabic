@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت كاثوليكي في الدرج مع الدفتر الأزرق، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a catholic in the drawer with the blue notebook, because work finished early, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كاثوليكي عند الاستقبال، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a catholic at reception, because work finished early, and then I washed my hands</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">انكسر الجوال، ولقيت المفتاح الاحتياطي في البقالة، لأن الزحمة قوية، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">The phone broke, and I found the spare key at the grocery, because traffic is heavy, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">انكسر الجوال، ولقيت المفتاح الاحتياطي عند الصيدلية، لأن الزحمة قوية، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">The phone broke, and I found the spare key at the pharmacy, because traffic is heavy, and then I washed my hands</span> |
 
 
 ---

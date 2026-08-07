@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج المساعد الشخصي الرقمي الحين جنب النافذة، قبل ما يبرد الأكل، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a pda now beside the window, before the food gets cold, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المساعد الشخصي الرقمي في السيارة مع النظارة الشمسية، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a pda in the car with the sunglasses, before the food gets cold, and then I drank some water</span> |
 
 

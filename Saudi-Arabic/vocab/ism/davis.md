@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ديفيس على الشرفة، قبل ما يجي السائق، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a davis on the balcony, before the driver arrives, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ديفيس الحين في الغرفة، قبل ما يجي السائق، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a davis now in the room, before the driver arrives, and I also took the yellow card</span> |
 
 

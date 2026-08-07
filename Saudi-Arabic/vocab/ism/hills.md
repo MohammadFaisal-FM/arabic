@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت التلال في الثلاجة مع القبعة الصيفية، لأن الجو حار شوي، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a hills in the fridge with the summer hat, because the weather is a bit hot, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت التلال تحت السرير، لأن الجو حار شوي، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a hills under the bed, because the weather is a bit hot, and then I drank some water</span> |
 
 

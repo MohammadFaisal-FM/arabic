@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت منزل قدام المصعد مع الكرتون الفاضي، عشان ما يضيع، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a house in front of the elevator with the empty carton, so it doesn’t get lost, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت منزل في الحديقة، عشان ما يضيع، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a house in the park, so it doesn’t get lost, and then I turned on the fan</span> |
 
 

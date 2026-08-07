@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مثال الحين جنب النافذة، لأن الجو حار شوي، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need an example now beside the window, because the weather is a bit hot, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مثال في السيارة مع النظارة الشمسية، لأن الجو حار شوي، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found an example in the car with the sunglasses, because the weather is a bit hot, and then we locked the door</span> |
 
 

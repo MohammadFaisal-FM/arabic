@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يحضر عند العيادة مع الدباسة، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a prepare at the clinic with the stapler, because the light is better there, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يحضر في المدرسة، لأن الإضاءة أحسن هناك، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put a prepare at school, because the light is better there, and then I drank some water</span> |
 
 

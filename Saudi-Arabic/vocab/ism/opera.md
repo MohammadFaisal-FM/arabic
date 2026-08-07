@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أوبرا الحين عند الاستقبال، إذا احتجته بعدين، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need an opera now at reception, if you need it later, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أوبرا في الصالون مع الكوب الزجاج، إذا احتجته بعدين، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found an opera in the living room with the glass cup, if you need it later, and then I closed the window</span> |
 
 

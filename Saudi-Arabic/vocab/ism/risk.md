@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج مخاطرة الحين تحت السرير، قبل ما يجي السائق، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a risk now under the bed, before the driver arrives, and I also took the grey scarf</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت مخاطرة في الدرج مع الوشاح الرمادي، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a risk in the drawer with the grey scarf, before the driver arrives, and then I replied to the message</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ملائم الحين في السيارة، قبل ما يجي السائق، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need an appropriate now in the car, before the driver arrives, and I also took the soft pillow</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ملائم على المكتب مع الوسادة الناعمة، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found an appropriate on the desk with the soft pillow, before the driver arrives, and then we laughed a bit</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ألفا الحين جنب البنك، إذا احتجته بعدين، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need an alpha now next to the bank, if you need it later, and I also took the empty bottle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ألفا في المحطة مع الزجاجة الفارغة، إذا احتجته بعدين، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found an alpha at the station with the empty bottle, if you need it later, and then I wiped the floor</span> |
 
 

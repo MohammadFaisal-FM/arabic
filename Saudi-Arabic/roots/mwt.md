@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">مات البطارية، ولقيت النظارة الشمسية في المحطة، عشان ما يضيع، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">The battery died, and I found the sunglasses at the station, so it doesn’t get lost, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">مات البطارية، ولقيت النظارة الشمسية عند العيادة، عشان ما يضيع، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">The battery died, and I found the sunglasses at the clinic, so it doesn’t get lost, and then I drank some water</span> |
 
 
 ---

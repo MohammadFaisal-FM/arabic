@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج التنظيمية الحين قدام التلفاز، لأن الولد نعسان، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a regulatory now in front of the TV, because the boy is sleepy, and I also took the white sock</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التنظيمية في الثلاجة مع الجورب الأبيض، لأن الولد نعسان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a regulatory in the fridge with the white sock, because the boy is sleepy, and then the boy slept</span> |
 
 

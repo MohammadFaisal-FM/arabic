@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت صحة في المحطة، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a health at the station, so it doesn’t get lost, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج صحة الحين عند العيادة، عشان ما يضيع، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a health now at the clinic, so it doesn’t get lost, and I also took the short cable</span> |
 
 

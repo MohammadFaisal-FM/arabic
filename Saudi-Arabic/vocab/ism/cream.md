@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج كريم الحين جنب النافذة، لأن الإضاءة أحسن هناك، وخذيت كمان النظارة الشمسية</span> | <span class="example-en" dir="ltr" lang="en">I need a cream now beside the window, because the light is better there, and I also took the sunglasses</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كريم في السيارة مع النظارة الشمسية، لأن الإضاءة أحسن هناك، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a cream in the car with the sunglasses, because the light is better there, and then we locked the door</span> |
 
 

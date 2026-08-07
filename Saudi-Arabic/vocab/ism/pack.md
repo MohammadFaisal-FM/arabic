@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج علية الحين جنب المسجد، قبل ما يبرد الأكل، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a pack now next to the mosque, before the food gets cold, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت علية في البقالة مع القلم الرصاص، قبل ما يبرد الأكل، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a pack at the grocery with the pencil, before the food gets cold, and then we prayed</span> |
 
 

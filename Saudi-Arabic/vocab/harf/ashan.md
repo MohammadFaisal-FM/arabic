@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">رتّبت الغرفة عشان الضيوف، وحطيت البطاقة الصفراء على الشرفة</span> | <span class="example-en" dir="ltr" lang="en">I tidied the room for the guests, and put the yellow card on the balcony</span> |
+| <span class="example-ar" dir="rtl" lang="ar">رتّبت الغرفة عشان الضيوف، وحطيت البطاقة الصفراء في الغرفة</span> | <span class="example-en" dir="ltr" lang="en">I tidied the room for the guests, and put the yellow card in the room</span> |
 

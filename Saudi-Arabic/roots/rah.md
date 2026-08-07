@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أروح السوق، ولقيت البطاقة الصفراء جنب المسجد، لأن الإضاءة أحسن هناك، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I’m going to the market, and I found the yellow card next to the mosque, because the light is better there, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أروح السوق، ولقيت البطاقة الصفراء في البقالة، لأن الإضاءة أحسن هناك، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I’m going to the market, and I found the yellow card at the grocery, because the light is better there, and then I turned off the light</span> |
 
 
 ---

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أدرس عربي، ولقيت الشاحن الطويل في الثلاجة، قبل ما يبرد الأكل، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I study Arabic, and I found the long charger in the fridge, before the food gets cold, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أدرس عربي، ولقيت الشاحن الطويل تحت السرير، قبل ما يبرد الأكل، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I study Arabic, and I found the long charger under the bed, before the food gets cold, and then we laughed a bit</span> |
 
 
 ---
@@ -35,9 +35,9 @@
 | مصدر · masdar (verbal noun) | N/A | not common / not listed yet |
 | اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
 | اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
-| اسم مكان · ism makān (place) | [مدرسة](#ism/madrasa) | <span class="example-ar" dir="rtl" lang="ar">لقيت مدرسة عند الاستقبال مع الكوب الزجاج، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span><br><span class="example-en" dir="ltr" lang="en">I found a school at reception with the glass cup, because the battery is low, and then I wiped the floor</span> |
+| اسم مكان · ism makān (place) | [مدرسة](#ism/madrasa) | <span class="example-ar" dir="rtl" lang="ar">حطّيت مدرسة في الصالون، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span><br><span class="example-en" dir="ltr" lang="en">I put a school in the living room, because the battery is low, and then I wiped the floor</span> |
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [درس](#ism/dars) | <span class="example-ar" dir="rtl" lang="ar">درس كان/كانت في الصالون، عشان ما يضيع، وبعد كده رنّ الجوال</span><br><span class="example-en" dir="ltr" lang="en">a lesson was in the living room, so it doesn’t get lost, and then the phone rang</span> |
+| اسم · ism (noun / other) | [درس](#ism/dars) | <span class="example-ar" dir="rtl" lang="ar">شفت درس جنب المسجد، عشان ما يضيع، وبعد كده رنّ الجوال</span><br><span class="example-en" dir="ltr" lang="en">I saw a lesson next to the mosque, so it doesn’t get lost, and then the phone rang</span> |
 

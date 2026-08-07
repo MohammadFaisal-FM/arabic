@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مقبض عند الباب مع المحفظة البنية، عشان ما نتأخر، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a handle at the door with the brown wallet, so we are not late, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مقبض جنب النافذة، عشان ما نتأخر، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a handle beside the window, so we are not late, and then I turned on the fan</span> |
 
 

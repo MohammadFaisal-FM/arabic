@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن جونسون شوي، قبل ما يقفل المكان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">We talked about a johnson a bit, before the place closes, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">جونسون كان/كانت في الدرج، قبل ما يقفل المكان، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">a johnson was in the drawer, before the place closes, and then we laughed a bit</span> |
 
 

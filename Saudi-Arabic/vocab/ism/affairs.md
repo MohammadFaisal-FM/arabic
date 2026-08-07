@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت شؤون قدام الملعب، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put an affairs in front of the pitch, because work finished early, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شؤون الحين في المطبخ، لأن الشغل خلص بدري، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need an affairs now in the kitchen, because work finished early, and I also took the clear tape</span> |
 
 

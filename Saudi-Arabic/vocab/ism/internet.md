@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج إنترنت الحين في الحديقة، قبل ما يبرد الأكل، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need an internet now in the park, before the food gets cold, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت إنترنت على الشرفة مع المنبه القديميم، قبل ما يبرد الأكل، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found an internet on the balcony with the old alarm, before the food gets cold, and then I drank some water</span> |
 
 

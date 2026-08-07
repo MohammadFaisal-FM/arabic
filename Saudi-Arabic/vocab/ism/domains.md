@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج المجالات الحين في الثلاجة، لأن الإضاءة أحسن هناك، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a domains now in the fridge, because the light is better there, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المجالات تحت السرير مع القبعة الصيفية، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a domains under the bed with the summer hat, because the light is better there, and then we prayed</span> |
 
 

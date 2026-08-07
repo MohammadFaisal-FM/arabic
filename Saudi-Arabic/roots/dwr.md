@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أدور على مفتاح، ولقيت الملعقة الصغيرة في الدرج، لأن الشغل خلص بدري، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I’m looking for a key, and I found the small spoon in the drawer, because work finished early, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أدور على مفتاح، ولقيت الملعقة الصغيرة عند الاستقبال، لأن الشغل خلص بدري، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I’m looking for a key, and I found the small spoon at reception, because work finished early, and then I closed the window</span> |
 
 
 ---

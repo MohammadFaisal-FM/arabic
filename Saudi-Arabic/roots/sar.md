@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">صار الليل، ولقيت الدفتر الأزرق في السيارة، عشان المراجعة أسهل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">It became night, and I found the blue notebook in the car, so revision is easier, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">صار الليل، ولقيت الدفتر الأزرق على المكتب، عشان المراجعة أسهل، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">It became night, and I found the blue notebook on the desk, so revision is easier, and then I wrote a note</span> |
 
 
 ---

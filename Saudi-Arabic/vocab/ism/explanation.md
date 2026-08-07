@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت توضيح في المدرسة، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an explanation at school, before the driver arrives, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت توضيح قدام الملعب، قبل ما يجي السائق، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put an explanation in front of the pitch, before the driver arrives, and then we laughed a bit</span> |
 
 

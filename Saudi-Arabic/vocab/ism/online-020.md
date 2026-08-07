@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت اجراء في البقالة، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a procedure at the grocery, for studying tomorrow, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اجراء الحين عند الصيدلية، عشان الدراسة بكرة، وخذيت كمان الكرتون الفاضي</span> | <span class="example-en" dir="ltr" lang="en">I need a procedure now at the pharmacy, for studying tomorrow, and I also took the empty carton</span> |
 
 

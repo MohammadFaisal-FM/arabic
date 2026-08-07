@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج نفسي الحين في المحطة، قبل صلاة المغرب، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need a myself now at the station, before Maghrib prayer, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت نفسي عند العيادة مع الكابل القصير، قبل صلاة المغرب، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a myself at the clinic with the short cable, before Maghrib prayer, and then the phone rang</span> |
 
 

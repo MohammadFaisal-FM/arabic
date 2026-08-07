@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج تعلُّم الحين جنب المسجد، لأن الجو حار شوي، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a learning now next to the mosque, because the weather is a bit hot, and I also took the pencil</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت تعلُّم في البقالة مع القلم الرصاص، لأن الجو حار شوي، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I found a learning at the grocery with the pencil, because the weather is a bit hot, and then I drank some water</span> |
 
 

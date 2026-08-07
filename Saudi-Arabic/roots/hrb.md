@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">هرب الكلب، ولقيت الدفتر الأزرق في السيارة، قبل ما يقفل المكان، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">The dog ran away, and I found the blue notebook in the car, before the place closes, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">هرب الكلب، ولقيت الدفتر الأزرق على المكتب، قبل ما يقفل المكان، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">The dog ran away, and I found the blue notebook on the desk, before the place closes, and then I washed my hands</span> |
 
 
 ---

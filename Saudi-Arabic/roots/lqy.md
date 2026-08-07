@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت المفتاح، ولقيت الدباسة قدام المصعد، لأن الولد نعسان، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found the key, and I found the stapler in front of the elevator, because the boy is sleepy, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت المفتاح، ولقيت الدباسة في الحديقة، لأن الولد نعسان، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found the key, and I found the stapler in the park, because the boy is sleepy, and then we locked the door</span> |
 
 
 ---

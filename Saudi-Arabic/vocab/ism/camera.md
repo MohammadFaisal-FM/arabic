@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج آلة تصوير الحين جنب البنك، لأن البطارية ضعيفة، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a camera now next to the bank, because the battery is low, and I also took the empty bottle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت آلة تصوير في المحطة مع الزجاجة الفارغة، لأن البطارية ضعيفة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I found a camera at the station with the empty bottle, because the battery is low, and then I closed the window</span> |
 
 

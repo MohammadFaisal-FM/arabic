@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «جنب» في الجملة، وحطينا الوسادة الناعمة في السيارة، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">We used “جنب” (beside / next to) in the sentence, and put the soft pillow in the car, before the driver arrives, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">استخدمنا «جنب» في الجملة، وحطينا الوسادة الناعمة على المكتب، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">We used “جنب” (beside / next to) in the sentence, and put the soft pillow on the desk, before the driver arrives, and then I replied to the message</span> |
 

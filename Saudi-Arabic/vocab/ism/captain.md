@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت قبطان في البقالة مع الشاحن الطويل، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a captain at the grocery with the long charger, so revision is easier, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت قبطان عند الصيدلية، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put a captain at the pharmacy, so revision is easier, and then I turned off the light</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت شيء عند الاستقبال، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a thing at reception, so the photo comes out clearer, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج شيء الحين في الصالون، عشان الصورة تطلع أوضح، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a thing now in the living room, so the photo comes out clearer, and I also took the glass cup</span> |
 
 

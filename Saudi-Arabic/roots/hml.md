@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">احمل الشنطة، ولقيت القبعة الصيفية عند الباب، قبل صلاة المغرب، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">Carry the bag, and I found the summer hat at the door, before Maghrib prayer, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">احمل الشنطة، ولقيت القبعة الصيفية جنب النافذة، قبل صلاة المغرب، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">Carry the bag, and I found the summer hat beside the window, before Maghrib prayer, and then we prayed</span> |
 
 
 ---

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أشرب شاهي، ولقيت الحذاء النظيف قدام الملعب، بس خلّه قريب منك، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I drink tea, and I found the clean shoes in front of the pitch, but keep it near you, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أشرب شاهي، ولقيت الحذاء النظيف في المطبخ، بس خلّه قريب منك، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I drink tea, and I found the clean shoes in the kitchen, but keep it near you, and then I closed the window</span> |
 
 
 ---
@@ -30,7 +30,7 @@
 | Type | Word | Notes / Example |
 |------|------|-----------------|
 | فعل · fiʿl (Form I) | [شرب / يشرب · base meaning: drinking](#fil/shrb) | <span class="example-ar" dir="rtl" lang="ar">أشرب شاهي</span><br><span class="example-en" dir="ltr" lang="en">I drink tea</span> |
-| مصدر · masdar (verbal noun) | [شرب](#ism/shurb) | <span class="example-ar" dir="rtl" lang="ar">أحتاج شرب الحين جنب النافذة، قبل ما يبرد الأكل، وخذيت كمان النظارة الشمسية</span><br><span class="example-en" dir="ltr" lang="en">I need a drinking now beside the window, before the food gets cold, and I also took the sunglasses</span> |
+| مصدر · masdar (verbal noun) | [شرب](#ism/shurb) | <span class="example-ar" dir="rtl" lang="ar">لقيت شرب في السيارة مع النظارة الشمسية، قبل ما يبرد الأكل، وبعدين شربت ميّ</span><br><span class="example-en" dir="ltr" lang="en">I found a drinking in the car with the sunglasses, before the food gets cold, and then I drank some water</span> |
 | اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
 | اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
 | اسم مكان · ism makān (place) | N/A | not common / not listed yet |

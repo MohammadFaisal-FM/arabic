@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن اداء شوي، لأن الولد نعسان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">We talked about a performance a bit, because the boy is sleepy, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">اداء كان/كانت جنب المسجد، لأن الولد نعسان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">a performance was next to the mosque, because the boy is sleepy, and then the boy slept</span> |
 
 

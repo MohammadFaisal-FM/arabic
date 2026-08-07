@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج موقع الحين في المطبخ، إذا احتجته بعدين، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a site now in the kitchen, if you need it later, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت موقع عند الباب مع الملف الورقي، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a site at the door with the paper file, if you need it later, and then I charged the device</span> |
 
 

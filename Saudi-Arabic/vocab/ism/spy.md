@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت جاسوس في السيارة مع الوسادة الناعمة، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I found a spy in the car with the soft pillow, before the driver arrives, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت جاسوس على المكتب، قبل ما يجي السائق، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a spy on the desk, before the driver arrives, and then I replied to the message</span> |
 
 

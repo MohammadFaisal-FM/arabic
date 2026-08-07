@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت خط قدام التلفاز، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a lane in front of the TV, so it doesn’t get lost, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج خط الحين في الثلاجة، عشان ما يضيع، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a lane now in the fridge, so it doesn’t get lost, and I also took the white sock</span> |
 
 

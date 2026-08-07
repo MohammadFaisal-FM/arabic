@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الشمسية جنب البنك، لأن البطارية ضعيفة، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a solar next to the bank, because the battery is low, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الشمسية الحين في المحطة، لأن البطارية ضعيفة، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a solar now at the station, because the battery is low, and I also took the empty bottle</span> |
 
 

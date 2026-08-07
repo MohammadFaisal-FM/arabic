@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج محول الحين في البقالة، لأن الزحمة قوية، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a converter now at the grocery, because traffic is heavy, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت محول عند الصيدلية مع الشاحن الطويل، لأن الزحمة قوية، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a converter at the pharmacy with the long charger, because traffic is heavy, and then we laughed a bit</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الكثير قدام التلفاز مع الجورب الأبيض، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a lots in front of the TV with the white sock, before Maghrib prayer, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الكثير في الثلاجة، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a lots in the fridge, before Maghrib prayer, and then the boy slept</span> |
 
 

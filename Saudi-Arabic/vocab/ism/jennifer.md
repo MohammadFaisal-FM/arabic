@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج جينيفر الحين في المطبخ، إذا احتجته بعدين، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a jennifer now in the kitchen, if you need it later, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جينيفر عند الباب مع الملف الورقي، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a jennifer at the door with the paper file, if you need it later, and then I charged the device</span> |
 
 

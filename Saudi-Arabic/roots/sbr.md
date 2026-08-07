@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">اصبر شوي، ولقيت الكوب الزجاج على المكتب، لأن الشغل خلص بدري، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">Be patient a bit, and I found the glass cup on the desk, because work finished early, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">اصبر شوي، ولقيت الكوب الزجاج في الحقيبة، لأن الشغل خلص بدري، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">Be patient a bit, and I found the glass cup in the bag, because work finished early, and then I wiped the floor</span> |
 
 
 ---

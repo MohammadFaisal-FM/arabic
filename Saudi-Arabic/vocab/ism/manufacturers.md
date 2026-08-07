@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">الشركات المصنعة كان/كانت في الثلاجة، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">a manufacturers was in the fridge, because the light is better there, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت الشركات المصنعة تحت السرير، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I saw a manufacturers under the bed, because the light is better there, and then we prayed</span> |
 
 

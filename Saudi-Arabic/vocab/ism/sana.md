@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت سنة في المدرسة مع المقص الحاد، لأن الزحمة قوية، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a year at school with the sharp scissors, because traffic is heavy, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سنة قدام الملعب مع المقص الحاد، لأن الزحمة قوية، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a year in front of the pitch with the sharp scissors, because traffic is heavy, and then we laughed a bit</span> |
 
 

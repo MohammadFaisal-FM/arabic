@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج العلامات التجارية الحين جنب البنك، عشان الصورة تطلع أوضح، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a brands now next to the bank, so the photo comes out clearer, and I also took the empty bottle</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت العلامات التجارية في المحطة مع الزجاجة الفارغة، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a brands at the station with the empty bottle, so the photo comes out clearer, and then I charged the device</span> |
 
 

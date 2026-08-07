@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اسم الحين في الغرفة، عشان الضيوف يوصلون، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a name now in the room, because guests are arriving, and I also took the spare key</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اسم جنب البنك مع المفتاح الاحتياطي، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a name next to the bank with the spare key, because guests are arriving, and then I tidied the table</span> |
 
 

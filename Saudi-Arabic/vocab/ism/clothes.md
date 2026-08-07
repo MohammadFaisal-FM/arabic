@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج ملابس الحين في الصالون، عشان ما نتأخر، وخذيت كمان المنديل النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a clothes now in the living room, so we are not late, and I also took the clean tissue</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت ملابس جنب المسجد مع المنديل النظيف، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found a clothes next to the mosque with the clean tissue, so we are not late, and then the phone rang</span> |
 
 

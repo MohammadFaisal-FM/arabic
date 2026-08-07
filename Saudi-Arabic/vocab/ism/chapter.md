@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت الفصل في الصالون مع المنديل النظيف، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a chapter in the living room with the clean tissue, so it doesn’t get lost, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت الفصل جنب المسجد، عشان ما يضيع، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a chapter next to the mosque, so it doesn’t get lost, and then the boy slept</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت تخطيط في الحقيبة، لأن الوقت ضيق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a planning in the bag, because time is tight, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تخطيط الحين قدام التلفاز، لأن الوقت ضيق، وخذيت كمان الحذاء النظيف</span> | <span class="example-en" dir="ltr" lang="en">I need a planning now in front of the TV, because time is tight, and I also took the clean shoes</span> |
 
 

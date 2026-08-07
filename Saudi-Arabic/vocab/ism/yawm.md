@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت يوم تحت السرير مع الوشاح الرمادي، لأن الزحمة قوية، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I found a day under the bed with the grey scarf, because traffic is heavy, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت يوم في الدرج، لأن الزحمة قوية، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a day in the drawer, because traffic is heavy, and then we laughed a bit</span> |
 
 

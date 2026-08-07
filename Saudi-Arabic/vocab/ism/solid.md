@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت صلب في الثلاجة، لأن الإضاءة أحسن هناك، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a solid in the fridge, because the light is better there, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج صلب الحين تحت السرير، لأن الإضاءة أحسن هناك، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a solid now under the bed, because the light is better there, and I also took the summer hat</span> |
 
 

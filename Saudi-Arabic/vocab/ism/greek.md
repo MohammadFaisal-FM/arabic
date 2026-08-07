@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت اليونانية في الحقيبة مع الحذاء النظيف، عشان الصورة تطلع أوضح، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I found a greek in the bag with the clean shoes, so the photo comes out clearer, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت اليونانية قدام التلفاز، عشان الصورة تطلع أوضح، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I put a greek in front of the TV, so the photo comes out clearer, and then I wiped the floor</span> |
 
 

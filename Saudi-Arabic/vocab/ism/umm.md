@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أم كان/كانت تحت السرير، قبل ما يقفل المكان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">a mother was under the bed, before the place closes, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت أم في الدرج، قبل ما يقفل المكان، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I saw a mother in the drawer, before the place closes, and then I replied to the message</span> |
 
 

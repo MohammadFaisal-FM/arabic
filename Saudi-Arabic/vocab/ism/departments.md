@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الإدارات عند الصيدلية، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a departments at the pharmacy, because work finished early, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الإدارات الحين في المكتبة، لأن الشغل خلص بدري، وخذيت كمان الغطاء الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a departments now in the library, because work finished early, and I also took the clear cover</span> |
 
 

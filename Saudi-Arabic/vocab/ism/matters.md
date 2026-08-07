@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يهم قدام التلفاز، قبل صلاة المغرب، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I put a matters in front of the TV, before Maghrib prayer, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يهم الحين في الثلاجة، قبل صلاة المغرب، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a matters now in the fridge, before Maghrib prayer, and I also took the white sock</span> |
 
 

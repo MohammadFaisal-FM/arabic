@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت جريمة على المكتب، عشان نلحق الموعد، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a crime on the desk, so we make the appointment, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جريمة الحين في الحقيبة، عشان نلحق الموعد، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a crime now in the bag, so we make the appointment, and I also took the light blanket</span> |
 
 

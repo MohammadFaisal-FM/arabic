@@ -14,5 +14,5 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وصلت بالسيارة، وحطيت المنديل النظيف في الصالون، عشان ما نتأخر</span> | <span class="example-en" dir="ltr" lang="en">I arrived by car, and put the clean tissue in the living room, so we are not late</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وصلت بالسيارة، وحطيت المنديل النظيف جنب المسجد، عشان ما نتأخر</span> | <span class="example-en" dir="ltr" lang="en">I arrived by car, and put the clean tissue next to the mosque, so we are not late</span> |
 

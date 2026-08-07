@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اعداد الحين في الدرج، عشان نلحق الموعد، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a numbers now in the drawer, so we make the appointment, and I also took the blue notebook</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اعداد عند الاستقبال مع الدفتر الأزرق، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a numbers at reception with the blue notebook, so we make the appointment, and then I tidied the table</span> |
 
 

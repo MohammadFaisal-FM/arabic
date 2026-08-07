@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">وين تشتغل؟، ولقيت الجورب الأبيض في المطبخ، عشان الصورة تطلع أوضح، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">Where do you work?, and I found the white sock in the kitchen, so the photo comes out clearer, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">وين تشتغل؟، ولقيت الجورب الأبيض عند الباب، عشان الصورة تطلع أوضح، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">Where do you work?, and I found the white sock at the door, so the photo comes out clearer, and then the phone rang</span> |
 
 
 ---
@@ -39,5 +39,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [شغل](#ism/shoghl) | <span class="example-ar" dir="rtl" lang="ar">أحتاج شغل الحين في السيارة، عشان المراجعة أسهل، وخذيت كمان الوسادة الناعمة</span><br><span class="example-en" dir="ltr" lang="en">I need a work now in the car, so revision is easier, and I also took the soft pillow</span> |
+| اسم · ism (noun / other) | [شغل](#ism/shoghl) | <span class="example-ar" dir="rtl" lang="ar">لقيت شغل على المكتب مع الوسادة الناعمة، عشان المراجعة أسهل، وبعدها طفّيت النور</span><br><span class="example-en" dir="ltr" lang="en">I found a work on the desk with the soft pillow, so revision is easier, and then I turned off the light</span> |
 

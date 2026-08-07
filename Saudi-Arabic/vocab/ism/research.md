@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بحث الحين في السيارة، عشان المراجعة أسهل، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a research now in the car, so revision is easier, and I also took the soft pillow</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بحث على المكتب مع الوسادة الناعمة، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a research on the desk with the soft pillow, so revision is easier, and then I turned off the light</span> |
 
 

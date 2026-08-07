@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج بالرغم من الحين في الثلاجة، لأن الجو حار شوي، وخذيت كمان القبعة الصيفية</span> | <span class="example-en" dir="ltr" lang="en">I need a despite now in the fridge, because the weather is a bit hot, and I also took the summer hat</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت بالرغم من تحت السرير مع القبعة الصيفية، لأن الجو حار شوي، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a despite under the bed with the summer hat, because the weather is a bit hot, and then we prayed</span> |
 
 

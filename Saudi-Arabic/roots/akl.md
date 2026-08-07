@@ -30,7 +30,7 @@
 | Type | Word | Notes / Example |
 |------|------|-----------------|
 | فعل · fiʿl (Form I) | [أكل / ياكل · base meaning: eating / consuming](#fil/akl) | <span class="example-ar" dir="rtl" lang="ar">أكلنا رز ودجاج</span><br><span class="example-en" dir="ltr" lang="en">We ate rice and chicken</span> |
-| مصدر · masdar (verbal noun) | [أكل](#ism/akl-n) | <span class="example-ar" dir="rtl" lang="ar">حطّيت أكل في المطبخ، إذا احتجته بعدين، وبعدها سكّرت الشباك</span><br><span class="example-en" dir="ltr" lang="en">I put a food in the kitchen, if you need it later, and then I closed the window</span> |
+| مصدر · masdar (verbal noun) | [أكل](#ism/akl-n) | <span class="example-ar" dir="rtl" lang="ar">أحتاج أكل الحين عند الباب، إذا احتجته بعدين، وخذيت كمان الملف الورقي</span><br><span class="example-en" dir="ltr" lang="en">I need a food now at the door, if you need it later, and I also took the paper file</span> |
 | اسم فاعل · ism fāʿil (doer) | N/A | not common / not listed yet |
 | اسم مفعول · ism mafʿūl (done-to) | N/A | not common / not listed yet |
 | اسم مكان · ism makān (place) | N/A | not common / not listed yet |

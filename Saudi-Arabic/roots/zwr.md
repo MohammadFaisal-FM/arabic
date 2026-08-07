@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">بزور أهلي، ولقيت الكابل القصير في المكتبة، لأن الوقت ضيق، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I’ll visit my family, and I found the short cable in the library, because time is tight, and then I turned on the fan</span> |
+| <span class="example-ar" dir="rtl" lang="ar">بزور أهلي، ولقيت الكابل القصير قدام المصعد، لأن الوقت ضيق، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I’ll visit my family, and I found the short cable in front of the elevator, because time is tight, and then I turned on the fan</span> |
 
 
 ---

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج التفاصيل الحين عند الاستقبال، لأن البطارية ضعيفة، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a detail now at reception, because the battery is low, and I also took the glass cup</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت التفاصيل في الصالون مع الكوب الزجاج، لأن البطارية ضعيفة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a detail in the living room with the glass cup, because the battery is low, and then I charged the device</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج سدادة الحين قدام الملعب، لأن الشغل خلص بدري، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a plug now in front of the pitch, because work finished early, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت سدادة في المطبخ مع اللاصق الشفاف، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a plug in the kitchen with the clear tape, because work finished early, and then I washed my hands</span> |
 
 

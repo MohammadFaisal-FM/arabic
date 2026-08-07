@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ملاحة عند العيادة، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a navigation at the clinic, for studying tomorrow, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ملاحة الحين في المدرسة، عشان الدراسة بكرة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a navigation now at school, for studying tomorrow, and I also took the stapler</span> |
 
 

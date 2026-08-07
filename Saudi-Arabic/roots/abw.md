@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أبوي يشتغل في الرياض أيام الدوام، عشان كذا أمّي في البيت مع العيال</span> | <span class="example-en" dir="ltr" lang="en">My dad works in Riyadh on workdays, so my mum is at home with the kids.</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أبوي يداوم في الرياض، عشان كذا أمّي تقعد في البيت مع العيال</span> | <span class="example-en" dir="ltr" lang="en">My dad works (commutes/jobs) in Riyadh, so my mum stays at home with the kids.</span> |
 
 
 ---
@@ -35,6 +35,6 @@ No everyday **fiʿl** (verb) for this root — learn the **ism** (noun) forms in
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [أب](#ism/ab) | <span class="example-ar" dir="rtl" lang="ar">أبوي يشتغل في الرياض أيام الدوام، عشان كذا أمّي في البيت مع العيال</span><br><span class="example-en" dir="ltr" lang="en">My dad works in Riyadh on workdays, so my mum is at home with the kids.</span> |
+| اسم · ism (noun / other) | [أب](#ism/ab) | <span class="example-ar" dir="rtl" lang="ar">أبوي يداوم في الرياض، عشان كذا أمّي تقعد في البيت مع العيال</span><br><span class="example-en" dir="ltr" lang="en">My dad works (commutes/jobs) in Riyadh, so my mum stays at home with the kids.</span> |
 | اسم · ism (noun / other) | [أبو](#ism/abw-abw) | <span class="example-ar" dir="rtl" lang="ar">أبو محمد جارنا، وهو طيب مع كل الجيران</span><br><span class="example-en" dir="ltr" lang="en">Abu Mohammad is our neighbor, and he’s kind with all the neighbors.</span> |
 

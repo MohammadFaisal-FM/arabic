@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">الرومانسية كان/كانت في الحديقة، لأن الجو حار شوي، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">a romance was in the park, because the weather is a bit hot, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت الرومانسية على الشرفة، لأن الجو حار شوي، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I saw a romance on the balcony, because the weather is a bit hot, and then we locked the door</span> |
 
 

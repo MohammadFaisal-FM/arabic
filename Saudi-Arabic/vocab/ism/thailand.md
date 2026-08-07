@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت تايلاند عند الاستقبال، لأن البطارية ضعيفة، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put a thailand at reception, because the battery is low, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج تايلاند الحين في الصالون، لأن البطارية ضعيفة، وخذيت كمان الكوب الزجاج</span> | <span class="example-en" dir="ltr" lang="en">I need a thailand now in the living room, because the battery is low, and I also took the glass cup</span> |
 
 

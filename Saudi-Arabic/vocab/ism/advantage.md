@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت ميزة في الصالون مع المنديل النظيف، لأن الولد نعسان، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I found an advantage in the living room with the clean tissue, because the boy is sleepy, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت ميزة جنب المسجد، لأن الولد نعسان، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put an advantage next to the mosque, because the boy is sleepy, and then the phone rang</span> |
 
 

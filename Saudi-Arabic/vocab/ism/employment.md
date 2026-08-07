@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت توظيف جنب المسجد، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an employment next to the mosque, for studying tomorrow, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج توظيف الحين في البقالة، عشان الدراسة بكرة، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need an employment now at the grocery, for studying tomorrow, and I also took the pencil</span> |
 
 

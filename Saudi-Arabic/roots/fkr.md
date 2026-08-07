@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">خلني أفكر، ولقيت القبعة الصيفية عند الباب، عشان ما يضيع، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">Let me think, and I found the summer hat at the door, so it doesn’t get lost, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">خلني أفكر، ولقيت القبعة الصيفية جنب النافذة، عشان ما يضيع، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">Let me think, and I found the summer hat beside the window, so it doesn’t get lost, and then we locked the door</span> |
 
 
 ---
@@ -37,5 +37,5 @@
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [فكرة](#ism/fikra) | <span class="example-ar" dir="rtl" lang="ar">لقيت فكرة في الحديقة مع المنبه القديميم، عشان الدراسة بكرة، وبعدين شربت ميّ</span><br><span class="example-en" dir="ltr" lang="en">I found an idea in the park with the old alarm, for studying tomorrow, and then I drank some water</span> |
+| اسم · ism (noun / other) | [فكرة](#ism/fikra) | <span class="example-ar" dir="rtl" lang="ar">حطّيت فكرة على الشرفة، عشان الدراسة بكرة، وبعدين شربت ميّ</span><br><span class="example-en" dir="ltr" lang="en">I put an idea on the balcony, for studying tomorrow, and then I drank some water</span> |
 

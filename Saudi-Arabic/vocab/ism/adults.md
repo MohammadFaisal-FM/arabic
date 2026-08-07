@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت البالغين في الدرج مع الدفتر الأزرق، عشان الضيوف يوصلون، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I found an adults in the drawer with the blue notebook, because guests are arriving, and then I wrote a note</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت البالغين عند الاستقبال، عشان الضيوف يوصلون، وبعدين كتبت ملاحظة</span> | <span class="example-en" dir="ltr" lang="en">I put an adults at reception, because guests are arriving, and then I wrote a note</span> |
 
 

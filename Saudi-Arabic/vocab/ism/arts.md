@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الفنون جنب البنك، عشان الصورة تطلع أوضح، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">I put an arts next to the bank, so the photo comes out clearer, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الفنون الحين في المحطة، عشان الصورة تطلع أوضح، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need an arts now at the station, so the photo comes out clearer, and I also took the empty bottle</span> |
 
 

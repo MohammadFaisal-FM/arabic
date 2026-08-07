@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت قرن جنب المسجد، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a century next to the mosque, because the light is better there, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج قرن الحين في البقالة، لأن الإضاءة أحسن هناك، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a century now at the grocery, because the light is better there, and I also took the pencil</span> |
 
 

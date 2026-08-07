@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مسجل جنب النافذة مع النظارة الشمسية، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a recorder beside the window with the sunglasses, because the light is better there, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مسجل في السيارة، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a recorder in the car, because the light is better there, and then we prayed</span> |
 
 

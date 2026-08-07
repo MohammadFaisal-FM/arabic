@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج خارجي الحين في المدرسة، قبل ما يجي السائق، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need an external now at school, before the driver arrives, and I also took the sharp scissors</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج خارجي الحين قدام الملعب، قبل ما يجي السائق، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need an external now in front of the pitch, before the driver arrives, and I also took the sharp scissors</span> |
 
 

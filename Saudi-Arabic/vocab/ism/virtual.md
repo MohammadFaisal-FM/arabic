@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج افتراضي الحين على الشرفة، عشان المراجعة أسهل، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a virtual now on the balcony, so revision is easier, and I also took the yellow card</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت افتراضي في الغرفة مع البطاقة الصفراء، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a virtual in the room with the yellow card, so revision is easier, and then I turned off the light</span> |
 
 

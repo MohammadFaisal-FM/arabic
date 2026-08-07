@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت كبير تحت السرير، لأن الزحمة قوية، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a senior under the bed, because traffic is heavy, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كبير الحين في الدرج، لأن الزحمة قوية، وخذيت كمان الوشاح الرمادي</span> | <span class="example-en" dir="ltr" lang="en">I need a senior now in the drawer, because traffic is heavy, and I also took the grey scarf</span> |
 
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">نسيت اسمه، ولقيت القبعة الصيفية عند الباب، عشان ما نتأخر، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I forgot his name, and I found the summer hat at the door, so we are not late, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">نسيت اسمه، ولقيت القبعة الصيفية جنب النافذة، عشان ما نتأخر، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I forgot his name, and I found the summer hat beside the window, so we are not late, and then we prayed</span> |
 
 
 ---

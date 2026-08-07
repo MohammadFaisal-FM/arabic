@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت صناعي في البقالة مع الشاحن الطويل، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found an industrial at the grocery with the long charger, so revision is easier, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت صناعي عند الصيدلية، عشان المراجعة أسهل، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I put an industrial at the pharmacy, so revision is easier, and then I turned off the light</span> |
 
 

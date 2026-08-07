@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج الجامعات الحين في المحطة، لأن الولد نعسان، وخذيت كمان الكابل القصير</span> | <span class="example-en" dir="ltr" lang="en">I need an universities now at the station, because the boy is sleepy, and I also took the short cable</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت الجامعات عند العيادة مع الكابل القصير، لأن الولد نعسان، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found an universities at the clinic with the short cable, because the boy is sleepy, and then the boy slept</span> |
 
 

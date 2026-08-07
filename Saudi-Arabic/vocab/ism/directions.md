@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الاتجاهات جنب البنك، لأن الوقت ضيق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a directions next to the bank, because time is tight, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الاتجاهات الحين في المحطة، لأن الوقت ضيق، وخذيت كمان الزجاجة الفارغة</span> | <span class="example-en" dir="ltr" lang="en">I need a directions now at the station, because time is tight, and I also took the empty bottle</span> |
 
 

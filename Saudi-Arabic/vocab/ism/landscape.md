@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت منظر جمالي على المكتب، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a landscape on the desk, because work finished early, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج منظر جمالي الحين في الحقيبة، لأن الشغل خلص بدري، وخذيت كمان البطانية الخفيفة</span> | <span class="example-en" dir="ltr" lang="en">I need a landscape now in the bag, because work finished early, and I also took the light blanket</span> |
 
 

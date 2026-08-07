@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أعيش هنا، ولقيت المقص الحاد في الحديقة، عشان الدراسة بكرة، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I live here, and I found the sharp scissors in the park, for studying tomorrow, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أعيش هنا، ولقيت المقص الحاد على الشرفة، عشان الدراسة بكرة، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I live here, and I found the sharp scissors on the balcony, for studying tomorrow, and then I turned off the light</span> |
 
 
 ---

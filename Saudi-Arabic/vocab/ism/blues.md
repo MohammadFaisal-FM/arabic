@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت البلوز جنب المسجد، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a blues next to the mosque, because the light is better there, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج البلوز الحين في البقالة، لأن الإضاءة أحسن هناك، وخذيت كمان القلم الرصاص</span> | <span class="example-en" dir="ltr" lang="en">I need a blues now at the grocery, because the light is better there, and I also took the pencil</span> |
 
 

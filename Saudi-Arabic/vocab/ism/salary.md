@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت مرتب في المكتبة مع الملعقة الصغيرة، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a salary in the library with the small spoon, so the photo comes out clearer, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت مرتب قدام المصعد، عشان الصورة تطلع أوضح، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a salary in front of the elevator, so the photo comes out clearer, and then I charged the device</span> |
 
 

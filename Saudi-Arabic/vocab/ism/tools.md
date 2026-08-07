@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج أدوات الحين في الدرج، لأن الشغل خلص بدري، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a tools now in the drawer, because work finished early, and I also took the blue notebook</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت أدوات عند الاستقبال مع الدفتر الأزرق، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a tools at reception with the blue notebook, because work finished early, and then I tidied the table</span> |
 
 

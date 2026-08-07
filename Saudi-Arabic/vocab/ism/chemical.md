@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت كيميائية على الشرفة، عشان المراجعة أسهل، وبعدين ردّيت على الرسالة</span> | <span class="example-en" dir="ltr" lang="en">I put a chemical on the balcony, so revision is easier, and then I replied to the message</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كيميائية الحين في الغرفة، عشان المراجعة أسهل، وخذيت كمان البطاقة الصفراء</span> | <span class="example-en" dir="ltr" lang="en">I need a chemical now in the room, so revision is easier, and I also took the yellow card</span> |
 
 

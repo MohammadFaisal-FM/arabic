@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج جميل الحين عند العيادة، قبل ما يبرد الأكل، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a pretty now at the clinic, before the food gets cold, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جميل في المدرسة مع الدباسة، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a pretty at school with the stapler, before the food gets cold, and then we locked the door</span> |
 
 

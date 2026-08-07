@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شريت أكل، ولقيت القبعة الصيفية عند الباب، لأن الولد نعسان، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I bought food, and I found the summer hat at the door, because the boy is sleepy, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شريت أكل، ولقيت القبعة الصيفية جنب النافذة، لأن الولد نعسان، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I bought food, and I found the summer hat beside the window, because the boy is sleepy, and then I drank some water</span> |
 
 
 ---

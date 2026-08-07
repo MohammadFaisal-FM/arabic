@@ -35,5 +35,5 @@ No everyday **fiʿl** (verb) for this root — learn the **ism** (noun) forms in
 | اسم زمان · ism zamān (time) | N/A | not common / not listed yet |
 | اسم آلة · ism ālah (tool) | N/A | not common / not listed yet |
 | اسم تفضيل · ism tafḍīl (comparative) | N/A | not common / not listed yet |
-| اسم · ism (noun / other) | [رأي](#ism/ray-n) | <span class="example-ar" dir="rtl" lang="ar">لقيت رأي عند الصيدلية مع الغطاء الشفاف، عشان نلحق الموعد، وبعدين كتبت ملاحظة</span><br><span class="example-en" dir="ltr" lang="en">I found an opinion at the pharmacy with the clear cover, so we make the appointment, and then I wrote a note</span> |
+| اسم · ism (noun / other) | [رأي](#ism/ray-n) | <span class="example-ar" dir="rtl" lang="ar">حطّيت رأي في المكتبة، عشان نلحق الموعد، وبعدين كتبت ملاحظة</span><br><span class="example-en" dir="ltr" lang="en">I put an opinion in the library, so we make the appointment, and then I wrote a note</span> |
 

@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تذكرت اسمه، ولقيت الكرتون الفاضي عند الاستقبال، إذا احتجته بعدين، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I remembered his name, and I found the empty carton at reception, if you need it later, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تذكرت اسمه، ولقيت الكرتون الفاضي في الصالون، إذا احتجته بعدين، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I remembered his name, and I found the empty carton in the living room, if you need it later, and then the phone rang</span> |
 
 
 ---

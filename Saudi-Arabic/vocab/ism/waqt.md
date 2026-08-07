@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت وقت في الحقيبة مع الحذاء النظيف، لأن البطارية ضعيفة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a time in the bag with the clean shoes, because the battery is low, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت وقت قدام التلفاز، لأن البطارية ضعيفة، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a time in front of the TV, because the battery is low, and then I charged the device</span> |
 
 

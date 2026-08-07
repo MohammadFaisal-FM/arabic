@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حفظت الدرس، ولقيت الوسادة الناعمة في المحطة، لأن الجو حار شوي، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I memorized the lesson, and I found the soft pillow at the station, because the weather is a bit hot, and then I turned off the light</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حفظت الدرس، ولقيت الوسادة الناعمة في المدرسة، لأن الجو حار شوي، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I memorized the lesson, and I found the soft pillow at school, because the weather is a bit hot, and then I turned off the light</span> |
 
 
 ---

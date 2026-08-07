@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">يدوي كان/كانت في الثلاجة، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">a manual was in the fridge, for studying tomorrow, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">شفت يدوي تحت السرير، عشان الدراسة بكرة، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I saw a manual under the bed, for studying tomorrow, and then I drank some water</span> |
 
 

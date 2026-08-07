@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">بجي بعدين، ولقيت الدباسة في المكتبة، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I’ll come later, and I found the stapler in the library, if you need it later, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">بجي بعدين، ولقيت الدباسة قدام المصعد، إذا احتجته بعدين، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I’ll come later, and I found the stapler in front of the elevator, if you need it later, and then we locked the door</span> |
 
 
 ---

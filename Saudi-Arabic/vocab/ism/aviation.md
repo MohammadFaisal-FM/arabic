@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت الطيران في الحديقة، لأن الجو حار شوي، وبعدين شربت ميّ</span> | <span class="example-en" dir="ltr" lang="en">I put an aviation in the park, because the weather is a bit hot, and then I drank some water</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج الطيران الحين على الشرفة، لأن الجو حار شوي، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need an aviation now on the balcony, because the weather is a bit hot, and I also took the old alarm</span> |
 
 

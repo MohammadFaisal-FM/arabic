@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ممرضة في الغرفة، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I put a nurse in the room, because work finished early, and then I washed my hands</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ممرضة الحين جنب البنك، لأن الشغل خلص بدري، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a nurse now next to the bank, because work finished early, and I also took the spare key</span> |
 
 

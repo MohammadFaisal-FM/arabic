@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج جوهر الحين في الدرج، عشان الضيوف يوصلون، وخذيت كمان الدفتر الأزرق</span> | <span class="example-en" dir="ltr" lang="en">I need a core now in the drawer, because guests are arriving, and I also took the blue notebook</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت جوهر عند الاستقبال مع الدفتر الأزرق، عشان الضيوف يوصلون، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a core at reception with the blue notebook, because guests are arriving, and then I washed my hands</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اكراميه الحين في المدرسة، عشان المراجعة أسهل، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a tip now at school, so revision is easier, and I also took the sharp scissors</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج اكراميه الحين قدام الملعب، عشان المراجعة أسهل، وخذيت كمان المقص الحاد</span> | <span class="example-en" dir="ltr" lang="en">I need a tip now in front of the pitch, so revision is easier, and I also took the sharp scissors</span> |
 
 

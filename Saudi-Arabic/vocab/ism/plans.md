@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت خطط في الغرفة مع المفتاح الاحتياطي، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a plans in the room with the spare key, so we make the appointment, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت خطط جنب البنك، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a plans next to the bank, so we make the appointment, and then I tidied the table</span> |
 
 

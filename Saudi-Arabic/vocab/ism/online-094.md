@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج اقناع الحين عند العيادة، قبل ما يبرد الأكل، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a to convince now at the clinic, before the food gets cold, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت اقناع في المدرسة مع الدباسة، قبل ما يبرد الأكل، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a to convince at school with the stapler, before the food gets cold, and then we locked the door</span> |
 
 

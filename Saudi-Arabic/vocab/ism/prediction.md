@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت تنبؤ في الغرفة مع المفتاح الاحتياطي، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a prediction in the room with the spare key, because work finished early, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت تنبؤ جنب البنك، لأن الشغل خلص بدري، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a prediction next to the bank, because work finished early, and then I tidied the table</span> |
 
 

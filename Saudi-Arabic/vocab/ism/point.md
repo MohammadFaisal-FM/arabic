@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج نقطة الحين عند الباب، قبل صلاة المغرب، وخذيت كمان المحفظة البنية</span> | <span class="example-en" dir="ltr" lang="en">I need a point now at the door, before Maghrib prayer, and I also took the brown wallet</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت نقطة جنب النافذة مع المحفظة البنية، قبل صلاة المغرب، وبعدين فتحت المروحة</span> | <span class="example-en" dir="ltr" lang="en">I found a point beside the window with the brown wallet, before Maghrib prayer, and then I turned on the fan</span> |
 
 

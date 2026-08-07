@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج انشاء الحين عند العيادة، لأن الإضاءة أحسن هناك، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a construction now at the clinic, because the light is better there, and I also took the stapler</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت انشاء في المدرسة مع الدباسة، لأن الإضاءة أحسن هناك، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I found a construction at school with the stapler, because the light is better there, and then we prayed</span> |
 
 

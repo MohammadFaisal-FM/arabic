@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أعرف الطريق، ولقيت الكابل القصير في المكتبة، لأن البطارية ضعيفة، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I know the way, and I found the short cable in the library, because the battery is low, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أعرف الطريق، ولقيت الكابل القصير قدام المصعد، لأن البطارية ضعيفة، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I know the way, and I found the short cable in front of the elevator, because the battery is low, and then the phone rang</span> |
 
 
 ---

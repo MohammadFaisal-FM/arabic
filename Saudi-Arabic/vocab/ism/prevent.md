@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج يمنع الحين في البقالة، قبل ما يقفل المكان، وخذيت كمان الشاحن الطويل</span> | <span class="example-en" dir="ltr" lang="en">I need a prevent now at the grocery, before the place closes, and I also took the long charger</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت يمنع عند الصيدلية مع الشاحن الطويل، قبل ما يقفل المكان، وبعدها طفّيت النور</span> | <span class="example-en" dir="ltr" lang="en">I found a prevent at the pharmacy with the long charger, before the place closes, and then I turned off the light</span> |
 
 

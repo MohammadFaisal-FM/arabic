@@ -14,7 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج كتاب الحين في المطبخ، إذا احتجته بعدين، وخذيت كمان الملف الورقي</span> | <span class="example-en" dir="ltr" lang="en">I need a book now in the kitchen, if you need it later, and I also took the paper file</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت كتاب عند الباب مع الملف الورقي، إذا احتجته بعدين، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a book at the door with the paper file, if you need it later, and then I charged the device</span> |
 
 
 ### Links

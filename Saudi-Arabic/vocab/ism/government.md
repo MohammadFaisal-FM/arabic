@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج حكومة الحين في الحديقة، لأن الإضاءة أحسن هناك، وخذيت كمان المنبه القديميم</span> | <span class="example-en" dir="ltr" lang="en">I need a government now in the park, because the light is better there, and I also took the old alarm</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت حكومة على الشرفة مع المنبه القديميم، لأن الإضاءة أحسن هناك، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I found a government on the balcony with the old alarm, because the light is better there, and then we locked the door</span> |
 
 

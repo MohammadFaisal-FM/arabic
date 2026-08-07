@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">فهمت؟، ولقيت الجورب الأبيض في المطبخ، إذا احتجته بعدين، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">Did you understand?, and I found the white sock in the kitchen, if you need it later, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">فهمت؟، ولقيت الجورب الأبيض عند الباب، إذا احتجته بعدين، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">Did you understand?, and I found the white sock at the door, if you need it later, and then the boy slept</span> |
 
 
 ---

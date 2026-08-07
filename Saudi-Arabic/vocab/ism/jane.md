@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت جين عند العيادة، عشان الدراسة بكرة، وبعد كده صلّينا</span> | <span class="example-en" dir="ltr" lang="en">I put a jane at the clinic, for studying tomorrow, and then we prayed</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج جين الحين في المدرسة، عشان الدراسة بكرة، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a jane now at school, for studying tomorrow, and I also took the stapler</span> |
 
 

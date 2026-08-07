@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت ازهار في السيارة، لأن الزحمة قوية، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">I put a blossom in the car, because traffic is heavy, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج ازهار الحين على المكتب، لأن الزحمة قوية، وخذيت كمان الوسادة الناعمة</span> | <span class="example-en" dir="ltr" lang="en">I need a blossom now on the desk, because traffic is heavy, and I also took the soft pillow</span> |
 
 

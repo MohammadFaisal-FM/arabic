@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت كولورادو على المكتب مع البطانية الخفيفة، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I found a colorado on the desk with the light blanket, so we make the appointment, and then I tidied the table</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت كولورادو في الحقيبة، عشان نلحق الموعد، وبعدين رتّبت الطاولة</span> | <span class="example-en" dir="ltr" lang="en">I put a colorado in the bag, so we make the appointment, and then I tidied the table</span> |
 
 

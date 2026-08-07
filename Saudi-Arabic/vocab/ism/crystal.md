@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت كريستال قدام التلفاز، لأن الولد نعسان، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">I put a crystal in front of the TV, because the boy is sleepy, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج كريستال الحين في الثلاجة، لأن الولد نعسان، وخذيت كمان الجورب الأبيض</span> | <span class="example-en" dir="ltr" lang="en">I need a crystal now in the fridge, because the boy is sleepy, and I also took the white sock</span> |
 
 

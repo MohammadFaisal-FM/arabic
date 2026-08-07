@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت طريق عند الاستقبال مع الكوب الزجاج، لأن الوقت ضيق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a road at reception with the glass cup, because time is tight, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت طريق في الصالون، لأن الوقت ضيق، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I put a road in the living room, because time is tight, and then I charged the device</span> |
 
 

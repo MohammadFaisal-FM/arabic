@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">قرب مني، ولقيت الملعقة الصغيرة في الدرج، عشان الضيوف يوصلون، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">Come closer, and I found the small spoon in the drawer, because guests are arriving, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">قرب مني، ولقيت الملعقة الصغيرة عند الاستقبال، عشان الضيوف يوصلون، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">Come closer, and I found the small spoon at reception, because guests are arriving, and then I wiped the floor</span> |
 
 
 ---

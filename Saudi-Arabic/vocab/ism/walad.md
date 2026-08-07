@@ -14,7 +14,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">شفت ولد قدام التلفاز، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I saw a boy in front of the TV, before Maghrib prayer, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن ولد شوي، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">We talked about a boy a bit, before Maghrib prayer, and then the boy slept</span> |
 
 
 ### Links

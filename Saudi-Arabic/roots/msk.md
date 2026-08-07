@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">امسك هذي، ولقيت الملف الورقي في الغرفة، لأن الشغل خلص بدري، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">Hold this, and I found the paper file in the room, because work finished early, and then I closed the window</span> |
+| <span class="example-ar" dir="rtl" lang="ar">امسك هذي، ولقيت الملف الورقي جنب البنك، لأن الشغل خلص بدري، وبعدها سكّرت الشباك</span> | <span class="example-en" dir="ltr" lang="en">Hold this, and I found the paper file next to the bank, because work finished early, and then I closed the window</span> |
 
 
 ---

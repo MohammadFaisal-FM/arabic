@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أبغى قهوة، ولقيت الملعقة الصغيرة تحت السرير، قبل صلاة المغرب، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I want coffee, and I found the small spoon under the bed, before Maghrib prayer, and then I wiped the floor</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أبغى قهوة، ولقيت الملعقة الصغيرة في الدرج، قبل صلاة المغرب، وبعدها مسحت الأرض</span> | <span class="example-en" dir="ltr" lang="en">I want coffee, and I found the small spoon in the drawer, before Maghrib prayer, and then I wiped the floor</span> |
 
 
 ---

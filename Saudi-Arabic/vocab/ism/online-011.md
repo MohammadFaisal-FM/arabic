@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت احتمال قدام المصعد مع المفتاح الاحتياطي، قبل ما يبرد الأكل، وبعدين شحنت الجهاز</span> | <span class="example-en" dir="ltr" lang="en">I found a probability in front of the elevator with the spare key, before the food gets cold, and then I charged the device</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج احتمال الحين على الشرفة، قبل ما يبرد الأكل، وخذيت كمان المفتاح الاحتياطي</span> | <span class="example-en" dir="ltr" lang="en">I need a probability now on the balcony, before the food gets cold, and I also took the spare key</span> |
 
 

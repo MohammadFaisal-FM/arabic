@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">تكلّمنا عن أخت شوي، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">We talked about a sister a bit, so we are not late, and then the phone rang</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أخت كان/كانت جنب النافذة، عشان ما نتأخر، وبعد كده رنّ الجوال</span> | <span class="example-en" dir="ltr" lang="en">a sister was beside the window, so we are not late, and then the phone rang</span> |
 
 

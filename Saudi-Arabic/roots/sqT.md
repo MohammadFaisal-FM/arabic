@@ -12,7 +12,7 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">سقط الجوال، ولقيت الوسادة الناعمة عند العيادة، عشان الدراسة بكرة، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">The phone fell, and I found the soft pillow at the clinic, for studying tomorrow, and then we laughed a bit</span> |
+| <span class="example-ar" dir="rtl" lang="ar">سقط الجوال، ولقيت الوسادة الناعمة في المدرسة، عشان الدراسة بكرة، وبعد كده ضحكنا شوي</span> | <span class="example-en" dir="ltr" lang="en">The phone fell, and I found the soft pillow at school, for studying tomorrow, and then we laughed a bit</span> |
 
 
 ---

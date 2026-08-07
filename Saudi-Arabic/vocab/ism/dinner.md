@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">أحتاج عشاء الحين قدام الملعب، لأن الشغل خلص بدري، وخذيت كمان اللاصق الشفاف</span> | <span class="example-en" dir="ltr" lang="en">I need a dinner now in front of the pitch, because work finished early, and I also took the clear tape</span> |
+| <span class="example-ar" dir="rtl" lang="ar">لقيت عشاء في المطبخ مع اللاصق الشفاف، لأن الشغل خلص بدري، وبعدها غسّلت يديني</span> | <span class="example-en" dir="ltr" lang="en">I found a dinner in the kitchen with the clear tape, because work finished early, and then I washed my hands</span> |
 
 

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">لقيت لورانس قدام التلفاز مع الجورب الأبيض، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I found a lawrence in front of the TV with the white sock, before Maghrib prayer, and then the boy slept</span> |
+| <span class="example-ar" dir="rtl" lang="ar">حطّيت لورانس في الثلاجة، قبل صلاة المغرب، وبعدها نام الولد</span> | <span class="example-en" dir="ltr" lang="en">I put a lawrence in the fridge, before Maghrib prayer, and then the boy slept</span> |
 
 

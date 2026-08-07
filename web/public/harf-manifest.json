@@ -123,7 +123,7 @@
       "meaning": "in / at",
       "letter": "ف",
       "usage": "location",
-      "example": "خلي النظارة الشمسية في مكان ثابت جنب النافذة، قبل ما يبرد الأكل، وبعدين قفلنا الباب — Leave the sunglasses in a fixed spot beside the window, before the food gets cold, and then we locked the door",
+      "example": "خلي النظارة الشمسية في مكان ثابت في السيارة، قبل ما يبرد الأكل، وبعدين قفلنا الباب — Leave the sunglasses in a fixed spot in the car, before the food gets cold, and then we locked the door",
       "file": "vocab/harf/fi.md"
     },
     {
@@ -159,7 +159,7 @@
       "meaning": "about / from (away)",
       "letter": "ع",
       "usage": "topic",
-      "example": "تكلّمنا عن الموضوع بهدوء، وحطينا الجورب الأبيض قدام التلفاز، عشان ما يضيع — We talked about the topic calmly, and put the white sock in front of the TV, so it doesn’t get lost",
+      "example": "تكلّمنا عن الموضوع بهدوء، وحطينا الجورب الأبيض في الثلاجة، عشان ما يضيع — We talked about the topic calmly, and put the white sock in the fridge, so it doesn’t get lost",
       "file": "vocab/harf/an.md"
     },
     {
@@ -168,7 +168,7 @@
       "meaning": "without",
       "letter": "ب",
       "usage": "manner / absence",
-      "example": "سويت القهوة بدون سكر، وخليت القبعة الصيفية في الثلاجة، لأن الإضاءة أحسن هناك — I made coffee without sugar, and left the summer hat in the fridge, because the light is better there",
+      "example": "سويت القهوة بدون سكر، وخليت القبعة الصيفية تحت السرير، لأن الإضاءة أحسن هناك — I made coffee without sugar, and left the summer hat under the bed, because the light is better there",
       "file": "vocab/harf/dun.md"
     },
     {
@@ -195,7 +195,7 @@
       "meaning": "for / to (belonging)",
       "letter": "ـ",
       "usage": "possession / purpose",
-      "example": "استخدمنا «لـ» في الجملة، وحطينا الكوب الزجاج عند الاستقبال، لأن الوقت ضيق، وبعدها مسحت الأرض — We used “لـ” (for / to (belonging)) in the sentence, and put the glass cup at reception, because time is tight, and then I wiped the floor",
+      "example": "استخدمنا «لـ» في الجملة، وحطينا الكوب الزجاج في الصالون، لأن الوقت ضيق، وبعدها مسحت الأرض — We used “لـ” (for / to (belonging)) in the sentence, and put the glass cup in the living room, because time is tight, and then I wiped the floor",
       "file": "vocab/harf/ila-l.md"
     },
     {
@@ -204,7 +204,7 @@
       "meaning": "with / by / in",
       "letter": "ب",
       "usage": "instrument / manner",
-      "example": "وصلت بالسيارة، وحطيت المنديل النظيف في الصالون، عشان ما نتأخر — I arrived by car, and put the clean tissue in the living room, so we are not late",
+      "example": "وصلت بالسيارة، وحطيت المنديل النظيف جنب المسجد، عشان ما نتأخر — I arrived by car, and put the clean tissue next to the mosque, so we are not late",
       "file": "vocab/harf/bi.md"
     },
     {
@@ -213,7 +213,7 @@
       "meaning": "like / as",
       "letter": "ك",
       "usage": "comparison",
-      "example": "استخدمنا «كـ» في الجملة، وحطينا القلم الرصاص جنب المسجد، لأن الجو حار شوي، وبعد كده صلّينا — We used “كـ” (like / as) in the sentence, and put the pencil next to the mosque, because the weather is a bit hot, and then we prayed",
+      "example": "استخدمنا «كـ» في الجملة، وحطينا القلم الرصاص في البقالة، لأن الجو حار شوي، وبعد كده صلّينا — We used “كـ” (like / as) in the sentence, and put the pencil at the grocery, because the weather is a bit hot, and then we prayed",
       "file": "vocab/harf/ka.md"
     },
     {
@@ -231,7 +231,7 @@
       "meaning": "so / then",
       "letter": "ف",
       "usage": "result",
-      "example": "استخدمنا «فـ» في الجملة، وحطينا الغطاء الشفاف عند الصيدلية، عشان الضيوف يوصلون، وبعدها غسّلت يديني — We used “فـ” (so / then) in the sentence, and put the clear cover at the pharmacy, because guests are arriving, and then I washed my hands",
+      "example": "استخدمنا «فـ» في الجملة، وحطينا الغطاء الشفاف في المكتبة، عشان الضيوف يوصلون، وبعدها غسّلت يديني — We used “فـ” (so / then) in the sentence, and put the clear cover in the library, because guests are arriving, and then I washed my hands",
       "file": "vocab/harf/fa.md"
     },
     {
@@ -240,7 +240,7 @@
       "meaning": "or",
       "letter": "أ",
       "usage": "choice",
-      "example": "تبغى شاي أو قهوة؟ خلّ الملعقة الصغيرة في المكتبة لين تقرر — Do you want tea or coffee? Leave the small spoon in the library until you decide",
+      "example": "تبغى شاي أو قهوة؟ خلّ الملعقة الصغيرة قدام المصعد لين تقرر — Do you want tea or coffee? Leave the small spoon in front of the elevator until you decide",
       "file": "vocab/harf/aw.md"
     },
     {
@@ -249,7 +249,7 @@
       "meaning": "but",
       "letter": "ك",
       "usage": "contrast",
-      "example": "أبي أطلع، لكن الجو مو زين، فخلّيت الكرتون الفاضي قدام المصعد — I want to go out, but the weather isn’t good, so I left the empty carton in front of the elevator",
+      "example": "أبي أطلع، لكن الجو مو زين، فخلّيت الكرتون الفاضي في الحديقة — I want to go out, but the weather isn’t good, so I left the empty carton in the park",
       "file": "vocab/harf/lakin.md"
     },
     {
@@ -258,7 +258,7 @@
       "meaning": "and not / or not",
       "letter": "و",
       "usage": "negation link",
-      "example": "استخدمنا «ولا» في الجملة، وحطينا المنبه القديميم في الحديقة، عشان الدراسة بكرة، وبعدين قفلنا الباب — We used “ولا” (and not / or not) in the sentence, and put the old alarm in the park, for studying tomorrow, and then we locked the door",
+      "example": "استخدمنا «ولا» في الجملة، وحطينا المنبه القديميم على الشرفة، عشان الدراسة بكرة، وبعدين قفلنا الباب — We used “ولا” (and not / or not) in the sentence, and put the old alarm on the balcony, for studying tomorrow, and then we locked the door",
       "file": "vocab/harf/wala.md"
     },
     {
@@ -267,7 +267,7 @@
       "meaning": "then / after that",
       "letter": "ث",
       "usage": "sequence",
-      "example": "استخدمنا «ثم» في الجملة، وحطينا البطاقة الصفراء على الشرفة، لأن الزحمة قوية، وبعد كده ضحكنا شوي — We used “ثم” (then / after that) in the sentence, and put the yellow card on the balcony, because traffic is heavy, and then we laughed a bit",
+      "example": "استخدمنا «ثم» في الجملة، وحطينا البطاقة الصفراء في الغرفة، لأن الزحمة قوية، وبعد كده ضحكنا شوي — We used “ثم” (then / after that) in the sentence, and put the yellow card in the room, because traffic is heavy, and then we laughed a bit",
       "file": "vocab/harf/thumm.md"
     },
     {
@@ -276,7 +276,7 @@
       "meaning": "except / only",
       "letter": "أ",
       "usage": "exception",
-      "example": "استخدمنا «إلا» في الجملة، وحطينا المفتاح الاحتياطي في الغرفة، بس خلّه قريب منك، وبعدين رتّبت الطاولة — We used “إلا” (except / only) in the sentence, and put the spare key in the room, but keep it near you, and then I tidied the table",
+      "example": "استخدمنا «إلا» في الجملة، وحطينا المفتاح الاحتياطي جنب البنك، بس خلّه قريب منك، وبعدين رتّبت الطاولة — We used “إلا” (except / only) in the sentence, and put the spare key next to the bank, but keep it near you, and then I tidied the table",
       "file": "vocab/harf/illa.md"
     },
     {
@@ -285,7 +285,7 @@
       "meaning": "until / even",
       "letter": "ح",
       "usage": "limit",
-      "example": "استخدمنا «حتى» في الجملة، وحطينا الزجاجة الفارغة جنب البنك، عشان الصورة تطلع أوضح، وبعدها سكّرت الشباك — We used “حتى” (until / even) in the sentence, and put the empty bottle next to the bank, so the photo comes out clearer, and then I closed the window",
+      "example": "استخدمنا «حتى» في الجملة، وحطينا الزجاجة الفارغة في المحطة، عشان الصورة تطلع أوضح، وبعدها سكّرت الشباك — We used “حتى” (until / even) in the sentence, and put the empty bottle at the station, so the photo comes out clearer, and then I closed the window",
       "file": "vocab/harf/hatta.md"
     },
     {
@@ -294,7 +294,7 @@
       "meaning": "before",
       "letter": "ق",
       "usage": "time",
-      "example": "استخدمنا «قبل» في الجملة، وحطينا الكابل القصير في المحطة، لأن الولد نعسان، وبعد كده رنّ الجوال — We used “قبل” (before) in the sentence, and put the short cable at the station, because the boy is sleepy, and then the phone rang",
+      "example": "استخدمنا «قبل» في الجملة، وحطينا الكابل القصير عند العيادة، لأن الولد نعسان، وبعد كده رنّ الجوال — We used “قبل” (before) in the sentence, and put the short cable at the clinic, because the boy is sleepy, and then the phone rang",
       "file": "vocab/harf/qabl.md"
     },
     {
@@ -303,7 +303,7 @@
       "meaning": "after",
       "letter": "ب",
       "usage": "time",
-      "example": "استخدمنا «بعد» في الجملة، وحطينا الدباسة عند العيادة، قبل ما يبرد الأكل، وبعدين شربت ميّ — We used “بعد” (after) in the sentence, and put the stapler at the clinic, before the food gets cold, and then I drank some water",
+      "example": "استخدمنا «بعد» في الجملة، وحطينا الدباسة في المدرسة، قبل ما يبرد الأكل، وبعدين شربت ميّ — We used “بعد” (after) in the sentence, and put the stapler at school, before the food gets cold, and then I drank some water",
       "file": "vocab/harf/baad.md"
     },
     {
@@ -312,7 +312,7 @@
       "meaning": "between",
       "letter": "ب",
       "usage": "location",
-      "example": "استخدمنا «بين» في الجملة، وحطينا المقص الحاد في المدرسة، عشان المراجعة أسهل، وبعدها طفّيت النور — We used “بين” (between) in the sentence, and put the sharp scissors at school, so revision is easier, and then I turned off the light",
+      "example": "استخدمنا «بين» في الجملة، وحطينا المقص الحاد قدام الملعب، عشان المراجعة أسهل، وبعدها طفّيت النور — We used “بين” (between) in the sentence, and put the sharp scissors in front of the pitch, so revision is easier, and then I turned off the light",
       "file": "vocab/harf/bayn.md"
     },
     {
@@ -321,7 +321,7 @@
       "meaning": "above / up",
       "letter": "ف",
       "usage": "location",
-      "example": "استخدمنا «فوق» في الجملة، وحطينا اللاصق الشفاف قدام الملعب، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة — We used “فوق” (above / up) in the sentence, and put the clear tape in front of the pitch, because work finished early, and then I wrote a note",
+      "example": "استخدمنا «فوق» في الجملة، وحطينا اللاصق الشفاف في المطبخ، لأن الشغل خلص بدري، وبعدين كتبت ملاحظة — We used “فوق” (above / up) in the sentence, and put the clear tape in the kitchen, because work finished early, and then I wrote a note",
       "file": "vocab/harf/fawq.md"
     },
     {
@@ -330,7 +330,7 @@
       "meaning": "under / below",
       "letter": "ت",
       "usage": "location",
-      "example": "استخدمنا «تحت» في الجملة، وحطينا الملف الورقي في المطبخ، إذا احتجته بعدين، وبعدها مسحت الأرض — We used “تحت” (under / below) in the sentence, and put the paper file in the kitchen, if you need it later, and then I wiped the floor",
+      "example": "استخدمنا «تحت» في الجملة، وحطينا الملف الورقي عند الباب، إذا احتجته بعدين، وبعدها مسحت الأرض — We used “تحت” (under / below) in the sentence, and put the paper file at the door, if you need it later, and then I wiped the floor",
       "file": "vocab/harf/taht.md"
     },
     {
@@ -339,7 +339,7 @@
       "meaning": "behind (Najdi)",
       "letter": "و",
       "usage": "location",
-      "example": "استخدمنا «ورا» في الجملة، وحطينا المحفظة البنية عند الباب، عشان ما يضيع، وبعدين فتحت المروحة — We used “ورا” (behind (Najdi)) in the sentence, and put the brown wallet at the door, so it doesn’t get lost, and then I turned on the fan",
+      "example": "استخدمنا «ورا» في الجملة، وحطينا المحفظة البنية جنب النافذة، عشان ما يضيع، وبعدين فتحت المروحة — We used “ورا” (behind (Najdi)) in the sentence, and put the brown wallet beside the window, so it doesn’t get lost, and then I turned on the fan",
       "file": "vocab/harf/wara.md"
     },
     {
@@ -348,7 +348,7 @@
       "meaning": "in front (Najdi)",
       "letter": "ق",
       "usage": "location",
-      "example": "استخدمنا «قدام» في الجملة، وحطينا النظارة الشمسية جنب النافذة، لأن الإضاءة أحسن هناك، وبعد كده صلّينا — We used “قدام” (in front (Najdi)) in the sentence, and put the sunglasses beside the window, because the light is better there, and then we prayed",
+      "example": "استخدمنا «قدام» في الجملة، وحطينا النظارة الشمسية في السيارة، لأن الإضاءة أحسن هناك، وبعد كده صلّينا — We used “قدام” (in front (Najdi)) in the sentence, and put the sunglasses in the car, because the light is better there, and then we prayed",
       "file": "vocab/harf/quddam.md"
     },
     {
@@ -357,7 +357,7 @@
       "meaning": "beside / next to",
       "letter": "ج",
       "usage": "location",
-      "example": "استخدمنا «جنب» في الجملة، وحطينا الوسادة الناعمة في السيارة، قبل ما يجي السائق، وبعدين ردّيت على الرسالة — We used “جنب” (beside / next to) in the sentence, and put the soft pillow in the car, before the driver arrives, and then I replied to the message",
+      "example": "استخدمنا «جنب» في الجملة، وحطينا الوسادة الناعمة على المكتب، قبل ما يجي السائق، وبعدين ردّيت على الرسالة — We used “جنب” (beside / next to) in the sentence, and put the soft pillow on the desk, before the driver arrives, and then I replied to the message",
       "file": "vocab/harf/jamb.md"
     },
     {
@@ -366,7 +366,7 @@
       "meaning": "yes/no question (MSA)",
       "letter": "ه",
       "usage": "question",
-      "example": "استخدمنا «هل» في الجملة، وحطينا البطانية الخفيفة على المكتب، عشان نلحق الموعد، وبعدها غسّلت يديني — We used “هل” (yes/no question (MSA)) in the sentence, and put the light blanket on the desk, so we make the appointment, and then I washed my hands",
+      "example": "استخدمنا «هل» في الجملة، وحطينا البطانية الخفيفة في الحقيبة، عشان نلحق الموعد، وبعدها غسّلت يديني — We used “هل” (yes/no question (MSA)) in the sentence, and put the light blanket in the bag, so we make the appointment, and then I washed my hands",
       "file": "vocab/harf/hal.md"
     },
     {
@@ -384,7 +384,7 @@
       "meaning": "where (Najdi)",
       "letter": "و",
       "usage": "question",
-      "example": "وين الجورب الأبيض؟ دوّرت قدام التلفاز، عشان ما نتأخر — Where is the white sock? I looked in front of the TV, so we are not late",
+      "example": "وين الجورب الأبيض؟ دوّرت في الثلاجة، عشان ما نتأخر — Where is the white sock? I looked in the fridge, so we are not late",
       "file": "vocab/harf/ween.md"
     },
     {
@@ -402,7 +402,7 @@
       "meaning": "how",
       "letter": "ك",
       "usage": "question",
-      "example": "كيف أوصّل الوشاح الرمادي تحت السرير بدون ما يتضرر؟ قبل ما يقفل المكان — How do I get the grey scarf under the bed without it getting damaged? before the place closes",
+      "example": "كيف أوصّل الوشاح الرمادي في الدرج بدون ما يتضرر؟ قبل ما يقفل المكان — How do I get the grey scarf in the drawer without it getting damaged? before the place closes",
       "file": "vocab/harf/kayf.md"
     },
     {
@@ -411,7 +411,7 @@
       "meaning": "how many / how much",
       "letter": "ك",
       "usage": "question",
-      "example": "استخدمنا «كم» في الجملة، وحطينا الدفتر الأزرق في الدرج، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة — We used “كم” (how many / how much) in the sentence, and put the blue notebook in the drawer, because guests are arriving, and then I tidied the table",
+      "example": "استخدمنا «كم» في الجملة، وحطينا الدفتر الأزرق عند الاستقبال، عشان الضيوف يوصلون، وبعدين رتّبت الطاولة — We used “كم” (how many / how much) in the sentence, and put the blue notebook at reception, because guests are arriving, and then I tidied the table",
       "file": "vocab/harf/kam.md"
     },
     {
@@ -420,7 +420,7 @@
       "meaning": "who?",
       "letter": "م",
       "usage": "question",
-      "example": "استخدمنا «من؟» في الجملة، وحطينا الكوب الزجاج عند الاستقبال، لأن البطارية ضعيفة، وبعدها سكّرت الشباك — We used “من؟” (who?) in the sentence, and put the glass cup at reception, because the battery is low, and then I closed the window",
+      "example": "استخدمنا «من؟» في الجملة، وحطينا الكوب الزجاج في الصالون، لأن البطارية ضعيفة، وبعدها سكّرت الشباك — We used “من؟” (who?) in the sentence, and put the glass cup in the living room, because the battery is low, and then I closed the window",
       "file": "vocab/harf/min-q.md"
     },
     {
@@ -429,7 +429,7 @@
       "meaning": "what (Najdi)",
       "letter": "و",
       "usage": "question",
-      "example": "استخدمنا «وش» في الجملة، وحطينا المنديل النظيف في الصالون، قبل صلاة المغرب، وبعد كده رنّ الجوال — We used “وش” (what (Najdi)) in the sentence, and put the clean tissue in the living room, before Maghrib prayer, and then the phone rang",
+      "example": "استخدمنا «وش» في الجملة، وحطينا المنديل النظيف جنب المسجد، قبل صلاة المغرب، وبعد كده رنّ الجوال — We used “وش” (what (Najdi)) in the sentence, and put the clean tissue next to the mosque, before Maghrib prayer, and then the phone rang",
       "file": "vocab/harf/esh.md"
     },
     {
@@ -438,7 +438,7 @@
       "meaning": "no / don’t",
       "letter": "أ",
       "usage": "negation",
-      "example": "لا تخلّي القلم الرصاص على الأرض، حطّه جنب المسجد، عشان الدراسة بكرة — Don’t leave the pencil on the floor; put it next to the mosque, for studying tomorrow",
+      "example": "لا تخلّي القلم الرصاص على الأرض، حطّه في البقالة، عشان الدراسة بكرة — Don’t leave the pencil on the floor; put it at the grocery, for studying tomorrow",
       "file": "vocab/harf/la.md"
     },
     {
@@ -447,7 +447,7 @@
       "meaning": "not (Najdi/MSA)",
       "letter": "م",
       "usage": "negation",
-      "example": "ما لقيت الشاحن الطويل أول، بعدين لقيته في البقالة، لأن الزحمة قوية — I didn’t find the long charger at first, then I found it at the grocery, because traffic is heavy",
+      "example": "ما لقيت الشاحن الطويل أول، بعدين لقيته عند الصيدلية، لأن الزحمة قوية — I didn’t find the long charger at first, then I found it at the pharmacy, because traffic is heavy",
       "file": "vocab/harf/ma.md"
     },
     {
@@ -456,7 +456,7 @@
       "meaning": "not (Najdi)",
       "letter": "م",
       "usage": "negation",
-      "example": "هذا مو مكان الغطاء الشفاف، خلّه عند الصيدلية، بس خلّه قريب منك — This isn’t the place for the clear cover; leave it at the pharmacy, but keep it near you",
+      "example": "هذا مو مكان الغطاء الشفاف، خلّه في المكتبة، بس خلّه قريب منك — This isn’t the place for the clear cover; leave it in the library, but keep it near you",
       "file": "vocab/harf/mo.md"
     },
     {
@@ -465,7 +465,7 @@
       "meaning": "O… (calling)",
       "letter": "ي",
       "usage": "vocative",
-      "example": "استخدمنا «يا» في الجملة، وحطينا الملعقة الصغيرة في المكتبة، عشان الصورة تطلع أوضح، وبعدها مسحت الأرض — We used “يا” (O… (calling)) in the sentence, and put the small spoon in the library, so the photo comes out clearer, and then I wiped the floor",
+      "example": "استخدمنا «يا» في الجملة، وحطينا الملعقة الصغيرة قدام المصعد، عشان الصورة تطلع أوضح، وبعدها مسحت الأرض — We used “يا” (O… (calling)) in the sentence, and put the small spoon in front of the elevator, so the photo comes out clearer, and then I wiped the floor",
       "file": "vocab/harf/ya.md"
     },
     {
@@ -474,7 +474,7 @@
       "meaning": "I mean / like…",
       "letter": "ي",
       "usage": "filler",
-      "example": "استخدمنا «يعني» في الجملة، وحطينا الكرتون الفاضي قدام المصعد، لأن الولد نعسان، وبعدين فتحت المروحة — We used “يعني” (I mean / like…) in the sentence, and put the empty carton in front of the elevator, because the boy is sleepy, and then I turned on the fan",
+      "example": "استخدمنا «يعني» في الجملة، وحطينا الكرتون الفاضي في الحديقة، لأن الولد نعسان، وبعدين فتحت المروحة — We used “يعني” (I mean / like…) in the sentence, and put the empty carton in the park, because the boy is sleepy, and then I turned on the fan",
       "file": "vocab/harf/yaani.md"
     },
     {
@@ -492,7 +492,7 @@
       "meaning": "because / so that",
       "letter": "ع",
       "usage": "reason / purpose",
-      "example": "رتّبت الغرفة عشان الضيوف، وحطيت البطاقة الصفراء على الشرفة — I tidied the room for the guests, and put the yellow card on the balcony",
+      "example": "رتّبت الغرفة عشان الضيوف، وحطيت البطاقة الصفراء في الغرفة — I tidied the room for the guests, and put the yellow card in the room",
       "file": "vocab/harf/ashan.md"
     },
     {
@@ -519,7 +519,7 @@
       "meaning": "still / not yet",
       "letter": "س",
       "usage": "time aspect",
-      "example": "استخدمنا «لسه» في الجملة، وحطينا الكابل القصير في المحطة، عشان ما يضيع، وبعدها نام الولد — We used “لسه” (still / not yet) in the sentence, and put the short cable at the station, so it doesn’t get lost, and then the boy slept",
+      "example": "استخدمنا «لسه» في الجملة، وحطينا الكابل القصير عند العيادة، عشان ما يضيع، وبعدها نام الولد — We used “لسه” (still / not yet) in the sentence, and put the short cable at the clinic, so it doesn’t get lost, and then the boy slept",
       "file": "vocab/harf/lissa.md"
     },
     {
@@ -537,7 +537,7 @@
       "meaning": "also / too",
       "letter": "ك",
       "usage": "addition",
-      "example": "استخدمنا «كمان» في الجملة، وحطينا المقص الحاد في المدرسة، قبل ما يجي السائق، وبعد كده ضحكنا شوي — We used “كمان” (also / too) in the sentence, and put the sharp scissors at school, before the driver arrives, and then we laughed a bit",
+      "example": "استخدمنا «كمان» في الجملة، وحطينا المقص الحاد قدام الملعب، قبل ما يجي السائق، وبعد كده ضحكنا شوي — We used “كمان” (also / too) in the sentence, and put the sharp scissors in front of the pitch, before the driver arrives, and then we laughed a bit",
       "file": "vocab/harf/kaman.md"
     },
     {
@@ -546,7 +546,7 @@
       "meaning": "later / then",
       "letter": "ب",
       "usage": "time",
-      "example": "خلّنا نكمّل بعدين، حط اللاصق الشفاف قدام الملعب الحين — Let’s continue later; put the clear tape in front of the pitch for now",
+      "example": "خلّنا نكمّل بعدين، حط اللاصق الشفاف في المطبخ الحين — Let’s continue later; put the clear tape in the kitchen for now",
       "file": "vocab/harf/baadyn.md"
     }
   ]

@@ -14,6 +14,6 @@
 
 | Arabic | English |
 |--------|---------|
-| <span class="example-ar" dir="rtl" lang="ar">حطّيت يقترف عند العيادة، لأن الجو حار شوي، وبعدين قفلنا الباب</span> | <span class="example-en" dir="ltr" lang="en">I put a commit at the clinic, because the weather is a bit hot, and then we locked the door</span> |
+| <span class="example-ar" dir="rtl" lang="ar">أحتاج يقترف الحين في المدرسة، لأن الجو حار شوي، وخذيت كمان الدباسة</span> | <span class="example-en" dir="ltr" lang="en">I need a commit now at school, because the weather is a bit hot, and I also took the stapler</span> |
 
 

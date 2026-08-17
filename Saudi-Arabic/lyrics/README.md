@@ -13,8 +13,9 @@ Songs we share or discover on the Arabic learning journey.
 | 5 | قلبي مجروح · طب وين أروح (Qalbi Majrooh) | محمد البصيلي · Mohamed Elbosely | Egyptian · shaabi / heartbreak | [05-qalbi-majrooh.md](05-qalbi-majrooh.md) | 2026-08-06 |
 | 6 | قلل عتاب كثر غياب (Qallil Atab) | محمد البصيلي · Mohamed Elbosely | Egyptian · shaabi / heartbreak | [06-qallil-atab.md](06-qallil-atab.md) | 2026-08-11 |
 | 7 | خطوة خطوة مشّيتك (Khutwa Khutwa) | جنى فويس · Jana Voice | Khaliji / Gulf tarab · 2026 | [07-khutwa-khutwa.md](07-khutwa-khutwa.md) | 2026-08-17 |
+| 8 | كاسر قلبي يا ابن الناس (Kasir Qalbi) | Unknown · موسيقى الشرق الأوسط mix | Iraqi / Khaliji · tarab 2026 | [08-kasir-qalbi.md](08-kasir-qalbi.md) | 2026-08-17 |
 
-**Total songs:** 7
+**Total songs:** 8
 
 ---
 

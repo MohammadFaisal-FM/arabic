@@ -14,8 +14,9 @@ Songs we share or discover on the Arabic learning journey.
 | 6 | قلل عتاب كثر غياب (Qallil Atab) | محمد البصيلي · Mohamed Elbosely | Egyptian · shaabi / heartbreak | [06-qallil-atab.md](06-qallil-atab.md) | 2026-08-11 |
 | 7 | خطوة خطوة مشّيتك (Khutwa Khutwa) | جنى فويس · Jana Voice | Khaliji / Gulf tarab · 2026 | [07-khutwa-khutwa.md](07-khutwa-khutwa.md) | 2026-08-17 |
 | 8 | كاسر قلبي يا ابن الناس (Kasir Qalbi) | Unknown · موسيقى الشرق الأوسط mix | Iraqi / Khaliji · tarab 2026 | [08-kasir-qalbi.md](08-kasir-qalbi.md) | 2026-08-17 |
+| 9 | رغم كل شيء ما جرحتك (Raghm Kull Shay) | Unknown · مزاج mix | Iraqi / Khaliji · tarab 2026 | [09-raghm-kull-shay.md](09-raghm-kull-shay.md) | 2026-08-17 |
 
-**Total songs:** 8
+**Total songs:** 9
 
 ---
 

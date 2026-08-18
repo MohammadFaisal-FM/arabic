@@ -15,8 +15,9 @@ Songs we share or discover on the Arabic learning journey.
 | 7 | خطوة خطوة مشّيتك (Khutwa Khutwa) | جنى فويس · Jana Voice | Khaliji / Gulf tarab · 2026 | [07-khutwa-khutwa.md](07-khutwa-khutwa.md) | 2026-08-17 |
 | 8 | كاسر قلبي يا ابن الناس (Kasir Qalbi) | Unknown · موسيقى الشرق الأوسط mix | Iraqi / Khaliji · tarab 2026 | [08-kasir-qalbi.md](08-kasir-qalbi.md) | 2026-08-17 |
 | 9 | رغم كل شيء ما جرحتك (Raghm Kull Shay) | Unknown · مزاج mix | Iraqi / Khaliji · tarab 2026 | [09-raghm-kull-shay.md](09-raghm-kull-shay.md) | 2026-08-17 |
+| 10 | تمنيتك يا غالي تعود (Tamannetak Ya Ghali) | غزل السواس · Ghazal Al-Sawwas | Khaliji / Iraqi · tarab 2026 | [10-tamannetak-ya-gali.md](10-tamannetak-ya-gali.md) | 2026-08-18 |
 
-**Total songs:** 9
+**Total songs:** 10
 
 ---
 

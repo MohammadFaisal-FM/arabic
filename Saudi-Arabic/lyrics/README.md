@@ -8,7 +8,7 @@ Playlist sync: [Long Drives](https://www.youtube.com/playlist?list=PLpNV1R8LeT4K
 
 | # | Song | Artist | Dialect / style | File | Added |
 |---|------|--------|-----------------|------|-------|
-| 1 | Paradise | Moxura · palmtherapysounds.com | English · instrumental / deep house | [15-paradise.md](15-paradise.md) | 2026-08-20 |
+| 1 | Paradise (فردوس) | Moxura · palmtherapysounds.com | English · deep house vocal | [15-paradise.md](15-paradise.md) | 2026-08-20 |
 | 2 | Save Me / S.O.S | DJ Goja, Vanessa Campagna | English · dance / remix | [16-save-me.md](16-save-me.md) | 2026-08-20 |
 | 3 | Dalinda (D33pSoul Remix) | Alex Mica | English / Romanian pop · remix | [17-dalinda.md](17-dalinda.md) | 2026-08-20 |
 | 4 | Sunday Morning (D33pSoul Remix) | Matoma ft. Josie Dunne | English · tropical house remix | [18-sunday-morning.md](18-sunday-morning.md) | 2026-08-20 |

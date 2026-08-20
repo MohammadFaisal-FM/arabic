@@ -3,104 +3,174 @@
   "description": "Songs shared or discovered on the Arabic journey",
   "songs": [
     {
-      "id": "01-ahla-qadar",
-      "title": "أحلى قدر (A7la Qadar) — sample",
-      "titleAr": "أحلى قدر",
-      "titleEn": "A7la Qadar",
-      "artist": "via A7la Qadar channel",
-      "dialect": "Levantine / romantic pop",
-      "file": "lyrics/01-ahla-qadar.md",
-      "added": "2026-07-27"
+      "id": "15-paradise",
+      "title": "Paradise",
+      "titleAr": "Paradise",
+      "titleEn": "Paradise",
+      "artist": "Moxura · palmtherapysounds.com",
+      "dialect": "English · instrumental / deep house",
+      "file": "lyrics/15-paradise.md",
+      "added": "2026-08-20"
     },
     {
-      "id": "02-law-teqdar-tansani",
-      "title": "لو تقدر تنساني",
-      "titleAr": "لو تقدر تنساني",
-      "titleEn": "Law Teqdar Tansani",
-      "artist": "Unknown",
-      "dialect": "Gulf / Najdi · romantic",
-      "file": "lyrics/02-law-teqdar-tansani.md",
-      "added": "2026-07-27"
+      "id": "16-save-me",
+      "title": "Save Me / S.O.S",
+      "titleAr": "Save Me",
+      "titleEn": "Save Me / S.O.S",
+      "artist": "DJ Goja, Vanessa Campagna",
+      "dialect": "English · dance / remix",
+      "file": "lyrics/16-save-me.md",
+      "added": "2026-08-20"
     },
     {
-      "id": "03-bas-wenah",
-      "title": "بس وينه (Bas Wenah)",
-      "titleAr": "بس وينه",
-      "titleEn": "Bas Wenah",
-      "artist": "زايد بن سابر · Zayed Bin Saber",
-      "dialect": "Khaliji / Saudi · romantic",
-      "file": "lyrics/03-bas-wenah.md",
-      "added": "2026-07-27"
+      "id": "17-dalinda",
+      "title": "Dalinda (D33pSoul Remix)",
+      "titleAr": "Dalinda",
+      "titleEn": "Dalinda",
+      "artist": "Alex Mica",
+      "dialect": "English / Romanian pop · remix",
+      "file": "lyrics/17-dalinda.md",
+      "added": "2026-08-20"
     },
     {
-      "id": "04-ala-hesb-wedad",
-      "title": "على حسب وداد قلبي (Ala Hesb Wedad)",
-      "titleAr": "على حسب وداد قلبي",
-      "titleEn": "Ala Hesb Wedad",
-      "artist": "عبد الحليم حافظ · Abdel Halim Hafez",
-      "dialect": "Egyptian · classic / shaabi",
-      "file": "lyrics/04-ala-hesb-wedad.md",
-      "added": "2026-07-29"
+      "id": "18-sunday-morning",
+      "title": "Sunday Morning (D33pSoul Remix)",
+      "titleAr": "Sunday Morning",
+      "titleEn": "Sunday Morning",
+      "artist": "Matoma ft. Josie Dunne",
+      "dialect": "English · tropical house remix",
+      "file": "lyrics/18-sunday-morning.md",
+      "added": "2026-08-20"
     },
     {
-      "id": "05-qalbi-majrooh",
-      "title": "قلبي مجروح · طب وين أروح (Qalbi Majrooh)",
-      "titleAr": "قلبي مجروح",
-      "titleEn": "Qalbi Majrooh",
-      "artist": "محمد البصيلي · Mohamed Elbosely",
-      "dialect": "Egyptian · shaabi / heartbreak",
-      "file": "lyrics/05-qalbi-majrooh.md",
-      "added": "2026-08-06"
+      "id": "19-bent-el-geran",
+      "title": "بنت الجيران (Bent El Geran)",
+      "titleAr": "بنت الجيران",
+      "titleEn": "Bent El Geran",
+      "artist": "Ramy Blazin, Dalia Omar",
+      "dialect": "Egyptian · shaabi remix",
+      "file": "lyrics/19-bent-el-geran.md",
+      "added": "2026-08-20"
     },
     {
-      "id": "06-qallil-atab",
-      "title": "قلل عتاب كثر غياب (Qallil Atab)",
-      "titleAr": "قلل عتاب كثر غياب",
-      "titleEn": "Qallil Atab",
-      "artist": "محمد البصيلي · Mohamed Elbosely",
-      "dialect": "Egyptian · shaabi / heartbreak",
-      "file": "lyrics/06-qallil-atab.md",
-      "added": "2026-08-11"
+      "id": "20-ya-ghayeb",
+      "title": "يا غايب (Ya Ghayeb)",
+      "titleAr": "يا غايب",
+      "titleEn": "Ya Ghayeb",
+      "artist": "DJ Maximus x Ibrahim Zoabi",
+      "dialect": "Levantine · electronic remix",
+      "file": "lyrics/20-ya-ghayeb.md",
+      "added": "2026-08-20"
     },
     {
-      "id": "07-khutwa-khutwa",
-      "title": "خطوة خطوة مشّيتك (Khutwa Khutwa)",
-      "titleAr": "خطوة خطوة مشّيتك",
-      "titleEn": "Khutwa Khutwa",
-      "artist": "جنى فويس · Jana Voice",
-      "dialect": "Khaliji / Gulf tarab · 2026",
-      "file": "lyrics/07-khutwa-khutwa.md",
-      "added": "2026-08-17"
+      "id": "21-abali",
+      "title": "عبالي (3abali)",
+      "titleAr": "عبالي",
+      "titleEn": "3abali",
+      "artist": "Ghaliaa ft. Samer Doumet",
+      "dialect": "Levantine · indie / remix",
+      "file": "lyrics/21-abali.md",
+      "added": "2026-08-20"
     },
     {
-      "id": "08-kasir-qalbi",
-      "title": "كاسر قلبي يا ابن الناس (Kasir Qalbi)",
-      "titleAr": "كاسر قلبي يا ابن الناس",
-      "titleEn": "Kasir Qalbi",
-      "artist": "Unknown · موسيقى الشرق الأوسط mix",
-      "dialect": "Iraqi / Khaliji · tarab 2026",
-      "file": "lyrics/08-kasir-qalbi.md",
-      "added": "2026-08-17"
+      "id": "22-amal-hope",
+      "title": "أمل (Hope)",
+      "titleAr": "أمل",
+      "titleEn": "Hope",
+      "artist": "Recham, Lana Hamideh",
+      "dialect": "Levantine · electronic",
+      "file": "lyrics/22-amal-hope.md",
+      "added": "2026-08-20"
     },
     {
-      "id": "09-raghm-kull-shay",
-      "title": "رغم كل شيء ما جرحتك (Raghm Kull Shay)",
-      "titleAr": "رغم كل شيء ما جرحتك",
-      "titleEn": "Raghm Kull Shay",
-      "artist": "Unknown · مزاج mix",
-      "dialect": "Iraqi / Khaliji · tarab 2026",
-      "file": "lyrics/09-raghm-kull-shay.md",
-      "added": "2026-08-17"
+      "id": "23-wadaa-ya-dounya",
+      "title": "وداع يا دنيا وداع (Wadaa Ya Dounya)",
+      "titleAr": "وداع يا دنيا وداع",
+      "titleEn": "Wadaa Ya Dounya",
+      "artist": "Ramy Blazin, Dalia Omar",
+      "dialect": "Egyptian · shaabi remix",
+      "file": "lyrics/23-wadaa-ya-dounya.md",
+      "added": "2026-08-20"
     },
     {
-      "id": "10-tamannetak-ya-gali",
-      "title": "تمنيتك يا غالي تعود (Tamannetak Ya Ghali)",
-      "titleAr": "تمنيتك يا غالي تعود",
-      "titleEn": "Tamannetak Ya Ghali",
-      "artist": "غزل السواس · Ghazal Al-Sawwas",
-      "dialect": "Khaliji / Iraqi · tarab 2026",
-      "file": "lyrics/10-tamannetak-ya-gali.md",
-      "added": "2026-08-18"
+      "id": "24-samra",
+      "title": "سمرا (Samra)",
+      "titleAr": "سمرا",
+      "titleEn": "Samra",
+      "artist": "Mostafa Akmal",
+      "dialect": "Khaliji · chill remix",
+      "file": "lyrics/24-samra.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "25-zorouni",
+      "title": "زوروني (Zorouni)",
+      "titleAr": "زوروني",
+      "titleEn": "Zorouni",
+      "artist": "Zamane, Amine Naami, Ghadir",
+      "dialect": "Egyptian / mashriqi · electronic cover",
+      "file": "lyrics/25-zorouni.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "26-astral",
+      "title": "Astral",
+      "titleAr": "Astral",
+      "titleEn": "Astral",
+      "artist": "Bayza",
+      "dialect": "English · instrumental",
+      "file": "lyrics/26-astral.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "27-inta-ih",
+      "title": "انت ايه (Inta Ih)",
+      "titleAr": "انت ايه",
+      "titleEn": "Inta Ih",
+      "artist": "Elyanna (Hijazi Remix)",
+      "dialect": "Egyptian / Hijazi remix",
+      "file": "lyrics/27-inta-ih.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "28-mawjouaa-galbi",
+      "title": "موجوع قلبي (Mawjouaa Galbi)",
+      "titleAr": "موجوع قلبي",
+      "titleEn": "Mawjouaa Galbi",
+      "artist": "Najwa Farouk x D33pSoul",
+      "dialect": "Algerian / Rai · remix",
+      "file": "lyrics/28-mawjouaa-galbi.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "29-aicha",
+      "title": "Aicha",
+      "titleAr": "عائشة",
+      "titleEn": "Aicha",
+      "artist": "Harget Kart (ALEY Remix) / Cheb Khaled",
+      "dialect": "Algerian / French · remix",
+      "file": "lyrics/29-aicha.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "30-majesty",
+      "title": "Majesty",
+      "titleAr": "Majesty",
+      "titleEn": "Majesty",
+      "artist": "D33pSoul",
+      "dialect": "English · instrumental",
+      "file": "lyrics/30-majesty.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "31-here-gule",
+      "title": "Here Gule",
+      "titleAr": "Here Gule",
+      "titleEn": "Here Gule",
+      "artist": "Kurmanci (Release - Topic)",
+      "dialect": "Kurdish · folk",
+      "file": "lyrics/31-here-gule.md",
+      "added": "2026-08-20"
     },
     {
       "id": "11-wenak-ya-oyouni",
@@ -141,6 +211,286 @@
       "dialect": "Khaliji / Iraqi · tarab 2026",
       "file": "lyrics/14-ah-ya-qalbi.md",
       "added": "2026-08-20"
+    },
+    {
+      "id": "32-quiet-gravity",
+      "title": "Quiet Gravity",
+      "titleAr": "Quiet Gravity",
+      "titleEn": "Quiet Gravity",
+      "artist": "Moonlight Deep",
+      "dialect": "English · instrumental",
+      "file": "lyrics/32-quiet-gravity.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "33-moonlight-heart",
+      "title": "HEART",
+      "titleAr": "HEART",
+      "titleEn": "HEART",
+      "artist": "Moonlight Deep",
+      "dialect": "English · instrumental",
+      "file": "lyrics/33-moonlight-heart.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "34-kul-ma-ashofak",
+      "title": "كل ما أشوفك يسبقني إحساسي (Kul Ma Ashofak)",
+      "titleAr": "كل ما أشوفك يسبقني إحساسي",
+      "titleEn": "Kul Ma Ashofak",
+      "artist": "A7la Qadar - أحلى قدر",
+      "dialect": "Levantine · tarab / TikTok 2026",
+      "file": "lyrics/34-kul-ma-ashofak.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "35-eyr-patience",
+      "title": "EYR — Patience",
+      "titleAr": "Patience",
+      "titleEn": "Patience",
+      "artist": "EYR Music",
+      "dialect": "English · instrumental / wordless",
+      "file": "lyrics/35-eyr-patience.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "36-eyr-presence",
+      "title": "EYR — Presence",
+      "titleAr": "Presence",
+      "titleEn": "Presence",
+      "artist": "EYR Music",
+      "dialect": "English · instrumental / wordless",
+      "file": "lyrics/36-eyr-presence.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "37-eyr-truth",
+      "title": "EYR — Truth",
+      "titleAr": "Truth",
+      "titleEn": "Truth",
+      "artist": "EYR Music",
+      "dialect": "English · instrumental / wordless",
+      "file": "lyrics/37-eyr-truth.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "38-eyr-wisdom",
+      "title": "EYR — Wisdom",
+      "titleAr": "Wisdom",
+      "titleEn": "Wisdom",
+      "artist": "EYR Music",
+      "dialect": "English · instrumental / wordless",
+      "file": "lyrics/38-eyr-wisdom.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "39-saket",
+      "title": "موسيقى سكت (Saket)",
+      "titleAr": "سكت",
+      "titleEn": "Saket",
+      "artist": "fto",
+      "dialect": "Instrumental · sad strings",
+      "file": "lyrics/39-saket.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "40-oyoun-el-qalb",
+      "title": "عيون القلب (Oyoun El Qalb Remix)",
+      "titleAr": "عيون القلب",
+      "titleEn": "Oyoun El Qalb",
+      "artist": "Egyptify",
+      "dialect": "Egyptian · instrumental remix",
+      "file": "lyrics/40-oyoun-el-qalb.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "08-kasir-qalbi",
+      "title": "كاسر قلبي يا ابن الناس (Kasir Qalbi)",
+      "titleAr": "كاسر قلبي يا ابن الناس",
+      "titleEn": "Kasir Qalbi",
+      "artist": "Unknown · موسيقى الشرق الأوسط mix",
+      "dialect": "Iraqi / Khaliji · tarab 2026",
+      "file": "lyrics/08-kasir-qalbi.md",
+      "added": "2026-08-17"
+    },
+    {
+      "id": "07-khutwa-khutwa",
+      "title": "خطوة خطوة مشّيتك (Khutwa Khutwa)",
+      "titleAr": "خطوة خطوة مشّيتك",
+      "titleEn": "Khutwa Khutwa",
+      "artist": "جنى فويس · Jana Voice",
+      "dialect": "Khaliji / Gulf tarab · 2026",
+      "file": "lyrics/07-khutwa-khutwa.md",
+      "added": "2026-08-17"
+    },
+    {
+      "id": "41-lesh-yal-mahbub",
+      "title": "ليش يا المحبوب دايم في صدودي (Lesh Yal Mahbub)",
+      "titleAr": "ليش يا المحبوب دايم في صدودي",
+      "titleEn": "Lesh Yal Mahbub",
+      "artist": "ليان ميوزك · Layan Music",
+      "dialect": "Najdi / Khaliji · tarab 2026",
+      "file": "lyrics/41-lesh-yal-mahbub.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "10-tamannetak-ya-gali",
+      "title": "تمنيتك يا غالي تعود (Tamannetak Ya Ghali)",
+      "titleAr": "تمنيتك يا غالي تعود",
+      "titleEn": "Tamannetak Ya Ghali",
+      "artist": "غزل السواس · Ghazal Al-Sawwas",
+      "dialect": "Khaliji / Iraqi · tarab 2026",
+      "file": "lyrics/10-tamannetak-ya-gali.md",
+      "added": "2026-08-18"
+    },
+    {
+      "id": "09-raghm-kull-shay",
+      "title": "رغم كل شيء ما جرحتك (Raghm Kull Shay)",
+      "titleAr": "رغم كل شيء ما جرحتك",
+      "titleEn": "Raghm Kull Shay",
+      "artist": "Unknown · مزاج mix",
+      "dialect": "Iraqi / Khaliji · tarab 2026",
+      "file": "lyrics/09-raghm-kull-shay.md",
+      "added": "2026-08-17"
+    },
+    {
+      "id": "42-hadha-akhir-kalam",
+      "title": "هذا آخر كلام بالعشق والغرام (Hadha Akhir Kalam)",
+      "titleAr": "هذا آخر كلام بالعشق والغرام",
+      "titleEn": "Hadha Akhir Kalam",
+      "artist": "ليالي الفرات",
+      "dialect": "Iraqi / Levantine · istiknān tarab 2026",
+      "file": "lyrics/42-hadha-akhir-kalam.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "43-akhir-kalam",
+      "title": "آخر كلام (Akhir Kalam)",
+      "titleAr": "آخر كلام",
+      "titleEn": "Akhir Kalam",
+      "artist": "Songs from the good old days",
+      "dialect": "Arabic · classic / topic upload",
+      "file": "lyrics/43-akhir-kalam.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "44-wassayt-qalbi",
+      "title": "وصّيت قلبي عليك (Wassayt Qalbi)",
+      "titleAr": "وصّيت قلبي عليك",
+      "titleEn": "Wassayt Qalbi",
+      "artist": "أيلول [Fm]",
+      "dialect": "Najdi / Khaliji · tarab 2026",
+      "file": "lyrics/44-wassayt-qalbi.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "45-sakant-al-qalb",
+      "title": "سكنت القلب وصرت عمري كله (Sakant al-Qalb)",
+      "titleAr": "سكنت القلب وصرت عمري كله",
+      "titleEn": "Sakant al-Qalb",
+      "artist": "فن وتراث يمني · كلمات أبو جنى",
+      "dialect": "Yemeni · tarab / AI vocal 2027",
+      "file": "lyrics/45-sakant-al-qalb.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "46-ya-wilfi-wenak",
+      "title": "يا ولفي وينك (Ya Wilfi Wenak)",
+      "titleAr": "يا ولفي وينك",
+      "titleEn": "Ya Wilfi Wenak",
+      "artist": "روان ميوزك",
+      "dialect": "Levantine / Iraqi · istiknān tarab",
+      "file": "lyrics/46-ya-wilfi-wenak.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "47-ya-wayli-shlon",
+      "title": "يا ويلي شلون ما أقدر أعوفك (Ya Wayli Shlon)",
+      "titleAr": "يا ويلي شلون ما أقدر أعوفك",
+      "titleEn": "Ya Wayli Shlon",
+      "artist": "أيلول [Fm]",
+      "dialect": "Iraqi · shaabi tarab 2026",
+      "file": "lyrics/47-ya-wayli-shlon.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "04-ala-hesb-wedad",
+      "title": "على حسب وداد قلبي (Ala Hesb Wedad)",
+      "titleAr": "على حسب وداد قلبي",
+      "titleEn": "Ala Hesb Wedad",
+      "artist": "عبد الحليم حافظ · Abdel Halim Hafez",
+      "dialect": "Egyptian · classic / shaabi",
+      "file": "lyrics/04-ala-hesb-wedad.md",
+      "added": "2026-07-29"
+    },
+    {
+      "id": "48-kifak-ya-habib",
+      "title": "كيفك يا حبيب الروح (Kifak Ya Habib al-Ruh)",
+      "titleAr": "كيفك يا حبيب الروح",
+      "titleEn": "Kifak Ya Habib al-Ruh",
+      "artist": "A7la Qadar - أحلى قدر",
+      "dialect": "Levantine · tarab / TikTok 2026",
+      "file": "lyrics/48-kifak-ya-habib.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "49-ya-samra-ya-habuba",
+      "title": "يا سمرة يا حبوبة (Ya Samra Ya Habuba)",
+      "titleAr": "يا سمرة يا حبوبة",
+      "titleEn": "Ya Samra Ya Habuba",
+      "artist": "عشق [Fm]",
+      "dialect": "Levantine / shaabi · TikTok 2026",
+      "file": "lyrics/49-ya-samra-ya-habuba.md",
+      "added": "2026-08-20"
+    },
+    {
+      "id": "01-ahla-qadar",
+      "title": "أحلى قدر (A7la Qadar) — sample",
+      "titleAr": "أحلى قدر",
+      "titleEn": "A7la Qadar",
+      "artist": "via A7la Qadar channel",
+      "dialect": "Levantine / romantic pop",
+      "file": "lyrics/01-ahla-qadar.md",
+      "added": "2026-07-27"
+    },
+    {
+      "id": "02-law-teqdar-tansani",
+      "title": "لو تقدر تنساني",
+      "titleAr": "لو تقدر تنساني",
+      "titleEn": "Law Teqdar Tansani",
+      "artist": "Unknown",
+      "dialect": "Gulf / Najdi · romantic",
+      "file": "lyrics/02-law-teqdar-tansani.md",
+      "added": "2026-07-27"
+    },
+    {
+      "id": "03-bas-wenah",
+      "title": "بس وينه (Bas Wenah)",
+      "titleAr": "بس وينه",
+      "titleEn": "Bas Wenah",
+      "artist": "زايد بن سابر · Zayed Bin Saber",
+      "dialect": "Khaliji / Saudi · romantic",
+      "file": "lyrics/03-bas-wenah.md",
+      "added": "2026-07-27"
+    },
+    {
+      "id": "05-qalbi-majrooh",
+      "title": "قلبي مجروح · طب وين أروح (Qalbi Majrooh)",
+      "titleAr": "قلبي مجروح",
+      "titleEn": "Qalbi Majrooh",
+      "artist": "محمد البصيلي · Mohamed Elbosely",
+      "dialect": "Egyptian · shaabi / heartbreak",
+      "file": "lyrics/05-qalbi-majrooh.md",
+      "added": "2026-08-06"
+    },
+    {
+      "id": "06-qallil-atab",
+      "title": "قلل عتاب كثر غياب (Qallil Atab)",
+      "titleAr": "قلل عتاب كثر غياب",
+      "titleEn": "Qallil Atab",
+      "artist": "محمد البصيلي · Mohamed Elbosely",
+      "dialect": "Egyptian · shaabi / heartbreak",
+      "file": "lyrics/06-qallil-atab.md",
+      "added": "2026-08-11"
     }
   ]
 }

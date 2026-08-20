@@ -2,9 +2,9 @@
 
 | Field | Value |
 |-------|-------|
-| **Artist** | Unknown (YouTube mix · تعاليل / t3alil) |
+| **Artist** | Unknown (cuts: تعاليل / t3alil · ناي [NayFm]) |
 | **Dialect / style** | Levantine / Iraqi · shaabi tarab · TikTok 2026 |
-| **Source** | learner sync · YouTube auto-captions + circulating lyric text |
+| **Source** | learner sync · [YouTube auto-captions](https://www.youtube.com/watch?v=RLiSeFfMMTc) |
 | **Added** | 2026-08-20 |
 
 ---
@@ -19,6 +19,9 @@
 | فيها انكتب وينك يا عيوني | In it was written: where are you, my eyes? |
 | قلبي ارتوى وتحرّك شجوني | My heart was quenched, and my longing stirred |
 | قلبي ارتوى وتحرّك شجوني | My heart was quenched, and my longing stirred |
+| عنه يا ناس لا تبعدوني | People — don’t keep me away from him |
+| هو الزمن هو قلبي وعيوني | He is time — he is my heart and my eyes |
+| هذا يا ناس من فرحة سنيني | This, people, is from the joy of my years |
 | الهوى حمل لي رسالة | The wind brought me a letter |
 | فيها انكتب وينك يا عيوني | In it was written: where are you, my eyes? |
 | قلبي ارتوى وتحرّك شجوني | My heart was quenched, and my longing stirred |
@@ -40,6 +43,10 @@
 | ارتوى | **fi'l** (Form VIII) | ر و ي | was quenched / drank its fill |
 | تحرّك | **fi'l** (Form V) | ح ر ك | it moved / it stirred |
 | شجون | **ism** | ش ج ن | longing / sorrow / deep feeling |
+| تبعدوني | **fi'l** (Form IV) | ب ع د | you keep me away |
+| زمن | **ism** | ز م ن | time |
+| فرحة | **ism** | ف ر ح | joy |
+| سنين | **ism** | س ن و | years |
 
 **يا عيوني** is not literally “my eyeballs.” In Levantine/Iraqi talk it means *my dear* — the person you see with.
 
@@ -52,4 +59,5 @@
 1. جاني الهوى محملني رسالة
 2. فيها انكتب وينك يا عيوني
 3. قلبي ارتوى وتحرّك شجوني
-4. الهوى حمل لي رسالة
+4. عنه يا ناس لا تبعدوني
+5. هو الزمن هو قلبي وعيوني

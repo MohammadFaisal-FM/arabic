@@ -19,8 +19,9 @@ Songs we share or discover on the Arabic learning journey.
 | 11 | وينك يا عيوني (Wenak Ya Oyouni) | Unknown · تعاليل / ناي [NayFm] | Levantine / Iraqi · shaabi tarab 2026 | [11-wenak-ya-oyouni.md](11-wenak-ya-oyouni.md) | 2026-08-20 |
 | 12 | لغير عيونك ما أتنازل عن حبي (Lighayr Oyounak) | Unknown · الشرق الأوسط mix | Iraqi / Khaliji · tarab 2026 | [12-lighayr-oyounak.md](12-lighayr-oyounak.md) | 2026-08-20 |
 | 13 | أخفي الهوى (Akhfi al-Hawa) | ألحان نجد · Alhan Najd | MSA / classical · Najdi oud | [13-akhfi-al-hawa.md](13-akhfi-al-hawa.md) | 2026-08-20 |
+| 14 | آه يا قلبي لا تقول انتهى (Ah Ya Qalbi) | غالية [FM] · Ghalia FM | Khaliji / Iraqi · tarab 2026 | [14-ah-ya-qalbi.md](14-ah-ya-qalbi.md) | 2026-08-20 |
 
-**Total songs:** 13
+**Total songs:** 14
 
 ---
 

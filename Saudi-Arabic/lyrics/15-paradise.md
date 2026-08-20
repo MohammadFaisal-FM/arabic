@@ -17,6 +17,7 @@
 | والحين أنا غارق | And now I'm in deep |
 | أحلم بجنّات | I'm dreaming of paradises |
 | بس أنا مو نايم | But I'm not asleep |
+| (مقطع هاوس قصير — هذي كل الكلمات) | (short house loop — this is the full vocal) |
 
 ---
 

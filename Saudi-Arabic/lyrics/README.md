@@ -17,7 +17,7 @@ Playlist sync: [Long Drives](https://www.youtube.com/playlist?list=PLpNV1R8LeT4K
 | 7 | عبالي (3abali) | Ghaliaa ft. Samer Doumet | Levantine · indie / remix | [21-abali.md](21-abali.md) | 2026-08-20 |
 | 8 | أمل (Hope) | Recham, Lana Hamideh | Levantine · electronic | [22-amal-hope.md](22-amal-hope.md) | 2026-08-20 |
 | 9 | وداع يا دنيا وداع (Wadaa Ya Dounya) | Ramy Blazin, Dalia Omar | Egyptian · shaabi remix | [23-wadaa-ya-dounya.md](23-wadaa-ya-dounya.md) | 2026-08-20 |
-| 10 | سمرا (Samra) | Mostafa Akmal | Khaliji · chill remix | [24-samra.md](24-samra.md) | 2026-08-20 |
+| 10 | سمرا (Samra) | Mostafa Akmal | Khaliji · chill instrumental | [24-samra.md](24-samra.md) | 2026-08-20 |
 | 11 | زوروني (Zorouni) | Zamane, Amine Naami, Ghadir | Egyptian / mashriqi · electronic cover | [25-zorouni.md](25-zorouni.md) | 2026-08-20 |
 | 12 | Astral | Bayza | English · instrumental | [26-astral.md](26-astral.md) | 2026-08-20 |
 | 13 | انت ايه (Inta Ih) | Elyanna (Hijazi Remix) | Egyptian / Hijazi remix | [27-inta-ih.md](27-inta-ih.md) | 2026-08-20 |

@@ -19,6 +19,7 @@
 | أدور على شيء ناقص | Looking out for something that’s missing |
 | ألوان ما تتغيّر | Colors that don’t change |
 | كلها تصير رمادي | All turn to shades of grey |
+| أحدّق بالليل أدور رؤية | Staring in the night for vision |
 | أطلق شعلة وأرمي أملي بالهوا | And I shoot up a flare, throw my hope in the air |
 | أغنّي نجدة — S.O.S | Singin’ S.O.S |
 | خلص مني الحب | I’m all outta love |
@@ -26,4 +27,7 @@
 | بنعدّيها يا حبيبي | We’ll make it baby |
 | الهدوء صار أعلى من الصوت | Quiet is too loud |
 | إيماني على الأرض | My faith is on the ground |
+| تقعد معي وأنا وحيد | You lay down there with me when I’m lonely |
 | تضمد كل جرح | Touching every scar |
+| تصلّح القطع الخشنة | You fix the jagged parts |
+| تجرحك وبعدك تبي تحضنني | They cut you but you still wanna hold me |

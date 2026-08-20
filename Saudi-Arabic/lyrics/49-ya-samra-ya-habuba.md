@@ -19,3 +19,5 @@
 | يا سمرة يا حبوبة | O dark beauty, o lovely one |
 | يا أم الكحلة المسكوبة | O you of the poured kohl |
 | شو هالخفّة اللي بدمّك | What is this lightness in your blood |
+| من دماتي مجلوبة | Drawn from my own blood |
+| وينك عن عيني معذّبني ما أكبر حيلك | Where are you from my eye — you torment me, how great is your trick |

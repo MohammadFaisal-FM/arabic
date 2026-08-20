@@ -21,5 +21,13 @@
 | تنسيني جروحي وأحزاني | Make me forget my wounds and my sorrows |
 | أنا مشتاق لعينيك | I long for your eyes |
 | يا حبيبي لا تروح بعيد | My love, don’t go far |
-| أنت نصيبي وقلبي الوحيد | You are my fate and my only heart |
-| والله تفداك الدنيا كلها | By God, the whole world would be your ransom |
+| أنت نصيبي وبقلبي الوحيد | You are my fate and the only one in my heart |
+| أنت اللي بقلبي والله | You are the one in my heart, by God |
+| تفداك الدنيا كلها | The whole world would be your ransom |
+| حبّك غيّر حياتي | Your love changed my life |
+| نساني جروحي وآهاتي | It made me forget my wounds and my sighs |
+| ذكرني بكل حكاية خلّاني أذوب | It reminded me of every story — it made me melt |
+| أنت غرامي كله | You are all my passion |
+| وشمس عمري وظلّه | And the sun of my life and its shade |
+| أصلك هالعالم كله | You’re like this whole world |
+| حبّك ما أتوب | From your love I will not repent |

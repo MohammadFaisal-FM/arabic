@@ -17,6 +17,7 @@
 | والله بعد عيونك على الدنيا السلام | By God — after your eyes, farewell to the world |
 | أنت أول حبيب وأنت آخر حبيب | You are the first love and the last love |
 | ما أظن لو تغيب عينك بعد تنام | I don’t think if you leave that my eye will sleep after |
+| كلّي إن تجيك أجيك وأغفي ما بين إيديك | All of me — if you come I’ll come, and I’ll sleep between your hands |
 | روحي تسأل عليك عيني تبع سلام | My soul asks after you — my eye sends greeting |
 | أنت حب الوحيد وأنت دم الوريد | You are the only love and the blood of the vein |
 | أنت حلم السعيد وأنت مسك الختام | You are the happy dream and the seal of the ending |

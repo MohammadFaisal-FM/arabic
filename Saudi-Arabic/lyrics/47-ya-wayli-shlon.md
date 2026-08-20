@@ -19,5 +19,10 @@
 | لا تغريني ولا تتوسّل خلّيني وروح | Don’t seduce me and don’t beg — leave me and go |
 | هاي أعذارك ما تتبدّل سرّك مفضوح | These excuses of yours don’t change — your secret is exposed |
 | على هاي الحالة تعشق لو لا | In this state — do you love or not |
+| فوق هموم الدنيا وياي يا هم أنت شمالك | Above the world’s worries with me — O worry, you are your north |
 | الجرح يكبر والألم يزيد | The wound grows and the pain increases |
 | قلبي ما يقدر ينساك | My heart cannot forget you |
+| من العشق يا ناس غلطه محسوبة | From passion, O people — a counted mistake |
+| قلبي أنا الحسّاس | My heart is the sensitive one |
+| ببعد أنا وبرتاح | I’ll go far and rest |
+| دمعي على عيني قلبي امتلأ بجراح | My tear is on my eye — my heart filled with wounds |

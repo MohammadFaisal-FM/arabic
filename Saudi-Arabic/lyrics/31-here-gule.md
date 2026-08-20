@@ -13,5 +13,10 @@
 
 | Arabic | English |
 |--------|---------|
-| هيره گولێ — تعالي يا وردتي | Here gulê — come, my flower |
-| أغنية كردية شعبية (ما فيه كابشنز على الرفع) | Kurdish folk song (no captions on this upload) |
+| Dilê min pir xweşe her dem bi te re | My heart is very happy, always with you |
+| Ez dixwazim te bibînim her roj her saet | I want to see you every day, every hour |
+| Tu gula min î, ez hez dikim te | You are my flower — I love you |
+| Kurmancî here gulê | Kurmanji — go, my flower (viral refrain) |
+| Were ba min | Come to me |
+| Çavên te stêrk in, porê te wek şev e | Your eyes are stars, your hair is like night |
+| Kenê te roj e, tu bedewa min î | Your smile is the sun — you are my beauty |

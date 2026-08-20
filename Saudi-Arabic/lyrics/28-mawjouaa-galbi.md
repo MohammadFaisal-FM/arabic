@@ -20,4 +20,14 @@
 | كرهت الحب ما أريده دمّرني | I hated love — I don’t want it — it destroyed me |
 | طيّب أني وأدري طيبي بهالحال وصلني | I am kind, and I know my kindness brought me to this state |
 | كل يوم صدمة أقوى من اللي قبلها | Every day a shock stronger than the one before |
+| أني واصل بالشدايد شدّة محد واصل إلها | I’ve reached a hardship in hardships that no one else has reached |
 | ما أحد وقف لي من كنت محتاج وقفة | No one stood for me when I needed a stand |
+| الصلابة بهالناس مادري هاي الدنيا صلبة | The hardness in these people — I don’t know if this world is hard |
+| دخيل الله من الدنيا من العالم | I take refuge in God from the world, from people |
+| ربّي خلّي هذا همّي بنهاية كل ظالم | Lord, put this worry of mine at the end of every unjust one |
+| ما أريد كلشي بس أنام وراسي بارد | I want nothing — just to sleep with a cool head |
+| أني من هسّه بحياتي ما عندي ولا واحد | From now, in my life, I have no one |
+| ما أريد أتعب تعبي يطلع مو نصيبي | I don’t want to tire — my tiredness turns out not to be my fate |
+| عاجبني اسمي لحد يكلي حبيبي | I like my name — let no one call me “my love” |
+| بدون قلوب أرد أكمل باقي عمري | Without hearts I’ll finish the rest of my life |
+| وللباري ربّي راح أسلّم أمري | And to the Creator, my Lord, I will surrender my affair |

@@ -121,6 +121,16 @@
       "dialect": "Iraqi / Khaliji · tarab 2026",
       "file": "lyrics/12-lighayr-oyounak.md",
       "added": "2026-08-20"
+    },
+    {
+      "id": "13-akhfi-al-hawa",
+      "title": "أخفي الهوى (Akhfi al-Hawa)",
+      "titleAr": "أخفي الهوى",
+      "titleEn": "Akhfi al-Hawa",
+      "artist": "ألحان نجد · Alhan Najd",
+      "dialect": "MSA / classical · Najdi oud",
+      "file": "lyrics/13-akhfi-al-hawa.md",
+      "added": "2026-08-20"
     }
   ]
 }

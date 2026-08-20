@@ -18,8 +18,9 @@ Songs we share or discover on the Arabic learning journey.
 | 10 | تمنيتك يا غالي تعود (Tamannetak Ya Ghali) | غزل السواس · Ghazal Al-Sawwas | Khaliji / Iraqi · tarab 2026 | [10-tamannetak-ya-gali.md](10-tamannetak-ya-gali.md) | 2026-08-18 |
 | 11 | وينك يا عيوني (Wenak Ya Oyouni) | Unknown · تعاليل / t3alil mix | Levantine / Iraqi · shaabi tarab 2026 | [11-wenak-ya-oyouni.md](11-wenak-ya-oyouni.md) | 2026-08-20 |
 | 12 | لغير عيونك ما أتنازل عن حبي (Lighayr Oyounak) | Unknown · الشرق الأوسط mix | Iraqi / Khaliji · tarab 2026 | [12-lighayr-oyounak.md](12-lighayr-oyounak.md) | 2026-08-20 |
+| 13 | أخفي الهوى (Akhfi al-Hawa) | ألحان نجد · Alhan Najd | MSA / classical · Najdi oud | [13-akhfi-al-hawa.md](13-akhfi-al-hawa.md) | 2026-08-20 |
 
-**Total songs:** 12
+**Total songs:** 13
 
 ---
 

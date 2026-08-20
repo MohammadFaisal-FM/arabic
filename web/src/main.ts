@@ -41,6 +41,8 @@ interface CourseManifest {
 interface SongEntry {
   id: string;
   title: string;
+  titleAr?: string;
+  titleEn?: string;
   artist: string;
   dialect: string;
   file: string;
@@ -407,6 +409,17 @@ async function loadLyricsManifest(): Promise<LyricsManifest> {
   if (!res.ok) throw new Error('Failed to load lyrics');
   lyricsManifest = await res.json();
   return lyricsManifest!;
+}
+
+function songDisplayNames(song: SongEntry): { ar: string; en: string } {
+  if (song.titleAr || song.titleEn) {
+    return { ar: song.titleAr || song.title, en: song.titleEn || '' };
+  }
+  const match = song.title.match(/^(.*?)\s*\(([^)]+)\)\s*(.*)$/);
+  if (match) {
+    return { ar: match[1].trim(), en: match[2].trim() };
+  }
+  return { ar: song.title, en: '' };
 }
 
 async function loadRootsManifest(): Promise<RootsManifest> {
@@ -1245,10 +1258,13 @@ async function renderLyrics(main: HTMLElement) {
 
     const list = el('nav', 'library-list');
     manifest.songs.forEach((song) => {
+      const names = songDisplayNames(song);
       const link = el('button', 'library-link');
       link.innerHTML = `
-        <span class="library-link-title">${song.title}</span>
-        <span class="library-link-meta">${song.artist || 'Unknown'} · ${song.dialect || '—'}</span>
+        <span class="library-link-ar" dir="rtl" lang="ar">${names.ar}</span>
+        <span class="library-link-en">${names.en}</span>
+        <span class="library-link-meta">${song.dialect || '—'}</span>
+        <span class="library-link-meta">${song.artist || 'Unknown'}</span>
       `;
       link.onclick = () => {
         navigateAndApply('lyrics', song.id, 'push');

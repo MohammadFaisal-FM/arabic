@@ -5,6 +5,8 @@
     {
       "id": "01-ahla-qadar",
       "title": "أحلى قدر (A7la Qadar) — sample",
+      "titleAr": "أحلى قدر",
+      "titleEn": "A7la Qadar",
       "artist": "via A7la Qadar channel",
       "dialect": "Levantine / romantic pop",
       "file": "lyrics/01-ahla-qadar.md",
@@ -13,6 +15,8 @@
     {
       "id": "02-law-teqdar-tansani",
       "title": "لو تقدر تنساني",
+      "titleAr": "لو تقدر تنساني",
+      "titleEn": "Law Teqdar Tansani",
       "artist": "Unknown",
       "dialect": "Gulf / Najdi · romantic",
       "file": "lyrics/02-law-teqdar-tansani.md",
@@ -21,6 +25,8 @@
     {
       "id": "03-bas-wenah",
       "title": "بس وينه (Bas Wenah)",
+      "titleAr": "بس وينه",
+      "titleEn": "Bas Wenah",
       "artist": "زايد بن سابر · Zayed Bin Saber",
       "dialect": "Khaliji / Saudi · romantic",
       "file": "lyrics/03-bas-wenah.md",
@@ -29,6 +35,8 @@
     {
       "id": "04-ala-hesb-wedad",
       "title": "على حسب وداد قلبي (Ala Hesb Wedad)",
+      "titleAr": "على حسب وداد قلبي",
+      "titleEn": "Ala Hesb Wedad",
       "artist": "عبد الحليم حافظ · Abdel Halim Hafez",
       "dialect": "Egyptian · classic / shaabi",
       "file": "lyrics/04-ala-hesb-wedad.md",
@@ -37,6 +45,8 @@
     {
       "id": "05-qalbi-majrooh",
       "title": "قلبي مجروح · طب وين أروح (Qalbi Majrooh)",
+      "titleAr": "قلبي مجروح",
+      "titleEn": "Qalbi Majrooh",
       "artist": "محمد البصيلي · Mohamed Elbosely",
       "dialect": "Egyptian · shaabi / heartbreak",
       "file": "lyrics/05-qalbi-majrooh.md",
@@ -45,6 +55,8 @@
     {
       "id": "06-qallil-atab",
       "title": "قلل عتاب كثر غياب (Qallil Atab)",
+      "titleAr": "قلل عتاب كثر غياب",
+      "titleEn": "Qallil Atab",
       "artist": "محمد البصيلي · Mohamed Elbosely",
       "dialect": "Egyptian · shaabi / heartbreak",
       "file": "lyrics/06-qallil-atab.md",
@@ -53,6 +65,8 @@
     {
       "id": "07-khutwa-khutwa",
       "title": "خطوة خطوة مشّيتك (Khutwa Khutwa)",
+      "titleAr": "خطوة خطوة مشّيتك",
+      "titleEn": "Khutwa Khutwa",
       "artist": "جنى فويس · Jana Voice",
       "dialect": "Khaliji / Gulf tarab · 2026",
       "file": "lyrics/07-khutwa-khutwa.md",
@@ -61,6 +75,8 @@
     {
       "id": "08-kasir-qalbi",
       "title": "كاسر قلبي يا ابن الناس (Kasir Qalbi)",
+      "titleAr": "كاسر قلبي يا ابن الناس",
+      "titleEn": "Kasir Qalbi",
       "artist": "Unknown · موسيقى الشرق الأوسط mix",
       "dialect": "Iraqi / Khaliji · tarab 2026",
       "file": "lyrics/08-kasir-qalbi.md",
@@ -69,6 +85,8 @@
     {
       "id": "09-raghm-kull-shay",
       "title": "رغم كل شيء ما جرحتك (Raghm Kull Shay)",
+      "titleAr": "رغم كل شيء ما جرحتك",
+      "titleEn": "Raghm Kull Shay",
       "artist": "Unknown · مزاج mix",
       "dialect": "Iraqi / Khaliji · tarab 2026",
       "file": "lyrics/09-raghm-kull-shay.md",
@@ -77,10 +95,22 @@
     {
       "id": "10-tamannetak-ya-gali",
       "title": "تمنيتك يا غالي تعود (Tamannetak Ya Ghali)",
+      "titleAr": "تمنيتك يا غالي تعود",
+      "titleEn": "Tamannetak Ya Ghali",
       "artist": "غزل السواس · Ghazal Al-Sawwas",
       "dialect": "Khaliji / Iraqi · tarab 2026",
       "file": "lyrics/10-tamannetak-ya-gali.md",
       "added": "2026-08-18"
+    },
+    {
+      "id": "11-wenak-ya-oyouni",
+      "title": "وينك يا عيوني (Wenak Ya Oyouni)",
+      "titleAr": "وينك يا عيوني",
+      "titleEn": "Wenak Ya Oyouni",
+      "artist": "Unknown · تعاليل / t3alil mix",
+      "dialect": "Levantine / Iraqi · shaabi tarab 2026",
+      "file": "lyrics/11-wenak-ya-oyouni.md",
+      "added": "2026-08-20"
     }
   ]
 }

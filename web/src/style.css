@@ -1028,6 +1028,20 @@ html, body {
   font-family: inherit;
 }
 
+.library-link-ar {
+  display: block;
+  font-size: 1.08rem;
+  font-weight: 700;
+  line-height: 1.45;
+}
+
+.library-link-en {
+  display: block;
+  margin-top: 0.12rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
 .library-link-title {
   display: block;
   font-size: 0.95rem;
@@ -1036,7 +1050,7 @@ html, body {
 
 .library-link-meta {
   display: block;
-  margin-top: 0.2rem;
+  margin-top: 0.18rem;
   font-size: 0.76rem;
   color: var(--muted);
 }

@@ -16,8 +16,9 @@ Songs we share or discover on the Arabic learning journey.
 | 8 | كاسر قلبي يا ابن الناس (Kasir Qalbi) | Unknown · موسيقى الشرق الأوسط mix | Iraqi / Khaliji · tarab 2026 | [08-kasir-qalbi.md](08-kasir-qalbi.md) | 2026-08-17 |
 | 9 | رغم كل شيء ما جرحتك (Raghm Kull Shay) | Unknown · مزاج mix | Iraqi / Khaliji · tarab 2026 | [09-raghm-kull-shay.md](09-raghm-kull-shay.md) | 2026-08-17 |
 | 10 | تمنيتك يا غالي تعود (Tamannetak Ya Ghali) | غزل السواس · Ghazal Al-Sawwas | Khaliji / Iraqi · tarab 2026 | [10-tamannetak-ya-gali.md](10-tamannetak-ya-gali.md) | 2026-08-18 |
+| 11 | وينك يا عيوني (Wenak Ya Oyouni) | Unknown · تعاليل / t3alil mix | Levantine / Iraqi · shaabi tarab 2026 | [11-wenak-ya-oyouni.md](11-wenak-ya-oyouni.md) | 2026-08-20 |
 
-**Total songs:** 10
+**Total songs:** 11
 
 ---
 

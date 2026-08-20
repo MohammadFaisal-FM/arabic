@@ -384,9 +384,33 @@ function fallbackToRootsList() {
 
 function fallbackToLyricsList() {
   activeSongFile = '';
-  navigate('lyrics', undefined, 'replace');
+  navigate('lyrics', activeSearchQ ? { q: activeSearchQ } : undefined, 'replace');
   renderNav();
   void renderMain().then(() => restoreCurrentScroll());
+}
+
+function foldSearchText(s: string): string {
+  return s
+    .toLowerCase()
+    .normalize('NFKD')
+    .replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '')
+    .replace(/[أإآٱ]/g, 'ا')
+    .replace(/ى/g, 'ي')
+    .replace(/ة/g, 'ه')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function songMatchesQuery(song: SongEntry, q: string): boolean {
+  if (!q) return true;
+  const names = songDisplayNames(song);
+  const hay = foldSearchText(
+    [song.title, names.ar, names.en, song.artist, song.dialect, song.id].join(' ')
+  );
+  return foldSearchText(q)
+    .split(' ')
+    .filter(Boolean)
+    .every((token) => hay.includes(token));
 }
 
 async function fetchText(file: string): Promise<string> {
@@ -1240,38 +1264,75 @@ async function renderLyrics(main: HTMLElement) {
   try {
     const manifest = await loadLyricsManifest();
     main.innerHTML = '';
-    main.className = 'main lyrics-library-page';
+    main.className = 'main lyrics-library-page roots-library-page';
 
+    const tools = el('div', 'roots-tools');
+    const search = document.createElement('input');
+    search.type = 'search';
+    search.className = 'roots-search';
+    search.placeholder = 'Search song, artist, Arabic or English…';
+    search.setAttribute('aria-label', 'Search lyrics');
+    search.dir = 'auto';
+    search.value = activeSearchQ;
+    tools.appendChild(search);
+    main.appendChild(tools);
+
+    const listHost = el('div', 'roots-index-host');
     const header = el('div', 'library-header');
     header.innerHTML = `
       <h2 class="page-title">Library</h2>
       <p class="page-sub">${manifest.songs.length} song${manifest.songs.length === 1 ? '' : 's'}</p>
     `;
-    main.appendChild(header);
+    listHost.appendChild(header);
+    main.appendChild(listHost);
 
     if (manifest.songs.length === 0) {
       const empty = el('div', 'card');
       empty.innerHTML = '<p>No songs yet. Songs you add will appear here.</p>';
-      main.appendChild(empty);
+      listHost.appendChild(empty);
       return;
     }
 
-    const list = el('nav', 'library-list');
-    manifest.songs.forEach((song) => {
-      const names = songDisplayNames(song);
-      const link = el('button', 'library-link');
-      link.innerHTML = `
-        <span class="library-link-ar" dir="rtl" lang="ar">${names.ar}</span>
-        <span class="library-link-en">${names.en}</span>
-        <span class="library-link-meta">${song.dialect || '—'}</span>
-        <span class="library-link-meta">${song.artist || 'Unknown'}</span>
-      `;
-      link.onclick = () => {
-        navigateAndApply('lyrics', song.id, 'push');
-      };
-      list.appendChild(link);
+    const paint = () => {
+      listHost.querySelector('.library-list')?.remove();
+      listHost.querySelector('.roots-empty')?.remove();
+      const q = search.value;
+      const matches = manifest.songs.filter((song) => songMatchesQuery(song, q));
+      const countEl = header.querySelector('.page-sub');
+      if (countEl) {
+        countEl.textContent = q.trim()
+          ? `${matches.length} of ${manifest.songs.length} songs`
+          : `${manifest.songs.length} song${manifest.songs.length === 1 ? '' : 's'}`;
+      }
+      if (matches.length === 0) {
+        const empty = el('p', 'roots-empty', 'No songs match your search.');
+        listHost.appendChild(empty);
+        return;
+      }
+      const list = el('nav', 'library-list');
+      matches.forEach((song) => {
+        const names = songDisplayNames(song);
+        const link = el('button', 'library-link');
+        link.innerHTML = `
+          <span class="library-link-ar" dir="rtl" lang="ar">${names.ar}</span>
+          <span class="library-link-en">${names.en}</span>
+          <span class="library-link-meta">${song.dialect || '—'}</span>
+          <span class="library-link-meta">${song.artist || 'Unknown'}</span>
+        `;
+        link.onclick = () => {
+          navigateAndApply('lyrics', song.id, 'push');
+        };
+        list.appendChild(link);
+      });
+      listHost.appendChild(list);
+    };
+
+    search.addEventListener('input', () => {
+      activeSearchQ = search.value;
+      setHash('lyrics', { q: search.value });
+      paint();
     });
-    main.appendChild(list);
+    paint();
   } catch {
     main.innerHTML = '<p class="loading">Could not load lyrics library.</p>';
   }
@@ -1298,11 +1359,31 @@ async function renderLyricsSong(main: HTMLElement) {
       goBackOrFallback(() => fallbackToLyricsList());
     });
 
+    const lineSearch = document.createElement('input');
+    lineSearch.type = 'search';
+    lineSearch.className = 'roots-search lyrics-line-search';
+    lineSearch.placeholder = 'Search these lines…';
+    lineSearch.setAttribute('aria-label', 'Search this song');
+    lineSearch.dir = 'auto';
+    shell.appendChild(lineSearch);
+
     const linesWrap = el('div', 'lyrics-lines');
-    if (parsed.lines.length === 0) {
-      linesWrap.innerHTML = '<p class="lyrics-empty">No line pairs yet. Add an <code>Arabic · English</code> table to this song file.</p>';
-    } else {
-      parsed.lines.forEach((line) => {
+    const paintLines = () => {
+      linesWrap.innerHTML = '';
+      if (parsed.lines.length === 0) {
+        linesWrap.innerHTML = '<p class="lyrics-empty">No line pairs yet. Add an <code>Arabic · English</code> table to this song file.</p>';
+        return;
+      }
+      const q = foldSearchText(lineSearch.value);
+      const shown = parsed.lines.filter((line) => {
+        if (!q) return true;
+        return foldSearchText(`${line.arabic} ${line.english}`).includes(q);
+      });
+      if (shown.length === 0) {
+        linesWrap.innerHTML = '<p class="lyrics-empty">No lines match this search.</p>';
+        return;
+      }
+      shown.forEach((line) => {
         const row = el('div', 'lyrics-line');
         row.innerHTML = `
           <p class="lyrics-ar" dir="rtl" lang="ar">${line.arabic}</p>
@@ -1310,7 +1391,10 @@ async function renderLyricsSong(main: HTMLElement) {
         `;
         linesWrap.appendChild(row);
       });
-    }
+      wireArabicAudio(linesWrap);
+    };
+    lineSearch.addEventListener('input', paintLines);
+    paintLines();
     shell.appendChild(linesWrap);
 
     if (parsed.footerMd.trim()) {

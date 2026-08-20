@@ -1103,6 +1103,10 @@ html, body {
   color: #8f89ad;
 }
 
+.lyrics-line-search {
+  margin: 0.7rem 0 0.85rem;
+}
+
 .lyrics-headline {
   margin: 1rem 0 0.85rem;
   text-align: center;

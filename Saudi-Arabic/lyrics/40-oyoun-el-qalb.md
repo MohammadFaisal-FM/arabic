@@ -14,4 +14,5 @@
 | Arabic | English |
 |--------|---------|
 | عيون القلب | Eyes of the heart |
-| (this cut is an instrumental remix) | (this cut is an instrumental remix) |
+| هذه النسخة توزيع موسيقي بدون غناء | This cut is an instrumental remix with no singing |
+| اللحن معروف باسم عيون القلب | The melody is known as Oyoun El Qalb |

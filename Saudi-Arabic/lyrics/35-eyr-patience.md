@@ -13,4 +13,4 @@
 
 | Arabic | English |
 |--------|---------|
-| (wordless vocals) | No lyrics — original instrumental |
+| بدون كلمات — مقطوعة موسيقية | No words — instrumental |

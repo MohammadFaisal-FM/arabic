@@ -3,9 +3,8 @@
 | Field | Value |
 |-------|-------|
 | **Artist** | Elyanna (Hijazi Remix) |
-| **Dialect / style** | Egyptian / Hijazi remix |
+| **Dialect / style** | Egyptian / Hijazi remix (عمرو دياب) |
 | **Source** | [YouTube](https://www.youtube.com/watch?v=oRwqGwcaxfc) |
-| **Note** | Captions disabled — well-known Amr Diab / Elyanna chorus mentioned. |
 | **Added** | 2026-08-20 |
 
 ---
@@ -16,5 +15,9 @@
 |--------|---------|
 | إنت إيه | What are you |
 | اللي مخلياني كده | That’s making me like this |
-| حطيتِ عليّا | You landed on me |
+| حطّيت عليّا | You came down on me |
 | وليه كده | And why like this |
+| خدتني من إيدي | You took me by the hand |
+| ودختني في البعد | And you made me dizzy in the distance |
+| يا اللي جوايا | O you who are inside me |
+| ما تسيبنيش لحالي | Don’t leave me on my own |

@@ -5,7 +5,7 @@
 | **Artist** | Moxura · palmtherapysounds.com |
 | **Dialect / style** | English · instrumental / deep house |
 | **Source** | [YouTube](https://www.youtube.com/watch?v=GPD6fDajWzo) |
-| **Note** | Captions disabled on this upload. |
+| **Note** | This cut has no singing. |
 | **Added** | 2026-08-20 |
 
 ---
@@ -14,4 +14,4 @@
 
 | Arabic | English |
 |--------|---------|
-| (instrumental) | No lyrics — instrumental track |
+| بدون كلمات — مقطوعة موسيقية | No words — instrumental |

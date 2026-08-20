@@ -13,4 +13,4 @@
 
 | Arabic | English |
 |--------|---------|
-| (instrumental) | No lyrics — saket (quiet) instrumental |
+| بدون كلمات — مقطوعة موسيقية | No words — instrumental |

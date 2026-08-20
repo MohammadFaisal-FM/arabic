@@ -13,5 +13,5 @@
 
 | Arabic | English |
 |--------|---------|
-| Here gulê | Come, my flower |
-| (Kurdish folk — no captions on this upload) | (Kurdish folk — no captions on this upload) |
+| هيره گولێ — تعالي يا وردتي | Here gulê — come, my flower |
+| أغنية كردية شعبية (ما فيه كابشنز على الرفع) | Kurdish folk song (no captions on this upload) |
